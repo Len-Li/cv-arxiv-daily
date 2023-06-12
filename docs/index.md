@@ -1245,6 +1245,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**|Bipasha Sen et.al.|[2306.06093](http://arxiv.org/abs/2306.06093)|null|
+|**2023-06-09**|**GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields**|Barbara Roessle et.al.|[2306.06044](http://arxiv.org/abs/2306.06044)|null|
+|**2023-06-09**|**RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models**|Xingchen Zhou et.al.|[2306.05668](http://arxiv.org/abs/2306.05668)|null|
 |**2023-06-08**|**LU-NeRF: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs**|Zezhou Cheng et.al.|[2306.05410](http://arxiv.org/abs/2306.05410)|null|
 |**2023-06-08**|**Enhance-NeRF: Multiple Performance Evaluation for Neural Radiance Fields**|Qianqiu Tan et.al.|[2306.05303](http://arxiv.org/abs/2306.05303)|null|
 |**2023-06-06**|**Towards Visual Foundational Models of Physical Scenes**|Chethan Parameshwara et.al.|[2306.03727](http://arxiv.org/abs/2306.03727)|null|
@@ -1632,6 +1635,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**SENS: Sketch-based Implicit Neural Shape Modeling**|Alexandre Binninger et.al.|[2306.06088](http://arxiv.org/abs/2306.06088)|null|
+|**2023-06-09**|**GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields**|Barbara Roessle et.al.|[2306.06044](http://arxiv.org/abs/2306.06044)|null|
+|**2023-06-09**|**DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds**|Tao Ma et.al.|[2306.06023](http://arxiv.org/abs/2306.06023)|**[link](https://github.com/pjlab-adg/detzero)**|
+|**2023-06-09**|**HVOX: Scalable Interferometric Synthesis and Analysis of Spherical Sky Maps**|Sepand Kashani et.al.|[2306.06007](http://arxiv.org/abs/2306.06007)|null|
+|**2023-06-09**|**Bridging Scales: a Hybrid Model to Simulate Vascular Tumor Growth and Treatment Response**|Tobias Duswald et.al.|[2306.05994](http://arxiv.org/abs/2306.05994)|null|
+|**2023-06-09**|**3D objects and scenes classification, recognition, segmentation, and reconstruction using 3D point cloud data: A review**|Omar Elharrouss et.al.|[2306.05978](http://arxiv.org/abs/2306.05978)|null|
+|**2023-06-09**|**On the numerical integration of the multidimensional Kuramoto model}**|Marcus A. M. de Aguiar et.al.|[2306.05939](http://arxiv.org/abs/2306.05939)|null|
+|**2023-06-09**|**Depth-dependent resolution quantification in 3D fluorescence microscopy**|Neil Wright et.al.|[2306.05918](http://arxiv.org/abs/2306.05918)|null|
+|**2023-06-09**|**TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses**|Xuesong Chen et.al.|[2306.05888](http://arxiv.org/abs/2306.05888)|null|
+|**2023-06-09**|**Transfer Function Optimization for Comparative Volume Rendering**|Christoph Neuhauser et.al.|[2306.05885](http://arxiv.org/abs/2306.05885)|null|
 |**2023-06-08**|**Tracking Everything Everywhere All at Once**|Qianqian Wang et.al.|[2306.05422](http://arxiv.org/abs/2306.05422)|null|
 |**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421](http://arxiv.org/abs/2306.05421)|null|
 |**2023-06-08**|**2D Supervised Monocular 3D Object Detection by Global-to-Local 3D Reconstruction**|Jiawei He et.al.|[2306.05418](http://arxiv.org/abs/2306.05418)|null|
