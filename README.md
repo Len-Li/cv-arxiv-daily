@@ -1264,6 +1264,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Binary Radiance Fields**|Seungjoo Shin et.al.|[2306.07581](http://arxiv.org/abs/2306.07581)|null|
 |**2023-06-10**|**From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm**|Kun Zhou et.al.|[2306.06388](http://arxiv.org/abs/2306.06388)|null|
 |**2023-06-09**|**NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**|Ali Karami et.al.|[2306.06300](http://arxiv.org/abs/2306.06300)|**[link](https://github.com/3dom-fbk/nerfbk)**|
 |**2023-06-09**|**HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**|Bipasha Sen et.al.|[2306.06093](http://arxiv.org/abs/2306.06093)|null|
@@ -1658,6 +1659,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Neural Scene Chronology**|Haotong Lin et.al.|[2306.07970](http://arxiv.org/abs/2306.07970)|null|
+|**2023-06-13**|**Observational Signatures of Circumbinary Discs I: Kinematics**|Josh Calcino et.al.|[2306.07909](http://arxiv.org/abs/2306.07909)|null|
+|**2023-06-13**|**Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data**|Stanislaw Szymanowicz et.al.|[2306.07881](http://arxiv.org/abs/2306.07881)|null|
+|**2023-06-13**|**Fock State Sampling Method -- Characteristic temperature of maximal fluctuations for interacting bosons in box potentials**|M. B. Kruk et.al.|[2306.07816](http://arxiv.org/abs/2306.07816)|null|
+|**2023-06-13**|**Automated 3D Pre-Training for Molecular Property Prediction**|Xu Wang et.al.|[2306.07812](http://arxiv.org/abs/2306.07812)|null|
+|**2023-06-13**|**Low-Resource White-Box Semantic Segmentation of Supporting Towers on 3D Point Clouds via Signature Shape Identification**|Diogo Lavado et.al.|[2306.07809](http://arxiv.org/abs/2306.07809)|null|
+|**2023-06-13**|**All pure bipartite entangled states can be semi-self-tested with only one measurement setting on each party**|Lijinzhi Lin et.al.|[2306.07755](http://arxiv.org/abs/2306.07755)|null|
+|**2023-06-13**|**Particle-resolved study of the onset of turbulence**|Eshita Joshi et.al.|[2306.07711](http://arxiv.org/abs/2306.07711)|null|
+|**2023-06-13**|**NeuS-PIR: Learning Relightable Neural Surface using Pre-Integrated Rendering**|Shi Mao et.al.|[2306.07632](http://arxiv.org/abs/2306.07632)|null|
+|**2023-06-13**|**Time Resolved Investigation of High Repetition Rate Gas Jet Target For High Harmonic Generation**|Balázs Nagyillés et.al.|[2306.07631](http://arxiv.org/abs/2306.07631)|null|
 |**2023-06-12**|**Scalable 3D Captioning with Pretrained Models**|Tiange Luo et.al.|[2306.07279](http://arxiv.org/abs/2306.07279)|null|
 |**2023-06-12**|**Reconstructing Heterogeneous Cryo-EM Molecular Structures by Decomposing Them into Polymer Chains**|Bongjin Koo et.al.|[2306.07274](http://arxiv.org/abs/2306.07274)|null|
 |**2023-06-12**|**Strokes2Surface: Recovering Curve Networks From 4D Architectural Design Sketches**|S. Rasoulzadeh et.al.|[2306.07220](http://arxiv.org/abs/2306.07220)|null|
