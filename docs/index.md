@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.13
+## Updated on 2023.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1643,7 +1643,7 @@ layout: default
 |**2023-06-12**|**InstructP2P: Learning to Edit 3D Point Clouds with Text Instructions**|Jiale Xu et.al.|[2306.07154](http://arxiv.org/abs/2306.07154)|null|
 |**2023-06-12**|**Topology Repairing of Disconnected Pulmonary Airways and Vessels: Baselines and a Dataset**|Ziqiao Weng et.al.|[2306.07089](http://arxiv.org/abs/2306.07089)|null|
 |**2023-06-12**|**MaskedFusion360: Reconstruct LiDAR Data by Querying Camera Features**|Royden Wagner et.al.|[2306.07087](http://arxiv.org/abs/2306.07087)|**[link](https://github.com/kit-mrt/masked-fusion-360)**|
-|**2023-06-12**|**Microscopic analysis of proximity-induced superconductivity and metallization effects in superconductor-germanium hole nanowires**|Christoph Adelsberger et.al.|[2306.06944](http://arxiv.org/abs/2306.06944)|null|
+|**2023-06-13**|**Microscopic analysis of proximity-induced superconductivity and metallization effects in superconductor-germanium hole nanowires**|Christoph Adelsberger et.al.|[2306.06944](http://arxiv.org/abs/2306.06944)|null|
 |**2023-06-12**|**On the thermodynamic geometry of one-dimensional spin-3/2 lattice models**|Riekshika Sanwari et.al.|[2306.06876](http://arxiv.org/abs/2306.06876)|null|
 |**2023-06-12**|**Volume-DROID: A Real-Time Implementation of Volumetric Mapping with DROID-SLAM**|Peter Stratton et.al.|[2306.06850](http://arxiv.org/abs/2306.06850)|**[link](https://github.com/peterstratton/volume-droid)**|
 |**2023-06-12**|**Modeling Magnetically Channeled Winds in 3D: I. Isothermal Simulations of a Magnetic O Supergiant**|Sethupathy Subramanian et.al.|[2306.06835](http://arxiv.org/abs/2306.06835)|null|
