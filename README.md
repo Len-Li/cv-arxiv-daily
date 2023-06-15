@@ -1271,7 +1271,7 @@
 |**2023-06-09**|**GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields**|Barbara Roessle et.al.|[2306.06044](http://arxiv.org/abs/2306.06044)|null|
 |**2023-06-09**|**RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models**|Xingchen Zhou et.al.|[2306.05668](http://arxiv.org/abs/2306.05668)|null|
 |**2023-06-08**|**LU-NeRF: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs**|Zezhou Cheng et.al.|[2306.05410](http://arxiv.org/abs/2306.05410)|null|
-|**2023-06-08**|**Enhance-NeRF: Multiple Performance Evaluation for Neural Radiance Fields**|Qianqiu Tan et.al.|[2306.05303](http://arxiv.org/abs/2306.05303)|**[link](https://github.com/tanqianq/enhance-nerf)**|
+|**2023-06-08**|**Enhance-NeRF: Multiple Performance Evaluation for Neural Radiance Fields**|Qianqiu Tan et.al.|[2306.05303](http://arxiv.org/abs/2306.05303)|null|
 |**2023-06-06**|**Towards Visual Foundational Models of Physical Scenes**|Chethan Parameshwara et.al.|[2306.03727](http://arxiv.org/abs/2306.03727)|null|
 |**2023-06-06**|**Human 3D Avatar Modeling with Implicit Neural Representation: A Brief Survey**|Mingyang Sun et.al.|[2306.03576](http://arxiv.org/abs/2306.03576)|null|
 |**2023-06-05**|**H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation**|Chenxing Jiang et.al.|[2306.03207](http://arxiv.org/abs/2306.03207)|**[link](https://github.com/sysu-star/h2-mapping)**|
@@ -1660,7 +1660,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-06-13**|**Neural Scene Chronology**|Haotong Lin et.al.|[2306.07970](http://arxiv.org/abs/2306.07970)|null|
-|**2023-06-13**|**Observational Signatures of Circumbinary Discs I: Kinematics**|Josh Calcino et.al.|[2306.07909](http://arxiv.org/abs/2306.07909)|null|
+|**2023-06-13**|**Observational Signatures of Circumbinary Discs I: Kinematics**|Josh Calcino et.al.|[2306.07909](http://arxiv.org/abs/2306.07909)|**[link](https://github.com/cpinte/pymcfost)**|
 |**2023-06-13**|**Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data**|Stanislaw Szymanowicz et.al.|[2306.07881](http://arxiv.org/abs/2306.07881)|null|
 |**2023-06-13**|**Fock State Sampling Method -- Characteristic temperature of maximal fluctuations for interacting bosons in box potentials**|M. B. Kruk et.al.|[2306.07816](http://arxiv.org/abs/2306.07816)|null|
 |**2023-06-13**|**Automated 3D Pre-Training for Molecular Property Prediction**|Xu Wang et.al.|[2306.07812](http://arxiv.org/abs/2306.07812)|null|
