@@ -1245,9 +1245,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-15**|**UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video**|Zhi-Hao Lin et.al.|[2306.09349](http://arxiv.org/abs/2306.09349)|null|
+|**2023-06-13**|**DORSal: Diffusion for Object-centric Representations of Scenes $\textit{et al.}$**|Allan Jabri et.al.|[2306.08068](http://arxiv.org/abs/2306.08068)|null|
 |**2023-06-13**|**Binary Radiance Fields**|Seungjoo Shin et.al.|[2306.07581](http://arxiv.org/abs/2306.07581)|null|
 |**2023-06-10**|**From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm**|Kun Zhou et.al.|[2306.06388](http://arxiv.org/abs/2306.06388)|null|
-|**2023-06-09**|**NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**|Ali Karami et.al.|[2306.06300](http://arxiv.org/abs/2306.06300)|**[link](https://github.com/3dom-fbk/nerfbk)**|
+|**2023-06-15**|**NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**|Ali Karami et.al.|[2306.06300](http://arxiv.org/abs/2306.06300)|**[link](https://github.com/3dom-fbk/nerfbk)**|
 |**2023-06-09**|**HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**|Bipasha Sen et.al.|[2306.06093](http://arxiv.org/abs/2306.06093)|null|
 |**2023-06-09**|**GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields**|Barbara Roessle et.al.|[2306.06044](http://arxiv.org/abs/2306.06044)|null|
 |**2023-06-09**|**RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models**|Xingchen Zhou et.al.|[2306.05668](http://arxiv.org/abs/2306.05668)|null|
@@ -1638,6 +1640,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-15**|**Seeing the World through Your Eyes**|Hadi Alzayer et.al.|[2306.09348](http://arxiv.org/abs/2306.09348)|null|
+|**2023-06-15**|**Segment Any Point Cloud Sequences by Distilling Vision Foundation Models**|Youquan Liu et.al.|[2306.09347](http://arxiv.org/abs/2306.09347)|**[link](https://github.com/youquanl/segment-any-point-cloud)**|
+|**2023-06-15**|**Generative Proxemics: A Prior for 3D Social Interaction from Images**|Lea Müller et.al.|[2306.09337](http://arxiv.org/abs/2306.09337)|null|
+|**2023-06-15**|**DreamHuman: Animatable 3D Avatars from Text**|Nikos Kolotouros et.al.|[2306.09329](http://arxiv.org/abs/2306.09329)|null|
+|**2023-06-15**|**Infinite Photorealistic Worlds using Procedural Generation**|Alexander Raistrick et.al.|[2306.09310](http://arxiv.org/abs/2306.09310)|null|
+|**2023-06-15**|**Exploring Magnetism of Lead-free Halide Double Perovskites: A High-Throughput First-Principles Study**|Utkarsh Singh et.al.|[2306.09300](http://arxiv.org/abs/2306.09300)|null|
+|**2023-06-15**|**A9 Intersection Dataset: All You Need for Urban 3D Camera-LiDAR Roadside Perception**|Walter Zimmer et.al.|[2306.09266](http://arxiv.org/abs/2306.09266)|null|
+|**2023-06-15**|**Harvard Glaucoma Fairness: A Retinal Nerve Disease Dataset for Fairness Learning and Fair Identity Normalization**|Yan Luo et.al.|[2306.09264](http://arxiv.org/abs/2306.09264)|**[link](https://github.com/luoyan407/harvard-gf)**|
+|**2023-06-15**|**Neural World Models for Computer Vision**|Anthony Hu et.al.|[2306.09179](http://arxiv.org/abs/2306.09179)|null|
+|**2023-06-15**|**UniOcc: Unifying Vision-Centric 3D Occupancy Prediction with Geometric and Semantic Rendering**|Mingjie Pan et.al.|[2306.09117](http://arxiv.org/abs/2306.09117)|null|
 |**2023-06-13**|**Neural Scene Chronology**|Haotong Lin et.al.|[2306.07970](http://arxiv.org/abs/2306.07970)|null|
 |**2023-06-13**|**Observational Signatures of Circumbinary Discs I: Kinematics**|Josh Calcino et.al.|[2306.07909](http://arxiv.org/abs/2306.07909)|**[link](https://github.com/cpinte/pymcfost)**|
 |**2023-06-13**|**Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data**|Stanislaw Szymanowicz et.al.|[2306.07881](http://arxiv.org/abs/2306.07881)|null|
