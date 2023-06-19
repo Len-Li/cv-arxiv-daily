@@ -1245,6 +1245,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-15**|**Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**|Lu Yu et.al.|[2306.09551](http://arxiv.org/abs/2306.09551)|null|
 |**2023-06-16**|**UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video**|Zhi-Hao Lin et.al.|[2306.09349](http://arxiv.org/abs/2306.09349)|null|
 |**2023-06-13**|**DORSal: Diffusion for Object-centric Representations of Scenes $\textit{et al.}$**|Allan Jabri et.al.|[2306.08068](http://arxiv.org/abs/2306.08068)|null|
 |**2023-06-13**|**Binary Radiance Fields**|Seungjoo Shin et.al.|[2306.07581](http://arxiv.org/abs/2306.07581)|null|
@@ -1640,6 +1641,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation**|Yuqi Wang et.al.|[2306.10013](http://arxiv.org/abs/2306.10013)|null|
+|**2023-06-16**|**Damping of MHD Turbulence in A Partially Ionized Medium**|Yue Hu et.al.|[2306.10010](http://arxiv.org/abs/2306.10010)|null|
+|**2023-06-16**|**Collective scattering in lattice-trapped Sr atoms via dipole-dipole interactions**|Shengnan Zhang et.al.|[2306.09937](http://arxiv.org/abs/2306.09937)|null|
+|**2023-06-16**|**Evaluating hardware differences for crowdsourcing and traditional recruiting methods**|Paul-David Joshua Zuercher et.al.|[2306.09913](http://arxiv.org/abs/2306.09913)|null|
+|**2023-06-16**|**AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation**|Yifei Zeng et.al.|[2306.09864](http://arxiv.org/abs/2306.09864)|null|
+|**2023-06-16**|**Efficient Search and Detection of Relevant Plant Parts using Semantics-Aware Active Vision**|Akshay K. Burusa et.al.|[2306.09801](http://arxiv.org/abs/2306.09801)|null|
+|**2023-06-16**|**End-to-End Vectorized HD-map Construction with Piecewise Bezier Curve**|Limeng Qiao et.al.|[2306.09700](http://arxiv.org/abs/2306.09700)|null|
+|**2023-06-16**|**Self-assembled Frameworks Solid with Turbostratic Stacked Crystalline Layers -- A Frustrated 3D Crystal Lattice**|Hongmei Qin et.al.|[2306.09688](http://arxiv.org/abs/2306.09688)|null|
+|**2023-06-16**|**EVOPOSE: A Recursive Transformer For 3D Human Pose Estimation With Kinematic Structure Priors**|Yaqi Zhang et.al.|[2306.09615](http://arxiv.org/abs/2306.09615)|null|
+|**2023-06-15**|**Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**|Lu Yu et.al.|[2306.09551](http://arxiv.org/abs/2306.09551)|null|
 |**2023-06-15**|**Seeing the World through Your Eyes**|Hadi Alzayer et.al.|[2306.09348](http://arxiv.org/abs/2306.09348)|null|
 |**2023-06-15**|**Segment Any Point Cloud Sequences by Distilling Vision Foundation Models**|Youquan Liu et.al.|[2306.09347](http://arxiv.org/abs/2306.09347)|**[link](https://github.com/youquanl/segment-any-point-cloud)**|
 |**2023-06-15**|**Generative Proxemics: A Prior for 3D Social Interaction from Images**|Lea Müller et.al.|[2306.09337](http://arxiv.org/abs/2306.09337)|null|
