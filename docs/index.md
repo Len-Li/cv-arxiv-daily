@@ -1245,6 +1245,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**NeRF synthesis with shading guidance**|Chenbin Li et.al.|[2306.11556](http://arxiv.org/abs/2306.11556)|null|
+|**2023-06-17**|**MA-NeRF: Motion-Assisted Neural Radiance Fields for Face Synthesis from Sparse Images**|Weichen Zhang et.al.|[2306.10350](http://arxiv.org/abs/2306.10350)|null|
 |**2023-06-15**|**Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**|Lu Yu et.al.|[2306.09551](http://arxiv.org/abs/2306.09551)|null|
 |**2023-06-16**|**UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video**|Zhi-Hao Lin et.al.|[2306.09349](http://arxiv.org/abs/2306.09349)|null|
 |**2023-06-13**|**DORSal: Diffusion for Object-centric Representations of Scenes $\textit{et al.}$**|Allan Jabri et.al.|[2306.08068](http://arxiv.org/abs/2306.08068)|null|
@@ -1641,6 +1643,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**Low-complexity Multidimensional DCT Approximations**|V. A. Coutinho et.al.|[2306.11724](http://arxiv.org/abs/2306.11724)|null|
+|**2023-06-20**|**Diffusion with Forward Models: Solving Stochastic Inverse Problems Without Direct Supervision**|Ayush Tewari et.al.|[2306.11719](http://arxiv.org/abs/2306.11719)|null|
+|**2023-06-20**|**Meta-Analysis of Transfer Learning for Segmentation of Brain Lesions**|Sovesh Mohapatra et.al.|[2306.11714](http://arxiv.org/abs/2306.11714)|null|
+|**2023-06-20**|**Giant effective magnetic moments of chiral phonons from orbit-lattice coupling**|Swati Chaudhary et.al.|[2306.11630](http://arxiv.org/abs/2306.11630)|null|
+|**2023-06-20**|**Dynamic image reconstruction with motion priors in application to 3D magnetic particle imaging**|Christina Brandt et.al.|[2306.11625](http://arxiv.org/abs/2306.11625)|null|
+|**2023-06-20**|**Visual Analysis of Large Multi-Field AMR Data on GPUs Using Interactive Volume Lines**|Stefan Zellmann et.al.|[2306.11612](http://arxiv.org/abs/2306.11612)|null|
+|**2023-06-20**|**Learning to Model and Plan for Wheeled Mobility on Vertically Challenging Terrain**|Aniket Datar et.al.|[2306.11611](http://arxiv.org/abs/2306.11611)|null|
+|**2023-06-20**|**NeRF synthesis with shading guidance**|Chenbin Li et.al.|[2306.11556](http://arxiv.org/abs/2306.11556)|null|
+|**2023-06-20**|**Metallic ruthenium ilmenites: first-principles study of MgRuO $_3$ and CdRuO$_3$**|Seong-Hoon Jang et.al.|[2306.11542](http://arxiv.org/abs/2306.11542)|null|
+|**2023-06-20**|**Audio-Driven 3D Facial Animation from In-the-Wild Videos**|Liying Lu et.al.|[2306.11541](http://arxiv.org/abs/2306.11541)|null|
 |**2023-06-16**|**PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation**|Yuqi Wang et.al.|[2306.10013](http://arxiv.org/abs/2306.10013)|null|
 |**2023-06-16**|**Damping of MHD Turbulence in A Partially Ionized Medium**|Yue Hu et.al.|[2306.10010](http://arxiv.org/abs/2306.10010)|null|
 |**2023-06-16**|**Collective scattering in lattice-trapped Sr atoms via dipole-dipole interactions**|Shengnan Zhang et.al.|[2306.09937](http://arxiv.org/abs/2306.09937)|null|
