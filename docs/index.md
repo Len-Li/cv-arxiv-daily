@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.22
+## Updated on 2023.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1654,7 +1654,7 @@ layout: default
 |**2023-06-21**|**Evidence of Radius Inflation in Radiative GCM Models of WASP-76b due to the Advection of Potential Temperature**|Felix Sainsbury-Martinez et.al.|[2306.12352](http://arxiv.org/abs/2306.12352)|null|
 |**2023-06-21**|**Electrochemical etching strategy for shaping monolithic 3D structures from 4H-SiC wafers**|André Hochreiter et.al.|[2306.12311](http://arxiv.org/abs/2306.12311)|null|
 |**2023-06-21**|**Computationally efficient human body modelling for real time motion comfort assessment**|Raj Desai et.al.|[2306.12279](http://arxiv.org/abs/2306.12279)|null|
-|**2023-06-21**|**ScenarioNet: Open-Source Platform for Large-Scale Traffic Scenario Simulation and Modeling**|Quanyi Li et.al.|[2306.12241](http://arxiv.org/abs/2306.12241)|null|
+|**2023-06-22**|**ScenarioNet: Open-Source Platform for Large-Scale Traffic Scenario Simulation and Modeling**|Quanyi Li et.al.|[2306.12241](http://arxiv.org/abs/2306.12241)|null|
 |**2023-06-20**|**Low-complexity Multidimensional DCT Approximations**|V. A. Coutinho et.al.|[2306.11724](http://arxiv.org/abs/2306.11724)|null|
 |**2023-06-20**|**Diffusion with Forward Models: Solving Stochastic Inverse Problems Without Direct Supervision**|Ayush Tewari et.al.|[2306.11719](http://arxiv.org/abs/2306.11719)|null|
 |**2023-06-20**|**Meta-Analysis of Transfer Learning for Segmentation of Brain Lesions**|Sovesh Mohapatra et.al.|[2306.11714](http://arxiv.org/abs/2306.11714)|null|
