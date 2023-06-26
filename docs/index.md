@@ -1647,6 +1647,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-23**|**LightGlue: Local Feature Matching at Light Speed**|Philipp Lindenberger et.al.|[2306.13643](http://arxiv.org/abs/2306.13643)|**[link](https://github.com/cvg/lightglue)**|
+|**2023-06-23**|**OpenMask3D: Open-Vocabulary 3D Instance Segmentation**|Ayça Takmaz et.al.|[2306.13631](http://arxiv.org/abs/2306.13631)|null|
+|**2023-06-23**|**The star-square relation and the generalized star-triangle relation from 3d supersymmetric dualities I**|Mustafa Mullahasanoglu et.al.|[2306.13581](http://arxiv.org/abs/2306.13581)|null|
+|**2023-06-23**|**Improved Flexible Coaxial Ribbon Cable for High-Density Superconducting Arrays**|Jennifer Pearl Smith et.al.|[2306.13574](http://arxiv.org/abs/2306.13574)|null|
+|**2023-06-23**|**The MI-Motion Dataset and Benchmark for 3D Multi-Person Motion Prediction**|Xiaogang Peng et.al.|[2306.13566](http://arxiv.org/abs/2306.13566)|**[link](https://github.com/xiaogangpeng/socialtgcn)**|
+|**2023-06-23**|**A coupled approach to predict cone-cracks in spherical indentation tests with smooth or rough indenters**|Maria Rosaria Marulli et.al.|[2306.13539](http://arxiv.org/abs/2306.13539)|null|
+|**2023-06-23**|**Limitations of Out-of-Distribution Detection in 3D Medical Image Segmentation**|Anton Vasiliuk et.al.|[2306.13528](http://arxiv.org/abs/2306.13528)|null|
+|**2023-06-23**|**Efficient Online Processing with Deep Neural Networks**|Lukas Hedegaard et.al.|[2306.13474](http://arxiv.org/abs/2306.13474)|**[link](https://github.com/LukasHedegaard/continual-inference)**|
+|**2023-06-23**|**3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation**|Shizhan Gong et.al.|[2306.13465](http://arxiv.org/abs/2306.13465)|null|
+|**2023-06-23**|**DreamEditor: Text-Driven 3D Scene Editing with Neural Fields**|Jingyu Zhuang et.al.|[2306.13455](http://arxiv.org/abs/2306.13455)|null|
 |**2023-06-22**|**Toward Automated Detection of Microbleeds with Anatomical Scale Localization: A Complete Clinical Diagnosis Support Using Deep Learning**|Jun-Ho Kim et.al.|[2306.13020](http://arxiv.org/abs/2306.13020)|null|
 |**2023-06-22**|**Axion Insulator State in Hundred-Nanometer-Thick Magnetic Topological Insulator Sandwich Heterostructures**|Deyi Zhuo et.al.|[2306.13016](http://arxiv.org/abs/2306.13016)|null|
 |**2023-06-22**|**Siamese SIREN: Audio Compression with Implicit Neural Representations**|Luca A. Lanzendörfer et.al.|[2306.12957](http://arxiv.org/abs/2306.12957)|null|
