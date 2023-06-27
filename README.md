@@ -1668,6 +1668,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**RVT: Robotic View Transformer for 3D Object Manipulation**|Ankit Goyal et.al.|[2306.14896](http://arxiv.org/abs/2306.14896)|null|
+|**2023-06-26**|**CoarsenConf: Equivariant Coarsening with Aggregated Attention for Molecular Conformer Generation**|Danny Reidenbach et.al.|[2306.14852](http://arxiv.org/abs/2306.14852)|null|
+|**2023-06-26**|**Correlated electronic structure, orbital-selective behavior, and magnetic correlations in double-layer La $_3$Ni$_2$O$_7$ under pressure**|D. A. Shilenko et.al.|[2306.14841](http://arxiv.org/abs/2306.14841)|null|
+|**2023-06-26**|**MOVESe: MOVablE and Moving LiDAR Scene Segmentation with Improved Navigation in Seg-label free settings**|Prashant Kumar et.al.|[2306.14812](http://arxiv.org/abs/2306.14812)|null|
+|**2023-06-26**|**MotionGPT: Human Motion as a Foreign Language**|Biao Jiang et.al.|[2306.14795](http://arxiv.org/abs/2306.14795)|**[link](https://github.com/openmotionlab/motiongpt)**|
+|**2023-06-26**|**MedLSAM: Localize and Segment Anything Model for 3D Medical Images**|Wenhui Lei et.al.|[2306.14752](http://arxiv.org/abs/2306.14752)|**[link](https://github.com/openmedlab/medlsam)**|
+|**2023-06-26**|**Error correcting 2D-3D cascaded network for myocardial infarct scar segmentation on late gadolinium enhancement cardiac magnetic resonance images**|Matthias Schwab et.al.|[2306.14725](http://arxiv.org/abs/2306.14725)|null|
+|**2023-06-26**|**Self-supervised novel 2D view synthesis of large-scale scenes with efficient multi-scale voxel carving**|Alexandra Budisteanu et.al.|[2306.14709](http://arxiv.org/abs/2306.14709)|null|
+|**2023-06-26**|**Multi-Agent Deep Reinforcement Learning for Dynamic Avatar Migration in AIoT-enabled Vehicular Metaverses with Trajectory Prediction**|Junlong Chen et.al.|[2306.14683](http://arxiv.org/abs/2306.14683)|null|
+|**2023-06-26**|**Multi-View Attention Learning for Residual Disease Prediction of Ovarian Cancer**|Xiangneng Gao et.al.|[2306.14646](http://arxiv.org/abs/2306.14646)|null|
 |**2023-06-23**|**LightGlue: Local Feature Matching at Light Speed**|Philipp Lindenberger et.al.|[2306.13643](http://arxiv.org/abs/2306.13643)|**[link](https://github.com/cvg/lightglue)**|
 |**2023-06-23**|**OpenMask3D: Open-Vocabulary 3D Instance Segmentation**|Ayça Takmaz et.al.|[2306.13631](http://arxiv.org/abs/2306.13631)|null|
 |**2023-06-23**|**The star-square relation and the generalized star-triangle relation from 3d supersymmetric dualities I**|Mustafa Mullahasanoglu et.al.|[2306.13581](http://arxiv.org/abs/2306.13581)|null|
