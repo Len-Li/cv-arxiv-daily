@@ -1245,6 +1245,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203](http://arxiv.org/abs/2306.15203)|null|
 |**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760](http://arxiv.org/abs/2306.12760)|null|
 |**2023-06-21**|**Local 3D Editing via 3D Distillation of CLIP Knowledge**|Junha Hyung et.al.|[2306.12570](http://arxiv.org/abs/2306.12570)|null|
 |**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423](http://arxiv.org/abs/2306.12423)|**[link](https://github.com/qiuyu96/carver)**|
@@ -1647,6 +1648,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Symphonize 3D Semantic Scene Completion with Contextual Instance Queries**|Haoyi Jiang et.al.|[2306.15670](http://arxiv.org/abs/2306.15670)|**[link](https://github.com/hustvl/symphonies)**|
+|**2023-06-27**|**Utilizing multimodal microscopy to reconstruct Si/SiGe interfacial atomic disorder and infer its impacts on qubit variability**|Luis Fabián Peña et.al.|[2306.15646](http://arxiv.org/abs/2306.15646)|null|
+|**2023-06-27**|**Retrospective: A Scalable Processing-in-Memory Accelerator for Parallel Graph Processing**|Junwhan Ahn et.al.|[2306.15577](http://arxiv.org/abs/2306.15577)|null|
+|**2023-06-27**|**A Survey on Deep Learning Hardware Accelerators for Heterogeneous HPC Platforms**|Cristina Silvano et.al.|[2306.15552](http://arxiv.org/abs/2306.15552)|null|
+|**2023-06-27**|**Fast and Automatic 3D Modeling of Antenna Structure Using CNN-LSTM Network for Efficient Data Generation**|Zhaohui Wei et.al.|[2306.15530](http://arxiv.org/abs/2306.15530)|null|
+|**2023-06-27**|**Meshes Meet Voxels: Abdominal Organ Segmentation via Diffeomorphic Deformations**|Fabian Bongratz et.al.|[2306.15515](http://arxiv.org/abs/2306.15515)|null|
+|**2023-06-27**|**Self-supervised Learning of Event-guided Video Frame Interpolation for Rolling Shutter Frames**|Yunfan Lu et.al.|[2306.15507](http://arxiv.org/abs/2306.15507)|null|
+|**2023-06-27**|**Permanent magnet systems to the study of cells in microslide channels**|Leon Abelmann et.al.|[2306.15459](http://arxiv.org/abs/2306.15459)|null|
+|**2023-06-27**|**Statistics of a 2D immersed granular gas magnetically forced in volume**|Jean-Baptiste Gorce et.al.|[2306.15456](http://arxiv.org/abs/2306.15456)|null|
+|**2023-06-27**|**Early Planet Formation in Embedded Disks (eDisk). II. Limited Dust Settling and Prominent Snow Surfaces in the Edge-on Class I Disk IRAS 04302+2247**|Zhe-Yu Daniel Lin et.al.|[2306.15423](http://arxiv.org/abs/2306.15423)|null|
 |**2023-06-26**|**RVT: Robotic View Transformer for 3D Object Manipulation**|Ankit Goyal et.al.|[2306.14896](http://arxiv.org/abs/2306.14896)|null|
 |**2023-06-26**|**CoarsenConf: Equivariant Coarsening with Aggregated Attention for Molecular Conformer Generation**|Danny Reidenbach et.al.|[2306.14852](http://arxiv.org/abs/2306.14852)|null|
 |**2023-06-26**|**Correlated electronic structure, orbital-selective behavior, and magnetic correlations in double-layer La $_3$Ni$_2$O$_7$ under pressure**|D. A. Shilenko et.al.|[2306.14841](http://arxiv.org/abs/2306.14841)|null|
