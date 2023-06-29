@@ -1669,6 +1669,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-28**|**DiffComplete: Diffusion-based Generative 3D Shape Completion**|Ruihang Chu et.al.|[2306.16329](http://arxiv.org/abs/2306.16329)|null|
+|**2023-06-28**|**Point2Point : A Framework for Efficient Deep Learning on Hilbert sorted Point Clouds with applications in Spatio-Temporal Occupancy Prediction**|Athrva Atul Pandhare et.al.|[2306.16306](http://arxiv.org/abs/2306.16306)|null|
+|**2023-06-28**|**Over the Air Computing for Satellite Networks in 6G**|Marc Martinez-Gost et.al.|[2306.16303](http://arxiv.org/abs/2306.16303)|null|
+|**2023-06-28**|**Assessment of alternative covariance functions for joint input-state estimation via Gaussian Process latent force models in structural dynamics**|Silvia Vettori et.al.|[2306.16302](http://arxiv.org/abs/2306.16302)|null|
+|**2023-06-28**|**Path Planning with Potential Field-Based Obstacle Avoidance in a 3D Environment by an Unmanned Aerial Vehicle**|Ana Batinovic et.al.|[2306.16276](http://arxiv.org/abs/2306.16276)|null|
+|**2023-06-28**|**Multi-IMU with Online Self-Consistency for Freehand 3D Ultrasound Reconstruction**|Mingyuan Luo et.al.|[2306.16197](http://arxiv.org/abs/2306.16197)|null|
+|**2023-06-28**|**Ultrastrong Magnon-Magnon Coupling and Chiral Symmetry Breaking in a 3D Magnonic Metamaterial**|Troy Dion et.al.|[2306.16159](http://arxiv.org/abs/2306.16159)|null|
+|**2023-06-28**|**Points for Energy Renovation (PointER): A LiDAR-Derived Point Cloud Dataset of One Million English Buildings Linked to Energy Characteristics**|Sebastian Krapf et.al.|[2306.16020](http://arxiv.org/abs/2306.16020)|**[link](https://github.com/kdmayer/pointer)**|
+|**2023-06-28**|**Statistics of modal condensation in nonlinear multimode fibers**|Mario Zitelli et.al.|[2306.15995](http://arxiv.org/abs/2306.15995)|null|
+|**2023-06-28**|**Fine-grained 3D object recognition: an approach and experiments**|Junhyung Jo et.al.|[2306.15919](http://arxiv.org/abs/2306.15919)|null|
 |**2023-06-27**|**Symphonize 3D Semantic Scene Completion with Contextual Instance Queries**|Haoyi Jiang et.al.|[2306.15670](http://arxiv.org/abs/2306.15670)|**[link](https://github.com/hustvl/symphonies)**|
 |**2023-06-27**|**Utilizing multimodal microscopy to reconstruct Si/SiGe interfacial atomic disorder and infer its impacts on qubit variability**|Luis Fabián Peña et.al.|[2306.15646](http://arxiv.org/abs/2306.15646)|null|
 |**2023-06-27**|**Retrospective: A Scalable Processing-in-Memory Accelerator for Parallel Graph Processing**|Junwhan Ahn et.al.|[2306.15577](http://arxiv.org/abs/2306.15577)|null|
