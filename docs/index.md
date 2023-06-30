@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.29
+## Updated on 2023.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1653,7 +1653,7 @@ layout: default
 |**2023-06-28**|**Over the Air Computing for Satellite Networks in 6G**|Marc Martinez-Gost et.al.|[2306.16303](http://arxiv.org/abs/2306.16303)|null|
 |**2023-06-28**|**Assessment of alternative covariance functions for joint input-state estimation via Gaussian Process latent force models in structural dynamics**|Silvia Vettori et.al.|[2306.16302](http://arxiv.org/abs/2306.16302)|null|
 |**2023-06-28**|**Path Planning with Potential Field-Based Obstacle Avoidance in a 3D Environment by an Unmanned Aerial Vehicle**|Ana Batinovic et.al.|[2306.16276](http://arxiv.org/abs/2306.16276)|null|
-|**2023-06-28**|**Multi-IMU with Online Self-Consistency for Freehand 3D Ultrasound Reconstruction**|Mingyuan Luo et.al.|[2306.16197](http://arxiv.org/abs/2306.16197)|null|
+|**2023-06-29**|**Multi-IMU with Online Self-Consistency for Freehand 3D Ultrasound Reconstruction**|Mingyuan Luo et.al.|[2306.16197](http://arxiv.org/abs/2306.16197)|null|
 |**2023-06-28**|**Ultrastrong Magnon-Magnon Coupling and Chiral Symmetry Breaking in a 3D Magnonic Metamaterial**|Troy Dion et.al.|[2306.16159](http://arxiv.org/abs/2306.16159)|null|
 |**2023-06-28**|**Points for Energy Renovation (PointER): A LiDAR-Derived Point Cloud Dataset of One Million English Buildings Linked to Energy Characteristics**|Sebastian Krapf et.al.|[2306.16020](http://arxiv.org/abs/2306.16020)|**[link](https://github.com/kdmayer/pointer)**|
 |**2023-06-28**|**Statistics of modal condensation in nonlinear multimode fibers**|Mario Zitelli et.al.|[2306.15995](http://arxiv.org/abs/2306.15995)|null|
