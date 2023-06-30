@@ -1245,6 +1245,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541](http://arxiv.org/abs/2306.16541)|null|
 |**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203](http://arxiv.org/abs/2306.15203)|null|
 |**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760](http://arxiv.org/abs/2306.12760)|null|
 |**2023-06-21**|**Local 3D Editing via 3D Distillation of CLIP Knowledge**|Junha Hyung et.al.|[2306.12570](http://arxiv.org/abs/2306.12570)|null|
@@ -1648,6 +1649,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**ID-Pose: Sparse-view Camera Pose Estimation by Inverting Diffusion Models**|Weihao Cheng et.al.|[2306.17140](http://arxiv.org/abs/2306.17140)|null|
+|**2023-06-29**|**$3$D Farey graph, lambda lengths and $SL_2$ -tilings**|Anna Felikson et.al.|[2306.17118](http://arxiv.org/abs/2306.17118)|null|
+|**2023-06-29**|**Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation**|Zibo Zhao et.al.|[2306.17115](http://arxiv.org/abs/2306.17115)|null|
+|**2023-06-29**|**Numerical and Experimental Study on the Addition of Surface Roughness to Micro-Propellers**|Justin P Cooke et.al.|[2306.17087](http://arxiv.org/abs/2306.17087)|null|
+|**2023-06-29**|**Optimal binary gratings for multi-wavelength magneto-optical traps**|Oliver S. Burrow et.al.|[2306.17080](http://arxiv.org/abs/2306.17080)|null|
+|**2023-06-29**|**First-principles analysis of the interplay between electronic structure and volume change in colquiriite compounds during Li intercalation**|A. F. Baumann et.al.|[2306.17029](http://arxiv.org/abs/2306.17029)|null|
+|**2023-06-29**|**Evaluation of Virtual Acoustic Environments with Different Acoustic Level of Detail**|Stefan Fichna et.al.|[2306.17012](http://arxiv.org/abs/2306.17012)|null|
+|**2023-06-29**|**Registration between DCT and EBSD datasets for multiphase microstructures**|James A. D. Ball et.al.|[2306.17011](http://arxiv.org/abs/2306.17011)|null|
+|**2023-06-29**|**milliFlow: Scene Flow Estimation on mmWave Radar Point Cloud for Human Motion Sensing**|Fangqiang Ding et.al.|[2306.17010](http://arxiv.org/abs/2306.17010)|null|
+|**2023-06-29**|**MotionTrack: End-to-End Transformer-based Multi-Object Tracing with LiDAR-Camera Fusion**|Ce Zhang et.al.|[2306.17000](http://arxiv.org/abs/2306.17000)|null|
 |**2023-06-28**|**DiffComplete: Diffusion-based Generative 3D Shape Completion**|Ruihang Chu et.al.|[2306.16329](http://arxiv.org/abs/2306.16329)|null|
 |**2023-06-28**|**Point2Point : A Framework for Efficient Deep Learning on Hilbert sorted Point Clouds with applications in Spatio-Temporal Occupancy Prediction**|Athrva Atul Pandhare et.al.|[2306.16306](http://arxiv.org/abs/2306.16306)|null|
 |**2023-06-28**|**Over the Air Computing for Satellite Networks in 6G**|Marc Martinez-Gost et.al.|[2306.16303](http://arxiv.org/abs/2306.16303)|null|
