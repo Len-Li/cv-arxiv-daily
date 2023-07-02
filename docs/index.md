@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.01
+## Updated on 2023.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1651,7 +1651,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-29**|**ID-Pose: Sparse-view Camera Pose Estimation by Inverting Diffusion Models**|Weihao Cheng et.al.|[2306.17140](http://arxiv.org/abs/2306.17140)|null|
 |**2023-06-29**|**$3$D Farey graph, lambda lengths and $SL_2$ -tilings**|Anna Felikson et.al.|[2306.17118](http://arxiv.org/abs/2306.17118)|null|
-|**2023-06-29**|**Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation**|Zibo Zhao et.al.|[2306.17115](http://arxiv.org/abs/2306.17115)|null|
+|**2023-06-29**|**Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation**|Zibo Zhao et.al.|[2306.17115](http://arxiv.org/abs/2306.17115)|**[link](https://github.com/neuralcarver/michelangelo)**|
 |**2023-06-29**|**Numerical and Experimental Study on the Addition of Surface Roughness to Micro-Propellers**|Justin P Cooke et.al.|[2306.17087](http://arxiv.org/abs/2306.17087)|null|
 |**2023-06-29**|**Optimal binary gratings for multi-wavelength magneto-optical traps**|Oliver S. Burrow et.al.|[2306.17080](http://arxiv.org/abs/2306.17080)|null|
 |**2023-06-29**|**First-principles analysis of the interplay between electronic structure and volume change in colquiriite compounds during Li intercalation**|A. F. Baumann et.al.|[2306.17029](http://arxiv.org/abs/2306.17029)|null|
