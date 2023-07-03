@@ -986,7 +986,7 @@
 |**2023-03-29**|**NerVE: Neural Volumetric Edges for Parametric Curve Extraction from Point Cloud**|Xiangyu Zhu et.al.|[2303.16465](http://arxiv.org/abs/2303.16465)|null|
 |**2023-03-24**|**PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View**|Ze Shi et.al.|[2303.14095](http://arxiv.org/abs/2303.14095)|**[link](https://github.com/zafirshi/panovpr)**|
 |**2023-03-23**|**Semantic Image Attack for Visual Model Diagnosis**|Jinqi Luo et.al.|[2303.13010](http://arxiv.org/abs/2303.13010)|null|
-|**2023-03-22**|**Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation**|Heng Yang et.al.|[2303.12246](http://arxiv.org/abs/2303.12246)|null|
+|**2023-03-22**|**Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation**|Heng Yang et.al.|[2303.12246](http://arxiv.org/abs/2303.12246)|**[link](https://github.com/nvlabs/conformalkeypoint)**|
 |**2023-03-21**|**RN-Net: Reservoir Nodes-Enabled Neuromorphic Vision Sensing Network**|Sangmin Yoo et.al.|[2303.10770](http://arxiv.org/abs/2303.10770)|null|
 |**2023-03-17**|**ShaRPy: Shape Reconstruction and Hand Pose Estimation from RGB-D with Uncertainty**|Vanessa Wirth et.al.|[2303.10042](http://arxiv.org/abs/2303.10042)|null|
 |**2023-03-15**|**Descriptor Distillation for Efficient Multi-Robot SLAM**|Xiyue Guo et.al.|[2303.08420](http://arxiv.org/abs/2303.08420)|null|
@@ -1369,7 +1369,7 @@
 |**2023-04-16**|**CAT-NeRF: Constancy-Aware Tx $^2$ Former for Dynamic Body Modeling**|Haidong Zhu et.al.|[2304.07915](http://arxiv.org/abs/2304.07915)|**[link](https://github.com/haidongz-usc/CAT-NeRF)**|
 |**2023-04-16**|**SeaThru-NeRF: Neural Radiance Fields in Scattering Media**|Deborah Levy et.al.|[2304.07743](http://arxiv.org/abs/2304.07743)|null|
 |**2023-04-14**|**UVA: Towards Unified Volumetric Avatar for View Synthesis, Pose rendering, Geometry and Texture Editing**|Jinlong Fan et.al.|[2304.06969](http://arxiv.org/abs/2304.06969)|null|
-|**2023-04-17**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714](http://arxiv.org/abs/2304.06714)|null|
+|**2023-04-17**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714](http://arxiv.org/abs/2304.06714)|**[link](https://github.com/Lakonik/SSDNeRF)**|
 |**2023-04-13**|**Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields**|Jonathan T. Barron et.al.|[2304.06706](http://arxiv.org/abs/2304.06706)|null|
 |**2023-04-13**|**NeRFVS: Neural Radiance Fields for Free View Synthesis via Geometry Scaffolds**|Chen Yang et.al.|[2304.06287](http://arxiv.org/abs/2304.06287)|null|
 |**2023-04-12**|**NutritionVerse-Thin: An Optimized Strategy for Enabling Improved Rendering of 3D Thin Food Models**|Chi-en Amy Tai et.al.|[2304.05620](http://arxiv.org/abs/2304.05620)|null|
@@ -1525,7 +1525,7 @@
 |**2022-12-15**|**SteerNeRF: Accelerating NeRF Rendering via Smooth Viewpoint Trajectory**|Sicheng Li et.al.|[2212.08476](http://arxiv.org/abs/2212.08476)|null|
 |**2022-12-16**|**MEIL-NeRF: Memory-Efficient Incremental Learning of Neural Radiance Fields**|Jaeyoung Chung et.al.|[2212.08328](http://arxiv.org/abs/2212.08328)|null|
 |**2022-12-15**|**NeRF-Art: Text-Driven Neural Radiance Fields Stylization**|Can Wang et.al.|[2212.08070](http://arxiv.org/abs/2212.08070)|**[link](https://github.com/cassiePython/NeRF-Art)**|
-|**2022-12-15**|**Real-Time Neural Light Field on Mobile Devices**|Junli Cao et.al.|[2212.08057](http://arxiv.org/abs/2212.08057)|null|
+|**2022-12-15**|**Real-Time Neural Light Field on Mobile Devices**|Junli Cao et.al.|[2212.08057](http://arxiv.org/abs/2212.08057)|**[link](https://github.com/snap-research/mobiler2l)**|
 |**2022-12-14**|**NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior**|Wenjing Bian et.al.|[2212.07388](http://arxiv.org/abs/2212.07388)|**[link](https://github.com/ActiveVisionLab/nope-nerf)**|
 |**2022-12-08**|**GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields**|Alessandro Ruzzi et.al.|[2212.04823](http://arxiv.org/abs/2212.04823)|**[link](https://github.com/alessandroruzzi/gazenerf)**|
 |**2022-12-09**|**4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**|Zhongshu Wang et.al.|[2212.04701](http://arxiv.org/abs/2212.04701)|**[link](https://github.com/frozoul/4k-nerf)**|
@@ -1697,11 +1697,11 @@
 |**2023-06-27**|**Fast and Automatic 3D Modeling of Antenna Structure Using CNN-LSTM Network for Efficient Data Generation**|Zhaohui Wei et.al.|[2306.15530](http://arxiv.org/abs/2306.15530)|null|
 |**2023-06-27**|**Meshes Meet Voxels: Abdominal Organ Segmentation via Diffeomorphic Deformations**|Fabian Bongratz et.al.|[2306.15515](http://arxiv.org/abs/2306.15515)|null|
 |**2023-06-27**|**Self-supervised Learning of Event-guided Video Frame Interpolation for Rolling Shutter Frames**|Yunfan Lu et.al.|[2306.15507](http://arxiv.org/abs/2306.15507)|null|
-|**2023-06-27**|**Permanent magnet systems to the study of cells in microslide channels**|Leon Abelmann et.al.|[2306.15459](http://arxiv.org/abs/2306.15459)|null|
+|**2023-06-27**|**Permanent magnet systems to the study of cells in microslide channels**|Leon Abelmann et.al.|[2306.15459](http://arxiv.org/abs/2306.15459)|**[link](https://github.com/leonabelmann/trajectory)**|
 |**2023-06-27**|**Statistics of a 2D immersed granular gas magnetically forced in volume**|Jean-Baptiste Gorce et.al.|[2306.15456](http://arxiv.org/abs/2306.15456)|null|
 |**2023-06-27**|**Early Planet Formation in Embedded Disks (eDisk). II. Limited Dust Settling and Prominent Snow Surfaces in the Edge-on Class I Disk IRAS 04302+2247**|Zhe-Yu Daniel Lin et.al.|[2306.15423](http://arxiv.org/abs/2306.15423)|null|
 |**2023-06-26**|**RVT: Robotic View Transformer for 3D Object Manipulation**|Ankit Goyal et.al.|[2306.14896](http://arxiv.org/abs/2306.14896)|null|
-|**2023-06-26**|**CoarsenConf: Equivariant Coarsening with Aggregated Attention for Molecular Conformer Generation**|Danny Reidenbach et.al.|[2306.14852](http://arxiv.org/abs/2306.14852)|null|
+|**2023-06-26**|**CoarsenConf: Equivariant Coarsening with Aggregated Attention for Molecular Conformer Generation**|Danny Reidenbach et.al.|[2306.14852](http://arxiv.org/abs/2306.14852)|**[link](https://github.com/ask-berkeley/coarsenconf)**|
 |**2023-06-26**|**Correlated electronic structure, orbital-selective behavior, and magnetic correlations in double-layer La $_3$Ni$_2$O$_7$ under pressure**|D. A. Shilenko et.al.|[2306.14841](http://arxiv.org/abs/2306.14841)|null|
 |**2023-06-26**|**MOVESe: MOVablE and Moving LiDAR Scene Segmentation with Improved Navigation in Seg-label free settings**|Prashant Kumar et.al.|[2306.14812](http://arxiv.org/abs/2306.14812)|null|
 |**2023-06-26**|**MotionGPT: Human Motion as a Foreign Language**|Biao Jiang et.al.|[2306.14795](http://arxiv.org/abs/2306.14795)|**[link](https://github.com/openmotionlab/motiongpt)**|
@@ -1750,7 +1750,7 @@
 |**2023-06-20**|**NeRF synthesis with shading guidance**|Chenbin Li et.al.|[2306.11556](http://arxiv.org/abs/2306.11556)|null|
 |**2023-06-20**|**Metallic ruthenium ilmenites: first-principles study of MgRuO $_3$ and CdRuO$_3$**|Seong-Hoon Jang et.al.|[2306.11542](http://arxiv.org/abs/2306.11542)|null|
 |**2023-06-20**|**Audio-Driven 3D Facial Animation from In-the-Wild Videos**|Liying Lu et.al.|[2306.11541](http://arxiv.org/abs/2306.11541)|null|
-|**2023-06-16**|**PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation**|Yuqi Wang et.al.|[2306.10013](http://arxiv.org/abs/2306.10013)|null|
+|**2023-06-16**|**PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation**|Yuqi Wang et.al.|[2306.10013](http://arxiv.org/abs/2306.10013)|**[link](https://github.com/robertwyq/panoocc)**|
 |**2023-06-16**|**Damping of MHD Turbulence in A Partially Ionized Medium**|Yue Hu et.al.|[2306.10010](http://arxiv.org/abs/2306.10010)|null|
 |**2023-06-16**|**Collective scattering in lattice-trapped Sr atoms via dipole-dipole interactions**|Shengnan Zhang et.al.|[2306.09937](http://arxiv.org/abs/2306.09937)|null|
 |**2023-06-16**|**Evaluating hardware differences for crowdsourcing and traditional recruiting methods**|Paul-David Joshua Zuercher et.al.|[2306.09913](http://arxiv.org/abs/2306.09913)|null|
