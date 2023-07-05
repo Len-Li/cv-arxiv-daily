@@ -1651,6 +1651,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-03**|**Real-time Monocular Full-body Capture in World Space via Sequential Proxy-to-Motion Learning**|Yuxiang Zhang et.al.|[2307.01200](http://arxiv.org/abs/2307.01200)|null|
+|**2023-07-03**|**Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis**|Salman Ul Hassan Dar et.al.|[2307.01148](http://arxiv.org/abs/2307.01148)|null|
+|**2023-07-03**|**Cross-modality Attention Adapter: A Glioma Segmentation Fine-tuning Method for SAM Using Multimodal Brain MR Images**|Xiaoyu Shi et.al.|[2307.01124](http://arxiv.org/abs/2307.01124)|null|
+|**2023-07-03**|**Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization**|Federico Rollo et.al.|[2307.01121](http://arxiv.org/abs/2307.01121)|null|
+|**2023-07-03**|**MeT: A Graph Transformer for Semantic Segmentation of 3D Meshes**|Giuseppe Vecchio et.al.|[2307.01115](http://arxiv.org/abs/2307.01115)|null|
+|**2023-07-03**|**Hierarchical Interpolative Factorization for Self Green's Function in 3D Modified Poisson-Boltzmann Equations**|Yihui Tu et.al.|[2307.01060](http://arxiv.org/abs/2307.01060)|null|
+|**2023-07-03**|**SynthCal: A Synthetic Benchmarking Pipeline to Compare Camera Calibration Algorithms**|Lala Shakti Swarup Ray et.al.|[2307.01013](http://arxiv.org/abs/2307.01013)|null|
+|**2023-07-03**|**A revised graduated cylindrical shell model and its application to a prominence eruption**|Qing-Min Zhang et.al.|[2307.00943](http://arxiv.org/abs/2307.00943)|null|
+|**2023-07-03**|**A Biomimetic Fingerprint for Robotic Tactile Sensing**|Oscar Alberto Juiña Quilachamín et.al.|[2307.00937](http://arxiv.org/abs/2307.00937)|null|
+|**2023-07-03**|**VINECS: Video-based Neural Character Skinning**|Zhouyingcheng Liao et.al.|[2307.00842](http://arxiv.org/abs/2307.00842)|null|
 |**2023-06-30**|**Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**|Guocheng Qian et.al.|[2306.17843](http://arxiv.org/abs/2306.17843)|null|
 |**2023-06-30**|**Act3D: Infinite Resolution Action Detection Transformer for Robotic Manipulation**|Theophile Gervet et.al.|[2306.17817](http://arxiv.org/abs/2306.17817)|null|
 |**2023-06-30**|**On the Tremaine-Weinberg method: how much can we trust gas tracers to measure pattern speeds?**|Olga Borodina et.al.|[2306.17780](http://arxiv.org/abs/2306.17780)|null|
