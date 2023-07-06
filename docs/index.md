@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.05
+## Updated on 2023.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1659,7 +1659,7 @@ layout: default
 |**2023-07-03**|**Hierarchical Interpolative Factorization for Self Green's Function in 3D Modified Poisson-Boltzmann Equations**|Yihui Tu et.al.|[2307.01060](http://arxiv.org/abs/2307.01060)|null|
 |**2023-07-03**|**SynthCal: A Synthetic Benchmarking Pipeline to Compare Camera Calibration Algorithms**|Lala Shakti Swarup Ray et.al.|[2307.01013](http://arxiv.org/abs/2307.01013)|null|
 |**2023-07-03**|**A revised graduated cylindrical shell model and its application to a prominence eruption**|Qing-Min Zhang et.al.|[2307.00943](http://arxiv.org/abs/2307.00943)|null|
-|**2023-07-03**|**A Biomimetic Fingerprint for Robotic Tactile Sensing**|Oscar Alberto Juiña Quilachamín et.al.|[2307.00937](http://arxiv.org/abs/2307.00937)|null|
+|**2023-07-04**|**A Biomimetic Fingerprint for Robotic Tactile Sensing**|Oscar Alberto Juiña Quilachamín et.al.|[2307.00937](http://arxiv.org/abs/2307.00937)|null|
 |**2023-07-03**|**VINECS: Video-based Neural Character Skinning**|Zhouyingcheng Liao et.al.|[2307.00842](http://arxiv.org/abs/2307.00842)|null|
 |**2023-06-30**|**Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**|Guocheng Qian et.al.|[2306.17843](http://arxiv.org/abs/2306.17843)|null|
 |**2023-06-30**|**Act3D: Infinite Resolution Action Detection Transformer for Robotic Manipulation**|Theophile Gervet et.al.|[2306.17817](http://arxiv.org/abs/2306.17817)|null|
