@@ -1651,6 +1651,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-05**|**3D Multi-Robot Exploration with a Two-Level Coordination Strategy and Prioritization**|Luigi Freda et.al.|[2307.02417](http://arxiv.org/abs/2307.02417)|null|
+|**2023-07-05**|**A multiple spacecraft detection of the 2 April 2022 M-class flare and filament eruption during the first close Solar Orbiter perihelion**|M. Janvier et.al.|[2307.02396](http://arxiv.org/abs/2307.02396)|null|
+|**2023-07-05**|**GAFAR: Graph-Attention Feature-Augmentation for Registration A Fast and Light-weight Point Set Registration Algorithm**|Ludwig Mohr et.al.|[2307.02339](http://arxiv.org/abs/2307.02339)|**[link](https://github.com/mordecaimalignatius/gafar)**|
+|**2023-07-05**|**Recommended Implementation of Quantitative Susceptibility Mapping for Clinical Research in The Brain: A Consensus of the ISMRM Electro-Magnetic Tissue Properties Study Group**|Berkin Bilgic et.al.|[2307.02306](http://arxiv.org/abs/2307.02306)|null|
+|**2023-07-05**|**SVDM: Single-View Diffusion Model for Pseudo-Stereo 3D Object Detection**|Yuguang Shi et.al.|[2307.02270](http://arxiv.org/abs/2307.02270)|null|
+|**2023-07-05**|**Modelling dynamically driven global cloud formation microphysics in the HAT-P-1b atmosphere**|Elspeth K. H. Lee et.al.|[2307.02268](http://arxiv.org/abs/2307.02268)|null|
+|**2023-07-05**|**An Overview of the NET Playground -- A Heterogeneous, Multi-Functional Network Test Bed**|Paul Schwenteck et.al.|[2307.02239](http://arxiv.org/abs/2307.02239)|null|
+|**2023-07-05**|**Local flow measurements around flexible filaments under rotating magnetic field**|Andris P. Stikuts et.al.|[2307.02228](http://arxiv.org/abs/2307.02228)|null|
+|**2023-07-05**|**Neural Fields for Interactive Visualization of Statistical Dependencies in 3D Simulation Ensembles**|Fatemeh Farokhmanesh et.al.|[2307.02203](http://arxiv.org/abs/2307.02203)|null|
+|**2023-07-05**|**Construction of the free-boundary 3D incompressible Euler flow under limited regularity**|Mustafa Sencer Aydin et.al.|[2307.02201](http://arxiv.org/abs/2307.02201)|null|
 |**2023-07-03**|**Real-time Monocular Full-body Capture in World Space via Sequential Proxy-to-Motion Learning**|Yuxiang Zhang et.al.|[2307.01200](http://arxiv.org/abs/2307.01200)|null|
 |**2023-07-03**|**Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis**|Salman Ul Hassan Dar et.al.|[2307.01148](http://arxiv.org/abs/2307.01148)|null|
 |**2023-07-03**|**Cross-modality Attention Adapter: A Glioma Segmentation Fine-tuning Method for SAM Using Multimodal Brain MR Images**|Xiaoyu Shi et.al.|[2307.01124](http://arxiv.org/abs/2307.01124)|null|
