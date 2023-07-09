@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.08
+## Updated on 2023.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1653,7 +1653,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-06**|**Contiguous Patches of Translational Hydration Dynamics on the Surface of K-Ras**|Farhana Syed et.al.|[2307.03179](http://arxiv.org/abs/2307.03179)|null|
 |**2023-07-06**|**EffLiFe: Efficient Light Field Generation via Hierarchical Sparse Gradient Descent**|Yijie Deng et.al.|[2307.03017](http://arxiv.org/abs/2307.03017)|null|
-|**2023-07-06**|**Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation**|José Morano et.al.|[2307.03008](http://arxiv.org/abs/2307.03008)|null|
+|**2023-07-06**|**Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation**|José Morano et.al.|[2307.03008](http://arxiv.org/abs/2307.03008)|**[link](https://github.com/j-morano/multimodal-ssl-fpn)**|
 |**2023-07-06**|**Fourier-Net+: Leveraging Band-Limited Representation for Efficient 3D Medical Image Registration**|Xi Jia et.al.|[2307.02997](http://arxiv.org/abs/2307.02997)|**[link](https://github.com/xi-jia/fourier-net)**|
 |**2023-07-06**|**Vortex loop dynamics and dynamical quantum phase transitions in 3D fermion matter**|Arkadiusz Kosior et.al.|[2307.02985](http://arxiv.org/abs/2307.02985)|null|
 |**2023-07-06**|**Parametric 3D Convolutional Autoencoder for the Prediction of Flow Fields in a Bed Configuration of Hot Particles**|Ali Mjalled et.al.|[2307.02960](http://arxiv.org/abs/2307.02960)|null|
