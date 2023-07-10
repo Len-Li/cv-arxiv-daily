@@ -1264,6 +1264,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
+|**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|null|
 |**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723](http://arxiv.org/abs/2306.17723)|null|
 |**2023-07-03**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624](http://arxiv.org/abs/2306.17624)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541](http://arxiv.org/abs/2306.16541)|null|
@@ -1672,6 +1674,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**Physics-based reduced-order modeling of flash-boiling sprays in the context of internal combustion engines**|Avijit Saha et.al.|[2307.03722](http://arxiv.org/abs/2307.03722)|null|
+|**2023-07-07**|**Equivariant Single View Pose Prediction Via Induced and Restricted Representations**|Owen Howell et.al.|[2307.03704](http://arxiv.org/abs/2307.03704)|null|
+|**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602](http://arxiv.org/abs/2307.03602)|null|
+|**2023-07-07**|**VesselVAE: Recursive Variational Autoencoders for 3D Blood Vessel Synthesis**|Paula Feldman et.al.|[2307.03592](http://arxiv.org/abs/2307.03592)|null|
+|**2023-07-07**|**Unsupervised Segmentation of Fetal Brain MRI using Deep Learning Cascaded Registration**|Valentin Comte et.al.|[2307.03579](http://arxiv.org/abs/2307.03579)|null|
+|**2023-07-07**|**Multimodal Deep Learning for Personalized Renal Cell Carcinoma Prognosis: Integrating CT Imaging and Clinical Data**|Maryamalsadat Mahootiha et.al.|[2307.03575](http://arxiv.org/abs/2307.03575)|null|
+|**2023-07-07**|**VariGrad: A Novel Feature Vector Architecture for Geometric Deep Learning on Unregistered Data**|Emmanuel Hartman et.al.|[2307.03553](http://arxiv.org/abs/2307.03553)|null|
+|**2023-07-07**|**Language-free Compositional Action Generation via Decoupling Refinement**|Xiao Liu et.al.|[2307.03538](http://arxiv.org/abs/2307.03538)|null|
+|**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
+|**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|null|
 |**2023-07-06**|**Contiguous Patches of Translational Hydration Dynamics on the Surface of K-Ras**|Farhana Syed et.al.|[2307.03179](http://arxiv.org/abs/2307.03179)|null|
 |**2023-07-06**|**EffLiFe: Efficient Light Field Generation via Hierarchical Sparse Gradient Descent**|Yijie Deng et.al.|[2307.03017](http://arxiv.org/abs/2307.03017)|null|
 |**2023-07-06**|**Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation**|José Morano et.al.|[2307.03008](http://arxiv.org/abs/2307.03008)|**[link](https://github.com/j-morano/multimodal-ssl-fpn)**|
