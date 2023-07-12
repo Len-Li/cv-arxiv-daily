@@ -1264,6 +1264,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|null|
 |**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723](http://arxiv.org/abs/2306.17723)|null|
@@ -1674,6 +1675,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**Differentiable Blocks World: Qualitative 3D Decomposition by Rendering Primitives**|Tom Monnier et.al.|[2307.05473](http://arxiv.org/abs/2307.05473)|null|
+|**2023-07-11**|**My3DGen: Building Lightweight Personalized 3D Generative Model**|Luchao Qi et.al.|[2307.05468](http://arxiv.org/abs/2307.05468)|null|
+|**2023-07-11**|**Efficient 3D Articulated Human Generation with Layered Surface Volumes**|Yinghao Xu et.al.|[2307.05462](http://arxiv.org/abs/2307.05462)|null|
+|**2023-07-11**|**3D detection of roof sections from a single satellite image and application to LOD2-building reconstruction**|Johann Lussange et.al.|[2307.05409](http://arxiv.org/abs/2307.05409)|null|
+|**2023-07-11**|**3D Stagger model atmospheres with FreeEOS I. Exploring the impact of microphysics on the Sun**|Yixiao Zhou et.al.|[2307.05403](http://arxiv.org/abs/2307.05403)|null|
+|**2023-07-11**|**Self-supervised adversarial masking for 3D point cloud representation learning**|Michał Szachniewicz et.al.|[2307.05325](http://arxiv.org/abs/2307.05325)|**[link](https://github.com/szacho/pointcam)**|
+|**2023-07-11**|**Visualization of all two-qubit states via partial-transpose-moments**|Lin Zhang et.al.|[2307.05305](http://arxiv.org/abs/2307.05305)|null|
+|**2023-07-11**|**Turing patterns in a 3D morpho-chemical bulk-surface reaction-diffusion system for battery modeling**|Massimo Frittelli et.al.|[2307.05285](http://arxiv.org/abs/2307.05285)|null|
+|**2023-07-11**|**On the efficient preconditioning of the Stokes equations in tight geometries**|Vladislav Pimanov et.al.|[2307.05266](http://arxiv.org/abs/2307.05266)|null|
+|**2023-07-11**|**Pegasus Simulator: An Isaac Sim Framework for Multiple Aerial Vehicles Simulation**|Marcelo Jacinto et.al.|[2307.05263](http://arxiv.org/abs/2307.05263)|**[link](https://github.com/PegasusSimulator/PegasusSimulator)**|
 |**2023-07-10**|**Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement**|Anthony Simeonov et.al.|[2307.04751](http://arxiv.org/abs/2307.04751)|null|
 |**2023-07-10**|**Quantum oscillations with topological phases in a kagome metal CsTi $_3$Bi$_5$**|Yongkang Li et.al.|[2307.04750](http://arxiv.org/abs/2307.04750)|null|
 |**2023-07-10**|**Multiscale Topology of the Spectroscopic Mixing Space: Impervious Substrates**|Christopher Small et.al.|[2307.04716](http://arxiv.org/abs/2307.04716)|null|
