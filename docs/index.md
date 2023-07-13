@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.12
+## Updated on 2023.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1655,7 +1655,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-11**|**Differentiable Blocks World: Qualitative 3D Decomposition by Rendering Primitives**|Tom Monnier et.al.|[2307.05473](http://arxiv.org/abs/2307.05473)|null|
-|**2023-07-11**|**My3DGen: Building Lightweight Personalized 3D Generative Model**|Luchao Qi et.al.|[2307.05468](http://arxiv.org/abs/2307.05468)|null|
+|**2023-07-12**|**My3DGen: Building Lightweight Personalized 3D Generative Model**|Luchao Qi et.al.|[2307.05468](http://arxiv.org/abs/2307.05468)|null|
 |**2023-07-11**|**Efficient 3D Articulated Human Generation with Layered Surface Volumes**|Yinghao Xu et.al.|[2307.05462](http://arxiv.org/abs/2307.05462)|null|
 |**2023-07-11**|**3D detection of roof sections from a single satellite image and application to LOD2-building reconstruction**|Johann Lussange et.al.|[2307.05409](http://arxiv.org/abs/2307.05409)|null|
 |**2023-07-11**|**3D Stagger model atmospheres with FreeEOS I. Exploring the impact of microphysics on the Sun**|Yixiao Zhou et.al.|[2307.05403](http://arxiv.org/abs/2307.05403)|null|
