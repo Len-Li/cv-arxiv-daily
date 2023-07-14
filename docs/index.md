@@ -1654,6 +1654,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-13**|**Collins-type Energy-Energy Correlators and Nucleon Structure**|Zhong-Bo Kang et.al.|[2307.06935](http://arxiv.org/abs/2307.06935)|null|
+|**2023-07-13**|**Self-Supervised Learning for Interactive Perception of Surgical Thread for Autonomous Suture Tail-Shortening**|Vincent Schorp et.al.|[2307.06845](http://arxiv.org/abs/2307.06845)|null|
+|**2023-07-13**|**Experimental Demonstration of 3D Reflected Beamforming at sub6GHz thanks to Varactor Based Reconfigurable Intelligent Surface**|Philippe Ratajczak et.al.|[2307.06716](http://arxiv.org/abs/2307.06716)|null|
+|**2023-07-13**|**DGCNet: An Efficient 3D-Densenet based on Dynamic Group Convolution for Hyperspectral Remote Sensing Image Classification**|Guandong Li et.al.|[2307.06667](http://arxiv.org/abs/2307.06667)|null|
+|**2023-07-13**|**Transformer-based end-to-end classification of variable-length volumetric data**|Marzieh Oghbaie et.al.|[2307.06666](http://arxiv.org/abs/2307.06666)|null|
+|**2023-07-13**|**cjdb: a simple, fast, and lean database solution for the CityGML data model**|Leon Powałka et.al.|[2307.06621](http://arxiv.org/abs/2307.06621)|null|
+|**2023-07-13**|**Explainable 2D Vision Models for 3D Medical Data**|Alexander Ziller et.al.|[2307.06614](http://arxiv.org/abs/2307.06614)|null|
+|**2023-07-13**|**AvatarFusion: Zero-shot Generation of Clothing-Decoupled 3D Avatars Using 2D Diffusion**|Shuo Huang et.al.|[2307.06526](http://arxiv.org/abs/2307.06526)|null|
+|**2023-07-13**|**Existence of Euler-Korteweg equations with the non-monotone pressure**|Zihao Song et.al.|[2307.06511](http://arxiv.org/abs/2307.06511)|null|
+|**2023-07-12**|**Evidence for mass-dependent peculiar velocities in compact object binaries: Towards better constraints on natal kicks**|Yue Zhao et.al.|[2307.06430](http://arxiv.org/abs/2307.06430)|null|
 |**2023-07-12**|**Kriging-Based 3-D Spectrum Awareness for Radio Dynamic Zones Using Aerial Spectrum Sensors**|Sung Joon Maeng et.al.|[2307.06310](http://arxiv.org/abs/2307.06310)|null|
 |**2023-07-12**|**Corona: System Implications of Emerging Nanophotonic Technology**|Dana Vantrease et.al.|[2307.06294](http://arxiv.org/abs/2307.06294)|null|
 |**2023-07-12**|**Stochastic Light Field Holography**|Florian Schiffers et.al.|[2307.06277](http://arxiv.org/abs/2307.06277)|null|
