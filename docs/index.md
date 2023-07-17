@@ -1654,6 +1654,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**NIFTY: Neural Object Interaction Fields for Guided Human Motion Synthesis**|Nilesh Kulkarni et.al.|[2307.07511](http://arxiv.org/abs/2307.07511)|null|
+|**2023-07-14**|**Interactive Spatiotemporal Token Attention Network for Skeleton-based General Interactive Action Recognition**|Yuhang Wen et.al.|[2307.07469](http://arxiv.org/abs/2307.07469)|**[link](https://github.com/Necolizer/ISTA-Net)**|
+|**2023-07-14**|**On the perturbative formalism and a possible quantum discrete spectrum for the Regge-Wheeler equation of a de Sitter spacetime**|Stefano Viaggiu et.al.|[2307.07368](http://arxiv.org/abs/2307.07368)|null|
+|**2023-07-14**|**Single-sensor and real-time ultrasonic imaging using an AI-driven disordered metasurface**|Wei Wang et.al.|[2307.07364](http://arxiv.org/abs/2307.07364)|null|
+|**2023-07-14**|**SynTable: A Synthetic Data Generation Pipeline for Unseen Object Amodal Instance Segmentation of Cluttered Tabletop Scenes**|Zhili Ng et.al.|[2307.07333](http://arxiv.org/abs/2307.07333)|null|
+|**2023-07-14**|**Deep learning-based reduced order model for three-dimensional unsteady flow using mesh transformation and stitching**|Xin Li et.al.|[2307.07323](http://arxiv.org/abs/2307.07323)|null|
+|**2023-07-14**|**3D Shape-Based Myocardial Infarction Prediction Using Point Cloud Classification Networks**|Marcel Beetz et.al.|[2307.07298](http://arxiv.org/abs/2307.07298)|null|
+|**2023-07-14**|**Frequency Domain Adversarial Training for Robust Volumetric Medical Segmentation**|Asif Hanif et.al.|[2307.07269](http://arxiv.org/abs/2307.07269)|**[link](https://github.com/asif-hanif/vafa)**|
+|**2023-07-14**|**Secure Short-Packet Communications via UAV-Enabled Mobile Relaying: Joint Resource Optimization and 3D Trajectory Design**|Milad Tatar Mamaghani et.al.|[2307.07227](http://arxiv.org/abs/2307.07227)|null|
+|**2023-07-14**|**Scaling law for a buckled elastic filament in a shear flow**|Pawel Sznajder et.al.|[2307.07215](http://arxiv.org/abs/2307.07215)|null|
 |**2023-07-13**|**Collins-type Energy-Energy Correlators and Nucleon Structure**|Zhong-Bo Kang et.al.|[2307.06935](http://arxiv.org/abs/2307.06935)|null|
 |**2023-07-13**|**Self-Supervised Learning for Interactive Perception of Surgical Thread for Autonomous Suture Tail-Shortening**|Vincent Schorp et.al.|[2307.06845](http://arxiv.org/abs/2307.06845)|null|
 |**2023-07-13**|**Experimental Demonstration of 3D Reflected Beamforming at sub6GHz thanks to Varactor Based Reconfigurable Intelligent Surface**|Philippe Ratajczak et.al.|[2307.06716](http://arxiv.org/abs/2307.06716)|null|
