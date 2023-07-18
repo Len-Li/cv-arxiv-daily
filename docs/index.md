@@ -1245,6 +1245,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-16**|**Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**|Yifan Yang et.al.|[2307.08093](http://arxiv.org/abs/2307.08093)|**[link](https://github.com/yifyang993/cr-nerf-pytorch)**|
+|**2023-07-15**|**Improving NeRF with Height Data for Utilization of GIS Data**|Hinata Aoki et.al.|[2307.07729](http://arxiv.org/abs/2307.07729)|null|
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|null|
@@ -1654,6 +1656,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Three-dimensional analysis of vortex-lattice formation in rotating Bose-Einstein condensates using smoothed-particle hydrodynamics**|Satori Tsuzuki et.al.|[2307.08667](http://arxiv.org/abs/2307.08667)|null|
+|**2023-07-17**|**Search Me Knot, Render Me Knot: Embedding Search and Differentiable Rendering of Knots in 3D**|Aalok Gangopadhyay et.al.|[2307.08652](http://arxiv.org/abs/2307.08652)|null|
+|**2023-07-17**|**PolyGNN: Polyhedron-based Graph Neural Network for 3D Building Reconstruction from Point Clouds**|Zhaiyu Chen et.al.|[2307.08636](http://arxiv.org/abs/2307.08636)|null|
+|**2023-07-17**|**Multi-class point cloud completion networks for 3D cardiac anatomy reconstruction from cine magnetic resonance images**|Marcel Beetz et.al.|[2307.08535](http://arxiv.org/abs/2307.08535)|null|
+|**2023-07-17**|**SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator**|Zhe Zhu et.al.|[2307.08492](http://arxiv.org/abs/2307.08492)|**[link](https://github.com/czvvd/svdformer)**|
+|**2023-07-17**|**Atomic Hydrogen in the Milky Way: A Stepping Stone in the Evolution of Galaxies**|Naomi M. McClure-Griffiths et.al.|[2307.08464](http://arxiv.org/abs/2307.08464)|null|
+|**2023-07-17**|**Towards Zero-power 3D Imaging: VLC-assisted Passive ToF Sensing**|Faisal Ahmed et.al.|[2307.08445](http://arxiv.org/abs/2307.08445)|null|
+|**2023-07-17**|**Dense Affinity Matching for Few-Shot Segmentation**|Hao Chen et.al.|[2307.08434](http://arxiv.org/abs/2307.08434)|null|
+|**2023-07-17**|**Robust Preconditioning of mixed-dimensional PDEs on 3d-1d domains coupled with Lagrange multipliers**|Nunzio Dimola et.al.|[2307.08431](http://arxiv.org/abs/2307.08431)|null|
+|**2023-07-17**|**Monocular 3D Object Detection with LiDAR Guided Semi Supervised Active Learning**|Aral Hekimoglu et.al.|[2307.08415](http://arxiv.org/abs/2307.08415)|null|
 |**2023-07-14**|**NIFTY: Neural Object Interaction Fields for Guided Human Motion Synthesis**|Nilesh Kulkarni et.al.|[2307.07511](http://arxiv.org/abs/2307.07511)|null|
 |**2023-07-14**|**Interactive Spatiotemporal Token Attention Network for Skeleton-based General Interactive Action Recognition**|Yuhang Wen et.al.|[2307.07469](http://arxiv.org/abs/2307.07469)|**[link](https://github.com/Necolizer/ISTA-Net)**|
 |**2023-07-14**|**On the perturbative formalism and a possible quantum discrete spectrum for the Regge-Wheeler equation of a de Sitter spacetime**|Stefano Viaggiu et.al.|[2307.07368](http://arxiv.org/abs/2307.07368)|null|
