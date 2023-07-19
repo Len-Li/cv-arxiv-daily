@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.18
+## Updated on 2023.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1657,9 +1657,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-17**|**Three-dimensional analysis of vortex-lattice formation in rotating Bose-Einstein condensates using smoothed-particle hydrodynamics**|Satori Tsuzuki et.al.|[2307.08667](http://arxiv.org/abs/2307.08667)|null|
-|**2023-07-17**|**Search Me Knot, Render Me Knot: Embedding Search and Differentiable Rendering of Knots in 3D**|Aalok Gangopadhyay et.al.|[2307.08652](http://arxiv.org/abs/2307.08652)|null|
+|**2023-07-18**|**Search Me Knot, Render Me Knot: Embedding Search and Differentiable Rendering of Knots in 3D**|Aalok Gangopadhyay et.al.|[2307.08652](http://arxiv.org/abs/2307.08652)|null|
 |**2023-07-17**|**PolyGNN: Polyhedron-based Graph Neural Network for 3D Building Reconstruction from Point Clouds**|Zhaiyu Chen et.al.|[2307.08636](http://arxiv.org/abs/2307.08636)|null|
-|**2023-07-17**|**Multi-class point cloud completion networks for 3D cardiac anatomy reconstruction from cine magnetic resonance images**|Marcel Beetz et.al.|[2307.08535](http://arxiv.org/abs/2307.08535)|null|
+|**2023-07-18**|**Multi-class point cloud completion networks for 3D cardiac anatomy reconstruction from cine magnetic resonance images**|Marcel Beetz et.al.|[2307.08535](http://arxiv.org/abs/2307.08535)|null|
 |**2023-07-17**|**SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator**|Zhe Zhu et.al.|[2307.08492](http://arxiv.org/abs/2307.08492)|**[link](https://github.com/czvvd/svdformer)**|
 |**2023-07-17**|**Atomic Hydrogen in the Milky Way: A Stepping Stone in the Evolution of Galaxies**|Naomi M. McClure-Griffiths et.al.|[2307.08464](http://arxiv.org/abs/2307.08464)|null|
 |**2023-07-17**|**Towards Zero-power 3D Imaging: VLC-assisted Passive ToF Sensing**|Faisal Ahmed et.al.|[2307.08445](http://arxiv.org/abs/2307.08445)|null|
