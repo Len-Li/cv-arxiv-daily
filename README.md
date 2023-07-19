@@ -1264,6 +1264,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Jiahe Li et.al.|[2307.09323](http://arxiv.org/abs/2307.09323)|**[link](https://github.com/fictionarry/er-nerf)**|
 |**2023-07-16**|**Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**|Yifan Yang et.al.|[2307.08093](http://arxiv.org/abs/2307.08093)|**[link](https://github.com/yifyang993/cr-nerf-pytorch)**|
 |**2023-07-15**|**Improving NeRF with Height Data for Utilization of GIS Data**|Hinata Aoki et.al.|[2307.07729](http://arxiv.org/abs/2307.07729)|null|
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
@@ -1677,6 +1678,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**FACTS: Facial Animation Creation using the Transfer of Styles**|Jack Saunders et.al.|[2307.09480](http://arxiv.org/abs/2307.09480)|null|
+|**2023-07-18**|**GroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping**|Zhuoling Li et.al.|[2307.09472](http://arxiv.org/abs/2307.09472)|null|
+|**2023-07-18**|**Measuring Student Behavioral Engagement using Histogram of Actions**|Ahmed Abdelkawy et.al.|[2307.09420](http://arxiv.org/abs/2307.09420)|null|
+|**2023-07-18**|**Relic Gravitational Waves from the Chiral Plasma Instability in the Standard Cosmological Model**|Axel Brandenburg et.al.|[2307.09385](http://arxiv.org/abs/2307.09385)|null|
+|**2023-07-18**|**Distributed 3D-Beam Reforming for Hovering-Tolerant UAVs Communication over Coexistence: A Deep-Q Learning for Intelligent Space-Air-Ground Integrated Networks**|Sudhanshu Arya et.al.|[2307.09325](http://arxiv.org/abs/2307.09325)|null|
+|**2023-07-18**|**MarS3D: A Plug-and-Play Motion-Aware Model for Semantic Segmentation on Multi-Scan 3D Point Clouds**|Jiahui Liu et.al.|[2307.09316](http://arxiv.org/abs/2307.09316)|null|
+|**2023-07-18**|**Impact of gate-level clustering on automated system partitioning of 3D-ICs**|Quentin Delhaye et.al.|[2307.09308](http://arxiv.org/abs/2307.09308)|null|
+|**2023-07-18**|**Improving Text Semantic Similarity Modeling through a 3D Siamese Network**|Jianxiang Zang et.al.|[2307.09274](http://arxiv.org/abs/2307.09274)|null|
+|**2023-07-18**|**Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding**|Zehan Wang et.al.|[2307.09267](http://arxiv.org/abs/2307.09267)|null|
+|**2023-07-18**|**A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future**|Chaoyang Zhu et.al.|[2307.09220](http://arxiv.org/abs/2307.09220)|null|
 |**2023-07-17**|**Three-dimensional analysis of vortex-lattice formation in rotating Bose-Einstein condensates using smoothed-particle hydrodynamics**|Satori Tsuzuki et.al.|[2307.08667](http://arxiv.org/abs/2307.08667)|null|
 |**2023-07-18**|**Search Me Knot, Render Me Knot: Embedding Search and Differentiable Rendering of Knots in 3D**|Aalok Gangopadhyay et.al.|[2307.08652](http://arxiv.org/abs/2307.08652)|null|
 |**2023-07-17**|**PolyGNN: Polyhedron-based Graph Neural Network for 3D Building Reconstruction from Point Clouds**|Zhaiyu Chen et.al.|[2307.08636](http://arxiv.org/abs/2307.08636)|null|
