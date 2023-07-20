@@ -1264,6 +1264,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**An Improved NeuMIP with Better Accuracy**|Bowen Xue et.al.|[2307.10135](http://arxiv.org/abs/2307.10135)|null|
+|**2023-07-19**|**Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**|Ke Li et.al.|[2307.09860](http://arxiv.org/abs/2307.09860)|null|
+|**2023-07-14**|**Transient Neural Radiance Fields for Lidar View Synthesis and 3D Reconstruction**|Anagh Malik et.al.|[2307.09555](http://arxiv.org/abs/2307.09555)|null|
 |**2023-07-18**|**Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Jiahe Li et.al.|[2307.09323](http://arxiv.org/abs/2307.09323)|**[link](https://github.com/fictionarry/er-nerf)**|
 |**2023-07-16**|**Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**|Yifan Yang et.al.|[2307.08093](http://arxiv.org/abs/2307.08093)|**[link](https://github.com/yifyang993/cr-nerf-pytorch)**|
 |**2023-07-15**|**Improving NeRF with Height Data for Utilization of GIS Data**|Hinata Aoki et.al.|[2307.07729](http://arxiv.org/abs/2307.07729)|null|
@@ -1678,6 +1681,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Altermagnetic surface states: towards the observation and utilization of altermagnetism in thin films, interfaces and topological materials**|Raghottam M Sattigeri et.al.|[2307.10146](http://arxiv.org/abs/2307.10146)|null|
+|**2023-07-19**|**Artificial Neural Networks for Predicting Mechanical Properties of Crystalline Polyamide12 via Molecular Dynamics Simulations**|Caglar Tamur et.al.|[2307.10139](http://arxiv.org/abs/2307.10139)|null|
+|**2023-07-19**|**3d-3d Correspondence and 2d $\mathcal{N}=(0,2)$ Boundary Conditions**|Hee-Joong Chung et.al.|[2307.10125](http://arxiv.org/abs/2307.10125)|null|
+|**2023-07-19**|**Two Approaches to Supervised Image Segmentation**|Alexandre Benatti et.al.|[2307.10123](http://arxiv.org/abs/2307.10123)|null|
+|**2023-07-19**|**Coexistence of defect morphologies in three dimensional active nematics**|Pasquale Digregorio et.al.|[2307.10103](http://arxiv.org/abs/2307.10103)|null|
+|**2023-07-19**|**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**|Lingting Zhu et.al.|[2307.10094](http://arxiv.org/abs/2307.10094)|null|
+|**2023-07-19**|**Activating the fluorescence of a Ni(II) complex by energy transfer**|Tzu-Chao Hung et.al.|[2307.09984](http://arxiv.org/abs/2307.09984)|null|
+|**2023-07-19**|**Detecting the interplay between self-statistics and braiding statistics in 3D topologically ordered phases through topological quantum field theory**|Zhi-Feng Zhang et.al.|[2307.09983](http://arxiv.org/abs/2307.09983)|null|
+|**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981](http://arxiv.org/abs/2307.09981)|null|
+|**2023-07-19**|**Dynamical degrees of birational maps from indices of polynomials with respect to blow-ups II. 3D examples**|Jaume Alonso et.al.|[2307.09939](http://arxiv.org/abs/2307.09939)|null|
 |**2023-07-18**|**FACTS: Facial Animation Creation using the Transfer of Styles**|Jack Saunders et.al.|[2307.09480](http://arxiv.org/abs/2307.09480)|null|
 |**2023-07-18**|**GroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping**|Zhuoling Li et.al.|[2307.09472](http://arxiv.org/abs/2307.09472)|null|
 |**2023-07-18**|**Measuring Student Behavioral Engagement using Histogram of Actions**|Ahmed Abdelkawy et.al.|[2307.09420](http://arxiv.org/abs/2307.09420)|null|
