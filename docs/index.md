@@ -1245,6 +1245,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Urban Radiance Field Representation with Deformable Neural Mesh Primitives**|Fan Lu et.al.|[2307.10776](http://arxiv.org/abs/2307.10776)|null|
+|**2023-07-20**|**Lighting up NeRF via Unsupervised Decomposition and Enhancement**|Haoyuan Wang et.al.|[2307.10664](http://arxiv.org/abs/2307.10664)|**[link](https://github.com/onpix/LLNeRF)**|
 |**2023-07-19**|**An Improved NeuMIP with Better Accuracy**|Bowen Xue et.al.|[2307.10135](http://arxiv.org/abs/2307.10135)|null|
 |**2023-07-19**|**Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**|Ke Li et.al.|[2307.09860](http://arxiv.org/abs/2307.09860)|null|
 |**2023-07-14**|**Transient Neural Radiance Fields for Lidar View Synthesis and 3D Reconstruction**|Anagh Malik et.al.|[2307.09555](http://arxiv.org/abs/2307.09555)|null|
@@ -1660,6 +1662,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**The Higgs branch of heterotic ALE instantons**|Michele Del Zotto et.al.|[2307.11087](http://arxiv.org/abs/2307.11087)|null|
+|**2023-07-20**|**PAPR: Proximity Attention Point Rendering**|Yanshu Zhang et.al.|[2307.11086](http://arxiv.org/abs/2307.11086)|null|
+|**2023-07-20**|**OBJECT 3DIT: Language-guided 3D-aware Image Editing**|Oscar Michel et.al.|[2307.11073](http://arxiv.org/abs/2307.11073)|null|
+|**2023-07-20**|**Investigating VTubing as a Reconstruction of Streamer Self-Presentation: Identity, Performance, and Gender**|Qian Wan et.al.|[2307.11025](http://arxiv.org/abs/2307.11025)|null|
+|**2023-07-20**|**Multi-objective point cloud autoencoders for explainable myocardial infarction prediction**|Marcel Beetz et.al.|[2307.11017](http://arxiv.org/abs/2307.11017)|null|
+|**2023-07-20**|**Critical Analysis of Skyrmionic Material Co $_{6.5}$Ru$_{1.5}$Zn$_8$Mn$_4$ : a complex interplay of short and long-range interactions around the transition temperature**|Afsar Ahmed et.al.|[2307.10990](http://arxiv.org/abs/2307.10990)|null|
+|**2023-07-20**|**Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image**|Wei Yin et.al.|[2307.10984](http://arxiv.org/abs/2307.10984)|**[link](https://github.com/yvanyin/metric3d)**|
+|**2023-07-20**|**Improving Online Lane Graph Extraction by Object-Lane Clustering**|Yigit Baran Can et.al.|[2307.10947](http://arxiv.org/abs/2307.10947)|null|
+|**2023-07-20**|**OCTraN: 3D Occupancy Convolutional Transformer Network in Unstructured Traffic Scenarios**|Aditya Nalgunda Ganesh et.al.|[2307.10934](http://arxiv.org/abs/2307.10934)|null|
+|**2023-07-20**|**Modeling 3D cardiac contraction and relaxation with point cloud deformation networks**|Marcel Beetz et.al.|[2307.10927](http://arxiv.org/abs/2307.10927)|null|
 |**2023-07-19**|**Altermagnetic surface states: towards the observation and utilization of altermagnetism in thin films, interfaces and topological materials**|Raghottam M Sattigeri et.al.|[2307.10146](http://arxiv.org/abs/2307.10146)|null|
 |**2023-07-19**|**Artificial Neural Networks for Predicting Mechanical Properties of Crystalline Polyamide12 via Molecular Dynamics Simulations**|Caglar Tamur et.al.|[2307.10139](http://arxiv.org/abs/2307.10139)|null|
 |**2023-07-19**|**3d-3d Correspondence and 2d $\mathcal{N}=(0,2)$ Boundary Conditions**|Hee-Joong Chung et.al.|[2307.10125](http://arxiv.org/abs/2307.10125)|null|
