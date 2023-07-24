@@ -1264,6 +1264,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526](http://arxiv.org/abs/2307.11526)|null|
+|**2023-07-21**|**FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields**|Sungwon Hwang et.al.|[2307.11418](http://arxiv.org/abs/2307.11418)|null|
+|**2023-07-21**|**Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields**|Wenbo Hu et.al.|[2307.11335](http://arxiv.org/abs/2307.11335)|null|
 |**2023-07-20**|**Urban Radiance Field Representation with Deformable Neural Mesh Primitives**|Fan Lu et.al.|[2307.10776](http://arxiv.org/abs/2307.10776)|null|
 |**2023-07-20**|**Lighting up NeRF via Unsupervised Decomposition and Enhancement**|Haoyuan Wang et.al.|[2307.10664](http://arxiv.org/abs/2307.10664)|**[link](https://github.com/onpix/LLNeRF)**|
 |**2023-07-19**|**An Improved NeuMIP with Better Accuracy**|Bowen Xue et.al.|[2307.10135](http://arxiv.org/abs/2307.10135)|null|
@@ -1683,6 +1686,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**3D Skeletonization of Complex Grapevines for Robotic Pruning**|Eric Schneider et.al.|[2307.11706](http://arxiv.org/abs/2307.11706)|null|
+|**2023-07-21**|**SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**|Jerome Revaud et.al.|[2307.11702](http://arxiv.org/abs/2307.11702)|null|
+|**2023-07-21**|**On the existence, regularity and uniqueness of $L^p$ -solutions to the steady-state 3D Boussinesq system in the whole space**|Oscar Jarrin et.al.|[2307.11670](http://arxiv.org/abs/2307.11670)|null|
+|**2023-07-21**|**WM-NET: Robust Deep 3D Watermarking with Limited Data**|Xingyu Zhu et.al.|[2307.11628](http://arxiv.org/abs/2307.11628)|null|
+|**2023-07-21**|**Cascaded multitask U-Net using topological loss for vessel segmentation and centerline extraction**|Pierre Rougé et.al.|[2307.11603](http://arxiv.org/abs/2307.11603)|null|
+|**2023-07-21**|**KVN: Keypoints Voting Network with Differentiable RANSAC for Stereo Pose Estimation**|Ivano Donadi et.al.|[2307.11543](http://arxiv.org/abs/2307.11543)|null|
+|**2023-07-21**|**Improving Viewpoint Robustness for Visual Recognition via Adversarial Training**|Shouwei Ruan et.al.|[2307.11528](http://arxiv.org/abs/2307.11528)|null|
+|**2023-07-21**|**Semantically-enhanced Deep Collision Prediction for Autonomous Navigation using Aerial Robots**|Mihir Kulkarni et.al.|[2307.11522](http://arxiv.org/abs/2307.11522)|null|
+|**2023-07-21**|**CORE: Cooperative Reconstruction for Multi-Agent Perception**|Binglu Wang et.al.|[2307.11514](http://arxiv.org/abs/2307.11514)|null|
+|**2023-07-21**|**Redemption from Range-view for Accurate 3D Object Detection**|Yihan Wang et.al.|[2307.11482](http://arxiv.org/abs/2307.11482)|null|
 |**2023-07-20**|**The Higgs branch of heterotic ALE instantons**|Michele Del Zotto et.al.|[2307.11087](http://arxiv.org/abs/2307.11087)|null|
 |**2023-07-20**|**PAPR: Proximity Attention Point Rendering**|Yanshu Zhang et.al.|[2307.11086](http://arxiv.org/abs/2307.11086)|null|
 |**2023-07-20**|**OBJECT 3DIT: Language-guided 3D-aware Image Editing**|Oscar Michel et.al.|[2307.11073](http://arxiv.org/abs/2307.11073)|null|
