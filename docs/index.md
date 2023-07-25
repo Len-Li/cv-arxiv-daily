@@ -1245,6 +1245,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields**|Shangzhan Zhang et.al.|[2307.12909](http://arxiv.org/abs/2307.12909)|null|
+|**2023-07-24**|**CarPatch: A Synthetic Benchmark for Radiance Field Evaluation on Vehicle Components**|Davide Di Nucci et.al.|[2307.12718](http://arxiv.org/abs/2307.12718)|null|
+|**2023-07-23**|**TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering**|Xiao Pan et.al.|[2307.12291](http://arxiv.org/abs/2307.12291)|null|
 |**2023-07-21**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526](http://arxiv.org/abs/2307.11526)|null|
 |**2023-07-21**|**FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields**|Sungwon Hwang et.al.|[2307.11418](http://arxiv.org/abs/2307.11418)|null|
 |**2023-07-21**|**Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields**|Wenbo Hu et.al.|[2307.11335](http://arxiv.org/abs/2307.11335)|null|
@@ -1665,6 +1668,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**3D-LLM: Injecting the 3D World into Large Language Models**|Yining Hong et.al.|[2307.12981](http://arxiv.org/abs/2307.12981)|null|
+|**2023-07-24**|**DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting**|Hongyang Li et.al.|[2307.12972](http://arxiv.org/abs/2307.12972)|null|
+|**2023-07-24**|**Hierarchical Skeleton Meta-Prototype Contrastive Learning with Hard Skeleton Mining for Unsupervised Person Re-Identification**|Haocong Rao et.al.|[2307.12917](http://arxiv.org/abs/2307.12917)|**[link](https://github.com/kali-hac/hi-mpc)**|
+|**2023-07-24**|**GridMM: Grid Memory Map for Vision-and-Language Navigation**|Zihan Wang et.al.|[2307.12907](http://arxiv.org/abs/2307.12907)|**[link](https://github.com/mrzihan/gridmm)**|
+|**2023-07-24**|**Spatiotemporal Modeling Encounters 3D Medical Image Analysis: Slice-Shift UNet with Multi-View Fusion**|C. I. Ugwu et.al.|[2307.12853](http://arxiv.org/abs/2307.12853)|null|
+|**2023-07-24**|**Multi-View Vertebra Localization and Identification from CT Images**|Han Wu et.al.|[2307.12845](http://arxiv.org/abs/2307.12845)|**[link](https://github.com/shanghaitech-impact/multi-view-vertebra-localization-and-identification-from-ct-images)**|
+|**2023-07-24**|**A quantitative theoretical model of the boson peak based on stringlet excitations**|Cunyuan Jiang et.al.|[2307.12839](http://arxiv.org/abs/2307.12839)|null|
+|**2023-07-24**|**Outage Performance of Multi-tier UAV Communication with Random Beam Misalignment**|Weihao Wang et.al.|[2307.12799](http://arxiv.org/abs/2307.12799)|null|
+|**2023-07-24**|**CarPatch: A Synthetic Benchmark for Radiance Field Evaluation on Vehicle Components**|Davide Di Nucci et.al.|[2307.12718](http://arxiv.org/abs/2307.12718)|null|
+|**2023-07-24**|**Bayesian Based Unrolling for Reconstruction and Super-resolution of Single-Photon Lidar Systems**|Abderrahim Halimi et.al.|[2307.12700](http://arxiv.org/abs/2307.12700)|null|
 |**2023-07-21**|**3D Skeletonization of Complex Grapevines for Robotic Pruning**|Eric Schneider et.al.|[2307.11706](http://arxiv.org/abs/2307.11706)|null|
 |**2023-07-21**|**SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**|Jerome Revaud et.al.|[2307.11702](http://arxiv.org/abs/2307.11702)|null|
 |**2023-07-21**|**On the existence, regularity and uniqueness of $L^p$ -solutions to the steady-state 3D Boussinesq system in the whole space**|Oscar Jarrin et.al.|[2307.11670](http://arxiv.org/abs/2307.11670)|null|
