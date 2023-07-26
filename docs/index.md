@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.25
+## Updated on 2023.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1671,8 +1671,8 @@ layout: default
 |**2023-07-24**|**3D-LLM: Injecting the 3D World into Large Language Models**|Yining Hong et.al.|[2307.12981](http://arxiv.org/abs/2307.12981)|null|
 |**2023-07-24**|**DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting**|Hongyang Li et.al.|[2307.12972](http://arxiv.org/abs/2307.12972)|null|
 |**2023-07-24**|**Hierarchical Skeleton Meta-Prototype Contrastive Learning with Hard Skeleton Mining for Unsupervised Person Re-Identification**|Haocong Rao et.al.|[2307.12917](http://arxiv.org/abs/2307.12917)|**[link](https://github.com/kali-hac/hi-mpc)**|
-|**2023-07-24**|**GridMM: Grid Memory Map for Vision-and-Language Navigation**|Zihan Wang et.al.|[2307.12907](http://arxiv.org/abs/2307.12907)|**[link](https://github.com/mrzihan/gridmm)**|
-|**2023-07-24**|**Spatiotemporal Modeling Encounters 3D Medical Image Analysis: Slice-Shift UNet with Multi-View Fusion**|C. I. Ugwu et.al.|[2307.12853](http://arxiv.org/abs/2307.12853)|null|
+|**2023-07-25**|**GridMM: Grid Memory Map for Vision-and-Language Navigation**|Zihan Wang et.al.|[2307.12907](http://arxiv.org/abs/2307.12907)|**[link](https://github.com/mrzihan/gridmm)**|
+|**2023-07-25**|**Spatiotemporal Modeling Encounters 3D Medical Image Analysis: Slice-Shift UNet with Multi-View Fusion**|C. I. Ugwu et.al.|[2307.12853](http://arxiv.org/abs/2307.12853)|null|
 |**2023-07-24**|**Multi-View Vertebra Localization and Identification from CT Images**|Han Wu et.al.|[2307.12845](http://arxiv.org/abs/2307.12845)|**[link](https://github.com/shanghaitech-impact/multi-view-vertebra-localization-and-identification-from-ct-images)**|
 |**2023-07-24**|**A quantitative theoretical model of the boson peak based on stringlet excitations**|Cunyuan Jiang et.al.|[2307.12839](http://arxiv.org/abs/2307.12839)|null|
 |**2023-07-24**|**Outage Performance of Multi-tier UAV Communication with Random Beam Misalignment**|Weihao Wang et.al.|[2307.12799](http://arxiv.org/abs/2307.12799)|null|
