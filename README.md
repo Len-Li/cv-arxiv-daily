@@ -1689,6 +1689,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**Single reference treatment of strongly correlated H $_4$ and H$_{10}$ isomers with Richardson-Gaudin states**|Paul A. Johnson et.al.|[2307.13690](http://arxiv.org/abs/2307.13690)|null|
+|**2023-07-25**|**Engineering Floquet codes by rewinding**|Arpit Dua et.al.|[2307.13668](http://arxiv.org/abs/2307.13668)|null|
+|**2023-07-25**|**Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face Shape Estimation**|Will Rowan et.al.|[2307.13639](http://arxiv.org/abs/2307.13639)|null|
+|**2023-07-25**|**Implicit Reconstructions from Deformed Projections for CryoET**|Vinith Kishore et.al.|[2307.13516](http://arxiv.org/abs/2307.13516)|null|
+|**2023-07-25**|**HeightFormer: Explicit Height Modeling without Extra Data for Camera-only 3D Object Detection in Bird's Eye View**|Yiming Wu et.al.|[2307.13510](http://arxiv.org/abs/2307.13510)|null|
+|**2023-07-25**|**Weakly-supervised 3D Pose Transfer with Keypoints**|Jinnan Chen et.al.|[2307.13459](http://arxiv.org/abs/2307.13459)|null|
+|**2023-07-25**|**Observations and Modeling of Unstable Proton and Alpha Particle Velocity Distributions in Sub-Alfvenic Solar Wind at PSP Perihelia**|Leon Ofman et.al.|[2307.13410](http://arxiv.org/abs/2307.13410)|null|
+|**2023-07-25**|**Mapping gravity in stellar nurseries -- establishing the effectiveness of 2D acceleration maps**|Zhen-Zhen He et.al.|[2307.13409](http://arxiv.org/abs/2307.13409)|null|
+|**2023-07-25**|**The Emerging Weak Antilocalization Effect in Semimetal Ta $_{0.7}$Nb$_{0.3}$Sb$_2$ Single Crystal**|Lei Guo et.al.|[2307.13385](http://arxiv.org/abs/2307.13385)|null|
+|**2023-07-25**|**3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding**|Zehan Wang et.al.|[2307.13363](http://arxiv.org/abs/2307.13363)|null|
 |**2023-07-24**|**3D-LLM: Injecting the 3D World into Large Language Models**|Yining Hong et.al.|[2307.12981](http://arxiv.org/abs/2307.12981)|null|
 |**2023-07-24**|**DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting**|Hongyang Li et.al.|[2307.12972](http://arxiv.org/abs/2307.12972)|null|
 |**2023-07-24**|**Hierarchical Skeleton Meta-Prototype Contrastive Learning with Hard Skeleton Mining for Unsupervised Person Re-Identification**|Haocong Rao et.al.|[2307.12917](http://arxiv.org/abs/2307.12917)|**[link](https://github.com/kali-hac/hi-mpc)**|
