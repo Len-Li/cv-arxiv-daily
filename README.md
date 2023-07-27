@@ -1264,6 +1264,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-26**|**Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation**|Chaohui Yu et.al.|[2307.13908](http://arxiv.org/abs/2307.13908)|null|
 |**2023-07-24**|**Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields**|Shangzhan Zhang et.al.|[2307.12909](http://arxiv.org/abs/2307.12909)|null|
 |**2023-07-24**|**CarPatch: A Synthetic Benchmark for Radiance Field Evaluation on Vehicle Components**|Davide Di Nucci et.al.|[2307.12718](http://arxiv.org/abs/2307.12718)|null|
 |**2023-07-23**|**TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering**|Xiao Pan et.al.|[2307.12291](http://arxiv.org/abs/2307.12291)|null|
@@ -1689,6 +1690,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-26**|**US & MR Image-Fusion Based on Skin Co-Registration**|Martina Paccini et.al.|[2307.14288](http://arxiv.org/abs/2307.14288)|null|
+|**2023-07-26**|**Skyrme-Hartree-Fock-Bogoliubov mass models on a 3D mesh: III. From atomic nuclei to neutron stars**|Guilherme Grams et.al.|[2307.14276](http://arxiv.org/abs/2307.14276)|null|
+|**2023-07-26**|**Thermal convection in compressible gas with spanwise rotation**|K. Lüdemann et.al.|[2307.14249](http://arxiv.org/abs/2307.14249)|null|
+|**2023-07-26**|**DisguisOR: Holistic Face Anonymization for the Operating Room**|Lennart Bastian et.al.|[2307.14241](http://arxiv.org/abs/2307.14241)|**[link](https://github.com/wngtn/disguisor)**|
+|**2023-07-26**|**Rupture Dynamics of Cascading Earthquakes in a Multiscale Fracture Network**|Kadek Hendrawan Palgunadi et.al.|[2307.14229](http://arxiv.org/abs/2307.14229)|null|
+|**2023-07-26**|**Generalised Amit-Roginsky model from perturbations of 3d quantum gravity**|Victor Nador et.al.|[2307.14211](http://arxiv.org/abs/2307.14211)|null|
+|**2023-07-26**|**Lagrangian statistics of dense emulsions**|Ivan Girotto et.al.|[2307.14184](http://arxiv.org/abs/2307.14184)|null|
+|**2023-07-26**|**Sporadic dualities from tensor deconfinement**|Antonio Amariti et.al.|[2307.14146](http://arxiv.org/abs/2307.14146)|null|
+|**2023-07-26**|**Affordable inline structuration measurements of printable mortar with a pocket shear vane**|Léo Demont et.al.|[2307.14137](http://arxiv.org/abs/2307.14137)|null|
+|**2023-07-26**|**Creative Birds: Self-Supervised Single-View 3D Style Transfer**|Renke Wang et.al.|[2307.14127](http://arxiv.org/abs/2307.14127)|**[link](https://github.com/wrk226/2d-to-3d-evolution-transfer)**|
 |**2023-07-25**|**Single reference treatment of strongly correlated H $_4$ and H$_{10}$ isomers with Richardson-Gaudin states**|Paul A. Johnson et.al.|[2307.13690](http://arxiv.org/abs/2307.13690)|null|
 |**2023-07-25**|**Engineering Floquet codes by rewinding**|Arpit Dua et.al.|[2307.13668](http://arxiv.org/abs/2307.13668)|null|
 |**2023-07-25**|**Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face Shape Estimation**|Will Rowan et.al.|[2307.13639](http://arxiv.org/abs/2307.13639)|null|
