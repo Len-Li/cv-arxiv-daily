@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.27
+## Updated on 2023.07.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1678,7 +1678,7 @@ layout: default
 |**2023-07-26**|**Lagrangian statistics of dense emulsions**|Ivan Girotto et.al.|[2307.14184](http://arxiv.org/abs/2307.14184)|null|
 |**2023-07-26**|**Sporadic dualities from tensor deconfinement**|Antonio Amariti et.al.|[2307.14146](http://arxiv.org/abs/2307.14146)|null|
 |**2023-07-26**|**Affordable inline structuration measurements of printable mortar with a pocket shear vane**|Léo Demont et.al.|[2307.14137](http://arxiv.org/abs/2307.14137)|null|
-|**2023-07-26**|**Creative Birds: Self-Supervised Single-View 3D Style Transfer**|Renke Wang et.al.|[2307.14127](http://arxiv.org/abs/2307.14127)|**[link](https://github.com/wrk226/2d-to-3d-evolution-transfer)**|
+|**2023-07-27**|**Creative Birds: Self-Supervised Single-View 3D Style Transfer**|Renke Wang et.al.|[2307.14127](http://arxiv.org/abs/2307.14127)|**[link](https://github.com/wrk226/creative_birds)**|
 |**2023-07-25**|**Single reference treatment of strongly correlated H $_4$ and H$_{10}$ isomers with Richardson-Gaudin states**|Paul A. Johnson et.al.|[2307.13690](http://arxiv.org/abs/2307.13690)|null|
 |**2023-07-25**|**Engineering Floquet codes by rewinding**|Arpit Dua et.al.|[2307.13668](http://arxiv.org/abs/2307.13668)|null|
 |**2023-07-25**|**Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face Shape Estimation**|Will Rowan et.al.|[2307.13639](http://arxiv.org/abs/2307.13639)|null|
