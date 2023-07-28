@@ -1264,6 +1264,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-27**|**MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving**|Zirui Wu et.al.|[2307.15058](http://arxiv.org/abs/2307.15058)|null|
+|**2023-07-27**|**NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection**|Chenfeng Xu et.al.|[2307.14620](http://arxiv.org/abs/2307.14620)|null|
 |**2023-07-26**|**Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation**|Chaohui Yu et.al.|[2307.13908](http://arxiv.org/abs/2307.13908)|null|
 |**2023-07-24**|**Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields**|Shangzhan Zhang et.al.|[2307.12909](http://arxiv.org/abs/2307.12909)|null|
 |**2023-07-24**|**CarPatch: A Synthetic Benchmark for Radiance Field Evaluation on Vehicle Components**|Davide Di Nucci et.al.|[2307.12718](http://arxiv.org/abs/2307.12718)|null|
@@ -1690,6 +1692,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-27**|**PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking**|Yang Zheng et.al.|[2307.15055](http://arxiv.org/abs/2307.15055)|null|
+|**2023-07-27**|**Drive Asymmetry, Convergence and the Origin of Turbulence in ICF Implosions**|Vincent A. Thomas et.al.|[2307.15028](http://arxiv.org/abs/2307.15028)|null|
+|**2023-07-27**|**FLiCR: A Fast and Lightweight LiDAR Point Cloud Compression Based on Lossy RI**|Jin Heo et.al.|[2307.15005](http://arxiv.org/abs/2307.15005)|null|
+|**2023-07-27**|**Take-A-Photo: 3D-to-2D Generative Pre-training of Point Cloud Models**|Ziyi Wang et.al.|[2307.14971](http://arxiv.org/abs/2307.14971)|**[link](https://github.com/wangzy22/tap)**|
+|**2023-07-27**|**Next-Generation Comprehensive Data-Driven Models of Solar Eruptive Events**|Joel C. Allred et.al.|[2307.14946](http://arxiv.org/abs/2307.14946)|null|
+|**2023-07-27**|**GET3D--: Learning GET3D from Unconstrained Image Collections**|Fanghua Yu et.al.|[2307.14918](http://arxiv.org/abs/2307.14918)|null|
+|**2023-07-27**|**Weakly Supervised AI for Efficient Analysis of 3D Pathology Samples**|Andrew H. Song et.al.|[2307.14907](http://arxiv.org/abs/2307.14907)|**[link](https://github.com/mahmoodlab/mamba)**|
+|**2023-07-27**|**Weakly Supervised Multi-Modal 3D Human Body Pose Estimation for Autonomous Driving**|Peter Bauer et.al.|[2307.14889](http://arxiv.org/abs/2307.14889)|null|
+|**2023-07-27**|**DNN-MG: A Hybrid Neural Network/Finite Element Method with Applications to 3D Simulations of the Navier-Stokes Equations**|Nils Margenberg et.al.|[2307.14837](http://arxiv.org/abs/2307.14837)|null|
+|**2023-07-27**|**Notes on no black hole theorem in three dimensional gravity**|Pujian Mao et.al.|[2307.14830](http://arxiv.org/abs/2307.14830)|null|
 |**2023-07-26**|**US & MR Image-Fusion Based on Skin Co-Registration**|Martina Paccini et.al.|[2307.14288](http://arxiv.org/abs/2307.14288)|null|
 |**2023-07-26**|**Skyrme-Hartree-Fock-Bogoliubov mass models on a 3D mesh: III. From atomic nuclei to neutron stars**|Guilherme Grams et.al.|[2307.14276](http://arxiv.org/abs/2307.14276)|null|
 |**2023-07-26**|**Thermal convection in compressible gas with spanwise rotation**|K. Lüdemann et.al.|[2307.14249](http://arxiv.org/abs/2307.14249)|null|
