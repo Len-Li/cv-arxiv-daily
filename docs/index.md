@@ -1673,6 +1673,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**DiVA-360: The Dynamic Visuo-Audio Dataset for Immersive Neural Fields**|Cheng-You Lu et.al.|[2307.16897](http://arxiv.org/abs/2307.16897)|null|
+|**2023-07-31**|**Disruptive Autoencoders: Leveraging Low-level features for 3D Medical Image Pre-training**|Jeya Maria Jose Valanarasu et.al.|[2307.16896](http://arxiv.org/abs/2307.16896)|null|
+|**2023-07-31**|**Advancing Smart Malnutrition Monitoring: A Multi-Modal Learning Approach for Vital Health Parameter Estimation**|Ashish Marisetty et.al.|[2307.16745](http://arxiv.org/abs/2307.16745)|null|
+|**2023-07-31**|**Electron correlations and superconductivity in La $_3$Ni$_2$O$_7$ under pressure tuning**|Zhiguang Liao et.al.|[2307.16697](http://arxiv.org/abs/2307.16697)|null|
+|**2023-07-31**|**Poly-MOT: A Polyhedral Framework For 3D Multi-Object Tracking**|Xiaoyu Li et.al.|[2307.16675](http://arxiv.org/abs/2307.16675)|**[link](https://github.com/lixiaoyu2000/Poly-MOT)**|
+|**2023-07-31**|**FULLER: Unified Multi-modality Multi-task 3D Perception via Multi-level Gradient Calibration**|Zhijian Huang et.al.|[2307.16617](http://arxiv.org/abs/2307.16617)|null|
+|**2023-07-31**|**On Transferability of Driver Observation Models from Simulated to Real Environments in Autonomous Cars**|Walter Morales-Alvarez et.al.|[2307.16543](http://arxiv.org/abs/2307.16543)|null|
+|**2023-07-31**|**Through-chip microchannels for three-dimensional integrated circuits cooling**|Lihong Ao et.al.|[2307.16495](http://arxiv.org/abs/2307.16495)|null|
+|**2023-07-31**|**Towards Head Computed Tomography Image Reconstruction Standardization with Deep Learning Assisted Automatic Detection**|Bowen Zheng et.al.|[2307.16440](http://arxiv.org/abs/2307.16440)|null|
+|**2023-07-31**|**JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery**|Jiahao Li et.al.|[2307.16377](http://arxiv.org/abs/2307.16377)|**[link](https://github.com/xljh0520/jotr)**|
 |**2023-07-28**|**PatchMixer: Rethinking network design to boost generalization for 3D point cloud understanding**|Davide Boscaini et.al.|[2307.15692](http://arxiv.org/abs/2307.15692)|null|
 |**2023-07-28**|**TrackAgent: 6D Object Tracking via Reinforcement Learning**|Konstantin Röhrl et.al.|[2307.15671](http://arxiv.org/abs/2307.15671)|null|
 |**2023-07-28**|**Multi-layer Aggregation as a key to feature-based OOD detection**|Benjamin Lambert et.al.|[2307.15647](http://arxiv.org/abs/2307.15647)|null|
