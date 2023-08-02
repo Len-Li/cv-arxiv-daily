@@ -1245,6 +1245,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
 |**2023-07-28**|**Dynamic PlenOctree for Adaptive Sampling Refinement in Explicit NeRF**|Haotian Bai et.al.|[2307.15333](http://arxiv.org/abs/2307.15333)|null|
 |**2023-07-27**|**Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields**|Xiangyu Wang et.al.|[2307.15131](http://arxiv.org/abs/2307.15131)|**[link](https://github.com/windingwind/seal-3d)**|
 |**2023-07-27**|**MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving**|Zirui Wu et.al.|[2307.15058](http://arxiv.org/abs/2307.15058)|**[link](https://github.com/open-air-sun/mars)**|
@@ -1673,6 +1674,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**On the vibrational properties of transition metal doped ZnO: surface, defect, and bandgap engineering**|Viviane M. A. Lage et.al.|[2308.00684](http://arxiv.org/abs/2308.00684)|null|
+|**2023-08-01**|**Human-M3: A Multi-view Multi-modal Dataset for 3D Human Pose Estimation in Outdoor Scenes**|Bohao Fan et.al.|[2308.00628](http://arxiv.org/abs/2308.00628)|**[link](https://github.com/soullessrobot/human-m3-dataset)**|
+|**2023-08-01**|**MonoNext: A 3D Monocular Object Detection with ConvNext**|Marcelo Eduardo Pederiva et.al.|[2308.00596](http://arxiv.org/abs/2308.00596)|null|
+|**2023-08-01**|**Sliding Touch-based Exploration for Modeling Unknown Object Shape with Multi-fingered Hands**|Yiting Chen et.al.|[2308.00576](http://arxiv.org/abs/2308.00576)|null|
+|**2023-08-01**|**PressureTransferNet: Human Attribute Guided Dynamic Ground Pressure Profile Transfer using 3D simulated Pressure Maps**|Lala Shakti Swarup Ray et.al.|[2308.00538](http://arxiv.org/abs/2308.00538)|null|
+|**2023-08-01**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
+|**2023-08-01**|**Side-Contact Representations with Convex Polygons in 3D: New Results for Complete Bipartite Graphs**|André Schulz et.al.|[2308.00380](http://arxiv.org/abs/2308.00380)|null|
+|**2023-08-01**|**Anomalous smoothing effect on the incompressible Navier-Stokes-Fourier limit from Boltzmann with periodic velocity**|Zhongyang Gu et.al.|[2308.00363](http://arxiv.org/abs/2308.00363)|null|
+|**2023-08-01**|**Lowis3D: Language-Driven Open-World Instance-Level 3D Scene Understanding**|Runyu Ding et.al.|[2308.00353](http://arxiv.org/abs/2308.00353)|null|
+|**2023-08-01**|**EC-Conf: A Ultra-fast Diffusion Model for Molecular Conformation Generation with Equivariant Consistency**|Zhiguang Fan et.al.|[2308.00237](http://arxiv.org/abs/2308.00237)|null|
 |**2023-07-31**|**DiVA-360: The Dynamic Visuo-Audio Dataset for Immersive Neural Fields**|Cheng-You Lu et.al.|[2307.16897](http://arxiv.org/abs/2307.16897)|null|
 |**2023-07-31**|**Disruptive Autoencoders: Leveraging Low-level features for 3D Medical Image Pre-training**|Jeya Maria Jose Valanarasu et.al.|[2307.16896](http://arxiv.org/abs/2307.16896)|null|
 |**2023-07-31**|**Advancing Smart Malnutrition Monitoring: A Multi-Modal Learning Approach for Vital Health Parameter Estimation**|Ashish Marisetty et.al.|[2307.16745](http://arxiv.org/abs/2307.16745)|null|
