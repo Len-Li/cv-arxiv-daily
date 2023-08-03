@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.02
+## Updated on 2023.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1683,7 +1683,7 @@ layout: default
 |**2023-08-01**|**Side-Contact Representations with Convex Polygons in 3D: New Results for Complete Bipartite Graphs**|André Schulz et.al.|[2308.00380](http://arxiv.org/abs/2308.00380)|null|
 |**2023-08-01**|**Anomalous smoothing effect on the incompressible Navier-Stokes-Fourier limit from Boltzmann with periodic velocity**|Zhongyang Gu et.al.|[2308.00363](http://arxiv.org/abs/2308.00363)|null|
 |**2023-08-01**|**Lowis3D: Language-Driven Open-World Instance-Level 3D Scene Understanding**|Runyu Ding et.al.|[2308.00353](http://arxiv.org/abs/2308.00353)|null|
-|**2023-08-01**|**EC-Conf: A Ultra-fast Diffusion Model for Molecular Conformation Generation with Equivariant Consistency**|Zhiguang Fan et.al.|[2308.00237](http://arxiv.org/abs/2308.00237)|null|
+|**2023-08-02**|**EC-Conf: An Ultra-fast Diffusion Model for Molecular Conformation Generation with Equivariant Consistency**|Zhiguang Fan et.al.|[2308.00237](http://arxiv.org/abs/2308.00237)|null|
 |**2023-07-31**|**DiVA-360: The Dynamic Visuo-Audio Dataset for Immersive Neural Fields**|Cheng-You Lu et.al.|[2307.16897](http://arxiv.org/abs/2307.16897)|null|
 |**2023-07-31**|**Disruptive Autoencoders: Leveraging Low-level features for 3D Medical Image Pre-training**|Jeya Maria Jose Valanarasu et.al.|[2307.16896](http://arxiv.org/abs/2307.16896)|null|
 |**2023-07-31**|**Advancing Smart Malnutrition Monitoring: A Multi-Modal Learning Approach for Vital Health Parameter Estimation**|Ashish Marisetty et.al.|[2307.16745](http://arxiv.org/abs/2307.16745)|null|
