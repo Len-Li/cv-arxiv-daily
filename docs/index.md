@@ -1683,7 +1683,7 @@ layout: default
 |**2023-08-03**|**Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling**|Zhao Yang et.al.|[2308.01850](http://arxiv.org/abs/2308.01850)|**[link](https://github.com/yangzhao1230/pcmdm)**|
 |**2023-08-03**|**An End-to-end Food Portion Estimation Framework Based on Shape Reconstruction from Monocular Image**|Zeman Shao et.al.|[2308.01810](http://arxiv.org/abs/2308.01810)|null|
 |**2023-08-03**|**PoissonNet: Resolution-Agnostic 3D Shape Reconstruction using Fourier Neural Operators**|Hector Andrade-Loarca et.al.|[2308.01766](http://arxiv.org/abs/2308.01766)|**[link](https://github.com/arsenal9971/poissonnet)**|
-|**2023-08-03**|**NeuroSwarm: Multi-Agent Neural 3D Scene Reconstruction and Segmentation with UAV for Optimal Navigation of Quadruped Robot**|Iana Zhura et.al.|[2308.01725](http://arxiv.org/abs/2308.01725)|null|
+|**2023-08-03**|**NeuroSwarm: Multi-Agent Neural 3D Scene Reconstruction and Segmentation with UAV for Optimal Navigation of Quadruped Robot**|Iana Zhura et.al.|[2308.01725](http://arxiv.org/abs/2308.01725)|**[link](https://github.com/iana-zhura/neuroswarm)**|
 |**2023-08-03**|**Weakly Supervised 3D Instance Segmentation without Instance-level Annotations**|Shichao Dong et.al.|[2308.01721](http://arxiv.org/abs/2308.01721)|null|
 |**2023-08-03**|**LiDAR-Camera Panoptic Segmentation via Geometry-Consistent and Semantic-Aware Alignment**|Zhiwei Zhang et.al.|[2308.01686](http://arxiv.org/abs/2308.01686)|null|
 |**2023-08-02**|**A Parsec-Scale Galactic 3D Dust Map out to 1.25 kpc from the Sun**|Gordian Edenhofer et.al.|[2308.01295](http://arxiv.org/abs/2308.01295)|null|
