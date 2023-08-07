@@ -1264,6 +1264,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-04**|**ES-MVSNet: Efficient Framework for End-to-end Self-supervised Multi-View Stereo**|Qiang Zhou et.al.|[2308.02191](http://arxiv.org/abs/2308.02191)|null|
 |**2023-08-02**|**Incorporating Season and Solar Specificity into Renderings made by a NeRF Architecture using Satellite Images**|Michael Gableman et.al.|[2308.01262](http://arxiv.org/abs/2308.01262)|**[link](https://github.com/enterprisecv-6/season-nerf)**|
 |**2023-08-01**|**High-Fidelity Eye Animatable Neural Radiance Fields for Human Face**|Hengfei Wang et.al.|[2308.00773](http://arxiv.org/abs/2308.00773)|null|
 |**2023-08-01**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
@@ -1697,6 +1698,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-04**|**Towards Generalist Foundation Model for Radiology**|Chaoyi Wu et.al.|[2308.02463](http://arxiv.org/abs/2308.02463)|**[link](https://github.com/chaoyi-wu/radfm)**|
+|**2023-08-04**|**Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints**|Yasunori Toshimitsu et.al.|[2308.02453](http://arxiv.org/abs/2308.02453)|null|
+|**2023-08-04**|**Brain MRI Segmentation using Template-Based Training and Visual Perception Augmentation**|Fang-Cheng Yeh et.al.|[2308.02363](http://arxiv.org/abs/2308.02363)|null|
+|**2023-08-04**|**Open superclusters I: The most populated primordial groups of open clusters in the third quadrant of the Galactic disc**|Juan Casado et.al.|[2308.02279](http://arxiv.org/abs/2308.02279)|null|
+|**2023-08-04**|**Disorder-Induced Phase Transitions in Three-Dimensional Chiral Second-Order Topological Insulator**|Yedi Shen et.al.|[2308.02256](http://arxiv.org/abs/2308.02256)|null|
+|**2023-08-04**|**Macroscopic effects in generation of attosecond XUV pulses via high-order frequency mixing in gases and plasma**|V. A. Birulia et.al.|[2308.02251](http://arxiv.org/abs/2308.02251)|null|
+|**2023-08-04**|**DTF-Net: Category-Level Pose Estimation and Shape Reconstruction via Deformable Template Field**|Haowen Wang et.al.|[2308.02239](http://arxiv.org/abs/2308.02239)|null|
+|**2023-08-04**|**MSECNet: Accurate and Robust Normal Estimation for 3D Point Clouds by Multi-Scale Edge Conditioning**|Haoyi Xiu et.al.|[2308.02237](http://arxiv.org/abs/2308.02237)|null|
+|**2023-08-04**|**Unexpected fault activation in underground gas storage. Part I: Mathematical model and mechanisms**|Andrea Franceschini et.al.|[2308.02198](http://arxiv.org/abs/2308.02198)|null|
+|**2023-08-04**|**Rapid 3D dynamic rupture modeling of the February 6, 2023, Kahramanmaraş, Turkey, $M_W$7.8 and $M_W$ 7.7 earthquake doublet**|Alice-Agnes Gabriel et.al.|[2308.02144](http://arxiv.org/abs/2308.02144)|null|
 |**2023-08-03**|**Solving Conformal Defects in 3D Conformal Field Theory using Fuzzy Sphere Regularization**|Liangdong Hu et.al.|[2308.01903](http://arxiv.org/abs/2308.01903)|null|
 |**2023-08-03**|**Strategies for optimizing plasmonic grating couplers with topology-based inverse design**|Michael Efseaff et.al.|[2308.01893](http://arxiv.org/abs/2308.01893)|null|
 |**2023-08-03**|**Blow up dynamics for the 3D energy-critical Nonlinear Schrödinger equation**|Tobias Schmid et.al.|[2308.01883](http://arxiv.org/abs/2308.01883)|null|
