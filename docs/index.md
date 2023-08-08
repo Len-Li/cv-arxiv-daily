@@ -1245,6 +1245,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-07**|**Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**|Junyi Zeng et.al.|[2308.03280](http://arxiv.org/abs/2308.03280)|null|
+|**2023-08-05**|**Where and How: Mitigating Confusion in Neural Radiance Fields from Sparse Inputs**|Yanqi Bao et.al.|[2308.02908](http://arxiv.org/abs/2308.02908)|**[link](https://github.com/bbbbby-99/wah-nerf)**|
+|**2023-08-05**|**Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis**|Yuxin Wang et.al.|[2308.02840](http://arxiv.org/abs/2308.02840)|null|
+|**2023-08-05**|**NeRFs: The Search for the Best 3D Representation**|Ravi Ramamoorthi et.al.|[2308.02751](http://arxiv.org/abs/2308.02751)|null|
 |**2023-08-04**|**ES-MVSNet: Efficient Framework for End-to-end Self-supervised Multi-View Stereo**|Qiang Zhou et.al.|[2308.02191](http://arxiv.org/abs/2308.02191)|null|
 |**2023-08-02**|**Incorporating Season and Solar Specificity into Renderings made by a NeRF Architecture using Satellite Images**|Michael Gableman et.al.|[2308.01262](http://arxiv.org/abs/2308.01262)|**[link](https://github.com/enterprisecv-6/season-nerf)**|
 |**2023-08-01**|**High-Fidelity Eye Animatable Neural Radiance Fields for Human Face**|Hengfei Wang et.al.|[2308.00773](http://arxiv.org/abs/2308.00773)|null|
@@ -1677,6 +1681,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-07**|**3D Motion Magnification: Visualizing Subtle Motions with Time Varying Radiance Fields**|Brandon Y. Feng et.al.|[2308.03757](http://arxiv.org/abs/2308.03757)|null|
+|**2023-08-07**|**FSD V2: Improving Fully Sparse 3D Object Detection with Virtual Voxels**|Lue Fan et.al.|[2308.03755](http://arxiv.org/abs/2308.03755)|**[link](https://github.com/tusen-ai/sst)**|
+|**2023-08-07**|**Screen-based 3D Subjective Experiment Software**|Songlin Fan et.al.|[2308.03698](http://arxiv.org/abs/2308.03698)|null|
+|**2023-08-07**|**Generative Models for the Deformation of Industrial Shapes with Linear Geometric Constraints: model order and parameter space reductions**|Guglielmo Padula et.al.|[2308.03662](http://arxiv.org/abs/2308.03662)|null|
+|**2023-08-07**|**FFF: Fragments-Guided Flexible Fitting for Building Complete Protein Structures**|Weijie Chen et.al.|[2308.03654](http://arxiv.org/abs/2308.03654)|null|
+|**2023-08-07**|**WarpEM: Dynamic Time Warping for Accurate Catheter Registration in EM-guided Procedures**|Ardit Ramadani et.al.|[2308.03652](http://arxiv.org/abs/2308.03652)|null|
+|**2023-08-07**|**MeTACAST: Target- and Context-aware Spatial Selection in VR**|Lixiang Zhao et.al.|[2308.03616](http://arxiv.org/abs/2308.03616)|**[link](https://github.com/LixiangZhao98/MeTACAST)**|
+|**2023-08-07**|**On global attraction to solitons for 3D Maxwell-Lorentz equations**|E. A. Kopylova et.al.|[2308.03611](http://arxiv.org/abs/2308.03611)|null|
+|**2023-08-07**|**AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose**|Huichao Zhang et.al.|[2308.03610](http://arxiv.org/abs/2308.03610)|null|
+|**2023-08-07**|**Three-temperature radiation hydrodynamics with PLUTO: Tests and applications to protoplanetary disks**|Dhruv Muley et.al.|[2308.03504](http://arxiv.org/abs/2308.03504)|null|
 |**2023-08-04**|**Towards Generalist Foundation Model for Radiology**|Chaoyi Wu et.al.|[2308.02463](http://arxiv.org/abs/2308.02463)|**[link](https://github.com/chaoyi-wu/radfm)**|
 |**2023-08-04**|**Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints**|Yasunori Toshimitsu et.al.|[2308.02453](http://arxiv.org/abs/2308.02453)|null|
 |**2023-08-04**|**Brain MRI Segmentation using Template-Based Training and Visual Perception Augmentation**|Fang-Cheng Yeh et.al.|[2308.02363](http://arxiv.org/abs/2308.02363)|null|
