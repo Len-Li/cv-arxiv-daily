@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.08
+## Updated on 2023.08.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1683,7 +1683,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-07**|**3D Motion Magnification: Visualizing Subtle Motions with Time Varying Radiance Fields**|Brandon Y. Feng et.al.|[2308.03757](http://arxiv.org/abs/2308.03757)|null|
 |**2023-08-07**|**FSD V2: Improving Fully Sparse 3D Object Detection with Virtual Voxels**|Lue Fan et.al.|[2308.03755](http://arxiv.org/abs/2308.03755)|**[link](https://github.com/tusen-ai/sst)**|
-|**2023-08-07**|**Screen-based 3D Subjective Experiment Software**|Songlin Fan et.al.|[2308.03698](http://arxiv.org/abs/2308.03698)|null|
+|**2023-08-08**|**Screen-based 3D Subjective Experiment Software**|Songlin Fan et.al.|[2308.03698](http://arxiv.org/abs/2308.03698)|null|
 |**2023-08-07**|**Generative Models for the Deformation of Industrial Shapes with Linear Geometric Constraints: model order and parameter space reductions**|Guglielmo Padula et.al.|[2308.03662](http://arxiv.org/abs/2308.03662)|null|
 |**2023-08-07**|**FFF: Fragments-Guided Flexible Fitting for Building Complete Protein Structures**|Weijie Chen et.al.|[2308.03654](http://arxiv.org/abs/2308.03654)|null|
 |**2023-08-07**|**WarpEM: Dynamic Time Warping for Accurate Catheter Registration in EM-guided Procedures**|Ardit Ramadani et.al.|[2308.03652](http://arxiv.org/abs/2308.03652)|null|
