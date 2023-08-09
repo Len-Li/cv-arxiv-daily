@@ -1245,6 +1245,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Digging into Depth Priors for Outdoor Neural Radiance Fields**|Chen Wang et.al.|[2308.04413](http://arxiv.org/abs/2308.04413)|null|
 |**2023-08-07**|**Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**|Junyi Zeng et.al.|[2308.03280](http://arxiv.org/abs/2308.03280)|null|
 |**2023-08-05**|**Where and How: Mitigating Confusion in Neural Radiance Fields from Sparse Inputs**|Yanqi Bao et.al.|[2308.02908](http://arxiv.org/abs/2308.02908)|**[link](https://github.com/bbbbby-99/wah-nerf)**|
 |**2023-08-05**|**Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis**|Yuxin Wang et.al.|[2308.02840](http://arxiv.org/abs/2308.02840)|null|
@@ -1681,6 +1682,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Non steady-state thermometry with optical diffraction tomography**|Adarsh B Vasista et.al.|[2308.04429](http://arxiv.org/abs/2308.04429)|null|
+|**2023-08-08**|**V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection**|Yichao Shen et.al.|[2308.04409](http://arxiv.org/abs/2308.04409)|**[link](https://github.com/yichaoshen-ms/v-detr)**|
+|**2023-08-08**|**DELFlow: Dense Efficient Learning of Scene Flow for Large-Scale Point Clouds**|Chensheng Peng et.al.|[2308.04383](http://arxiv.org/abs/2308.04383)|null|
+|**2023-08-08**|**3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment**|Ziyu Zhu et.al.|[2308.04352](http://arxiv.org/abs/2308.04352)|null|
+|**2023-08-08**|**Structural, electronic, magnetic properties of Cu-doped lead-apatite Pb $_{10-x}$Cu$_x$(PO$_4$)$_6$ O**|Jianfeng Zhang et.al.|[2308.04344](http://arxiv.org/abs/2308.04344)|null|
+|**2023-08-08**|**Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On**|Daiheng Gao et.al.|[2308.04288](http://arxiv.org/abs/2308.04288)|null|
+|**2023-08-08**|**Blur aware metric depth estimation with multi-focus plenoptic cameras**|Mathieu Labussière et.al.|[2308.04252](http://arxiv.org/abs/2308.04252)|null|
+|**2023-08-08**|**Towards Top-Down Stereoscopic Image Quality Assessment via Stereo Attention**|Huilin Zhang et.al.|[2308.04156](http://arxiv.org/abs/2308.04156)|**[link](https://github.com/fanning-zhang/satnet)**|
+|**2023-08-08**|**Impact of Cr-O hyrbidization in ACrO3 (A=La, Y): A Theoretical Investigation**|Jeel Swami et.al.|[2308.04090](http://arxiv.org/abs/2308.04090)|null|
+|**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|null|
 |**2023-08-07**|**3D Motion Magnification: Visualizing Subtle Motions with Time Varying Radiance Fields**|Brandon Y. Feng et.al.|[2308.03757](http://arxiv.org/abs/2308.03757)|null|
 |**2023-08-07**|**FSD V2: Improving Fully Sparse 3D Object Detection with Virtual Voxels**|Lue Fan et.al.|[2308.03755](http://arxiv.org/abs/2308.03755)|**[link](https://github.com/tusen-ai/sst)**|
 |**2023-08-08**|**Screen-based 3D Subjective Experiment Software**|Songlin Fan et.al.|[2308.03698](http://arxiv.org/abs/2308.03698)|null|
