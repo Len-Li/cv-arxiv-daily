@@ -1264,6 +1264,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826](http://arxiv.org/abs/2308.04826)|null|
+|**2023-08-09**|**A General Implicit Framework for Fast NeRF Composition and Rendering**|Xinyu Gao et.al.|[2308.04669](http://arxiv.org/abs/2308.04669)|null|
 |**2023-08-08**|**Digging into Depth Priors for Outdoor Neural Radiance Fields**|Chen Wang et.al.|[2308.04413](http://arxiv.org/abs/2308.04413)|null|
 |**2023-08-07**|**Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**|Junyi Zeng et.al.|[2308.03280](http://arxiv.org/abs/2308.03280)|null|
 |**2023-08-05**|**Where and How: Mitigating Confusion in Neural Radiance Fields from Sparse Inputs**|Yanqi Bao et.al.|[2308.02908](http://arxiv.org/abs/2308.02908)|**[link](https://github.com/bbbbby-99/wah-nerf)**|
@@ -1703,6 +1705,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**Scene-Generalizable Interactive Segmentation of Radiance Fields**|Songlin Tang et.al.|[2308.05104](http://arxiv.org/abs/2308.05104)|null|
+|**2023-08-09**|**Geometric Learning-Based Transformer Network for Estimation of Segmentation Errors**|Sneha Sree C et.al.|[2308.05068](http://arxiv.org/abs/2308.05068)|null|
+|**2023-08-09**|**Designing Cellular Networks for UAV Corridors via Bayesian Optimization**|Mohamed Benzaghta et.al.|[2308.05052](http://arxiv.org/abs/2308.05052)|null|
+|**2023-08-09**|**Neural Field Movement Primitives for Joint Modelling of Scenes and Motions**|Ahmet Tekden et.al.|[2308.05040](http://arxiv.org/abs/2308.05040)|null|
+|**2023-08-09**|**Random-Walk Metaball-Imaging Discrete Element Lattice Boltzmann Method for 3D Solute Transport in Fluid-Particle Systems with Complex Granular Morphologies**|Yifeng Zhao et.al.|[2308.05007](http://arxiv.org/abs/2308.05007)|null|
+|**2023-08-09**|**ACE-HetEM for ab initio Heterogenous Cryo-EM 3D Reconstruction**|Weijie Chen et.al.|[2308.04956](http://arxiv.org/abs/2308.04956)|null|
+|**2023-08-09**|**3-D SPH simulations of the FUOR flares in the clumpy accretion model**|Tatiana V. Demidova et.al.|[2308.04936](http://arxiv.org/abs/2308.04936)|null|
+|**2023-08-09**|**Striking The Right Balance: Three-Dimensional Ocean Sound Speed Field Reconstruction Using Tensor Neural Networks**|Siyuan Li et.al.|[2308.04930](http://arxiv.org/abs/2308.04930)|null|
+|**2023-08-09**|**A fundamental mechanism of solar eruption initiation in multipolar magnetic field**|Xinkai Bian et.al.|[2308.04924](http://arxiv.org/abs/2308.04924)|null|
+|**2023-08-09**|**HSD-PAM: High Speed Super Resolution Deep Penetration Photoacoustic Microscopy Imaging Boosted by Dual Branch Fusion Network**|Zhengyuan Zhang et.al.|[2308.04922](http://arxiv.org/abs/2308.04922)|null|
 |**2023-08-08**|**Non steady-state thermometry with optical diffraction tomography**|Adarsh B Vasista et.al.|[2308.04429](http://arxiv.org/abs/2308.04429)|null|
 |**2023-08-08**|**V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection**|Yichao Shen et.al.|[2308.04409](http://arxiv.org/abs/2308.04409)|**[link](https://github.com/yichaoshen-ms/v-detr)**|
 |**2023-08-09**|**DELFlow: Dense Efficient Learning of Scene Flow for Large-Scale Point Clouds**|Chensheng Peng et.al.|[2308.04383](http://arxiv.org/abs/2308.04383)|null|
