@@ -1684,6 +1684,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-10**|**PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs**|Wentao Hu et.al.|[2308.05744](http://arxiv.org/abs/2308.05744)|**[link](https://github.com/manycore-research/PlankAssembly)**|
+|**2023-08-10**|**Neural Progressive Meshes**|Yun-Chun Chen et.al.|[2308.05741](http://arxiv.org/abs/2308.05741)|null|
+|**2023-08-10**|**FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models**|Guangkai Xu et.al.|[2308.05733](http://arxiv.org/abs/2308.05733)|null|
+|**2023-08-10**|**Algorithms for 3D Hilbert Encoding and Decoding**|David Walker et.al.|[2308.05673](http://arxiv.org/abs/2308.05673)|null|
+|**2023-08-10**|**2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**|Minhao Li et.al.|[2308.05667](http://arxiv.org/abs/2308.05667)|null|
+|**2023-08-10**|**Attention-based 3D CNN with Multi-layer Features for Alzheimer's Disease Diagnosis using Brain Images**|Yanteng Zhang et.al.|[2308.05655](http://arxiv.org/abs/2308.05655)|null|
+|**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
+|**2023-08-10**|**3D Modeling of a Guitar Using a Computer Tomography Scan**|Siddique Dalwale et.al.|[2308.05552](http://arxiv.org/abs/2308.05552)|null|
+|**2023-08-10**|**Critical Points ++: An Agile Point Cloud Importance Measure for Robust Classification, Adversarial Defense and Explainable AI**|Meir Yossef Levi et.al.|[2308.05525](http://arxiv.org/abs/2308.05525)|null|
+|**2023-08-10**|**Mono-hydra: Real-time 3D scene graph construction from monocular camera input with IMU**|U. V. B. L. Udugama et.al.|[2308.05515](http://arxiv.org/abs/2308.05515)|null|
 |**2023-08-09**|**Scene-Generalizable Interactive Segmentation of Radiance Fields**|Songlin Tang et.al.|[2308.05104](http://arxiv.org/abs/2308.05104)|null|
 |**2023-08-10**|**Geometric Learning-Based Transformer Network for Estimation of Segmentation Errors**|Sneha Sree C et.al.|[2308.05068](http://arxiv.org/abs/2308.05068)|null|
 |**2023-08-09**|**Designing Cellular Networks for UAV Corridors via Bayesian Optimization**|Mohamed Benzaghta et.al.|[2308.05052](http://arxiv.org/abs/2308.05052)|null|
