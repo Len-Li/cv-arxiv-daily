@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.10
+## Updated on 2023.08.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1685,7 +1685,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-09**|**Scene-Generalizable Interactive Segmentation of Radiance Fields**|Songlin Tang et.al.|[2308.05104](http://arxiv.org/abs/2308.05104)|null|
-|**2023-08-09**|**Geometric Learning-Based Transformer Network for Estimation of Segmentation Errors**|Sneha Sree C et.al.|[2308.05068](http://arxiv.org/abs/2308.05068)|null|
+|**2023-08-10**|**Geometric Learning-Based Transformer Network for Estimation of Segmentation Errors**|Sneha Sree C et.al.|[2308.05068](http://arxiv.org/abs/2308.05068)|null|
 |**2023-08-09**|**Designing Cellular Networks for UAV Corridors via Bayesian Optimization**|Mohamed Benzaghta et.al.|[2308.05052](http://arxiv.org/abs/2308.05052)|null|
 |**2023-08-09**|**Neural Field Movement Primitives for Joint Modelling of Scenes and Motions**|Ahmet Tekden et.al.|[2308.05040](http://arxiv.org/abs/2308.05040)|null|
 |**2023-08-09**|**Random-Walk Metaball-Imaging Discrete Element Lattice Boltzmann Method for 3D Solute Transport in Fluid-Particle Systems with Complex Granular Morphologies**|Yifeng Zhao et.al.|[2308.05007](http://arxiv.org/abs/2308.05007)|null|
