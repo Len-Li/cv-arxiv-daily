@@ -1264,6 +1264,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-11**|**Focused Specific Objects NeRF**|Yuesong Li et.al.|[2308.05970](http://arxiv.org/abs/2308.05970)|null|
+|**2023-08-11**|**VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields**|Dominic Maggio et.al.|[2308.05939](http://arxiv.org/abs/2308.05939)|null|
 |**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826](http://arxiv.org/abs/2308.04826)|null|
 |**2023-08-09**|**A General Implicit Framework for Fast NeRF Composition and Rendering**|Xinyu Gao et.al.|[2308.04669](http://arxiv.org/abs/2308.04669)|null|
 |**2023-08-08**|**Digging into Depth Priors for Outdoor Neural Radiance Fields**|Chen Wang et.al.|[2308.04413](http://arxiv.org/abs/2308.04413)|null|
@@ -1705,6 +1707,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-11**|**ARGUS: Visualization of AI-Assisted Task Guidance in AR**|Sonia Castelo et.al.|[2308.06246](http://arxiv.org/abs/2308.06246)|null|
+|**2023-08-11**|**Hybrid-Supervised Deep Learning for Domain Transfer 3D Protoacoustic Image Reconstruction**|Yankun Lang et.al.|[2308.06194](http://arxiv.org/abs/2308.06194)|null|
+|**2023-08-11**|**Efficient Large-scale AUV-based Visual Seafloor Mapping**|Mengkun She et.al.|[2308.06147](http://arxiv.org/abs/2308.06147)|null|
+|**2023-08-11**|**Experts Weights Averaging: A New General Training Scheme for Vision Transformers**|Yongqi Huang et.al.|[2308.06093](http://arxiv.org/abs/2308.06093)|null|
+|**2023-08-11**|**A matrix-free parallel solution method for the three-dimensional heterogeneous Helmholtz equation**|Jinqiang Chen et.al.|[2308.06085](http://arxiv.org/abs/2308.06085)|null|
+|**2023-08-11**|**Versatile Face Animator: Driving Arbitrary 3D Facial Avatar in RGBD Space**|Haoyu Wang et.al.|[2308.06076](http://arxiv.org/abs/2308.06076)|null|
+|**2023-08-11**|**Goodenough-Kanamori-Anderson rules in 2D magnet: A chemical trend in MCl2 with M=V, Mn, and Ni**|Thi Phuong Thao Nguyen et.al.|[2308.06068](http://arxiv.org/abs/2308.06068)|null|
+|**2023-08-11**|**MS3D++: Ensemble of Experts for Multi-Source Unsupervised Domain Adaption in 3D Object Detection**|Darren Tsai et.al.|[2308.05988](http://arxiv.org/abs/2308.05988)|**[link](https://github.com/darrenjkt/ms3d)**|
+|**2023-08-11**|**Learned Point Cloud Compression for Classification**|Mateen Ulhaq et.al.|[2308.05959](http://arxiv.org/abs/2308.05959)|**[link](https://github.com/multimedialabsfu/learned-point-cloud-compression-for-classification)**|
+|**2023-08-11**|**Uncertainty-Aware Cross-Modal Transfer Network for Sketch-Based 3D Shape Retrieval**|Yiyang Cai et.al.|[2308.05948](http://arxiv.org/abs/2308.05948)|null|
 |**2023-08-10**|**PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs**|Wentao Hu et.al.|[2308.05744](http://arxiv.org/abs/2308.05744)|**[link](https://github.com/manycore-research/PlankAssembly)**|
 |**2023-08-10**|**Neural Progressive Meshes**|Yun-Chun Chen et.al.|[2308.05741](http://arxiv.org/abs/2308.05741)|null|
 |**2023-08-10**|**FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models**|Guangkai Xu et.al.|[2308.05733](http://arxiv.org/abs/2308.05733)|null|
