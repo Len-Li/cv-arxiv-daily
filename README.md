@@ -1264,6 +1264,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118](http://arxiv.org/abs/2308.07118)|**[link](https://github.com/maftej/iisnerf)**|
+|**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032](http://arxiv.org/abs/2308.07032)|null|
 |**2023-08-11**|**Focused Specific Objects NeRF**|Yuesong Li et.al.|[2308.05970](http://arxiv.org/abs/2308.05970)|null|
 |**2023-08-11**|**VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields**|Dominic Maggio et.al.|[2308.05939](http://arxiv.org/abs/2308.05939)|null|
 |**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826](http://arxiv.org/abs/2308.04826)|null|
@@ -1707,6 +1709,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**Bow varieties: Stable envelopes and their 3d mirror symmetry**|Tommaso Maria Botta et.al.|[2308.07300](http://arxiv.org/abs/2308.07300)|null|
+|**2023-08-14**|**Accurate Eye Tracking from Dense 3D Surface Reconstructions using Single-Shot Deflectometry**|Jiazhang Wang et.al.|[2308.07298](http://arxiv.org/abs/2308.07298)|null|
+|**2023-08-14**|**The relativistic Euler equations: ESI notes on their geo-analytic structures and implications for shocks in $1D$ and multi-dimensions**|Leonardo Abbrescia et.al.|[2308.07289](http://arxiv.org/abs/2308.07289)|null|
+|**2023-08-14**|**Efficient Real-time Smoke Filtration with 3D LiDAR for Search and Rescue with Autonomous Heterogeneous Robotic Systems**|Alexander Kyuroson et.al.|[2308.07264](http://arxiv.org/abs/2308.07264)|null|
+|**2023-08-14**|**Large-kernel Attention for Efficient and Robust Brain Lesion Segmentation**|Liam Chalcroft et.al.|[2308.07251](http://arxiv.org/abs/2308.07251)|**[link](https://github.com/liamchalcroft/mdunet)**|
+|**2023-08-14**|**UniWorld: Autonomous Driving Pre-training via World Models**|Chen Min et.al.|[2308.07234](http://arxiv.org/abs/2308.07234)|**[link](https://github.com/chaytonmin/uniworld)**|
+|**2023-08-14**|**Large-scale environment mapping and immersive human-robot interaction for agricultural mobile robot teleoperation**|Tao Liu et.al.|[2308.07231](http://arxiv.org/abs/2308.07231)|null|
+|**2023-08-14**|**High-resolution emission spectroscopy retrievals of MASCARA-1b with CRIRES+: Strong detections of CO, H $_2$O and Fe emission lines and a C$/$ O consistent with solar**|Swaetha Ramkumar et.al.|[2308.07157](http://arxiv.org/abs/2308.07157)|null|
+|**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153](http://arxiv.org/abs/2308.07153)|null|
+|**2023-08-14**|**Generalization of the Nested Wilson Loop Formalism in Topological Dirac Semimetals with Higher-order Fermi Arcs**|Hui Zeng et.al.|[2308.07137](http://arxiv.org/abs/2308.07137)|null|
 |**2023-08-11**|**ARGUS: Visualization of AI-Assisted Task Guidance in AR**|Sonia Castelo et.al.|[2308.06246](http://arxiv.org/abs/2308.06246)|null|
 |**2023-08-11**|**Hybrid-Supervised Deep Learning for Domain Transfer 3D Protoacoustic Image Reconstruction**|Yankun Lang et.al.|[2308.06194](http://arxiv.org/abs/2308.06194)|null|
 |**2023-08-11**|**Efficient Large-scale AUV-based Visual Seafloor Mapping**|Mengkun She et.al.|[2308.06147](http://arxiv.org/abs/2308.06147)|null|
