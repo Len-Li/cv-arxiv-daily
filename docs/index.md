@@ -1688,6 +1688,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**ObjectSDF++: Improved Object-Compositional Neural Implicit Surfaces**|Qianyi Wu et.al.|[2308.07868](http://arxiv.org/abs/2308.07868)|**[link](https://github.com/qianyiwu/objectsdf_plus)**|
+|**2023-08-15**|**Fault-tolerant complexes**|Hector Bombin et.al.|[2308.07844](http://arxiv.org/abs/2308.07844)|null|
+|**2023-08-15**|**CCD-3DR: Consistent Conditioning in Diffusion for Single-Image 3D Reconstruction**|Yan Di et.al.|[2308.07837](http://arxiv.org/abs/2308.07837)|null|
+|**2023-08-15**|**Improved test-retest reliability of $\textit{R}_2^*$ and susceptibility quantification using multi-shot multi echo 3D EPI**|Yujia Huang et.al.|[2308.07811](http://arxiv.org/abs/2308.07811)|null|
+|**2023-08-15**|**Local well-posedness for incompressible neo-Hookean Elastic equations in almost critical Sobolev spaces**|Huali Zhang et.al.|[2308.07739](http://arxiv.org/abs/2308.07739)|null|
+|**2023-08-15**|**UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation**|Haiyang Wang et.al.|[2308.07732](http://arxiv.org/abs/2308.07732)|**[link](https://github.com/haiyang-w/unitr)**|
+|**2023-08-15**|**Extended Preintegration for Relative State Estimation of Leader-Follower Platform**|Ruican Xia et.al.|[2308.07723](http://arxiv.org/abs/2308.07723)|null|
+|**2023-08-15**|**SCTBEM: A scaled coordinate transformation boundary element method with 99-line MATLAB code**|Bo Yu et.al.|[2308.07681](http://arxiv.org/abs/2308.07681)|null|
+|**2023-08-15**|**Exponentially-fitted finite elements for $H({\rm curl})$ and $H({\rm div})$ convection-diffusion problems**|Jindong Wang et.al.|[2308.07680](http://arxiv.org/abs/2308.07680)|null|
+|**2023-08-15**|**Rapid model-guided design of organ-scale synthetic vasculature for biomanufacturing**|Zachary A. Sexton et.al.|[2308.07586](http://arxiv.org/abs/2308.07586)|null|
 |**2023-08-14**|**Bow varieties: Stable envelopes and their 3d mirror symmetry**|Tommaso Maria Botta et.al.|[2308.07300](http://arxiv.org/abs/2308.07300)|null|
 |**2023-08-14**|**Accurate Eye Tracking from Dense 3D Surface Reconstructions using Single-Shot Deflectometry**|Jiazhang Wang et.al.|[2308.07298](http://arxiv.org/abs/2308.07298)|null|
 |**2023-08-14**|**The relativistic Euler equations: ESI notes on their geo-analytic structures and implications for shocks in $1D$ and multi-dimensions**|Leonardo Abbrescia et.al.|[2308.07289](http://arxiv.org/abs/2308.07289)|null|
