@@ -1421,7 +1421,7 @@
 |**2023-04-07**|**Event-based Camera Tracker by $\nabla$ t NeRF**|Mana Masuda et.al.|[2304.04559](http://arxiv.org/abs/2304.04559)|null|
 |**2023-04-10**|**Neural Residual Radiance Fields for Streamably Free-Viewpoint Videos**|Liao Wang et.al.|[2304.04452](http://arxiv.org/abs/2304.04452)|null|
 |**2023-04-10**|**Inferring Fluid Dynamics via Inverse Rendering**|Jinxian Liu et.al.|[2304.04446](http://arxiv.org/abs/2304.04446)|null|
-|**2023-04-10**|**Instance Neural Radiance Field**|Benran Hu et.al.|[2304.04395](http://arxiv.org/abs/2304.04395)|null|
+|**2023-04-10**|**Instance Neural Radiance Field**|Benran Hu et.al.|[2304.04395](http://arxiv.org/abs/2304.04395)|**[link](https://github.com/lyclyc52/instance_nerf)**|
 |**2023-04-12**|**NeRF applied to satellite imagery for surface reconstruction**|Federico Semeraro et.al.|[2304.04133](http://arxiv.org/abs/2304.04133)|**[link](https://github.com/fsemerar/satnerf)**|
 |**2023-04-08**|**PVD-AL: Progressive Volume Distillation with Active Learning for Efficient Conversion Between Different NeRF Architectures**|Shuangkang Fang et.al.|[2304.04012](http://arxiv.org/abs/2304.04012)|**[link](https://github.com/megvii-research/AAAI2023-PVD)**|
 |**2023-04-07**|**Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field**|Leheng Li et.al.|[2304.03526](http://arxiv.org/abs/2304.03526)|null|
@@ -1554,7 +1554,7 @@
 |**2023-01-10**|**Traditional Readability Formulas Compared for English**|Bruce W. Lee et.al.|[2301.02975](http://arxiv.org/abs/2301.02975)|null|
 |**2023-01-09**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950](http://arxiv.org/abs/2301.00950)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-11**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411](http://arxiv.org/abs/2301.00411)|**[link](https://github.com/luciferbobo/d4nerf)**|
-|**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056](http://arxiv.org/abs/2212.13056)|null|
+|**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056](http://arxiv.org/abs/2212.13056)|**[link](https://github.com/tianfr/mononerf)**|
 |**2022-12-25**|**PaletteNeRF: Palette-based Color Editing for NeRFs**|Qiling Wu et.al.|[2212.12871](http://arxiv.org/abs/2212.12871)|null|
 |**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|[2212.11966](http://arxiv.org/abs/2212.11966)|null|
 |**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950](http://arxiv.org/abs/2212.10950)|null|
@@ -1653,7 +1653,7 @@
 |**2022-10-10**|**SiNeRF: Sinusoidal Neural Radiance Fields for Joint Pose Estimation and Scene Reconstruction**|Yitong Xia et.al.|[2210.04553](http://arxiv.org/abs/2210.04553)|**[link](https://github.com/yitongx/sinerf)**|
 |**2022-10-09**|**Robustifying the Multi-Scale Representation of Neural Radiance Fields**|Nishant Jain et.al.|[2210.04233](http://arxiv.org/abs/2210.04233)|null|
 |**2022-10-09**|**Estimating Neural Reflectance Field from Radiance Field using Tree Structures**|Xiu Li et.al.|[2210.04217](http://arxiv.org/abs/2210.04217)|null|
-|**2022-10-09**|**Data augmentation for NeRF: a geometric consistent solution based on view morphing**|Matteo Bortolon et.al.|[2210.04214](http://arxiv.org/abs/2210.04214)|null|
+|**2022-10-09**|**Data augmentation for NeRF: a geometric consistent solution based on view morphing**|Matteo Bortolon et.al.|[2210.04214](http://arxiv.org/abs/2210.04214)|**[link](https://github.com/mbortolon97/vm-nerf)**|
 |**2022-10-09**|**Towards Efficient Neural Scene Graphs by Learning Consistency Fields**|Yeji Song et.al.|[2210.04127](http://arxiv.org/abs/2210.04127)|null|
 |**2022-10-08**|**ViewFool: Evaluating the Robustness of Visual Recognition to Adversarial Viewpoints**|Yinpeng Dong et.al.|[2210.03895](http://arxiv.org/abs/2210.03895)|**[link](https://github.com/heathcliff-saku/viewfool_)**|
 |**2022-10-04**|**SelfNeRF: Fast Training NeRF for Human from Monocular Self-rotating Video**|Bo Peng et.al.|[2210.01651](http://arxiv.org/abs/2210.01651)|null|
@@ -1730,15 +1730,15 @@
 |**2023-08-15**|**Extended Preintegration for Relative State Estimation of Leader-Follower Platform**|Ruican Xia et.al.|[2308.07723](http://arxiv.org/abs/2308.07723)|null|
 |**2023-08-15**|**SCTBEM: A scaled coordinate transformation boundary element method with 99-line MATLAB code**|Bo Yu et.al.|[2308.07681](http://arxiv.org/abs/2308.07681)|null|
 |**2023-08-15**|**Exponentially-fitted finite elements for $H({\rm curl})$ and $H({\rm div})$ convection-diffusion problems**|Jindong Wang et.al.|[2308.07680](http://arxiv.org/abs/2308.07680)|null|
-|**2023-08-15**|**Rapid model-guided design of organ-scale synthetic vasculature for biomanufacturing**|Zachary A. Sexton et.al.|[2308.07586](http://arxiv.org/abs/2308.07586)|null|
+|**2023-08-15**|**Rapid model-guided design of organ-scale synthetic vasculature for biomanufacturing**|Zachary A. Sexton et.al.|[2308.07586](http://arxiv.org/abs/2308.07586)|**[link](https://github.com/zasexton/synthetic-vascular-toolkit)**|
 |**2023-08-14**|**Bow varieties: Stable envelopes and their 3d mirror symmetry**|Tommaso Maria Botta et.al.|[2308.07300](http://arxiv.org/abs/2308.07300)|null|
 |**2023-08-14**|**Accurate Eye Tracking from Dense 3D Surface Reconstructions using Single-Shot Deflectometry**|Jiazhang Wang et.al.|[2308.07298](http://arxiv.org/abs/2308.07298)|null|
 |**2023-08-14**|**The relativistic Euler equations: ESI notes on their geo-analytic structures and implications for shocks in $1D$ and multi-dimensions**|Leonardo Abbrescia et.al.|[2308.07289](http://arxiv.org/abs/2308.07289)|null|
 |**2023-08-14**|**Efficient Real-time Smoke Filtration with 3D LiDAR for Search and Rescue with Autonomous Heterogeneous Robotic Systems**|Alexander Kyuroson et.al.|[2308.07264](http://arxiv.org/abs/2308.07264)|null|
 |**2023-08-14**|**Large-kernel Attention for Efficient and Robust Brain Lesion Segmentation**|Liam Chalcroft et.al.|[2308.07251](http://arxiv.org/abs/2308.07251)|**[link](https://github.com/liamchalcroft/mdunet)**|
 |**2023-08-14**|**UniWorld: Autonomous Driving Pre-training via World Models**|Chen Min et.al.|[2308.07234](http://arxiv.org/abs/2308.07234)|**[link](https://github.com/chaytonmin/uniworld)**|
-|**2023-08-14**|**Large-scale environment mapping and immersive human-robot interaction for agricultural mobile robot teleoperation**|Tao Liu et.al.|[2308.07231](http://arxiv.org/abs/2308.07231)|null|
-|**2023-08-14**|**High-resolution emission spectroscopy retrievals of MASCARA-1b with CRIRES+: Strong detections of CO, H $_2$O and Fe emission lines and a C$/$ O consistent with solar**|Swaetha Ramkumar et.al.|[2308.07157](http://arxiv.org/abs/2308.07157)|null|
+|**2023-08-14**|**Large-scale environment mapping and immersive human-robot interaction for agricultural mobile robot teleoperation**|Tao Liu et.al.|[2308.07231](http://arxiv.org/abs/2308.07231)|**[link](https://github.com/liutao1126/enhance-sfm)**|
+|**2023-08-14**|**High-resolution emission spectroscopy retrievals of MASCARA-1b with CRIRES+: Strong detections of CO, H $_2$O and Fe emission lines and a C$/$ O consistent with solar**|Swaetha Ramkumar et.al.|[2308.07157](http://arxiv.org/abs/2308.07157)|**[link](https://github.com/exoclime/FastChem)**|
 |**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153](http://arxiv.org/abs/2308.07153)|null|
 |**2023-08-14**|**Generalization of the Nested Wilson Loop Formalism in Topological Dirac Semimetals with Higher-order Fermi Arcs**|Hui Zeng et.al.|[2308.07137](http://arxiv.org/abs/2308.07137)|null|
 |**2023-08-11**|**ARGUS: Visualization of AI-Assisted Task Guidance in AR**|Sonia Castelo et.al.|[2308.06246](http://arxiv.org/abs/2308.06246)|null|
@@ -1777,10 +1777,10 @@
 |**2023-08-08**|**3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment**|Ziyu Zhu et.al.|[2308.04352](http://arxiv.org/abs/2308.04352)|null|
 |**2023-08-08**|**Structural, electronic, magnetic properties of Cu-doped lead-apatite Pb $_{10-x}$Cu$_x$(PO$_4$)$_6$ O**|Jianfeng Zhang et.al.|[2308.04344](http://arxiv.org/abs/2308.04344)|null|
 |**2023-08-08**|**Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On**|Daiheng Gao et.al.|[2308.04288](http://arxiv.org/abs/2308.04288)|null|
-|**2023-08-08**|**Blur aware metric depth estimation with multi-focus plenoptic cameras**|Mathieu Labussière et.al.|[2308.04252](http://arxiv.org/abs/2308.04252)|null|
+|**2023-08-08**|**Blur aware metric depth estimation with multi-focus plenoptic cameras**|Mathieu Labussière et.al.|[2308.04252](http://arxiv.org/abs/2308.04252)|**[link](https://github.com/comsee-research/blade)**|
 |**2023-08-08**|**Towards Top-Down Stereoscopic Image Quality Assessment via Stereo Attention**|Huilin Zhang et.al.|[2308.04156](http://arxiv.org/abs/2308.04156)|**[link](https://github.com/fanning-zhang/satnet)**|
 |**2023-08-08**|**Impact of Cr-O hyrbidization in ACrO3 (A=La, Y): A Theoretical Investigation**|Jeel Swami et.al.|[2308.04090](http://arxiv.org/abs/2308.04090)|null|
-|**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|null|
+|**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-08-07**|**3D Motion Magnification: Visualizing Subtle Motions with Time Varying Radiance Fields**|Brandon Y. Feng et.al.|[2308.03757](http://arxiv.org/abs/2308.03757)|null|
 |**2023-08-07**|**FSD V2: Improving Fully Sparse 3D Object Detection with Virtual Voxels**|Lue Fan et.al.|[2308.03755](http://arxiv.org/abs/2308.03755)|**[link](https://github.com/tusen-ai/sst)**|
 |**2023-08-08**|**Screen-based 3D Subjective Experiment Software**|Songlin Fan et.al.|[2308.03698](http://arxiv.org/abs/2308.03698)|null|
@@ -1813,7 +1813,7 @@
 |**2023-08-03**|**LiDAR-Camera Panoptic Segmentation via Geometry-Consistent and Semantic-Aware Alignment**|Zhiwei Zhang et.al.|[2308.01686](http://arxiv.org/abs/2308.01686)|null|
 |**2023-08-02**|**A Parsec-Scale Galactic 3D Dust Map out to 1.25 kpc from the Sun**|Gordian Edenhofer et.al.|[2308.01295](http://arxiv.org/abs/2308.01295)|null|
 |**2023-08-02**|**Unified Entropy-Ruled Einstein Relation for Bulk and Low-Dimensional Systems: A Hopping to Band Shift Analysis**|K. Navamani et.al.|[2308.01275](http://arxiv.org/abs/2308.01275)|null|
-|**2023-08-02**|**Tirtha -- An Automated Platform to Crowdsource Images and Create 3D Models of Heritage Sites**|Jyotirmaya Shivottam et.al.|[2308.01246](http://arxiv.org/abs/2308.01246)|null|
+|**2023-08-02**|**Tirtha -- An Automated Platform to Crowdsource Images and Create 3D Models of Heritage Sites**|Jyotirmaya Shivottam et.al.|[2308.01246](http://arxiv.org/abs/2308.01246)|**[link](https://github.com/smlab-niser/tirtha-public)**|
 |**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125](http://arxiv.org/abs/2308.01125)|null|
 |**2023-08-02**|**Accelerated Benders Decomposition for Variable-Height Transport Packaging Optimisation**|Alain Lehmann et.al.|[2308.01104](http://arxiv.org/abs/2308.01104)|null|
 |**2023-08-02**|**Hand tracking for clinical applications: validation of the Google MediaPipe Hand (GMH) and the depth-enhanced GMH-D frameworks**|Gianluca Amprimo et.al.|[2308.01088](http://arxiv.org/abs/2308.01088)|null|
@@ -1876,7 +1876,7 @@
 |**2023-07-25**|**Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face Shape Estimation**|Will Rowan et.al.|[2307.13639](http://arxiv.org/abs/2307.13639)|null|
 |**2023-07-25**|**Implicit Reconstructions from Deformed Projections for CryoET**|Vinith Kishore et.al.|[2307.13516](http://arxiv.org/abs/2307.13516)|null|
 |**2023-07-25**|**HeightFormer: Explicit Height Modeling without Extra Data for Camera-only 3D Object Detection in Bird's Eye View**|Yiming Wu et.al.|[2307.13510](http://arxiv.org/abs/2307.13510)|null|
-|**2023-07-25**|**Weakly-supervised 3D Pose Transfer with Keypoints**|Jinnan Chen et.al.|[2307.13459](http://arxiv.org/abs/2307.13459)|null|
+|**2023-07-25**|**Weakly-supervised 3D Pose Transfer with Keypoints**|Jinnan Chen et.al.|[2307.13459](http://arxiv.org/abs/2307.13459)|**[link](https://github.com/jinnan-chen/3d-pose-transfer)**|
 |**2023-07-25**|**Observations and Modeling of Unstable Proton and Alpha Particle Velocity Distributions in Sub-Alfvenic Solar Wind at PSP Perihelia**|Leon Ofman et.al.|[2307.13410](http://arxiv.org/abs/2307.13410)|null|
 |**2023-07-25**|**Mapping gravity in stellar nurseries -- establishing the effectiveness of 2D acceleration maps**|Zhen-Zhen He et.al.|[2307.13409](http://arxiv.org/abs/2307.13409)|**[link](https://github.com/zhenzhen-research/phi_2d)**|
 |**2023-07-25**|**The Emerging Weak Antilocalization Effect in Semimetal Ta $_{0.7}$Nb$_{0.3}$Sb$_2$ Single Crystal**|Lei Guo et.al.|[2307.13385](http://arxiv.org/abs/2307.13385)|null|
@@ -2145,7 +2145,7 @@
 |**2023-06-13**|**Observational Signatures of Circumbinary Discs I: Kinematics**|Josh Calcino et.al.|[2306.07909](http://arxiv.org/abs/2306.07909)|**[link](https://github.com/cpinte/pymcfost)**|
 |**2023-06-13**|**Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data**|Stanislaw Szymanowicz et.al.|[2306.07881](http://arxiv.org/abs/2306.07881)|null|
 |**2023-06-13**|**Fock State Sampling Method -- Characteristic temperature of maximal fluctuations for interacting bosons in box potentials**|M. B. Kruk et.al.|[2306.07816](http://arxiv.org/abs/2306.07816)|null|
-|**2023-06-13**|**Automated 3D Pre-Training for Molecular Property Prediction**|Xu Wang et.al.|[2306.07812](http://arxiv.org/abs/2306.07812)|null|
+|**2023-06-13**|**Automated 3D Pre-Training for Molecular Property Prediction**|Xu Wang et.al.|[2306.07812](http://arxiv.org/abs/2306.07812)|**[link](https://github.com/lars-research/3d-pgt)**|
 |**2023-06-13**|**Low-Resource White-Box Semantic Segmentation of Supporting Towers on 3D Point Clouds via Signature Shape Identification**|Diogo Lavado et.al.|[2306.07809](http://arxiv.org/abs/2306.07809)|null|
 |**2023-06-13**|**All pure bipartite entangled states can be semi-self-tested with only one measurement setting on each party**|Lijinzhi Lin et.al.|[2306.07755](http://arxiv.org/abs/2306.07755)|null|
 |**2023-06-13**|**Particle-resolved study of the onset of turbulence**|Eshita Joshi et.al.|[2306.07711](http://arxiv.org/abs/2306.07711)|null|
@@ -2169,7 +2169,7 @@
 |**2023-06-09**|**3D objects and scenes classification, recognition, segmentation, and reconstruction using 3D point cloud data: A review**|Omar Elharrouss et.al.|[2306.05978](http://arxiv.org/abs/2306.05978)|null|
 |**2023-06-09**|**On the numerical integration of the multidimensional Kuramoto model}**|Marcus A. M. de Aguiar et.al.|[2306.05939](http://arxiv.org/abs/2306.05939)|null|
 |**2023-06-09**|**Depth-dependent resolution quantification in 3D fluorescence microscopy**|Neil Wright et.al.|[2306.05918](http://arxiv.org/abs/2306.05918)|null|
-|**2023-06-09**|**TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses**|Xuesong Chen et.al.|[2306.05888](http://arxiv.org/abs/2306.05888)|null|
+|**2023-06-09**|**TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses**|Xuesong Chen et.al.|[2306.05888](http://arxiv.org/abs/2306.05888)|**[link](https://github.com/poodarchu/efg)**|
 |**2023-06-09**|**Transfer Function Optimization for Comparative Volume Rendering**|Christoph Neuhauser et.al.|[2306.05885](http://arxiv.org/abs/2306.05885)|null|
 |**2023-06-08**|**Tracking Everything Everywhere All at Once**|Qianqian Wang et.al.|[2306.05422](http://arxiv.org/abs/2306.05422)|null|
 |**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421](http://arxiv.org/abs/2306.05421)|null|
