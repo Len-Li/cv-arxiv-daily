@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.23
+## Updated on 2023.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1705,7 +1705,7 @@ layout: default
 |**2023-08-22**|**$W(0,b)$ algebra and the dual theory of 3D asymptotically flat higher spin gravity**|Nabamita Banerjee et.al.|[2308.11583](http://arxiv.org/abs/2308.11583)|null|
 |**2023-08-22**|**TrackFlow: Multi-Object Tracking with Normalizing Flows**|Gianluca Mancusi et.al.|[2308.11513](http://arxiv.org/abs/2308.11513)|null|
 |**2023-08-22**|**IT3D: Improved Text-to-3D Generation with Explicit View Synthesis**|Yiwen Chen et.al.|[2308.11473](http://arxiv.org/abs/2308.11473)|**[link](https://github.com/buaacyw/it3d-text-to-3d)**|
-|**2023-08-22**|**Dynamic Open Vocabulary Enhanced Safe-landing with Intelligence (DOVESEI)**|Haechan Mark Bon et.al.|[2308.11471](http://arxiv.org/abs/2308.11471)|**[link](https://github.com/mistlab/dovesei)**|
+|**2023-08-22**|**Dynamic Open Vocabulary Enhanced Safe-landing with Intelligence (DOVESEI)**|Haechan Mark Bong et.al.|[2308.11471](http://arxiv.org/abs/2308.11471)|**[link](https://github.com/mistlab/dovesei)**|
 |**2023-08-22**|**PoseGraphNet++: Enriching 3D Human Pose with Orientation Estimation**|Soubarna Banik et.al.|[2308.11440](http://arxiv.org/abs/2308.11440)|null|
 |**2023-08-22**|**ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes**|Chandan Yeshwanth et.al.|[2308.11417](http://arxiv.org/abs/2308.11417)|null|
 |**2023-08-22**|**Water Structures Reveal Local Hydrophobicity on the In2O3(111) Surface**|Hao Chen et.al.|[2308.11404](http://arxiv.org/abs/2308.11404)|null|
