@@ -1245,6 +1245,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields**|Hyeonseop Song et.al.|[2308.11974](http://arxiv.org/abs/2308.11974)|null|
+|**2023-08-23**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
+|**2023-08-22**|**Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts**|Wenyan Cong et.al.|[2308.11793](http://arxiv.org/abs/2308.11793)|null|
+|**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 |**2023-08-22**|**Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views**|Wentian Qu et.al.|[2308.11198](http://arxiv.org/abs/2308.11198)|null|
 |**2023-08-22**|**Efficient View Synthesis with Neural Radiance Distribution Field**|Yushuang Wu et.al.|[2308.11130](http://arxiv.org/abs/2308.11130)|null|
 |**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902](http://arxiv.org/abs/2308.10902)|null|
@@ -1700,6 +1704,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**CHORUS: Learning Canonicalized 3D Human-Object Spatial Relations from Unbounded Synthesized Images**|Sookwan Han et.al.|[2308.12288](http://arxiv.org/abs/2308.12288)|null|
+|**2023-08-23**|**NimbRo wins ANA Avatar XPRIZE Immersive Telepresence Competition: Human-Centric Evaluation and Lessons Learned**|Christian Lenz et.al.|[2308.12238](http://arxiv.org/abs/2308.12238)|null|
+|**2023-08-23**|**Finite time singularities to the 3D incompressible Euler equations for solutions in $C^{\infty}(\mathbb{R}^3 \setminus \{0\})\cap C^{1,α}\cap L^2$**|Diego Córdoba et.al.|[2308.12197](http://arxiv.org/abs/2308.12197)|null|
+|**2023-08-23**|**Self-Supervised Knowledge-Driven Deep Learning for 3D Magnetic Inversion**|Yinshuo Li et.al.|[2308.12193](http://arxiv.org/abs/2308.12193)|null|
+|**2023-08-23**|**S-matrix on effective string and compactified membrane**|Fiona K. Seibold et.al.|[2308.12189](http://arxiv.org/abs/2308.12189)|null|
+|**2023-08-23**|**The potential of VLTI observations for the study of circumstellar disk variability**|A. Bensberg et.al.|[2308.12160](http://arxiv.org/abs/2308.12160)|null|
+|**2023-08-23**|**A Visualization System for Hexahedral Mesh Quality Study**|Lei Si et.al.|[2308.12158](http://arxiv.org/abs/2308.12158)|null|
+|**2023-08-23**|**Mesh Conflation of Oblique Photogrammetric Models using Virtual Cameras and Truncated Signed Distance Field**|Shuang Song et.al.|[2308.12139](http://arxiv.org/abs/2308.12139)|null|
+|**2023-08-23**|**Tunable ultrafast thermionic emission from femtosecond-laser hot spot on a metal surface: role of laser polarization and angle of incidence**|Mousumi Upadhyay Kahaly et.al.|[2308.12132](http://arxiv.org/abs/2308.12132)|null|
+|**2023-08-23**|**Multi-UAV Deployment in Obstacle-Cluttered Environments with LOS Connectivity**|Yuda Chen et.al.|[2308.12117](http://arxiv.org/abs/2308.12117)|null|
 |**2023-08-22**|**GRIP: Generating Interaction Poses Using Latent Consistency and Spatial Cues**|Omid Taheri et.al.|[2308.11617](http://arxiv.org/abs/2308.11617)|null|
 |**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607](http://arxiv.org/abs/2308.11607)|null|
 |**2023-08-22**|**$W(0,b)$ algebra and the dual theory of 3D asymptotically flat higher spin gravity**|Nabamita Banerjee et.al.|[2308.11583](http://arxiv.org/abs/2308.11583)|null|
