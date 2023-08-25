@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.24
+## Updated on 2023.08.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1710,7 +1710,7 @@ layout: default
 |**2023-08-23**|**Self-Supervised Knowledge-Driven Deep Learning for 3D Magnetic Inversion**|Yinshuo Li et.al.|[2308.12193](http://arxiv.org/abs/2308.12193)|null|
 |**2023-08-23**|**S-matrix on effective string and compactified membrane**|Fiona K. Seibold et.al.|[2308.12189](http://arxiv.org/abs/2308.12189)|null|
 |**2023-08-23**|**The potential of VLTI observations for the study of circumstellar disk variability**|A. Bensberg et.al.|[2308.12160](http://arxiv.org/abs/2308.12160)|null|
-|**2023-08-23**|**A Visualization System for Hexahedral Mesh Quality Study**|Lei Si et.al.|[2308.12158](http://arxiv.org/abs/2308.12158)|null|
+|**2023-08-24**|**A Visualization System for Hexahedral Mesh Quality Study**|Lei Si et.al.|[2308.12158](http://arxiv.org/abs/2308.12158)|null|
 |**2023-08-23**|**Mesh Conflation of Oblique Photogrammetric Models using Virtual Cameras and Truncated Signed Distance Field**|Shuang Song et.al.|[2308.12139](http://arxiv.org/abs/2308.12139)|null|
 |**2023-08-23**|**Tunable ultrafast thermionic emission from femtosecond-laser hot spot on a metal surface: role of laser polarization and angle of incidence**|Mousumi Upadhyay Kahaly et.al.|[2308.12132](http://arxiv.org/abs/2308.12132)|null|
 |**2023-08-23**|**Multi-UAV Deployment in Obstacle-Cluttered Environments with LOS Connectivity**|Yuda Chen et.al.|[2308.12117](http://arxiv.org/abs/2308.12117)|null|
