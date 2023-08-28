@@ -1282,7 +1282,7 @@
 |**2023-08-21**|**Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstruction**|Georgios Kouros et.al.|[2308.08530](http://arxiv.org/abs/2308.08530)|**[link](https://github.com/gkouros/ref-dvgo)**|
 |**2023-08-16**|**SceNeRFlow: Time-Consistent Reconstruction of General Dynamic Scenes**|Edith Tretschk et.al.|[2308.08258](http://arxiv.org/abs/2308.08258)|null|
 |**2023-08-16**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118](http://arxiv.org/abs/2308.07118)|**[link](https://github.com/maftej/iisnerf)**|
-|**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032](http://arxiv.org/abs/2308.07032)|null|
+|**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032](http://arxiv.org/abs/2308.07032)|**[link](https://github.com/madaoer/s3im_nerf)**|
 |**2023-08-11**|**Focused Specific Objects NeRF**|Yuesong Li et.al.|[2308.05970](http://arxiv.org/abs/2308.05970)|null|
 |**2023-08-11**|**VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields**|Dominic Maggio et.al.|[2308.05939](http://arxiv.org/abs/2308.05939)|null|
 |**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826](http://arxiv.org/abs/2308.04826)|null|
@@ -1411,7 +1411,7 @@
 |**2023-04-20**|**Learning Neural Duplex Radiance Fields for Real-Time View Synthesis**|Ziyu Wan et.al.|[2304.10537](http://arxiv.org/abs/2304.10537)|null|
 |**2023-04-21**|**Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**|Frederik Warburg et.al.|[2304.10532](http://arxiv.org/abs/2304.10532)|**[link](https://github.com/ethanweber/nerfbusters)**|
 |**2023-04-20**|**ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects**|Marco Toschi et.al.|[2304.10448](http://arxiv.org/abs/2304.10448)|null|
-|**2023-04-20**|**LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**|Tang Tao et.al.|[2304.10406](http://arxiv.org/abs/2304.10406)|null|
+|**2023-04-20**|**LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**|Tang Tao et.al.|[2304.10406](http://arxiv.org/abs/2304.10406)|**[link](https://github.com/tangtaogo/lidar-nerf)**|
 |**2023-04-20**|**Revisiting Implicit Neural Representations in Low-Level Vision**|Wentian Xu et.al.|[2304.10250](http://arxiv.org/abs/2304.10250)|**[link](https://github.com/wentxul/linr)**|
 |**2023-04-20**|**Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**|Dongting Hu et.al.|[2304.10075](http://arxiv.org/abs/2304.10075)|null|
 |**2023-04-20**|**Neural Radiance Fields: Past, Present, and Future**|Ansh Mittal et.al.|[2304.10050](http://arxiv.org/abs/2304.10050)|null|
@@ -1595,7 +1595,7 @@
 |**2022-12-06**|**D-TensoRF: Tensorial Radiance Fields for Dynamic Scenes**|Hankyu Jang et.al.|[2212.02375](http://arxiv.org/abs/2212.02375)|null|
 |**2022-12-07**|**GARF:Geometry-Aware Generalized Neural Radiance Field**|Yue Shi et.al.|[2212.02280](http://arxiv.org/abs/2212.02280)|null|
 |**2022-12-05**|**INGeo: Accelerating Instant Neural Scene Reconstruction with Noisy Geometry Priors**|Chaojian Li et.al.|[2212.01959](http://arxiv.org/abs/2212.01959)|null|
-|**2022-12-03**|**MaRF: Representing Mars as Neural Radiance Fields**|Lorenzo Giusti et.al.|[2212.01672](http://arxiv.org/abs/2212.01672)|null|
+|**2022-12-03**|**MaRF: Representing Mars as Neural Radiance Fields**|Lorenzo Giusti et.al.|[2212.01672](http://arxiv.org/abs/2212.01672)|**[link](https://github.com/lrnzgiusti/marf)**|
 |**2022-12-03**|**StegaNeRF: Embedding Invisible Information within Neural Radiance Fields**|Chenxin Li et.al.|[2212.01602](http://arxiv.org/abs/2212.01602)|null|
 |**2022-12-02**|**RT-NeRF: Real-Time On-Device Neural Radiance Fields Towards Immersive AR/VR Rendering**|Chaojian Li et.al.|[2212.01120](http://arxiv.org/abs/2212.01120)|null|
 |**2022-12-02**|**3D-TOGO: Towards Text-Guided Cross-Category 3D Object Generation**|Zutao Jiang et.al.|[2212.01103](http://arxiv.org/abs/2212.01103)|null|
@@ -1747,7 +1747,7 @@
 |**2023-08-23**|**Tunable ultrafast thermionic emission from femtosecond-laser hot spot on a metal surface: role of laser polarization and angle of incidence**|Mousumi Upadhyay Kahaly et.al.|[2308.12132](http://arxiv.org/abs/2308.12132)|null|
 |**2023-08-23**|**Multi-UAV Deployment in Obstacle-Cluttered Environments with LOS Connectivity**|Yuda Chen et.al.|[2308.12117](http://arxiv.org/abs/2308.12117)|null|
 |**2023-08-22**|**GRIP: Generating Interaction Poses Using Latent Consistency and Spatial Cues**|Omid Taheri et.al.|[2308.11617](http://arxiv.org/abs/2308.11617)|null|
-|**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607](http://arxiv.org/abs/2308.11607)|null|
+|**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607](http://arxiv.org/abs/2308.11607)|**[link](https://github.com/kuanchihhuang/moma-m3t)**|
 |**2023-08-22**|**$W(0,b)$ algebra and the dual theory of 3D asymptotically flat higher spin gravity**|Nabamita Banerjee et.al.|[2308.11583](http://arxiv.org/abs/2308.11583)|null|
 |**2023-08-22**|**TrackFlow: Multi-Object Tracking with Normalizing Flows**|Gianluca Mancusi et.al.|[2308.11513](http://arxiv.org/abs/2308.11513)|null|
 |**2023-08-22**|**IT3D: Improved Text-to-3D Generation with Explicit View Synthesis**|Yiwen Chen et.al.|[2308.11473](http://arxiv.org/abs/2308.11473)|**[link](https://github.com/buaacyw/it3d-text-to-3d)**|
@@ -1776,7 +1776,7 @@
 |**2023-08-18**|**PoSynDA: Multi-Hypothesis Pose Synthesis Domain Adaptation for Robust 3D Human Pose Estimation**|Hanbing Liu et.al.|[2308.09678](http://arxiv.org/abs/2308.09678)|**[link](https://github.com/hbing-l/posynda)**|
 |**2023-08-18**|**Production of 44Ti and iron-group nuclei in the ejecta of 3D neutrino-driven supernovae**|Andre Sieverding et.al.|[2308.09659](http://arxiv.org/abs/2308.09659)|null|
 |**2023-08-18**|**A deep learning approach for the 3D reconstruction of dust density and temperature in star-forming regions**|Victor F. Ksoll et.al.|[2308.09657](http://arxiv.org/abs/2308.09657)|null|
-|**2023-08-16**|**TeCH: Text-guided Reconstruction of Lifelike Clothed Humans**|Yangyi Huang et.al.|[2308.08545](http://arxiv.org/abs/2308.08545)|null|
+|**2023-08-16**|**TeCH: Text-guided Reconstruction of Lifelike Clothed Humans**|Yangyi Huang et.al.|[2308.08545](http://arxiv.org/abs/2308.08545)|**[link](https://github.com/huangyangyi/tech)**|
 |**2023-08-17**|**Two-and-a-half Order Score-based Model for Solving 3D Ill-posed Inverse Problems**|Zirong Li et.al.|[2308.08511](http://arxiv.org/abs/2308.08511)|null|
 |**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479](http://arxiv.org/abs/2308.08479)|**[link](https://github.com/parskatt/dedode)**|
 |**2023-08-16**|**Probabilistic Ray-Tracing Aided Positioning at mmWave frequencies**|Viet-Hoa Nguyen et.al.|[2308.08441](http://arxiv.org/abs/2308.08441)|null|
@@ -1824,7 +1824,7 @@
 |**2023-08-10**|**Attention-based 3D CNN with Multi-layer Features for Alzheimer's Disease Diagnosis using Brain Images**|Yanteng Zhang et.al.|[2308.05655](http://arxiv.org/abs/2308.05655)|null|
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**3D Modeling of a Guitar Using a Computer Tomography Scan**|Siddique Dalwale et.al.|[2308.05552](http://arxiv.org/abs/2308.05552)|null|
-|**2023-08-10**|**Critical Points ++: An Agile Point Cloud Importance Measure for Robust Classification, Adversarial Defense and Explainable AI**|Meir Yossef Levi et.al.|[2308.05525](http://arxiv.org/abs/2308.05525)|null|
+|**2023-08-10**|**Critical Points ++: An Agile Point Cloud Importance Measure for Robust Classification, Adversarial Defense and Explainable AI**|Meir Yossef Levi et.al.|[2308.05525](http://arxiv.org/abs/2308.05525)|**[link](https://github.com/yossilevii100/critical_points2)**|
 |**2023-08-10**|**Mono-hydra: Real-time 3D scene graph construction from monocular camera input with IMU**|U. V. B. L. Udugama et.al.|[2308.05515](http://arxiv.org/abs/2308.05515)|null|
 |**2023-08-09**|**Scene-Generalizable Interactive Segmentation of Radiance Fields**|Songlin Tang et.al.|[2308.05104](http://arxiv.org/abs/2308.05104)|null|
 |**2023-08-10**|**Geometric Learning-Based Transformer Network for Estimation of Segmentation Errors**|Sneha Sree C et.al.|[2308.05068](http://arxiv.org/abs/2308.05068)|null|
@@ -1863,7 +1863,7 @@
 |**2023-08-04**|**Disorder-Induced Phase Transitions in Three-Dimensional Chiral Second-Order Topological Insulator**|Yedi Shen et.al.|[2308.02256](http://arxiv.org/abs/2308.02256)|null|
 |**2023-08-04**|**Macroscopic effects in generation of attosecond XUV pulses via high-order frequency mixing in gases and plasma**|V. A. Birulia et.al.|[2308.02251](http://arxiv.org/abs/2308.02251)|null|
 |**2023-08-04**|**DTF-Net: Category-Level Pose Estimation and Shape Reconstruction via Deformable Template Field**|Haowen Wang et.al.|[2308.02239](http://arxiv.org/abs/2308.02239)|null|
-|**2023-08-04**|**MSECNet: Accurate and Robust Normal Estimation for 3D Point Clouds by Multi-Scale Edge Conditioning**|Haoyi Xiu et.al.|[2308.02237](http://arxiv.org/abs/2308.02237)|null|
+|**2023-08-04**|**MSECNet: Accurate and Robust Normal Estimation for 3D Point Clouds by Multi-Scale Edge Conditioning**|Haoyi Xiu et.al.|[2308.02237](http://arxiv.org/abs/2308.02237)|**[link](https://github.com/martianxiu/MSECNet)**|
 |**2023-08-04**|**Unexpected fault activation in underground gas storage. Part I: Mathematical model and mechanisms**|Andrea Franceschini et.al.|[2308.02198](http://arxiv.org/abs/2308.02198)|null|
 |**2023-08-04**|**Rapid 3D dynamic rupture modeling of the February 6, 2023, Kahramanmaraş, Turkey, $M_W$7.8 and $M_W$ 7.7 earthquake doublet**|Alice-Agnes Gabriel et.al.|[2308.02144](http://arxiv.org/abs/2308.02144)|null|
 |**2023-08-03**|**Solving Conformal Defects in 3D Conformal Field Theory using Fuzzy Sphere Regularization**|Liangdong Hu et.al.|[2308.01903](http://arxiv.org/abs/2308.01903)|null|
@@ -1875,7 +1875,7 @@
 |**2023-08-03**|**PoissonNet: Resolution-Agnostic 3D Shape Reconstruction using Fourier Neural Operators**|Hector Andrade-Loarca et.al.|[2308.01766](http://arxiv.org/abs/2308.01766)|**[link](https://github.com/arsenal9971/poissonnet)**|
 |**2023-08-03**|**NeuroSwarm: Multi-Agent Neural 3D Scene Reconstruction and Segmentation with UAV for Optimal Navigation of Quadruped Robot**|Iana Zhura et.al.|[2308.01725](http://arxiv.org/abs/2308.01725)|**[link](https://github.com/iana-zhura/neuroswarm)**|
 |**2023-08-03**|**Weakly Supervised 3D Instance Segmentation without Instance-level Annotations**|Shichao Dong et.al.|[2308.01721](http://arxiv.org/abs/2308.01721)|null|
-|**2023-08-03**|**LiDAR-Camera Panoptic Segmentation via Geometry-Consistent and Semantic-Aware Alignment**|Zhiwei Zhang et.al.|[2308.01686](http://arxiv.org/abs/2308.01686)|null|
+|**2023-08-03**|**LiDAR-Camera Panoptic Segmentation via Geometry-Consistent and Semantic-Aware Alignment**|Zhiwei Zhang et.al.|[2308.01686](http://arxiv.org/abs/2308.01686)|**[link](https://github.com/zhangzw12319/lcps)**|
 |**2023-08-02**|**A Parsec-Scale Galactic 3D Dust Map out to 1.25 kpc from the Sun**|Gordian Edenhofer et.al.|[2308.01295](http://arxiv.org/abs/2308.01295)|null|
 |**2023-08-02**|**Unified Entropy-Ruled Einstein Relation for Bulk and Low-Dimensional Systems: A Hopping to Band Shift Analysis**|K. Navamani et.al.|[2308.01275](http://arxiv.org/abs/2308.01275)|null|
 |**2023-08-02**|**Tirtha -- An Automated Platform to Crowdsource Images and Create 3D Models of Heritage Sites**|Jyotirmaya Shivottam et.al.|[2308.01246](http://arxiv.org/abs/2308.01246)|**[link](https://github.com/smlab-niser/tirtha-public)**|
@@ -2062,7 +2062,7 @@
 |**2023-07-07**|**VesselVAE: Recursive Variational Autoencoders for 3D Blood Vessel Synthesis**|Paula Feldman et.al.|[2307.03592](http://arxiv.org/abs/2307.03592)|null|
 |**2023-07-07**|**Unsupervised Segmentation of Fetal Brain MRI using Deep Learning Cascaded Registration**|Valentin Comte et.al.|[2307.03579](http://arxiv.org/abs/2307.03579)|**[link](https://github.com/valbcn/casreg)**|
 |**2023-07-07**|**Multimodal Deep Learning for Personalized Renal Cell Carcinoma Prognosis: Integrating CT Imaging and Clinical Data**|Maryamalsadat Mahootiha et.al.|[2307.03575](http://arxiv.org/abs/2307.03575)|null|
-|**2023-07-07**|**VariGrad: A Novel Feature Vector Architecture for Geometric Deep Learning on Unregistered Data**|Emmanuel Hartman et.al.|[2307.03553](http://arxiv.org/abs/2307.03553)|null|
+|**2023-07-07**|**VariGrad: A Novel Feature Vector Architecture for Geometric Deep Learning on Unregistered Data**|Emmanuel Hartman et.al.|[2307.03553](http://arxiv.org/abs/2307.03553)|**[link](https://github.com/emmanuel-hartman/pytorch_varigrad)**|
 |**2023-07-07**|**Language-free Compositional Action Generation via Decoupling Refinement**|Xiao Liu et.al.|[2307.03538](http://arxiv.org/abs/2307.03538)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|null|
@@ -2192,7 +2192,7 @@
 |**2023-06-16**|**Evaluating hardware differences for crowdsourcing and traditional recruiting methods**|Paul-David Joshua Zuercher et.al.|[2306.09913](http://arxiv.org/abs/2306.09913)|null|
 |**2023-06-16**|**AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation**|Yifei Zeng et.al.|[2306.09864](http://arxiv.org/abs/2306.09864)|null|
 |**2023-06-16**|**Efficient Search and Detection of Relevant Plant Parts using Semantics-Aware Active Vision**|Akshay K. Burusa et.al.|[2306.09801](http://arxiv.org/abs/2306.09801)|null|
-|**2023-06-16**|**End-to-End Vectorized HD-map Construction with Piecewise Bezier Curve**|Limeng Qiao et.al.|[2306.09700](http://arxiv.org/abs/2306.09700)|null|
+|**2023-06-16**|**End-to-End Vectorized HD-map Construction with Piecewise Bezier Curve**|Limeng Qiao et.al.|[2306.09700](http://arxiv.org/abs/2306.09700)|**[link](https://github.com/er-muyue/bemapnet)**|
 |**2023-06-16**|**Self-assembled Frameworks Solid with Turbostratic Stacked Crystalline Layers -- A Frustrated 3D Crystal Lattice**|Hongmei Qin et.al.|[2306.09688](http://arxiv.org/abs/2306.09688)|null|
 |**2023-06-16**|**EVOPOSE: A Recursive Transformer For 3D Human Pose Estimation With Kinematic Structure Priors**|Yaqi Zhang et.al.|[2306.09615](http://arxiv.org/abs/2306.09615)|null|
 |**2023-06-15**|**Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**|Lu Yu et.al.|[2306.09551](http://arxiv.org/abs/2306.09551)|null|
