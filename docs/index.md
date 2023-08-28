@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.27
+## Updated on 2023.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1711,7 +1711,7 @@ layout: default
 |**2023-08-24**|**Less is More: Towards Efficient Few-shot 3D Semantic Segmentation via Training-free Networks**|Xiangyang Zhu et.al.|[2308.12961](http://arxiv.org/abs/2308.12961)|**[link](https://github.com/yangyangyang127/tfs3d)**|
 |**2023-08-24**|**Perspective-aware Convolution for Monocular 3D Object Detection**|Jia-Quan Yu et.al.|[2308.12938](http://arxiv.org/abs/2308.12938)|**[link](https://github.com/KenYu910645/perspective-aware-convolution)**|
 |**2023-08-24**|**Robot Pose Nowcasting: Forecast the Future to Improve the Present**|Alessandro Simoni et.al.|[2308.12914](http://arxiv.org/abs/2308.12914)|null|
-|**2023-08-24**|**Efficient assessment of window views in high-rise, high-density urban areas using 3D color City Information Models**|Maosu Li et.al.|[2308.12909](http://arxiv.org/abs/2308.12909)|null|
+|**2023-08-25**|**Efficient assessment of window views in high-rise, high-density urban areas using 3D color City Information Models**|Maosu Li et.al.|[2308.12909](http://arxiv.org/abs/2308.12909)|null|
 |**2023-08-24**|**Forming Gas Giants Around a Range of Protostellar M-dwarfs by Gas Disk Gravitational Instability**|Alan P. Boss et.al.|[2308.12903](http://arxiv.org/abs/2308.12903)|null|
 |**2023-08-24**|**ToonTalker: Cross-Domain Face Reenactment**|Yuan Gong et.al.|[2308.12866](http://arxiv.org/abs/2308.12866)|null|
 |**2023-08-24**|**A highly efficient and accurate divergence-free spectral method for curl-curl equation in two and three dimensions**|Lechang Qin et.al.|[2308.12865](http://arxiv.org/abs/2308.12865)|null|
