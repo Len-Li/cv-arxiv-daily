@@ -1726,6 +1726,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**Symmetry-group-protected microfluidics for multiplexed stress-free manipulations**|Jeremias Gonzalez et.al.|[2308.13464](http://arxiv.org/abs/2308.13464)|null|
+|**2023-08-25**|**Harvard Glaucoma Detection and Progression: A Multimodal Multitask Dataset and Generalization-Reinforced Semi-Supervised Learning**|Yan Luo et.al.|[2308.13411](http://arxiv.org/abs/2308.13411)|null|
+|**2023-08-25**|**A mechanics theory for the exploration of a high-throughput, sterile 3D $\textit{in vitro}$ traumatic brain injury model**|Yang Wan et.al.|[2308.13409](http://arxiv.org/abs/2308.13409)|null|
+|**2023-08-25**|**Analysis of melting and flow in the hot-end of a material extrusion 3D printer using X-ray computed tomography**|Julian Kattinger et.al.|[2308.13376](http://arxiv.org/abs/2308.13376)|null|
+|**2023-08-25**|**Distribution-Aligned Diffusion for Human Mesh Recovery**|Lin Geng Foo et.al.|[2308.13369](http://arxiv.org/abs/2308.13369)|null|
+|**2023-08-25**|**Helioseismic determination of the solar metal mass fraction**|G. Buldgen et.al.|[2308.13368](http://arxiv.org/abs/2308.13368)|null|
+|**2023-08-25**|**3D Face Alignment Through Fusion of Head Pose Information and Features**|Jaehyun So et.al.|[2308.13327](http://arxiv.org/abs/2308.13327)|null|
+|**2023-08-25**|**Impact of hot exozodiacal dust on the polarimetric analysis of close-in exoplanets**|Kevin Ollmann et.al.|[2308.13253](http://arxiv.org/abs/2308.13253)|null|
+|**2023-08-25**|**Unpaired Multi-domain Attribute Translation of 3D Facial Shapes with a Square and Symmetric Geometric Map**|Zhenfeng Fan et.al.|[2308.13245](http://arxiv.org/abs/2308.13245)|**[link](https://github.com/naughtyzz/3d_facial_shape_attribute_translation_ssgmap)**|
+|**2023-08-25**|**WSTac: Interactive Surface Perception based on Whisker-Inspired and Self-Illuminated Vision-Based Tactile Sensor**|Kai Chong Lei et.al.|[2308.13241](http://arxiv.org/abs/2308.13241)|null|
 |**2023-08-24**|**ROAM: Robust and Object-aware Motion Generation using Neural Pose Descriptors**|Wanyue Zhang et.al.|[2308.12969](http://arxiv.org/abs/2308.12969)|null|
 |**2023-08-24**|**NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes**|Muhammad Zubair Irshad et.al.|[2308.12967](http://arxiv.org/abs/2308.12967)|null|
 |**2023-08-24**|**POCO: 3D Pose and Shape Estimation with Confidence**|Sai Kumar Dwivedi et.al.|[2308.12965](http://arxiv.org/abs/2308.12965)|null|
