@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.29
+## Updated on 2023.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1711,7 +1711,7 @@ layout: default
 |**2023-08-28**|**Heterogeneous Drone Small Cells: Optimal 3D Placement for Downlink Power Efficiency and Rate Satisfaction**|Nima Namvar et.al.|[2308.14708](http://arxiv.org/abs/2308.14708)|null|
 |**2023-08-28**|**Multi-objective Optimization of Savonius Wind Turbine**|Seyed Ehsan Hosseini et.al.|[2308.14648](http://arxiv.org/abs/2308.14648)|null|
 |**2023-08-28**|**VesselShot: Few-shot learning for cerebral blood vessel segmentation**|Mumu Aktar et.al.|[2308.14626](http://arxiv.org/abs/2308.14626)|null|
-|**2023-08-28**|**Compositional Semantic Mix for Domain Adaptation in Point Cloud Segmentation**|Cristiano Saltori et.al.|[2308.14619](http://arxiv.org/abs/2308.14619)|**[link](https://github.com/saltoricristiano/cosmix-uda)**|
+|**2023-08-29**|**Compositional Semantic Mix for Domain Adaptation in Point Cloud Segmentation**|Cristiano Saltori et.al.|[2308.14619](http://arxiv.org/abs/2308.14619)|**[link](https://github.com/saltoricristiano/cosmix-uda)**|
 |**2023-08-28**|**VoroMesh: Learning Watertight Surface Meshes with Voronoi Diagrams**|Nissim Maruani et.al.|[2308.14616](http://arxiv.org/abs/2308.14616)|null|
 |**2023-08-28**|**Data-driven 3D Room Geometry Inference with a Linear Loudspeaker Array and a Single Microphone**|Cagdas Tuna et.al.|[2308.14611](http://arxiv.org/abs/2308.14611)|null|
 |**2023-08-28**|**Semi-Supervised Learning for Visual Bird's Eye View Semantic Segmentation**|Junyu Zhu et.al.|[2308.14525](http://arxiv.org/abs/2308.14525)|null|
