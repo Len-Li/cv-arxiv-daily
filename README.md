@@ -1264,6 +1264,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**Pose-Free Neural Radiance Fields via Implicit Pose Regularization**|Jiahui Zhang et.al.|[2308.15049](http://arxiv.org/abs/2308.15049)|null|
+|**2023-08-28**|**CLNeRF: Continual Learning Meets NeRF**|Zhipeng Cai et.al.|[2308.14816](http://arxiv.org/abs/2308.14816)|**[link](https://github.com/intellabs/clnerf)**|
 |**2023-08-26**|**InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**|Yanqi Bao et.al.|[2308.13897](http://arxiv.org/abs/2308.13897)|**[link](https://github.com/bbbbby-99/insertnerf)**|
 |**2023-08-24**|**NOVA: NOvel View Augmentation for Neural Composition of Dynamic Objects**|Dakshit Agrawal et.al.|[2308.12560](http://arxiv.org/abs/2308.12560)|**[link](https://github.com/dakshitagrawal/nova)**|
 |**2023-08-23**|**Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields**|Hyeonseop Song et.al.|[2308.11974](http://arxiv.org/abs/2308.11974)|null|
@@ -1727,6 +1729,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**3D Adversarial Augmentations for Robust Out-of-Domain Predictions**|Alexander Lehner et.al.|[2308.15479](http://arxiv.org/abs/2308.15479)|null|
+|**2023-08-29**|**Open source magnetometer for characterizing magnetic fields in ultracold experiments**|Koray Dinçer et.al.|[2308.15476](http://arxiv.org/abs/2308.15476)|null|
+|**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472](http://arxiv.org/abs/2308.15472)|null|
+|**2023-08-29**|**WrappingNet: Mesh Autoencoder via Deep Sphere Deformation**|Eric Lei et.al.|[2308.15413](http://arxiv.org/abs/2308.15413)|null|
+|**2023-08-29**|**Ego-Motion Estimation and Dynamic Motion Separation from 3D Point Clouds for Accumulating Data and Improving 3D Object Detection**|Patrick Palmer et.al.|[2308.15357](http://arxiv.org/abs/2308.15357)|null|
+|**2023-08-29**|**3D-MuPPET: 3D Multi-Pigeon Pose Estimation and Tracking**|Urs Waldmann et.al.|[2308.15316](http://arxiv.org/abs/2308.15316)|null|
+|**2023-08-29**|**Spatio-temporal MLP-graph network for 3D human pose estimation**|Tanvir Hassan et.al.|[2308.15313](http://arxiv.org/abs/2308.15313)|**[link](https://github.com/nies14/spatio-temporal-mlp-graph)**|
+|**2023-08-29**|**Insights into heterogeneous catalysis on surfaces with 3d transition metals: Spin-dependent chemisorption models and magnetic field effects**|Satadeep Bhattacharjee et.al.|[2308.15238](http://arxiv.org/abs/2308.15238)|null|
+|**2023-08-29**|**On Hermitian interpolation of first order data with locally generated C1-splines over triangular meshes**|L. L. Stachó et.al.|[2308.15201](http://arxiv.org/abs/2308.15201)|null|
+|**2023-08-29**|**Twisted traces on abelian quantum Higgs and Coulomb branches**|Davide Gaiotto et.al.|[2308.15198](http://arxiv.org/abs/2308.15198)|null|
 |**2023-08-28**|**Flexible Techniques for Differentiable Rendering with 3D Gaussians**|Leonid Keselman et.al.|[2308.14737](http://arxiv.org/abs/2308.14737)|null|
 |**2023-08-28**|**R3D3: Dense 3D Reconstruction of Dynamic Scenes from Multiple Cameras**|Aron Schmied et.al.|[2308.14713](http://arxiv.org/abs/2308.14713)|null|
 |**2023-08-28**|**Heterogeneous Drone Small Cells: Optimal 3D Placement for Downlink Power Efficiency and Rate Satisfaction**|Nima Namvar et.al.|[2308.14708](http://arxiv.org/abs/2308.14708)|null|
