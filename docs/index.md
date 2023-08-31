@@ -1245,6 +1245,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-30**|**From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications**|Shreyank N Gowda et.al.|[2308.16041](http://arxiv.org/abs/2308.16041)|null|
+|**2023-08-30**|**Drone-NeRF: Efficient NeRF Based 3D Scene Reconstruction for Large-Scale Drone Survey**|Zhihao Jia et.al.|[2308.15733](http://arxiv.org/abs/2308.15733)|null|
+|**2023-08-29**|**Efficient Ray Sampling for Radiance Fields Reconstruction**|Shilei Sun et.al.|[2308.15547](http://arxiv.org/abs/2308.15547)|null|
 |**2023-08-29**|**Pose-Free Neural Radiance Fields via Implicit Pose Regularization**|Jiahui Zhang et.al.|[2308.15049](http://arxiv.org/abs/2308.15049)|null|
 |**2023-08-28**|**CLNeRF: Continual Learning Meets NeRF**|Zhipeng Cai et.al.|[2308.14816](http://arxiv.org/abs/2308.14816)|**[link](https://github.com/intellabs/clnerf)**|
 |**2023-08-26**|**InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**|Yanqi Bao et.al.|[2308.13897](http://arxiv.org/abs/2308.13897)|**[link](https://github.com/bbbbby-99/insertnerf)**|
@@ -1708,6 +1711,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-30**|**The Inhomogeneity Effect III: Weather Impacts on the Heat Flow of Hot Jupiters**|Xi Zhang et.al.|[2308.16165](http://arxiv.org/abs/2308.16165)|null|
+|**2023-08-30**|**MedShapeNet -- A Large-Scale Dataset of 3D Medical Shapes for Computer Vision**|Jianning Li et.al.|[2308.16139](http://arxiv.org/abs/2308.16139)|null|
+|**2023-08-30**|**Near-Field 3D Localization via MIMO Radar: Cramér-Rao Bound Analysis and Estimator Design**|Haocheng Hua et.al.|[2308.16130](http://arxiv.org/abs/2308.16130)|null|
+|**2023-08-30**|**Application of Zone Method based Machine Learning and Physics-Informed Neural Networks in Reheating Furnaces**|Ujjal Kr Dutta et.al.|[2308.16089](http://arxiv.org/abs/2308.16089)|null|
+|**2023-08-30**|**Modeling of the high-velocity jet powered by the massive star MWC 349A**|Antonio Martínez-Henares et.al.|[2308.16078](http://arxiv.org/abs/2308.16078)|null|
+|**2023-08-30**|**Neural-Network Data Assimilation using Variational Autoencoder**|Boštjan Melinc et.al.|[2308.16073](http://arxiv.org/abs/2308.16073)|null|
+|**2023-08-30**|**From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications**|Shreyank N Gowda et.al.|[2308.16041](http://arxiv.org/abs/2308.16041)|null|
+|**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984](http://arxiv.org/abs/2308.15984)|null|
+|**2023-08-30**|**SHARP Challenge 2023: Solving CAD History and pArameters Recovery from Point clouds and 3D scans. Overview, Datasets, Metrics, and Baselines**|Dimitrios Mallis et.al.|[2308.15966](http://arxiv.org/abs/2308.15966)|**[link](https://gitlab.uni.lu/cvi2/iccv2023-sharp-challenge)**|
+|**2023-08-30**|**Attention-based CT Scan Interpolation for Lesion Segmentation of Colorectal Liver Metastases**|Mohammad Hamghalam et.al.|[2308.15932](http://arxiv.org/abs/2308.15932)|null|
 |**2023-08-29**|**3D Adversarial Augmentations for Robust Out-of-Domain Predictions**|Alexander Lehner et.al.|[2308.15479](http://arxiv.org/abs/2308.15479)|null|
 |**2023-08-29**|**Open source magnetometer for characterizing magnetic fields in ultracold experiments**|Koray Dinçer et.al.|[2308.15476](http://arxiv.org/abs/2308.15476)|null|
 |**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472](http://arxiv.org/abs/2308.15472)|null|
