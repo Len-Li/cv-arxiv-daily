@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.03
+## Updated on 2023.09.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -419,7 +419,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20230903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
 
 ## SFM
 
@@ -526,7 +526,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#Updated-on-20230903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -964,7 +964,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20230903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1112,7 +1112,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#Updated-on-20230903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1258,7 +1258,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#Updated-on-20230903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
 
 ## NeRF
 
@@ -1727,7 +1727,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#Updated-on-20230903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
 
 ## 3D
 
@@ -1738,7 +1738,7 @@
 |**2023-08-31**|**InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion**|Sirui Xu et.al.|[2308.16905](http://arxiv.org/abs/2308.16905)|**[link](https://github.com/Sirui-Xu/InterDiff)**|
 |**2023-08-31**|**PointOcc: Cylindrical Tri-Perspective View for Point-based 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[2308.16896](http://arxiv.org/abs/2308.16896)|**[link](https://github.com/wzzheng/pointocc)**|
 |**2023-08-31**|**EMDB: The Electromagnetic Database of Global 3D Human Pose and Shape in the Wild**|Manuel Kaufmann et.al.|[2308.16894](http://arxiv.org/abs/2308.16894)|**[link](https://github.com/eth-ait/emdb)**|
-|**2023-08-31**|**GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields**|Yanjie Ze et.al.|[2308.16891](http://arxiv.org/abs/2308.16891)|**[link](https://github.com/YanjieZe/GNFactor)**|
+|**2023-09-01**|**GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields**|Yanjie Ze et.al.|[2308.16891](http://arxiv.org/abs/2308.16891)|**[link](https://github.com/YanjieZe/GNFactor)**|
 |**2023-08-31**|**Text2Scene: Text-driven Indoor Scene Stylization with Part-aware Details**|Inwoo Hwang et.al.|[2308.16880](http://arxiv.org/abs/2308.16880)|null|
 |**2023-08-31**|**Self-pruning Graph Neural Network for Predicting Inflammatory Disease Activity in Multiple Sclerosis from Brain MR Images**|Chinmay Prabhakar et.al.|[2308.16863](http://arxiv.org/abs/2308.16863)|**[link](https://github.com/chinmay5/ms_ida)**|
 |**2023-08-31**|**Towards Low-Barrier Cybersecurity Research and Education for Industrial Control Systems**|Colman McGuan et.al.|[2308.16769](http://arxiv.org/abs/2308.16769)|null|
@@ -2314,7 +2314,7 @@
 |**2023-06-07**|**Blowup analysis for a quasi-exact 1D model of 3D Euler and Navier-Stokes**|Thomas Y. Hou et.al.|[2306.04146](http://arxiv.org/abs/2306.04146)|null|
 |**2023-06-07**|**Magnetic Flux Budget in Mean-Field Dynamo Model of Solar Cycles 23 and 24**|V. V. Pipin et.al.|[2306.04124](http://arxiv.org/abs/2306.04124)|null|
 
-<p align=right>(<a href=#Updated-on-20230903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
