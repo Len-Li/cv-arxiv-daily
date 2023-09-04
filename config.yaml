@@ -24,8 +24,8 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "3D": 
         filters: ["3D"]
-    "3D detection": 
-        filters: ["3D detection", "3D object detection"m 'BEV detection']
+    # "3D detection": 
+    #     filters: ["3D detection", "3D object detection", "BEV detection"]
     "NeRF":
         filters: ["NeRF", "neural radiance field"]
     "Industry":
@@ -33,6 +33,6 @@ keywords:
     "Autonomous Driving":
         filters: ["Autonomous Driving", "Self-driving", "Shenlong Wang", 'Marco Pavone', 'Andreas Geiger', 'Hongyang Li', 'Yikang Li', 'Wei-Chiu Ma']
     "Adversarial":
-        filters: ["Adversarial", "Robustness", ]
+        filters: ["Adversarial", "Robustness"]
     "Traffic Simulation":
-        filters: ["Traffic Simulation", "Motion Prediction", ]
+        filters: ["Traffic Simulation", "Motion Prediction", "Trajectory Prediction"]
