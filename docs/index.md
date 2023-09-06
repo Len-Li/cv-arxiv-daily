@@ -1245,6 +1245,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-04**|**Instant Continual Learning of Neural Radiance Fields**|Ryan Po et.al.|[2309.01811](http://arxiv.org/abs/2309.01811)|null|
+|**2023-09-04**|**Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF**|Leheng Li et.al.|[2309.01351](http://arxiv.org/abs/2309.01351)|null|
 |**2023-09-01**|**SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**|Lulin Zhang et.al.|[2309.00277](http://arxiv.org/abs/2309.00277)|**[link](https://github.com/lulinzhang/sps-nerf)**|
 |**2023-08-31**|**GHuNeRF: Generalizable Human NeRF from a Monocular Video**|Chen Li et.al.|[2308.16576](http://arxiv.org/abs/2308.16576)|null|
 |**2023-08-30**|**From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications**|Shreyank N Gowda et.al.|[2308.16041](http://arxiv.org/abs/2308.16041)|null|
@@ -1717,6 +1719,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction**|Youmin Zhang et.al.|[2309.02436](http://arxiv.org/abs/2309.02436)|null|
+|**2023-09-05**|**ReliTalk: Relightable Talking Portrait Generation from a Single Video**|Haonan Qiu et.al.|[2309.02434](http://arxiv.org/abs/2309.02434)|**[link](https://github.com/arthur-qiu/ReliTalk)**|
+|**2023-09-05**|**Doppelgangers: Learning to Disambiguate Images of Similar Structures**|Ruojin Cai et.al.|[2309.02420](http://arxiv.org/abs/2309.02420)|**[link](https://github.com/RuojinCai/Doppelgangers)**|
+|**2023-09-05**|**B/PS bulges and barlenses from a kinematic viewpoint. I**|Daria Zakharova et.al.|[2309.02410](http://arxiv.org/abs/2309.02410)|null|
+|**2023-09-05**|**Induced Monolayer Altermagnetism in MnP(S,Se) $_3$ and FeSe**|Igor Mazin et.al.|[2309.02355](http://arxiv.org/abs/2309.02355)|null|
+|**2023-09-05**|**Electrically Driven Spin Resonance of 4f Electrons in a Single Atom on a Surface**|Stefano Reale et.al.|[2309.02348](http://arxiv.org/abs/2309.02348)|null|
+|**2023-09-05**|**DEEPBEAS3D: Deep Learning and B-Spline Explicit Active Surfaces**|Helena Williams et.al.|[2309.02335](http://arxiv.org/abs/2309.02335)|null|
+|**2023-09-05**|**TiAVox: Time-aware Attenuation Voxels for Sparse-view 4D DSA Reconstruction**|Zhenghong Zhou et.al.|[2309.02318](http://arxiv.org/abs/2309.02318)|null|
+|**2023-09-05**|**Quenching massive galaxies across cosmic time with the semi-analytic model SHARK v2.0**|Claudia D. P. Lagos et.al.|[2309.02310](http://arxiv.org/abs/2309.02310)|null|
+|**2023-09-05**|**3D simulations of positive streamers in air in a strong external magnetic field**|Zhen Wang et.al.|[2309.02300](http://arxiv.org/abs/2309.02300)|null|
 |**2023-09-01**|**OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation**|Zhening Huang et.al.|[2309.00616](http://arxiv.org/abs/2309.00616)|**[link](https://github.com/Pointcept/OpenIns3D)**|
 |**2023-09-01**|**Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following**|Ziyu Guo et.al.|[2309.00615](http://arxiv.org/abs/2309.00615)|**[link](https://github.com/ziyuguo99/point-bind_point-llm)**|
 |**2023-09-01**|**CityDreamer: Compositional Generative Model of Unbounded 3D Cities**|Haozhe Xie et.al.|[2309.00610](http://arxiv.org/abs/2309.00610)|null|
@@ -2312,6 +2324,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**Generalized Simplicial Attention Neural Networks**|Claudio Battiloro et.al.|[2309.02138](http://arxiv.org/abs/2309.02138)|null|
+|**2023-09-05**|**Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction using Diffusion Graph Convolutional Networks**|Keshu Wu et.al.|[2309.01981](http://arxiv.org/abs/2309.01981)|null|
+|**2023-09-01**|**Reinforcement Learning with Human Feedback for Realistic Traffic Simulation**|Yulong Cao et.al.|[2309.00709](http://arxiv.org/abs/2309.00709)|null|
 |**2023-09-01**|**Human trajectory prediction using LSTM with Attention mechanism**|Amin Manafi Soltan Ahmadi et.al.|[2309.00331](http://arxiv.org/abs/2309.00331)|null|
 |**2023-08-31**|**Multiscale Residual Learning of Graph Convolutional Sequence Chunks for Human Motion Prediction**|Mohsen Zand et.al.|[2308.16801](http://arxiv.org/abs/2308.16801)|null|
 |**2023-08-31**|**MMVP: Motion-Matrix-based Video Prediction**|Yiqi Zhong et.al.|[2308.16154](http://arxiv.org/abs/2308.16154)|**[link](https://github.com/kay1794/mmvp-motion-matrix-based-video-prediction)**|
@@ -2349,6 +2364,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**Superefficient microcombs at the wafer level**|Marcello Girardi et.al.|[2309.02280](http://arxiv.org/abs/2309.02280)|null|
+|**2023-09-05**|**Dense Object Grounding in 3D Scenes**|Wencan Huang et.al.|[2309.02224](http://arxiv.org/abs/2309.02224)|null|
+|**2023-09-05**|**BEVTrack: A Simple Baseline for Point Cloud Tracking in Bird's-Eye-View**|Yuxiang Yang et.al.|[2309.02185](http://arxiv.org/abs/2309.02185)|null|
+|**2023-09-05**|**Traffic Light Recognition using Convolutional Neural Networks: A Survey**|Svetlana Pavlitska et.al.|[2309.02158](http://arxiv.org/abs/2309.02158)|null|
+|**2023-09-05**|**Diffusion-based 3D Object Detection with Random Boxes**|Xin Zhou et.al.|[2309.02049](http://arxiv.org/abs/2309.02049)|null|
+|**2023-09-05**|**AutonomROS: A ReconROS-based Autonomonous Driving Unit**|Christian Lienen et.al.|[2309.02026](http://arxiv.org/abs/2309.02026)|null|
+|**2023-09-04**|**TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios**|Yuheng Shi et.al.|[2309.01539](http://arxiv.org/abs/2309.01539)|**[link](https://github.com/tusen-ai/TSTTC)**|
+|**2023-09-04**|**Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF**|Leheng Li et.al.|[2309.01351](http://arxiv.org/abs/2309.01351)|null|
+|**2023-09-03**|**AdvMono3D: Advanced Monocular 3D Object Detection with Depth-Aware Robust Adversarial Training**|Xingyuan Li et.al.|[2309.01106](http://arxiv.org/abs/2309.01106)|null|
+|**2023-09-02**|**Online Targetless Radar-Camera Extrinsic Calibration Based on the Common Features of Radar and Camera**|Lei Cheng et.al.|[2309.00787](http://arxiv.org/abs/2309.00787)|null|
 |**2023-09-01**|**SQLdepth: Generalizable Self-Supervised Fine-Structured Monocular Depth Estimation**|Youhong Wang et.al.|[2309.00526](http://arxiv.org/abs/2309.00526)|null|
 |**2023-09-01**|**A Theoretical and Practical Framework for Evaluating Uncertainty Calibration in Object Detection**|Pedro Conde et.al.|[2309.00464](http://arxiv.org/abs/2309.00464)|**[link](https://github.com/pedrormconde/uncertainty_calibration_object_detection)**|
 |**2023-09-01**|**Suicidal Pedestrian: Generation of Safety-Critical Scenarios for Autonomous Vehicles**|Yuhang Yang et.al.|[2309.00249](http://arxiv.org/abs/2309.00249)|null|
