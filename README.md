@@ -1267,6 +1267,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
 |**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185](http://arxiv.org/abs/2309.03185)|null|
 |**2023-09-06**|**Instant Continual Learning of Neural Radiance Fields**|Ryan Po et.al.|[2309.01811](http://arxiv.org/abs/2309.01811)|null|
 |**2023-09-04**|**Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF**|Leheng Li et.al.|[2309.01351](http://arxiv.org/abs/2309.01351)|null|
@@ -1744,6 +1745,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**ImageBind-LLM: Multi-modality Instruction Tuning**|Jiaming Han et.al.|[2309.03905](http://arxiv.org/abs/2309.03905)|null|
+|**2023-09-07**|**Disk Wind Feedback from High-mass Protostars. IV. Shock-Ionized Jets**|Emiko C. Gardiner et.al.|[2309.03887](http://arxiv.org/abs/2309.03887)|null|
+|**2023-09-07**|**Disk Wind Feedback from High-mass Protostars. III. Synthetic CO Line Emission**|Duo Xu et.al.|[2309.03868](http://arxiv.org/abs/2309.03868)|null|
+|**2023-09-07**|**Learning from Demonstration via Probabilistic Diagrammatic Teaching**|Weiming Zhi et.al.|[2309.03835](http://arxiv.org/abs/2309.03835)|null|
+|**2023-09-07**|**The Anderson mobility edge as a percolation transition**|Marcel Filoche et.al.|[2309.03813](http://arxiv.org/abs/2309.03813)|null|
+|**2023-09-07**|**SimNP: Learning Self-Similarity Priors Between Neural Points**|Christopher Wewer et.al.|[2309.03809](http://arxiv.org/abs/2309.03809)|null|
+|**2023-09-07**|**Label-efficient Contrastive Learning-based model for nuclei detection and classification in 3D Cardiovascular Immunofluorescent Images**|Nazanin Moradinasab et.al.|[2309.03744](http://arxiv.org/abs/2309.03744)|null|
+|**2023-09-07**|**ClusterFusion: Leveraging Radar Spatial Features for Radar-Camera 3D Object Detection in Autonomous Vehicles**|Irfan Tito Kurniawan et.al.|[2309.03734](http://arxiv.org/abs/2309.03734)|null|
+|**2023-09-07**|**Immersive Virtual Reality Platform for Robot-Assisted Antenatal Ultrasound Scanning**|Shyam A et.al.|[2309.03725](http://arxiv.org/abs/2309.03725)|null|
+|**2023-09-07**|**A boundary-aware point clustering approach in Euclidean and embedding spaces for roof plane segmentation**|Li Li et.al.|[2309.03722](http://arxiv.org/abs/2309.03722)|null|
 |**2023-09-06**|**3D Transformer based on deformable patch location for differential diagnosis between Alzheimer's disease and Frontotemporal dementia**|Huy-Dung Nguyen et.al.|[2309.03183](http://arxiv.org/abs/2309.03183)|null|
 |**2023-09-06**|**SLiMe: Segment Like Me**|Aliasghar Khani et.al.|[2309.03179](http://arxiv.org/abs/2309.03179)|null|
 |**2023-09-06**|**Bulk Operator Reconstruction in Topological Tensor Network and Generalized Free Fields**|Xiangdong Zeng et.al.|[2309.03178](http://arxiv.org/abs/2309.03178)|null|
@@ -2361,6 +2372,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**PBP: Path-based Trajectory Prediction for Autonomous Driving**|Sepideh Afshar et.al.|[2309.03750](http://arxiv.org/abs/2309.03750)|null|
+|**2023-09-06**|**Efficient Baselines for Motion Prediction in Autonomous Driving**|Carlos Gómez-Huélamo et.al.|[2309.03387](http://arxiv.org/abs/2309.03387)|null|
 |**2023-09-05**|**Generalized Simplicial Attention Neural Networks**|Claudio Battiloro et.al.|[2309.02138](http://arxiv.org/abs/2309.02138)|null|
 |**2023-09-05**|**Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction using Diffusion Graph Convolutional Networks**|Keshu Wu et.al.|[2309.01981](http://arxiv.org/abs/2309.01981)|null|
 |**2023-09-01**|**Reinforcement Learning with Human Feedback for Realistic Traffic Simulation**|Yulong Cao et.al.|[2309.00709](http://arxiv.org/abs/2309.00709)|null|
@@ -2405,6 +2418,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**FisheyePP4AV: A privacy-preserving method for autonomous vehicles on fisheye camera images**|Linh Trinh et.al.|[2309.03799](http://arxiv.org/abs/2309.03799)|null|
+|**2023-09-07**|**PBP: Path-based Trajectory Prediction for Autonomous Driving**|Sepideh Afshar et.al.|[2309.03750](http://arxiv.org/abs/2309.03750)|null|
+|**2023-09-07**|**Context-Aware 3D Object Localization from Single Calibrated Images: A Study of Basketballs**|Marcello Davide Caio et.al.|[2309.03640](http://arxiv.org/abs/2309.03640)|**[link](https://github.com/gabriel-vanzandycke/deepsport)**|
+|**2023-09-07**|**InteractionNet: Joint Planning and Prediction for Autonomous Driving with Transformers**|Jiawei Fu et.al.|[2309.03475](http://arxiv.org/abs/2309.03475)|null|
+|**2023-09-06**|**Efficient Baselines for Motion Prediction in Autonomous Driving**|Carlos Gómez-Huélamo et.al.|[2309.03387](http://arxiv.org/abs/2309.03387)|null|
 |**2023-09-06**|**Feasibility of Local Trajectory Planning for Level-2+ Semi-autonomous Driving without Absolute Localization**|Sheng Zhu et.al.|[2309.03051](http://arxiv.org/abs/2309.03051)|null|
 |**2023-09-05**|**A Survey of Imitation Learning: Algorithms, Recent Developments, and Challenges**|Maryam Zare et.al.|[2309.02473](http://arxiv.org/abs/2309.02473)|null|
 |**2023-09-05**|**Superefficient microcombs at the wafer level**|Marcello Girardi et.al.|[2309.02280](http://arxiv.org/abs/2309.02280)|null|
