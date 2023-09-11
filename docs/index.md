@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.10
+## Updated on 2023.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1727,7 +1727,7 @@ layout: default
 |**2023-09-07**|**Learning from Demonstration via Probabilistic Diagrammatic Teaching**|Weiming Zhi et.al.|[2309.03835](http://arxiv.org/abs/2309.03835)|null|
 |**2023-09-07**|**The Anderson mobility edge as a percolation transition**|Marcel Filoche et.al.|[2309.03813](http://arxiv.org/abs/2309.03813)|null|
 |**2023-09-07**|**SimNP: Learning Self-Similarity Priors Between Neural Points**|Christopher Wewer et.al.|[2309.03809](http://arxiv.org/abs/2309.03809)|null|
-|**2023-09-07**|**Label-efficient Contrastive Learning-based model for nuclei detection and classification in 3D Cardiovascular Immunofluorescent Images**|Nazanin Moradinasab et.al.|[2309.03744](http://arxiv.org/abs/2309.03744)|null|
+|**2023-09-08**|**Label-efficient Contrastive Learning-based model for nuclei detection and classification in 3D Cardiovascular Immunofluorescent Images**|Nazanin Moradinasab et.al.|[2309.03744](http://arxiv.org/abs/2309.03744)|null|
 |**2023-09-07**|**ClusterFusion: Leveraging Radar Spatial Features for Radar-Camera 3D Object Detection in Autonomous Vehicles**|Irfan Tito Kurniawan et.al.|[2309.03734](http://arxiv.org/abs/2309.03734)|null|
 |**2023-09-07**|**Immersive Virtual Reality Platform for Robot-Assisted Antenatal Ultrasound Scanning**|Shyam A et.al.|[2309.03725](http://arxiv.org/abs/2309.03725)|null|
 |**2023-09-07**|**A boundary-aware point clustering approach in Euclidean and embedding spaces for roof plane segmentation**|Li Li et.al.|[2309.03722](http://arxiv.org/abs/2309.03722)|null|
@@ -2397,7 +2397,7 @@ layout: default
 |**2023-09-05**|**A Survey of Imitation Learning: Algorithms, Recent Developments, and Challenges**|Maryam Zare et.al.|[2309.02473](http://arxiv.org/abs/2309.02473)|null|
 |**2023-09-05**|**Superefficient microcombs at the wafer level**|Marcello Girardi et.al.|[2309.02280](http://arxiv.org/abs/2309.02280)|null|
 |**2023-09-05**|**Dense Object Grounding in 3D Scenes**|Wencan Huang et.al.|[2309.02224](http://arxiv.org/abs/2309.02224)|null|
-|**2023-09-05**|**BEVTrack: A Simple Baseline for Point Cloud Tracking in Bird's-Eye-View**|Yuxiang Yang et.al.|[2309.02185](http://arxiv.org/abs/2309.02185)|null|
+|**2023-09-08**|**BEVTrack: A Simple Baseline for 3D Single Object Tracking in Birds's-Eye-View**|Yuxiang Yang et.al.|[2309.02185](http://arxiv.org/abs/2309.02185)|null|
 |**2023-09-05**|**Traffic Light Recognition using Convolutional Neural Networks: A Survey**|Svetlana Pavlitska et.al.|[2309.02158](http://arxiv.org/abs/2309.02158)|null|
 |**2023-09-05**|**Diffusion-based 3D Object Detection with Random Boxes**|Xin Zhou et.al.|[2309.02049](http://arxiv.org/abs/2309.02049)|null|
 |**2023-09-05**|**AutonomROS: A ReconROS-based Autonomonous Driving Unit**|Christian Lienen et.al.|[2309.02026](http://arxiv.org/abs/2309.02026)|null|
