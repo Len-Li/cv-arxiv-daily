@@ -1245,6 +1245,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields**|Junzhe Zhang et.al.|[2309.04410](http://arxiv.org/abs/2309.04410)|null|
+|**2023-09-07**|**SimpleNeRF: Regularizing Sparse Input Neural Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2309.03955](http://arxiv.org/abs/2309.03955)|null|
+|**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933](http://arxiv.org/abs/2309.03933)|null|
 |**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
 |**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185](http://arxiv.org/abs/2309.03185)|null|
 |**2023-09-06**|**Instant Continual Learning of Neural Radiance Fields**|Ryan Po et.al.|[2309.01811](http://arxiv.org/abs/2309.01811)|null|
@@ -1721,6 +1724,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**Single View Refractive Index Tomography with Neural Fields**|Brandon Zhao et.al.|[2309.04437](http://arxiv.org/abs/2309.04437)|null|
+|**2023-09-08**|**SynthoGestures: A Novel Framework for Synthetic Dynamic Hand Gesture Generation for Driving Scenarios**|Amr Gomaa et.al.|[2309.04421](http://arxiv.org/abs/2309.04421)|null|
+|**2023-09-08**|**DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields**|Junzhe Zhang et.al.|[2309.04410](http://arxiv.org/abs/2309.04410)|null|
+|**2023-09-08**|**Optical Fiber-Based Needle Shape Sensing in Real Tissue: Single Core vs. Multicore Approaches**|Dimitri A. Lezcano et.al.|[2309.04407](http://arxiv.org/abs/2309.04407)|null|
+|**2023-09-08**|**Boundary rigidity of 3D CAT(0) cube complexes**|John Haslegrave et.al.|[2309.04385](http://arxiv.org/abs/2309.04385)|null|
+|**2023-09-08**|**Modifying cooperative decay via disorder in atom arrays**|Nik O. Gjonbalaj et.al.|[2309.04384](http://arxiv.org/abs/2309.04384)|null|
+|**2023-09-08**|**Language Prompt for Autonomous Driving**|Dongming Wu et.al.|[2309.04379](http://arxiv.org/abs/2309.04379)|null|
+|**2023-09-08**|**Understanding the role of Hubbard corrections in the rhombohedral phase of BaTiO $_3$**|G. Gebreyesus et.al.|[2309.04348](http://arxiv.org/abs/2309.04348)|null|
+|**2023-09-08**|**Towards Practical Capture of High-Fidelity Relightable Avatars**|Haotian Yang et.al.|[2309.04247](http://arxiv.org/abs/2309.04247)|null|
+|**2023-09-08**|**Quantum engineering for compactly localized states in disordered Lieb lattices**|Carlo Danieli et.al.|[2309.04227](http://arxiv.org/abs/2309.04227)|null|
 |**2023-09-07**|**ImageBind-LLM: Multi-modality Instruction Tuning**|Jiaming Han et.al.|[2309.03905](http://arxiv.org/abs/2309.03905)|**[link](https://github.com/opengvlab/llama-adapter)**|
 |**2023-09-07**|**Disk Wind Feedback from High-mass Protostars. IV. Shock-Ionized Jets**|Emiko C. Gardiner et.al.|[2309.03887](http://arxiv.org/abs/2309.03887)|null|
 |**2023-09-07**|**Disk Wind Feedback from High-mass Protostars. III. Synthetic CO Line Emission**|Duo Xu et.al.|[2309.03868](http://arxiv.org/abs/2309.03868)|null|
@@ -2388,6 +2401,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving**|Thomas E. Huang et.al.|[2309.04422](http://arxiv.org/abs/2309.04422)|null|
+|**2023-09-08**|**Realistic pedestrian behaviour in the CARLA simulator using VR and mocap**|Sergio Martín Serrano et.al.|[2309.04418](http://arxiv.org/abs/2309.04418)|null|
+|**2023-09-08**|**Language Prompt for Autonomous Driving**|Dongming Wu et.al.|[2309.04379](http://arxiv.org/abs/2309.04379)|null|
 |**2023-09-07**|**FisheyePP4AV: A privacy-preserving method for autonomous vehicles on fisheye camera images**|Linh Trinh et.al.|[2309.03799](http://arxiv.org/abs/2309.03799)|null|
 |**2023-09-07**|**PBP: Path-based Trajectory Prediction for Autonomous Driving**|Sepideh Afshar et.al.|[2309.03750](http://arxiv.org/abs/2309.03750)|null|
 |**2023-09-07**|**Context-Aware 3D Object Localization from Single Calibrated Images: A Study of Basketballs**|Marcello Davide Caio et.al.|[2309.03640](http://arxiv.org/abs/2309.03640)|**[link](https://github.com/gabriel-vanzandycke/deepsport)**|
