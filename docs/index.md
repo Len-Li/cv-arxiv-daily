@@ -1245,6 +1245,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-10**|**SC-NeRF: Self-Correcting Neural Radiance Field with Sparse Views**|Liang Song et.al.|[2309.05028](http://arxiv.org/abs/2309.05028)|null|
+|**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750](http://arxiv.org/abs/2309.04750)|null|
 |**2023-09-08**|**DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields**|Junzhe Zhang et.al.|[2309.04410](http://arxiv.org/abs/2309.04410)|null|
 |**2023-09-07**|**SimpleNeRF: Regularizing Sparse Input Neural Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2309.03955](http://arxiv.org/abs/2309.03955)|null|
 |**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933](http://arxiv.org/abs/2309.03933)|null|
@@ -1724,6 +1726,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips**|Yufei Ye et.al.|[2309.05663](http://arxiv.org/abs/2309.05663)|null|
+|**2023-09-11**|**Grid-based Hybrid 3DMA GNSS and Terrestrial Positioning**|Paul Schwarzbach et.al.|[2309.05644](http://arxiv.org/abs/2309.05644)|null|
+|**2023-09-11**|**On the Comparison of AGN with GRMHD Simulations: II. M87**|Richard Anantua et.al.|[2309.05602](http://arxiv.org/abs/2309.05602)|null|
+|**2023-09-11**|**Towards inferring the geometry of kilonovae**|Christine E. Collins et.al.|[2309.05579](http://arxiv.org/abs/2309.05579)|null|
+|**2023-09-11**|**UniSeg: A Unified Multi-Modal LiDAR Segmentation Network and the OpenPCSeg Codebase**|Youquan Liu et.al.|[2309.05573](http://arxiv.org/abs/2309.05573)|**[link](https://github.com/pjlab-adg/pcseg)**|
+|**2023-09-11**|**ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation**|Bo Zhang et.al.|[2309.05527](http://arxiv.org/abs/2309.05527)|**[link](https://github.com/pjlab-adg/3dtrans)**|
+|**2023-09-11**|**New Observations Needed to Advance Our Understanding of Coronal Mass Ejections**|Erika Palmerio et.al.|[2309.05480](http://arxiv.org/abs/2309.05480)|null|
+|**2023-09-11**|**Topological nonsymmorphic insulator versus Dirac semimetal in KZnBi**|Rahul Verma et.al.|[2309.05461](http://arxiv.org/abs/2309.05461)|null|
+|**2023-09-11**|**First exploration of the runaway greenhouse transition with a GCM**|G. Chaverot et.al.|[2309.05449](http://arxiv.org/abs/2309.05449)|null|
+|**2023-09-11**|**Panoptic Vision-Language Feature Fields**|Haoran Chen et.al.|[2309.05448](http://arxiv.org/abs/2309.05448)|**[link](https://github.com/ethz-asl/autolabel)**|
 |**2023-09-08**|**Single View Refractive Index Tomography with Neural Fields**|Brandon Zhao et.al.|[2309.04437](http://arxiv.org/abs/2309.04437)|null|
 |**2023-09-08**|**SynthoGestures: A Novel Framework for Synthetic Dynamic Hand Gesture Generation for Driving Scenarios**|Amr Gomaa et.al.|[2309.04421](http://arxiv.org/abs/2309.04421)|null|
 |**2023-09-08**|**DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields**|Junzhe Zhang et.al.|[2309.04410](http://arxiv.org/abs/2309.04410)|null|
@@ -2359,8 +2371,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Dynamic Handover: Throw and Catch with Bimanual Hands**|Binghao Huang et.al.|[2309.05655](http://arxiv.org/abs/2309.05655)|null|
+|**2023-09-11**|**Real-Time Parallel Trajectory Optimization with Spatiotemporal Safety Constraints for Autonomous Driving in Congested Traffic**|Lei Zheng et.al.|[2309.05298](http://arxiv.org/abs/2309.05298)|null|
+|**2023-09-11**|**Can you text what is happening? Integrating pre-trained language encoders into trajectory prediction models for autonomous driving**|Ali Keysan et.al.|[2309.05282](http://arxiv.org/abs/2309.05282)|null|
+|**2023-09-10**|**AVARS -- Alleviating Unexpected Urban Road Traffic Congestion using UAVs**|Jiaying Guo et.al.|[2309.04976](http://arxiv.org/abs/2309.04976)|**[link](https://github.com/guojyjy/avars)**|
 |**2023-09-07**|**PBP: Path-based Trajectory Prediction for Autonomous Driving**|Sepideh Afshar et.al.|[2309.03750](http://arxiv.org/abs/2309.03750)|null|
-|**2023-09-06**|**Efficient Baselines for Motion Prediction in Autonomous Driving**|Carlos Gómez-Huélamo et.al.|[2309.03387](http://arxiv.org/abs/2309.03387)|null|
+|**2023-09-06**|**Efficient Baselines for Motion Prediction in Autonomous Driving**|Carlos Gómez-Huélamo et.al.|[2309.03387](http://arxiv.org/abs/2309.03387)|**[link](https://github.com/cram3r95/mapfe4mp)**|
 |**2023-09-05**|**Generalized Simplicial Attention Neural Networks**|Claudio Battiloro et.al.|[2309.02138](http://arxiv.org/abs/2309.02138)|**[link](https://github.com/luciatesta97/generalized-simplicial-attention-neural-networks)**|
 |**2023-09-05**|**Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction using Diffusion Graph Convolutional Networks**|Keshu Wu et.al.|[2309.01981](http://arxiv.org/abs/2309.01981)|null|
 |**2023-09-01**|**Reinforcement Learning with Human Feedback for Realistic Traffic Simulation**|Yulong Cao et.al.|[2309.00709](http://arxiv.org/abs/2309.00709)|null|
@@ -2386,6 +2402,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Towards Viewpoint Robustness in Bird's Eye View Segmentation**|Tzofi Klinghoffer et.al.|[2309.05192](http://arxiv.org/abs/2309.05192)|null|
 |**2023-08-10**|**Flexible Isosurface Extraction for Gradient-Based Mesh Optimization**|Tianchang Shen et.al.|[2308.05371](http://arxiv.org/abs/2308.05371)|null|
 |**2023-08-03**|**UniSim: A Neural Closed-Loop Sensor Simulator**|Ze Yang et.al.|[2308.01898](http://arxiv.org/abs/2308.01898)|null|
 |**2023-08-02**|**Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving**|Ben Agro et.al.|[2308.01471](http://arxiv.org/abs/2308.01471)|null|
@@ -2401,6 +2418,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**UniSeg: A Unified Multi-Modal LiDAR Segmentation Network and the OpenPCSeg Codebase**|Youquan Liu et.al.|[2309.05573](http://arxiv.org/abs/2309.05573)|**[link](https://github.com/pjlab-adg/pcseg)**|
+|**2023-09-11**|**ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation**|Bo Zhang et.al.|[2309.05527](http://arxiv.org/abs/2309.05527)|**[link](https://github.com/pjlab-adg/3dtrans)**|
+|**2023-09-11**|**Real-Time Parallel Trajectory Optimization with Spatiotemporal Safety Constraints for Autonomous Driving in Congested Traffic**|Lei Zheng et.al.|[2309.05298](http://arxiv.org/abs/2309.05298)|null|
+|**2023-09-11**|**Can you text what is happening? Integrating pre-trained language encoders into trajectory prediction models for autonomous driving**|Ali Keysan et.al.|[2309.05282](http://arxiv.org/abs/2309.05282)|null|
+|**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249](http://arxiv.org/abs/2309.05249)|null|
+|**2023-09-11**|**HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving**|Xinpeng Ding et.al.|[2309.05186](http://arxiv.org/abs/2309.05186)|null|
+|**2023-09-09**|**Timely Fusion of Surround Radar/Lidar for Object Detection in Autonomous Driving Systems**|Wenjing Xie et.al.|[2309.04806](http://arxiv.org/abs/2309.04806)|null|
+|**2023-09-08**|**Mask2Anomaly: Mask Transformer for Universal Open-set Segmentation**|Shyam Nandan Rai et.al.|[2309.04573](http://arxiv.org/abs/2309.04573)|null|
 |**2023-09-08**|**Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving**|Thomas E. Huang et.al.|[2309.04422](http://arxiv.org/abs/2309.04422)|null|
 |**2023-09-08**|**Realistic pedestrian behaviour in the CARLA simulator using VR and mocap**|Sergio Martín Serrano et.al.|[2309.04418](http://arxiv.org/abs/2309.04418)|null|
 |**2023-09-08**|**Language Prompt for Autonomous Driving**|Dongming Wu et.al.|[2309.04379](http://arxiv.org/abs/2309.04379)|**[link](https://github.com/wudongming97/prompt4driving)**|
