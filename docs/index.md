@@ -1245,6 +1245,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Learning Disentangled Avatars with Hybrid 3D Representations**|Yao Feng et.al.|[2309.06441](http://arxiv.org/abs/2309.06441)|null|
+|**2023-09-12**|**Federated Learning for Large-Scale Scene Modeling with Neural Radiance Fields**|Teppei Suzuki et.al.|[2309.06030](http://arxiv.org/abs/2309.06030)|null|
 |**2023-09-10**|**SC-NeRF: Self-Correcting Neural Radiance Field with Sparse Views**|Liang Song et.al.|[2309.05028](http://arxiv.org/abs/2309.05028)|null|
 |**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750](http://arxiv.org/abs/2309.04750)|null|
 |**2023-09-08**|**DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields**|Junzhe Zhang et.al.|[2309.04410](http://arxiv.org/abs/2309.04410)|null|
@@ -1726,6 +1728,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Learning Disentangled Avatars with Hybrid 3D Representations**|Yao Feng et.al.|[2309.06441](http://arxiv.org/abs/2309.06441)|null|
+|**2023-09-12**|**Suppression of lift-up effect in the 3D Boussinesq equations around a stably stratified Couette flow**|Michele Coti Zelati et.al.|[2309.06426](http://arxiv.org/abs/2309.06426)|null|
+|**2023-09-12**|**Style2Fab: Functionality-Aware Segmentation for Fabricating Personalized 3D Models with Generative AI**|Faraz Faruqi et.al.|[2309.06379](http://arxiv.org/abs/2309.06379)|null|
+|**2023-09-12**|**Photoinduced transition from quasi-2D Ruddlesden-Popper to 3D halide perovskites for optical writing multicolor and light-erasable images**|Sergey S. Anoshkin et.al.|[2309.06344](http://arxiv.org/abs/2309.06344)|null|
+|**2023-09-12**|**Grounded Language Acquisition From Object and Action Imagery**|James Robert Kubricht et.al.|[2309.06335](http://arxiv.org/abs/2309.06335)|null|
+|**2023-09-12**|**Semantic and Articulated Pedestrian Sensing Onboard a Moving Vehicle**|Maria Priisalu et.al.|[2309.06313](http://arxiv.org/abs/2309.06313)|null|
+|**2023-09-12**|**Reconstruction Formulae for 3D Field-Free Line Magnetic Particle Imaging**|Vladyslav Gapyak et.al.|[2309.06254](http://arxiv.org/abs/2309.06254)|null|
+|**2023-09-12**|**SCP: Scene Completion Pre-training for 3D Object Detection**|Yiming Shan et.al.|[2309.06199](http://arxiv.org/abs/2309.06199)|null|
+|**2023-09-12**|**Effect of Rare-earth Element Substitution in Superconducting R $_3$Ni$_2$O$_7$ Under Pressure**|Zhiming Pan et.al.|[2309.06173](http://arxiv.org/abs/2309.06173)|null|
+|**2023-09-12**|**HOC-Search: Efficient CAD Model and Pose Retrieval from RGB-D Scans**|Stefan Ainetter et.al.|[2309.06107](http://arxiv.org/abs/2309.06107)|null|
 |**2023-09-11**|**Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips**|Yufei Ye et.al.|[2309.05663](http://arxiv.org/abs/2309.05663)|null|
 |**2023-09-11**|**Grid-based Hybrid 3DMA GNSS and Terrestrial Positioning**|Paul Schwarzbach et.al.|[2309.05644](http://arxiv.org/abs/2309.05644)|null|
 |**2023-09-11**|**On the Comparison of AGN with GRMHD Simulations: II. M87**|Richard Anantua et.al.|[2309.05602](http://arxiv.org/abs/2309.05602)|null|
@@ -2371,6 +2383,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**EANet: Expert Attention Network for Online Trajectory Prediction**|Pengfei Yao et.al.|[2309.05683](http://arxiv.org/abs/2309.05683)|null|
 |**2023-09-11**|**Dynamic Handover: Throw and Catch with Bimanual Hands**|Binghao Huang et.al.|[2309.05655](http://arxiv.org/abs/2309.05655)|null|
 |**2023-09-11**|**Real-Time Parallel Trajectory Optimization with Spatiotemporal Safety Constraints for Autonomous Driving in Congested Traffic**|Lei Zheng et.al.|[2309.05298](http://arxiv.org/abs/2309.05298)|null|
 |**2023-09-11**|**Can you text what is happening? Integrating pre-trained language encoders into trajectory prediction models for autonomous driving**|Ali Keysan et.al.|[2309.05282](http://arxiv.org/abs/2309.05282)|null|
@@ -2418,6 +2431,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**SCP: Scene Completion Pre-training for 3D Object Detection**|Yiming Shan et.al.|[2309.06199](http://arxiv.org/abs/2309.06199)|null|
+|**2023-09-12**|**Which Framework is Suitable for Online 3D Multi-Object Tracking for Autonomous Driving with Automotive 4D Imaging Radar?**|Jianan Liu et.al.|[2309.06036](http://arxiv.org/abs/2309.06036)|null|
+|**2023-09-12**|**Emergent Communication in Multi-Agent Reinforcement Learning for Future Wireless Networks**|Marwa Chafii et.al.|[2309.06021](http://arxiv.org/abs/2309.06021)|null|
+|**2023-09-12**|**The Moral Machine Experiment on Large Language Models**|Kazuhiro Takemoto et.al.|[2309.05958](http://arxiv.org/abs/2309.05958)|**[link](https://github.com/kztakemoto/mmllm)**|
+|**2023-09-11**|**Designs and Implementations in Neural Network-based Video Coding**|Yue Li et.al.|[2309.05846](http://arxiv.org/abs/2309.05846)|null|
+|**2023-09-11**|**SHIFT3D: Synthesizing Hard Inputs For Tricking 3D Detectors**|Hongge Chen et.al.|[2309.05810](http://arxiv.org/abs/2309.05810)|null|
+|**2023-09-11**|**Robust Nonlinear Reduced-Order Model Predictive Control**|John Irvin Alora et.al.|[2309.05746](http://arxiv.org/abs/2309.05746)|null|
 |**2023-09-11**|**UniSeg: A Unified Multi-Modal LiDAR Segmentation Network and the OpenPCSeg Codebase**|Youquan Liu et.al.|[2309.05573](http://arxiv.org/abs/2309.05573)|**[link](https://github.com/pjlab-adg/pcseg)**|
 |**2023-09-11**|**ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation**|Bo Zhang et.al.|[2309.05527](http://arxiv.org/abs/2309.05527)|**[link](https://github.com/pjlab-adg/3dtrans)**|
 |**2023-09-11**|**Real-Time Parallel Trajectory Optimization with Spatiotemporal Safety Constraints for Autonomous Driving in Congested Traffic**|Lei Zheng et.al.|[2309.05298](http://arxiv.org/abs/2309.05298)|null|
