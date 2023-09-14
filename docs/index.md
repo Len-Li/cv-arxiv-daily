@@ -1245,6 +1245,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**Text-Guided Generation and Editing of Compositional 3D Avatars**|Hao Zhang et.al.|[2309.07125](http://arxiv.org/abs/2309.07125)|null|
+|**2023-09-13**|**Dynamic NeRFs for Soccer Scenes**|Sacha Lewin et.al.|[2309.06802](http://arxiv.org/abs/2309.06802)|null|
 |**2023-09-12**|**Learning Disentangled Avatars with Hybrid 3D Representations**|Yao Feng et.al.|[2309.06441](http://arxiv.org/abs/2309.06441)|null|
 |**2023-09-12**|**Federated Learning for Large-Scale Scene Modeling with Neural Radiance Fields**|Teppei Suzuki et.al.|[2309.06030](http://arxiv.org/abs/2309.06030)|null|
 |**2023-09-10**|**SC-NeRF: Self-Correcting Neural Radiance Field with Sparse Views**|Liang Song et.al.|[2309.05028](http://arxiv.org/abs/2309.05028)|null|
@@ -1728,6 +1730,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**Text-Guided Generation and Editing of Compositional 3D Avatars**|Hao Zhang et.al.|[2309.07125](http://arxiv.org/abs/2309.07125)|null|
+|**2023-09-13**|**Polygon Intersection-over-Union Loss for Viewpoint-Agnostic Monocular 3D Vehicle Detection**|Derek Gloudemans et.al.|[2309.07104](http://arxiv.org/abs/2309.07104)|null|
+|**2023-09-13**|**SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection**|Yiran Qin et.al.|[2309.07084](http://arxiv.org/abs/2309.07084)|**[link](https://github.com/iranqin/supfusion)**|
+|**2023-09-13**|**Prediction of Van Hove singularity systems in ternary borides**|Yang Sun et.al.|[2309.07046](http://arxiv.org/abs/2309.07046)|null|
+|**2023-09-13**|**The impact of lake shape and size on lake breezes and air-lake exchanges on Titan**|Audrey Chatain et.al.|[2309.07042](http://arxiv.org/abs/2309.07042)|null|
+|**2023-09-13**|**Temperature dependent convective parameters for RRc 1D-models**|Gábor B. Kovács et.al.|[2309.07039](http://arxiv.org/abs/2309.07039)|null|
+|**2023-09-13**|**Exploiting Multiple Priors for Neural 3D Indoor Reconstruction**|Federico Lincetto et.al.|[2309.07021](http://arxiv.org/abs/2309.07021)|null|
+|**2023-09-13**|**Using Lidar Intensity for Robot Navigation**|Adarsh Jagan Sathyamoorthy et.al.|[2309.07014](http://arxiv.org/abs/2309.07014)|null|
+|**2023-09-13**|**A model for the approximation of vortex rings by almost rigid bodies**|David Meyer et.al.|[2309.07004](http://arxiv.org/abs/2309.07004)|null|
+|**2023-09-13**|**Grothendieck lines in 3d $\mathcal{N}=2$ SQCD and the quantum K-theory of the Grassmannian**|Cyril Closset et.al.|[2309.06980](http://arxiv.org/abs/2309.06980)|null|
 |**2023-09-12**|**Learning Disentangled Avatars with Hybrid 3D Representations**|Yao Feng et.al.|[2309.06441](http://arxiv.org/abs/2309.06441)|null|
 |**2023-09-12**|**Suppression of lift-up effect in the 3D Boussinesq equations around a stably stratified Couette flow**|Michele Coti Zelati et.al.|[2309.06426](http://arxiv.org/abs/2309.06426)|null|
 |**2023-09-12**|**Style2Fab: Functionality-Aware Segmentation for Fabricating Personalized 3D Models with Generative AI**|Faraz Faruqi et.al.|[2309.06379](http://arxiv.org/abs/2309.06379)|null|
@@ -2383,6 +2395,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**CLiFF-LHMP: Using Spatial Dynamics Patterns for Long-Term Human Motion Prediction**|Yufei Zhu et.al.|[2309.07066](http://arxiv.org/abs/2309.07066)|null|
+|**2023-09-13**|**Utilizing Hybrid Trajectory Prediction Models to Recognize Highly Interactive Traffic Scenarios**|Maximilian Zipfl et.al.|[2309.06887](http://arxiv.org/abs/2309.06887)|null|
+|**2023-09-13**|**A Multi-task Learning Framework for Drone State Identification and Trajectory Prediction**|Antreas Palamas et.al.|[2309.06741](http://arxiv.org/abs/2309.06741)|null|
 |**2023-09-11**|**EANet: Expert Attention Network for Online Trajectory Prediction**|Pengfei Yao et.al.|[2309.05683](http://arxiv.org/abs/2309.05683)|null|
 |**2023-09-11**|**Dynamic Handover: Throw and Catch with Bimanual Hands**|Binghao Huang et.al.|[2309.05655](http://arxiv.org/abs/2309.05655)|null|
 |**2023-09-11**|**Real-Time Parallel Trajectory Optimization with Spatiotemporal Safety Constraints for Autonomous Driving in Congested Traffic**|Lei Zheng et.al.|[2309.05298](http://arxiv.org/abs/2309.05298)|null|
@@ -2431,6 +2446,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**DEFormer: DCT-driven Enhancement Transformer for Low-light Image and Dark Vision**|Xiangchen Yin et.al.|[2309.06941](http://arxiv.org/abs/2309.06941)|null|
+|**2023-09-13**|**MTD: Multi-Timestep Detector for Delayed Streaming Perception**|Yihui Huang et.al.|[2309.06742](http://arxiv.org/abs/2309.06742)|**[link](https://github.com/yulin1004/mtd)**|
+|**2023-09-12**|**AmodalSynthDrive: A Synthetic Amodal Perception Dataset for Autonomous Driving**|Ahmed Rida Sekkat et.al.|[2309.06547](http://arxiv.org/abs/2309.06547)|null|
 |**2023-09-12**|**SCP: Scene Completion Pre-training for 3D Object Detection**|Yiming Shan et.al.|[2309.06199](http://arxiv.org/abs/2309.06199)|null|
 |**2023-09-13**|**Which Framework is Suitable for Online 3D Multi-Object Tracking for Autonomous Driving with Automotive 4D Imaging Radar?**|Jianan Liu et.al.|[2309.06036](http://arxiv.org/abs/2309.06036)|null|
 |**2023-09-12**|**Emergent Communication in Multi-Agent Reinforcement Learning for Future Wireless Networks**|Marwa Chafii et.al.|[2309.06021](http://arxiv.org/abs/2309.06021)|null|
