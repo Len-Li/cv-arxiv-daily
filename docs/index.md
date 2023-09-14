@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.13
+## Updated on 2023.09.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2386,7 +2386,7 @@ layout: default
 |**2023-09-11**|**EANet: Expert Attention Network for Online Trajectory Prediction**|Pengfei Yao et.al.|[2309.05683](http://arxiv.org/abs/2309.05683)|null|
 |**2023-09-11**|**Dynamic Handover: Throw and Catch with Bimanual Hands**|Binghao Huang et.al.|[2309.05655](http://arxiv.org/abs/2309.05655)|null|
 |**2023-09-11**|**Real-Time Parallel Trajectory Optimization with Spatiotemporal Safety Constraints for Autonomous Driving in Congested Traffic**|Lei Zheng et.al.|[2309.05298](http://arxiv.org/abs/2309.05298)|null|
-|**2023-09-11**|**Can you text what is happening? Integrating pre-trained language encoders into trajectory prediction models for autonomous driving**|Ali Keysan et.al.|[2309.05282](http://arxiv.org/abs/2309.05282)|null|
+|**2023-09-13**|**Can you text what is happening? Integrating pre-trained language encoders into trajectory prediction models for autonomous driving**|Ali Keysan et.al.|[2309.05282](http://arxiv.org/abs/2309.05282)|null|
 |**2023-09-10**|**AVARS -- Alleviating Unexpected Urban Road Traffic Congestion using UAVs**|Jiaying Guo et.al.|[2309.04976](http://arxiv.org/abs/2309.04976)|**[link](https://github.com/guojyjy/avars)**|
 |**2023-09-07**|**PBP: Path-based Trajectory Prediction for Autonomous Driving**|Sepideh Afshar et.al.|[2309.03750](http://arxiv.org/abs/2309.03750)|null|
 |**2023-09-06**|**Efficient Baselines for Motion Prediction in Autonomous Driving**|Carlos Gómez-Huélamo et.al.|[2309.03387](http://arxiv.org/abs/2309.03387)|**[link](https://github.com/cram3r95/mapfe4mp)**|
@@ -2432,7 +2432,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-12**|**SCP: Scene Completion Pre-training for 3D Object Detection**|Yiming Shan et.al.|[2309.06199](http://arxiv.org/abs/2309.06199)|null|
-|**2023-09-12**|**Which Framework is Suitable for Online 3D Multi-Object Tracking for Autonomous Driving with Automotive 4D Imaging Radar?**|Jianan Liu et.al.|[2309.06036](http://arxiv.org/abs/2309.06036)|null|
+|**2023-09-13**|**Which Framework is Suitable for Online 3D Multi-Object Tracking for Autonomous Driving with Automotive 4D Imaging Radar?**|Jianan Liu et.al.|[2309.06036](http://arxiv.org/abs/2309.06036)|null|
 |**2023-09-12**|**Emergent Communication in Multi-Agent Reinforcement Learning for Future Wireless Networks**|Marwa Chafii et.al.|[2309.06021](http://arxiv.org/abs/2309.06021)|null|
 |**2023-09-12**|**The Moral Machine Experiment on Large Language Models**|Kazuhiro Takemoto et.al.|[2309.05958](http://arxiv.org/abs/2309.05958)|**[link](https://github.com/kztakemoto/mmllm)**|
 |**2023-09-11**|**Designs and Implementations in Neural Network-based Video Coding**|Yue Li et.al.|[2309.05846](http://arxiv.org/abs/2309.05846)|null|
