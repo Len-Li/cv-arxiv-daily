@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.14
+## Updated on 2023.09.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1252,7 +1252,7 @@ layout: default
 |**2023-09-10**|**SC-NeRF: Self-Correcting Neural Radiance Field with Sparse Views**|Liang Song et.al.|[2309.05028](http://arxiv.org/abs/2309.05028)|null|
 |**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750](http://arxiv.org/abs/2309.04750)|null|
 |**2023-09-08**|**DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields**|Junzhe Zhang et.al.|[2309.04410](http://arxiv.org/abs/2309.04410)|null|
-|**2023-09-07**|**SimpleNeRF: Regularizing Sparse Input Neural Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2309.03955](http://arxiv.org/abs/2309.03955)|null|
+|**2023-09-14**|**SimpleNeRF: Regularizing Sparse Input Neural Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2309.03955](http://arxiv.org/abs/2309.03955)|null|
 |**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933](http://arxiv.org/abs/2309.03933)|null|
 |**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
 |**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185](http://arxiv.org/abs/2309.03185)|null|
@@ -2453,7 +2453,7 @@ layout: default
 |**2023-09-13**|**Which Framework is Suitable for Online 3D Multi-Object Tracking for Autonomous Driving with Automotive 4D Imaging Radar?**|Jianan Liu et.al.|[2309.06036](http://arxiv.org/abs/2309.06036)|null|
 |**2023-09-12**|**Emergent Communication in Multi-Agent Reinforcement Learning for Future Wireless Networks**|Marwa Chafii et.al.|[2309.06021](http://arxiv.org/abs/2309.06021)|null|
 |**2023-09-12**|**The Moral Machine Experiment on Large Language Models**|Kazuhiro Takemoto et.al.|[2309.05958](http://arxiv.org/abs/2309.05958)|**[link](https://github.com/kztakemoto/mmllm)**|
-|**2023-09-11**|**Designs and Implementations in Neural Network-based Video Coding**|Yue Li et.al.|[2309.05846](http://arxiv.org/abs/2309.05846)|null|
+|**2023-09-13**|**Designs and Implementations in Neural Network-based Video Coding**|Yue Li et.al.|[2309.05846](http://arxiv.org/abs/2309.05846)|null|
 |**2023-09-11**|**SHIFT3D: Synthesizing Hard Inputs For Tricking 3D Detectors**|Hongge Chen et.al.|[2309.05810](http://arxiv.org/abs/2309.05810)|null|
 |**2023-09-11**|**Robust Nonlinear Reduced-Order Model Predictive Control**|John Irvin Alora et.al.|[2309.05746](http://arxiv.org/abs/2309.05746)|null|
 |**2023-09-11**|**UniSeg: A Unified Multi-Modal LiDAR Segmentation Network and the OpenPCSeg Codebase**|Youquan Liu et.al.|[2309.05573](http://arxiv.org/abs/2309.05573)|**[link](https://github.com/pjlab-adg/pcseg)**|
