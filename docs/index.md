@@ -1245,6 +1245,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**MC-NeRF: Muti-Camera Neural Radiance Fields for Muti-Camera Image Acquisition Systems**|Yu Gao et.al.|[2309.07846](http://arxiv.org/abs/2309.07846)|null|
+|**2023-09-14**|**DT-NeRF: Decomposed Triplane-Hash Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Yaoyu Su et.al.|[2309.07752](http://arxiv.org/abs/2309.07752)|null|
+|**2023-09-14**|**CoRF : Colorizing Radiance Fields using Knowledge Distillation**|Ankit Dhiman et.al.|[2309.07668](http://arxiv.org/abs/2309.07668)|null|
+|**2023-09-14**|**Indoor Scene Reconstruction with Fine-Grained Details Using Hybrid Representation and Normal Prior Enhancement**|Sheng Ye et.al.|[2309.07640](http://arxiv.org/abs/2309.07640)|null|
 |**2023-09-13**|**Text-Guided Generation and Editing of Compositional 3D Avatars**|Hao Zhang et.al.|[2309.07125](http://arxiv.org/abs/2309.07125)|null|
 |**2023-09-13**|**Dynamic NeRFs for Soccer Scenes**|Sacha Lewin et.al.|[2309.06802](http://arxiv.org/abs/2309.06802)|null|
 |**2023-09-12**|**Learning Disentangled Avatars with Hybrid 3D Representations**|Yao Feng et.al.|[2309.06441](http://arxiv.org/abs/2309.06441)|null|
@@ -1730,6 +1734,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**Large-Vocabulary 3D Diffusion Model with Transformer**|Ziang Cao et.al.|[2309.07920](http://arxiv.org/abs/2309.07920)|null|
+|**2023-09-14**|**Looking at words and points with attention: a benchmark for text-to-shape coherence**|Andrea Amaduzzi et.al.|[2309.07917](http://arxiv.org/abs/2309.07917)|null|
+|**2023-09-14**|**TEMPO: Efficient Multi-View Pose Estimation, Tracking, and Forecasting**|Rohan Choudhury et.al.|[2309.07910](http://arxiv.org/abs/2309.07910)|null|
+|**2023-09-14**|**Physically Plausible Full-Body Hand-Object Interaction Synthesis**|Jona Braun et.al.|[2309.07907](http://arxiv.org/abs/2309.07907)|null|
+|**2023-09-14**|**HandNeRF: Learning to Reconstruct Hand-Object Interaction Scene from a Single RGB Image**|Hongsuk Choi et.al.|[2309.07891](http://arxiv.org/abs/2309.07891)|null|
+|**2023-09-14**|**TFNet: Exploiting Temporal Cues for Fast and Accurate LiDAR Semantic Segmentation**|Rong Li et.al.|[2309.07849](http://arxiv.org/abs/2309.07849)|null|
+|**2023-09-14**|**MC-NeRF: Muti-Camera Neural Radiance Fields for Muti-Camera Image Acquisition Systems**|Yu Gao et.al.|[2309.07846](http://arxiv.org/abs/2309.07846)|null|
+|**2023-09-14**|**Facilitating the systematic nanoscale study of battery materials by atom probe tomography through in-situ metal coating**|Mahander P Singh et.al.|[2309.07842](http://arxiv.org/abs/2309.07842)|null|
+|**2023-09-14**|**VAPOR: Holonomic Legged Robot Navigation in Outdoor Vegetation Using Offline Reinforcement Learning**|Kasun Weerakoon et.al.|[2309.07832](http://arxiv.org/abs/2309.07832)|null|
+|**2023-09-14**|**OmnimatteRF: Robust Omnimatte with 3D Background Modeling**|Geng Lin et.al.|[2309.07749](http://arxiv.org/abs/2309.07749)|null|
 |**2023-09-13**|**Text-Guided Generation and Editing of Compositional 3D Avatars**|Hao Zhang et.al.|[2309.07125](http://arxiv.org/abs/2309.07125)|null|
 |**2023-09-13**|**Polygon Intersection-over-Union Loss for Viewpoint-Agnostic Monocular 3D Vehicle Detection**|Derek Gloudemans et.al.|[2309.07104](http://arxiv.org/abs/2309.07104)|null|
 |**2023-09-13**|**SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection**|Yiran Qin et.al.|[2309.07084](http://arxiv.org/abs/2309.07084)|**[link](https://github.com/iranqin/supfusion)**|
@@ -2395,6 +2409,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Model-based traffic state estimation for link traffic using moving cameras**|Tanay Rastogi et.al.|[2309.07162](http://arxiv.org/abs/2309.07162)|null|
 |**2023-09-13**|**CLiFF-LHMP: Using Spatial Dynamics Patterns for Long-Term Human Motion Prediction**|Yufei Zhu et.al.|[2309.07066](http://arxiv.org/abs/2309.07066)|null|
 |**2023-09-13**|**Utilizing Hybrid Trajectory Prediction Models to Recognize Highly Interactive Traffic Scenarios**|Maximilian Zipfl et.al.|[2309.06887](http://arxiv.org/abs/2309.06887)|null|
 |**2023-09-13**|**A Multi-task Learning Framework for Drone State Identification and Trajectory Prediction**|Antreas Palamas et.al.|[2309.06741](http://arxiv.org/abs/2309.06741)|null|
@@ -2446,6 +2461,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**TFNet: Exploiting Temporal Cues for Fast and Accurate LiDAR Semantic Segmentation**|Rong Li et.al.|[2309.07849](http://arxiv.org/abs/2309.07849)|null|
+|**2023-09-14**|**What Matters to Enhance Traffic Rule Compliance of Imitation Learning for Automated Driving**|Hongkuan Zhou et.al.|[2309.07808](http://arxiv.org/abs/2309.07808)|null|
 |**2023-09-13**|**DEFormer: DCT-driven Enhancement Transformer for Low-light Image and Dark Vision**|Xiangchen Yin et.al.|[2309.06941](http://arxiv.org/abs/2309.06941)|null|
 |**2023-09-13**|**MTD: Multi-Timestep Detector for Delayed Streaming Perception**|Yihui Huang et.al.|[2309.06742](http://arxiv.org/abs/2309.06742)|**[link](https://github.com/yulin1004/mtd)**|
 |**2023-09-12**|**AmodalSynthDrive: A Synthetic Amodal Perception Dataset for Autonomous Driving**|Ahmed Rida Sekkat et.al.|[2309.06547](http://arxiv.org/abs/2309.06547)|null|
