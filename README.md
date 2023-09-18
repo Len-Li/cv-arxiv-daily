@@ -1267,6 +1267,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**|Weng Fei Low et.al.|[2309.08596](http://arxiv.org/abs/2309.08596)|**[link](https://github.com/wengflow/robust-e-nerf)**|
+|**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523](http://arxiv.org/abs/2309.08523)|**[link](https://github.com/kongdai123/repainting_3d_assets)**|
+|**2023-09-15**|**Deformable Neural Radiance Fields using RGB and Event Cameras**|Qi Ma et.al.|[2309.08416](http://arxiv.org/abs/2309.08416)|null|
+|**2023-09-14**|**Gradient based Grasp Pose Optimization on a NeRF that Approximates Grasp Success**|Gergely Sóti et.al.|[2309.08040](http://arxiv.org/abs/2309.08040)|null|
 |**2023-09-14**|**MC-NeRF: Muti-Camera Neural Radiance Fields for Muti-Camera Image Acquisition Systems**|Yu Gao et.al.|[2309.07846](http://arxiv.org/abs/2309.07846)|null|
 |**2023-09-14**|**DT-NeRF: Decomposed Triplane-Hash Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Yaoyu Su et.al.|[2309.07752](http://arxiv.org/abs/2309.07752)|null|
 |**2023-09-14**|**CoRF : Colorizing Radiance Fields using Knowledge Distillation**|Ankit Dhiman et.al.|[2309.07668](http://arxiv.org/abs/2309.07668)|null|
@@ -1758,6 +1762,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523](http://arxiv.org/abs/2309.08523)|**[link](https://github.com/kongdai123/repainting_3d_assets)**|
+|**2023-09-15**|**OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection**|Yupeng Jia et.al.|[2309.08504](http://arxiv.org/abs/2309.08504)|null|
+|**2023-09-15**|**Blow-up for the incompressible 3D-Euler equations with uniform $C^{1,\frac{1}{2}-ε}\cap L^2$ force**|Diego Córdoba et.al.|[2309.08495](http://arxiv.org/abs/2309.08495)|null|
+|**2023-09-15**|**3D Arterial Segmentation via Single 2D Projections and Depth Supervision in Contrast-Enhanced CT Images**|Alina F. Dima et.al.|[2309.08481](http://arxiv.org/abs/2309.08481)|**[link](https://github.com/alinafdima/3dseg-mip-depth)**|
+|**2023-09-15**|**PoseFix: Correcting 3D Human Poses with Natural Language**|Ginger Delmas et.al.|[2309.08480](http://arxiv.org/abs/2309.08480)|null|
+|**2023-09-15**|**X-PDNet: Accurate Joint Plane Instance Segmentation and Monocular Depth Estimation with Cross-Task Distillation and Boundary Correction**|Duc Cao Dinh et.al.|[2309.08424](http://arxiv.org/abs/2309.08424)|**[link](https://github.com/caodinhduc/x-pdnet-official)**|
+|**2023-09-15**|**3D SA-UNet: 3D Spatial Attention UNet with 3D ASPP for White Matter Hyperintensities Segmentation**|Changlu Guo et.al.|[2309.08402](http://arxiv.org/abs/2309.08402)|null|
+|**2023-09-15**|**Topological Exploration using Segmented Map with Keyframe Contribution in Subterranean Environments**|Boseong Kim et.al.|[2309.08397](http://arxiv.org/abs/2309.08397)|null|
+|**2023-09-15**|**An Efficient Wide-Range Pseudo-3D Vehicle Detection Using A Single Camera**|Zhupeng Ye et.al.|[2309.08369](http://arxiv.org/abs/2309.08369)|null|
+|**2023-09-15**|**T-UDA: Temporal Unsupervised Domain Adaptation in Sequential Point Clouds**|Awet Haileslassie Gebrehiwot et.al.|[2309.08302](http://arxiv.org/abs/2309.08302)|**[link](https://github.com/ctu-vras/t-uda)**|
 |**2023-09-15**|**Large-Vocabulary 3D Diffusion Model with Transformer**|Ziang Cao et.al.|[2309.07920](http://arxiv.org/abs/2309.07920)|null|
 |**2023-09-14**|**Looking at words and points with attention: a benchmark for text-to-shape coherence**|Andrea Amaduzzi et.al.|[2309.07917](http://arxiv.org/abs/2309.07917)|null|
 |**2023-09-14**|**TEMPO: Efficient Multi-View Pose Estimation, Tracking, and Forecasting**|Rohan Choudhury et.al.|[2309.07910](http://arxiv.org/abs/2309.07910)|null|
@@ -2491,6 +2505,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Closing the Loop on Runtime Monitors with Fallback-Safe MPC**|Rohan Sinha et.al.|[2309.08603](http://arxiv.org/abs/2309.08603)|null|
+|**2023-09-15**|**Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes**|Fabien Delattre et.al.|[2309.08588](http://arxiv.org/abs/2309.08588)|null|
+|**2023-09-15**|**The Impact of Different Backbone Architecture on Autonomous Vehicle Dataset**|Ning Ding et.al.|[2309.08564](http://arxiv.org/abs/2309.08564)|null|
+|**2023-09-15**|**OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection**|Yupeng Jia et.al.|[2309.08504](http://arxiv.org/abs/2309.08504)|null|
+|**2023-09-15**|**MBAPPE: MCTS-Built-Around Prediction for Planning Explicitly**|Raphael Chekroun et.al.|[2309.08452](http://arxiv.org/abs/2309.08452)|null|
 |**2023-09-14**|**TFNet: Exploiting Temporal Cues for Fast and Accurate LiDAR Semantic Segmentation**|Rong Li et.al.|[2309.07849](http://arxiv.org/abs/2309.07849)|null|
 |**2023-09-14**|**What Matters to Enhance Traffic Rule Compliance of Imitation Learning for Automated Driving**|Hongkuan Zhou et.al.|[2309.07808](http://arxiv.org/abs/2309.07808)|null|
 |**2023-09-13**|**DEFormer: DCT-driven Enhancement Transformer for Low-light Image and Dark Vision**|Xiangchen Yin et.al.|[2309.06941](http://arxiv.org/abs/2309.06941)|null|
