@@ -1245,6 +1245,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-17**|**NeRF-VINS: A Real-time Neural Radiance Field Map-based Visual-Inertial Navigation System**|Saimouli Katragadda et.al.|[2309.09295](http://arxiv.org/abs/2309.09295)|null|
+|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|null|
 |**2023-09-15**|**Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**|Weng Fei Low et.al.|[2309.08596](http://arxiv.org/abs/2309.08596)|**[link](https://github.com/wengflow/robust-e-nerf)**|
 |**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523](http://arxiv.org/abs/2309.08523)|**[link](https://github.com/toshas/remesh_isotropic_planar)**|
 |**2023-09-15**|**Deformable Neural Radiance Fields using RGB and Event Cameras**|Qi Ma et.al.|[2309.08416](http://arxiv.org/abs/2309.08416)|null|
@@ -1738,6 +1740,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**GEDepth: Ground Embedding for Monocular Depth Estimation**|Xiaodong Yang et.al.|[2309.09975](http://arxiv.org/abs/2309.09975)|**[link](https://github.com/qcraftai/gedepth)**|
+|**2023-09-18**|**Extended defects-enhanced oxygen diffusion in ThO2**|Miaomiao Jin et.al.|[2309.09952](http://arxiv.org/abs/2309.09952)|null|
+|**2023-09-18**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose Estimation**|Kathia Melbouci et.al.|[2309.09934](http://arxiv.org/abs/2309.09934)|null|
+|**2023-09-18**|**Impact of Augmented reality system on elementary school ESL learners in country side of china: Motivations, achievements, behaviors and cognitive attainment**|Ijaz Ul Haq et.al.|[2309.09894](http://arxiv.org/abs/2309.09894)|null|
+|**2023-09-18**|**Exponential time integration for 3D compressible atmospheric models**|Greg Rainwater et.al.|[2309.09869](http://arxiv.org/abs/2309.09869)|null|
+|**2023-09-18**|**PseudoCal: Towards Initialisation-Free Deep Learning-Based Camera-LiDAR Self-Calibration**|Mathieu Cocheteux et.al.|[2309.09855](http://arxiv.org/abs/2309.09855)|null|
+|**2023-09-18**|**Investigations of Helmholtz Resonators with Curved Tapered Embedded Neck Extension**|Zhanlu Chen et.al.|[2309.09852](http://arxiv.org/abs/2309.09852)|null|
+|**2023-09-18**|**Application of Novel PACS-based Informatics Platform to Identify Imaging Based Predictors of CDKN2A Allelic Status in Glioblastomas**|Niklas Tillmanns et.al.|[2309.09816](http://arxiv.org/abs/2309.09816)|null|
+|**2023-09-18**|**Monstrous Higgs and Leech Spacetime**|Seyed M. F. Khaki et.al.|[2309.09762](http://arxiv.org/abs/2309.09762)|null|
+|**2023-09-18**|**Non-uniqueness in law of Leray solutions to 3D forced stochastic Navier-Stokes equations**|Elia Brué et.al.|[2309.09753](http://arxiv.org/abs/2309.09753)|null|
 |**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523](http://arxiv.org/abs/2309.08523)|**[link](https://github.com/toshas/remesh_isotropic_planar)**|
 |**2023-09-15**|**OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection**|Yupeng Jia et.al.|[2309.08504](http://arxiv.org/abs/2309.08504)|**[link](https://github.com/jypjypjypjyp/occupancydetr)**|
 |**2023-09-15**|**Blow-up for the incompressible 3D-Euler equations with uniform $C^{1,\frac{1}{2}-ε}\cap L^2$ force**|Diego Córdoba et.al.|[2309.08495](http://arxiv.org/abs/2309.08495)|null|
@@ -2423,6 +2435,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**Moving Object Detection and Tracking with 4D Radar Point Cloud**|Zhijun Pan et.al.|[2309.09737](http://arxiv.org/abs/2309.09737)|null|
+|**2023-09-17**|**Kinematics-aware Trajectory Generation and Prediction with Latent Stochastic Differential Modeling**|Ruochen Jiao et.al.|[2309.09317](http://arxiv.org/abs/2309.09317)|null|
+|**2023-09-17**|**Trajectory Forecasting with Loose Clothing Using Left-to-Right Hidden Markov Model**|Tianchen Shen et.al.|[2309.09237](http://arxiv.org/abs/2309.09237)|null|
+|**2023-09-17**|**Hamiltonian Dynamics Learning from Point Cloud Observations for Nonholonomic Mobile Robot Control**|Abdullah Altawaitan et.al.|[2309.09163](http://arxiv.org/abs/2309.09163)|null|
+|**2023-09-17**|**Trajectory Prediction for Robot Navigation using Flow-Guided Markov Neural Operator**|Rashmi Bhaskara et.al.|[2309.09137](http://arxiv.org/abs/2309.09137)|null|
+|**2023-09-16**|**Pedestrian Trajectory Prediction Using Dynamics-based Deep Learning**|Honghui Wang et.al.|[2309.09021](http://arxiv.org/abs/2309.09021)|null|
+|**2023-09-16**|**RMP: A Random Mask Pretrain Framework for Motion Prediction**|Yi Yang et.al.|[2309.08989](http://arxiv.org/abs/2309.08989)|**[link](https://github.com/kth-rpl/rmp)**|
+|**2023-09-16**|**Staged Contact-Aware Global Human Motion Forecasting**|Luca Scofano et.al.|[2309.08947](http://arxiv.org/abs/2309.08947)|**[link](https://github.com/l-scofano/stag)**|
+|**2023-09-16**|**SafeShift: Safety-Informed Distribution Shifts for Robust Trajectory Prediction in Autonomous Driving**|Benjamin Stoler et.al.|[2309.08889](http://arxiv.org/abs/2309.08889)|null|
+|**2023-09-16**|**Intention-Aware Planner for Robust and Safe Aerial Tracking**|Qiuyu Ren et.al.|[2309.08854](http://arxiv.org/abs/2309.08854)|null|
 |**2023-09-11**|**Model-based traffic state estimation for link traffic using moving cameras**|Tanay Rastogi et.al.|[2309.07162](http://arxiv.org/abs/2309.07162)|null|
 |**2023-09-13**|**CLiFF-LHMP: Using Spatial Dynamics Patterns for Long-Term Human Motion Prediction**|Yufei Zhu et.al.|[2309.07066](http://arxiv.org/abs/2309.07066)|null|
 |**2023-09-13**|**Utilizing Hybrid Trajectory Prediction Models to Recognize Highly Interactive Traffic Scenarios**|Maximilian Zipfl et.al.|[2309.06887](http://arxiv.org/abs/2309.06887)|null|
@@ -2475,6 +2497,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**CC-SGG: Corner Case Scenario Generation using Learned Scene Graphs**|George Drayson et.al.|[2309.09844](http://arxiv.org/abs/2309.09844)|null|
+|**2023-09-18**|**DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving**|Xiaofeng Wang et.al.|[2309.09777](http://arxiv.org/abs/2309.09777)|null|
+|**2023-09-18**|**Privileged to Predicted: Towards Sensorimotor Reinforcement Learning for Urban Driving**|Ege Onat Özsüer et.al.|[2309.09756](http://arxiv.org/abs/2309.09756)|null|
+|**2023-09-18**|**Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness**|Jiaqi Liu et.al.|[2309.09726](http://arxiv.org/abs/2309.09726)|null|
+|**2023-09-18**|**Conditioning Latent-Space Clusters for Real-World Anomaly Classification**|Daniel Bogdoll et.al.|[2309.09676](http://arxiv.org/abs/2309.09676)|null|
+|**2023-09-18**|**RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision**|Mingjie Pan et.al.|[2309.09502](http://arxiv.org/abs/2309.09502)|null|
+|**2023-09-18**|**Guided Online Distillation: Promoting Safe Reinforcement Learning by Offline Demonstration**|Jinning Li et.al.|[2309.09408](http://arxiv.org/abs/2309.09408)|null|
+|**2023-09-17**|**Mobile Metaverse: A Road Map from Metaverse to Metavehicles**|Yilong Hui et.al.|[2309.09304](http://arxiv.org/abs/2309.09304)|null|
+|**2023-09-17**|**Deep Neighbor Layer Aggregation for Lightweight Self-Supervised Monocular Depth Estimation**|Boya Wang et.al.|[2309.09272](http://arxiv.org/abs/2309.09272)|null|
+|**2023-09-17**|**Performance of Graph Neural Networks for Point Cloud Applications**|Dhruv Parikh et.al.|[2309.09142](http://arxiv.org/abs/2309.09142)|null|
 |**2023-09-18**|**Closing the Loop on Runtime Monitors with Fallback-Safe MPC**|Rohan Sinha et.al.|[2309.08603](http://arxiv.org/abs/2309.08603)|null|
 |**2023-09-15**|**Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes**|Fabien Delattre et.al.|[2309.08588](http://arxiv.org/abs/2309.08588)|null|
 |**2023-09-15**|**The Impact of Different Backbone Architecture on Autonomous Vehicle Dataset**|Ning Ding et.al.|[2309.08564](http://arxiv.org/abs/2309.08564)|null|
