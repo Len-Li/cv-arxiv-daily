@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.18
+## Updated on 2023.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -422,7 +422,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
 ## SFM
 
@@ -529,7 +529,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -967,7 +967,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1115,7 +1115,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1261,14 +1261,14 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-15**|**Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**|Weng Fei Low et.al.|[2309.08596](http://arxiv.org/abs/2309.08596)|**[link](https://github.com/wengflow/robust-e-nerf)**|
-|**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523](http://arxiv.org/abs/2309.08523)|**[link](https://github.com/kongdai123/repainting_3d_assets)**|
+|**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523](http://arxiv.org/abs/2309.08523)|**[link](https://github.com/toshas/remesh_isotropic_planar)**|
 |**2023-09-15**|**Deformable Neural Radiance Fields using RGB and Event Cameras**|Qi Ma et.al.|[2309.08416](http://arxiv.org/abs/2309.08416)|null|
 |**2023-09-14**|**Gradient based Grasp Pose Optimization on a NeRF that Approximates Grasp Success**|Gergely Sóti et.al.|[2309.08040](http://arxiv.org/abs/2309.08040)|null|
 |**2023-09-14**|**MC-NeRF: Muti-Camera Neural Radiance Fields for Muti-Camera Image Acquisition Systems**|Yu Gao et.al.|[2309.07846](http://arxiv.org/abs/2309.07846)|null|
@@ -1756,19 +1756,19 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
 ## 3D
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523](http://arxiv.org/abs/2309.08523)|**[link](https://github.com/kongdai123/repainting_3d_assets)**|
-|**2023-09-15**|**OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection**|Yupeng Jia et.al.|[2309.08504](http://arxiv.org/abs/2309.08504)|null|
+|**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523](http://arxiv.org/abs/2309.08523)|**[link](https://github.com/toshas/remesh_isotropic_planar)**|
+|**2023-09-15**|**OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection**|Yupeng Jia et.al.|[2309.08504](http://arxiv.org/abs/2309.08504)|**[link](https://github.com/jypjypjypjyp/occupancydetr)**|
 |**2023-09-15**|**Blow-up for the incompressible 3D-Euler equations with uniform $C^{1,\frac{1}{2}-ε}\cap L^2$ force**|Diego Córdoba et.al.|[2309.08495](http://arxiv.org/abs/2309.08495)|null|
 |**2023-09-15**|**3D Arterial Segmentation via Single 2D Projections and Depth Supervision in Contrast-Enhanced CT Images**|Alina F. Dima et.al.|[2309.08481](http://arxiv.org/abs/2309.08481)|**[link](https://github.com/alinafdima/3dseg-mip-depth)**|
 |**2023-09-15**|**PoseFix: Correcting 3D Human Poses with Natural Language**|Ginger Delmas et.al.|[2309.08480](http://arxiv.org/abs/2309.08480)|null|
 |**2023-09-15**|**X-PDNet: Accurate Joint Plane Instance Segmentation and Monocular Depth Estimation with Cross-Task Distillation and Boundary Correction**|Duc Cao Dinh et.al.|[2309.08424](http://arxiv.org/abs/2309.08424)|**[link](https://github.com/caodinhduc/x-pdnet-official)**|
-|**2023-09-15**|**3D SA-UNet: 3D Spatial Attention UNet with 3D ASPP for White Matter Hyperintensities Segmentation**|Changlu Guo et.al.|[2309.08402](http://arxiv.org/abs/2309.08402)|null|
+|**2023-09-15**|**3D SA-UNet: 3D Spatial Attention UNet with 3D ASPP for White Matter Hyperintensities Segmentation**|Changlu Guo et.al.|[2309.08402](http://arxiv.org/abs/2309.08402)|**[link](https://github.com/hjkuijf/wmhchallenge)**|
 |**2023-09-15**|**Topological Exploration using Segmented Map with Keyframe Contribution in Subterranean Environments**|Boseong Kim et.al.|[2309.08397](http://arxiv.org/abs/2309.08397)|null|
 |**2023-09-15**|**An Efficient Wide-Range Pseudo-3D Vehicle Detection Using A Single Camera**|Zhupeng Ye et.al.|[2309.08369](http://arxiv.org/abs/2309.08369)|null|
 |**2023-09-15**|**T-UDA: Temporal Unsupervised Domain Adaptation in Sequential Point Clouds**|Awet Haileslassie Gebrehiwot et.al.|[2309.08302](http://arxiv.org/abs/2309.08302)|**[link](https://github.com/ctu-vras/t-uda)**|
@@ -2443,7 +2443,7 @@
 |**2023-06-07**|**Blowup analysis for a quasi-exact 1D model of 3D Euler and Navier-Stokes**|Thomas Y. Hou et.al.|[2306.04146](http://arxiv.org/abs/2306.04146)|null|
 |**2023-06-07**|**Magnetic Flux Budget in Mean-Field Dynamo Model of Solar Cycles 23 and 24**|V. V. Pipin et.al.|[2306.04124](http://arxiv.org/abs/2306.04124)|null|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -2481,7 +2481,7 @@
 |**2023-08-10**|**Effects of Dynamic and Stochastic Travel Times on the Operation of Mobility-on-Demand Services**|Fynn Wolf et.al.|[2308.05535](http://arxiv.org/abs/2308.05535)|null|
 |**2023-08-09**|**Joint-Relation Transformer for Multi-Person Motion Prediction**|Qingyao Xu et.al.|[2308.04808](http://arxiv.org/abs/2308.04808)|**[link](https://github.com/mediabrain-sjtu/jrtransformer)**|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
 ## Industry
 
@@ -2499,18 +2499,18 @@
 |**2023-04-19**|**NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models**|Seung Wook Kim et.al.|[2304.09787](http://arxiv.org/abs/2304.09787)|null|
 |**2023-04-18**|**Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models**|Andreas Blattmann et.al.|[2304.08818](http://arxiv.org/abs/2304.08818)|null|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-15**|**Closing the Loop on Runtime Monitors with Fallback-Safe MPC**|Rohan Sinha et.al.|[2309.08603](http://arxiv.org/abs/2309.08603)|null|
+|**2023-09-18**|**Closing the Loop on Runtime Monitors with Fallback-Safe MPC**|Rohan Sinha et.al.|[2309.08603](http://arxiv.org/abs/2309.08603)|null|
 |**2023-09-15**|**Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes**|Fabien Delattre et.al.|[2309.08588](http://arxiv.org/abs/2309.08588)|null|
 |**2023-09-15**|**The Impact of Different Backbone Architecture on Autonomous Vehicle Dataset**|Ning Ding et.al.|[2309.08564](http://arxiv.org/abs/2309.08564)|null|
-|**2023-09-15**|**OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection**|Yupeng Jia et.al.|[2309.08504](http://arxiv.org/abs/2309.08504)|null|
+|**2023-09-15**|**OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection**|Yupeng Jia et.al.|[2309.08504](http://arxiv.org/abs/2309.08504)|**[link](https://github.com/jypjypjypjyp/occupancydetr)**|
 |**2023-09-15**|**MBAPPE: MCTS-Built-Around Prediction for Planning Explicitly**|Raphael Chekroun et.al.|[2309.08452](http://arxiv.org/abs/2309.08452)|null|
-|**2023-09-14**|**TFNet: Exploiting Temporal Cues for Fast and Accurate LiDAR Semantic Segmentation**|Rong Li et.al.|[2309.07849](http://arxiv.org/abs/2309.07849)|null|
+|**2023-09-17**|**TFNet: Exploiting Temporal Cues for Fast and Accurate LiDAR Semantic Segmentation**|Rong Li et.al.|[2309.07849](http://arxiv.org/abs/2309.07849)|null|
 |**2023-09-14**|**What Matters to Enhance Traffic Rule Compliance of Imitation Learning for Automated Driving**|Hongkuan Zhou et.al.|[2309.07808](http://arxiv.org/abs/2309.07808)|null|
 |**2023-09-13**|**DEFormer: DCT-driven Enhancement Transformer for Low-light Image and Dark Vision**|Xiangchen Yin et.al.|[2309.06941](http://arxiv.org/abs/2309.06941)|null|
 |**2023-09-13**|**MTD: Multi-Timestep Detector for Delayed Streaming Perception**|Yihui Huang et.al.|[2309.06742](http://arxiv.org/abs/2309.06742)|**[link](https://github.com/yulin1004/mtd)**|
@@ -2561,7 +2561,7 @@
 |**2023-08-31**|**Edge-Assisted Lightweight Region-of-Interest Extraction and Transmission for Vehicle Perception**|Yan Cheng et.al.|[2308.16417](http://arxiv.org/abs/2308.16417)|null|
 |**2023-08-30**|**DRL-Based Trajectory Tracking for Motion-Related Modules in Autonomous Driving**|Yinda Xu et.al.|[2308.15991](http://arxiv.org/abs/2308.15991)|null|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
