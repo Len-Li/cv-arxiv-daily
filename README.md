@@ -1267,6 +1267,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**Locally Stylized Neural Radiance Fields**|Hong-Wing Pang et.al.|[2309.10684](http://arxiv.org/abs/2309.10684)|null|
+|**2023-09-19**|**Steganography for Neural Radiance Fields by Backdooring**|Weina Dong et.al.|[2309.10503](http://arxiv.org/abs/2309.10503)|null|
+|**2023-09-18**|**Instant Photorealistic Style Transfer: A Lightweight and Adaptive Approach**|Rong Liu et.al.|[2309.10011](http://arxiv.org/abs/2309.10011)|null|
 |**2023-09-17**|**NeRF-VINS: A Real-time Neural Radiance Field Map-based Visual-Inertial Navigation System**|Saimouli Katragadda et.al.|[2309.09295](http://arxiv.org/abs/2309.09295)|null|
 |**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|null|
 |**2023-09-15**|**Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**|Weng Fei Low et.al.|[2309.08596](http://arxiv.org/abs/2309.08596)|**[link](https://github.com/wengflow/robust-e-nerf)**|
@@ -1764,6 +1767,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**Multisource Holography**|Grace Kuo et.al.|[2309.10816](http://arxiv.org/abs/2309.10816)|null|
+|**2023-09-19**|**PanopticNeRF-360: Panoramic 3D-to-2D Label Transfer in Urban Scenes**|Xiao Fu et.al.|[2309.10815](http://arxiv.org/abs/2309.10815)|**[link](https://github.com/fuxiao0719/panopticnerf)**|
+|**2023-09-19**|**(2,0) theory on $S^5 \times S^1$ and quantum M2 branes**|Matteo Beccaria et.al.|[2309.10786](http://arxiv.org/abs/2309.10786)|null|
+|**2023-09-19**|**Engineering skyrmion from spin spiral in transition metal multilayers**|Banasree Sadhukhan et.al.|[2309.10752](http://arxiv.org/abs/2309.10752)|null|
+|**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
+|**2023-09-19**|**ReShader: View-Dependent Highlights for Single Image View-Synthesis**|Avinash Paliwal et.al.|[2309.10689](http://arxiv.org/abs/2309.10689)|null|
+|**2023-09-19**|**Locally Stylized Neural Radiance Fields**|Hong-Wing Pang et.al.|[2309.10684](http://arxiv.org/abs/2309.10684)|null|
+|**2023-09-19**|**Encoding Robust and Fast Memories in Bulk and Nanoscale Amorphous Solids**|Monoj Adhikari et.al.|[2309.10682](http://arxiv.org/abs/2309.10682)|null|
+|**2023-09-19**|**Cross-modal and Cross-domain Knowledge Transfer for Label-free 3D Segmentation**|Jingyu Zhang et.al.|[2309.10649](http://arxiv.org/abs/2309.10649)|null|
+|**2023-09-19**|**Self-Supervised Super-Resolution Approach for Isotropic Reconstruction of 3D Electron Microscopy Images from Anisotropic Acquisition**|Mohammad Khateri et.al.|[2309.10646](http://arxiv.org/abs/2309.10646)|null|
 |**2023-09-18**|**GEDepth: Ground Embedding for Monocular Depth Estimation**|Xiaodong Yang et.al.|[2309.09975](http://arxiv.org/abs/2309.09975)|**[link](https://github.com/qcraftai/gedepth)**|
 |**2023-09-18**|**Extended defects-enhanced oxygen diffusion in ThO2**|Miaomiao Jin et.al.|[2309.09952](http://arxiv.org/abs/2309.09952)|null|
 |**2023-09-18**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose Estimation**|Kathia Melbouci et.al.|[2309.09934](http://arxiv.org/abs/2309.09934)|null|
@@ -2461,6 +2474,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**Pre-training on Synthetic Driving Data for Trajectory Prediction**|Yiheng Li et.al.|[2309.10121](http://arxiv.org/abs/2309.10121)|null|
 |**2023-09-18**|**Moving Object Detection and Tracking with 4D Radar Point Cloud**|Zhijun Pan et.al.|[2309.09737](http://arxiv.org/abs/2309.09737)|null|
 |**2023-09-17**|**Kinematics-aware Trajectory Generation and Prediction with Latent Stochastic Differential Modeling**|Ruochen Jiao et.al.|[2309.09317](http://arxiv.org/abs/2309.09317)|null|
 |**2023-09-17**|**Trajectory Forecasting with Loose Clothing Using Left-to-Right Hidden Markov Model**|Tianchen Shen et.al.|[2309.09237](http://arxiv.org/abs/2309.09237)|null|
@@ -2527,6 +2541,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**PanopticNeRF-360: Panoramic 3D-to-2D Label Transfer in Urban Scenes**|Xiao Fu et.al.|[2309.10815](http://arxiv.org/abs/2309.10815)|**[link](https://github.com/fuxiao0719/panopticnerf)**|
+|**2023-09-19**|**SPOT: Scalable 3D Pre-training via Occupancy Prediction for Autonomous Driving**|Xiangchao Yan et.al.|[2309.10527](http://arxiv.org/abs/2309.10527)|**[link](https://github.com/pjlab-adg/3dtrans)**|
+|**2023-09-19**|**Assessing the Robustness of LiDAR, Radar and Depth Cameras Against Ill-Reflecting Surfaces in Autonomous Vehicles: An Experimental Study**|Michael Loetscher et.al.|[2309.10504](http://arxiv.org/abs/2309.10504)|null|
+|**2023-09-19**|**LineMarkNet: Line Landmark Detection for Valet Parking**|Zizhang Wu et.al.|[2309.10475](http://arxiv.org/abs/2309.10475)|null|
+|**2023-09-19**|**Rethinking Imitation-based Planner for Autonomous Driving**|Jie Cheng et.al.|[2309.10443](http://arxiv.org/abs/2309.10443)|null|
+|**2023-09-19**|**Learning Point-wise Abstaining Penalty for Point Cloud Anomaly Detection**|Shaocong Xu et.al.|[2309.10230](http://arxiv.org/abs/2309.10230)|**[link](https://github.com/daniellli/pad)**|
+|**2023-09-19**|**Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles**|Can Cui et.al.|[2309.10228](http://arxiv.org/abs/2309.10228)|null|
+|**2023-09-19**|**Safe POMDP Online Planning via Shielding**|Shili Sheng et.al.|[2309.10216](http://arxiv.org/abs/2309.10216)|null|
+|**2023-09-18**|**Specification-Driven Video Search via Foundation Models and Formal Verification**|Yunhao Yang et.al.|[2309.10171](http://arxiv.org/abs/2309.10171)|null|
+|**2023-09-18**|**Pre-training on Synthetic Driving Data for Trajectory Prediction**|Yiheng Li et.al.|[2309.10121](http://arxiv.org/abs/2309.10121)|null|
 |**2023-09-18**|**CC-SGG: Corner Case Scenario Generation using Learned Scene Graphs**|George Drayson et.al.|[2309.09844](http://arxiv.org/abs/2309.09844)|null|
 |**2023-09-18**|**DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving**|Xiaofeng Wang et.al.|[2309.09777](http://arxiv.org/abs/2309.09777)|null|
 |**2023-09-18**|**Privileged to Predicted: Towards Sensorimotor Reinforcement Learning for Urban Driving**|Ege Onat Özsüer et.al.|[2309.09756](http://arxiv.org/abs/2309.09756)|null|
