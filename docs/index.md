@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2448,7 +2448,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-18**|**Pre-training on Synthetic Driving Data for Trajectory Prediction**|Yiheng Li et.al.|[2309.10121](http://arxiv.org/abs/2309.10121)|null|
+|**2023-09-20**|**Pre-training on Synthetic Driving Data for Trajectory Prediction**|Yiheng Li et.al.|[2309.10121](http://arxiv.org/abs/2309.10121)|null|
 |**2023-09-18**|**Moving Object Detection and Tracking with 4D Radar Point Cloud**|Zhijun Pan et.al.|[2309.09737](http://arxiv.org/abs/2309.09737)|null|
 |**2023-09-17**|**Kinematics-aware Trajectory Generation and Prediction with Latent Stochastic Differential Modeling**|Ruochen Jiao et.al.|[2309.09317](http://arxiv.org/abs/2309.09317)|null|
 |**2023-09-17**|**Trajectory Forecasting with Loose Clothing Using Left-to-Right Hidden Markov Model**|Tianchen Shen et.al.|[2309.09237](http://arxiv.org/abs/2309.09237)|null|
@@ -2457,7 +2457,7 @@ layout: default
 |**2023-09-16**|**Pedestrian Trajectory Prediction Using Dynamics-based Deep Learning**|Honghui Wang et.al.|[2309.09021](http://arxiv.org/abs/2309.09021)|null|
 |**2023-09-16**|**RMP: A Random Mask Pretrain Framework for Motion Prediction**|Yi Yang et.al.|[2309.08989](http://arxiv.org/abs/2309.08989)|**[link](https://github.com/kth-rpl/rmp)**|
 |**2023-09-16**|**Staged Contact-Aware Global Human Motion Forecasting**|Luca Scofano et.al.|[2309.08947](http://arxiv.org/abs/2309.08947)|**[link](https://github.com/l-scofano/stag)**|
-|**2023-09-16**|**SafeShift: Safety-Informed Distribution Shifts for Robust Trajectory Prediction in Autonomous Driving**|Benjamin Stoler et.al.|[2309.08889](http://arxiv.org/abs/2309.08889)|null|
+|**2023-09-16**|**SafeShift: Safety-Informed Distribution Shifts for Robust Trajectory Prediction in Autonomous Driving**|Benjamin Stoler et.al.|[2309.08889](http://arxiv.org/abs/2309.08889)|**[link](https://github.com/cmubig/safeshift)**|
 |**2023-09-16**|**Intention-Aware Planner for Robust and Safe Aerial Tracking**|Qiuyu Ren et.al.|[2309.08854](http://arxiv.org/abs/2309.08854)|null|
 |**2023-09-11**|**Model-based traffic state estimation for link traffic using moving cameras**|Tanay Rastogi et.al.|[2309.07162](http://arxiv.org/abs/2309.07162)|null|
 |**2023-09-13**|**CLiFF-LHMP: Using Spatial Dynamics Patterns for Long-Term Human Motion Prediction**|Yufei Zhu et.al.|[2309.07066](http://arxiv.org/abs/2309.07066)|null|
@@ -2516,11 +2516,11 @@ layout: default
 |**2023-09-19**|**Assessing the Robustness of LiDAR, Radar and Depth Cameras Against Ill-Reflecting Surfaces in Autonomous Vehicles: An Experimental Study**|Michael Loetscher et.al.|[2309.10504](http://arxiv.org/abs/2309.10504)|null|
 |**2023-09-19**|**LineMarkNet: Line Landmark Detection for Valet Parking**|Zizhang Wu et.al.|[2309.10475](http://arxiv.org/abs/2309.10475)|null|
 |**2023-09-19**|**Rethinking Imitation-based Planner for Autonomous Driving**|Jie Cheng et.al.|[2309.10443](http://arxiv.org/abs/2309.10443)|null|
-|**2023-09-19**|**Learning Point-wise Abstaining Penalty for Point Cloud Anomaly Detection**|Shaocong Xu et.al.|[2309.10230](http://arxiv.org/abs/2309.10230)|**[link](https://github.com/daniellli/pad)**|
+|**2023-09-20**|**Learning Point-wise Abstaining Penalty for Point Cloud Anomaly Detection**|Shaocong Xu et.al.|[2309.10230](http://arxiv.org/abs/2309.10230)|**[link](https://github.com/daniellli/pad)**|
 |**2023-09-19**|**Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles**|Can Cui et.al.|[2309.10228](http://arxiv.org/abs/2309.10228)|null|
 |**2023-09-19**|**Safe POMDP Online Planning via Shielding**|Shili Sheng et.al.|[2309.10216](http://arxiv.org/abs/2309.10216)|null|
 |**2023-09-18**|**Specification-Driven Video Search via Foundation Models and Formal Verification**|Yunhao Yang et.al.|[2309.10171](http://arxiv.org/abs/2309.10171)|null|
-|**2023-09-18**|**Pre-training on Synthetic Driving Data for Trajectory Prediction**|Yiheng Li et.al.|[2309.10121](http://arxiv.org/abs/2309.10121)|null|
+|**2023-09-20**|**Pre-training on Synthetic Driving Data for Trajectory Prediction**|Yiheng Li et.al.|[2309.10121](http://arxiv.org/abs/2309.10121)|null|
 |**2023-09-18**|**CC-SGG: Corner Case Scenario Generation using Learned Scene Graphs**|George Drayson et.al.|[2309.09844](http://arxiv.org/abs/2309.09844)|null|
 |**2023-09-18**|**DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving**|Xiaofeng Wang et.al.|[2309.09777](http://arxiv.org/abs/2309.09777)|null|
 |**2023-09-18**|**Privileged to Predicted: Towards Sensorimotor Reinforcement Learning for Urban Driving**|Ege Onat Özsüer et.al.|[2309.09756](http://arxiv.org/abs/2309.09756)|null|
