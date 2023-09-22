@@ -1245,6 +1245,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**|Floris Erich et.al.|[2309.11966](http://arxiv.org/abs/2309.11966)|null|
+|**2023-09-21**|**Fast Satellite Tensorial Radiance Field for Multi-date Satellite Imagery of Large Size**|Tongtong Zhang et.al.|[2309.11767](http://arxiv.org/abs/2309.11767)|null|
+|**2023-09-21**|**MarkNerf:Watermarking for Neural Radiance Field**|Lifeng Chen et.al.|[2309.11747](http://arxiv.org/abs/2309.11747)|null|
+|**2023-09-21**|**Rendering stable features improves sampling-based localisation with Neural radiance fields**|Boxuan Zhang et.al.|[2309.11698](http://arxiv.org/abs/2309.11698)|null|
 |**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281](http://arxiv.org/abs/2309.11281)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
 |**2023-09-21**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009](http://arxiv.org/abs/2309.11009)|null|
 |**2023-09-20**|**Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**|Xingting Yao et.al.|[2309.10987](http://arxiv.org/abs/2309.10987)|null|
@@ -1746,6 +1750,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**|Jianing Yang et.al.|[2309.12311](http://arxiv.org/abs/2309.12311)|null|
+|**2023-09-21**|**Energy-space random walk in a driven disordered Bose gas**|Yansheng Zhang et.al.|[2309.12308](http://arxiv.org/abs/2309.12308)|null|
+|**2023-09-21**|**Planning Optimal Trajectories for Mobile Manipulators under End-effector Trajectory Continuity Constraint**|Quang-Nam Nguyen et.al.|[2309.12251](http://arxiv.org/abs/2309.12251)|null|
+|**2023-09-21**|**Integrable Magnetic Fluid Hyperthermia Systems for 3D Magnetic Particle Imaging**|André Behrends et.al.|[2309.12186](http://arxiv.org/abs/2309.12186)|null|
+|**2023-09-21**|**ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**|Yu Cheng et.al.|[2309.12183](http://arxiv.org/abs/2309.12183)|null|
+|**2023-09-21**|**Unsupervised Domain Adaptation for Self-Driving from Past Traversal Features**|Travis Zhang et.al.|[2309.12140](http://arxiv.org/abs/2309.12140)|null|
+|**2023-09-21**|**Leveraging Analog Quantum Computing with Neutral Atoms for Solvent Configuration Prediction in Drug Discovery**|Mauro D'Arcangelo et.al.|[2309.12129](http://arxiv.org/abs/2309.12129)|null|
+|**2023-09-21**|**Vulnerability of 3D Face Recognition Systems to Morphing Attacks**|Sanjeet Vardam et.al.|[2309.12118](http://arxiv.org/abs/2309.12118)|null|
+|**2023-09-21**|**3D Muographic Inversion in the Exploration of Cavities and Low-density Fractured Zones**|László Balázs et.al.|[2309.12057](http://arxiv.org/abs/2309.12057)|null|
+|**2023-09-21**|**Neural Stochastic Screened Poisson Reconstruction**|Silvia Sellán et.al.|[2309.11993](http://arxiv.org/abs/2309.11993)|null|
 |**2023-09-21**|**Video Screens for Hearing Research: Transmittance and Reflectance of Professional and Other Fabrics**|Jan Heeren et.al.|[2309.11430](http://arxiv.org/abs/2309.11430)|null|
 |**2023-09-20**|**Enhancing motion trajectory segmentation of rigid bodies using a novel screw-based trajectory-shape representation**|Arno Verduyn et.al.|[2309.11413](http://arxiv.org/abs/2309.11413)|null|
 |**2023-09-20**|**3D Face Reconstruction: the Road to Forensics**|Simone Maurizio La Cava et.al.|[2309.11357](http://arxiv.org/abs/2309.11357)|null|
@@ -2525,6 +2539,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**PanoVOS:Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation**|Shilin Yan et.al.|[2309.12303](http://arxiv.org/abs/2309.12303)|null|
+|**2023-09-21**|**Learning to Drive Anywhere**|Ruizhao Zhu et.al.|[2309.12295](http://arxiv.org/abs/2309.12295)|null|
+|**2023-09-21**|**Real-Time Capable Decision Making for Autonomous Driving Using Reachable Sets**|Niklas Kochdumper et.al.|[2309.12289](http://arxiv.org/abs/2309.12289)|null|
+|**2023-09-21**|**FGFusion: Fine-Grained Lidar-Camera Fusion for 3D Object Detection**|Zixuan Yin et.al.|[2309.11804](http://arxiv.org/abs/2309.11804)|**[link](https://github.com/xaviergrool/fgfusion)**|
 |**2023-09-20**|**You can have your ensemble and run it too -- Deep Ensembles Spread Over Time**|Isak Meding et.al.|[2309.11333](http://arxiv.org/abs/2309.11333)|null|
 |**2023-09-20**|**OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving**|Heng Li et.al.|[2309.11011](http://arxiv.org/abs/2309.11011)|null|
 |**2023-09-20**|**PPD: A New Valet Parking Pedestrian Fisheye Dataset for Autonomous Driving**|Zizhang Wu et.al.|[2309.11002](http://arxiv.org/abs/2309.11002)|null|
