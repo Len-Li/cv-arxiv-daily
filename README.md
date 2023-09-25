@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.24
+## Updated on 2023.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -422,7 +422,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 
 ## SFM
 
@@ -529,7 +529,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -967,7 +967,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1115,7 +1115,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1261,7 +1261,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 
 ## NeRF
 
@@ -1768,7 +1768,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 
 ## 3D
 
@@ -1780,7 +1780,7 @@
 |**2023-09-21**|**Integrable Magnetic Fluid Hyperthermia Systems for 3D Magnetic Particle Imaging**|André Behrends et.al.|[2309.12186](http://arxiv.org/abs/2309.12186)|null|
 |**2023-09-21**|**ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**|Yu Cheng et.al.|[2309.12183](http://arxiv.org/abs/2309.12183)|null|
 |**2023-09-21**|**Unsupervised Domain Adaptation for Self-Driving from Past Traversal Features**|Travis Zhang et.al.|[2309.12140](http://arxiv.org/abs/2309.12140)|null|
-|**2023-09-21**|**Leveraging Analog Quantum Computing with Neutral Atoms for Solvent Configuration Prediction in Drug Discovery**|Mauro D'Arcangelo et.al.|[2309.12129](http://arxiv.org/abs/2309.12129)|null|
+|**2023-09-22**|**Leveraging Analog Quantum Computing with Neutral Atoms for Solvent Configuration Prediction in Drug Discovery**|Mauro D'Arcangelo et.al.|[2309.12129](http://arxiv.org/abs/2309.12129)|null|
 |**2023-09-21**|**Vulnerability of 3D Face Recognition Systems to Morphing Attacks**|Sanjeet Vardam et.al.|[2309.12118](http://arxiv.org/abs/2309.12118)|null|
 |**2023-09-21**|**3D Muographic Inversion in the Exploration of Cavities and Low-density Fractured Zones**|László Balázs et.al.|[2309.12057](http://arxiv.org/abs/2309.12057)|null|
 |**2023-09-21**|**Neural Stochastic Screened Poisson Reconstruction**|Silvia Sellán et.al.|[2309.11993](http://arxiv.org/abs/2309.11993)|null|
@@ -2495,7 +2495,7 @@
 |**2023-06-07**|**Blowup analysis for a quasi-exact 1D model of 3D Euler and Navier-Stokes**|Thomas Y. Hou et.al.|[2306.04146](http://arxiv.org/abs/2306.04146)|null|
 |**2023-06-07**|**Magnetic Flux Budget in Mean-Field Dynamo Model of Solar Cycles 23 and 24**|V. V. Pipin et.al.|[2306.04124](http://arxiv.org/abs/2306.04124)|null|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -2545,7 +2545,7 @@
 |**2023-08-10**|**Effects of Dynamic and Stochastic Travel Times on the Operation of Mobility-on-Demand Services**|Fynn Wolf et.al.|[2308.05535](http://arxiv.org/abs/2308.05535)|null|
 |**2023-08-09**|**Joint-Relation Transformer for Multi-Person Motion Prediction**|Qingyao Xu et.al.|[2308.04808](http://arxiv.org/abs/2308.04808)|**[link](https://github.com/mediabrain-sjtu/jrtransformer)**|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 
 ## Industry
 
@@ -2563,13 +2563,13 @@
 |**2023-04-19**|**NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models**|Seung Wook Kim et.al.|[2304.09787](http://arxiv.org/abs/2304.09787)|null|
 |**2023-04-18**|**Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models**|Andreas Blattmann et.al.|[2304.08818](http://arxiv.org/abs/2304.08818)|null|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-21**|**PanoVOS:Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation**|Shilin Yan et.al.|[2309.12303](http://arxiv.org/abs/2309.12303)|null|
+|**2023-09-22**|**PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation**|Shilin Yan et.al.|[2309.12303](http://arxiv.org/abs/2309.12303)|**[link](https://github.com/shilinyan99/panovos)**|
 |**2023-09-21**|**Learning to Drive Anywhere**|Ruizhao Zhu et.al.|[2309.12295](http://arxiv.org/abs/2309.12295)|null|
 |**2023-09-21**|**Real-Time Capable Decision Making for Autonomous Driving Using Reachable Sets**|Niklas Kochdumper et.al.|[2309.12289](http://arxiv.org/abs/2309.12289)|null|
 |**2023-09-21**|**FGFusion: Fine-Grained Lidar-Camera Fusion for 3D Object Detection**|Zixuan Yin et.al.|[2309.11804](http://arxiv.org/abs/2309.11804)|**[link](https://github.com/xaviergrool/fgfusion)**|
@@ -2652,7 +2652,7 @@
 |**2023-08-31**|**Edge-Assisted Lightweight Region-of-Interest Extraction and Transmission for Vehicle Perception**|Yan Cheng et.al.|[2308.16417](http://arxiv.org/abs/2308.16417)|null|
 |**2023-08-30**|**DRL-Based Trajectory Tracking for Motion-Related Modules in Autonomous Driving**|Yinda Xu et.al.|[2308.15991](http://arxiv.org/abs/2308.15991)|null|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
