@@ -1267,6 +1267,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**|Xiaoxue Chen et.al.|[2309.13039](http://arxiv.org/abs/2309.13039)|**[link](https://github.com/dawning77/nerrf)**|
+|**2023-09-22**|**RHINO: Regularizing the Hash-based Implicit Neural Representation**|Hao Zhu et.al.|[2309.12642](http://arxiv.org/abs/2309.12642)|null|
 |**2023-09-21**|**NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**|Floris Erich et.al.|[2309.11966](http://arxiv.org/abs/2309.11966)|**[link](https://github.com/FlorisE/neural-labeling)**|
 |**2023-09-21**|**Fast Satellite Tensorial Radiance Field for Multi-date Satellite Imagery of Large Size**|Tongtong Zhang et.al.|[2309.11767](http://arxiv.org/abs/2309.11767)|null|
 |**2023-09-21**|**MarkNerf:Watermarking for Neural Radiance Field**|Lifeng Chen et.al.|[2309.11747](http://arxiv.org/abs/2309.11747)|null|
@@ -1774,6 +1776,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**|Xiaoxue Chen et.al.|[2309.13039](http://arxiv.org/abs/2309.13039)|**[link](https://github.com/dawning77/nerrf)**|
+|**2023-09-22**|**GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators**|Philipp Wu et.al.|[2309.13037](http://arxiv.org/abs/2309.13037)|null|
+|**2023-09-22**|**Graph Neural Network for Stress Predictions in Stiffened Panels Under Uniform Loading**|Yuecheng Cai et.al.|[2309.13022](http://arxiv.org/abs/2309.13022)|null|
+|**2023-09-22**|**Deep3DSketch+: Rapid 3D Modeling from Single Free-hand Sketches**|Tianrun Chen et.al.|[2309.13006](http://arxiv.org/abs/2309.13006)|null|
+|**2023-09-22**|**OptCtrlPoints: Finding the Optimal Control Points for Biharmonic 3D Shape Deformation**|Kunho Kim et.al.|[2309.12899](http://arxiv.org/abs/2309.12899)|null|
+|**2023-09-22**|**Thermal modeling of subduction zones with prescribed and evolving 2D and 3D slab geometries**|Nathan Sime et.al.|[2309.12895](http://arxiv.org/abs/2309.12895)|null|
+|**2023-09-22**|**Bridging Sensor Gaps via Single-Direction Tuning for Hyperspectral Image Classification**|Xizhe Xue et.al.|[2309.12865](http://arxiv.org/abs/2309.12865)|null|
+|**2023-09-22**|**Robotic Handling of Compliant Food Objects by Robust Learning from Demonstration**|Ekrem Misimi et.al.|[2309.12856](http://arxiv.org/abs/2309.12856)|null|
+|**2023-09-22**|**A search for Elves in Mini-EUSO data using CNN-based one-class classifier**|Lech Wiktor Piotrowski et.al.|[2309.12851](http://arxiv.org/abs/2309.12851)|null|
+|**2023-09-22**|**Nature of the magnetic coupling in infinite-layer nickelates versus cuprates**|Armin Sahinovic et.al.|[2309.12840](http://arxiv.org/abs/2309.12840)|null|
 |**2023-09-21**|**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**|Jianing Yang et.al.|[2309.12311](http://arxiv.org/abs/2309.12311)|null|
 |**2023-09-21**|**Energy-space random walk in a driven disordered Bose gas**|Yansheng Zhang et.al.|[2309.12308](http://arxiv.org/abs/2309.12308)|null|
 |**2023-09-21**|**Planning Optimal Trajectories for Mobile Manipulators under End-effector Trajectory Continuity Constraint**|Quang-Nam Nguyen et.al.|[2309.12251](http://arxiv.org/abs/2309.12251)|null|
@@ -2569,6 +2581,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Electric Autonomous Mobility-on-Demand: Jointly Optimal Vehicle Design and Fleet Operation**|Fabio Paparella et.al.|[2309.13012](http://arxiv.org/abs/2309.13012)|null|
+|**2023-09-22**|**Sequential Action-Induced Invariant Representation for Reinforcement Learning**|Dayang Liang et.al.|[2309.12628](http://arxiv.org/abs/2309.12628)|**[link](https://github.com/dmu-xmu/sar)**|
 |**2023-09-22**|**PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation**|Shilin Yan et.al.|[2309.12303](http://arxiv.org/abs/2309.12303)|**[link](https://github.com/shilinyan99/panovos)**|
 |**2023-09-21**|**Learning to Drive Anywhere**|Ruizhao Zhu et.al.|[2309.12295](http://arxiv.org/abs/2309.12295)|null|
 |**2023-09-21**|**Real-Time Capable Decision Making for Autonomous Driving Using Reachable Sets**|Niklas Kochdumper et.al.|[2309.12289](http://arxiv.org/abs/2309.12289)|null|
