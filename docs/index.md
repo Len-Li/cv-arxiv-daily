@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.25
+## Updated on 2023.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1758,7 +1758,7 @@ layout: default
 |**2023-09-22**|**Deep3DSketch+: Rapid 3D Modeling from Single Free-hand Sketches**|Tianrun Chen et.al.|[2309.13006](http://arxiv.org/abs/2309.13006)|null|
 |**2023-09-22**|**OptCtrlPoints: Finding the Optimal Control Points for Biharmonic 3D Shape Deformation**|Kunho Kim et.al.|[2309.12899](http://arxiv.org/abs/2309.12899)|null|
 |**2023-09-22**|**Thermal modeling of subduction zones with prescribed and evolving 2D and 3D slab geometries**|Nathan Sime et.al.|[2309.12895](http://arxiv.org/abs/2309.12895)|null|
-|**2023-09-22**|**Bridging Sensor Gaps via Single-Direction Tuning for Hyperspectral Image Classification**|Xizhe Xue et.al.|[2309.12865](http://arxiv.org/abs/2309.12865)|null|
+|**2023-09-22**|**Bridging Sensor Gaps via Single-Direction Tuning for Hyperspectral Image Classification**|Xizhe Xue et.al.|[2309.12865](http://arxiv.org/abs/2309.12865)|**[link](https://github.com/cecilia-xue/hyt-nas)**|
 |**2023-09-22**|**Robotic Handling of Compliant Food Objects by Robust Learning from Demonstration**|Ekrem Misimi et.al.|[2309.12856](http://arxiv.org/abs/2309.12856)|null|
 |**2023-09-22**|**A search for Elves in Mini-EUSO data using CNN-based one-class classifier**|Lech Wiktor Piotrowski et.al.|[2309.12851](http://arxiv.org/abs/2309.12851)|null|
 |**2023-09-22**|**Nature of the magnetic coupling in infinite-layer nickelates versus cuprates**|Armin Sahinovic et.al.|[2309.12840](http://arxiv.org/abs/2309.12840)|null|
