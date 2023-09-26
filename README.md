@@ -1267,6 +1267,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293](http://arxiv.org/abs/2309.14293)|null|
+|**2023-09-25**|**Tiled Multiplane Images for Practical 3D Photography**|Numair Khan et.al.|[2309.14291](http://arxiv.org/abs/2309.14291)|null|
+|**2023-09-25**|**Variational Inference for Scalable 3D Object-centric Learning**|Tianyu Wang et.al.|[2309.14010](http://arxiv.org/abs/2309.14010)|null|
+|**2023-09-24**|**MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field**|Zijiang Yang et.al.|[2309.13607](http://arxiv.org/abs/2309.13607)|null|
 |**2023-09-22**|**NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**|Xiaoxue Chen et.al.|[2309.13039](http://arxiv.org/abs/2309.13039)|**[link](https://github.com/dawning77/nerrf)**|
 |**2023-09-22**|**RHINO: Regularizing the Hash-based Implicit Neural Representation**|Hao Zhu et.al.|[2309.12642](http://arxiv.org/abs/2309.12642)|null|
 |**2023-09-21**|**NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**|Floris Erich et.al.|[2309.11966](http://arxiv.org/abs/2309.11966)|**[link](https://github.com/FlorisE/neural-labeling)**|
@@ -1776,6 +1780,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**3D Indoor Instance Segmentation in an Open-World**|Mohamed El Amine Boudjoghra et.al.|[2309.14338](http://arxiv.org/abs/2309.14338)|null|
+|**2023-09-25**|**DeepMesh: Mesh-based Cardiac Motion Tracking using Deep Learning**|Qingjie Meng et.al.|[2309.14306](http://arxiv.org/abs/2309.14306)|null|
+|**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293](http://arxiv.org/abs/2309.14293)|null|
+|**2023-09-25**|**Tiled Multiplane Images for Practical 3D Photography**|Numair Khan et.al.|[2309.14291](http://arxiv.org/abs/2309.14291)|null|
+|**2023-09-25**|**Unsupervised correspondence with combined geometric learning and imaging for radiotherapy applications**|Edward G. A. Henderson et.al.|[2309.14269](http://arxiv.org/abs/2309.14269)|**[link](https://github.com/rrr-uom-projects/unsup-rt-corr-net)**|
+|**2023-09-25**|**QuadricsNet: Learning Concise Representation for Geometric Primitives in Point Clouds**|Ji Wu et.al.|[2309.14211](http://arxiv.org/abs/2309.14211)|null|
+|**2023-09-25**|**Comparison of distance measurements to dust clouds using GRB X-ray halos and 3D dust extinction**|Barbara Šiljeg et.al.|[2309.14147](http://arxiv.org/abs/2309.14147)|null|
+|**2023-09-25**|**Hopf Semimetals**|Bhandaru Phani Parasar et.al.|[2309.14119](http://arxiv.org/abs/2309.14119)|null|
+|**2023-09-25**|**Coulomb potential screening via charged carriers and charge-neutral dipoles/excitons in two-dimensional case**|Ke Xiao et.al.|[2309.14101](http://arxiv.org/abs/2309.14101)|null|
+|**2023-09-25**|**Bayesian inference of 3D densities of galactic HI and H2**|Laurin Söding et.al.|[2309.14075](http://arxiv.org/abs/2309.14075)|null|
 |**2023-09-22**|**NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**|Xiaoxue Chen et.al.|[2309.13039](http://arxiv.org/abs/2309.13039)|**[link](https://github.com/dawning77/nerrf)**|
 |**2023-09-22**|**GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators**|Philipp Wu et.al.|[2309.13037](http://arxiv.org/abs/2309.13037)|null|
 |**2023-09-22**|**Graph Neural Network for Stress Predictions in Stiffened Panels Under Uniform Loading**|Yuecheng Cai et.al.|[2309.13022](http://arxiv.org/abs/2309.13022)|null|
@@ -2513,6 +2527,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Scene Informer: Anchor-based Occlusion Inference and Trajectory Prediction in Partially Observable Environments**|Bernard Lange et.al.|[2309.13893](http://arxiv.org/abs/2309.13893)|null|
+|**2023-09-24**|**DROP: Dynamics Responses from Human Motion Prior and Projective Dynamics**|Yifeng Jiang et.al.|[2309.13742](http://arxiv.org/abs/2309.13742)|null|
+|**2023-09-22**|**SoRTS: Learned Tree Search for Long Horizon Social Robot Navigation**|Ingrid Navarro et.al.|[2309.13144](http://arxiv.org/abs/2309.13144)|null|
 |**2023-09-19**|**A Novel Deep Neural Network for Trajectory Prediction in Automated Vehicles Using Velocity Vector Field**|MReza Alipour Sormoli et.al.|[2309.10948](http://arxiv.org/abs/2309.10948)|**[link](https://github.com/Amir-Samadi/VVF-TP)**|
 |**2023-09-20**|**Pre-training on Synthetic Driving Data for Trajectory Prediction**|Yiheng Li et.al.|[2309.10121](http://arxiv.org/abs/2309.10121)|null|
 |**2023-09-18**|**Moving Object Detection and Tracking with 4D Radar Point Cloud**|Zhijun Pan et.al.|[2309.09737](http://arxiv.org/abs/2309.09737)|null|
@@ -2581,6 +2598,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Stackelberg Driver Model for Continual Policy Improvement in Scenario-Based Closed-Loop Autonomous Driving**|Haoyi Niu et.al.|[2309.14235](http://arxiv.org/abs/2309.14235)|null|
+|**2023-09-25**|**Continual Driving Policy Optimization with Closed-Loop Individualized Curricula**|Haoyi Niu et.al.|[2309.14209](http://arxiv.org/abs/2309.14209)|null|
+|**2023-09-25**|**Adversarial Attacks on Video Object Segmentation with Hard Region Discovery**|Ping Li et.al.|[2309.13857](http://arxiv.org/abs/2309.13857)|null|
+|**2023-09-24**|**Deep Learning-Based Connector Detection for Robotized Assembly of Automotive Wire Harnesses**|Hao Wang et.al.|[2309.13746](http://arxiv.org/abs/2309.13746)|null|
+|**2023-09-24**|**Computer Vision Technology for Robotized Wire Harness Assembly**|Hao Wang et.al.|[2309.13745](http://arxiv.org/abs/2309.13745)|null|
+|**2023-09-24**|**Boosting Offline Reinforcement Learning for Autonomous Driving with Hierarchical Latent Skills**|Zenan Li et.al.|[2309.13614](http://arxiv.org/abs/2309.13614)|null|
+|**2023-09-24**|**Distribution-Aware Continual Test Time Adaptation for Semantic Segmentation**|Jiayi Ni et.al.|[2309.13604](http://arxiv.org/abs/2309.13604)|null|
+|**2023-09-24**|**AdaMap: High-Scalable Real-Time Cooperative Perception at the Edge**|Qiang Liu et.al.|[2309.13526](http://arxiv.org/abs/2309.13526)|null|
+|**2023-09-23**|**FedDrive v2: an Analysis of the Impact of Label Skewness in Federated Semantic Segmentation for Autonomous Driving**|Eros Fanì et.al.|[2309.13336](http://arxiv.org/abs/2309.13336)|null|
+|**2023-09-22**|**Intent-Aware Autonomous Driving: A Case Study on Highway Merging Scenarios**|Nishtha Mahajan et.al.|[2309.13206](http://arxiv.org/abs/2309.13206)|null|
 |**2023-09-21**|**Electric Autonomous Mobility-on-Demand: Jointly Optimal Vehicle Design and Fleet Operation**|Fabio Paparella et.al.|[2309.13012](http://arxiv.org/abs/2309.13012)|null|
 |**2023-09-22**|**Sequential Action-Induced Invariant Representation for Reinforcement Learning**|Dayang Liang et.al.|[2309.12628](http://arxiv.org/abs/2309.12628)|**[link](https://github.com/dmu-xmu/sar)**|
 |**2023-09-22**|**PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation**|Shilin Yan et.al.|[2309.12303](http://arxiv.org/abs/2309.12303)|**[link](https://github.com/shilinyan99/panovos)**|
