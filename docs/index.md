@@ -1245,6 +1245,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**3D Density-Gradient based Edge Detection on Neural Radiance Fields (NeRFs) for Geometric Reconstruction**|Miriam Jäger et.al.|[2309.14800](http://arxiv.org/abs/2309.14800)|null|
 |**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293](http://arxiv.org/abs/2309.14293)|null|
 |**2023-09-25**|**Tiled Multiplane Images for Practical 3D Photography**|Numair Khan et.al.|[2309.14291](http://arxiv.org/abs/2309.14291)|null|
 |**2023-09-25**|**Variational Inference for Scalable 3D Object-centric Learning**|Tianyu Wang et.al.|[2309.14010](http://arxiv.org/abs/2309.14010)|null|
@@ -1756,6 +1757,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation**|Zeyu Wang et.al.|[2309.15109](http://arxiv.org/abs/2309.15109)|null|
+|**2023-09-26**|**Local Positional Encoding for Multi-Layer Perceptrons**|Shin Fujieda et.al.|[2309.15101](http://arxiv.org/abs/2309.15101)|null|
+|**2023-09-26**|**RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation**|Zhexiong Wan et.al.|[2309.15082](http://arxiv.org/abs/2309.15082)|**[link](https://github.com/danqu130/RPEFlow)**|
+|**2023-09-26**|**On the Distances to the X-ray Binaries Cygnus X-3 and GRS 1915+105**|M. J. Reid et.al.|[2309.15027](http://arxiv.org/abs/2309.15027)|null|
+|**2023-09-26**|**Improving Unsupervised Visual Program Inference with Code Rewriting Families**|Aditya Ganeshan et.al.|[2309.14972](http://arxiv.org/abs/2309.14972)|null|
+|**2023-09-26**|**A novel approach for holographic 3D content generation without depth map**|Hakdong Kim et.al.|[2309.14967](http://arxiv.org/abs/2309.14967)|null|
+|**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
+|**2023-09-26**|**ITEM3D: Illumination-Aware Directional Texture Editing for 3D Models**|Shengqi Liu et.al.|[2309.14872](http://arxiv.org/abs/2309.14872)|null|
+|**2023-09-26**|**Unsupervised Reconstruction of 3D Human Pose Interactions From 2D Poses Alone**|Peter Hardy et.al.|[2309.14865](http://arxiv.org/abs/2309.14865)|null|
+|**2023-09-26**|**Aerodynamic performance and flow mechanism of 3D flapping wing using discrete vortex method**|Rahul Kumar et.al.|[2309.14832](http://arxiv.org/abs/2309.14832)|null|
 |**2023-09-25**|**3D Indoor Instance Segmentation in an Open-World**|Mohamed El Amine Boudjoghra et.al.|[2309.14338](http://arxiv.org/abs/2309.14338)|null|
 |**2023-09-25**|**DeepMesh: Mesh-based Cardiac Motion Tracking using Deep Learning**|Qingjie Meng et.al.|[2309.14306](http://arxiv.org/abs/2309.14306)|null|
 |**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293](http://arxiv.org/abs/2309.14293)|null|
@@ -2501,6 +2512,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Near Real-Time Position Tracking for Robot-Guided Evacuation**|Mollik Nayyar et.al.|[2309.15054](http://arxiv.org/abs/2309.15054)|null|
+|**2023-09-26**|**Context-Aware Generative Models for Prediction of Aircraft Ground Tracks**|Nick Pepper et.al.|[2309.14957](http://arxiv.org/abs/2309.14957)|null|
+|**2023-09-26**|**Learning Generative Models for Climbing Aircraft from Radar Data**|Nick Pepper et.al.|[2309.14941](http://arxiv.org/abs/2309.14941)|null|
+|**2023-09-26**|**Interaction-Aware Sampling-Based MPC with Learned Local Goal Predictions**|Walter Jansma et.al.|[2309.14931](http://arxiv.org/abs/2309.14931)|null|
+|**2023-09-26**|**Semantic Map Learning of Traffic Light to Lane Assignment based on Motion Data**|Thomas Monninger et.al.|[2309.14793](http://arxiv.org/abs/2309.14793)|null|
 |**2023-09-25**|**Scene Informer: Anchor-based Occlusion Inference and Trajectory Prediction in Partially Observable Environments**|Bernard Lange et.al.|[2309.13893](http://arxiv.org/abs/2309.13893)|null|
 |**2023-09-24**|**DROP: Dynamics Responses from Human Motion Prior and Projective Dynamics**|Yifeng Jiang et.al.|[2309.13742](http://arxiv.org/abs/2309.13742)|null|
 |**2023-09-22**|**SoRTS: Learned Tree Search for Long Horizon Social Robot Navigation**|Ingrid Navarro et.al.|[2309.13144](http://arxiv.org/abs/2309.13144)|null|
@@ -2568,6 +2584,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation**|Zeyu Wang et.al.|[2309.15109](http://arxiv.org/abs/2309.15109)|null|
+|**2023-09-26**|**Towards High Efficient Long-horizon Planning with Expert-guided Motion-encoding Tree Search**|Tong Zhou et.al.|[2309.15079](http://arxiv.org/abs/2309.15079)|null|
+|**2023-09-26**|**Addressing Data Misalignment in Image-LiDAR Fusion on Point Cloud Segmentation**|Wei Jong Yang et.al.|[2309.14932](http://arxiv.org/abs/2309.14932)|null|
+|**2023-09-26**|**DriveSceneGen: Generating Diverse and Realistic Driving Scenarios from Scratch**|Shuo Sun et.al.|[2309.14685](http://arxiv.org/abs/2309.14685)|null|
+|**2023-09-26**|**Probabilistic 3D Multi-Object Cooperative Tracking for Autonomous Driving via Differentiable Multi-Sensor Kalman Filter**|Hsu-kuang Chiu et.al.|[2309.14655](http://arxiv.org/abs/2309.14655)|null|
+|**2023-09-25**|**Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving**|Mahyar Najibi et.al.|[2309.14491](http://arxiv.org/abs/2309.14491)|null|
 |**2023-09-25**|**Stackelberg Driver Model for Continual Policy Improvement in Scenario-Based Closed-Loop Autonomous Driving**|Haoyi Niu et.al.|[2309.14235](http://arxiv.org/abs/2309.14235)|null|
 |**2023-09-25**|**Continual Driving Policy Optimization with Closed-Loop Individualized Curricula**|Haoyi Niu et.al.|[2309.14209](http://arxiv.org/abs/2309.14209)|null|
 |**2023-09-25**|**Adversarial Attacks on Video Object Segmentation with Hard Region Discovery**|Ping Li et.al.|[2309.13857](http://arxiv.org/abs/2309.13857)|null|
