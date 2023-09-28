@@ -1267,6 +1267,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions**|Zhang Chen et.al.|[2309.15426](http://arxiv.org/abs/2309.15426)|null|
+|**2023-09-27**|**BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields**|Shreya Saha et.al.|[2309.15329](http://arxiv.org/abs/2309.15329)|null|
 |**2023-09-26**|**3D Density-Gradient based Edge Detection on Neural Radiance Fields (NeRFs) for Geometric Reconstruction**|Miriam Jäger et.al.|[2309.14800](http://arxiv.org/abs/2309.14800)|null|
 |**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293](http://arxiv.org/abs/2309.14293)|null|
 |**2023-09-25**|**Tiled Multiplane Images for Practical 3D Photography**|Numair Khan et.al.|[2309.14291](http://arxiv.org/abs/2309.14291)|null|
@@ -1781,6 +1783,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**The R-Matrix in 3d Topological BF Theory**|Nanna Havn Aamand et.al.|[2309.15833](http://arxiv.org/abs/2309.15833)|null|
+|**2023-09-27**|**OrthoPlanes: A Novel Representation for Better 3D-Awareness of GANs**|Honglin He et.al.|[2309.15830](http://arxiv.org/abs/2309.15830)|null|
+|**2023-09-27**|**Node-Aligned Graph-to-Graph Generation for Retrosynthesis Prediction**|Lin Yao et.al.|[2309.15798](http://arxiv.org/abs/2309.15798)|null|
+|**2023-09-27**|**Partial Transport for Point-Cloud Registration**|Yikun Bai et.al.|[2309.15787](http://arxiv.org/abs/2309.15787)|null|
+|**2023-09-27**|**Rapid Network Adaptation: Learning to Adapt Neural Networks Using Test-Time Feedback**|Teresa Yeo et.al.|[2309.15762](http://arxiv.org/abs/2309.15762)|null|
+|**2023-09-27**|**Automated CT Lung Cancer Screening Workflow using 3D Camera**|Brian Teixeira et.al.|[2309.15750](http://arxiv.org/abs/2309.15750)|null|
+|**2023-09-27**|**GPIP: Geometry-enhanced Pre-training on Interatomic Potentials**|Taoyong Cui et.al.|[2309.15718](http://arxiv.org/abs/2309.15718)|null|
+|**2023-09-27**|**Physics-Based Rigid Body Object Tracking and Friction Filtering From RGB-D Videos**|Rama Krishna Kandukuri et.al.|[2309.15703](http://arxiv.org/abs/2309.15703)|null|
+|**2023-09-27**|**SGRec3D: Self-Supervised 3D Scene Graph Learning via Object-Level Scene Reconstruction**|Sebastian Koch et.al.|[2309.15702](http://arxiv.org/abs/2309.15702)|null|
+|**2023-09-27**|**Experimental and numerical investigation to elucidate the fluid flow through packed beds with structured particle packings**|Shirin Patil et.al.|[2309.15677](http://arxiv.org/abs/2309.15677)|null|
 |**2023-09-26**|**DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation**|Zeyu Wang et.al.|[2309.15109](http://arxiv.org/abs/2309.15109)|null|
 |**2023-09-26**|**Local Positional Encoding for Multi-Layer Perceptrons**|Shin Fujieda et.al.|[2309.15101](http://arxiv.org/abs/2309.15101)|null|
 |**2023-09-26**|**RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation**|Zhexiong Wan et.al.|[2309.15082](http://arxiv.org/abs/2309.15082)|**[link](https://github.com/danqu130/RPEFlow)**|
@@ -2538,6 +2550,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Improving Autonomous Driving Safety with POP: A Framework for Accurate Partially Observed Trajectory Predictions**|Sheng Wang et.al.|[2309.15685](http://arxiv.org/abs/2309.15685)|null|
+|**2023-09-26**|**SEPT: Towards Efficient Scene Representation Learning for Motion Prediction**|Zhiqian Lan et.al.|[2309.15289](http://arxiv.org/abs/2309.15289)|null|
+|**2023-09-26**|**A Physics Enhanced Residual Learning (PERL) Framework for Traffic State Prediction**|Keke Long et.al.|[2309.15284](http://arxiv.org/abs/2309.15284)|null|
 |**2023-09-26**|**Near Real-Time Position Tracking for Robot-Guided Evacuation**|Mollik Nayyar et.al.|[2309.15054](http://arxiv.org/abs/2309.15054)|null|
 |**2023-09-26**|**Context-Aware Generative Models for Prediction of Aircraft Ground Tracks**|Nick Pepper et.al.|[2309.14957](http://arxiv.org/abs/2309.14957)|null|
 |**2023-09-26**|**Learning Generative Models for Climbing Aircraft from Radar Data**|Nick Pepper et.al.|[2309.14941](http://arxiv.org/abs/2309.14941)|null|
@@ -2614,6 +2629,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Generating Transferable Adversarial Simulation Scenarios for Self-Driving via Neural Rendering**|Yasasa Abeysirigoonawardena et.al.|[2309.15770](http://arxiv.org/abs/2309.15770)|null|
+|**2023-09-27**|**InfraParis: A multi-modal and multi-task autonomous driving dataset**|Gianni Franchi et.al.|[2309.15751](http://arxiv.org/abs/2309.15751)|null|
+|**2023-09-27**|**Improving Autonomous Driving Safety with POP: A Framework for Accurate Partially Observed Trajectory Predictions**|Sheng Wang et.al.|[2309.15685](http://arxiv.org/abs/2309.15685)|null|
+|**2023-09-27**|**HPL-ViT: A Unified Perception Framework for Heterogeneous Parallel LiDARs in V2V**|Yuhang Liu et.al.|[2309.15572](http://arxiv.org/abs/2309.15572)|null|
+|**2023-09-27**|**Uncertainty Quantification via Neural Posterior Principal Components**|Elias Nehme et.al.|[2309.15533](http://arxiv.org/abs/2309.15533)|null|
+|**2023-09-27**|**EDGAR: An Autonomous Driving Research Platform -- From Feature Development to Real-World Application**|Phillip Karle et.al.|[2309.15492](http://arxiv.org/abs/2309.15492)|null|
+|**2023-09-27**|**The Robust Semantic Segmentation UNCV2023 Challenge Results**|Xuanlong Yu et.al.|[2309.15478](http://arxiv.org/abs/2309.15478)|null|
+|**2023-09-27**|**3D Multiple Object Tracking on Autonomous Driving: A Literature Review**|Peng Zhang et.al.|[2309.15411](http://arxiv.org/abs/2309.15411)|null|
+|**2023-09-26**|**V2X-Lead: LiDAR-based End-to-End Autonomous Driving with Vehicle-to-Everything Communication Integration**|Zhiyun Deng et.al.|[2309.15252](http://arxiv.org/abs/2309.15252)|null|
+|**2023-09-26**|**Heavy-Metal Free Colloidal Quantum Dot Short-Wave Infrared Photodetectors and Image Sensors**|Yongjie Wang et.al.|[2309.15221](http://arxiv.org/abs/2309.15221)|null|
 |**2023-09-26**|**DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation**|Zeyu Wang et.al.|[2309.15109](http://arxiv.org/abs/2309.15109)|null|
 |**2023-09-26**|**Towards High Efficient Long-horizon Planning with Expert-guided Motion-encoding Tree Search**|Tong Zhou et.al.|[2309.15079](http://arxiv.org/abs/2309.15079)|null|
 |**2023-09-26**|**Addressing Data Misalignment in Image-LiDAR Fusion on Point Cloud Segmentation**|Wei Jong Yang et.al.|[2309.14932](http://arxiv.org/abs/2309.14932)|null|
