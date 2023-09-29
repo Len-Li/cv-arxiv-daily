@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.28
+## Updated on 2023.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2531,7 +2531,7 @@ layout: default
 |**2023-09-26**|**Context-Aware Generative Models for Prediction of Aircraft Ground Tracks**|Nick Pepper et.al.|[2309.14957](http://arxiv.org/abs/2309.14957)|null|
 |**2023-09-26**|**Learning Generative Models for Climbing Aircraft from Radar Data**|Nick Pepper et.al.|[2309.14941](http://arxiv.org/abs/2309.14941)|null|
 |**2023-09-26**|**Interaction-Aware Sampling-Based MPC with Learned Local Goal Predictions**|Walter Jansma et.al.|[2309.14931](http://arxiv.org/abs/2309.14931)|null|
-|**2023-09-26**|**Semantic Map Learning of Traffic Light to Lane Assignment based on Motion Data**|Thomas Monninger et.al.|[2309.14793](http://arxiv.org/abs/2309.14793)|null|
+|**2023-09-28**|**Semantic Map Learning of Traffic Light to Lane Assignment based on Motion Data**|Thomas Monninger et.al.|[2309.14793](http://arxiv.org/abs/2309.14793)|null|
 |**2023-09-25**|**Scene Informer: Anchor-based Occlusion Inference and Trajectory Prediction in Partially Observable Environments**|Bernard Lange et.al.|[2309.13893](http://arxiv.org/abs/2309.13893)|null|
 |**2023-09-24**|**DROP: Dynamics Responses from Human Motion Prior and Projective Dynamics**|Yifeng Jiang et.al.|[2309.13742](http://arxiv.org/abs/2309.13742)|null|
 |**2023-09-22**|**SoRTS: Learned Tree Search for Long Horizon Social Robot Navigation**|Ingrid Navarro et.al.|[2309.13144](http://arxiv.org/abs/2309.13144)|null|
@@ -2606,7 +2606,7 @@ layout: default
 |**2023-09-27**|**Uncertainty Quantification via Neural Posterior Principal Components**|Elias Nehme et.al.|[2309.15533](http://arxiv.org/abs/2309.15533)|null|
 |**2023-09-27**|**EDGAR: An Autonomous Driving Research Platform -- From Feature Development to Real-World Application**|Phillip Karle et.al.|[2309.15492](http://arxiv.org/abs/2309.15492)|null|
 |**2023-09-27**|**The Robust Semantic Segmentation UNCV2023 Challenge Results**|Xuanlong Yu et.al.|[2309.15478](http://arxiv.org/abs/2309.15478)|null|
-|**2023-09-27**|**3D Multiple Object Tracking on Autonomous Driving: A Literature Review**|Peng Zhang et.al.|[2309.15411](http://arxiv.org/abs/2309.15411)|null|
+|**2023-09-28**|**3D Multiple Object Tracking on Autonomous Driving: A Literature Review**|Peng Zhang et.al.|[2309.15411](http://arxiv.org/abs/2309.15411)|null|
 |**2023-09-26**|**V2X-Lead: LiDAR-based End-to-End Autonomous Driving with Vehicle-to-Everything Communication Integration**|Zhiyun Deng et.al.|[2309.15252](http://arxiv.org/abs/2309.15252)|null|
 |**2023-09-26**|**Heavy-Metal Free Colloidal Quantum Dot Short-Wave Infrared Photodetectors and Image Sensors**|Yongjie Wang et.al.|[2309.15221](http://arxiv.org/abs/2309.15221)|null|
 |**2023-09-26**|**DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation**|Zeyu Wang et.al.|[2309.15109](http://arxiv.org/abs/2309.15109)|null|
