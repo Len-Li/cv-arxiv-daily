@@ -1245,6 +1245,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**|Jiaxiang Tang et.al.|[2309.16653](http://arxiv.org/abs/2309.16653)|null|
+|**2023-09-28**|**MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond**|Yixuan Li et.al.|[2309.16553](http://arxiv.org/abs/2309.16553)|null|
+|**2023-09-28**|**FG-NeRF: Flow-GAN based Probabilistic Neural Radiance Field for Independence-Assumption-Free Uncertainty Estimation**|Songlin Wei et.al.|[2309.16364](http://arxiv.org/abs/2309.16364)|null|
+|**2023-09-28**|**Learning Effective NeRFs and SDFs Representations with 3D Generative Adversarial Networks for 3D Object Generation: Technical Report for ICCV 2023 OmniObject3D Challenge**|Zheyuan Yang et.al.|[2309.16110](http://arxiv.org/abs/2309.16110)|null|
 |**2023-09-27**|**NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions**|Zhang Chen et.al.|[2309.15426](http://arxiv.org/abs/2309.15426)|null|
 |**2023-09-27**|**BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields**|Shreya Saha et.al.|[2309.15329](http://arxiv.org/abs/2309.15329)|null|
 |**2023-09-26**|**3D Density-Gradient based Edge Detection on Neural Radiance Fields (NeRFs) for Geometric Reconstruction**|Miriam Jäger et.al.|[2309.14800](http://arxiv.org/abs/2309.14800)|null|
@@ -1759,6 +1763,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**Decaf: Monocular Deformation Capture for Face and Hand Interactions**|Soshi Shimada et.al.|[2309.16670](http://arxiv.org/abs/2309.16670)|null|
+|**2023-09-28**|**Geodesic Regression Characterizes 3D Shape Changes in the Female Brain During Menstruation**|Adele Myers et.al.|[2309.16662](http://arxiv.org/abs/2309.16662)|**[link](https://github.com/bioshape-lab/my28brains)**|
+|**2023-09-28**|**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**|Jiaxiang Tang et.al.|[2309.16653](http://arxiv.org/abs/2309.16653)|null|
+|**2023-09-28**|**ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning**|Qiao Gu et.al.|[2309.16650](http://arxiv.org/abs/2309.16650)|null|
+|**2023-09-28**|**Text-to-3D using Gaussian Splatting**|Zilong Chen et.al.|[2309.16585](http://arxiv.org/abs/2309.16585)|**[link](https://github.com/gsgen3d/gsgen)**|
+|**2023-09-28**|**AtomSurf : Surface Representation for Learning on Protein Structures**|Vincent Mallet et.al.|[2309.16519](http://arxiv.org/abs/2309.16519)|**[link](https://github.com/vincentx15/atom2d)**|
+|**2023-09-28**|**HTC-DC Net: Monocular Height Estimation from Single Remote Sensing Images**|Sining Chen et.al.|[2309.16486](http://arxiv.org/abs/2309.16486)|**[link](https://github.com/zhu-xlab/htc-dc-net)**|
+|**2023-09-28**|**HyperLISTA-ABT: An Ultra-light Unfolded Network for Accurate Multi-component Differential Tomographic SAR Inversion**|Kun Qian et.al.|[2309.16468](http://arxiv.org/abs/2309.16468)|null|
+|**2023-09-28**|**Interpreting X-ray absorption spectra of Vanadyl Phthalocyanines Spin Qubit Candidates using a Machine Learning-Assisted Approach**|Jaehyun Lee et.al.|[2309.16415](http://arxiv.org/abs/2309.16415)|null|
+|**2023-09-28**|**Simulated non-thermal emission from SNR G1.9+0.3**|Marco A. Villagran et.al.|[2309.16410](http://arxiv.org/abs/2309.16410)|null|
 |**2023-09-27**|**The R-Matrix in 3d Topological BF Theory**|Nanna Havn Aamand et.al.|[2309.15833](http://arxiv.org/abs/2309.15833)|null|
 |**2023-09-27**|**OrthoPlanes: A Novel Representation for Better 3D-Awareness of GANs**|Honglin He et.al.|[2309.15830](http://arxiv.org/abs/2309.15830)|null|
 |**2023-09-27**|**Node-Aligned Graph-to-Graph Generation for Retrosynthesis Prediction**|Lin Yao et.al.|[2309.15798](http://arxiv.org/abs/2309.15798)|null|
@@ -2524,6 +2538,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**MotionLM: Multi-Agent Motion Forecasting as Language Modeling**|Ari Seff et.al.|[2309.16534](http://arxiv.org/abs/2309.16534)|null|
 |**2023-09-27**|**Improving Autonomous Driving Safety with POP: A Framework for Accurate Partially Observed Trajectory Predictions**|Sheng Wang et.al.|[2309.15685](http://arxiv.org/abs/2309.15685)|null|
 |**2023-09-26**|**SEPT: Towards Efficient Scene Representation Learning for Motion Prediction**|Zhiqian Lan et.al.|[2309.15289](http://arxiv.org/abs/2309.15289)|null|
 |**2023-09-26**|**A Physics Enhanced Residual Learning (PERL) Framework for Traffic State Prediction**|Keke Long et.al.|[2309.15284](http://arxiv.org/abs/2309.15284)|null|
@@ -2531,7 +2546,7 @@ layout: default
 |**2023-09-26**|**Context-Aware Generative Models for Prediction of Aircraft Ground Tracks**|Nick Pepper et.al.|[2309.14957](http://arxiv.org/abs/2309.14957)|null|
 |**2023-09-26**|**Learning Generative Models for Climbing Aircraft from Radar Data**|Nick Pepper et.al.|[2309.14941](http://arxiv.org/abs/2309.14941)|null|
 |**2023-09-26**|**Interaction-Aware Sampling-Based MPC with Learned Local Goal Predictions**|Walter Jansma et.al.|[2309.14931](http://arxiv.org/abs/2309.14931)|null|
-|**2023-09-28**|**Semantic Map Learning of Traffic Light to Lane Assignment based on Motion Data**|Thomas Monninger et.al.|[2309.14793](http://arxiv.org/abs/2309.14793)|null|
+|**2023-09-28**|**Semantic Map Learning of Traffic Light to Lane Assignment based on Motion Data**|Thomas Monninger et.al.|[2309.14793](http://arxiv.org/abs/2309.14793)|**[link](https://github.com/map-learning/tl2la)**|
 |**2023-09-25**|**Scene Informer: Anchor-based Occlusion Inference and Trajectory Prediction in Partially Observable Environments**|Bernard Lange et.al.|[2309.13893](http://arxiv.org/abs/2309.13893)|null|
 |**2023-09-24**|**DROP: Dynamics Responses from Human Motion Prior and Projective Dynamics**|Yifeng Jiang et.al.|[2309.13742](http://arxiv.org/abs/2309.13742)|null|
 |**2023-09-22**|**SoRTS: Learned Tree Search for Long Horizon Social Robot Navigation**|Ingrid Navarro et.al.|[2309.13144](http://arxiv.org/abs/2309.13144)|null|
@@ -2599,6 +2614,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**Uncertainty-Aware Decision Transformer for Stochastic Driving Environments**|Zenan Li et.al.|[2309.16397](http://arxiv.org/abs/2309.16397)|null|
+|**2023-09-28**|**Multi-scale Recurrent LSTM and Transformer Network for Depth Completion**|Xiaogang Jia et.al.|[2309.16301](http://arxiv.org/abs/2309.16301)|null|
+|**2023-09-28**|**DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models**|Licheng Wen et.al.|[2309.16292](http://arxiv.org/abs/2309.16292)|null|
+|**2023-09-28**|**BEVHeight++: Toward Robust Visual Centric 3D Object Detection**|Lei Yang et.al.|[2309.16179](http://arxiv.org/abs/2309.16179)|null|
+|**2023-09-27**|**WiDEVIEW: An UltraWideBand and Vision Dataset for Deciphering Pedestrian-Vehicle Interactions**|Jia Huang et.al.|[2309.16057](http://arxiv.org/abs/2309.16057)|null|
+|**2023-09-27**|**Symbolic Imitation Learning: From Black-Box to Explainable Driving Policies**|Iman Sharifi et.al.|[2309.16025](http://arxiv.org/abs/2309.16025)|null|
+|**2023-09-27**|**Accelerating Motion Planning via Optimal Transport**|An T. Le et.al.|[2309.15970](http://arxiv.org/abs/2309.15970)|null|
+|**2023-09-27**|**AutoEncoding Tree for City Generation and Applications**|Wenyu Han et.al.|[2309.15941](http://arxiv.org/abs/2309.15941)|null|
 |**2023-09-27**|**Generating Transferable Adversarial Simulation Scenarios for Self-Driving via Neural Rendering**|Yasasa Abeysirigoonawardena et.al.|[2309.15770](http://arxiv.org/abs/2309.15770)|null|
 |**2023-09-27**|**InfraParis: A multi-modal and multi-task autonomous driving dataset**|Gianni Franchi et.al.|[2309.15751](http://arxiv.org/abs/2309.15751)|null|
 |**2023-09-27**|**Improving Autonomous Driving Safety with POP: A Framework for Accurate Partially Observed Trajectory Predictions**|Sheng Wang et.al.|[2309.15685](http://arxiv.org/abs/2309.15685)|null|
