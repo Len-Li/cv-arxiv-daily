@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.01
+## Updated on 2023.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1767,7 +1767,7 @@ layout: default
 |**2023-09-28**|**Geodesic Regression Characterizes 3D Shape Changes in the Female Brain During Menstruation**|Adele Myers et.al.|[2309.16662](http://arxiv.org/abs/2309.16662)|**[link](https://github.com/bioshape-lab/my28brains)**|
 |**2023-09-28**|**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**|Jiaxiang Tang et.al.|[2309.16653](http://arxiv.org/abs/2309.16653)|null|
 |**2023-09-28**|**ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning**|Qiao Gu et.al.|[2309.16650](http://arxiv.org/abs/2309.16650)|null|
-|**2023-09-28**|**Text-to-3D using Gaussian Splatting**|Zilong Chen et.al.|[2309.16585](http://arxiv.org/abs/2309.16585)|**[link](https://github.com/gsgen3d/gsgen)**|
+|**2023-09-29**|**Text-to-3D using Gaussian Splatting**|Zilong Chen et.al.|[2309.16585](http://arxiv.org/abs/2309.16585)|**[link](https://github.com/gsgen3d/gsgen)**|
 |**2023-09-28**|**AtomSurf : Surface Representation for Learning on Protein Structures**|Vincent Mallet et.al.|[2309.16519](http://arxiv.org/abs/2309.16519)|**[link](https://github.com/vincentx15/atom2d)**|
 |**2023-09-28**|**HTC-DC Net: Monocular Height Estimation from Single Remote Sensing Images**|Sining Chen et.al.|[2309.16486](http://arxiv.org/abs/2309.16486)|**[link](https://github.com/zhu-xlab/htc-dc-net)**|
 |**2023-09-28**|**HyperLISTA-ABT: An Ultra-light Unfolded Network for Accurate Multi-component Differential Tomographic SAR Inversion**|Kun Qian et.al.|[2309.16468](http://arxiv.org/abs/2309.16468)|null|
@@ -2618,7 +2618,7 @@ layout: default
 |**2023-09-28**|**Multi-scale Recurrent LSTM and Transformer Network for Depth Completion**|Xiaogang Jia et.al.|[2309.16301](http://arxiv.org/abs/2309.16301)|null|
 |**2023-09-28**|**DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models**|Licheng Wen et.al.|[2309.16292](http://arxiv.org/abs/2309.16292)|null|
 |**2023-09-28**|**BEVHeight++: Toward Robust Visual Centric 3D Object Detection**|Lei Yang et.al.|[2309.16179](http://arxiv.org/abs/2309.16179)|null|
-|**2023-09-27**|**WiDEVIEW: An UltraWideBand and Vision Dataset for Deciphering Pedestrian-Vehicle Interactions**|Jia Huang et.al.|[2309.16057](http://arxiv.org/abs/2309.16057)|null|
+|**2023-09-27**|**WiDEVIEW: An UltraWideBand and Vision Dataset for Deciphering Pedestrian-Vehicle Interactions**|Jia Huang et.al.|[2309.16057](http://arxiv.org/abs/2309.16057)|**[link](https://github.com/unmannedlab/uwb_dataset)**|
 |**2023-09-27**|**Symbolic Imitation Learning: From Black-Box to Explainable Driving Policies**|Iman Sharifi et.al.|[2309.16025](http://arxiv.org/abs/2309.16025)|null|
 |**2023-09-27**|**Accelerating Motion Planning via Optimal Transport**|An T. Le et.al.|[2309.15970](http://arxiv.org/abs/2309.15970)|null|
 |**2023-09-27**|**AutoEncoding Tree for City Generation and Applications**|Wenyu Han et.al.|[2309.15941](http://arxiv.org/abs/2309.15941)|null|
