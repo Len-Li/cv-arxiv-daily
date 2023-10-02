@@ -1267,11 +1267,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-28**|**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**|Jiaxiang Tang et.al.|[2309.16653](http://arxiv.org/abs/2309.16653)|null|
+|**2023-09-29**|**Multi-task View Synthesis with Neural Radiance Fields**|Shuhong Zheng et.al.|[2309.17450](http://arxiv.org/abs/2309.17450)|**[link](https://github.com/zsh2000/muvienerf)**|
+|**2023-09-29**|**Forward Flow for Novel View Synthesis of Dynamic Scenes**|Xiang Guo et.al.|[2309.17390](http://arxiv.org/abs/2309.17390)|null|
+|**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
+|**2023-09-28**|**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**|Jiaxiang Tang et.al.|[2309.16653](http://arxiv.org/abs/2309.16653)|**[link](https://github.com/dreamgaussian/dreamgaussian)**|
 |**2023-09-28**|**MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond**|Yixuan Li et.al.|[2309.16553](http://arxiv.org/abs/2309.16553)|null|
 |**2023-09-28**|**FG-NeRF: Flow-GAN based Probabilistic Neural Radiance Field for Independence-Assumption-Free Uncertainty Estimation**|Songlin Wei et.al.|[2309.16364](http://arxiv.org/abs/2309.16364)|null|
 |**2023-09-28**|**Learning Effective NeRFs and SDFs Representations with 3D Generative Adversarial Networks for 3D Object Generation: Technical Report for ICCV 2023 OmniObject3D Challenge**|Zheyuan Yang et.al.|[2309.16110](http://arxiv.org/abs/2309.16110)|null|
-|**2023-09-27**|**NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions**|Zhang Chen et.al.|[2309.15426](http://arxiv.org/abs/2309.15426)|null|
+|**2023-09-27**|**NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions**|Zhang Chen et.al.|[2309.15426](http://arxiv.org/abs/2309.15426)|**[link](https://github.com/oppo-us-research/NeuRBF)**|
 |**2023-09-27**|**BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields**|Shreya Saha et.al.|[2309.15329](http://arxiv.org/abs/2309.15329)|null|
 |**2023-09-26**|**3D Density-Gradient based Edge Detection on Neural Radiance Fields (NeRFs) for Geometric Reconstruction**|Miriam Jäger et.al.|[2309.14800](http://arxiv.org/abs/2309.14800)|null|
 |**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293](http://arxiv.org/abs/2309.14293)|null|
@@ -1787,6 +1790,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Multi-task View Synthesis with Neural Radiance Fields**|Shuhong Zheng et.al.|[2309.17450](http://arxiv.org/abs/2309.17450)|**[link](https://github.com/zsh2000/muvienerf)**|
+|**2023-09-29**|**Forward Flow for Novel View Synthesis of Dynamic Scenes**|Xiang Guo et.al.|[2309.17390](http://arxiv.org/abs/2309.17390)|null|
+|**2023-09-29**|**See Beyond Seeing: Robust 3D Object Detection from Point Clouds via Cross-Modal Hallucination**|Jianning Deng et.al.|[2309.17336](http://arxiv.org/abs/2309.17336)|null|
+|**2023-09-29**|**Efficient Anatomical labeling of Pulmonary Tree Structures via Implicit Point-Graph Networks**|Kangxian Xie et.al.|[2309.17329](http://arxiv.org/abs/2309.17329)|null|
+|**2023-09-29**|**Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation**|Tuan Le et.al.|[2309.17296](http://arxiv.org/abs/2309.17296)|null|
+|**2023-09-29**|**Effect of structure-based training on 3D localization precision and quality**|Armin Abdehkakha et.al.|[2309.17265](http://arxiv.org/abs/2309.17265)|null|
+|**2023-09-29**|**A Foundation Model for General Moving Object Segmentation in Medical Images**|Zhongnuo Yan et.al.|[2309.17264](http://arxiv.org/abs/2309.17264)|null|
+|**2023-09-29**|**Consistent123: One Image to Highly Consistent 3D Asset Using Case-Aware Diffusion Priors**|Yukang Lin et.al.|[2309.17261](http://arxiv.org/abs/2309.17261)|null|
+|**2023-09-29**|**MORPH: Design Co-optimization with Reinforcement Learning via a Differentiable Hardware Model Proxy**|Zhanpeng He et.al.|[2309.17227](http://arxiv.org/abs/2309.17227)|null|
+|**2023-09-29**|**Robots That Can See: Leveraging Human Pose for Trajectory Prediction**|Tim Salzmann et.al.|[2309.17209](http://arxiv.org/abs/2309.17209)|null|
 |**2023-09-28**|**Decaf: Monocular Deformation Capture for Face and Hand Interactions**|Soshi Shimada et.al.|[2309.16670](http://arxiv.org/abs/2309.16670)|null|
 |**2023-09-28**|**Geodesic Regression Characterizes 3D Shape Changes in the Female Brain During Menstruation**|Adele Myers et.al.|[2309.16662](http://arxiv.org/abs/2309.16662)|**[link](https://github.com/bioshape-lab/my28brains)**|
 |**2023-09-28**|**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**|Jiaxiang Tang et.al.|[2309.16653](http://arxiv.org/abs/2309.16653)|null|
@@ -2564,6 +2577,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Improving Trajectory Prediction in Dynamic Multi-Agent Environment by Dropping Waypoints**|Pranav Singh Chib et.al.|[2309.17338](http://arxiv.org/abs/2309.17338)|null|
+|**2023-09-29**|**Robots That Can See: Leveraging Human Pose for Trajectory Prediction**|Tim Salzmann et.al.|[2309.17209](http://arxiv.org/abs/2309.17209)|null|
+|**2023-09-29**|**UXsim: An open source macroscopic and mesoscopic traffic simulator in Python -- a technical overview**|Toru Seo et.al.|[2309.17114](http://arxiv.org/abs/2309.17114)|null|
+|**2023-09-28**|**Social Navigation in Crowded Environments with Model Predictive Control and Deep Learning-Based Human Trajectory Prediction**|Viet-Anh Le et.al.|[2309.16838](http://arxiv.org/abs/2309.16838)|null|
 |**2023-09-28**|**MotionLM: Multi-Agent Motion Forecasting as Language Modeling**|Ari Seff et.al.|[2309.16534](http://arxiv.org/abs/2309.16534)|null|
 |**2023-09-27**|**Improving Autonomous Driving Safety with POP: A Framework for Accurate Partially Observed Trajectory Predictions**|Sheng Wang et.al.|[2309.15685](http://arxiv.org/abs/2309.15685)|null|
 |**2023-09-26**|**SEPT: Towards Efficient Scene Representation Learning for Motion Prediction**|Zhiqian Lan et.al.|[2309.15289](http://arxiv.org/abs/2309.15289)|null|
@@ -2644,6 +2661,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
+|**2023-09-29**|**GAIA-1: A Generative World Model for Autonomous Driving**|Anthony Hu et.al.|[2309.17080](http://arxiv.org/abs/2309.17080)|null|
+|**2023-09-29**|**GSDC Transformer: An Efficient and Effective Cue Fusion for Monocular Multi-Frame Depth Estimation**|Naiyu Fang et.al.|[2309.17059](http://arxiv.org/abs/2309.17059)|null|
+|**2023-09-28**|**Superpixel Transformers for Efficient Semantic Segmentation**|Alex Zihao Zhu et.al.|[2309.16889](http://arxiv.org/abs/2309.16889)|null|
+|**2023-09-28**|**Photonic Accelerators for Image Segmentation in Autonomous Driving and Defect Detection**|Lakshmi Nair et.al.|[2309.16783](http://arxiv.org/abs/2309.16783)|null|
 |**2023-09-28**|**Uncertainty-Aware Decision Transformer for Stochastic Driving Environments**|Zenan Li et.al.|[2309.16397](http://arxiv.org/abs/2309.16397)|null|
 |**2023-09-28**|**Multi-scale Recurrent LSTM and Transformer Network for Depth Completion**|Xiaogang Jia et.al.|[2309.16301](http://arxiv.org/abs/2309.16301)|null|
 |**2023-09-28**|**DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models**|Licheng Wen et.al.|[2309.16292](http://arxiv.org/abs/2309.16292)|null|
