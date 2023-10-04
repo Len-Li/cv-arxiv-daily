@@ -1267,6 +1267,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881](http://arxiv.org/abs/2310.01881)|null|
+|**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821](http://arxiv.org/abs/2310.01821)|null|
+|**2023-10-02**|**PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2310.00874](http://arxiv.org/abs/2310.00874)|**[link](https://github.com/biter0088/pc-nerf)**|
+|**2023-10-01**|**How Many Views Are Needed to Reconstruct an Unknown Object Using NeRF?**|Sicong Pan et.al.|[2310.00684](http://arxiv.org/abs/2310.00684)|null|
+|**2023-10-01**|**Enabling Neural Radiance Fields (NeRF) for Large-scale Aerial Images -- A Multi-tiling Approaching and the Geometry Assessment of NeRF**|Ningli Xu et.al.|[2310.00530](http://arxiv.org/abs/2310.00530)|null|
+|**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**Multi-task View Synthesis with Neural Radiance Fields**|Shuhong Zheng et.al.|[2309.17450](http://arxiv.org/abs/2309.17450)|**[link](https://github.com/zsh2000/muvienerf)**|
 |**2023-09-29**|**Forward Flow for Novel View Synthesis of Dynamic Scenes**|Xiang Guo et.al.|[2309.17390](http://arxiv.org/abs/2309.17390)|null|
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
@@ -1790,6 +1796,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models**|Huaijin Pi et.al.|[2310.02242](http://arxiv.org/abs/2310.02242)|null|
+|**2023-10-03**|**Control sets of one-input linear control systems on solvable, nonnilpotent 3D Lie groups**|Adriano Da Silva et.al.|[2310.02176](http://arxiv.org/abs/2310.02176)|null|
+|**2023-10-03**|**Lyfe Agents: Generative agents for low-cost real-time social interactions**|Zhao Kaiya et.al.|[2310.02172](http://arxiv.org/abs/2310.02172)|null|
+|**2023-10-03**|**Bearing-Based Target Entrapping Control of Multiple Uncertain Agents With Arbitrary Maneuvers**|Haifan Su et.al.|[2310.02086](http://arxiv.org/abs/2310.02086)|null|
+|**2023-10-03**|**Point Neighborhood Embeddings**|Pedro Hermosilla et.al.|[2310.02083](http://arxiv.org/abs/2310.02083)|null|
+|**2023-10-03**|**Global Attractor for a Reaction-Diffusion Model Arising in Biological Dynamic in 3D Soil Structure**|Mohamed Elghandouri et.al.|[2310.02060](http://arxiv.org/abs/2310.02060)|null|
+|**2023-10-03**|**A plausible link between dynamically unsettled molecular gas and the radio jet in NGC 6328**|Michalis Papachristou et.al.|[2310.02033](http://arxiv.org/abs/2310.02033)|null|
+|**2023-10-03**|**Detecting internal disorders in fruit by CT. Part 1: Joint 2D to 3D image registration workflow for comparing multiple slice photographs and CT scans of apple fruit**|Dirk Elias Schut et.al.|[2310.01987](http://arxiv.org/abs/2310.01987)|null|
+|**2023-10-03**|**Optical excitation of multiple standing spin modes in 3D optomagnonic nanocavities**|Daria O. Ignatyeva et.al.|[2310.01974](http://arxiv.org/abs/2310.01974)|null|
+|**2023-10-03**|**Smartphone-based Optical Sectioning (SOS) Microscopy with A Telecentric Design for Fluorescence Imaging**|Ziao Jiao et.al.|[2310.01928](http://arxiv.org/abs/2310.01928)|null|
 |**2023-09-29**|**Multi-task View Synthesis with Neural Radiance Fields**|Shuhong Zheng et.al.|[2309.17450](http://arxiv.org/abs/2309.17450)|**[link](https://github.com/zsh2000/muvienerf)**|
 |**2023-09-29**|**Forward Flow for Novel View Synthesis of Dynamic Scenes**|Xiang Guo et.al.|[2309.17390](http://arxiv.org/abs/2309.17390)|null|
 |**2023-09-29**|**See Beyond Seeing: Robust 3D Object Detection from Point Clouds via Cross-Modal Hallucination**|Jianning Deng et.al.|[2309.17336](http://arxiv.org/abs/2309.17336)|null|
@@ -2577,6 +2593,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Video Transformers under Occlusion: How Physics and Background Attributes Impact Large Models for Robotic Manipulation**|Shutong Jin et.al.|[2310.02044](http://arxiv.org/abs/2310.02044)|**[link](https://github.com/shutongjin/occlumanip)**|
+|**2023-10-02**|**EAST: Environment Aware Safe Tracking using Planning and Control Co-Design**|Zhichao Li et.al.|[2310.01363](http://arxiv.org/abs/2310.01363)|null|
+|**2023-10-01**|**HOH: Markerless Multimodal Human-Object-Human Handover Dataset with Large Object Count**|Noah Wiederhold et.al.|[2310.00723](http://arxiv.org/abs/2310.00723)|null|
+|**2023-09-30**|**Smoothing Mixed Traffic with Robust Data-driven Predictive Control for Connected and Autonomous Vehicles**|Xu Shang et.al.|[2310.00509](http://arxiv.org/abs/2310.00509)|null|
 |**2023-09-29**|**Improving Trajectory Prediction in Dynamic Multi-Agent Environment by Dropping Waypoints**|Pranav Singh Chib et.al.|[2309.17338](http://arxiv.org/abs/2309.17338)|null|
 |**2023-09-29**|**Robots That Can See: Leveraging Human Pose for Trajectory Prediction**|Tim Salzmann et.al.|[2309.17209](http://arxiv.org/abs/2309.17209)|null|
 |**2023-09-29**|**UXsim: An open source macroscopic and mesoscopic traffic simulator in Python -- a technical overview**|Toru Seo et.al.|[2309.17114](http://arxiv.org/abs/2309.17114)|null|
@@ -2661,6 +2681,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**RSRD: A Road Surface Reconstruction Dataset and Benchmark for Safe and Comfortable Autonomous Driving**|Tong Zhao et.al.|[2310.02262](http://arxiv.org/abs/2310.02262)|null|
+|**2023-10-03**|**TransRadar: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation**|Yahia Dalbah et.al.|[2310.02260](http://arxiv.org/abs/2310.02260)|**[link](https://github.com/yahidar/transradar)**|
+|**2023-10-03**|**Talk2BEV: Language-enhanced Bird's-eye View Maps for Autonomous Driving**|Vikrant Dewangan et.al.|[2310.02251](http://arxiv.org/abs/2310.02251)|null|
+|**2023-10-03**|**Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving**|Long Chen et.al.|[2310.01957](http://arxiv.org/abs/2310.01957)|**[link](https://github.com/wayveai/driving-with-llms)**|
+|**2023-10-03**|**DARTH: Holistic Test-time Adaptation for Multiple Object Tracking**|Mattia Segu et.al.|[2310.01926](http://arxiv.org/abs/2310.01926)|null|
+|**2023-10-03**|**Trainable Noise Model as an XAI evaluation method: application on Sobol for remote sensing image segmentation**|Hossein Shreim et.al.|[2310.01828](http://arxiv.org/abs/2310.01828)|null|
+|**2023-10-03**|**Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous Driving**|Maneekwan Toyungyernsub et.al.|[2310.01723](http://arxiv.org/abs/2310.01723)|null|
+|**2023-10-02**|**You Only Look at Once for Real-time and Generic Multi-Task**|Jiayuan Wang et.al.|[2310.01641](http://arxiv.org/abs/2310.01641)|**[link](https://github.com/jiayuanwang-jw/yolov8-multi-task)**|
+|**2023-10-02**|**GPT-Driver: Learning to Drive with GPT**|Jiageng Mao et.al.|[2310.01415](http://arxiv.org/abs/2310.01415)|null|
+|**2023-10-02**|**DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model**|Zhenhua Xu et.al.|[2310.01412](http://arxiv.org/abs/2310.01412)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 |**2023-09-29**|**GAIA-1: A Generative World Model for Autonomous Driving**|Anthony Hu et.al.|[2309.17080](http://arxiv.org/abs/2309.17080)|null|
 |**2023-09-29**|**GSDC Transformer: An Efficient and Effective Cue Fusion for Monocular Multi-Frame Depth Estimation**|Naiyu Fang et.al.|[2309.17059](http://arxiv.org/abs/2309.17059)|null|
