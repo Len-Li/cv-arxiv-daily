@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.03
+## Updated on 2023.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2557,7 +2557,7 @@ layout: default
 |**2023-09-28**|**Social Navigation in Crowded Environments with Model Predictive Control and Deep Learning-Based Human Trajectory Prediction**|Viet-Anh Le et.al.|[2309.16838](http://arxiv.org/abs/2309.16838)|null|
 |**2023-09-28**|**MotionLM: Multi-Agent Motion Forecasting as Language Modeling**|Ari Seff et.al.|[2309.16534](http://arxiv.org/abs/2309.16534)|null|
 |**2023-09-27**|**Improving Autonomous Driving Safety with POP: A Framework for Accurate Partially Observed Trajectory Predictions**|Sheng Wang et.al.|[2309.15685](http://arxiv.org/abs/2309.15685)|null|
-|**2023-09-26**|**SEPT: Towards Efficient Scene Representation Learning for Motion Prediction**|Zhiqian Lan et.al.|[2309.15289](http://arxiv.org/abs/2309.15289)|null|
+|**2023-10-03**|**SEPT: Towards Efficient Scene Representation Learning for Motion Prediction**|Zhiqian Lan et.al.|[2309.15289](http://arxiv.org/abs/2309.15289)|null|
 |**2023-09-26**|**A Physics Enhanced Residual Learning (PERL) Framework for Traffic State Prediction**|Keke Long et.al.|[2309.15284](http://arxiv.org/abs/2309.15284)|null|
 |**2023-09-26**|**Near Real-Time Position Tracking for Robot-Guided Evacuation**|Mollik Nayyar et.al.|[2309.15054](http://arxiv.org/abs/2309.15054)|null|
 |**2023-09-26**|**Context-Aware Generative Models for Prediction of Aircraft Ground Tracks**|Nick Pepper et.al.|[2309.14957](http://arxiv.org/abs/2309.14957)|null|
@@ -2634,8 +2634,8 @@ layout: default
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 |**2023-09-29**|**GAIA-1: A Generative World Model for Autonomous Driving**|Anthony Hu et.al.|[2309.17080](http://arxiv.org/abs/2309.17080)|null|
 |**2023-09-29**|**GSDC Transformer: An Efficient and Effective Cue Fusion for Monocular Multi-Frame Depth Estimation**|Naiyu Fang et.al.|[2309.17059](http://arxiv.org/abs/2309.17059)|null|
-|**2023-09-28**|**Superpixel Transformers for Efficient Semantic Segmentation**|Alex Zihao Zhu et.al.|[2309.16889](http://arxiv.org/abs/2309.16889)|null|
-|**2023-09-28**|**Photonic Accelerators for Image Segmentation in Autonomous Driving and Defect Detection**|Lakshmi Nair et.al.|[2309.16783](http://arxiv.org/abs/2309.16783)|null|
+|**2023-10-02**|**Superpixel Transformers for Efficient Semantic Segmentation**|Alex Zihao Zhu et.al.|[2309.16889](http://arxiv.org/abs/2309.16889)|null|
+|**2023-10-03**|**Photonic Accelerators for Image Segmentation in Autonomous Driving and Defect Detection**|Lakshmi Nair et.al.|[2309.16783](http://arxiv.org/abs/2309.16783)|null|
 |**2023-09-28**|**Uncertainty-Aware Decision Transformer for Stochastic Driving Environments**|Zenan Li et.al.|[2309.16397](http://arxiv.org/abs/2309.16397)|null|
 |**2023-09-28**|**Multi-scale Recurrent LSTM and Transformer Network for Depth Completion**|Xiaogang Jia et.al.|[2309.16301](http://arxiv.org/abs/2309.16301)|null|
 |**2023-09-28**|**DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models**|Licheng Wen et.al.|[2309.16292](http://arxiv.org/abs/2309.16292)|null|
