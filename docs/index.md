@@ -1245,6 +1245,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015](http://arxiv.org/abs/2310.03015)|null|
+|**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
+|**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437](http://arxiv.org/abs/2310.02437)|null|
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881](http://arxiv.org/abs/2310.01881)|null|
 |**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821](http://arxiv.org/abs/2310.01821)|null|
 |**2023-10-02**|**PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2310.00874](http://arxiv.org/abs/2310.00874)|**[link](https://github.com/biter0088/pc-nerf)**|
@@ -1772,6 +1775,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020](http://arxiv.org/abs/2310.03020)|null|
+|**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015](http://arxiv.org/abs/2310.03015)|null|
+|**2023-10-04**|**Diagnostic Tomography of Applied Holography**|D. V. Khveshchenko et.al.|[2310.02991](http://arxiv.org/abs/2310.02991)|null|
+|**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977](http://arxiv.org/abs/2310.02977)|null|
+|**2023-10-04**|**Fully Automatic Segmentation of Gross Target Volume and Organs-at-Risk for Radiotherapy Planning of Nasopharyngeal Carcinoma**|Mehdi Astaraki et.al.|[2310.02972](http://arxiv.org/abs/2310.02972)|null|
+|**2023-10-04**|**Fast, Expressive SE $(n)$ Equivariant Networks through Weight-Sharing in Position-Orientation Space**|Erik J Bekkers et.al.|[2310.02970](http://arxiv.org/abs/2310.02970)|**[link](https://github.com/ebekkers/ponita)**|
+|**2023-10-04**|**CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection**|Yang Cao et.al.|[2310.02960](http://arxiv.org/abs/2310.02960)|**[link](https://github.com/yangcaoai/CoDA_NeurIPS2023)**|
+|**2023-10-04**|**Anomalous dissipation and Euler flows**|Jan Burczak et.al.|[2310.02934](http://arxiv.org/abs/2310.02934)|null|
+|**2023-10-04**|**3D Global Simulations of Accretion onto Gap-opening Planets: Implications for Circumplanetary Disc Structures and Accretion Rates**|Ya-Ping Li et.al.|[2310.02822](http://arxiv.org/abs/2310.02822)|null|
+|**2023-10-04**|**Total and dark mass from observations of galaxy centers with Machine Learning**|Sirui Wu et.al.|[2310.02816](http://arxiv.org/abs/2310.02816)|null|
 |**2023-10-03**|**Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models**|Huaijin Pi et.al.|[2310.02242](http://arxiv.org/abs/2310.02242)|null|
 |**2023-10-03**|**Control sets of one-input linear control systems on solvable, nonnilpotent 3D Lie groups**|Adriano Da Silva et.al.|[2310.02176](http://arxiv.org/abs/2310.02176)|null|
 |**2023-10-03**|**Lyfe Agents: Generative agents for low-cost real-time social interactions**|Zhao Kaiya et.al.|[2310.02172](http://arxiv.org/abs/2310.02172)|null|
@@ -2567,13 +2580,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Incorporating Target Vehicle Trajectories Predicted by Deep Learning Into Model Predictive Controlled Vehicles**|Ni Dang et.al.|[2310.02843](http://arxiv.org/abs/2310.02843)|null|
 |**2023-10-03**|**Video Transformers under Occlusion: How Physics and Background Attributes Impact Large Models for Robotic Manipulation**|Shutong Jin et.al.|[2310.02044](http://arxiv.org/abs/2310.02044)|**[link](https://github.com/shutongjin/occlumanip)**|
 |**2023-10-02**|**EAST: Environment Aware Safe Tracking using Planning and Control Co-Design**|Zhichao Li et.al.|[2310.01363](http://arxiv.org/abs/2310.01363)|null|
 |**2023-10-01**|**HOH: Markerless Multimodal Human-Object-Human Handover Dataset with Large Object Count**|Noah Wiederhold et.al.|[2310.00723](http://arxiv.org/abs/2310.00723)|null|
 |**2023-09-30**|**Smoothing Mixed Traffic with Robust Data-driven Predictive Control for Connected and Autonomous Vehicles**|Xu Shang et.al.|[2310.00509](http://arxiv.org/abs/2310.00509)|null|
 |**2023-09-29**|**Improving Trajectory Prediction in Dynamic Multi-Agent Environment by Dropping Waypoints**|Pranav Singh Chib et.al.|[2309.17338](http://arxiv.org/abs/2309.17338)|null|
 |**2023-09-29**|**Robots That Can See: Leveraging Human Pose for Trajectory Prediction**|Tim Salzmann et.al.|[2309.17209](http://arxiv.org/abs/2309.17209)|null|
-|**2023-09-29**|**UXsim: An open source macroscopic and mesoscopic traffic simulator in Python -- a technical overview**|Toru Seo et.al.|[2309.17114](http://arxiv.org/abs/2309.17114)|null|
+|**2023-09-29**|**UXsim: An open source macroscopic and mesoscopic traffic simulator in Python -- a technical overview**|Toru Seo et.al.|[2309.17114](http://arxiv.org/abs/2309.17114)|**[link](https://github.com/toruseo/uxsim)**|
 |**2023-09-28**|**Social Navigation in Crowded Environments with Model Predictive Control and Deep Learning-Based Human Trajectory Prediction**|Viet-Anh Le et.al.|[2309.16838](http://arxiv.org/abs/2309.16838)|null|
 |**2023-09-28**|**MotionLM: Multi-Agent Motion Forecasting as Language Modeling**|Ari Seff et.al.|[2309.16534](http://arxiv.org/abs/2309.16534)|null|
 |**2023-09-27**|**Improving Autonomous Driving Safety with POP: A Framework for Accurate Partially Observed Trajectory Predictions**|Sheng Wang et.al.|[2309.15685](http://arxiv.org/abs/2309.15685)|null|
@@ -2651,6 +2665,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving**|Hao Sha et.al.|[2310.03026](http://arxiv.org/abs/2310.03026)|null|
+|**2023-10-04**|**Curve Trajectory Model for Human Preferred Path Planning of Automated Vehicles**|Gergo Igneczi et.al.|[2310.02696](http://arxiv.org/abs/2310.02696)|null|
+|**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|null|
+|**2023-10-03**|**Human-Like Autonomous Driving on Dense Traffic**|Mustafa Yildirim et.al.|[2310.02477](http://arxiv.org/abs/2310.02477)|null|
 |**2023-10-03**|**RSRD: A Road Surface Reconstruction Dataset and Benchmark for Safe and Comfortable Autonomous Driving**|Tong Zhao et.al.|[2310.02262](http://arxiv.org/abs/2310.02262)|null|
 |**2023-10-03**|**TransRadar: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation**|Yahia Dalbah et.al.|[2310.02260](http://arxiv.org/abs/2310.02260)|**[link](https://github.com/yahidar/transradar)**|
 |**2023-10-03**|**Talk2BEV: Language-enhanced Bird's-eye View Maps for Autonomous Driving**|Vikrant Dewangan et.al.|[2310.02251](http://arxiv.org/abs/2310.02251)|null|
