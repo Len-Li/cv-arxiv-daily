@@ -1245,6 +1245,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-05**|**Targeted Adversarial Attacks on Generalizable Neural Radiance Fields**|Andras Horvath et.al.|[2310.03578](http://arxiv.org/abs/2310.03578)|null|
+|**2023-10-05**|**BID-NeRF: RGB-D image pose estimation with inverted Neural Radiance Fields**|Ágoston István Csehi et.al.|[2310.03563](http://arxiv.org/abs/2310.03563)|null|
+|**2023-10-05**|**Point-Based Radiance Fields for Controllable Human Motion Synthesis**|Haitao Yu et.al.|[2310.03375](http://arxiv.org/abs/2310.03375)|**[link](https://github.com/dehezhang2/point_based_nerf_editing)**|
+|**2023-10-04**|**Shielding the Unseen: Privacy Protection through Poisoning NeRF with Spatial Deformation**|Yihan Wu et.al.|[2310.03125](http://arxiv.org/abs/2310.03125)|null|
 |**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015](http://arxiv.org/abs/2310.03015)|null|
 |**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
 |**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437](http://arxiv.org/abs/2310.02437)|null|
@@ -1775,6 +1779,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-05**|**Drag View: Generalizable Novel View Synthesis with Unposed Imagery**|Zhiwen Fan et.al.|[2310.03704](http://arxiv.org/abs/2310.03704)|null|
+|**2023-10-05**|**BrickStARt: Enabling In-situ Design and Tangible Exploration for Personal Fabrication using Mixed Reality**|Evgeny Stemasov et.al.|[2310.03700](http://arxiv.org/abs/2310.03700)|null|
+|**2023-10-05**|**POLYLLA: Polygonal/Polyhedral meshing algorithm based on terminal-edge regions and terminal-face regions**|Sergio Salinas-Fernández et.al.|[2310.03665](http://arxiv.org/abs/2310.03665)|null|
+|**2023-10-05**|**Animatable Virtual Humans: Learning pose-dependent human representations in UV space for interactive performance synthesis**|Wieland Morgenstern et.al.|[2310.03615](http://arxiv.org/abs/2310.03615)|null|
+|**2023-10-05**|**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**|Chuan Fang et.al.|[2310.03602](http://arxiv.org/abs/2310.03602)|null|
+|**2023-10-05**|**Targeted Adversarial Attacks on Generalizable Neural Radiance Fields**|Andras Horvath et.al.|[2310.03578](http://arxiv.org/abs/2310.03578)|null|
+|**2023-10-05**|**MedSynV1: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images**|Yanwu Xu et.al.|[2310.03559](http://arxiv.org/abs/2310.03559)|null|
+|**2023-10-05**|**Inverse design of self-folding 3D shells**|Diogo E. P. Pinto et.al.|[2310.03537](http://arxiv.org/abs/2310.03537)|null|
+|**2023-10-05**|**3D-Aware Hypothesis & Verification for Generalizable Relative Object Pose Estimation**|Chen Zhao et.al.|[2310.03534](http://arxiv.org/abs/2310.03534)|null|
+|**2023-10-05**|**Vocal Fold Reconstruction from Optical Velocity and Displacement Measurements**|Daniel Zieger et.al.|[2310.03514](http://arxiv.org/abs/2310.03514)|null|
 |**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020](http://arxiv.org/abs/2310.03020)|null|
 |**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015](http://arxiv.org/abs/2310.03015)|null|
 |**2023-10-04**|**Diagnostic Tomography of Applied Holography**|D. V. Khveshchenko et.al.|[2310.02991](http://arxiv.org/abs/2310.02991)|null|
@@ -2580,6 +2594,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-05**|**Probabilistic Generative Modeling for Procedural Roundabout Generation for Developing Countries**|Zarif Ikram et.al.|[2310.03687](http://arxiv.org/abs/2310.03687)|null|
+|**2023-10-05**|**Enhanced Human-Robot Collaboration using Constrained Probabilistic Human-Motion Prediction**|Aadi Kothari et.al.|[2310.03314](http://arxiv.org/abs/2310.03314)|null|
 |**2023-10-04**|**Incorporating Target Vehicle Trajectories Predicted by Deep Learning Into Model Predictive Controlled Vehicles**|Ni Dang et.al.|[2310.02843](http://arxiv.org/abs/2310.02843)|null|
 |**2023-10-03**|**Video Transformers under Occlusion: How Physics and Background Attributes Impact Large Models for Robotic Manipulation**|Shutong Jin et.al.|[2310.02044](http://arxiv.org/abs/2310.02044)|**[link](https://github.com/shutongjin/occlumanip)**|
 |**2023-10-02**|**EAST: Environment Aware Safe Tracking using Planning and Control Co-Design**|Zhichao Li et.al.|[2310.01363](http://arxiv.org/abs/2310.01363)|null|
@@ -2665,6 +2681,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-05**|**ContactGen: Generative Contact Modeling for Grasp Generation**|Shaowei Liu et.al.|[2310.03740](http://arxiv.org/abs/2310.03740)|null|
+|**2023-10-05**|**High-Degrees-of-Freedom Dynamic Neural Fields for Robot Self-Modeling and Motion Planning**|Lennart Schulze et.al.|[2310.03624](http://arxiv.org/abs/2310.03624)|null|
+|**2023-10-05**|**V2X Cooperative Perception for Autonomous Driving: Recent Advances and Challenges**|Tao Huang et.al.|[2310.03525](http://arxiv.org/abs/2310.03525)|null|
+|**2023-10-05**|**RadaRays: Real-time Simulation of Rotating FMCW Radar for Mobile Robotics via Hardware-accelerated Ray Tracing**|Alexander Mock et.al.|[2310.03505](http://arxiv.org/abs/2310.03505)|null|
+|**2023-10-05**|**A Two-stage Based Social Preference Recognition in Multi-Agent Autonomous Driving System**|Jintao Xue et.al.|[2310.03303](http://arxiv.org/abs/2310.03303)|null|
 |**2023-10-04**|**LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving**|Hao Sha et.al.|[2310.03026](http://arxiv.org/abs/2310.03026)|null|
 |**2023-10-04**|**Curve Trajectory Model for Human Preferred Path Planning of Automated Vehicles**|Gergo Igneczi et.al.|[2310.02696](http://arxiv.org/abs/2310.02696)|null|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|null|
