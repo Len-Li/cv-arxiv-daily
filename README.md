@@ -2624,7 +2624,7 @@
 |**2023-10-05**|**Enhanced Human-Robot Collaboration using Constrained Probabilistic Human-Motion Prediction**|Aadi Kothari et.al.|[2310.03314](http://arxiv.org/abs/2310.03314)|null|
 |**2023-10-04**|**Incorporating Target Vehicle Trajectories Predicted by Deep Learning Into Model Predictive Controlled Vehicles**|Ni Dang et.al.|[2310.02843](http://arxiv.org/abs/2310.02843)|null|
 |**2023-10-03**|**Video Transformers under Occlusion: How Physics and Background Attributes Impact Large Models for Robotic Manipulation**|Shutong Jin et.al.|[2310.02044](http://arxiv.org/abs/2310.02044)|**[link](https://github.com/shutongjin/occlumanip)**|
-|**2023-10-02**|**EAST: Environment Aware Safe Tracking using Planning and Control Co-Design**|Zhichao Li et.al.|[2310.01363](http://arxiv.org/abs/2310.01363)|null|
+|**2023-10-02**|**EAST: Environment Aware Safe Tracking using Planning and Control Co-Design**|Zhichao Li et.al.|[2310.01363](http://arxiv.org/abs/2310.01363)|**[link](https://github.com/zhl355/erl_east)**|
 |**2023-10-01**|**HOH: Markerless Multimodal Human-Object-Human Handover Dataset with Large Object Count**|Noah Wiederhold et.al.|[2310.00723](http://arxiv.org/abs/2310.00723)|null|
 |**2023-09-30**|**Smoothing Mixed Traffic with Robust Data-driven Predictive Control for Connected and Autonomous Vehicles**|Xu Shang et.al.|[2310.00509](http://arxiv.org/abs/2310.00509)|null|
 |**2023-09-29**|**Improving Trajectory Prediction in Dynamic Multi-Agent Environment by Dropping Waypoints**|Pranav Singh Chib et.al.|[2309.17338](http://arxiv.org/abs/2309.17338)|null|
@@ -2718,7 +2718,7 @@
 |**2023-10-05**|**A Two-stage Based Social Preference Recognition in Multi-Agent Autonomous Driving System**|Jintao Xue et.al.|[2310.03303](http://arxiv.org/abs/2310.03303)|null|
 |**2023-10-04**|**LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving**|Hao Sha et.al.|[2310.03026](http://arxiv.org/abs/2310.03026)|null|
 |**2023-10-04**|**Curve Trajectory Model for Human Preferred Path Planning of Automated Vehicles**|Gergo Igneczi et.al.|[2310.02696](http://arxiv.org/abs/2310.02696)|null|
-|**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|null|
+|**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 |**2023-10-03**|**Human-Like Autonomous Driving on Dense Traffic**|Mustafa Yildirim et.al.|[2310.02477](http://arxiv.org/abs/2310.02477)|null|
 |**2023-10-03**|**RSRD: A Road Surface Reconstruction Dataset and Benchmark for Safe and Comfortable Autonomous Driving**|Tong Zhao et.al.|[2310.02262](http://arxiv.org/abs/2310.02262)|null|
 |**2023-10-03**|**TransRadar: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation**|Yahia Dalbah et.al.|[2310.02260](http://arxiv.org/abs/2310.02260)|**[link](https://github.com/yahidar/transradar)**|
