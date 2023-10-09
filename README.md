@@ -1267,13 +1267,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Improving Neural Radiance Field using Near-Surface Sampling with Point Cloud Generation**|Hye Bin Yoo et.al.|[2310.04152](http://arxiv.org/abs/2310.04152)|null|
 |**2023-10-05**|**Targeted Adversarial Attacks on Generalizable Neural Radiance Fields**|Andras Horvath et.al.|[2310.03578](http://arxiv.org/abs/2310.03578)|null|
 |**2023-10-05**|**BID-NeRF: RGB-D image pose estimation with inverted Neural Radiance Fields**|Ágoston István Csehi et.al.|[2310.03563](http://arxiv.org/abs/2310.03563)|null|
 |**2023-10-05**|**Point-Based Radiance Fields for Controllable Human Motion Synthesis**|Haitao Yu et.al.|[2310.03375](http://arxiv.org/abs/2310.03375)|**[link](https://github.com/dehezhang2/point_based_nerf_editing)**|
 |**2023-10-04**|**Shielding the Unseen: Privacy Protection through Poisoning NeRF with Spatial Deformation**|Yihan Wu et.al.|[2310.03125](http://arxiv.org/abs/2310.03125)|null|
 |**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015](http://arxiv.org/abs/2310.03015)|null|
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
-|**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437](http://arxiv.org/abs/2310.02437)|null|
+|**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437](http://arxiv.org/abs/2310.02437)|**[link](https://github.com/anish-bhattacharya/evdnerf)**|
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881](http://arxiv.org/abs/2310.01881)|null|
 |**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821](http://arxiv.org/abs/2310.01821)|null|
 |**2023-10-02**|**PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2310.00874](http://arxiv.org/abs/2310.00874)|**[link](https://github.com/biter0088/pc-nerf)**|
@@ -1803,6 +1804,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Direct Photon Scattering by Plasmons in BiTeI**|A. C. Lee et.al.|[2310.04394](http://arxiv.org/abs/2310.04394)|null|
+|**2023-10-06**|**Matter-wave collimation to picokelvin energies with scattering length and potential shape control**|Alexander Herbst et.al.|[2310.04383](http://arxiv.org/abs/2310.04383)|null|
+|**2023-10-06**|**SwimXYZ: A large-scale dataset of synthetic swimming motions and videos**|Fiche Guénolé et.al.|[2310.04360](http://arxiv.org/abs/2310.04360)|null|
+|**2023-10-06**|**Functional Geometry Guided Protein Sequence and Backbone Structure Co-Design**|Zhenqiao Song et.al.|[2310.04343](http://arxiv.org/abs/2310.04343)|null|
+|**2023-10-06**|**Adjustable Robust Reinforcement Learning for Online 3D Bin Packing**|Yuxin Pan et.al.|[2310.04323](http://arxiv.org/abs/2310.04323)|null|
+|**2023-10-06**|**Three-dimensional characterization of the steel-concrete interface by FIB-SEM nanotomography**|Nicolas Ruffray et.al.|[2310.04322](http://arxiv.org/abs/2310.04322)|null|
+|**2023-10-06**|**Towards Non-contact 3D Ultrasound for Wrist Imaging**|Antony Jerald et.al.|[2310.04296](http://arxiv.org/abs/2310.04296)|null|
+|**2023-10-06**|**Searching for Optimal Runtime Assurance via Reachability and Reinforcement Learning**|Kristina Miller et.al.|[2310.04288](http://arxiv.org/abs/2310.04288)|null|
+|**2023-10-06**|**Towards 6D MCL for LiDARs in 3D TSDF Maps on Embedded Systems with GPUs**|Marc Eisoldt et.al.|[2310.04172](http://arxiv.org/abs/2310.04172)|null|
+|**2023-10-06**|**Improving Neural Radiance Field using Near-Surface Sampling with Point Cloud Generation**|Hye Bin Yoo et.al.|[2310.04152](http://arxiv.org/abs/2310.04152)|null|
 |**2023-10-05**|**Drag View: Generalizable Novel View Synthesis with Unposed Imagery**|Zhiwen Fan et.al.|[2310.03704](http://arxiv.org/abs/2310.03704)|null|
 |**2023-10-05**|**BrickStARt: Enabling In-situ Design and Tangible Exploration for Personal Fabrication using Mixed Reality**|Evgeny Stemasov et.al.|[2310.03700](http://arxiv.org/abs/2310.03700)|null|
 |**2023-10-05**|**POLYLLA: Polygonal/Polyhedral meshing algorithm based on terminal-edge regions and terminal-face regions**|Sergio Salinas-Fernández et.al.|[2310.03665](http://arxiv.org/abs/2310.03665)|null|
@@ -2620,6 +2631,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**The WayHome: Long-term Motion Prediction on Dynamically Scaled**|Kay Scheerer et.al.|[2310.04232](http://arxiv.org/abs/2310.04232)|null|
 |**2023-10-05**|**Probabilistic Generative Modeling for Procedural Roundabout Generation for Developing Countries**|Zarif Ikram et.al.|[2310.03687](http://arxiv.org/abs/2310.03687)|null|
 |**2023-10-05**|**Enhanced Human-Robot Collaboration using Constrained Probabilistic Human-Motion Prediction**|Aadi Kothari et.al.|[2310.03314](http://arxiv.org/abs/2310.03314)|null|
 |**2023-10-04**|**Incorporating Target Vehicle Trajectories Predicted by Deep Learning Into Model Predictive Controlled Vehicles**|Ni Dang et.al.|[2310.02843](http://arxiv.org/abs/2310.02843)|null|
@@ -2711,6 +2723,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**DiffPrompter: Differentiable Implicit Visual Prompts for Semantic-Segmentation in Adverse Conditions**|Sanket Kalwar et.al.|[2310.04181](http://arxiv.org/abs/2310.04181)|null|
 |**2023-10-05**|**ContactGen: Generative Contact Modeling for Grasp Generation**|Shaowei Liu et.al.|[2310.03740](http://arxiv.org/abs/2310.03740)|null|
 |**2023-10-05**|**High-Degrees-of-Freedom Dynamic Neural Fields for Robot Self-Modeling and Motion Planning**|Lennart Schulze et.al.|[2310.03624](http://arxiv.org/abs/2310.03624)|null|
 |**2023-10-05**|**V2X Cooperative Perception for Autonomous Driving: Recent Advances and Challenges**|Tao Huang et.al.|[2310.03525](http://arxiv.org/abs/2310.03525)|null|
