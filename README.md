@@ -1267,6 +1267,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**A Real-time Method for Inserting Virtual Objects into Neural Radiance Fields**|Keyang Ye et.al.|[2310.05837](http://arxiv.org/abs/2310.05837)|null|
+|**2023-10-09**|**Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation**|Ruiyang Liu et.al.|[2310.05391](http://arxiv.org/abs/2310.05391)|null|
+|**2023-10-08**|**LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**|Artem Nenashev et.al.|[2310.05134](http://arxiv.org/abs/2310.05134)|null|
+|**2023-10-08**|**Geometry Aware Field-to-field Transformations for 3D Semantic Segmentation**|Dominik Hollidt et.al.|[2310.05133](http://arxiv.org/abs/2310.05133)|null|
 |**2023-10-06**|**Improving Neural Radiance Field using Near-Surface Sampling with Point Cloud Generation**|Hye Bin Yoo et.al.|[2310.04152](http://arxiv.org/abs/2310.04152)|null|
 |**2023-10-05**|**Targeted Adversarial Attacks on Generalizable Neural Radiance Fields**|Andras Horvath et.al.|[2310.03578](http://arxiv.org/abs/2310.03578)|null|
 |**2023-10-05**|**BID-NeRF: RGB-D image pose estimation with inverted Neural Radiance Fields**|Ágoston István Csehi et.al.|[2310.03563](http://arxiv.org/abs/2310.03563)|null|
@@ -1804,6 +1808,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**Resolvent expansions of 3D magnetic Schrödinger operators and Pauli operators**|Arne Jensen et.al.|[2310.05874](http://arxiv.org/abs/2310.05874)|null|
+|**2023-10-09**|**Modeling a Coronal Mass Ejection from an Extended Filament Channel. II. Interplanetary Propagation to 1 au**|Erika Palmerio et.al.|[2310.05846](http://arxiv.org/abs/2310.05846)|null|
+|**2023-10-09**|**A Real-time Method for Inserting Virtual Objects into Neural Radiance Fields**|Keyang Ye et.al.|[2310.05837](http://arxiv.org/abs/2310.05837)|null|
+|**2023-10-09**|**Of heading, posture and body rotations derived from data acquired by animal-borne accelerometers, magnetometers and gyrometers, kernel density estimation of the corresponding spherical distributions, and fine-scale movement reconstruction**|Simon Benhamou et.al.|[2310.05820](http://arxiv.org/abs/2310.05820)|null|
+|**2023-10-09**|**Dipole-Spread Function Engineering for 6D Super-Resolution Microscopy**|Tingting Wu et.al.|[2310.05810](http://arxiv.org/abs/2310.05810)|null|
+|**2023-10-09**|**Joint object detection and re-identification for 3D obstacle multi-camera systems**|Irene Cortés et.al.|[2310.05785](http://arxiv.org/abs/2310.05785)|null|
+|**2023-10-09**|**Harmonic Self-Conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design**|Hannes Stärk et.al.|[2310.05764](http://arxiv.org/abs/2310.05764)|null|
+|**2023-10-09**|**3D tomatoes' localisation with monocular cameras using histogram filters**|Sandro Costa Magalhães et.al.|[2310.05762](http://arxiv.org/abs/2310.05762)|null|
+|**2023-10-09**|**STOPNet: Multiview-based 6-DoF Suction Detection for Transparent Objects on Production Lines**|Yuxuan Kuang et.al.|[2310.05717](http://arxiv.org/abs/2310.05717)|null|
+|**2023-10-09**|**Uni3DETR: Unified 3D Detection Transformer**|Zhenyu Wang et.al.|[2310.05699](http://arxiv.org/abs/2310.05699)|**[link](https://github.com/zhenyuw16/uni3detr)**|
 |**2023-10-06**|**Direct Photon Scattering by Plasmons in BiTeI**|A. C. Lee et.al.|[2310.04394](http://arxiv.org/abs/2310.04394)|null|
 |**2023-10-06**|**Matter-wave collimation to picokelvin energies with scattering length and potential shape control**|Alexander Herbst et.al.|[2310.04383](http://arxiv.org/abs/2310.04383)|null|
 |**2023-10-06**|**SwimXYZ: A large-scale dataset of synthetic swimming motions and videos**|Fiche Guénolé et.al.|[2310.04360](http://arxiv.org/abs/2310.04360)|null|
@@ -2631,6 +2645,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**DTPP: Differentiable Joint Conditional Prediction and Cost Evaluation for Tree Policy Planning in Autonomous Driving**|Zhiyu Huang et.al.|[2310.05885](http://arxiv.org/abs/2310.05885)|null|
+|**2023-10-09**|**SocialCircle: Learning the Angle-based Social Interaction Representation for Pedestrian Trajectory Prediction**|Conghao Wong et.al.|[2310.05370](http://arxiv.org/abs/2310.05370)|**[link](https://github.com/cocoon2wong/socialcircle)**|
+|**2023-10-08**|**MSight: An Edge-Cloud Infrastructure-based Perception System for Connected Automated Vehicles**|Rusheng Zhang et.al.|[2310.05290](http://arxiv.org/abs/2310.05290)|null|
 |**2023-10-06**|**The WayHome: Long-term Motion Prediction on Dynamically Scaled**|Kay Scheerer et.al.|[2310.04232](http://arxiv.org/abs/2310.04232)|null|
 |**2023-10-05**|**Probabilistic Generative Modeling for Procedural Roundabout Generation for Developing Countries**|Zarif Ikram et.al.|[2310.03687](http://arxiv.org/abs/2310.03687)|null|
 |**2023-10-05**|**Enhanced Human-Robot Collaboration using Constrained Probabilistic Human-Motion Prediction**|Aadi Kothari et.al.|[2310.03314](http://arxiv.org/abs/2310.03314)|null|
@@ -2723,6 +2740,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**DTPP: Differentiable Joint Conditional Prediction and Cost Evaluation for Tree Policy Planning in Autonomous Driving**|Zhiyu Huang et.al.|[2310.05885](http://arxiv.org/abs/2310.05885)|null|
+|**2023-10-09**|**Joint object detection and re-identification for 3D obstacle multi-camera systems**|Irene Cortés et.al.|[2310.05785](http://arxiv.org/abs/2310.05785)|null|
+|**2023-10-09**|**GPS Attack Detection and Mitigation for Safe Autonomous Driving using Image and Map based Lateral Direction Localization**|Qingming Chen et.al.|[2310.05407](http://arxiv.org/abs/2310.05407)|null|
+|**2023-10-08**|**Influence of Camera-LiDAR Configuration on 3D Object Detection for Autonomous Driving**|Ye Li et.al.|[2310.05245](http://arxiv.org/abs/2310.05245)|null|
+|**2023-10-08**|**Indoor Localization for an Autonomous Model Car: A Marker-Based Multi-Sensor Fusion Framework**|Xibo Li et.al.|[2310.05198](http://arxiv.org/abs/2310.05198)|null|
+|**2023-10-08**|**DeepQTest: Testing Autonomous Driving Systems with Reinforcement Learning and Real-world Weather Data**|Chengjie Lu et.al.|[2310.05170](http://arxiv.org/abs/2310.05170)|**[link](https://github.com/simula-complex/deepqtest)**|
+|**2023-10-08**|**A Privacy-Preserving Trajectory Synthesis Method Based on Vector Translation Invariance Supporting Traffic Constraints**|Zechen Liu et.al.|[2310.05091](http://arxiv.org/abs/2310.05091)|null|
+|**2023-10-08**|**An Anomaly Behavior Analysis Framework for Securing Autonomous Vehicle Perception**|Murad Mehrab Abrar et.al.|[2310.05041](http://arxiv.org/abs/2310.05041)|null|
+|**2023-10-07**|**Combining UPerNet and ConvNeXt for Contrails Identification to reduce Global Warming**|Zhenkuan Wang et.al.|[2310.04808](http://arxiv.org/abs/2310.04808)|null|
+|**2023-10-07**|**Towards Dynamic and Small Objects Refinement for Unsupervised Domain Adaptative Nighttime Semantic Segmentation**|Jingyi Pan et.al.|[2310.04747](http://arxiv.org/abs/2310.04747)|null|
 |**2023-10-06**|**DiffPrompter: Differentiable Implicit Visual Prompts for Semantic-Segmentation in Adverse Conditions**|Sanket Kalwar et.al.|[2310.04181](http://arxiv.org/abs/2310.04181)|null|
 |**2023-10-05**|**ContactGen: Generative Contact Modeling for Grasp Generation**|Shaowei Liu et.al.|[2310.03740](http://arxiv.org/abs/2310.03740)|null|
 |**2023-10-05**|**High-Degrees-of-Freedom Dynamic Neural Fields for Robot Self-Modeling and Motion Planning**|Lennart Schulze et.al.|[2310.03624](http://arxiv.org/abs/2310.03624)|null|
