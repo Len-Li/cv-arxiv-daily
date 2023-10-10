@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.09
+## Updated on 2023.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -422,7 +422,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## SFM
 
@@ -529,7 +529,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -967,7 +967,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1115,7 +1115,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1261,7 +1261,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## NeRF
 
@@ -1798,7 +1798,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## 3D
 
@@ -1812,7 +1812,7 @@
 |**2023-10-06**|**Three-dimensional characterization of the steel-concrete interface by FIB-SEM nanotomography**|Nicolas Ruffray et.al.|[2310.04322](http://arxiv.org/abs/2310.04322)|null|
 |**2023-10-06**|**Towards Non-contact 3D Ultrasound for Wrist Imaging**|Antony Jerald et.al.|[2310.04296](http://arxiv.org/abs/2310.04296)|null|
 |**2023-10-06**|**Searching for Optimal Runtime Assurance via Reachability and Reinforcement Learning**|Kristina Miller et.al.|[2310.04288](http://arxiv.org/abs/2310.04288)|null|
-|**2023-10-06**|**Towards 6D MCL for LiDARs in 3D TSDF Maps on Embedded Systems with GPUs**|Marc Eisoldt et.al.|[2310.04172](http://arxiv.org/abs/2310.04172)|null|
+|**2023-10-06**|**Towards 6D MCL for LiDARs in 3D TSDF Maps on Embedded Systems with GPUs**|Marc Eisoldt et.al.|[2310.04172](http://arxiv.org/abs/2310.04172)|**[link](https://github.com/uos/tsdf_localization)**|
 |**2023-10-06**|**Improving Neural Radiance Field using Near-Surface Sampling with Point Cloud Generation**|Hye Bin Yoo et.al.|[2310.04152](http://arxiv.org/abs/2310.04152)|null|
 |**2023-10-05**|**Drag View: Generalizable Novel View Synthesis with Unposed Imagery**|Zhiwen Fan et.al.|[2310.03704](http://arxiv.org/abs/2310.03704)|null|
 |**2023-10-05**|**BrickStARt: Enabling In-situ Design and Tangible Exploration for Personal Fabrication using Mixed Reality**|Evgeny Stemasov et.al.|[2310.03700](http://arxiv.org/abs/2310.03700)|null|
@@ -2625,7 +2625,7 @@
 |**2023-06-07**|**Blowup analysis for a quasi-exact 1D model of 3D Euler and Navier-Stokes**|Thomas Y. Hou et.al.|[2306.04146](http://arxiv.org/abs/2306.04146)|null|
 |**2023-06-07**|**Magnetic Flux Budget in Mean-Field Dynamo Model of Solar Cycles 23 and 24**|V. V. Pipin et.al.|[2306.04124](http://arxiv.org/abs/2306.04124)|null|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -2699,7 +2699,7 @@
 |**2023-08-10**|**Effects of Dynamic and Stochastic Travel Times on the Operation of Mobility-on-Demand Services**|Fynn Wolf et.al.|[2308.05535](http://arxiv.org/abs/2308.05535)|null|
 |**2023-08-09**|**Joint-Relation Transformer for Multi-Person Motion Prediction**|Qingyao Xu et.al.|[2308.04808](http://arxiv.org/abs/2308.04808)|**[link](https://github.com/mediabrain-sjtu/jrtransformer)**|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## Industry
 
@@ -2717,7 +2717,7 @@
 |**2023-04-19**|**NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models**|Seung Wook Kim et.al.|[2304.09787](http://arxiv.org/abs/2304.09787)|null|
 |**2023-04-18**|**Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models**|Andreas Blattmann et.al.|[2304.08818](http://arxiv.org/abs/2304.08818)|null|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -2727,7 +2727,7 @@
 |**2023-10-05**|**ContactGen: Generative Contact Modeling for Grasp Generation**|Shaowei Liu et.al.|[2310.03740](http://arxiv.org/abs/2310.03740)|null|
 |**2023-10-05**|**High-Degrees-of-Freedom Dynamic Neural Fields for Robot Self-Modeling and Motion Planning**|Lennart Schulze et.al.|[2310.03624](http://arxiv.org/abs/2310.03624)|null|
 |**2023-10-05**|**V2X Cooperative Perception for Autonomous Driving: Recent Advances and Challenges**|Tao Huang et.al.|[2310.03525](http://arxiv.org/abs/2310.03525)|null|
-|**2023-10-05**|**RadaRays: Real-time Simulation of Rotating FMCW Radar for Mobile Robotics via Hardware-accelerated Ray Tracing**|Alexander Mock et.al.|[2310.03505](http://arxiv.org/abs/2310.03505)|null|
+|**2023-10-05**|**RadaRays: Real-time Simulation of Rotating FMCW Radar for Mobile Robotics via Hardware-accelerated Ray Tracing**|Alexander Mock et.al.|[2310.03505](http://arxiv.org/abs/2310.03505)|**[link](https://github.com/uos/radarays_ros)**|
 |**2023-10-05**|**A Two-stage Based Social Preference Recognition in Multi-Agent Autonomous Driving System**|Jintao Xue et.al.|[2310.03303](http://arxiv.org/abs/2310.03303)|null|
 |**2023-10-04**|**LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving**|Hao Sha et.al.|[2310.03026](http://arxiv.org/abs/2310.03026)|null|
 |**2023-10-04**|**Curve Trajectory Model for Human Preferred Path Planning of Automated Vehicles**|Gergo Igneczi et.al.|[2310.02696](http://arxiv.org/abs/2310.02696)|null|
@@ -2867,7 +2867,7 @@
 |**2023-08-31**|**Edge-Assisted Lightweight Region-of-Interest Extraction and Transmission for Vehicle Perception**|Yan Cheng et.al.|[2308.16417](http://arxiv.org/abs/2308.16417)|null|
 |**2023-08-30**|**DRL-Based Trajectory Tracking for Motion-Related Modules in Autonomous Driving**|Yinda Xu et.al.|[2308.15991](http://arxiv.org/abs/2308.15991)|null|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
