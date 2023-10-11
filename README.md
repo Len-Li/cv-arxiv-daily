@@ -1267,6 +1267,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field**|Minghan Qin et.al.|[2310.06275](http://arxiv.org/abs/2310.06275)|null|
 |**2023-10-09**|**A Real-time Method for Inserting Virtual Objects into Neural Radiance Fields**|Keyang Ye et.al.|[2310.05837](http://arxiv.org/abs/2310.05837)|null|
 |**2023-10-09**|**Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation**|Ruiyang Liu et.al.|[2310.05391](http://arxiv.org/abs/2310.05391)|null|
 |**2023-10-08**|**LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**|Artem Nenashev et.al.|[2310.05134](http://arxiv.org/abs/2310.05134)|null|
@@ -1808,6 +1809,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836](http://arxiv.org/abs/2310.06836)|null|
+|**2023-10-10**|**3D simulations of the Archean Earth including photochemical haze profiles**|M. T. Mak et.al.|[2310.06818](http://arxiv.org/abs/2310.06818)|null|
+|**2023-10-10**|**Uni3D: Exploring Unified 3D Representation at Scale**|Junsheng Zhou et.al.|[2310.06773](http://arxiv.org/abs/2310.06773)|**[link](https://github.com/baaivision/uni3d)**|
+|**2023-10-10**|**TopoMLP: An Simple yet Strong Pipeline for Driving Topology Reasoning**|Dongming Wu et.al.|[2310.06753](http://arxiv.org/abs/2310.06753)|**[link](https://github.com/wudongming97/topomlp)**|
+|**2023-10-10**|**Unraveling the Thermodynamic Enigma between Fast and Slow Coronal Mass Ejections**|Soumyaranjan Khuntia et.al.|[2310.06750](http://arxiv.org/abs/2310.06750)|null|
+|**2023-10-10**|**HiFi-123: Towards High-fidelity One Image to 3D Content Generation**|Wangbo Yu et.al.|[2310.06744](http://arxiv.org/abs/2310.06744)|null|
+|**2023-10-10**|**A numerical investigation of quasi-static magnetoconvection with an imposed horizontal magnetic field**|Michael A. Calkins et.al.|[2310.06683](http://arxiv.org/abs/2310.06683)|null|
+|**2023-10-10**|**On the importance of catalyst-adsorbate 3D interactions for relaxed energy predictions**|Alvaro Carbonero et.al.|[2310.06682](http://arxiv.org/abs/2310.06682)|null|
+|**2023-10-10**|**Zero-Level-Set Encoder for Neural Distance Fields**|Stefan Rhys Jeske et.al.|[2310.06644](http://arxiv.org/abs/2310.06644)|null|
+|**2023-10-10**|**Fate of critical fluctuations in an interacting hadronic medium using maximum entropy distributions**|Jan Hammelmann et.al.|[2310.06636](http://arxiv.org/abs/2310.06636)|null|
 |**2023-10-09**|**Resolvent expansions of 3D magnetic Schrödinger operators and Pauli operators**|Arne Jensen et.al.|[2310.05874](http://arxiv.org/abs/2310.05874)|null|
 |**2023-10-09**|**Modeling a Coronal Mass Ejection from an Extended Filament Channel. II. Interplanetary Propagation to 1 au**|Erika Palmerio et.al.|[2310.05846](http://arxiv.org/abs/2310.05846)|null|
 |**2023-10-09**|**A Real-time Method for Inserting Virtual Objects into Neural Radiance Fields**|Keyang Ye et.al.|[2310.05837](http://arxiv.org/abs/2310.05837)|null|
@@ -2645,6 +2656,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**EARL: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation**|Baichuan Huang et.al.|[2310.06751](http://arxiv.org/abs/2310.06751)|null|
+|**2023-10-10**|**TANGO: Time-Reversal Latent GraphODE for Multi-Agent Dynamical Systems**|Zijie Huang et.al.|[2310.06427](http://arxiv.org/abs/2310.06427)|null|
+|**2023-10-09**|**Layout Sequence Prediction From Noisy Mobile Modality**|Haichao Zhang et.al.|[2310.06138](http://arxiv.org/abs/2310.06138)|null|
 |**2023-10-09**|**DTPP: Differentiable Joint Conditional Prediction and Cost Evaluation for Tree Policy Planning in Autonomous Driving**|Zhiyu Huang et.al.|[2310.05885](http://arxiv.org/abs/2310.05885)|null|
 |**2023-10-09**|**SocialCircle: Learning the Angle-based Social Interaction Representation for Pedestrian Trajectory Prediction**|Conghao Wong et.al.|[2310.05370](http://arxiv.org/abs/2310.05370)|**[link](https://github.com/cocoon2wong/socialcircle)**|
 |**2023-10-08**|**MSight: An Edge-Cloud Infrastructure-based Perception System for Connected Automated Vehicles**|Rusheng Zhang et.al.|[2310.05290](http://arxiv.org/abs/2310.05290)|null|
@@ -2740,6 +2754,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**TopoMLP: An Simple yet Strong Pipeline for Driving Topology Reasoning**|Dongming Wu et.al.|[2310.06753](http://arxiv.org/abs/2310.06753)|**[link](https://github.com/wudongming97/topomlp)**|
+|**2023-10-10**|**Safe-by-Construction Autonomous Vehicle Overtaking using Control Barrier Functions and Model Predictive Control**|Dingran Yuan et.al.|[2310.06553](http://arxiv.org/abs/2310.06553)|null|
+|**2023-10-09**|**Layout Sequence Prediction From Noisy Mobile Modality**|Haichao Zhang et.al.|[2310.06138](http://arxiv.org/abs/2310.06138)|null|
 |**2023-10-09**|**DTPP: Differentiable Joint Conditional Prediction and Cost Evaluation for Tree Policy Planning in Autonomous Driving**|Zhiyu Huang et.al.|[2310.05885](http://arxiv.org/abs/2310.05885)|null|
 |**2023-10-09**|**Joint object detection and re-identification for 3D obstacle multi-camera systems**|Irene Cortés et.al.|[2310.05785](http://arxiv.org/abs/2310.05785)|null|
 |**2023-10-09**|**GPS Attack Detection and Mitigation for Safe Autonomous Driving using Image and Map based Lateral Direction Localization**|Qingming Chen et.al.|[2310.05407](http://arxiv.org/abs/2310.05407)|null|
