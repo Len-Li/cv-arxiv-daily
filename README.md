@@ -1267,6 +1267,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**rpcPRF: Generalizable MPI Neural Radiance Field for Satellite Camera**|Tongtong Zhang et.al.|[2310.07179](http://arxiv.org/abs/2310.07179)|null|
+|**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984](http://arxiv.org/abs/2310.06984)|null|
 |**2023-10-10**|**High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field**|Minghan Qin et.al.|[2310.06275](http://arxiv.org/abs/2310.06275)|null|
 |**2023-10-09**|**A Real-time Method for Inserting Virtual Objects into Neural Radiance Fields**|Keyang Ye et.al.|[2310.05837](http://arxiv.org/abs/2310.05837)|null|
 |**2023-10-09**|**Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation**|Ruiyang Liu et.al.|[2310.05391](http://arxiv.org/abs/2310.05391)|null|
@@ -1809,6 +1811,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection**|Qiang Zhou et.al.|[2310.07716](http://arxiv.org/abs/2310.07716)|**[link](https://github.com/ericlee0224/pad)**|
+|**2023-10-11**|**ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation**|Bo Peng et.al.|[2310.07697](http://arxiv.org/abs/2310.07697)|null|
+|**2023-10-11**|**Orbital Polarimetric Tomography of a Flare Near the Sagittarius A* Supermassive Black Hole**|Aviad Levis et.al.|[2310.07687](http://arxiv.org/abs/2310.07687)|null|
+|**2023-10-11**|**Surgery Constructions for 3d Theories, Part I: Matter Circles and Links**|Shi Cheng et.al.|[2310.07624](http://arxiv.org/abs/2310.07624)|null|
+|**2023-10-11**|**Dual Quaternion Rotational and Translational Equivariance in 3D Rigid Motion Modelling**|Guilherme Vieira et.al.|[2310.07623](http://arxiv.org/abs/2310.07623)|null|
+|**2023-10-11**|**Dual Radar: A Multi-modal Dataset with Dual 4D Radar for Autononous Driving**|Xinyu Zhang et.al.|[2310.07602](http://arxiv.org/abs/2310.07602)|**[link](https://github.com/adept-thu/dual-radar)**|
+|**2023-10-11**|**ROMO: Retrieval-enhanced Offline Model-based Optimization**|Mingcheng Chen et.al.|[2310.07560](http://arxiv.org/abs/2310.07560)|null|
+|**2023-10-11**|**S4C: Self-Supervised Semantic Scene Completion with Neural Fields**|Adrian Hayler et.al.|[2310.07522](http://arxiv.org/abs/2310.07522)|null|
+|**2023-10-11**|**Heuristic Vision Pre-Training with Self-Supervised and Supervised Multi-Task Learning**|Zhiming Qian et.al.|[2310.07510](http://arxiv.org/abs/2310.07510)|null|
+|**2023-10-11**|**Analytical Die-to-Die 3D Placement with Bistratal Wirelength Model and GPU Acceleration**|Peiyu Liao et.al.|[2310.07424](http://arxiv.org/abs/2310.07424)|null|
 |**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836](http://arxiv.org/abs/2310.06836)|null|
 |**2023-10-10**|**3D simulations of the Archean Earth including photochemical haze profiles**|M. T. Mak et.al.|[2310.06818](http://arxiv.org/abs/2310.06818)|null|
 |**2023-10-10**|**Uni3D: Exploring Unified 3D Representation at Scale**|Junsheng Zhou et.al.|[2310.06773](http://arxiv.org/abs/2310.06773)|**[link](https://github.com/baaivision/uni3d)**|
@@ -2656,6 +2668,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**Pixel State Value Network for Combined Prediction and Planning in Interactive Environments**|Sascha Rosbach et.al.|[2310.07706](http://arxiv.org/abs/2310.07706)|null|
+|**2023-10-11**|**DESTINE: Dynamic Goal Queries with Temporal Transductive Alignment for Trajectory Prediction**|Rezaul Karim et.al.|[2310.07438](http://arxiv.org/abs/2310.07438)|null|
 |**2023-10-10**|**EARL: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation**|Baichuan Huang et.al.|[2310.06751](http://arxiv.org/abs/2310.06751)|null|
 |**2023-10-10**|**TANGO: Time-Reversal Latent GraphODE for Multi-Agent Dynamical Systems**|Zijie Huang et.al.|[2310.06427](http://arxiv.org/abs/2310.06427)|null|
 |**2023-10-09**|**Layout Sequence Prediction From Noisy Mobile Modality**|Haichao Zhang et.al.|[2310.06138](http://arxiv.org/abs/2310.06138)|null|
@@ -2754,6 +2768,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**Dual Radar: A Multi-modal Dataset with Dual 4D Radar for Autononous Driving**|Xinyu Zhang et.al.|[2310.07602](http://arxiv.org/abs/2310.07602)|**[link](https://github.com/adept-thu/dual-radar)**|
+|**2023-10-11**|**Metamorphic Runtime Monitoring of Autonomous Driving Systems**|Jon Ayerdi et.al.|[2310.07414](http://arxiv.org/abs/2310.07414)|null|
+|**2023-10-11**|**LESS-Map: Lightweight and Evolving Semantic Map in Parking Lots for Long-term Self-Localization**|Mingrui Liu et.al.|[2310.07390](http://arxiv.org/abs/2310.07390)|null|
+|**2023-10-11**|**Optimizing the Placement of Roadside LiDARs for Autonomous Driving**|Wentao Jiang et.al.|[2310.07247](http://arxiv.org/abs/2310.07247)|null|
+|**2023-10-11**|**Integrated Sensing and Communication enabled Multiple Base Stations Cooperative Sensing Towards 6G**|Zhiqing Wei et.al.|[2310.07180](http://arxiv.org/abs/2310.07180)|null|
 |**2023-10-10**|**TopoMLP: An Simple yet Strong Pipeline for Driving Topology Reasoning**|Dongming Wu et.al.|[2310.06753](http://arxiv.org/abs/2310.06753)|**[link](https://github.com/wudongming97/topomlp)**|
 |**2023-10-10**|**Safe-by-Construction Autonomous Vehicle Overtaking using Control Barrier Functions and Model Predictive Control**|Dingran Yuan et.al.|[2310.06553](http://arxiv.org/abs/2310.06553)|null|
 |**2023-10-09**|**Layout Sequence Prediction From Noisy Mobile Modality**|Haichao Zhang et.al.|[2310.06138](http://arxiv.org/abs/2310.06138)|null|
