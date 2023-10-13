@@ -1245,6 +1245,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**Dynamic Appearance Particle Neural Radiance Field**|Ancheng Lin et.al.|[2310.07916](http://arxiv.org/abs/2310.07916)|null|
 |**2023-10-11**|**rpcPRF: Generalizable MPI Neural Radiance Field for Satellite Camera**|Tongtong Zhang et.al.|[2310.07179](http://arxiv.org/abs/2310.07179)|null|
 |**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984](http://arxiv.org/abs/2310.06984)|null|
 |**2023-10-10**|**High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field**|Minghan Qin et.al.|[2310.06275](http://arxiv.org/abs/2310.06275)|null|
@@ -1787,6 +1788,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**PonderV2: Pave the Way for 3D Foundataion Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586](http://arxiv.org/abs/2310.08586)|null|
+|**2023-10-12**|**Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes**|Haotong Lin et.al.|[2310.08585](http://arxiv.org/abs/2310.08585)|null|
+|**2023-10-12**|**$T$ -linear conductance in electron hydrodynamics**|Serhii Kryhin et.al.|[2310.08556](http://arxiv.org/abs/2310.08556)|null|
+|**2023-10-12**|**GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors**|Taoran Yi et.al.|[2310.08529](http://arxiv.org/abs/2310.08529)|null|
+|**2023-10-12**|**Curved-crease origami for morphing metamaterials**|Asma Karami et.al.|[2310.08520](http://arxiv.org/abs/2310.08520)|null|
+|**2023-10-12**|**Abelian Higgs gauge theories with multicomponent scalar fields and multiparameter scalar potentials**|Claudio Bonati et.al.|[2310.08504](http://arxiv.org/abs/2310.08504)|null|
+|**2023-10-12**|**MUN-FRL: A Visual Inertial LiDAR Dataset for Aerial Autonomous Navigation and Mapping**|Ravindu G. Thalagala et.al.|[2310.08435](http://arxiv.org/abs/2310.08435)|null|
+|**2023-10-12**|**UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**|Honghui Yang et.al.|[2310.08370](http://arxiv.org/abs/2310.08370)|null|
+|**2023-10-12**|**Nonlinear magnetic buoyancy instability and turbulent dynamo**|Yasin Qazi et.al.|[2310.08354](http://arxiv.org/abs/2310.08354)|null|
+|**2023-10-12**|**Bootstrapping Deconfined Quantum Tricriticality**|Shai M. Chester et.al.|[2310.08343](http://arxiv.org/abs/2310.08343)|null|
 |**2023-10-11**|**PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection**|Qiang Zhou et.al.|[2310.07716](http://arxiv.org/abs/2310.07716)|**[link](https://github.com/ericlee0224/pad)**|
 |**2023-10-11**|**ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation**|Bo Peng et.al.|[2310.07697](http://arxiv.org/abs/2310.07697)|null|
 |**2023-10-11**|**Orbital Polarimetric Tomography of a Flare Near the Sagittarius A* Supermassive Black Hole**|Aviad Levis et.al.|[2310.07687](http://arxiv.org/abs/2310.07687)|null|
@@ -2642,6 +2653,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**Hilbert Space Embedding-based Trajectory Optimization for Multi-Modal Uncertain Obstacle Trajectory Prediction**|Basant Sharma et.al.|[2310.08270](http://arxiv.org/abs/2310.08270)|null|
+|**2023-10-12**|**Multi-Modal Sensor Fusion and Object Tracking for Autonomous Racing**|Phillip Karle et.al.|[2310.08114](http://arxiv.org/abs/2310.08114)|null|
+|**2023-10-11**|**CRITERIA: a New Benchmarking Paradigm for Evaluating Trajectory Prediction Models for Autonomous Driving**|Changhe Chen et.al.|[2310.07794](http://arxiv.org/abs/2310.07794)|null|
 |**2023-10-11**|**Pixel State Value Network for Combined Prediction and Planning in Interactive Environments**|Sascha Rosbach et.al.|[2310.07706](http://arxiv.org/abs/2310.07706)|null|
 |**2023-10-11**|**DESTINE: Dynamic Goal Queries with Temporal Transductive Alignment for Trajectory Prediction**|Rezaul Karim et.al.|[2310.07438](http://arxiv.org/abs/2310.07438)|null|
 |**2023-10-10**|**EARL: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation**|Baichuan Huang et.al.|[2310.06751](http://arxiv.org/abs/2310.06751)|null|
@@ -2738,6 +2752,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**Performance/power assessment of CNN packages on embedded automotive platforms**|Paolo Burgio et.al.|[2310.08401](http://arxiv.org/abs/2310.08401)|null|
+|**2023-10-12**|**UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**|Honghui Yang et.al.|[2310.08370](http://arxiv.org/abs/2310.08370)|null|
+|**2023-10-12**|**Impact of multi-armed bandit strategies on deep recurrent reinforcement learning**|Valentina Zangirolami et.al.|[2310.08331](http://arxiv.org/abs/2310.08331)|null|
+|**2023-10-12**|**NSM4D: Neural Scene Model Based Online 4D Point Cloud Sequence Understanding**|Yuhao Dong et.al.|[2310.08326](http://arxiv.org/abs/2310.08326)|null|
+|**2023-10-12**|**If our aim is to build morality into an artificial agent, how might we begin to go about doing so?**|Reneira Seeamber et.al.|[2310.08295](http://arxiv.org/abs/2310.08295)|null|
+|**2023-10-12**|**Hilbert Space Embedding-based Trajectory Optimization for Multi-Modal Uncertain Obstacle Trajectory Prediction**|Basant Sharma et.al.|[2310.08270](http://arxiv.org/abs/2310.08270)|null|
+|**2023-10-12**|**GraphAlign: Enhancing Accurate Feature Alignment by Graph matching for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2310.08261](http://arxiv.org/abs/2310.08261)|null|
+|**2023-10-12**|**DUSA: Decoupled Unsupervised Sim2Real Adaptation for Vehicle-to-Everything Collaborative Perception**|Xianghao Kong et.al.|[2310.08117](http://arxiv.org/abs/2310.08117)|**[link](https://github.com/refkxh/DUSA)**|
+|**2023-10-12**|**Model Predictive Inferential Control of Neural State-Space Models for Autonomous Vehicle Motion Planning**|Iman Askari et.al.|[2310.08045](http://arxiv.org/abs/2310.08045)|null|
+|**2023-10-12**|**EC-Depth: Exploring the consistency of self-supervised monocular depth estimation under challenging scenes**|Ruijie Zhu et.al.|[2310.08044](http://arxiv.org/abs/2310.08044)|**[link](https://github.com/RuijieZhu94/EC-Depth)**|
 |**2023-10-11**|**Dual Radar: A Multi-modal Dataset with Dual 4D Radar for Autononous Driving**|Xinyu Zhang et.al.|[2310.07602](http://arxiv.org/abs/2310.07602)|**[link](https://github.com/adept-thu/dual-radar)**|
 |**2023-10-11**|**Metamorphic Runtime Monitoring of Autonomous Driving Systems**|Jon Ayerdi et.al.|[2310.07414](http://arxiv.org/abs/2310.07414)|null|
 |**2023-10-11**|**LESS-Map: Lightweight and Evolving Semantic Map in Parking Lots for Long-term Self-Localization**|Mingrui Liu et.al.|[2310.07390](http://arxiv.org/abs/2310.07390)|null|
