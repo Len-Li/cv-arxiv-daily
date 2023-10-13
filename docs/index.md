@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.12
+## Updated on 2023.10.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1794,9 +1794,9 @@ layout: default
 |**2023-10-11**|**Dual Quaternion Rotational and Translational Equivariance in 3D Rigid Motion Modelling**|Guilherme Vieira et.al.|[2310.07623](http://arxiv.org/abs/2310.07623)|null|
 |**2023-10-11**|**Dual Radar: A Multi-modal Dataset with Dual 4D Radar for Autononous Driving**|Xinyu Zhang et.al.|[2310.07602](http://arxiv.org/abs/2310.07602)|**[link](https://github.com/adept-thu/dual-radar)**|
 |**2023-10-11**|**ROMO: Retrieval-enhanced Offline Model-based Optimization**|Mingcheng Chen et.al.|[2310.07560](http://arxiv.org/abs/2310.07560)|null|
-|**2023-10-11**|**S4C: Self-Supervised Semantic Scene Completion with Neural Fields**|Adrian Hayler et.al.|[2310.07522](http://arxiv.org/abs/2310.07522)|null|
+|**2023-10-12**|**S4C: Self-Supervised Semantic Scene Completion with Neural Fields**|Adrian Hayler et.al.|[2310.07522](http://arxiv.org/abs/2310.07522)|null|
 |**2023-10-11**|**Heuristic Vision Pre-Training with Self-Supervised and Supervised Multi-Task Learning**|Zhiming Qian et.al.|[2310.07510](http://arxiv.org/abs/2310.07510)|null|
-|**2023-10-11**|**Analytical Die-to-Die 3D Placement with Bistratal Wirelength Model and GPU Acceleration**|Peiyu Liao et.al.|[2310.07424](http://arxiv.org/abs/2310.07424)|null|
+|**2023-10-12**|**Analytical Die-to-Die 3D Placement with Bistratal Wirelength Model and GPU Acceleration**|Peiyu Liao et.al.|[2310.07424](http://arxiv.org/abs/2310.07424)|null|
 |**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836](http://arxiv.org/abs/2310.06836)|null|
 |**2023-10-10**|**3D simulations of the Archean Earth including photochemical haze profiles**|M. T. Mak et.al.|[2310.06818](http://arxiv.org/abs/2310.06818)|null|
 |**2023-10-10**|**Uni3D: Exploring Unified 3D Representation at Scale**|Junsheng Zhou et.al.|[2310.06773](http://arxiv.org/abs/2310.06773)|**[link](https://github.com/baaivision/uni3d)**|
