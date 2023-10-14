@@ -1788,14 +1788,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-12**|**PonderV2: Pave the Way for 3D Foundataion Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586](http://arxiv.org/abs/2310.08586)|null|
+|**2023-10-12**|**PonderV2: Pave the Way for 3D Foundataion Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586](http://arxiv.org/abs/2310.08586)|**[link](https://github.com/OpenGVLab/PonderV2)**|
 |**2023-10-12**|**Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes**|Haotong Lin et.al.|[2310.08585](http://arxiv.org/abs/2310.08585)|null|
 |**2023-10-12**|**$T$ -linear conductance in electron hydrodynamics**|Serhii Kryhin et.al.|[2310.08556](http://arxiv.org/abs/2310.08556)|null|
 |**2023-10-12**|**GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors**|Taoran Yi et.al.|[2310.08529](http://arxiv.org/abs/2310.08529)|null|
 |**2023-10-12**|**Curved-crease origami for morphing metamaterials**|Asma Karami et.al.|[2310.08520](http://arxiv.org/abs/2310.08520)|null|
 |**2023-10-12**|**Abelian Higgs gauge theories with multicomponent scalar fields and multiparameter scalar potentials**|Claudio Bonati et.al.|[2310.08504](http://arxiv.org/abs/2310.08504)|null|
 |**2023-10-12**|**MUN-FRL: A Visual Inertial LiDAR Dataset for Aerial Autonomous Navigation and Mapping**|Ravindu G. Thalagala et.al.|[2310.08435](http://arxiv.org/abs/2310.08435)|null|
-|**2023-10-12**|**UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**|Honghui Yang et.al.|[2310.08370](http://arxiv.org/abs/2310.08370)|null|
+|**2023-10-12**|**UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**|Honghui Yang et.al.|[2310.08370](http://arxiv.org/abs/2310.08370)|**[link](https://github.com/Nightmare-n/UniPAD)**|
 |**2023-10-12**|**Nonlinear magnetic buoyancy instability and turbulent dynamo**|Yasin Qazi et.al.|[2310.08354](http://arxiv.org/abs/2310.08354)|null|
 |**2023-10-12**|**Bootstrapping Deconfined Quantum Tricriticality**|Shai M. Chester et.al.|[2310.08343](http://arxiv.org/abs/2310.08343)|null|
 |**2023-10-11**|**PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection**|Qiang Zhou et.al.|[2310.07716](http://arxiv.org/abs/2310.07716)|**[link](https://github.com/ericlee0224/pad)**|
@@ -2753,8 +2753,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-12**|**Performance/power assessment of CNN packages on embedded automotive platforms**|Paolo Burgio et.al.|[2310.08401](http://arxiv.org/abs/2310.08401)|null|
-|**2023-10-12**|**UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**|Honghui Yang et.al.|[2310.08370](http://arxiv.org/abs/2310.08370)|null|
-|**2023-10-12**|**Impact of multi-armed bandit strategies on deep recurrent reinforcement learning**|Valentina Zangirolami et.al.|[2310.08331](http://arxiv.org/abs/2310.08331)|null|
+|**2023-10-12**|**UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**|Honghui Yang et.al.|[2310.08370](http://arxiv.org/abs/2310.08370)|**[link](https://github.com/Nightmare-n/UniPAD)**|
+|**2023-10-12**|**Impact of multi-armed bandit strategies on deep recurrent reinforcement learning**|Valentina Zangirolami et.al.|[2310.08331](http://arxiv.org/abs/2310.08331)|**[link](https://github.com/ValentinaZangirolami/DRL)**|
 |**2023-10-12**|**NSM4D: Neural Scene Model Based Online 4D Point Cloud Sequence Understanding**|Yuhao Dong et.al.|[2310.08326](http://arxiv.org/abs/2310.08326)|null|
 |**2023-10-12**|**If our aim is to build morality into an artificial agent, how might we begin to go about doing so?**|Reneira Seeamber et.al.|[2310.08295](http://arxiv.org/abs/2310.08295)|null|
 |**2023-10-12**|**Hilbert Space Embedding-based Trajectory Optimization for Multi-Modal Uncertain Obstacle Trajectory Prediction**|Basant Sharma et.al.|[2310.08270](http://arxiv.org/abs/2310.08270)|null|
