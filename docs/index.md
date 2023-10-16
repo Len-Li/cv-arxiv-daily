@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.15
+## Updated on 2023.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1788,7 +1788,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-12**|**PonderV2: Pave the Way for 3D Foundataion Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586](http://arxiv.org/abs/2310.08586)|**[link](https://github.com/OpenGVLab/PonderV2)**|
+|**2023-10-13**|**PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586](http://arxiv.org/abs/2310.08586)|**[link](https://github.com/OpenGVLab/PonderV2)**|
 |**2023-10-12**|**Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes**|Haotong Lin et.al.|[2310.08585](http://arxiv.org/abs/2310.08585)|null|
 |**2023-10-12**|**$T$ -linear conductance in electron hydrodynamics**|Serhii Kryhin et.al.|[2310.08556](http://arxiv.org/abs/2310.08556)|null|
 |**2023-10-12**|**GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors**|Taoran Yi et.al.|[2310.08529](http://arxiv.org/abs/2310.08529)|null|
@@ -1796,7 +1796,7 @@ layout: default
 |**2023-10-12**|**Abelian Higgs gauge theories with multicomponent scalar fields and multiparameter scalar potentials**|Claudio Bonati et.al.|[2310.08504](http://arxiv.org/abs/2310.08504)|null|
 |**2023-10-12**|**MUN-FRL: A Visual Inertial LiDAR Dataset for Aerial Autonomous Navigation and Mapping**|Ravindu G. Thalagala et.al.|[2310.08435](http://arxiv.org/abs/2310.08435)|null|
 |**2023-10-12**|**UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**|Honghui Yang et.al.|[2310.08370](http://arxiv.org/abs/2310.08370)|**[link](https://github.com/Nightmare-n/UniPAD)**|
-|**2023-10-12**|**Nonlinear magnetic buoyancy instability and turbulent dynamo**|Yasin Qazi et.al.|[2310.08354](http://arxiv.org/abs/2310.08354)|null|
+|**2023-10-13**|**Nonlinear magnetic buoyancy instability and turbulent dynamo**|Yasin Qazi et.al.|[2310.08354](http://arxiv.org/abs/2310.08354)|null|
 |**2023-10-12**|**Bootstrapping Deconfined Quantum Tricriticality**|Shai M. Chester et.al.|[2310.08343](http://arxiv.org/abs/2310.08343)|null|
 |**2023-10-11**|**PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection**|Qiang Zhou et.al.|[2310.07716](http://arxiv.org/abs/2310.07716)|**[link](https://github.com/ericlee0224/pad)**|
 |**2023-10-11**|**ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation**|Bo Peng et.al.|[2310.07697](http://arxiv.org/abs/2310.07697)|null|
