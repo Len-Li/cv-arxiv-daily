@@ -1812,6 +1812,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**A Bouquet for Apollonius: Focal Conics in Sessile Cholesteric Droplets**|Randall D. Kamien et.al.|[2310.09212](http://arxiv.org/abs/2310.09212)|null|
+|**2023-10-13**|**Histogram-less LiDAR through SPAD response linearization**|Alessandro Tontini et.al.|[2310.09176](http://arxiv.org/abs/2310.09176)|null|
+|**2023-10-13**|**Shaping the CO snowline in protoplanetary disks**|S. Gavino et.al.|[2310.09132](http://arxiv.org/abs/2310.09132)|null|
+|**2023-10-13**|**Measurement of the small-scale 3D Lyman- $α$ forest power spectrum**|Marie Lynn Abdul Karim et.al.|[2310.09116](http://arxiv.org/abs/2310.09116)|null|
+|**2023-10-13**|**Faster 3D cardiac CT segmentation with Vision Transformers**|Lee Jollans et.al.|[2310.09099](http://arxiv.org/abs/2310.09099)|**[link](https://github.com/ljollans/trunet)**|
+|**2023-10-13**|**iPUNet:Iterative Cross Field Guided Point Cloud Upsampling**|Guangshun Wei et.al.|[2310.09092](http://arxiv.org/abs/2310.09092)|null|
+|**2023-10-13**|**Three-Dimensional Topological Field Theories and Non-Unitary Minimal Models**|Dongmin Gang et.al.|[2310.09080](http://arxiv.org/abs/2310.09080)|null|
+|**2023-10-13**|**ImageManip: Image-based Robotic Manipulation with Affordance-guided Next View Selection**|Xiaoqi Li et.al.|[2310.09069](http://arxiv.org/abs/2310.09069)|null|
+|**2023-10-13**|**High temperature ferrimagnetic semiconductors by spin-dependent doping in high temperature antiferromagnets**|Jia-Wen Li et.al.|[2310.09061](http://arxiv.org/abs/2310.09061)|null|
+|**2023-10-13**|**Polarized microwave emission from space particles in the upper atmosphere of the Earth**|Jennifer López-Viejobueno et.al.|[2310.08941](http://arxiv.org/abs/2310.08941)|null|
 |**2023-10-13**|**PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586](http://arxiv.org/abs/2310.08586)|**[link](https://github.com/OpenGVLab/PonderV2)**|
 |**2023-10-12**|**Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes**|Haotong Lin et.al.|[2310.08585](http://arxiv.org/abs/2310.08585)|null|
 |**2023-10-12**|**$T$ -linear conductance in electron hydrodynamics**|Serhii Kryhin et.al.|[2310.08556](http://arxiv.org/abs/2310.08556)|null|
@@ -2782,6 +2792,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**Revisiting Multi-modal 3D Semantic Segmentation in Real-world Autonomous Driving**|Feng Jiang et.al.|[2310.08826](http://arxiv.org/abs/2310.08826)|null|
+|**2023-10-12**|**PU-Ray: Point Cloud Upsampling via Ray Marching on Implicit Surface**|Sangwon Lim et.al.|[2310.08755](http://arxiv.org/abs/2310.08755)|**[link](https://github.com/sum1lim/PU-Ray)**|
+|**2023-10-12**|**Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research**|Cole Gulino et.al.|[2310.08710](http://arxiv.org/abs/2310.08710)|null|
+|**2023-10-12**|**Data-driven Invariance for Reference Governors**|Ali Kashani et.al.|[2310.08679](http://arxiv.org/abs/2310.08679)|null|
 |**2023-10-12**|**Performance/power assessment of CNN packages on embedded automotive platforms**|Paolo Burgio et.al.|[2310.08401](http://arxiv.org/abs/2310.08401)|null|
 |**2023-10-12**|**UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**|Honghui Yang et.al.|[2310.08370](http://arxiv.org/abs/2310.08370)|**[link](https://github.com/Nightmare-n/UniPAD)**|
 |**2023-10-12**|**Impact of multi-armed bandit strategies on deep recurrent reinforcement learning**|Valentina Zangirolami et.al.|[2310.08331](http://arxiv.org/abs/2310.08331)|**[link](https://github.com/ValentinaZangirolami/DRL)**|
