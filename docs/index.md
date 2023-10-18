@@ -1245,6 +1245,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650](http://arxiv.org/abs/2310.10650)|**[link](https://github.com/Rubikalubi/TraM-NeRF)**|
+|**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
+|**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965](http://arxiv.org/abs/2310.09965)|null|
+|**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892](http://arxiv.org/abs/2310.09892)|null|
+|**2023-10-15**|**CBARF: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses**|Hongyu Fu et.al.|[2310.09776](http://arxiv.org/abs/2310.09776)|null|
 |**2023-10-11**|**Dynamic Appearance Particle Neural Radiance Field**|Ancheng Lin et.al.|[2310.07916](http://arxiv.org/abs/2310.07916)|null|
 |**2023-10-11**|**rpcPRF: Generalizable MPI Neural Radiance Field for Satellite Camera**|Tongtong Zhang et.al.|[2310.07179](http://arxiv.org/abs/2310.07179)|null|
 |**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984](http://arxiv.org/abs/2310.06984)|null|
@@ -1788,6 +1793,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-17**|**4K4D: Real-Time 4D View Synthesis at 4K Resolution**|Zhen Xu et.al.|[2310.11448](http://arxiv.org/abs/2310.11448)|null|
+|**2023-10-17**|**Revisiting Map Relations for Unsupervised Non-Rigid Shape Matching**|Dongliang Cao et.al.|[2310.11420](http://arxiv.org/abs/2310.11420)|null|
+|**2023-10-17**|**Updates on the FRi3D CME model in EUHFORIA**|Anwesha Maharana et.al.|[2310.11402](http://arxiv.org/abs/2310.11402)|null|
+|**2023-10-17**|**A method for crystallographic mapping of an alpha-beta titanium alloy with nanometre resolution using scanning precession electron diffraction and open-source software libraries**|Ian MacLaren et.al.|[2310.11395](http://arxiv.org/abs/2310.11395)|null|
+|**2023-10-17**|**3D Force and Contact Estimation for a Soft-Bubble Visuotactile Sensor Using FEM**|Jing-Chen Peng et.al.|[2310.11372](http://arxiv.org/abs/2310.11372)|null|
+|**2023-10-17**|**Deep learning segmentation of low-resolution images for prostate magnetic resonance-guided radiotherapy**|Samuel Fransson et.al.|[2310.11358](http://arxiv.org/abs/2310.11358)|null|
+|**2023-10-17**|**Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing**|Hao Lu et.al.|[2310.11346](http://arxiv.org/abs/2310.11346)|null|
+|**2023-10-17**|**Key Point-based Orientation Estimation of Strawberries for Robotic Fruit Picking**|Justin Le Louëdec et.al.|[2310.11333](http://arxiv.org/abs/2310.11333)|null|
+|**2023-10-17**|**Towards Generic Semi-Supervised Framework for Volumetric Medical Image Segmentation**|Haonan Wang et.al.|[2310.11320](http://arxiv.org/abs/2310.11320)|**[link](https://github.com/xmed-lab/GenericSSL)**|
+|**2023-10-17**|**MonoSKD: General Distillation Framework for Monocular 3D Object Detection via Spearman Correlation Coefficient**|Sen Wang et.al.|[2310.11316](http://arxiv.org/abs/2310.11316)|**[link](https://github.com/senwang98/monoskd)**|
 |**2023-10-13**|**A Bouquet for Apollonius: Focal Conics in Sessile Cholesteric Droplets**|Randall D. Kamien et.al.|[2310.09212](http://arxiv.org/abs/2310.09212)|null|
 |**2023-10-13**|**Histogram-less LiDAR through SPAD response linearization**|Alessandro Tontini et.al.|[2310.09176](http://arxiv.org/abs/2310.09176)|null|
 |**2023-10-13**|**Shaping the CO snowline in protoplanetary disks**|S. Gavino et.al.|[2310.09132](http://arxiv.org/abs/2310.09132)|null|
@@ -2663,6 +2678,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-17**|**Self-Supervised 3D Scene Flow Estimation and Motion Prediction using Local Rigidity Prior**|Ruibo Li et.al.|[2310.11284](http://arxiv.org/abs/2310.11284)|null|
+|**2023-10-16**|**A Novel Benchmarking Paradigm and a Scale- and Motion-Aware Model for Egocentric Pedestrian Trajectory Prediction**|Amir Rasouli et.al.|[2310.10424](http://arxiv.org/abs/2310.10424)|null|
+|**2023-10-16**|**Multi-Body Neural Scene Flow**|Kavisha Vidanapathirana et.al.|[2310.10301](http://arxiv.org/abs/2310.10301)|**[link](https://github.com/kavisha725/MBNSF)**|
 |**2023-10-12**|**Hilbert Space Embedding-based Trajectory Optimization for Multi-Modal Uncertain Obstacle Trajectory Prediction**|Basant Sharma et.al.|[2310.08270](http://arxiv.org/abs/2310.08270)|null|
 |**2023-10-12**|**Multi-Modal Sensor Fusion and Object Tracking for Autonomous Racing**|Phillip Karle et.al.|[2310.08114](http://arxiv.org/abs/2310.08114)|null|
 |**2023-10-11**|**CRITERIA: a New Benchmarking Paradigm for Evaluating Trajectory Prediction Models for Autonomous Driving**|Changhe Chen et.al.|[2310.07794](http://arxiv.org/abs/2310.07794)|null|
@@ -2762,6 +2780,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-17**|**Non-ergodicity in reinforcement learning: robustness via ergodicity transformations**|Dominik Baumann et.al.|[2310.11335](http://arxiv.org/abs/2310.11335)|null|
+|**2023-10-17**|**LiDAR-based 4D Occupancy Completion and Forecasting**|Xinhao Liu et.al.|[2310.11239](http://arxiv.org/abs/2310.11239)|null|
+|**2023-10-17**|**Path Following Control of Automated Vehicle Considering Model Uncertainties External Disturbances and Parametric Varying**|Dan Shen et.al.|[2310.10925](http://arxiv.org/abs/2310.10925)|null|
+|**2023-10-16**|**GTA: A Geometry-Aware Attention Mechanism for Multi-View Transformers**|Takeru Miyato et.al.|[2310.10375](http://arxiv.org/abs/2310.10375)|**[link](https://github.com/autonomousvision/gta)**|
+|**2023-10-16**|**BEVGPT: Generative Pre-trained Large Model for Autonomous Driving Prediction, Decision-Making, and Planning**|Pengqin Wang et.al.|[2310.10357](http://arxiv.org/abs/2310.10357)|null|
+|**2023-10-16**|**Multimodal Object Query Initialization for 3D Object Detection**|Mathijs R. van Geerenstein et.al.|[2310.10353](http://arxiv.org/abs/2310.10353)|null|
+|**2023-10-16**|**SoTTA: Robust Test-Time Adaptation on Noisy Data Streams**|Taesik Gong et.al.|[2310.10074](http://arxiv.org/abs/2310.10074)|**[link](https://github.com/taeckyung/SoTTA)**|
+|**2023-10-14**|**Real-Time Traffic Sign Detection: A Case Study in a Santa Clara Suburban Neighborhood**|Harish Loghashankar et.al.|[2310.09630](http://arxiv.org/abs/2310.09630)|null|
+|**2023-10-14**|**JM3D & JM3D-LLM: Elevating 3D Representation with Joint Multi-modal Cues**|Jiayi Ji et.al.|[2310.09503](http://arxiv.org/abs/2310.09503)|**[link](https://github.com/mr-neko/jm3d)**|
 |**2023-10-13**|**Revisiting Multi-modal 3D Semantic Segmentation in Real-world Autonomous Driving**|Feng Jiang et.al.|[2310.08826](http://arxiv.org/abs/2310.08826)|null|
 |**2023-10-12**|**PU-Ray: Point Cloud Upsampling via Ray Marching on Implicit Surface**|Sangwon Lim et.al.|[2310.08755](http://arxiv.org/abs/2310.08755)|**[link](https://github.com/sum1lim/PU-Ray)**|
 |**2023-10-12**|**Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research**|Cole Gulino et.al.|[2310.08710](http://arxiv.org/abs/2310.08710)|null|
