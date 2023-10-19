@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.18
+## Updated on 2023.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1793,7 +1793,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-17**|**4K4D: Real-Time 4D View Synthesis at 4K Resolution**|Zhen Xu et.al.|[2310.11448](http://arxiv.org/abs/2310.11448)|null|
+|**2023-10-18**|**4K4D: Real-Time 4D View Synthesis at 4K Resolution**|Zhen Xu et.al.|[2310.11448](http://arxiv.org/abs/2310.11448)|null|
 |**2023-10-17**|**Revisiting Map Relations for Unsupervised Non-Rigid Shape Matching**|Dongliang Cao et.al.|[2310.11420](http://arxiv.org/abs/2310.11420)|null|
 |**2023-10-17**|**Updates on the FRi3D CME model in EUHFORIA**|Anwesha Maharana et.al.|[2310.11402](http://arxiv.org/abs/2310.11402)|null|
 |**2023-10-17**|**A method for crystallographic mapping of an alpha-beta titanium alloy with nanometre resolution using scanning precession electron diffraction and open-source software libraries**|Ian MacLaren et.al.|[2310.11395](http://arxiv.org/abs/2310.11395)|null|
@@ -2682,7 +2682,7 @@ layout: default
 |**2023-10-16**|**A Novel Benchmarking Paradigm and a Scale- and Motion-Aware Model for Egocentric Pedestrian Trajectory Prediction**|Amir Rasouli et.al.|[2310.10424](http://arxiv.org/abs/2310.10424)|null|
 |**2023-10-16**|**Multi-Body Neural Scene Flow**|Kavisha Vidanapathirana et.al.|[2310.10301](http://arxiv.org/abs/2310.10301)|**[link](https://github.com/kavisha725/MBNSF)**|
 |**2023-10-12**|**Hilbert Space Embedding-based Trajectory Optimization for Multi-Modal Uncertain Obstacle Trajectory Prediction**|Basant Sharma et.al.|[2310.08270](http://arxiv.org/abs/2310.08270)|null|
-|**2023-10-12**|**Multi-Modal Sensor Fusion and Object Tracking for Autonomous Racing**|Phillip Karle et.al.|[2310.08114](http://arxiv.org/abs/2310.08114)|null|
+|**2023-10-12**|**Multi-Modal Sensor Fusion and Object Tracking for Autonomous Racing**|Phillip Karle et.al.|[2310.08114](http://arxiv.org/abs/2310.08114)|**[link](https://github.com/tumftm/fusiontracking)**|
 |**2023-10-11**|**CRITERIA: a New Benchmarking Paradigm for Evaluating Trajectory Prediction Models for Autonomous Driving**|Changhe Chen et.al.|[2310.07794](http://arxiv.org/abs/2310.07794)|null|
 |**2023-10-11**|**Pixel State Value Network for Combined Prediction and Planning in Interactive Environments**|Sascha Rosbach et.al.|[2310.07706](http://arxiv.org/abs/2310.07706)|null|
 |**2023-10-11**|**DESTINE: Dynamic Goal Queries with Temporal Transductive Alignment for Trajectory Prediction**|Rezaul Karim et.al.|[2310.07438](http://arxiv.org/abs/2310.07438)|null|
