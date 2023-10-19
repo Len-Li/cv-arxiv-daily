@@ -1267,6 +1267,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Towards Abdominal 3-D Scene Rendering from Laparoscopy Surgical Videos using NeRFs**|Khoa Tuan Nguyen et.al.|[2310.11645](http://arxiv.org/abs/2310.11645)|null|
 |**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650](http://arxiv.org/abs/2310.10650)|**[link](https://github.com/Rubikalubi/TraM-NeRF)**|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
 |**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965](http://arxiv.org/abs/2310.09965)|null|
@@ -1817,6 +1818,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Design and testing of an affordable desktop wind tunnel**|Miguel De La Cruz et.al.|[2310.12101](http://arxiv.org/abs/2310.12101)|null|
+|**2023-10-18**|**IRAS4A1: Multi-wavelength continuum analysis of a very flared Class 0 disk**|O. M. Guerra-Alvarado et.al.|[2310.11999](http://arxiv.org/abs/2310.11999)|null|
+|**2023-10-18**|**The JWST Galactic Center Survey -- A White Paper**|Rainer Schoedel et.al.|[2310.11912](http://arxiv.org/abs/2310.11912)|null|
+|**2023-10-18**|**Malicious Agent Detection for Robust Multi-Agent Collaborative Perception**|Yangheng Zhao et.al.|[2310.11901](http://arxiv.org/abs/2310.11901)|null|
+|**2023-10-18**|**VQ-NeRF: Neural Reflectance Decomposition and Editing with Vector Quantization**|Hongliang Zhong et.al.|[2310.11864](http://arxiv.org/abs/2310.11864)|null|
+|**2023-10-18**|**ShapeGraFormer: GraFormer-Based Network for Hand-Object Reconstruction from a Single Depth Map**|Ahmed Tawfik Aboukhadra et.al.|[2310.11811](http://arxiv.org/abs/2310.11811)|null|
+|**2023-10-18**|**De novo protein design using geometric vector field networks**|Weian Mao et.al.|[2310.11802](http://arxiv.org/abs/2310.11802)|null|
+|**2023-10-18**|**Real-time Perceptive Motion Control using Control Barrier Functions with Analytical Smoothing for Six-Wheeled-Telescopic-Legged Robot Tachyon 3**|Noriaki Takasugi et.al.|[2310.11792](http://arxiv.org/abs/2310.11792)|null|
+|**2023-10-18**|**Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts**|Xinhua Cheng et.al.|[2310.11784](http://arxiv.org/abs/2310.11784)|null|
+|**2023-10-18**|**VST++: Efficient and Stronger Visual Saliency Transformer**|Nian Liu et.al.|[2310.11725](http://arxiv.org/abs/2310.11725)|null|
 |**2023-10-18**|**4K4D: Real-Time 4D View Synthesis at 4K Resolution**|Zhen Xu et.al.|[2310.11448](http://arxiv.org/abs/2310.11448)|null|
 |**2023-10-17**|**Revisiting Map Relations for Unsupervised Non-Rigid Shape Matching**|Dongliang Cao et.al.|[2310.11420](http://arxiv.org/abs/2310.11420)|null|
 |**2023-10-17**|**Updates on the FRi3D CME model in EUHFORIA**|Anwesha Maharana et.al.|[2310.11402](http://arxiv.org/abs/2310.11402)|null|
@@ -2810,6 +2821,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Monte-Carlo Tree Search for Behavior Planning in Autonomous Driving**|Qianfeng Wen et.al.|[2310.12075](http://arxiv.org/abs/2310.12075)|null|
+|**2023-10-18**|**One-Bit Byzantine-Tolerant Distributed Learning via Over-the-Air Computation**|Yuhan Yang et.al.|[2310.11998](http://arxiv.org/abs/2310.11998)|null|
+|**2023-10-18**|**Malicious Agent Detection for Robust Multi-Agent Collaborative Perception**|Yangheng Zhao et.al.|[2310.11901](http://arxiv.org/abs/2310.11901)|null|
+|**2023-10-18**|**Using Experience Classification for Training Non-Markovian Tasks**|Ruixuan Miao et.al.|[2310.11678](http://arxiv.org/abs/2310.11678)|null|
 |**2023-10-17**|**Non-ergodicity in reinforcement learning: robustness via ergodicity transformations**|Dominik Baumann et.al.|[2310.11335](http://arxiv.org/abs/2310.11335)|null|
 |**2023-10-17**|**LiDAR-based 4D Occupancy Completion and Forecasting**|Xinhao Liu et.al.|[2310.11239](http://arxiv.org/abs/2310.11239)|null|
 |**2023-10-17**|**Path Following Control of Automated Vehicle Considering Model Uncertainties External Disturbances and Parametric Varying**|Dan Shen et.al.|[2310.10925](http://arxiv.org/abs/2310.10925)|null|
