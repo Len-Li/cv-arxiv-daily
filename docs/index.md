@@ -2812,7 +2812,7 @@ layout: default
 |**2023-10-18**|**Malicious Agent Detection for Robust Multi-Agent Collaborative Perception**|Yangheng Zhao et.al.|[2310.11901](http://arxiv.org/abs/2310.11901)|null|
 |**2023-10-18**|**Using Experience Classification for Training Non-Markovian Tasks**|Ruixuan Miao et.al.|[2310.11678](http://arxiv.org/abs/2310.11678)|null|
 |**2023-10-17**|**Non-ergodicity in reinforcement learning: robustness via ergodicity transformations**|Dominik Baumann et.al.|[2310.11335](http://arxiv.org/abs/2310.11335)|null|
-|**2023-10-17**|**LiDAR-based 4D Occupancy Completion and Forecasting**|Xinhao Liu et.al.|[2310.11239](http://arxiv.org/abs/2310.11239)|null|
+|**2023-10-17**|**LiDAR-based 4D Occupancy Completion and Forecasting**|Xinhao Liu et.al.|[2310.11239](http://arxiv.org/abs/2310.11239)|**[link](https://github.com/ai4ce/occ4cast)**|
 |**2023-10-19**|**Path Following Control of Automated Vehicle Considering Uncertainties and Disturbances with Parametric Varying**|Dan Shen et.al.|[2310.10925](http://arxiv.org/abs/2310.10925)|null|
 |**2023-10-16**|**GTA: A Geometry-Aware Attention Mechanism for Multi-View Transformers**|Takeru Miyato et.al.|[2310.10375](http://arxiv.org/abs/2310.10375)|**[link](https://github.com/autonomousvision/gta)**|
 |**2023-10-16**|**BEVGPT: Generative Pre-trained Large Model for Autonomous Driving Prediction, Decision-Making, and Planning**|Pengqin Wang et.al.|[2310.10357](http://arxiv.org/abs/2310.10357)|null|
