@@ -1353,7 +1353,7 @@
 |**2023-08-28**|**CLNeRF: Continual Learning Meets NeRF**|Zhipeng Cai et.al.|[2308.14816](http://arxiv.org/abs/2308.14816)|**[link](https://github.com/intellabs/clnerf)**|
 |**2023-08-28**|**Flexible Techniques for Differentiable Rendering with 3D Gaussians**|Leonid Keselman et.al.|[2308.14737](http://arxiv.org/abs/2308.14737)|null|
 |**2023-08-28**|**Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor**|Xinyang Liu et.al.|[2308.14383](http://arxiv.org/abs/2308.14383)|null|
-|**2023-08-27**|**Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers**|Abril Corona-Figueroa et.al.|[2308.14152](http://arxiv.org/abs/2308.14152)|null|
+|**2023-08-27**|**Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers**|Abril Corona-Figueroa et.al.|[2308.14152](http://arxiv.org/abs/2308.14152)|**[link](https://github.com/samb-t/x2ct-vqvae)**|
 |**2023-08-27**|**Sparse3D: Distilling Multiview-Consistent Diffusion for Object Reconstruction from Sparse Views**|Zi-Xin Zou et.al.|[2308.14078](http://arxiv.org/abs/2308.14078)|null|
 |**2023-08-26**|**InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**|Yanqi Bao et.al.|[2308.13897](http://arxiv.org/abs/2308.13897)|**[link](https://github.com/bbbbby-99/insertnerf)**|
 |**2023-08-24**|**NOVA: NOvel View Augmentation for Neural Composition of Dynamic Objects**|Dakshit Agrawal et.al.|[2308.12560](http://arxiv.org/abs/2308.12560)|**[link](https://github.com/dakshitagrawal/nova)**|
@@ -1862,7 +1862,7 @@
 |**2023-10-12**|**Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes**|Haotong Lin et.al.|[2310.08585](http://arxiv.org/abs/2310.08585)|null|
 |**2023-10-12**|**$T$ -linear conductance in electron hydrodynamics**|Serhii Kryhin et.al.|[2310.08556](http://arxiv.org/abs/2310.08556)|null|
 |**2023-10-12**|**GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors**|Taoran Yi et.al.|[2310.08529](http://arxiv.org/abs/2310.08529)|null|
-|**2023-10-12**|**Curved-crease origami for morphing metamaterials**|Asma Karami et.al.|[2310.08520](http://arxiv.org/abs/2310.08520)|null|
+|**2023-10-12**|**Curved-crease origami for morphing metamaterials**|Asma Karami et.al.|[2310.08520](http://arxiv.org/abs/2310.08520)|**[link](https://github.com/nassarh/curvedcreaseorigami)**|
 |**2023-10-12**|**Abelian Higgs gauge theories with multicomponent scalar fields and multiparameter scalar potentials**|Claudio Bonati et.al.|[2310.08504](http://arxiv.org/abs/2310.08504)|null|
 |**2023-10-12**|**MUN-FRL: A Visual Inertial LiDAR Dataset for Aerial Autonomous Navigation and Mapping**|Ravindu G. Thalagala et.al.|[2310.08435](http://arxiv.org/abs/2310.08435)|null|
 |**2023-10-12**|**UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**|Honghui Yang et.al.|[2310.08370](http://arxiv.org/abs/2310.08370)|**[link](https://github.com/Nightmare-n/UniPAD)**|
@@ -1874,7 +1874,7 @@
 |**2023-10-11**|**Surgery Constructions for 3d Theories, Part I: Matter Circles and Links**|Shi Cheng et.al.|[2310.07624](http://arxiv.org/abs/2310.07624)|null|
 |**2023-10-11**|**Dual Quaternion Rotational and Translational Equivariance in 3D Rigid Motion Modelling**|Guilherme Vieira et.al.|[2310.07623](http://arxiv.org/abs/2310.07623)|null|
 |**2023-10-11**|**Dual Radar: A Multi-modal Dataset with Dual 4D Radar for Autononous Driving**|Xinyu Zhang et.al.|[2310.07602](http://arxiv.org/abs/2310.07602)|**[link](https://github.com/adept-thu/dual-radar)**|
-|**2023-10-11**|**ROMO: Retrieval-enhanced Offline Model-based Optimization**|Mingcheng Chen et.al.|[2310.07560](http://arxiv.org/abs/2310.07560)|null|
+|**2023-10-11**|**ROMO: Retrieval-enhanced Offline Model-based Optimization**|Mingcheng Chen et.al.|[2310.07560](http://arxiv.org/abs/2310.07560)|**[link](https://github.com/cmciris/romo)**|
 |**2023-10-12**|**S4C: Self-Supervised Semantic Scene Completion with Neural Fields**|Adrian Hayler et.al.|[2310.07522](http://arxiv.org/abs/2310.07522)|null|
 |**2023-10-11**|**Heuristic Vision Pre-Training with Self-Supervised and Supervised Multi-Task Learning**|Zhiming Qian et.al.|[2310.07510](http://arxiv.org/abs/2310.07510)|null|
 |**2023-10-12**|**Analytical Die-to-Die 3D Placement with Bistratal Wirelength Model and GPU Acceleration**|Peiyu Liao et.al.|[2310.07424](http://arxiv.org/abs/2310.07424)|null|
@@ -1983,7 +1983,7 @@
 |**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293](http://arxiv.org/abs/2309.14293)|null|
 |**2023-09-25**|**Tiled Multiplane Images for Practical 3D Photography**|Numair Khan et.al.|[2309.14291](http://arxiv.org/abs/2309.14291)|null|
 |**2023-09-25**|**Unsupervised correspondence with combined geometric learning and imaging for radiotherapy applications**|Edward G. A. Henderson et.al.|[2309.14269](http://arxiv.org/abs/2309.14269)|**[link](https://github.com/rrr-uom-projects/unsup-rt-corr-net)**|
-|**2023-09-25**|**QuadricsNet: Learning Concise Representation for Geometric Primitives in Point Clouds**|Ji Wu et.al.|[2309.14211](http://arxiv.org/abs/2309.14211)|null|
+|**2023-09-25**|**QuadricsNet: Learning Concise Representation for Geometric Primitives in Point Clouds**|Ji Wu et.al.|[2309.14211](http://arxiv.org/abs/2309.14211)|**[link](https://github.com/michaelwu99-lab/quadricsnet)**|
 |**2023-09-25**|**Comparison of distance measurements to dust clouds using GRB X-ray halos and 3D dust extinction**|Barbara Šiljeg et.al.|[2309.14147](http://arxiv.org/abs/2309.14147)|null|
 |**2023-09-25**|**Hopf Semimetals**|Bhandaru Phani Parasar et.al.|[2309.14119](http://arxiv.org/abs/2309.14119)|null|
 |**2023-09-25**|**Coulomb potential screening via charged carriers and charge-neutral dipoles/excitons in two-dimensional case**|Ke Xiao et.al.|[2309.14101](http://arxiv.org/abs/2309.14101)|null|
@@ -2163,7 +2163,7 @@
 |**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472](http://arxiv.org/abs/2308.15472)|**[link](https://github.com/limbo0000/mtm)**|
 |**2023-08-29**|**WrappingNet: Mesh Autoencoder via Deep Sphere Deformation**|Eric Lei et.al.|[2308.15413](http://arxiv.org/abs/2308.15413)|null|
 |**2023-08-29**|**Ego-Motion Estimation and Dynamic Motion Separation from 3D Point Clouds for Accumulating Data and Improving 3D Object Detection**|Patrick Palmer et.al.|[2308.15357](http://arxiv.org/abs/2308.15357)|null|
-|**2023-08-29**|**3D-MuPPET: 3D Multi-Pigeon Pose Estimation and Tracking**|Urs Waldmann et.al.|[2308.15316](http://arxiv.org/abs/2308.15316)|null|
+|**2023-08-29**|**3D-MuPPET: 3D Multi-Pigeon Pose Estimation and Tracking**|Urs Waldmann et.al.|[2308.15316](http://arxiv.org/abs/2308.15316)|**[link](https://github.com/alexhang212/3d-muppet)**|
 |**2023-08-29**|**Spatio-temporal MLP-graph network for 3D human pose estimation**|Tanvir Hassan et.al.|[2308.15313](http://arxiv.org/abs/2308.15313)|**[link](https://github.com/nies14/spatio-temporal-mlp-graph)**|
 |**2023-08-29**|**Insights into heterogeneous catalysis on surfaces with 3d transition metals: Spin-dependent chemisorption models and magnetic field effects**|Satadeep Bhattacharjee et.al.|[2308.15238](http://arxiv.org/abs/2308.15238)|null|
 |**2023-08-29**|**On Hermitian interpolation of first order data with locally generated C1-splines over triangular meshes**|L. L. Stachó et.al.|[2308.15201](http://arxiv.org/abs/2308.15201)|null|
@@ -2900,7 +2900,7 @@
 |**2023-10-03**|**Trainable Noise Model as an XAI evaluation method: application on Sobol for remote sensing image segmentation**|Hossein Shreim et.al.|[2310.01828](http://arxiv.org/abs/2310.01828)|null|
 |**2023-10-03**|**Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous Driving**|Maneekwan Toyungyernsub et.al.|[2310.01723](http://arxiv.org/abs/2310.01723)|null|
 |**2023-10-02**|**You Only Look at Once for Real-time and Generic Multi-Task**|Jiayuan Wang et.al.|[2310.01641](http://arxiv.org/abs/2310.01641)|**[link](https://github.com/jiayuanwang-jw/yolov8-multi-task)**|
-|**2023-10-02**|**GPT-Driver: Learning to Drive with GPT**|Jiageng Mao et.al.|[2310.01415](http://arxiv.org/abs/2310.01415)|null|
+|**2023-10-02**|**GPT-Driver: Learning to Drive with GPT**|Jiageng Mao et.al.|[2310.01415](http://arxiv.org/abs/2310.01415)|**[link](https://github.com/pointscoder/gpt-driver)**|
 |**2023-10-02**|**DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model**|Zhenhua Xu et.al.|[2310.01412](http://arxiv.org/abs/2310.01412)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 |**2023-09-29**|**GAIA-1: A Generative World Model for Autonomous Driving**|Anthony Hu et.al.|[2309.17080](http://arxiv.org/abs/2309.17080)|null|
