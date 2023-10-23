@@ -1245,6 +1245,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**ManifoldNeRF: View-dependent Image Feature Supervision for Few-shot Neural Radiance Fields**|Daiju Kanaoka et.al.|[2310.13670](http://arxiv.org/abs/2310.13670)|null|
+|**2023-10-20**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356](http://arxiv.org/abs/2310.13356)|null|
+|**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|
 |**2023-10-18**|**Towards Abdominal 3-D Scene Rendering from Laparoscopy Surgical Videos using NeRFs**|Khoa Tuan Nguyen et.al.|[2310.11645](http://arxiv.org/abs/2310.11645)|null|
 |**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650](http://arxiv.org/abs/2310.10650)|**[link](https://github.com/Rubikalubi/TraM-NeRF)**|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
@@ -1794,6 +1797,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Hyperbolic Vacua in Minkowski Space**|Walker Melton et.al.|[2310.13663](http://arxiv.org/abs/2310.13663)|null|
+|**2023-10-20**|**3D-Mirrorcle: Bridging the Virtual and Real through Depth Alignment in Smart Mirror Systems**|Yujia Liu et.al.|[2310.13617](http://arxiv.org/abs/2310.13617)|null|
+|**2023-10-20**|**Local symmetry groups for arbitrary wavevectors**|Emanuele Maggio et.al.|[2310.13568](http://arxiv.org/abs/2310.13568)|null|
+|**2023-10-20**|**Maser Investigation toward Off-Plane Stars (MIOPS): detection of SiO masers in the Galactic thick disk and halo**|Wenjin Yang et.al.|[2310.13489](http://arxiv.org/abs/2310.13489)|null|
+|**2023-10-20**|**Phase structure and critical phenomena in 2-flavor QCD by holography**|Yan-Qing Zhao et.al.|[2310.13432](http://arxiv.org/abs/2310.13432)|null|
+|**2023-10-20**|**OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal 3D Data**|Yijie Zhou et.al.|[2310.13398](http://arxiv.org/abs/2310.13398)|null|
+|**2023-10-20**|**RL-X: A Deep Reinforcement Learning Library (not only) for RoboCup**|Nico Bohlinger et.al.|[2310.13396](http://arxiv.org/abs/2310.13396)|null|
+|**2023-10-20**|**Single-view 3D reconstruction via inverse procedural modeling**|Albert Garifullin et.al.|[2310.13373](http://arxiv.org/abs/2310.13373)|null|
+|**2023-10-20**|**Elasto-plastic residual stress analysis of selective sintered porous materials based on 3D-multilayer thermo-structural phase-field simulations**|Yangyiwei Yang et.al.|[2310.13351](http://arxiv.org/abs/2310.13351)|null|
+|**2023-10-20**|**EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View**|Torben Teepe et.al.|[2310.13350](http://arxiv.org/abs/2310.13350)|**[link](https://github.com/tteepe/earlybird)**|
 |**2023-10-19**|**FSD: Fast Self-Supervised Single RGB-D to Categorical 3D Objects**|Mayank Lunayach et.al.|[2310.12974](http://arxiv.org/abs/2310.12974)|null|
 |**2023-10-19**|**Frozen Transformers in Language Models Are Effective Visual Encoder Layers**|Ziqi Pang et.al.|[2310.12973](http://arxiv.org/abs/2310.12973)|**[link](https://github.com/ziqipang/lm4visualencoding)**|
 |**2023-10-19**|**3D-GPT: Procedural 3D Modeling with Large Language Models**|Chunyi Sun et.al.|[2310.12945](http://arxiv.org/abs/2310.12945)|null|
@@ -2699,6 +2712,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**NeuroSMPC: A Neural Network guided Sampling Based MPC for On-Road Autonomous Driving**|Kaustab Pal et.al.|[2310.13077](http://arxiv.org/abs/2310.13077)|null|
 |**2023-10-19**|**Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding**|Zhejun Zhang et.al.|[2310.12970](http://arxiv.org/abs/2310.12970)|**[link](https://github.com/zhejz/hptr)**|
 |**2023-10-19**|**A Markovian dynamics for $C. elegans$ behavior across scales**|Antonio C. Costa et.al.|[2310.12883](http://arxiv.org/abs/2310.12883)|**[link](https://github.com/antonioccosta/markov_worm)**|
 |**2023-10-19**|**The origins of unpredictability in life trajectory prediction tasks**|Ian Lundberg et.al.|[2310.12871](http://arxiv.org/abs/2310.12871)|null|
@@ -2806,6 +2820,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal 3D Data**|Yijie Zhou et.al.|[2310.13398](http://arxiv.org/abs/2310.13398)|null|
+|**2023-10-20**|**Combining Policy Gradient and Safety-Based Control for Autonomous Driving**|Xi Xiong et.al.|[2310.13314](http://arxiv.org/abs/2310.13314)|null|
+|**2023-10-20**|**Higher or Lower: Challenges in Object based SLAM**|Zhihe Zhang et.al.|[2310.13256](http://arxiv.org/abs/2310.13256)|null|
+|**2023-10-19**|**LeTFuser: Light-weight End-to-end Transformer-Based Sensor Fusion for Autonomous Driving with Multi-Task Learning**|Pedram Agand et.al.|[2310.13135](http://arxiv.org/abs/2310.13135)|**[link](https://github.com/pagand/e2etransfuser)**|
+|**2023-10-19**|**NeuroSMPC: A Neural Network guided Sampling Based MPC for On-Road Autonomous Driving**|Kaustab Pal et.al.|[2310.13077](http://arxiv.org/abs/2310.13077)|null|
 |**2023-10-19**|**Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding**|Zhejun Zhang et.al.|[2310.12970](http://arxiv.org/abs/2310.12970)|**[link](https://github.com/zhejz/hptr)**|
 |**2023-10-18**|**Monte-Carlo Tree Search for Behavior Planning in Autonomous Driving**|Qianfeng Wen et.al.|[2310.12075](http://arxiv.org/abs/2310.12075)|null|
 |**2023-10-19**|**One-Bit Byzantine-Tolerant Distributed Learning via Over-the-Air Computation**|Yuhan Yang et.al.|[2310.11998](http://arxiv.org/abs/2310.11998)|null|
