@@ -1245,6 +1245,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**CAwa-NeRF: Instant Learning of Compression-Aware NeRF Features**|Omnia Mahmoud et.al.|[2310.14695](http://arxiv.org/abs/2310.14695)|null|
 |**2023-10-20**|**ManifoldNeRF: View-dependent Image Feature Supervision for Few-shot Neural Radiance Fields**|Daiju Kanaoka et.al.|[2310.13670](http://arxiv.org/abs/2310.13670)|null|
 |**2023-10-20**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356](http://arxiv.org/abs/2310.13356)|null|
 |**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|
@@ -1797,6 +1798,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Ghost on the Shell: An Expressive Representation of General 3D Shapes**|Zhen Liu et.al.|[2310.15168](http://arxiv.org/abs/2310.15168)|null|
+|**2023-10-23**|**SAM-Med3D**|Haoyu Wang et.al.|[2310.15161](http://arxiv.org/abs/2310.15161)|**[link](https://github.com/uni-medical/sam-med3d)**|
+|**2023-10-23**|**Accelerate Microstructure Evolution Simulation Using Graph Neural Networks with Adaptive Spatiotemporal Resolution**|Shaoxun Fan et.al.|[2310.15153](http://arxiv.org/abs/2310.15153)|null|
+|**2023-10-23**|**DEsignBench: Exploring and Benchmarking DALL-E 3 for Imagining Visual Design**|Kevin Lin et.al.|[2310.15144](http://arxiv.org/abs/2310.15144)|**[link](https://github.com/design-bench/design-bench.github.io)**|
+|**2023-10-23**|**Novel-View Acoustic Synthesis from 3D Reconstructed Rooms**|Byeongjoo Ahn et.al.|[2310.15130](http://arxiv.org/abs/2310.15130)|**[link](https://github.com/apple/ml-nvas3d)**|
+|**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110](http://arxiv.org/abs/2310.15110)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
+|**2023-10-23**|**Robot Skill Generalization via Keypoint Integrated Soft Actor-Critic Gaussian Mixture Models**|Iman Nematollahi et.al.|[2310.15059](http://arxiv.org/abs/2310.15059)|null|
+|**2023-10-23**|**Fast 2D Bicephalous Convolutional Autoencoder for Compressing 3D Time Projection Chamber Data**|Yi Huang et.al.|[2310.15026](http://arxiv.org/abs/2310.15026)|null|
+|**2023-10-23**|**System Characterization of a Human-Sized 3D Real-Time Magnetic Particle Imaging Scanner for Cerebral Applications**|Florian Thieben et.al.|[2310.15014](http://arxiv.org/abs/2310.15014)|null|
+|**2023-10-23**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008](http://arxiv.org/abs/2310.15008)|null|
 |**2023-10-20**|**Hyperbolic Vacua in Minkowski Space**|Walker Melton et.al.|[2310.13663](http://arxiv.org/abs/2310.13663)|null|
 |**2023-10-20**|**3D-Mirrorcle: Bridging the Virtual and Real through Depth Alignment in Smart Mirror Systems**|Yujia Liu et.al.|[2310.13617](http://arxiv.org/abs/2310.13617)|null|
 |**2023-10-20**|**Local symmetry groups for arbitrary wavevectors**|Emanuele Maggio et.al.|[2310.13568](http://arxiv.org/abs/2310.13568)|null|
@@ -2712,6 +2723,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Orientation-Aware Leg Movement Learning for Action-Driven Human Motion Prediction**|Chunzhi Gu et.al.|[2310.14907](http://arxiv.org/abs/2310.14907)|null|
+|**2023-10-23**|**DICE: Diverse Diffusion Model with Scoring for Trajectory Prediction**|Younwoo Choi et.al.|[2310.14570](http://arxiv.org/abs/2310.14570)|null|
+|**2023-10-21**|**Robust NOMA-assisted OTFS-ISAC Network Design with 3D Motion Prediction Topology**|Luping Xiang et.al.|[2310.13984](http://arxiv.org/abs/2310.13984)|null|
+|**2023-10-21**|**Equivariant Map and Agent Geometry for Autonomous Driving Motion Prediction**|Yuping Wang et.al.|[2310.13922](http://arxiv.org/abs/2310.13922)|null|
 |**2023-10-19**|**NeuroSMPC: A Neural Network guided Sampling Based MPC for On-Road Autonomous Driving**|Kaustab Pal et.al.|[2310.13077](http://arxiv.org/abs/2310.13077)|null|
 |**2023-10-19**|**Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding**|Zhejun Zhang et.al.|[2310.12970](http://arxiv.org/abs/2310.12970)|**[link](https://github.com/zhejz/hptr)**|
 |**2023-10-19**|**A Markovian dynamics for $C. elegans$ behavior across scales**|Antonio C. Costa et.al.|[2310.12883](http://arxiv.org/abs/2310.12883)|**[link](https://github.com/antonioccosta/markov_worm)**|
@@ -2804,6 +2819,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models**|Tianshi Cao et.al.|[2310.13772](http://arxiv.org/abs/2310.13772)|null|
 |**2023-09-11**|**Towards Viewpoint Robustness in Bird's Eye View Segmentation**|Tzofi Klinghoffer et.al.|[2309.05192](http://arxiv.org/abs/2309.05192)|null|
 |**2023-08-10**|**Flexible Isosurface Extraction for Gradient-Based Mesh Optimization**|Tianchang Shen et.al.|[2308.05371](http://arxiv.org/abs/2308.05371)|null|
 |**2023-08-03**|**UniSim: A Neural Closed-Loop Sensor Simulator**|Ze Yang et.al.|[2308.01898](http://arxiv.org/abs/2308.01898)|null|
@@ -2820,6 +2836,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions**|Lingdong Kong et.al.|[2310.15171](http://arxiv.org/abs/2310.15171)|**[link](https://github.com/ldkong1205/robodepth)**|
+|**2023-10-23**|**P2AT: Pyramid Pooling Axial Transformer for Real-time Semantic Segmentation**|Mohammed A. M. Elhassan et.al.|[2310.15025](http://arxiv.org/abs/2310.15025)|null|
+|**2023-10-23**|**End-to-End Learning of Behavioural Inputs for Autonomous Driving in Dense Traffic**|Jatan Shrestha et.al.|[2310.14766](http://arxiv.org/abs/2310.14766)|null|
+|**2023-10-23**|**BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities**|Binyu Zhao et.al.|[2310.14702](http://arxiv.org/abs/2310.14702)|**[link](https://github.com/byzhaoai/bm2cp)**|
+|**2023-10-23**|**DICE: Diverse Diffusion Model with Scoring for Trajectory Prediction**|Younwoo Choi et.al.|[2310.14570](http://arxiv.org/abs/2310.14570)|null|
+|**2023-10-22**|**Vision Language Models in Autonomous Driving and Intelligent Transportation Systems**|Xingcheng Zhou et.al.|[2310.14414](http://arxiv.org/abs/2310.14414)|null|
+|**2023-10-22**|**Detrive: Imitation Learning with Transformer Detection for End-to-End Autonomous Driving**|Daoming Chen et.al.|[2310.14224](http://arxiv.org/abs/2310.14224)|**[link](https://github.com/Alexbeast-CN/Detrive)**|
+|**2023-10-21**|**Equivariant Map and Agent Geometry for Autonomous Driving Motion Prediction**|Yuping Wang et.al.|[2310.13922](http://arxiv.org/abs/2310.13922)|null|
+|**2023-10-21**|**Exploring Driving Behavior for Autonomous Vehicles Based on Gramian Angular Field Vision Transformer**|Junwei You et.al.|[2310.13906](http://arxiv.org/abs/2310.13906)|null|
+|**2023-10-20**|**Transformers for Trajectory Optimization with Application to Spacecraft Rendezvous**|Tommaso Guffanti et.al.|[2310.13831](http://arxiv.org/abs/2310.13831)|null|
 |**2023-10-20**|**OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal 3D Data**|Yijie Zhou et.al.|[2310.13398](http://arxiv.org/abs/2310.13398)|null|
 |**2023-10-20**|**Combining Policy Gradient and Safety-Based Control for Autonomous Driving**|Xi Xiong et.al.|[2310.13314](http://arxiv.org/abs/2310.13314)|null|
 |**2023-10-20**|**Higher or Lower: Challenges in Object based SLAM**|Zhihe Zhang et.al.|[2310.13256](http://arxiv.org/abs/2310.13256)|null|
