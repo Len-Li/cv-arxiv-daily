@@ -5,7 +5,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 100
 
 publish_readme: True
 publish_gitpage: True
@@ -32,6 +32,8 @@ keywords:
         filters: ["NVIDIA", "Waymo", "DJI", 'Waabi', 'Raquel Urtasun', 'Sanja Fidler']
     "Autonomous Driving":
         filters: ["Autonomous Driving", "Self-driving", "Shenlong Wang", 'Marco Pavone', 'Andreas Geiger', 'Hongyang Li', 'Yikang Li', 'Wei-Chiu Ma']
+    "NeRF + Autonomous Driving":
+        filters: ["Autonomous Driving", "Self-driving", "NeRF", "neural radiance field"]
     "Adversarial":
         filters: ["Adversarial", "Robustness"]
     "Traffic Simulation":
