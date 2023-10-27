@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.26
+## Updated on 2023.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-25**|**SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation**|Qianxu Wang et.al.|[2310.16838](http://arxiv.org/abs/2310.16838)|null|
 |**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831](http://arxiv.org/abs/2310.16831)|null|
-|**2023-10-25**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818](http://arxiv.org/abs/2310.16818)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
+|**2023-10-26**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818](http://arxiv.org/abs/2310.16818)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
 |**2023-10-25**|**Metal Nanoparticle-Functionalized Three-Dimensional Graphene: a versatile platform towards sensors and energy-related applications**|Emanuele Pompei et.al.|[2310.16797](http://arxiv.org/abs/2310.16797)|null|
 |**2023-10-25**|**How to Extend 3D GBSM to Integrated Sensing and Communication Channel with Sharing Feature?**|Yameng Liu et.al.|[2310.16765](http://arxiv.org/abs/2310.16765)|null|
 |**2023-10-25**|**Best practices for the manual curation of Intrinsically Disordered Proteins in DisProt**|Federica Quaglia et.al.|[2310.16716](http://arxiv.org/abs/2310.16716)|null|
@@ -36,7 +36,7 @@ layout: default
 |**2023-10-24**|**EquivAct: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation**|Jingyun Yang et.al.|[2310.16050](http://arxiv.org/abs/2310.16050)|null|
 |**2023-10-25**|**Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark**|Zhengfei Kuang et.al.|[2310.16044](http://arxiv.org/abs/2310.16044)|null|
 |**2023-10-24**|**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**|Joy Hsu et.al.|[2310.16035](http://arxiv.org/abs/2310.16035)|**[link](https://github.com/joyhsu0504/left)**|
-|**2023-10-24**|**ConvBKI: Real-Time Probabilistic Semantic Mapping Network with Quantifiable Uncertainty**|Joey Wilson et.al.|[2310.16020](http://arxiv.org/abs/2310.16020)|null|
+|**2023-10-26**|**ConvBKI: Real-Time Probabilistic Semantic Mapping Network with Quantifiable Uncertainty**|Joey Wilson et.al.|[2310.16020](http://arxiv.org/abs/2310.16020)|null|
 |**2023-10-24**|**A New 2D Energy Balance Model For Simulating the Climates of Rapidly- and Slowly-Rotating Terrestrial Planets**|Ramses M. Ramirez et.al.|[2310.15992](http://arxiv.org/abs/2310.15992)|null|
 |**2023-10-24**|**Geometry-Aware Video Quality Assessment for Dynamic Digital Human**|Zicheng Zhang et.al.|[2310.15984](http://arxiv.org/abs/2310.15984)|null|
 |**2023-10-24**|**Frictional weakening of a granular sheared layer due to viscous rolling revealed by Discrete Element Modeling**|Alexandre Sac--Morane et.al.|[2310.15945](http://arxiv.org/abs/2310.15945)|null|
@@ -44,7 +44,7 @@ layout: default
 |**2023-10-24**|**A Spline-Based Collocation Method for Stokes and Navier-Stokes equations**|Jinsil Lee et.al.|[2310.15825](http://arxiv.org/abs/2310.15825)|null|
 |**2023-10-24**|**3D Masked Autoencoders for Enhanced Privacy in MRI Scans**|Lennart Alexander Van der Goten et.al.|[2310.15778](http://arxiv.org/abs/2310.15778)|null|
 |**2023-10-24**|**Recurrent Linear Transformers**|Subhojeet Pramanik et.al.|[2310.15719](http://arxiv.org/abs/2310.15719)|**[link](https://github.com/subho406/Recurrent-Linear-Transformers)**|
-|**2023-10-24**|**GNeSF: Generalizable Neural Semantic Fields**|Hanlin Chen et.al.|[2310.15712](http://arxiv.org/abs/2310.15712)|null|
+|**2023-10-26**|**GNeSF: Generalizable Neural Semantic Fields**|Hanlin Chen et.al.|[2310.15712](http://arxiv.org/abs/2310.15712)|null|
 |**2023-10-24**|**Physics-Informed with Power-Enhanced Residual Network for Interpolation and Inverse Problems**|Amir Noorizadegan et.al.|[2310.15690](http://arxiv.org/abs/2310.15690)|null|
 |**2023-10-24**|**Recent Advances in Multi-modal 3D Scene Understanding: A Comprehensive Survey and Evaluation**|Yinjie Lei et.al.|[2310.15676](http://arxiv.org/abs/2310.15676)|null|
 |**2023-10-24**|**Leveraging Vision-Centric Multi-Modal Expertise for 3D Object Detection**|Linyan Huang et.al.|[2310.15670](http://arxiv.org/abs/2310.15670)|**[link](https://github.com/opendrivelab/birds-eye-view-perception)**|
@@ -53,7 +53,7 @@ layout: default
 |**2023-10-24**|**I $^2$ MD: 3D Action Representation Learning with Inter- and Intra-modal Mutual Distillation**|Yunyao Mao et.al.|[2310.15568](http://arxiv.org/abs/2310.15568)|null|
 |**2023-10-24**|**Topology Optimization with Text-Guided Stylization**|Shengze Zhong et.al.|[2310.15506](http://arxiv.org/abs/2310.15506)|null|
 |**2023-10-24**|**Generalized Cardy conditions of topological defect lines**|Xia Gu et.al.|[2310.15487](http://arxiv.org/abs/2310.15487)|null|
-|**2023-10-24**|**DeepIron: Predicting Unwarped Garment Texture from a Single Image**|Hyun-Song Kwon et.al.|[2310.15447](http://arxiv.org/abs/2310.15447)|null|
+|**2023-10-26**|**DeepIron: Predicting Unwarped Garment Texture from a Single Image**|Hyun-Song Kwon et.al.|[2310.15447](http://arxiv.org/abs/2310.15447)|null|
 |**2023-10-24**|**Electric quadrupole second harmonic generation revealing dual magnetic orders in a magnetic Weyl semimetal**|Youngjun Ahn et.al.|[2310.15423](http://arxiv.org/abs/2310.15423)|null|
 |**2023-10-23**|**Internally heated and fully compressible convection: flow morphology and scaling laws**|Whitney T. Powers et.al.|[2310.15380](http://arxiv.org/abs/2310.15380)|null|
 |**2023-10-23**|**Vicinal Feature Statistics Augmentation for Federated 3D Medical Volume Segmentation**|Yongsong Huang et.al.|[2310.15371](http://arxiv.org/abs/2310.15371)|null|
