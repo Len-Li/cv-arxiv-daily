@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.29
+## Updated on 2023.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -18,7 +18,7 @@ layout: default
 |**2023-10-26**|**Simulation-based Inference of Reionization Parameters from 3D Tomographic 21 cm Light-cone Images -- II: Application of Solid Harmonic Wavelet Scattering Transform**|Xiaosheng Zhao et.al.|[2310.17602](http://arxiv.org/abs/2310.17602)|**[link](https://github.com/xiaosheng-zhao/21cmdelfi)**|
 |**2023-10-26**|**Trading particle shape with fluid symmetry: on the mobility matrix in 3D chiral fluids**|Tali Khain et.al.|[2310.17528](http://arxiv.org/abs/2310.17528)|null|
 |**2023-10-26**|**Masked Space-Time Hash Encoding for Efficient Dynamic Scene Reconstruction**|Feng Wang et.al.|[2310.17527](http://arxiv.org/abs/2310.17527)|**[link](https://github.com/masked-spacetime-hashing/msth)**|
-|**2023-10-26**|**FLARE: Fast Learning of Animatable and Relightable Mesh Avatars**|Shrisha Bharadwaj et.al.|[2310.17519](http://arxiv.org/abs/2310.17519)|null|
+|**2023-10-27**|**FLARE: Fast Learning of Animatable and Relightable Mesh Avatars**|Shrisha Bharadwaj et.al.|[2310.17519](http://arxiv.org/abs/2310.17519)|null|
 |**2023-10-26**|**Revisiting the Distillation of Image Representations into Point Clouds for Autonomous Driving**|Gilles Puy et.al.|[2310.17504](http://arxiv.org/abs/2310.17504)|null|
 |**2023-10-26**|**A Hybrid Graph Network for Complex Activity Detection in Video**|Salman Khan et.al.|[2310.17493](http://arxiv.org/abs/2310.17493)|null|
 |**2023-10-26**|**Towards Learning Monocular 3D Object Localization From 2D Labels using the Physical Laws of Motion**|Daniel Kienzle et.al.|[2310.17462](http://arxiv.org/abs/2310.17462)|null|
