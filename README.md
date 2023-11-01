@@ -22,6 +22,48 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|null|
+|**2023-10-31**|**StairNet: Visual Recognition of Stairs for Human-Robot Locomotion**|Andrew Garrett Kurbis et.al.|[2310.20666](http://arxiv.org/abs/2310.20666)|null|
+|**2023-10-31**|**Higher-order reductions of the Mikhalev system**|E. V. Ferapontov et.al.|[2310.20528](http://arxiv.org/abs/2310.20528)|null|
+|**2023-10-31**|**Large Language Model Can Interpret Latent Space of Sequential Recommender**|Zhengyi Yang et.al.|[2310.20487](http://arxiv.org/abs/2310.20487)|null|
+|**2023-10-31**|**SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark**|Zhengdi Yu et.al.|[2310.20436](http://arxiv.org/abs/2310.20436)|null|
+|**2023-10-31**|**Thermal-Infrared Remote Target Detection System for Maritime Rescue based on Data Augmentation with 3D Synthetic Data**|Sungjin Cheong et.al.|[2310.20412](http://arxiv.org/abs/2310.20412)|null|
+|**2023-10-31**|**Two for One -- Combined Morphologic and Quantitative Knee Joint MRI Using a Versatile Turbo Spin-Echo Platform**|Teresa Lemainque et.al.|[2310.20362](http://arxiv.org/abs/2310.20362)|null|
+|**2023-10-31**|**Muscle volume quantification: guiding transformers with anatomical priors**|Louise Piecuch et.al.|[2310.20355](http://arxiv.org/abs/2310.20355)|null|
+|**2023-10-31**|**GACE: Geometry Aware Confidence Enhancement for Black-Box 3D Object Detectors on LiDAR-Data**|David Schinagl et.al.|[2310.20319](http://arxiv.org/abs/2310.20319)|**[link](https://github.com/dschinagl/gace)**|
+|**2023-10-31**|**The theory of symmetric tensor field with boundary: Kac-Moody algebras in linearized gravity**|Erica Bertolini et.al.|[2310.20303](http://arxiv.org/abs/2310.20303)|null|
+|**2023-10-31**|**Annotator: A Generic Active Learning Baseline for LiDAR Semantic Segmentation**|Binhui Xie et.al.|[2310.20293](http://arxiv.org/abs/2310.20293)|null|
+|**2023-10-31**|**Contrast-agent-induced deterministic component of CT-density in the abdominal aorta during routine angiography: proof of concept study**|Maria R. Kodenko et.al.|[2310.20243](http://arxiv.org/abs/2310.20243)|null|
+|**2023-10-31**|**Breathing Life into Faces: Speech-driven 3D Facial Animation with Natural Head Pose and Detailed Shape**|Wei Zhao et.al.|[2310.20240](http://arxiv.org/abs/2310.20240)|null|
+|**2023-10-31**|**HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds**|Gang Zhang et.al.|[2310.20234](http://arxiv.org/abs/2310.20234)|**[link](https://github.com/zhanggang001/hednet)**|
+|**2023-10-31**|**Reconstructing Human Pose from Inertial Measurements: A Generative Model-based Compressive Sensing Approach**|Nguyen Quang Hieu et.al.|[2310.20228](http://arxiv.org/abs/2310.20228)|null|
+|**2023-10-31**|**Refined Equivalent Pinhole Model for Large-scale 3D Reconstruction from Spaceborne CCD Imagery**|Hong Danyang et.al.|[2310.20117](http://arxiv.org/abs/2310.20117)|null|
+|**2023-10-30**|**Does the $ν_{\max}$ scaling relation depend on metallicity? Insights from 3D convection simulations**|Yixiao Zhou et.al.|[2310.20050](http://arxiv.org/abs/2310.20050)|null|
+|**2023-10-30**|**Computational Design of Magnetic Soft Shape-Forming Catheters using the Material Point Method**|Joshua Davy et.al.|[2310.19983](http://arxiv.org/abs/2310.19983)|null|
+|**2023-10-30**|**Dynamic, viscoelasticity-driven shape change of elastomer bilayers**|Wenya Shu et.al.|[2310.19954](http://arxiv.org/abs/2310.19954)|null|
+|**2023-10-30**|**Spectator-model studies for spin-dependent gluon TMD PDFs at the LHC and EIC**|Alessandro Bacchetta et.al.|[2310.19916](http://arxiv.org/abs/2310.19916)|null|
+|**2023-10-30**|**GPCR-BERT: Interpreting Sequential Design of G Protein Coupled Receptors Using Protein Language Models**|Seongwon Kim et.al.|[2310.19915](http://arxiv.org/abs/2310.19915)|null|
+|**2023-10-30**|**Quantum Monte Carlo Simulation of the 3D Ising Transition on the Fuzzy Sphere**|Johannes S. Hofmann et.al.|[2310.19880](http://arxiv.org/abs/2310.19880)|null|
+|**2023-10-30**|**Metric Flows with Neural Networks**|James Halverson et.al.|[2310.19870](http://arxiv.org/abs/2310.19870)|null|
+|**2023-10-30**|**CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models**|Ziyang Yuan et.al.|[2310.19784](http://arxiv.org/abs/2310.19784)|null|
+|**2023-10-30**|**From Instability to Singularity Formation in Incompressible Fluids**|Tarek M. Elgindi et.al.|[2310.19780](http://arxiv.org/abs/2310.19780)|null|
+|**2023-10-31**|**Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models**|Hao Li et.al.|[2310.19721](http://arxiv.org/abs/2310.19721)|null|
+|**2023-10-30**|**Distributed multi-UAV shield formation based on virtual surface constraints**|María Guinaldo et.al.|[2310.19681](http://arxiv.org/abs/2310.19681)|null|
+|**2023-10-30**|**Isolating the Nonlinear Optical Response of a MoS $_2$ Monolayer under Extreme Screening of a Metal Substrate**|Tao Yang et.al.|[2310.19657](http://arxiv.org/abs/2310.19657)|null|
+|**2023-10-30**|**Automatic 3D modeling by combining SBFEM and transfinite element shape functions**|Hauke Gravenkamp et.al.|[2310.19646](http://arxiv.org/abs/2310.19646)|null|
+|**2023-10-30**|**RayDF: Neural Ray-surface Distance Fields with Multi-view Consistency**|Zhuoman Liu et.al.|[2310.19629](http://arxiv.org/abs/2310.19629)|**[link](https://github.com/vlar-group/raydf)**|
+|**2023-10-30**|**Self-assembled physical unclonable function labels based on plasmonic coupling**|Mihir Dass et.al.|[2310.19587](http://arxiv.org/abs/2310.19587)|null|
+|**2023-10-30**|**A Perceptual Shape Loss for Monocular 3D Face Reconstruction**|Christopher Otto et.al.|[2310.19580](http://arxiv.org/abs/2310.19580)|null|
+|**2023-10-30**|**Generating Context-Aware Natural Answers for Questions in 3D Scenes**|Mohammed Munzer Dwedari et.al.|[2310.19516](http://arxiv.org/abs/2310.19516)|null|
+|**2023-10-30**|**Inverse folding for antibody sequence design using deep learning**|Frédéric A. Dreyer et.al.|[2310.19513](http://arxiv.org/abs/2310.19513)|null|
+|**2023-10-30**|**Dynamic Gaussian Splatting from Markerless Motion Capture can Reconstruct Infants Movements**|R. James Cotton et.al.|[2310.19441](http://arxiv.org/abs/2310.19441)|null|
+|**2023-10-30**|**Revision of Analytical Properties of Reaction Amplitude near Thresholds Using the Example of Muon-Induced Prompt Fission**|F. F. Karpeshin et.al.|[2310.19421](http://arxiv.org/abs/2310.19421)|null|
+|**2023-10-31**|**Text-to-3D with Classifier Score Distillation**|Xin Yu et.al.|[2310.19415](http://arxiv.org/abs/2310.19415)|null|
+|**2023-10-30**|**Computing decay widths of autoionizing Rydberg states with complex-variable coupled cluster theory**|Joel Creutzberg et.al.|[2310.19377](http://arxiv.org/abs/2310.19377)|null|
+|**2023-10-30**|**FetusMapV2: Enhanced Fetal Pose Estimation in 3D Ultrasound**|Chaoyu Chen et.al.|[2310.19293](http://arxiv.org/abs/2310.19293)|null|
+|**2023-10-30**|**rTsfNet: a DNN model with Multi-head 3D Rotation and Time Series Feature Extraction for IMU-based Human Activity Recognition**|Yu Enokibori et.al.|[2310.19283](http://arxiv.org/abs/2310.19283)|null|
+|**2023-10-30**|**THz transition radiation of electron bunch laser-accelerated in long-scale near-critical density plasmas**|D A Gorlova et.al.|[2310.19282](http://arxiv.org/abs/2310.19282)|null|
+|**2023-10-30**|**Prediction of Effective Elastic Moduli of Rocks using Graph Neural Networks**|Jaehong Chung et.al.|[2310.19274](http://arxiv.org/abs/2310.19274)|null|
 |**2023-10-29**|**Popularity, face and voice: Predicting and interpreting livestreamers' retail performance using machine learning techniques**|Xiong Xiong et.al.|[2310.19200](http://arxiv.org/abs/2310.19200)|null|
 |**2023-10-29**|**Immersive 3D Simulator for Drone-as-a-Service**|Jiamin Lin et.al.|[2310.19199](http://arxiv.org/abs/2310.19199)|null|
 |**2023-10-29**|**3DMiner: Discovering Shapes from Large-Scale Unannotated Image Datasets**|Ta-Ying Cheng et.al.|[2310.19188](http://arxiv.org/abs/2310.19188)|null|
@@ -48,7 +90,7 @@
 |**2023-10-28**|**ODM3D: Alleviating Foreground Sparsity for Enhanced Semi-Supervised Monocular 3D Object Detection**|Weijia Zhang et.al.|[2310.18620](http://arxiv.org/abs/2310.18620)|null|
 |**2023-10-28**|**Deep3DSketch+: Obtaining Customized 3D Model by Single Free-Hand Sketch through Deep Learning**|Ying Zang et.al.|[2310.18609](http://arxiv.org/abs/2310.18609)|null|
 |**2023-10-28**|**The Milky Way Bulge extra-tidal star survey: BH 261 (AL 3)**|Andrea Kunder et.al.|[2310.18575](http://arxiv.org/abs/2310.18575)|null|
-|**2023-10-27**|**FPM-INR: Fourier ptychographic microscopy image stack reconstruction using implicit neural representations**|Haowen Zhou et.al.|[2310.18529](http://arxiv.org/abs/2310.18529)|null|
+|**2023-10-27**|**FPM-INR: Fourier ptychographic microscopy image stack reconstruction using implicit neural representations**|Haowen Zhou et.al.|[2310.18529](http://arxiv.org/abs/2310.18529)|**[link](https://github.com/hwzhou2020/fpm_inr)**|
 |**2023-10-27**|**Using convolutional neural networks for stereological characterization of 3D hetero-aggregates based on synthetic STEM data**|Lukas Fuchs et.al.|[2310.18523](http://arxiv.org/abs/2310.18523)|null|
 |**2023-10-27**|**Learning to design protein-protein interactions with enhanced generalization**|Anton Bushuiev et.al.|[2310.18515](http://arxiv.org/abs/2310.18515)|null|
 |**2023-10-27**|**3DCoMPaT $^{++}$ : An improved Large-scale 3D Vision Dataset for Compositional Recognition**|Habib Slim et.al.|[2310.18511](http://arxiv.org/abs/2310.18511)|null|
@@ -235,6 +277,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/abs/2310.20710)|null|
+|**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/abs/2310.20685)|null|
 |**2023-10-31**|**DynPoint: Dynamic Neural Point For View Synthesis**|Kaichen Zhou et.al.|[2310.18999](http://arxiv.org/abs/2310.18999)|null|
 |**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
 |**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/abs/2310.18846)|null|
@@ -457,6 +501,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**Addressing Limitations of State-Aware Imitation Learning for Autonomous Driving**|Luca Cultrera et.al.|[2310.20650](http://arxiv.org/abs/2310.20650)|null|
+|**2023-10-31**|**FLODCAST: Flow and Depth Forecasting via Multimodal Recurrent Architectures**|Andrea Ciamarra et.al.|[2310.20593](http://arxiv.org/abs/2310.20593)|null|
+|**2023-10-31**|**Predictive Control for Autonomous Driving with Uncertain, Multi-modal Predictions**|Siddharth H. Nair et.al.|[2310.20561](http://arxiv.org/abs/2310.20561)|null|
+|**2023-10-31**|**Collaborative Decision-Making Using Spatiotemporal Graphs in Connected Autonomy**|Peng Gao et.al.|[2310.20491](http://arxiv.org/abs/2310.20491)|null|
+|**2023-10-31**|**Enhancing the Spatial Awareness Capability of Multi-Modal Large Language Model**|Yongqiang Zhao et.al.|[2310.20357](http://arxiv.org/abs/2310.20357)|null|
+|**2023-10-31**|**HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds**|Gang Zhang et.al.|[2310.20234](http://arxiv.org/abs/2310.20234)|**[link](https://github.com/zhanggang001/hednet)**|
+|**2023-10-30**|**Large Trajectory Models are Scalable Motion Predictors and Planners**|Qiao Sun et.al.|[2310.19620](http://arxiv.org/abs/2310.19620)|**[link](https://github.com/tsinghua-mars-lab/statetransformer)**|
 |**2023-10-31**|**Social Interaction-Aware Dynamical Models and Decision Making for Autonomous Vehicles**|Luca Crosato et.al.|[2310.18891](http://arxiv.org/abs/2310.18891)|null|
 |**2023-10-28**|**ODM3D: Alleviating Foreground Sparsity for Enhanced Semi-Supervised Monocular 3D Object Detection**|Weijia Zhang et.al.|[2310.18620](http://arxiv.org/abs/2310.18620)|null|
 |**2023-10-27**|**Interactive Motion Planning for Autonomous Vehicles with Joint Optimization**|Yuxiao Chen et.al.|[2310.18301](http://arxiv.org/abs/2310.18301)|null|
@@ -581,6 +632,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/abs/2310.20710)|null|
+|**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/abs/2310.20685)|null|
+|**2023-10-31**|**Addressing Limitations of State-Aware Imitation Learning for Autonomous Driving**|Luca Cultrera et.al.|[2310.20650](http://arxiv.org/abs/2310.20650)|null|
+|**2023-10-31**|**FLODCAST: Flow and Depth Forecasting via Multimodal Recurrent Architectures**|Andrea Ciamarra et.al.|[2310.20593](http://arxiv.org/abs/2310.20593)|null|
+|**2023-10-31**|**Predictive Control for Autonomous Driving with Uncertain, Multi-modal Predictions**|Siddharth H. Nair et.al.|[2310.20561](http://arxiv.org/abs/2310.20561)|null|
+|**2023-10-31**|**Collaborative Decision-Making Using Spatiotemporal Graphs in Connected Autonomy**|Peng Gao et.al.|[2310.20491](http://arxiv.org/abs/2310.20491)|null|
+|**2023-10-31**|**Enhancing the Spatial Awareness Capability of Multi-Modal Large Language Model**|Yongqiang Zhao et.al.|[2310.20357](http://arxiv.org/abs/2310.20357)|null|
+|**2023-10-31**|**HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds**|Gang Zhang et.al.|[2310.20234](http://arxiv.org/abs/2310.20234)|**[link](https://github.com/zhanggang001/hednet)**|
+|**2023-10-30**|**Large Trajectory Models are Scalable Motion Predictors and Planners**|Qiao Sun et.al.|[2310.19620](http://arxiv.org/abs/2310.19620)|**[link](https://github.com/tsinghua-mars-lab/statetransformer)**|
 |**2023-10-31**|**DynPoint: Dynamic Neural Point For View Synthesis**|Kaichen Zhou et.al.|[2310.18999](http://arxiv.org/abs/2310.18999)|null|
 |**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
 |**2023-10-31**|**Social Interaction-Aware Dynamical Models and Decision Making for Autonomous Vehicles**|Luca Crosato et.al.|[2310.18891](http://arxiv.org/abs/2310.18891)|null|
@@ -712,6 +772,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**STDA-Meta: A Meta-Learning Framework for Few-Shot Traffic Prediction**|Maoxiang Sun et.al.|[2310.20223](http://arxiv.org/abs/2310.20223)|null|
+|**2023-10-31**|**GraphTransformers for Geospatial Forecasting**|Pallavi Banerjee et.al.|[2310.20174](http://arxiv.org/abs/2310.20174)|null|
+|**2023-10-31**|**Decision-Making for Autonomous Vehicles with Interaction-Aware Behavioral Prediction and Social-Attention Neural Network**|Xiao Li et.al.|[2310.20148](http://arxiv.org/abs/2310.20148)|null|
+|**2023-10-30**|**Conditional Unscented Autoencoders for Trajectory Prediction**|Faris Janjoš et.al.|[2310.19944](http://arxiv.org/abs/2310.19944)|null|
+|**2023-10-30**|**Large Trajectory Models are Scalable Motion Predictors and Planners**|Qiao Sun et.al.|[2310.19620](http://arxiv.org/abs/2310.19620)|**[link](https://github.com/tsinghua-mars-lab/statetransformer)**|
 |**2023-10-28**|**Triplet Attention Transformer for Spatiotemporal Predictive Learning**|Xuesong Nie et.al.|[2310.18698](http://arxiv.org/abs/2310.18698)|null|
 |**2023-10-27**|**Interactive Motion Planning for Autonomous Vehicles with Joint Optimization**|Yuxiao Chen et.al.|[2310.18301](http://arxiv.org/abs/2310.18301)|null|
 |**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649](http://arxiv.org/abs/2310.17649)|null|
@@ -765,7 +830,7 @@
 |**2023-09-26**|**Learning Generative Models for Climbing Aircraft from Radar Data**|Nick Pepper et.al.|[2309.14941](http://arxiv.org/abs/2309.14941)|null|
 |**2023-10-24**|**Interaction-Aware Sampling-Based MPC with Learned Local Goal Predictions**|Walter Jansma et.al.|[2309.14931](http://arxiv.org/abs/2309.14931)|null|
 |**2023-09-28**|**Semantic Map Learning of Traffic Light to Lane Assignment based on Motion Data**|Thomas Monninger et.al.|[2309.14793](http://arxiv.org/abs/2309.14793)|**[link](https://github.com/map-learning/tl2la)**|
-|**2023-09-25**|**Scene Informer: Anchor-based Occlusion Inference and Trajectory Prediction in Partially Observable Environments**|Bernard Lange et.al.|[2309.13893](http://arxiv.org/abs/2309.13893)|null|
+|**2023-09-25**|**Scene Informer: Anchor-based Occlusion Inference and Trajectory Prediction in Partially Observable Environments**|Bernard Lange et.al.|[2309.13893](http://arxiv.org/abs/2309.13893)|**[link](https://github.com/sisl/sceneinformer)**|
 |**2023-09-24**|**DROP: Dynamics Responses from Human Motion Prior and Projective Dynamics**|Yifeng Jiang et.al.|[2309.13742](http://arxiv.org/abs/2309.13742)|null|
 |**2023-09-22**|**SoRTS: Learned Tree Search for Long Horizon Social Robot Navigation**|Ingrid Navarro et.al.|[2309.13144](http://arxiv.org/abs/2309.13144)|**[link](https://github.com/cmubig/sorts)**|
 |**2023-09-19**|**A Novel Deep Neural Network for Trajectory Prediction in Automated Vehicles Using Velocity Vector Field**|MReza Alipour Sormoli et.al.|[2309.10948](http://arxiv.org/abs/2309.10948)|**[link](https://github.com/Amir-Samadi/VVF-TP)**|
