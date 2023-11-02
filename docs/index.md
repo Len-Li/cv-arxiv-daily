@@ -14,6 +14,27 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**Shaking a container full of perfect liquid; a tractable case, a torus shell, exhibits a virtual wall**|J. H. Hannay et.al.|[2311.00576](http://arxiv.org/abs/2311.00576)|null|
+|**2023-11-01**|**Accelerated particle beams in a 3D simulation of the quiet Sun. Effects of advanced beam propagation modelling**|L. Frogner et.al.|[2311.00490](http://arxiv.org/abs/2311.00490)|null|
+|**2023-11-01**|**DEFN: Dual-Encoder Fourier Group Harmonics Network for Three-Dimensional Macular Hole Reconstruction with Stochastic Retinal Defect Augmentation and Dynamic Weight Composition**|Xingru Huang et.al.|[2311.00483](http://arxiv.org/abs/2311.00483)|**[link](https://github.com/iipl-hangzhoudianziuniversity/defn-pytorch)**|
+|**2023-11-01**|**Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture**|Yixin Chen et.al.|[2311.00457](http://arxiv.org/abs/2311.00457)|null|
+|**2023-11-01**|**Artificial Intelligence-Facilitated Online Adaptive Proton Therapy Using Pencil Beam Scanning Proton Therapy**|Hongying Feng et.al.|[2311.00448](http://arxiv.org/abs/2311.00448)|null|
+|**2023-11-01**|**Neural Implicit Field Editing Considering Object-environment Interaction**|Zhihong Zeng et.al.|[2311.00425](http://arxiv.org/abs/2311.00425)|null|
+|**2023-11-01**|**Fixation-based Self-calibration for Eye Tracking in VR Headsets**|Ryusei Uramune et.al.|[2311.00391](http://arxiv.org/abs/2311.00391)|null|
+|**2023-11-01**|**NeuralGF: Unsupervised Point Normal Estimation by Learning Neural Gradient Function**|Qing Li et.al.|[2311.00389](http://arxiv.org/abs/2311.00389)|**[link](https://github.com/leoqli/neuralgf)**|
+|**2023-11-01**|**MolecularWebXR: Multiuser discussions about chemistry and biology in immersive and inclusive VR**|Fabio J. Cortes Rodriguez et.al.|[2311.00385](http://arxiv.org/abs/2311.00385)|null|
+|**2023-11-01**|**Space Narrative: Generating Images and 3D Scenes of Chinese Garden from Text using Deep Learning**|Jiaxi Shi1 et.al.|[2311.00339](http://arxiv.org/abs/2311.00339)|null|
+|**2023-11-01**|**From Image to Language: A Critical Analysis of Visual Question Answering (VQA) Approaches, Challenges, and Opportunities**|Md Farhan Ishmam et.al.|[2311.00308](http://arxiv.org/abs/2311.00308)|null|
+|**2023-11-01**|**Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study**|Jonghun Kim et.al.|[2311.00265](http://arxiv.org/abs/2311.00265)|**[link](https://github.com/jongdory/aldm)**|
+|**2023-10-31**|**Mass and Angular Momentum Transport in a Gravitationally Unstable Protoplanetary Disk with Improved 3D Radiative Hydrodynamics**|Thomas Y. Steiman-Cameron et.al.|[2311.00175](http://arxiv.org/abs/2311.00175)|null|
+|**2023-10-31**|**RIR-SF: Room Impulse Response Based Spatial Feature for Multi-channel Multi-talker ASR**|Yiwen Shao et.al.|[2311.00146](http://arxiv.org/abs/2311.00146)|null|
+|**2023-10-31**|**Non-destructive tomographic nanoscale imaging of ferroelectric domain walls**|Jiali He et.al.|[2311.00139](http://arxiv.org/abs/2311.00139)|null|
+|**2023-10-31**|**Joint Depth Prediction and Semantic Segmentation with Multi-View SAM**|Mykhailo Shvets et.al.|[2311.00134](http://arxiv.org/abs/2311.00134)|null|
+|**2023-10-31**|**Deep Compressed Learning for 3D Seismic Inversion**|Maayan Gelboim et.al.|[2311.00107](http://arxiv.org/abs/2311.00107)|null|
+|**2023-10-31**|**Wavelet Based Statistics for Enhanced 21cm EoR Parameter Constraints**|Ian Hothi et.al.|[2311.00036](http://arxiv.org/abs/2311.00036)|null|
+|**2023-10-31**|**Magnetorotational dynamo can generate large-scale vertical magnetic fields in 3D GRMHD simulations of accreting black holes**|Jonatan Jacquemin-Ide et.al.|[2311.00034](http://arxiv.org/abs/2311.00034)|null|
+|**2023-10-31**|**Neutrino trapping and out-of-equilibrium effects in binary neutron star merger remnants**|Pedro Luis Espino et.al.|[2311.00031](http://arxiv.org/abs/2311.00031)|null|
+|**2023-10-31**|**How to Turn Jets into Cylinders near Supermassive Black Holes in 3D GRMHD Simulations**|Valeriia Rohoza et.al.|[2311.00018](http://arxiv.org/abs/2311.00018)|null|
 |**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|null|
 |**2023-10-31**|**StairNet: Visual Recognition of Stairs for Human-Robot Locomotion**|Andrew Garrett Kurbis et.al.|[2310.20666](http://arxiv.org/abs/2310.20666)|null|
 |**2023-10-31**|**Higher-order reductions of the Mikhalev system**|E. V. Ferapontov et.al.|[2310.20528](http://arxiv.org/abs/2310.20528)|null|
@@ -487,6 +508,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**Learning Cooperative Trajectory Representations for Motion Forecasting**|Hongzhi Ruan et.al.|[2311.00371](http://arxiv.org/abs/2311.00371)|**[link](https://github.com/air-thu/dair-v2x-seq)**|
 |**2023-10-31**|**Addressing Limitations of State-Aware Imitation Learning for Autonomous Driving**|Luca Cultrera et.al.|[2310.20650](http://arxiv.org/abs/2310.20650)|null|
 |**2023-10-31**|**FLODCAST: Flow and Depth Forecasting via Multimodal Recurrent Architectures**|Andrea Ciamarra et.al.|[2310.20593](http://arxiv.org/abs/2310.20593)|null|
 |**2023-10-31**|**Predictive Control for Autonomous Driving with Uncertain, Multi-modal Predictions**|Siddharth H. Nair et.al.|[2310.20561](http://arxiv.org/abs/2310.20561)|null|
@@ -616,6 +638,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**Learning Cooperative Trajectory Representations for Motion Forecasting**|Hongzhi Ruan et.al.|[2311.00371](http://arxiv.org/abs/2311.00371)|**[link](https://github.com/air-thu/dair-v2x-seq)**|
 |**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/abs/2310.20710)|null|
 |**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/abs/2310.20685)|null|
 |**2023-10-31**|**Addressing Limitations of State-Aware Imitation Learning for Autonomous Driving**|Luca Cultrera et.al.|[2310.20650](http://arxiv.org/abs/2310.20650)|null|
