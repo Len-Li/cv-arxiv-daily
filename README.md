@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.02
+## Updated on 2023.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -49,7 +49,7 @@
 |**2023-10-31**|**Large Language Model Can Interpret Latent Space of Sequential Recommender**|Zhengyi Yang et.al.|[2310.20487](http://arxiv.org/abs/2310.20487)|null|
 |**2023-10-31**|**SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark**|Zhengdi Yu et.al.|[2310.20436](http://arxiv.org/abs/2310.20436)|null|
 |**2023-10-31**|**Thermal-Infrared Remote Target Detection System for Maritime Rescue based on Data Augmentation with 3D Synthetic Data**|Sungjin Cheong et.al.|[2310.20412](http://arxiv.org/abs/2310.20412)|null|
-|**2023-10-31**|**Two for One -- Combined Morphologic and Quantitative Knee Joint MRI Using a Versatile Turbo Spin-Echo Platform**|Teresa Lemainque et.al.|[2310.20362](http://arxiv.org/abs/2310.20362)|null|
+|**2023-11-02**|**Two for One -- Combined Morphologic and Quantitative Knee Joint MRI Using a Versatile Turbo Spin-Echo Platform**|Teresa Lemainque et.al.|[2310.20362](http://arxiv.org/abs/2310.20362)|null|
 |**2023-10-31**|**Muscle volume quantification: guiding transformers with anatomical priors**|Louise Piecuch et.al.|[2310.20355](http://arxiv.org/abs/2310.20355)|null|
 |**2023-10-31**|**GACE: Geometry Aware Confidence Enhancement for Black-Box 3D Object Detectors on LiDAR-Data**|David Schinagl et.al.|[2310.20319](http://arxiv.org/abs/2310.20319)|**[link](https://github.com/dschinagl/gace)**|
 |**2023-10-31**|**The theory of symmetric tensor field with boundary: Kac-Moody algebras in linearized gravity**|Erica Bertolini et.al.|[2310.20303](http://arxiv.org/abs/2310.20303)|null|
@@ -292,7 +292,7 @@
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231103>back to top</a>)</p>
 
 ## NeRF
 
@@ -409,7 +409,7 @@
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231103>back to top</a>)</p>
 
 ## Industry
 
@@ -516,7 +516,7 @@
 |**2020-12-22**|**DAGMapper: Learning to Map by Discovering Lane Topology**|Namdar Homayounfar et.al.|[2012.12377](http://arxiv.org/abs/2012.12377)|null|
 |**2020-12-22**|**Hierarchical Recurrent Attention Networks for Structured Online Maps**|Namdar Homayounfar et.al.|[2012.12314](http://arxiv.org/abs/2012.12314)|null|
 
-<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231103>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -532,7 +532,7 @@
 |**2023-10-30**|**Large Trajectory Models are Scalable Motion Predictors and Planners**|Qiao Sun et.al.|[2310.19620](http://arxiv.org/abs/2310.19620)|**[link](https://github.com/tsinghua-mars-lab/statetransformer)**|
 |**2023-10-31**|**Social Interaction-Aware Dynamical Models and Decision Making for Autonomous Vehicles**|Luca Crosato et.al.|[2310.18891](http://arxiv.org/abs/2310.18891)|null|
 |**2023-10-28**|**ODM3D: Alleviating Foreground Sparsity for Enhanced Semi-Supervised Monocular 3D Object Detection**|Weijia Zhang et.al.|[2310.18620](http://arxiv.org/abs/2310.18620)|null|
-|**2023-10-27**|**Interactive Motion Planning for Autonomous Vehicles with Joint Optimization**|Yuxiao Chen et.al.|[2310.18301](http://arxiv.org/abs/2310.18301)|null|
+|**2023-11-02**|**Interactive Motion Planning for Autonomous Vehicles with Joint Optimization**|Yuxiao Chen et.al.|[2310.18301](http://arxiv.org/abs/2310.18301)|null|
 |**2023-10-27**|**Guided Data Augmentation for Offline Reinforcement Learning and Imitation Learning**|Nicholas E. Corrado et.al.|[2310.18247](http://arxiv.org/abs/2310.18247)|null|
 |**2023-10-27**|**Fine-Tuning Language Models Using Formal Methods Feedback**|Yunhao Yang et.al.|[2310.18239](http://arxiv.org/abs/2310.18239)|null|
 |**2023-10-27**|**Siamese-DETR for Generic Multi-Object Tracking**|Qiankun Liu et.al.|[2310.17875](http://arxiv.org/abs/2310.17875)|null|
@@ -648,7 +648,7 @@
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231103>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -789,7 +789,7 @@
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231103>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -801,9 +801,9 @@
 |**2023-10-30**|**Conditional Unscented Autoencoders for Trajectory Prediction**|Faris Janjoš et.al.|[2310.19944](http://arxiv.org/abs/2310.19944)|null|
 |**2023-10-30**|**Large Trajectory Models are Scalable Motion Predictors and Planners**|Qiao Sun et.al.|[2310.19620](http://arxiv.org/abs/2310.19620)|**[link](https://github.com/tsinghua-mars-lab/statetransformer)**|
 |**2023-10-28**|**Triplet Attention Transformer for Spatiotemporal Predictive Learning**|Xuesong Nie et.al.|[2310.18698](http://arxiv.org/abs/2310.18698)|null|
-|**2023-10-27**|**Interactive Motion Planning for Autonomous Vehicles with Joint Optimization**|Yuxiao Chen et.al.|[2310.18301](http://arxiv.org/abs/2310.18301)|null|
+|**2023-11-02**|**Interactive Motion Planning for Autonomous Vehicles with Joint Optimization**|Yuxiao Chen et.al.|[2310.18301](http://arxiv.org/abs/2310.18301)|null|
 |**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649](http://arxiv.org/abs/2310.17649)|null|
-|**2023-10-26**|**Detection Defenses: An Empty Promise against Adversarial Patch Attacks on Optical Flow**|Erik Scheurer et.al.|[2310.17403](http://arxiv.org/abs/2310.17403)|**[link](https://github.com/cv-stuttgart/detectiondefenses)**|
+|**2023-11-02**|**Detection Defenses: An Empty Promise against Adversarial Patch Attacks on Optical Flow**|Erik Scheurer et.al.|[2310.17403](http://arxiv.org/abs/2310.17403)|**[link](https://github.com/cv-stuttgart/detectiondefenses)**|
 |**2023-10-24**|**Data-driven Traffic Simulation: A Comprehensive Review**|Di Chen et.al.|[2310.15975](http://arxiv.org/abs/2310.15975)|null|
 |**2023-10-24**|**Graph-based Trajectory Prediction with Cooperative Information**|Jan Strohbeck et.al.|[2310.15692](http://arxiv.org/abs/2310.15692)|null|
 |**2023-10-23**|**Orientation-Aware Leg Movement Learning for Action-Driven Human Motion Prediction**|Chunzhi Gu et.al.|[2310.14907](http://arxiv.org/abs/2310.14907)|null|
@@ -905,7 +905,7 @@
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231103>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.02
+## Updated on 2023.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -41,7 +41,7 @@ layout: default
 |**2023-10-31**|**Large Language Model Can Interpret Latent Space of Sequential Recommender**|Zhengyi Yang et.al.|[2310.20487](http://arxiv.org/abs/2310.20487)|null|
 |**2023-10-31**|**SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark**|Zhengdi Yu et.al.|[2310.20436](http://arxiv.org/abs/2310.20436)|null|
 |**2023-10-31**|**Thermal-Infrared Remote Target Detection System for Maritime Rescue based on Data Augmentation with 3D Synthetic Data**|Sungjin Cheong et.al.|[2310.20412](http://arxiv.org/abs/2310.20412)|null|
-|**2023-10-31**|**Two for One -- Combined Morphologic and Quantitative Knee Joint MRI Using a Versatile Turbo Spin-Echo Platform**|Teresa Lemainque et.al.|[2310.20362](http://arxiv.org/abs/2310.20362)|null|
+|**2023-11-02**|**Two for One -- Combined Morphologic and Quantitative Knee Joint MRI Using a Versatile Turbo Spin-Echo Platform**|Teresa Lemainque et.al.|[2310.20362](http://arxiv.org/abs/2310.20362)|null|
 |**2023-10-31**|**Muscle volume quantification: guiding transformers with anatomical priors**|Louise Piecuch et.al.|[2310.20355](http://arxiv.org/abs/2310.20355)|null|
 |**2023-10-31**|**GACE: Geometry Aware Confidence Enhancement for Black-Box 3D Object Detectors on LiDAR-Data**|David Schinagl et.al.|[2310.20319](http://arxiv.org/abs/2310.20319)|**[link](https://github.com/dschinagl/gace)**|
 |**2023-10-31**|**The theory of symmetric tensor field with boundary: Kac-Moody algebras in linearized gravity**|Erica Bertolini et.al.|[2310.20303](http://arxiv.org/abs/2310.20303)|null|
@@ -518,7 +518,7 @@ layout: default
 |**2023-10-30**|**Large Trajectory Models are Scalable Motion Predictors and Planners**|Qiao Sun et.al.|[2310.19620](http://arxiv.org/abs/2310.19620)|**[link](https://github.com/tsinghua-mars-lab/statetransformer)**|
 |**2023-10-31**|**Social Interaction-Aware Dynamical Models and Decision Making for Autonomous Vehicles**|Luca Crosato et.al.|[2310.18891](http://arxiv.org/abs/2310.18891)|null|
 |**2023-10-28**|**ODM3D: Alleviating Foreground Sparsity for Enhanced Semi-Supervised Monocular 3D Object Detection**|Weijia Zhang et.al.|[2310.18620](http://arxiv.org/abs/2310.18620)|null|
-|**2023-10-27**|**Interactive Motion Planning for Autonomous Vehicles with Joint Optimization**|Yuxiao Chen et.al.|[2310.18301](http://arxiv.org/abs/2310.18301)|null|
+|**2023-11-02**|**Interactive Motion Planning for Autonomous Vehicles with Joint Optimization**|Yuxiao Chen et.al.|[2310.18301](http://arxiv.org/abs/2310.18301)|null|
 |**2023-10-27**|**Guided Data Augmentation for Offline Reinforcement Learning and Imitation Learning**|Nicholas E. Corrado et.al.|[2310.18247](http://arxiv.org/abs/2310.18247)|null|
 |**2023-10-27**|**Fine-Tuning Language Models Using Formal Methods Feedback**|Yunhao Yang et.al.|[2310.18239](http://arxiv.org/abs/2310.18239)|null|
 |**2023-10-27**|**Siamese-DETR for Generic Multi-Object Tracking**|Qiankun Liu et.al.|[2310.17875](http://arxiv.org/abs/2310.17875)|null|
@@ -783,9 +783,9 @@ layout: default
 |**2023-10-30**|**Conditional Unscented Autoencoders for Trajectory Prediction**|Faris Janjoš et.al.|[2310.19944](http://arxiv.org/abs/2310.19944)|null|
 |**2023-10-30**|**Large Trajectory Models are Scalable Motion Predictors and Planners**|Qiao Sun et.al.|[2310.19620](http://arxiv.org/abs/2310.19620)|**[link](https://github.com/tsinghua-mars-lab/statetransformer)**|
 |**2023-10-28**|**Triplet Attention Transformer for Spatiotemporal Predictive Learning**|Xuesong Nie et.al.|[2310.18698](http://arxiv.org/abs/2310.18698)|null|
-|**2023-10-27**|**Interactive Motion Planning for Autonomous Vehicles with Joint Optimization**|Yuxiao Chen et.al.|[2310.18301](http://arxiv.org/abs/2310.18301)|null|
+|**2023-11-02**|**Interactive Motion Planning for Autonomous Vehicles with Joint Optimization**|Yuxiao Chen et.al.|[2310.18301](http://arxiv.org/abs/2310.18301)|null|
 |**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649](http://arxiv.org/abs/2310.17649)|null|
-|**2023-10-26**|**Detection Defenses: An Empty Promise against Adversarial Patch Attacks on Optical Flow**|Erik Scheurer et.al.|[2310.17403](http://arxiv.org/abs/2310.17403)|**[link](https://github.com/cv-stuttgart/detectiondefenses)**|
+|**2023-11-02**|**Detection Defenses: An Empty Promise against Adversarial Patch Attacks on Optical Flow**|Erik Scheurer et.al.|[2310.17403](http://arxiv.org/abs/2310.17403)|**[link](https://github.com/cv-stuttgart/detectiondefenses)**|
 |**2023-10-24**|**Data-driven Traffic Simulation: A Comprehensive Review**|Di Chen et.al.|[2310.15975](http://arxiv.org/abs/2310.15975)|null|
 |**2023-10-24**|**Graph-based Trajectory Prediction with Cooperative Information**|Jan Strohbeck et.al.|[2310.15692](http://arxiv.org/abs/2310.15692)|null|
 |**2023-10-23**|**Orientation-Aware Leg Movement Learning for Action-Driven Human Motion Prediction**|Chunzhi Gu et.al.|[2310.14907](http://arxiv.org/abs/2310.14907)|null|
