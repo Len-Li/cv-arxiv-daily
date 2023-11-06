@@ -121,7 +121,7 @@ layout: default
 |**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
 |**2023-10-29**|**Macroscopic emulation of microscopic magnetic particle system**|Viesturs Spūlis et.al.|[2310.18892](http://arxiv.org/abs/2310.18892)|null|
 |**2023-10-29**|**Dynamo-Depth: Fixing Unsupervised Depth Estimation for Dynamical Scenes**|Yihong Sun et.al.|[2310.18887](http://arxiv.org/abs/2310.18887)|null|
-|**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/abs/2310.18846)|null|
+|**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/abs/2310.18846)|**[link](https://github.com/xmindflow/INCODE)**|
 |**2023-10-28**|**A thousand fermions in a 3D harmonic trap via Monte Carlo simulations**|Siu A. Chin et.al.|[2310.18818](http://arxiv.org/abs/2310.18818)|null|
 |**2023-10-28**|**Hierarchical assembly is more robust than egalitarian assembly in synthetic capsids**|Wei-Shao Wei et.al.|[2310.18790](http://arxiv.org/abs/2310.18790)|null|
 |**2023-10-28**|**CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data**|Taiki Miyanishi et.al.|[2310.18773](http://arxiv.org/abs/2310.18773)|**[link](https://github.com/atr-dbi/cityrefer)**|
@@ -276,7 +276,7 @@ layout: default
 |**2023-10-22**|**Non-equilibrium Ionization Effects on Synthetic Spectra in the AWSoM Solar Corona**|Judit Szente et.al.|[2310.14147](http://arxiv.org/abs/2310.14147)|null|
 |**2023-10-21**|**No-boundary Wave Functional and Own Mass of the Universe**|Natalia Gorobey et.al.|[2310.14104](http://arxiv.org/abs/2310.14104)|null|
 |**2023-10-21**|**Robust NOMA-assisted OTFS-ISAC Network Design with 3D Motion Prediction Topology**|Luping Xiang et.al.|[2310.13984](http://arxiv.org/abs/2310.13984)|null|
-|**2023-10-21**|**Linguistically Motivated Sign Language Segmentation**|Amit Moryossef et.al.|[2310.13960](http://arxiv.org/abs/2310.13960)|null|
+|**2023-10-21**|**Linguistically Motivated Sign Language Segmentation**|Amit Moryossef et.al.|[2310.13960](http://arxiv.org/abs/2310.13960)|**[link](https://github.com/sign-language-processing/transcription)**|
 |**2023-10-21**|**Uniaxial compression of 3D printed samples with voids: laboratory measurements compared with predictions from Effective Medium Theory**|Filip P. Adamus et.al.|[2310.13956](http://arxiv.org/abs/2310.13956)|null|
 |**2023-10-21**|**Competitive Ensembling Teacher-Student Framework for Semi-Supervised Left Atrium MRI Segmentation**|Yuyan Shi et.al.|[2310.13955](http://arxiv.org/abs/2310.13955)|null|
 |**2023-10-21**|**Fuzzy-NMS: Improving 3D Object Detection with Fuzzy Classification in NMS**|Li Wang et.al.|[2310.13951](http://arxiv.org/abs/2310.13951)|null|
