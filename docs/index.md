@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.05
+## Updated on 2023.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -88,7 +88,7 @@ layout: default
 |**2023-10-30**|**Metric Flows with Neural Networks**|James Halverson et.al.|[2310.19870](http://arxiv.org/abs/2310.19870)|null|
 |**2023-10-30**|**CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models**|Ziyang Yuan et.al.|[2310.19784](http://arxiv.org/abs/2310.19784)|null|
 |**2023-10-30**|**From Instability to Singularity Formation in Incompressible Fluids**|Tarek M. Elgindi et.al.|[2310.19780](http://arxiv.org/abs/2310.19780)|null|
-|**2023-10-31**|**Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models**|Hao Li et.al.|[2310.19721](http://arxiv.org/abs/2310.19721)|null|
+|**2023-10-31**|**Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models**|Hao Li et.al.|[2310.19721](http://arxiv.org/abs/2310.19721)|**[link](https://github.com/medicl-vu/promise)**|
 |**2023-10-30**|**Distributed multi-UAV shield formation based on virtual surface constraints**|María Guinaldo et.al.|[2310.19681](http://arxiv.org/abs/2310.19681)|null|
 |**2023-10-30**|**Isolating the Nonlinear Optical Response of a MoS $_2$ Monolayer under Extreme Screening of a Metal Substrate**|Tao Yang et.al.|[2310.19657](http://arxiv.org/abs/2310.19657)|null|
 |**2023-10-30**|**Automatic 3D modeling by combining SBFEM and transfinite element shape functions**|Hauke Gravenkamp et.al.|[2310.19646](http://arxiv.org/abs/2310.19646)|null|
