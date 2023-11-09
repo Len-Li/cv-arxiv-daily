@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.08
+## Updated on 2023.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -72,10 +72,10 @@ layout: default
 |**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826](http://arxiv.org/abs/2311.02826)|**[link](https://github.com/mybabyyh/instructpix2nerf)**|
 |**2023-11-06**|**Mesh Neural Cellular Automata**|Ehsan Pajouheshgar et.al.|[2311.02820](http://arxiv.org/abs/2311.02820)|null|
 |**2023-11-06**|**Safe-VLN: Collision Avoidance for Vision-and-Language Navigation of Autonomous Robots Operating in Continuous Environments**|Lu Yue et.al.|[2311.02817](http://arxiv.org/abs/2311.02817)|null|
-|**2023-11-05**|**Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead**|Yunkang Cao et.al.|[2311.02782](http://arxiv.org/abs/2311.02782)|null|
+|**2023-11-05**|**Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead**|Yunkang Cao et.al.|[2311.02782](http://arxiv.org/abs/2311.02782)|**[link](https://github.com/caoyunkang/gpt4v-for-generic-anomaly-detection)**|
 |**2023-11-05**|**MuSHRoom: Multi-Sensor Hybrid Room Dataset for Joint 3D Reconstruction and Novel View Synthesis**|Xuqian Ren et.al.|[2311.02778](http://arxiv.org/abs/2311.02778)|null|
 |**2023-11-05**|**Actions on the quiver -- Discrete quotients on the Coulomb branch**|Amihay Hanany et.al.|[2311.02773](http://arxiv.org/abs/2311.02773)|null|
-|**2023-11-05**|**Fast Sparse 3D Convolution Network with VDB**|Fangjun Zhou et.al.|[2311.02762](http://arxiv.org/abs/2311.02762)|null|
+|**2023-11-05**|**Fast Sparse 3D Convolution Network with VDB**|Fangjun Zhou et.al.|[2311.02762](http://arxiv.org/abs/2311.02762)|**[link](https://github.com/fangjunzhou/sparse-convolutional-neural-network)**|
 |**2023-11-05**|**Charging solid partitions**|Dmitry Galakhov et.al.|[2311.02751](http://arxiv.org/abs/2311.02751)|null|
 |**2023-11-05**|**Fast Point-cloud to Mesh Reconstruction for Deformable Object Tracking**|Elham Amin Mansour et.al.|[2311.02749](http://arxiv.org/abs/2311.02749)|null|
 |**2023-11-05**|**Complete set of bounds for the technical moduli in 3D anisotropic elasticity**|Paolo Vannucci et.al.|[2311.02712](http://arxiv.org/abs/2311.02712)|null|
