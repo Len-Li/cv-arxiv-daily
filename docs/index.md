@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.10
+## Updated on 2023.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -74,7 +74,7 @@ layout: default
 |**2023-11-07**|**Toward ground-truth optical coherence tomography via three-dimensional unsupervised deep learning processing and data**|Renxiong Wu et.al.|[2311.03887](http://arxiv.org/abs/2311.03887)|null|
 |**2023-11-07**|**Multiderivative time integration methods preserving nonlinear functionals via relaxation**|Hendrik Ranocha et.al.|[2311.03883](http://arxiv.org/abs/2311.03883)|null|
 |**2023-11-07**|**Chiral Soliton Lattice turns into 3D crystal**|Geraint W. Evans et.al.|[2311.03880](http://arxiv.org/abs/2311.03880)|null|
-|**2023-11-07**|**Terrain Recognition and Contact Force Estimation through a Sensorized Paw for Legged Robots**|Aleksander Vangen et.al.|[2311.03855](http://arxiv.org/abs/2311.03855)|null|
+|**2023-11-07**|**Terrain Recognition and Contact Force Estimation through a Sensorized Paw for Legged Robots**|Aleksander Vangen et.al.|[2311.03855](http://arxiv.org/abs/2311.03855)|**[link](https://github.com/ntnu-arl/trace_paw)**|
 |**2023-11-07**|**An AFM-based approach for quantification of guest particle deformation during mechano-fusion**|Phillip Gräfensteiner et.al.|[2311.03851](http://arxiv.org/abs/2311.03851)|null|
 |**2023-11-07**|**Smallest Enclosing Sphere in 3D -- Particle Swarm Optimization Approach**|Netzer Moriya et.al.|[2311.03843](http://arxiv.org/abs/2311.03843)|null|
 |**2023-11-07**|**3DifFusionDet: Diffusion Model for 3D Object Detection with Robust LiDAR-Camera Fusion**|Xinhao Xiang et.al.|[2311.03742](http://arxiv.org/abs/2311.03742)|null|
