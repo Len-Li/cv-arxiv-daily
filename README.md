@@ -298,7 +298,7 @@
 |**2023-10-28**|**The Milky Way Bulge extra-tidal star survey: BH 261 (AL 3)**|Andrea Kunder et.al.|[2310.18575](http://arxiv.org/abs/2310.18575)|null|
 |**2023-10-31**|**FPM-INR: Fourier ptychographic microscopy image stack reconstruction using implicit neural representations**|Haowen Zhou et.al.|[2310.18529](http://arxiv.org/abs/2310.18529)|**[link](https://github.com/hwzhou2020/fpm_inr)**|
 |**2023-10-27**|**Using convolutional neural networks for stereological characterization of 3D hetero-aggregates based on synthetic STEM data**|Lukas Fuchs et.al.|[2310.18523](http://arxiv.org/abs/2310.18523)|null|
-|**2023-10-27**|**Learning to design protein-protein interactions with enhanced generalization**|Anton Bushuiev et.al.|[2310.18515](http://arxiv.org/abs/2310.18515)|null|
+|**2023-10-27**|**Learning to design protein-protein interactions with enhanced generalization**|Anton Bushuiev et.al.|[2310.18515](http://arxiv.org/abs/2310.18515)|**[link](https://github.com/anton-bushuiev/ppiformer)**|
 |**2023-10-27**|**3DCoMPaT $^{++}$ : An improved Large-scale 3D Vision Dataset for Compositional Recognition**|Habib Slim et.al.|[2310.18511](http://arxiv.org/abs/2310.18511)|null|
 |**2023-10-27**|**Using Lyman- $α$ transits to constrain models of atmospheric escape**|Ethan Schreyer et.al.|[2310.18486](http://arxiv.org/abs/2310.18486)|null|
 |**2023-10-27**|**Kinematic signatures of planet-disk interactions in VSI-turbulent protoplanetary disks**|Marcelo Barraza-Alfaro et.al.|[2310.18484](http://arxiv.org/abs/2310.18484)|null|
