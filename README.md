@@ -22,6 +22,29 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Instant3D: Instant Text-to-3D Generation**|Ming Li et.al.|[2311.08403](http://arxiv.org/abs/2311.08403)|null|
+|**2023-11-14**|**The Gaia-ESO Survey: 3D dynamics of young groups and clusters from GES and Gaia EDR3**|Nicholas J. Wright et.al.|[2311.08358](http://arxiv.org/abs/2311.08358)|null|
+|**2023-11-14**|**Speeding Up Optimization-based Motion Planning through Deep Learning**|Johannes Tenhumberg et.al.|[2311.08345](http://arxiv.org/abs/2311.08345)|null|
+|**2023-11-14**|**Observation of high-temperature superconductivity in the high-pressure tetragonal phase of La2PrNi2O7-δ**|Gang Wang et.al.|[2311.08212](http://arxiv.org/abs/2311.08212)|null|
+|**2023-11-14**|**Computational homogenization of higher-order electro-mechanical materials with built-in generalized periodicity conditions**|J. Barceló-Mercader et.al.|[2311.08196](http://arxiv.org/abs/2311.08196)|null|
+|**2023-11-14**|**What holes in the gas distribution of nearly face-on galaxies can tell us about the host disk parameters: the case of the NGC 628 South-East superbubble**|S. Jiménez et.al.|[2311.08178](http://arxiv.org/abs/2311.08178)|null|
+|**2023-11-14**|**DynamicSurf: Dynamic Neural RGB-D Surface Reconstruction with an Optimizable Feature Grid**|Mirgahney Mohamed et.al.|[2311.08159](http://arxiv.org/abs/2311.08159)|null|
+|**2023-11-14**|**Time-efficient combined morphologic and quantitative joint MRI based on clinical image contrasts -- An exploratory in-situ study of standardized cartilage defects**|Teresa Lemainque et.al.|[2311.08036](http://arxiv.org/abs/2311.08036)|null|
+|**2023-11-14**|**ELF: An End-to-end Local and Global Multimodal Fusion Framework for Glaucoma Grading**|Wenyun Li et.al.|[2311.08032](http://arxiv.org/abs/2311.08032)|null|
+|**2023-11-14**|**CP-SLAM: Collaborative Neural Point-based SLAM System**|Jiarui Hu et.al.|[2311.08013](http://arxiv.org/abs/2311.08013)|null|
+|**2023-11-14**|**Nuclear spin ratios of deuterated ammonia in prestellar cores. LAsMA observations of H-MM1 and Oph D**|Jorma Harju et.al.|[2311.08006](http://arxiv.org/abs/2311.08006)|null|
+|**2023-11-14**|**Probable Object Location (POLo) Score Estimation for Efficient Object Goal Navigation**|Jiaming Wang et.al.|[2311.07992](http://arxiv.org/abs/2311.07992)|null|
+|**2023-11-14**|**Configurable convolutional neural networks for real-time pedestrian-level wind prediction in urban environments**|Alfredo Vicente Clemente et.al.|[2311.07985](http://arxiv.org/abs/2311.07985)|null|
+|**2023-11-14**|**Roadside LiDAR Assisted Cooperative Localization for Connected Autonomous Vehicles**|Yuze Jiang et.al.|[2311.07913](http://arxiv.org/abs/2311.07913)|null|
+|**2023-11-14**|**One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion**|Minghua Liu et.al.|[2311.07885](http://arxiv.org/abs/2311.07885)|null|
+|**2023-11-13**|**Assessing Test-time Variability for Interactive 3D Medical Image Segmentation with Diverse Point Prompts**|Hao Li et.al.|[2311.07806](http://arxiv.org/abs/2311.07806)|**[link](https://github.com/medicl-vu/variability)**|
+|**2023-11-13**|**Global Solutions For Systems of Quadratic Nonlinear Schrödinger Equations in 3D**|Boyang Su et.al.|[2311.07802](http://arxiv.org/abs/2311.07802)|null|
+|**2023-11-13**|**Sensitivity of 3D Convective Urca Simulations to Changes in Urca Reactions**|Brendan Boyd et.al.|[2311.07743](http://arxiv.org/abs/2311.07743)|null|
+|**2023-11-13**|**Primordial Black Holes and Wormholes from Domain Wall Networks**|Yann Gouttenoire et.al.|[2311.07670](http://arxiv.org/abs/2311.07670)|null|
+|**2023-11-12**|**CLAMP: A Contrastive Language And Molecule Pre-training Network**|Neel Redkar et.al.|[2311.07617](http://arxiv.org/abs/2311.07617)|**[link](https://github.com/neelr/clamp)**|
+|**2023-11-12**|**ReIDTracker Sea: the technical report of BoaTrack and SeaDronesSee-MOT challenge at MaCVi of WACV24**|Kaer Huang et.al.|[2311.07616](http://arxiv.org/abs/2311.07616)|null|
+|**2023-11-11**|**PECoP: Parameter Efficient Continual Pretraining for Action Quality Assessment**|Amirhossein Dadashzadeh et.al.|[2311.07603](http://arxiv.org/abs/2311.07603)|**[link](https://github.com/plrbear/pecop)**|
+|**2023-11-11**|**Polarimetric PatchMatch Multi-View Stereo**|Jinyu Zhao et.al.|[2311.07600](http://arxiv.org/abs/2311.07600)|null|
 |**2023-11-13**|**Fast Normalized Cross-Correlation for Template Matching with Rotations**|José María Almira et.al.|[2311.07561](http://arxiv.org/abs/2311.07561)|null|
 |**2023-11-13**|**Scalar susceptibility of a diluted classical XY model**|Reece Beattie-Hauser et.al.|[2311.07457](http://arxiv.org/abs/2311.07457)|null|
 |**2023-11-13**|**Trajectories and Platoon-forming Algorithm for Intersections with Heterogeneous Autonomous Traffic**|P. C. Joshi et.al.|[2311.07435](http://arxiv.org/abs/2311.07435)|null|
@@ -797,6 +820,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Human-Centric Autonomous Systems With LLMs for User Command Reasoning**|Yi Yang et.al.|[2311.08206](http://arxiv.org/abs/2311.08206)|null|
+|**2023-11-14**|**Lateral control for autonomous vehicles: A comparative evaluation**|Antonio Artuñedo et.al.|[2311.07987](http://arxiv.org/abs/2311.07987)|null|
+|**2023-11-14**|**Towards Improving Robustness Against Common Corruptions in Object Detectors Using Adversarial Contrastive Learning**|Shashank Kotyan et.al.|[2311.07928](http://arxiv.org/abs/2311.07928)|null|
 |**2023-11-13**|**Temporal Performance Prediction for Deep Convolutional Long Short-Term Memory Networks**|Laura Fieback et.al.|[2311.07477](http://arxiv.org/abs/2311.07477)|null|
 |**2023-11-11**|**Semantic Communication for Cooperative Perception based on Importance Map**|Yucheng Sheng et.al.|[2311.06498](http://arxiv.org/abs/2311.06498)|null|
 |**2023-11-10**|**Improved Positional Encoding for Implicit Neural Representation based Compact Data Representation**|Bharath Bhushan Damodaran et.al.|[2311.06059](http://arxiv.org/abs/2311.06059)|null|
@@ -969,6 +995,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Human-Centric Autonomous Systems With LLMs for User Command Reasoning**|Yi Yang et.al.|[2311.08206](http://arxiv.org/abs/2311.08206)|null|
+|**2023-11-14**|**Lateral control for autonomous vehicles: A comparative evaluation**|Antonio Artuñedo et.al.|[2311.07987](http://arxiv.org/abs/2311.07987)|null|
+|**2023-11-14**|**Towards Improving Robustness Against Common Corruptions in Object Detectors Using Adversarial Contrastive Learning**|Shashank Kotyan et.al.|[2311.07928](http://arxiv.org/abs/2311.07928)|null|
 |**2023-11-13**|**Temporal Performance Prediction for Deep Convolutional Long Short-Term Memory Networks**|Laura Fieback et.al.|[2311.07477](http://arxiv.org/abs/2311.07477)|null|
 |**2023-11-13**|**$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF**|Liangchen Li et.al.|[2311.07044](http://arxiv.org/abs/2311.07044)|null|
 |**2023-11-11**|**Semantic Communication for Cooperative Perception based on Importance Map**|Yucheng Sheng et.al.|[2311.06498](http://arxiv.org/abs/2311.06498)|null|
@@ -1170,6 +1199,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**CPSOR-GCN: A Vehicle Trajectory Prediction Method Powered by Emotion and Cognitive Theory**|L. Tang et.al.|[2311.08086](http://arxiv.org/abs/2311.08086)|null|
+|**2023-11-14**|**VegaEdge: Edge AI Confluence Anomaly Detection for Real-Time Highway IoT-Applications**|Vinit Katariya et.al.|[2311.07880](http://arxiv.org/abs/2311.07880)|null|
 |**2023-11-11**|**VT-Former: A Transformer-based Vehicle Trajectory Prediction Approach For Intelligent Highway Transportation Systems**|Armin Danesh Pazho et.al.|[2311.06623](http://arxiv.org/abs/2311.06623)|null|
 |**2023-10-03**|**A Co-Simulation Study to Assess the Impacts of Connected and Autonomous Vehicles on Traffic Flow Stability during Hurricane Evacuation**|Zaheen E Muktadi Syed et.al.|[2311.06267](http://arxiv.org/abs/2311.06267)|null|
 |**2023-11-09**|**Latent Task-Specific Graph Network Simulators**|Philipp Dahlinger et.al.|[2311.05256](http://arxiv.org/abs/2311.05256)|**[link](https://github.com/philippdahlinger/ltsgns_ai4science)**|
