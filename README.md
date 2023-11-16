@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.15
+## Updated on 2023.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -49,7 +49,7 @@
 |**2023-11-13**|**Scalar susceptibility of a diluted classical XY model**|Reece Beattie-Hauser et.al.|[2311.07457](http://arxiv.org/abs/2311.07457)|null|
 |**2023-11-13**|**Trajectories and Platoon-forming Algorithm for Intersections with Heterogeneous Autonomous Traffic**|P. C. Joshi et.al.|[2311.07435](http://arxiv.org/abs/2311.07435)|null|
 |**2023-11-13**|**Supersampling of Data from Structured-light Scanner with Deep Learning**|Martin Melicherčík et.al.|[2311.07432](http://arxiv.org/abs/2311.07432)|null|
-|**2023-11-13**|**Emittance-preserving acceleration of high-quality positron beams using warm plasma filaments**|Severin Diederichs et.al.|[2311.07402](http://arxiv.org/abs/2311.07402)|null|
+|**2023-11-13**|**Emittance-preserving acceleration of high-quality positron beams using warm plasma filaments**|Severin Diederichs et.al.|[2311.07402](http://arxiv.org/abs/2311.07402)|**[link](https://github.com/hi-pace/hipace)**|
 |**2023-11-13**|**Gate-Compatible Circuit QED in a Three-Dimensional Cavity Architecture**|Zezhou Xia et.al.|[2311.07337](http://arxiv.org/abs/2311.07337)|null|
 |**2023-11-13**|**Evolution and final fate of massive post-common-envelope binaries**|Dandan Wei et.al.|[2311.07278](http://arxiv.org/abs/2311.07278)|null|
 |**2023-11-13**|**Multi-task learning for joint weakly-supervised segmentation and aortic arch anomaly classification in fetal cardiac MRI**|Paula Ramirez et.al.|[2311.07234](http://arxiv.org/abs/2311.07234)|**[link](https://github.com/svrtk/masc-multi-task-segmentation-and-classification)**|
@@ -555,7 +555,7 @@
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20231115>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231116>back to top</a>)</p>
 
 ## NeRF
 
@@ -694,7 +694,7 @@
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20231115>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231116>back to top</a>)</p>
 
 ## Industry
 
@@ -814,13 +814,13 @@
 |**2020-12-22**|**DAGMapper: Learning to Map by Discovering Lane Topology**|Namdar Homayounfar et.al.|[2012.12377](http://arxiv.org/abs/2012.12377)|null|
 |**2020-12-22**|**Hierarchical Recurrent Attention Networks for Structured Online Maps**|Namdar Homayounfar et.al.|[2012.12314](http://arxiv.org/abs/2012.12314)|null|
 
-<p align=right>(<a href=#Updated-on-20231115>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231116>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-14**|**Human-Centric Autonomous Systems With LLMs for User Command Reasoning**|Yi Yang et.al.|[2311.08206](http://arxiv.org/abs/2311.08206)|null|
+|**2023-11-14**|**Human-Centric Autonomous Systems With LLMs for User Command Reasoning**|Yi Yang et.al.|[2311.08206](http://arxiv.org/abs/2311.08206)|**[link](https://github.com/kth-rpl/drivecmd_llm)**|
 |**2023-11-14**|**Lateral control for autonomous vehicles: A comparative evaluation**|Antonio Artuñedo et.al.|[2311.07987](http://arxiv.org/abs/2311.07987)|null|
 |**2023-11-14**|**Towards Improving Robustness Against Common Corruptions in Object Detectors Using Adversarial Contrastive Learning**|Shashank Kotyan et.al.|[2311.07928](http://arxiv.org/abs/2311.07928)|null|
 |**2023-11-13**|**Temporal Performance Prediction for Deep Convolutional Long Short-Term Memory Networks**|Laura Fieback et.al.|[2311.07477](http://arxiv.org/abs/2311.07477)|null|
@@ -896,7 +896,7 @@
 |**2023-10-23**|**End-to-End Learning of Behavioural Inputs for Autonomous Driving in Dense Traffic**|Jatan Shrestha et.al.|[2310.14766](http://arxiv.org/abs/2310.14766)|**[link](https://github.com/jatan12/diffproj)**|
 |**2023-10-23**|**BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities**|Binyu Zhao et.al.|[2310.14702](http://arxiv.org/abs/2310.14702)|**[link](https://github.com/byzhaoai/bm2cp)**|
 |**2023-10-23**|**DICE: Diverse Diffusion Model with Scoring for Trajectory Prediction**|Younwoo Choi et.al.|[2310.14570](http://arxiv.org/abs/2310.14570)|null|
-|**2023-10-22**|**Vision Language Models in Autonomous Driving and Intelligent Transportation Systems**|Xingcheng Zhou et.al.|[2310.14414](http://arxiv.org/abs/2310.14414)|null|
+|**2023-10-22**|**Vision Language Models in Autonomous Driving and Intelligent Transportation Systems**|Xingcheng Zhou et.al.|[2310.14414](http://arxiv.org/abs/2310.14414)|**[link](https://github.com/ge25nab/Awesome-VLM-AD-ITS)**|
 |**2023-10-22**|**Detrive: Imitation Learning with Transformer Detection for End-to-End Autonomous Driving**|Daoming Chen et.al.|[2310.14224](http://arxiv.org/abs/2310.14224)|**[link](https://github.com/Alexbeast-CN/Detrive)**|
 |**2023-10-21**|**Equivariant Map and Agent Geometry for Autonomous Driving Motion Prediction**|Yuping Wang et.al.|[2310.13922](http://arxiv.org/abs/2310.13922)|null|
 |**2023-10-21**|**Exploring Driving Behavior for Autonomous Vehicles Based on Gramian Angular Field Vision Transformer**|Junwei You et.al.|[2310.13906](http://arxiv.org/abs/2310.13906)|null|
@@ -989,13 +989,13 @@
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20231115>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231116>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-14**|**Human-Centric Autonomous Systems With LLMs for User Command Reasoning**|Yi Yang et.al.|[2311.08206](http://arxiv.org/abs/2311.08206)|null|
+|**2023-11-14**|**Human-Centric Autonomous Systems With LLMs for User Command Reasoning**|Yi Yang et.al.|[2311.08206](http://arxiv.org/abs/2311.08206)|**[link](https://github.com/kth-rpl/drivecmd_llm)**|
 |**2023-11-14**|**Lateral control for autonomous vehicles: A comparative evaluation**|Antonio Artuñedo et.al.|[2311.07987](http://arxiv.org/abs/2311.07987)|null|
 |**2023-11-14**|**Towards Improving Robustness Against Common Corruptions in Object Detectors Using Adversarial Contrastive Learning**|Shashank Kotyan et.al.|[2311.07928](http://arxiv.org/abs/2311.07928)|null|
 |**2023-11-13**|**Temporal Performance Prediction for Deep Convolutional Long Short-Term Memory Networks**|Laura Fieback et.al.|[2311.07477](http://arxiv.org/abs/2311.07477)|null|
@@ -1193,7 +1193,7 @@
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20231115>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231116>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -1322,7 +1322,7 @@
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20231115>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231116>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
