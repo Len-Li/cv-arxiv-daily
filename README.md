@@ -850,7 +850,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-15**|**Applications of Computer Vision in Autonomous Vehicles: Methods, Challenges and Future Directions**|Xingshuai Dong et.al.|[2311.09093](http://arxiv.org/abs/2311.09093)|null|
+|**2023-11-16**|**Applications of Computer Vision in Autonomous Vehicles: Methods, Challenges and Future Directions**|Xingshuai Dong et.al.|[2311.09093](http://arxiv.org/abs/2311.09093)|null|
 |**2023-11-14**|**Low-light Pedestrian Detection in Visible and Infrared Image Feeds: Issues and Challenges**|Hrishikesh Vachhani et.al.|[2311.08557](http://arxiv.org/abs/2311.08557)|null|
 |**2023-11-14**|**Human-Centric Autonomous Systems With LLMs for User Command Reasoning**|Yi Yang et.al.|[2311.08206](http://arxiv.org/abs/2311.08206)|**[link](https://github.com/kth-rpl/drivecmd_llm)**|
 |**2023-11-14**|**Lateral control for autonomous vehicles: A comparative evaluation**|Antonio Artuñedo et.al.|[2311.07987](http://arxiv.org/abs/2311.07987)|null|
@@ -1027,7 +1027,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-15**|**Applications of Computer Vision in Autonomous Vehicles: Methods, Challenges and Future Directions**|Xingshuai Dong et.al.|[2311.09093](http://arxiv.org/abs/2311.09093)|null|
+|**2023-11-16**|**Applications of Computer Vision in Autonomous Vehicles: Methods, Challenges and Future Directions**|Xingshuai Dong et.al.|[2311.09093](http://arxiv.org/abs/2311.09093)|null|
 |**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581](http://arxiv.org/abs/2311.08581)|null|
 |**2023-11-14**|**Low-light Pedestrian Detection in Visible and Infrared Image Feeds: Issues and Challenges**|Hrishikesh Vachhani et.al.|[2311.08557](http://arxiv.org/abs/2311.08557)|null|
 |**2023-11-14**|**Human-Centric Autonomous Systems With LLMs for User Command Reasoning**|Yi Yang et.al.|[2311.08206](http://arxiv.org/abs/2311.08206)|**[link](https://github.com/kth-rpl/drivecmd_llm)**|
