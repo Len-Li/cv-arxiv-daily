@@ -280,7 +280,7 @@
 |**2023-11-04**|**P2O-Calib: Camera-LiDAR Calibration Using Point-Pair Spatial Occlusion Relationship**|Su Wang et.al.|[2311.02413](http://arxiv.org/abs/2311.02413)|null|
 |**2023-11-04**|**LISNeRF Mapping: LiDAR-based Implicit Mapping via Semantic Neural Fields for Large-Scale 3D Scenes**|Jianyuan Zhang et.al.|[2311.02313](http://arxiv.org/abs/2311.02313)|null|
 |**2023-11-04**|**3D seismic survey design by maximizing the spectral gap**|Yijun Zhang et.al.|[2311.02298](http://arxiv.org/abs/2311.02298)|null|
-|**2023-11-04**|**SMIwiz: An integrated toolbox for multidimensional seismic modelling and imaging**|Pengliang Yang et.al.|[2311.02293](http://arxiv.org/abs/2311.02293)|null|
+|**2023-11-04**|**SMIwiz: An integrated toolbox for multidimensional seismic modelling and imaging**|Pengliang Yang et.al.|[2311.02293](http://arxiv.org/abs/2311.02293)|**[link](https://github.com/yangpl/smiwiz)**|
 |**2023-11-04**|**A Physics based Machine Learning Model to characterize Room Temperature Semiconductor Detectors in 3D**|Srutarshi Banerjee et.al.|[2311.02290](http://arxiv.org/abs/2311.02290)|null|
 |**2023-11-04**|**Small-scale Dynamo in Cool Stars III. Changes in the photospheres of F3V to M0V stars**|Tanayveer S. Bhatia et.al.|[2311.02286](http://arxiv.org/abs/2311.02286)|null|
 |**2023-11-03**|**All Hurwitz Algebras from 3D Geometric Algebras**|Daniele Corradetti et.al.|[2311.02269](http://arxiv.org/abs/2311.02269)|null|
@@ -359,7 +359,7 @@
 |**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|**[link](https://github.com/junkunyuan/hap)**|
 |**2023-10-31**|**StairNet: Visual Recognition of Stairs for Human-Robot Locomotion**|Andrew Garrett Kurbis et.al.|[2310.20666](http://arxiv.org/abs/2310.20666)|null|
 |**2023-10-31**|**Higher-order reductions of the Mikhalev system**|E. V. Ferapontov et.al.|[2310.20528](http://arxiv.org/abs/2310.20528)|null|
-|**2023-10-31**|**Large Language Model Can Interpret Latent Space of Sequential Recommender**|Zhengyi Yang et.al.|[2310.20487](http://arxiv.org/abs/2310.20487)|null|
+|**2023-10-31**|**Large Language Model Can Interpret Latent Space of Sequential Recommender**|Zhengyi Yang et.al.|[2310.20487](http://arxiv.org/abs/2310.20487)|**[link](https://github.com/yangzhengyi98/recinterpreter)**|
 |**2023-10-31**|**SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark**|Zhengdi Yu et.al.|[2310.20436](http://arxiv.org/abs/2310.20436)|null|
 |**2023-10-31**|**Thermal-Infrared Remote Target Detection System for Maritime Rescue based on Data Augmentation with 3D Synthetic Data**|Sungjin Cheong et.al.|[2310.20412](http://arxiv.org/abs/2310.20412)|null|
 |**2023-11-02**|**Two for One -- Combined Morphologic and Quantitative Knee Joint MRI Using a Versatile Turbo Spin-Echo Platform**|Teresa Lemainque et.al.|[2310.20362](http://arxiv.org/abs/2310.20362)|null|
@@ -436,7 +436,7 @@
 |**2023-10-27**|**Isotropic 3D topological phases with broken time reversal symmetry**|Helene Spring et.al.|[2310.18400](http://arxiv.org/abs/2310.18400)|null|
 |**2023-10-27**|**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**|Pushkal Katara et.al.|[2310.18308](http://arxiv.org/abs/2310.18308)|null|
 |**2023-10-27**|**Structure of $3D$ gravastars in the context of massive gravity**|H. Barzegar et.al.|[2310.18287](http://arxiv.org/abs/2310.18287)|null|
-|**2023-10-27**|**FOUND: Foot Optimization with Uncertain Normals for Surface Deformation Using Synthetic Data**|Oliver Boyne et.al.|[2310.18279](http://arxiv.org/abs/2310.18279)|null|
+|**2023-10-27**|**FOUND: Foot Optimization with Uncertain Normals for Surface Deformation Using Synthetic Data**|Oliver Boyne et.al.|[2310.18279](http://arxiv.org/abs/2310.18279)|**[link](https://github.com/OllieBoyne/FOUND)**|
 |**2023-10-27**|**Moments for Perceptive Narration Analysis Through the Emotional Attachment of Audience to Discourse and Story**|Gary Bruins et.al.|[2310.18273](http://arxiv.org/abs/2310.18273)|null|
 |**2023-10-27**|**Impact of Property Covariance on Cluster Weak lensing Scaling Relations**|Zhuowen Zhang et.al.|[2310.18266](http://arxiv.org/abs/2310.18266)|null|
 |**2023-10-27**|**FLSH -- Friendly Library for the Simulation of Humans**|Pablo Ramón et.al.|[2310.18206](http://arxiv.org/abs/2310.18206)|null|
@@ -1171,7 +1171,7 @@
 |**2023-10-23**|**BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities**|Binyu Zhao et.al.|[2310.14702](http://arxiv.org/abs/2310.14702)|**[link](https://github.com/byzhaoai/bm2cp)**|
 |**2023-10-23**|**CAwa-NeRF: Instant Learning of Compression-Aware NeRF Features**|Omnia Mahmoud et.al.|[2310.14695](http://arxiv.org/abs/2310.14695)|null|
 |**2023-10-23**|**DICE: Diverse Diffusion Model with Scoring for Trajectory Prediction**|Younwoo Choi et.al.|[2310.14570](http://arxiv.org/abs/2310.14570)|null|
-|**2023-10-22**|**Vision Language Models in Autonomous Driving and Intelligent Transportation Systems**|Xingcheng Zhou et.al.|[2310.14414](http://arxiv.org/abs/2310.14414)|null|
+|**2023-10-22**|**Vision Language Models in Autonomous Driving and Intelligent Transportation Systems**|Xingcheng Zhou et.al.|[2310.14414](http://arxiv.org/abs/2310.14414)|**[link](https://github.com/ge25nab/Awesome-VLM-AD-ITS)**|
 |**2023-10-22**|**Detrive: Imitation Learning with Transformer Detection for End-to-End Autonomous Driving**|Daoming Chen et.al.|[2310.14224](http://arxiv.org/abs/2310.14224)|**[link](https://github.com/Alexbeast-CN/Detrive)**|
 |**2023-10-21**|**Equivariant Map and Agent Geometry for Autonomous Driving Motion Prediction**|Yuping Wang et.al.|[2310.13922](http://arxiv.org/abs/2310.13922)|null|
 |**2023-10-21**|**Exploring Driving Behavior for Autonomous Vehicles Based on Gramian Angular Field Vision Transformer**|Junwei You et.al.|[2310.13906](http://arxiv.org/abs/2310.13906)|null|
