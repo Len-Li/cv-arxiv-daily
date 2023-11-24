@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.23
+## Updated on 2023.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -20,7 +20,7 @@ layout: default
 |**2023-11-22**|**Learned Nonlinear Predictor for Critically Sampled 3D Point Cloud Attribute Compression**|Tam Thuc Do et.al.|[2311.13539](http://arxiv.org/abs/2311.13539)|null|
 |**2023-11-22**|**Volumetric 3D Point Cloud Attribute Compression: Learned polynomial bilateral filter for prediction**|Tam Thuc Do et.al.|[2311.13533](http://arxiv.org/abs/2311.13533)|null|
 |**2023-11-22**|**Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure**|Ian Dunn et.al.|[2311.13466](http://arxiv.org/abs/2311.13466)|null|
-|**2023-11-22**|**Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**|Keyang Ye et.al.|[2311.13404](http://arxiv.org/abs/2311.13404)|null|
+|**2023-11-22**|**Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**|Keyang Ye et.al.|[2311.13404](http://arxiv.org/abs/2311.13404)|**[link](https://github.com/YessionCC/AnimatableGaussian)**|
 |**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398](http://arxiv.org/abs/2311.13398)|null|
 |**2023-11-22**|**LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes**|Jaeyoung Chung et.al.|[2311.13384](http://arxiv.org/abs/2311.13384)|null|
 |**2023-11-22**|**Global existence of suitable weak solutions to the 3D chemotaxis-Navier-Stokes equations**|Xiaomeng Chen et.al.|[2311.13343](http://arxiv.org/abs/2311.13343)|null|
@@ -46,7 +46,7 @@ layout: default
 |**2023-11-21**|**An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic Scenes**|Kai Katsumata et.al.|[2311.12897](http://arxiv.org/abs/2311.12897)|null|
 |**2023-11-21**|**Text-Guided Texturing by Synchronized Multi-View Diffusion**|Yuxin Liu et.al.|[2311.12891](http://arxiv.org/abs/2311.12891)|null|
 |**2023-11-19**|**Global Strong Solutions to the incompressible Magnetohydrodynamic Equations with Density-Dependent Viscosity and Vacuum in 3D Exterior Domains**|Bing Yuan et.al.|[2311.12873](http://arxiv.org/abs/2311.12873)|null|
-|**2023-11-21**|**Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models**|David Stotko et.al.|[2311.12796](http://arxiv.org/abs/2311.12796)|null|
+|**2023-11-21**|**Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models**|David Stotko et.al.|[2311.12796](http://arxiv.org/abs/2311.12796)|**[link](https://github.com/davidstotko/physics-guided-shape-from-template)**|
 |**2023-11-21**|**The need for spatially resolved observations of PAHs in protoplanetary discs**|K. Lange et.al.|[2311.12794](http://arxiv.org/abs/2311.12794)|null|
 |**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|null|
 |**2023-11-21**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2311.12754](http://arxiv.org/abs/2311.12754)|**[link](https://github.com/huang-yh/selfocc)**|
@@ -1005,7 +1005,7 @@ layout: default
 |**2023-11-22**|**ADriver-I: A General World Model for Autonomous Driving**|Fan Jia et.al.|[2311.13549](http://arxiv.org/abs/2311.13549)|null|
 |**2023-11-22**|**An Empirical Study of Uncertainty Estimation Techniques for Detecting Drift in Data Streams**|Anton Winter et.al.|[2311.13374](http://arxiv.org/abs/2311.13374)|null|
 |**2023-11-22**|**DoubleAUG: Single-domain Generalized Object Detector in Urban via Color Perturbation and Dual-style Memory**|Lei Qi et.al.|[2311.13198](http://arxiv.org/abs/2311.13198)|null|
-|**2023-10-25**|**TorchSparse++: Efficient Training and Inference Framework for Sparse Convolution on GPUs**|Haotian Tang et.al.|[2311.12862](http://arxiv.org/abs/2311.12862)|null|
+|**2023-10-25**|**TorchSparse++: Efficient Training and Inference Framework for Sparse Convolution on GPUs**|Haotian Tang et.al.|[2311.12862](http://arxiv.org/abs/2311.12862)|**[link](https://github.com/mit-han-lab/torchsparse)**|
 |**2023-11-21**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2311.12754](http://arxiv.org/abs/2311.12754)|**[link](https://github.com/huang-yh/selfocc)**|
 |**2023-11-21**|**Attacking Motion Planners Using Adversarial Perception Errors**|Jonathan Sadeghi et.al.|[2311.12722](http://arxiv.org/abs/2311.12722)|null|
 |**2023-11-21**|**A Survey on Multimodal Large Language Models for Autonomous Driving**|Can Cui et.al.|[2311.12320](http://arxiv.org/abs/2311.12320)|**[link](https://github.com/irohxu/awesome-multimodal-llm-autonomous-driving)**|
