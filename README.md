@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.24
+## Updated on 2023.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,7 +27,7 @@
 |**2023-11-22**|**Medical Image Retrieval Using Pretrained Embeddings**|Farnaz Khun Jush et.al.|[2311.13547](http://arxiv.org/abs/2311.13547)|null|
 |**2023-11-22**|**Learned Nonlinear Predictor for Critically Sampled 3D Point Cloud Attribute Compression**|Tam Thuc Do et.al.|[2311.13539](http://arxiv.org/abs/2311.13539)|null|
 |**2023-11-22**|**Volumetric 3D Point Cloud Attribute Compression: Learned polynomial bilateral filter for prediction**|Tam Thuc Do et.al.|[2311.13533](http://arxiv.org/abs/2311.13533)|null|
-|**2023-11-22**|**Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure**|Ian Dunn et.al.|[2311.13466](http://arxiv.org/abs/2311.13466)|null|
+|**2023-11-22**|**Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure**|Ian Dunn et.al.|[2311.13466](http://arxiv.org/abs/2311.13466)|**[link](https://github.com/dunni3/keypoint-diffusion)**|
 |**2023-11-22**|**Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**|Keyang Ye et.al.|[2311.13404](http://arxiv.org/abs/2311.13404)|**[link](https://github.com/YessionCC/AnimatableGaussian)**|
 |**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398](http://arxiv.org/abs/2311.13398)|null|
 |**2023-11-22**|**LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes**|Jaeyoung Chung et.al.|[2311.13384](http://arxiv.org/abs/2311.13384)|null|
@@ -36,14 +36,14 @@
 |**2023-11-22**|**On the parallel solution of hydro-mechanical problems with fracture networks and contact conditions**|Jan Stebel et.al.|[2311.13310](http://arxiv.org/abs/2311.13310)|null|
 |**2023-11-22**|**Retargeting Visual Data with Deformation Fields**|Tim Elsner et.al.|[2311.13297](http://arxiv.org/abs/2311.13297)|null|
 |**2023-11-22**|**Gravitational repulsive effects in 3D regular black holes**|Orlando Luongo et.al.|[2311.13264](http://arxiv.org/abs/2311.13264)|null|
-|**2023-11-22**|**TSegFormer: 3D Tooth Segmentation in Intraoral Scans with Geometry Guided Transformer**|Huimin Xiong et.al.|[2311.13234](http://arxiv.org/abs/2311.13234)|null|
-|**2023-11-22**|**Robot at the Mirror: Learning to Imitate via Associating Self-supervised Models**|Andrej Lúčny et.al.|[2311.13226](http://arxiv.org/abs/2311.13226)|null|
-|**2023-11-22**|**DRIFu: Differentiable Rendering and Implicit Function-based Single-View 3D Reconstruction**|Zijian Kuang et.al.|[2311.13199](http://arxiv.org/abs/2311.13199)|null|
+|**2023-11-22**|**TSegFormer: 3D Tooth Segmentation in Intraoral Scans with Geometry Guided Transformer**|Huimin Xiong et.al.|[2311.13234](http://arxiv.org/abs/2311.13234)|**[link](https://github.com/huiminxiong/tsegformer)**|
+|**2023-11-22**|**Robot at the Mirror: Learning to Imitate via Associating Self-supervised Models**|Andrej Lúčny et.al.|[2311.13226](http://arxiv.org/abs/2311.13226)|**[link](https://github.com/andylucny/learningimitation)**|
+|**2023-11-22**|**DRIFu: Differentiable Rendering and Implicit Function-based Single-View 3D Reconstruction**|Zijian Kuang et.al.|[2311.13199](http://arxiv.org/abs/2311.13199)|**[link](https://github.com/kuangzijian/drifu-for-animals)**|
 |**2023-11-22**|**Differentiable Radio Frequency Ray Tracing for Millimeter-Wave Sensing**|Xingyu Chen et.al.|[2311.13182](http://arxiv.org/abs/2311.13182)|null|
-|**2023-11-22**|**Volumetric Reconstruction Resolves Off-Resonance Artifacts in Static and Dynamic PROPELLER MRI**|Annesha Ghosh et.al.|[2311.13177](http://arxiv.org/abs/2311.13177)|null|
+|**2023-11-22**|**Volumetric Reconstruction Resolves Off-Resonance Artifacts in Static and Dynamic PROPELLER MRI**|Annesha Ghosh et.al.|[2311.13177](http://arxiv.org/abs/2311.13177)|**[link](https://github.com/sarafridov/volumetric-propeller)**|
 |**2023-11-22**|**3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization**|Jianwei Feng et.al.|[2311.13168](http://arxiv.org/abs/2311.13168)|null|
 |**2023-11-22**|**Test-Time Augmentation for 3D Point Cloud Classification and Segmentation**|Tuan-Anh Vu et.al.|[2311.13152](http://arxiv.org/abs/2311.13152)|null|
-|**2023-11-22**|**DAE-Net: Deforming Auto-Encoder for fine-grained shape co-segmentation**|Zhiqin Chen et.al.|[2311.13125](http://arxiv.org/abs/2311.13125)|null|
+|**2023-11-22**|**DAE-Net: Deforming Auto-Encoder for fine-grained shape co-segmentation**|Zhiqin Chen et.al.|[2311.13125](http://arxiv.org/abs/2311.13125)|**[link](https://github.com/czq142857/dae-net)**|
 |**2023-11-22**|**Automated Measurement of Pericoronary Adipose Tissue Attenuation and Volume in CT Angiography**|Andrew M. Nguyen et.al.|[2311.13100](http://arxiv.org/abs/2311.13100)|null|
 |**2023-11-22**|**Terminal Phase Navigation for AUV Docking: An Innovative Electromagnetic Approach**|Yevgeni Gutnik et.al.|[2311.13078](http://arxiv.org/abs/2311.13078)|null|
 |**2023-11-22**|**Non-equilibrium dynamics of topological defects in the 3d O(2) model**|Edgar López-Contreras et.al.|[2311.13074](http://arxiv.org/abs/2311.13074)|null|
@@ -66,7 +66,7 @@
 |**2023-11-21**|**Watch Your Adjoints! Lack of Mesh Convergence in Inviscid Adjoint Solutions**|Carlos Lozano et.al.|[2311.12504](http://arxiv.org/abs/2311.12504)|null|
 |**2023-11-21**|**AR Visualization System for Ship Detection and Recognition Based on AI**|Ziqi Ye et.al.|[2311.12430](http://arxiv.org/abs/2311.12430)|null|
 |**2023-11-21**|**Two Views Are Better than One: Monocular 3D Pose Estimation with Multiview Consistency**|Christian Keilstrup Ingwersen et.al.|[2311.12421](http://arxiv.org/abs/2311.12421)|null|
-|**2023-11-21**|**Autonomous Exploration of Unknown 3D Environments Using a Frontier-Based Collector Strategy**|Ivan D. Changoluisa Caiza et.al.|[2311.12408](http://arxiv.org/abs/2311.12408)|null|
+|**2023-11-21**|**Autonomous Exploration of Unknown 3D Environments Using a Frontier-Based Collector Strategy**|Ivan D. Changoluisa Caiza et.al.|[2311.12408](http://arxiv.org/abs/2311.12408)|**[link](https://github.com/davidchangoluisa/uav_frontier_based_collector)**|
 |**2023-11-21**|**Learning Part Motion of Articulated Objects Using Spatially Continuous Neural Implicit Representations**|Yushi Du et.al.|[2311.12407](http://arxiv.org/abs/2311.12407)|null|
 |**2023-11-21**|**Semi-supervised Medical Image Segmentation via Query Distribution Consistency**|Rong Wu et.al.|[2311.12364](http://arxiv.org/abs/2311.12364)|null|
 |**2023-11-21**|**Evidence of filamentary superconductivity in pressurized La3Ni2O7 single crystals**|Yazhou Zhou et.al.|[2311.12361](http://arxiv.org/abs/2311.12361)|null|
@@ -736,7 +736,7 @@
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20231124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231125>back to top</a>)</p>
 
 ## NeRF
 
@@ -886,7 +886,7 @@
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20231124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231125>back to top</a>)</p>
 
 ## Industry
 
@@ -1008,13 +1008,13 @@
 |**2020-12-22**|**DAGMapper: Learning to Map by Discovering Lane Topology**|Namdar Homayounfar et.al.|[2012.12377](http://arxiv.org/abs/2012.12377)|null|
 |**2020-12-22**|**Hierarchical Recurrent Attention Networks for Structured Online Maps**|Namdar Homayounfar et.al.|[2012.12314](http://arxiv.org/abs/2012.12314)|null|
 
-<p align=right>(<a href=#Updated-on-20231124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231125>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-22**|**Visual In-Context Prompting**|Feng Li et.al.|[2311.13601](http://arxiv.org/abs/2311.13601)|null|
+|**2023-11-22**|**Visual In-Context Prompting**|Feng Li et.al.|[2311.13601](http://arxiv.org/abs/2311.13601)|**[link](https://github.com/ux-decoder/dinov)**|
 |**2023-11-22**|**WildFusion: Learning 3D-Aware Latent Diffusion Models in View Space**|Katja Schwarz et.al.|[2311.13570](http://arxiv.org/abs/2311.13570)|null|
 |**2023-11-22**|**ADriver-I: A General World Model for Autonomous Driving**|Fan Jia et.al.|[2311.13549](http://arxiv.org/abs/2311.13549)|null|
 |**2023-11-22**|**An Empirical Study of Uncertainty Estimation Techniques for Detecting Drift in Data Streams**|Anton Winter et.al.|[2311.13374](http://arxiv.org/abs/2311.13374)|null|
@@ -1214,7 +1214,7 @@
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20231124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231125>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -1456,7 +1456,7 @@
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20231124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231125>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -1592,7 +1592,7 @@
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20231124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231125>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
