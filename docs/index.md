@@ -121,7 +121,7 @@ layout: default
 |**2023-11-17**|**Path Planning in 3D with Motion Primitives for Wind Energy-Harvesting Fixed-Wing Aircraft**|Seung-Keol Ryu et.al.|[2311.10915](http://arxiv.org/abs/2311.10915)|null|
 |**2023-11-17**|**Equivariant Neural Operator Learning with Graphon Convolution**|Chaoran Cheng et.al.|[2311.10908](http://arxiv.org/abs/2311.10908)|**[link](https://github.com/ccr-cheng/infgcn-pytorch)**|
 |**2023-11-17**|**OCT2Confocal: 3D CycleGAN based Translation of Retinal OCT Images to Confocal Microscopy**|Xin Tian et.al.|[2311.10902](http://arxiv.org/abs/2311.10902)|null|
-|**2023-11-17**|**Point Cloud Self-supervised Learning via 3D to Multi-view Masked Autoencoder**|Zhimin Chen et.al.|[2311.10887](http://arxiv.org/abs/2311.10887)|null|
+|**2023-11-17**|**Point Cloud Self-supervised Learning via 3D to Multi-view Masked Autoencoder**|Zhimin Chen et.al.|[2311.10887](http://arxiv.org/abs/2311.10887)|**[link](https://github.com/zhimin-c/multiview-mae)**|
 |**2023-11-17**|**Pre- to Post-Contrast Breast MRI Synthesis for Enhanced Tumour Segmentation**|Richard Osuala et.al.|[2311.10879](http://arxiv.org/abs/2311.10879)|**[link](https://github.com/richardobi/pre_post_synthesis)**|
 |**2023-11-17**|**Domain Generalization of 3D Object Detection by Density-Resampling**|Shuangzhi Li et.al.|[2311.10845](http://arxiv.org/abs/2311.10845)|null|
 |**2023-11-17**|**Artificial Intelligence in Fetal Resting-State Functional MRI Brain Segmentation: A Comparative Analysis of 3D UNet, VNet, and HighRes-Net Models**|Farzan Vahedifard et.al.|[2311.10844](http://arxiv.org/abs/2311.10844)|null|
@@ -511,7 +511,7 @@ layout: default
 |**2023-10-30**|**RayDF: Neural Ray-surface Distance Fields with Multi-view Consistency**|Zhuoman Liu et.al.|[2310.19629](http://arxiv.org/abs/2310.19629)|**[link](https://github.com/vlar-group/raydf)**|
 |**2023-10-30**|**Self-assembled physical unclonable function labels based on plasmonic coupling**|Mihir Dass et.al.|[2310.19587](http://arxiv.org/abs/2310.19587)|null|
 |**2023-10-30**|**A Perceptual Shape Loss for Monocular 3D Face Reconstruction**|Christopher Otto et.al.|[2310.19580](http://arxiv.org/abs/2310.19580)|null|
-|**2023-10-30**|**Generating Context-Aware Natural Answers for Questions in 3D Scenes**|Mohammed Munzer Dwedari et.al.|[2310.19516](http://arxiv.org/abs/2310.19516)|null|
+|**2023-10-30**|**Generating Context-Aware Natural Answers for Questions in 3D Scenes**|Mohammed Munzer Dwedari et.al.|[2310.19516](http://arxiv.org/abs/2310.19516)|**[link](https://github.com/munzerdw/gen3dqa)**|
 |**2023-10-30**|**Inverse folding for antibody sequence design using deep learning**|Frédéric A. Dreyer et.al.|[2310.19513](http://arxiv.org/abs/2310.19513)|null|
 |**2023-10-30**|**Dynamic Gaussian Splatting from Markerless Motion Capture can Reconstruct Infants Movements**|R. James Cotton et.al.|[2310.19441](http://arxiv.org/abs/2310.19441)|null|
 |**2023-10-30**|**Revision of Analytical Properties of Reaction Amplitude near Thresholds Using the Example of Muon-Induced Prompt Fission**|F. F. Karpeshin et.al.|[2310.19421](http://arxiv.org/abs/2310.19421)|null|
@@ -520,7 +520,7 @@ layout: default
 |**2023-10-30**|**FetusMapV2: Enhanced Fetal Pose Estimation in 3D Ultrasound**|Chaoyu Chen et.al.|[2310.19293](http://arxiv.org/abs/2310.19293)|null|
 |**2023-11-01**|**rTsfNet: a DNN model with Multi-head 3D Rotation and Time Series Feature Extraction for IMU-based Human Activity Recognition**|Yu Enokibori et.al.|[2310.19283](http://arxiv.org/abs/2310.19283)|null|
 |**2023-10-30**|**THz transition radiation of electron bunch laser-accelerated in long-scale near-critical density plasmas**|D A Gorlova et.al.|[2310.19282](http://arxiv.org/abs/2310.19282)|null|
-|**2023-10-30**|**Prediction of Effective Elastic Moduli of Rocks using Graph Neural Networks**|Jaehong Chung et.al.|[2310.19274](http://arxiv.org/abs/2310.19274)|null|
+|**2023-10-30**|**Prediction of Effective Elastic Moduli of Rocks using Graph Neural Networks**|Jaehong Chung et.al.|[2310.19274](http://arxiv.org/abs/2310.19274)|**[link](https://github.com/jh-chung1/gnn_elasticmodulus_prediction)**|
 |**2023-10-29**|**Popularity, face and voice: Predicting and interpreting livestreamers' retail performance using machine learning techniques**|Xiong Xiong et.al.|[2310.19200](http://arxiv.org/abs/2310.19200)|null|
 |**2023-10-29**|**Immersive 3D Simulator for Drone-as-a-Service**|Jiamin Lin et.al.|[2310.19199](http://arxiv.org/abs/2310.19199)|null|
 |**2023-10-29**|**3DMiner: Discovering Shapes from Large-Scale Unannotated Image Datasets**|Ta-Ying Cheng et.al.|[2310.19188](http://arxiv.org/abs/2310.19188)|null|
