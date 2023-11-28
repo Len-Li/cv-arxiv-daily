@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.27
+## Updated on 2023.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -41,7 +41,7 @@
 |**2023-11-23**|**HACD: Hand-Aware Conditional Diffusion for Monocular Hand-Held Object Reconstruction**|Bowen Fu et.al.|[2311.14189](http://arxiv.org/abs/2311.14189)|null|
 |**2023-11-23**|**Disc Tearing in a Be Star: Predicted 3D Observations**|M. W. Suffak et.al.|[2311.14185](http://arxiv.org/abs/2311.14185)|null|
 |**2023-11-23**|**TCuPGAN: A novel framework developed for optimizing human-machine interactions in citizen science**|Ramanakumar Sankar et.al.|[2311.14177](http://arxiv.org/abs/2311.14177)|null|
-|**2023-11-23**|**GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence**|Van Nguyen Nguyen et.al.|[2311.14155](http://arxiv.org/abs/2311.14155)|null|
+|**2023-11-23**|**GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence**|Van Nguyen Nguyen et.al.|[2311.14155](http://arxiv.org/abs/2311.14155)|**[link](https://github.com/nv-nguyen/gigapose)**|
 |**2023-11-23**|**Automated 3D Tumor Segmentation using Temporal Cubic PatchGAN (TCuP-GAN)**|Kameswara Bharadwaj Mantha et.al.|[2311.14148](http://arxiv.org/abs/2311.14148)|null|
 |**2023-11-23**|**An approach to solve the coarse-grained Protein folding problem in a Quantum Computer**|Jaya Vasavi P et.al.|[2311.14141](http://arxiv.org/abs/2311.14141)|null|
 |**2023-11-23**|**Phonon collapse and anharmonic melting of the 3D charge-density wave in kagome metals**|Martin Gutierrez-Amigo et.al.|[2311.14112](http://arxiv.org/abs/2311.14112)|null|
@@ -779,7 +779,7 @@
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20231127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231128>back to top</a>)</p>
 
 ## NeRF
 
@@ -936,7 +936,7 @@
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20231127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231128>back to top</a>)</p>
 
 ## Industry
 
@@ -1058,7 +1058,7 @@
 |**2020-12-22**|**DAGMapper: Learning to Map by Discovering Lane Topology**|Namdar Homayounfar et.al.|[2012.12377](http://arxiv.org/abs/2012.12377)|null|
 |**2020-12-22**|**Hierarchical Recurrent Attention Networks for Structured Online Maps**|Namdar Homayounfar et.al.|[2012.12314](http://arxiv.org/abs/2012.12314)|null|
 
-<p align=right>(<a href=#Updated-on-20231127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231128>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -1140,7 +1140,7 @@
 |**2023-11-02**|**A Survey of Large Language Models for Autonomous Driving**|Zhenjie Yang et.al.|[2311.01043](http://arxiv.org/abs/2311.01043)|**[link](https://github.com/thinklab-sjtu/awesome-llm4ad)**|
 |**2023-11-24**|**Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion**|Lunjun Zhang et.al.|[2311.01017](http://arxiv.org/abs/2311.01017)|null|
 |**2023-11-02**|**CML-MOTS: Collaborative Multi-task Learning for Multi-Object Tracking and Segmentation**|Yiming Cui et.al.|[2311.00987](http://arxiv.org/abs/2311.00987)|null|
-|**2023-11-01**|**Learning Cooperative Trajectory Representations for Motion Forecasting**|Hongzhi Ruan et.al.|[2311.00371](http://arxiv.org/abs/2311.00371)|**[link](https://github.com/air-thu/dair-v2x-seq)**|
+|**2023-11-01**|**Learning Cooperative Trajectory Representations for Motion Forecasting**|Hongzhi Ruan et.al.|[2311.00371](http://arxiv.org/abs/2311.00371)|**[link](https://github.com/air-thu/v2x-graph)**|
 |**2023-10-31**|**Addressing Limitations of State-Aware Imitation Learning for Autonomous Driving**|Luca Cultrera et.al.|[2310.20650](http://arxiv.org/abs/2310.20650)|null|
 |**2023-10-31**|**FLODCAST: Flow and Depth Forecasting via Multimodal Recurrent Architectures**|Andrea Ciamarra et.al.|[2310.20593](http://arxiv.org/abs/2310.20593)|null|
 |**2023-10-31**|**Predictive Control for Autonomous Driving with Uncertain, Multi-modal Predictions**|Siddharth H. Nair et.al.|[2310.20561](http://arxiv.org/abs/2310.20561)|null|
@@ -1266,7 +1266,7 @@
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20231127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231128>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -1517,7 +1517,7 @@
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20231127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231128>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -1654,7 +1654,7 @@
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20231127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231128>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
