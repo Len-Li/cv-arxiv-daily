@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.29
+## Updated on 2023.11.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -46,7 +46,7 @@ layout: default
 |**2023-11-27**|**Deceptive-Human: Prompt-to-NeRF 3D Human Generation with 3D-Consistent Synthetic Images**|Shiu-hong Kao et.al.|[2311.16499](http://arxiv.org/abs/2311.16499)|null|
 |**2023-11-28**|**Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement**|Jian Wang et.al.|[2311.16495](http://arxiv.org/abs/2311.16495)|null|
 |**2023-11-27**|**Mip-Splatting: Alias-free 3D Gaussian Splatting**|Zehao Yu et.al.|[2311.16493](http://arxiv.org/abs/2311.16493)|null|
-|**2023-11-27**|**Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**|Yang Liu et.al.|[2311.16482](http://arxiv.org/abs/2311.16482)|**[link](https://github.com/jimmyYliu/Animatable3DGaussian)**|
+|**2023-11-27**|**Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**|Yang Liu et.al.|[2311.16482](http://arxiv.org/abs/2311.16482)|**[link](https://github.com/jimmyYliu/Animatable-3D-Gaussian)**|
 |**2023-11-24**|**UniHPE: Towards Unified Human Pose Estimation via Contrastive Learning**|Zhongyu Jiang et.al.|[2311.16477](http://arxiv.org/abs/2311.16477)|null|
 |**2023-11-26**|**GS-IR: 3D Gaussian Splatting for Inverse Rendering**|Zhihao Liang et.al.|[2311.16473](http://arxiv.org/abs/2311.16473)|**[link](https://github.com/lzhnb/gs-ir)**|
 |**2023-11-27**|**Multi-3D-Models Registration-Based Augmented Reality (AR) Instructions for Assembly**|Seda Tuzun Canadinc et.al.|[2311.16337](http://arxiv.org/abs/2311.16337)|null|
@@ -881,7 +881,7 @@ layout: default
 |**2023-11-28**|**SCALAR-NeRF: SCAlable LARge-scale Neural Radiance Fields for Scene Reconstruction**|Yu Chen et.al.|[2311.16657](http://arxiv.org/abs/2311.16657)|null|
 |**2023-11-28**|**RGBGrasp: Image-based Object Grasping by Capturing Multiple Views during Robot Arm Movement with Neural Radiance Fields**|Chang Liu et.al.|[2311.16592](http://arxiv.org/abs/2311.16592)|null|
 |**2023-11-28**|**Rethinking Directional Integration in Neural Radiance Fields**|Congyue Deng et.al.|[2311.16504](http://arxiv.org/abs/2311.16504)|null|
-|**2023-11-27**|**Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**|Yang Liu et.al.|[2311.16482](http://arxiv.org/abs/2311.16482)|**[link](https://github.com/jimmyYliu/Animatable3DGaussian)**|
+|**2023-11-27**|**Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**|Yang Liu et.al.|[2311.16482](http://arxiv.org/abs/2311.16482)|**[link](https://github.com/jimmyYliu/Animatable-3D-Gaussian)**|
 |**2023-10-30**|**SeamlessNeRF: Stitching Part NeRFs with Gradient Propagation**|Bingchen Gong et.al.|[2311.16127](http://arxiv.org/abs/2311.16127)|null|
 |**2023-11-27**|**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**|Zhe Li et.al.|[2311.16096](http://arxiv.org/abs/2311.16096)|**[link](https://github.com/lizhe00/animatablegaussians)**|
 |**2023-11-27**|**SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radiance Fields**|Quentin Herau et.al.|[2311.15803](http://arxiv.org/abs/2311.15803)|null|
@@ -1263,7 +1263,7 @@ layout: default
 |**2023-10-31**|**Predictive Control for Autonomous Driving with Uncertain, Multi-modal Predictions**|Siddharth H. Nair et.al.|[2310.20561](http://arxiv.org/abs/2310.20561)|null|
 |**2023-10-31**|**Collaborative Decision-Making Using Spatiotemporal Graphs in Connected Autonomy**|Peng Gao et.al.|[2310.20491](http://arxiv.org/abs/2310.20491)|null|
 |**2023-11-01**|**Enhancing the Spatial Awareness Capability of Multi-Modal Large Language Model**|Yongqiang Zhao et.al.|[2310.20357](http://arxiv.org/abs/2310.20357)|null|
-|**2023-10-31**|**HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds**|Gang Zhang et.al.|[2310.20234](http://arxiv.org/abs/2310.20234)|**[link](https://github.com/zhanggang001/hednet)**|
+|**2023-10-31**|**HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds**|Gang Zhang et.al.|[2310.20234](http://arxiv.org/abs/2310.20234)|null|
 |**2023-10-30**|**Large Trajectory Models are Scalable Motion Predictors and Planners**|Qiao Sun et.al.|[2310.19620](http://arxiv.org/abs/2310.19620)|**[link](https://github.com/tsinghua-mars-lab/statetransformer)**|
 |**2023-10-31**|**Social Interaction-Aware Dynamical Models and Decision Making for Autonomous Vehicles**|Luca Crosato et.al.|[2310.18891](http://arxiv.org/abs/2310.18891)|null|
 |**2023-11-07**|**ODM3D: Alleviating Foreground Sparsity for Semi-Supervised Monocular 3D Object Detection**|Weijia Zhang et.al.|[2310.18620](http://arxiv.org/abs/2310.18620)|null|
@@ -1396,7 +1396,7 @@ layout: default
 |**2023-11-28**|**SCALAR-NeRF: SCAlable LARge-scale Neural Radiance Fields for Scene Reconstruction**|Yu Chen et.al.|[2311.16657](http://arxiv.org/abs/2311.16657)|null|
 |**2023-11-28**|**RGBGrasp: Image-based Object Grasping by Capturing Multiple Views during Robot Arm Movement with Neural Radiance Fields**|Chang Liu et.al.|[2311.16592](http://arxiv.org/abs/2311.16592)|null|
 |**2023-11-28**|**Rethinking Directional Integration in Neural Radiance Fields**|Congyue Deng et.al.|[2311.16504](http://arxiv.org/abs/2311.16504)|null|
-|**2023-11-27**|**Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**|Yang Liu et.al.|[2311.16482](http://arxiv.org/abs/2311.16482)|**[link](https://github.com/jimmyYliu/Animatable3DGaussian)**|
+|**2023-11-27**|**Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**|Yang Liu et.al.|[2311.16482](http://arxiv.org/abs/2311.16482)|**[link](https://github.com/jimmyYliu/Animatable-3D-Gaussian)**|
 |**2023-11-27**|**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**|Zhe Li et.al.|[2311.16096](http://arxiv.org/abs/2311.16096)|**[link](https://github.com/lizhe00/animatablegaussians)**|
 |**2023-11-27**|**OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving**|Wenzhao Zheng et.al.|[2311.16038](http://arxiv.org/abs/2311.16038)|**[link](https://github.com/wzzheng/occworld)**|
 |**2023-11-27**|**SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radiance Fields**|Quentin Herau et.al.|[2311.15803](http://arxiv.org/abs/2311.15803)|null|
@@ -1703,7 +1703,7 @@ layout: default
 |**2023-10-21**|**Robust NOMA-assisted OTFS-ISAC Network Design with 3D Motion Prediction Topology**|Luping Xiang et.al.|[2310.13984](http://arxiv.org/abs/2310.13984)|null|
 |**2023-10-21**|**Equivariant Map and Agent Geometry for Autonomous Driving Motion Prediction**|Yuping Wang et.al.|[2310.13922](http://arxiv.org/abs/2310.13922)|null|
 |**2023-10-19**|**NeuroSMPC: A Neural Network guided Sampling Based MPC for On-Road Autonomous Driving**|Kaustab Pal et.al.|[2310.13077](http://arxiv.org/abs/2310.13077)|null|
-|**2023-10-19**|**Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding**|Zhejun Zhang et.al.|[2310.12970](http://arxiv.org/abs/2310.12970)|**[link](https://github.com/zhejz/hptr)**|
+|**2023-10-19**|**Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding**|Zhejun Zhang et.al.|[2310.12970](http://arxiv.org/abs/2310.12970)|null|
 |**2023-10-19**|**A Markovian dynamics for $C. elegans$ behavior across scales**|Antonio C. Costa et.al.|[2310.12883](http://arxiv.org/abs/2310.12883)|**[link](https://github.com/antonioccosta/markov_worm)**|
 |**2023-10-19**|**The origins of unpredictability in life trajectory prediction tasks**|Ian Lundberg et.al.|[2310.12871](http://arxiv.org/abs/2310.12871)|null|
 |**2023-10-19**|**Multiscale Motion-Aware and Spatial-Temporal-Channel Contextual Coding Network for Learned Video Compression**|Yiming Wang et.al.|[2310.12733](http://arxiv.org/abs/2310.12733)|null|
