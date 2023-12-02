@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.01
+## Updated on 2023.12.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -47,7 +47,7 @@ layout: default
 |**2023-11-30**|**Probabilistic Speech-Driven 3D Facial Motion Synthesis: New Benchmarks, Methods, and Applications**|Karren D. Yang et.al.|[2311.18168](http://arxiv.org/abs/2311.18168)|null|
 |**2023-11-30**|**Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector Quantization**|KL Navaneet et.al.|[2311.18159](http://arxiv.org/abs/2311.18159)|**[link](https://github.com/ucdvision/compact3d)**|
 |**2023-11-29**|**Data-Driven Shape Sensing in Continuum Manipulators via Sliding Resistive Flex Sensors**|Chenhan Zhang et.al.|[2311.18154](http://arxiv.org/abs/2311.18154)|null|
-|**2023-11-29**|**STF: Spatial Temporal Fusion for Trajectory Prediction**|Pengqian Han et.al.|[2311.18149](http://arxiv.org/abs/2311.18149)|null|
+|**2023-11-29**|**STF: Spatial Temporal Fusion for Trajectory Prediction**|Pengqian Han et.al.|[2311.18149](http://arxiv.org/abs/2311.18149)|**[link](https://github.com/pengqianhan/STF-Spatial-Temporal-Fusion-for-Trajectory-Prediction)**|
 |**2023-11-29**|**Symmetries and Wavefunctions of Photons Confined in 3D Photonic Band Gap Superlattices**|Marek Kozoň et.al.|[2311.18123](http://arxiv.org/abs/2311.18123)|null|
 |**2023-11-29**|**Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**|Thomas Wimmer et.al.|[2311.18113](http://arxiv.org/abs/2311.18113)|null|
 |**2023-11-29**|**DiffGEPCI: 3D MRI Synthesis from mGRE Signals using 2.5D Diffusion Model**|Yuyang Hu et.al.|[2311.18073](http://arxiv.org/abs/2311.18073)|null|
@@ -55,7 +55,7 @@ layout: default
 |**2023-11-29**|**A Data-Driven, Non-Linear, Parameterized Reduced Order Model of Metal 3D Printing**|Aaron L. Brown et.al.|[2311.18036](http://arxiv.org/abs/2311.18036)|null|
 |**2023-11-29**|**4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling**|Sherwin Bahmani et.al.|[2311.17984](http://arxiv.org/abs/2311.17984)|null|
 |**2023-11-29**|**GaussianShader: 3D Gaussian Splatting with Shading Functions for Reflective Surfaces**|Yingwenqi Jiang et.al.|[2311.17977](http://arxiv.org/abs/2311.17977)|null|
-|**2023-11-29**|**GeoDream: Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation**|Baorui Ma et.al.|[2311.17971](http://arxiv.org/abs/2311.17971)|**[link](https://github.com/baaivision/GeoDream)**|
+|**2023-11-29**|**GeoDream: Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation**|Baorui Ma et.al.|[2311.17971](http://arxiv.org/abs/2311.17971)|**[link](https://github.com/baaivision/uni3d)**|
 |**2023-11-29**|**AvatarStudio: High-fidelity and Animatable 3D Avatar Creation from Text**|Jianfeng Zhang et.al.|[2311.17917](http://arxiv.org/abs/2311.17917)|null|
 |**2023-11-29**|**HUGS: Human Gaussian Splats**|Muhammed Kocabas et.al.|[2311.17910](http://arxiv.org/abs/2311.17910)|null|
 |**2023-11-29**|**CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting**|Alexander Vilesov et.al.|[2311.17907](http://arxiv.org/abs/2311.17907)|null|
@@ -1789,7 +1789,7 @@ layout: default
 |**2023-11-30**|**Heterogeneous Graph-based Trajectory Prediction using Local Map Context and Social Interactions**|Daniel Grimm et.al.|[2311.18553](http://arxiv.org/abs/2311.18553)|null|
 |**2023-11-30**|**Categorical Traffic Transformer: Interpretable and Diverse Behavior Prediction with Tokenized Latent**|Yuxiao Chen et.al.|[2311.18307](http://arxiv.org/abs/2311.18307)|null|
 |**2023-11-30**|**S-T CRF: Spatial-Temporal Conditional Random Field for Human Trajectory Prediction**|Pengqian Han et.al.|[2311.18198](http://arxiv.org/abs/2311.18198)|null|
-|**2023-11-29**|**STF: Spatial Temporal Fusion for Trajectory Prediction**|Pengqian Han et.al.|[2311.18149](http://arxiv.org/abs/2311.18149)|null|
+|**2023-11-29**|**STF: Spatial Temporal Fusion for Trajectory Prediction**|Pengqian Han et.al.|[2311.18149](http://arxiv.org/abs/2311.18149)|**[link](https://github.com/pengqianhan/STF-Spatial-Temporal-Fusion-for-Trajectory-Prediction)**|
 |**2023-11-29**|**Dynamic Dense Graph Convolutional Network for Skeleton-based Human Motion Prediction**|Xinshun Wang et.al.|[2311.17408](http://arxiv.org/abs/2311.17408)|null|
 |**2023-11-29**|**Generative Hierarchical Temporal Transformer for Hand Action Recognition and Motion Prediction**|Yilin Wen et.al.|[2311.17366](http://arxiv.org/abs/2311.17366)|null|
 |**2023-11-27**|**A Fully Data-Driven Approach for Realistic Traffic Signal Control Using Offline Reinforcement Learning**|Jianxiong Li et.al.|[2311.15920](http://arxiv.org/abs/2311.15920)|null|
@@ -1833,7 +1833,7 @@ layout: default
 |**2023-10-21**|**Robust NOMA-assisted OTFS-ISAC Network Design with 3D Motion Prediction Topology**|Luping Xiang et.al.|[2310.13984](http://arxiv.org/abs/2310.13984)|null|
 |**2023-10-21**|**Equivariant Map and Agent Geometry for Autonomous Driving Motion Prediction**|Yuping Wang et.al.|[2310.13922](http://arxiv.org/abs/2310.13922)|null|
 |**2023-10-19**|**NeuroSMPC: A Neural Network guided Sampling Based MPC for On-Road Autonomous Driving**|Kaustab Pal et.al.|[2310.13077](http://arxiv.org/abs/2310.13077)|null|
-|**2023-10-19**|**Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding**|Zhejun Zhang et.al.|[2310.12970](http://arxiv.org/abs/2310.12970)|null|
+|**2023-10-19**|**Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding**|Zhejun Zhang et.al.|[2310.12970](http://arxiv.org/abs/2310.12970)|**[link](https://github.com/zhejz/hptr)**|
 |**2023-10-19**|**A Markovian dynamics for $C. elegans$ behavior across scales**|Antonio C. Costa et.al.|[2310.12883](http://arxiv.org/abs/2310.12883)|**[link](https://github.com/antonioccosta/markov_worm)**|
 |**2023-10-19**|**The origins of unpredictability in life trajectory prediction tasks**|Ian Lundberg et.al.|[2310.12871](http://arxiv.org/abs/2310.12871)|null|
 |**2023-10-19**|**Multiscale Motion-Aware and Spatial-Temporal-Channel Contextual Coding Network for Learned Video Compression**|Yiming Wang et.al.|[2310.12733](http://arxiv.org/abs/2310.12733)|null|
