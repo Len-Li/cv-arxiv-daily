@@ -45,7 +45,7 @@
 |**2023-11-30**|**Measurement of Enthalpy and Entropy of the Rate-Determining Step of a Model Electrocatalyst for the Oxygen Evolution Reaction**|Joaquín Morales-Santelices et.al.|[2311.18396](http://arxiv.org/abs/2311.18396)|null|
 |**2023-11-30**|**A Novel Variational Approach for Multiphoton Microscopy Image Restoration: from PSF Estimation to 3D Deconvolution**|Julien Ajdenbaum et.al.|[2311.18386](http://arxiv.org/abs/2311.18386)|null|
 |**2023-11-30**|**Room temperature polariton condensation from Whispering gallery modes in CsPbBr3 microplatelets**|Laura Polimeno et.al.|[2311.18379](http://arxiv.org/abs/2311.18379)|null|
-|**2023-11-30**|**Advances in 3D Neural Stylization: A Survey**|Yingshu Chen et.al.|[2311.18328](http://arxiv.org/abs/2311.18328)|null|
+|**2023-11-30**|**Advances in 3D Neural Stylization: A Survey**|Yingshu Chen et.al.|[2311.18328](http://arxiv.org/abs/2311.18328)|**[link](https://github.com/chenyingshu/advances_3d_neural_stylization)**|
 |**2023-11-30**|**Reconstructing the normal and shape at specularities in endoscopy**|Karim Makki et.al.|[2311.18299](http://arxiv.org/abs/2311.18299)|null|
 |**2023-11-30**|**CosAvatar: Consistent and Animatable Portrait Video Tuning with Text Prompt**|Haiyao Xiao et.al.|[2311.18288](http://arxiv.org/abs/2311.18288)|null|
 |**2023-11-30**|**Dispersed Structured Light for Hyperspectral 3D Imaging**|Suhyun Shin et.al.|[2311.18287](http://arxiv.org/abs/2311.18287)|null|
@@ -174,7 +174,7 @@
 |**2023-11-27**|**Topological skyrmion semimetals**|Shu-Wei Liu et.al.|[2311.15753](http://arxiv.org/abs/2311.15753)|null|
 |**2023-11-27**|**Variational Autoencoders for Feature Exploration and Malignancy Prediction of Lung Lesions**|Benjamin Keel et.al.|[2311.15719](http://arxiv.org/abs/2311.15719)|**[link](https://github.com/benkeel/vae_lung_lesion_bmvc)**|
 |**2023-11-27**|**SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation**|Jiehong Lin et.al.|[2311.15707](http://arxiv.org/abs/2311.15707)|**[link](https://github.com/jiehonglin/sam-6d)**|
-|**2023-11-27**|**MOT-DETR: 3D Single Shot Detection and Tracking with Transformers to build 3D representations for Agro-Food Robots**|David Rapado-Rincon et.al.|[2311.15674](http://arxiv.org/abs/2311.15674)|null|
+|**2023-11-27**|**MOT-DETR: 3D Single Shot Detection and Tracking with Transformers to build 3D representations for Agro-Food Robots**|David Rapado-Rincon et.al.|[2311.15674](http://arxiv.org/abs/2311.15674)|**[link](https://github.com/drapado/mot-detr)**|
 |**2023-11-27**|**Deformation-Guided Unsupervised Non-Rigid Shape Matching**|Aymen Merrouche et.al.|[2311.15668](http://arxiv.org/abs/2311.15668)|null|
 |**2023-11-27**|**PaintNeSF: Artistic Creation of Stylized Scenes with Vectorized 3D Strokes**|Hao-Bin Duan et.al.|[2311.15637](http://arxiv.org/abs/2311.15637)|null|
 |**2023-11-27**|**2D Feature Distillation for Weakly- and Semi-Supervised 3D Semantic Segmentation**|Ozan Unal et.al.|[2311.15605](http://arxiv.org/abs/2311.15605)|null|
@@ -210,7 +210,7 @@
 |**2023-11-24**|**Unified Medical Image Pre-training in Language-Guided Common Semantic Space**|Xiaoxuan He et.al.|[2311.14851](http://arxiv.org/abs/2311.14851)|null|
 |**2023-11-24**|**Unveiling the 3D structure of nova shells with MUSE -- The case of RR Pic**|Lientur Celedón et.al.|[2311.14843](http://arxiv.org/abs/2311.14843)|null|
 |**2023-11-24**|**Magnetochiral anisotropy-induced nonlinear planar Hall effect in Topological Insulator surface states**|D. C. Marinescu et.al.|[2311.14841](http://arxiv.org/abs/2311.14841)|null|
-|**2023-11-24**|**Robust Joint Estimation of Galaxy Redshift and Spectral Templates using Online Dictionary Learning**|Sean Bryan et.al.|[2311.14812](http://arxiv.org/abs/2311.14812)|null|
+|**2023-11-24**|**Robust Joint Estimation of Galaxy Redshift and Spectral Templates using Online Dictionary Learning**|Sean Bryan et.al.|[2311.14812](http://arxiv.org/abs/2311.14812)|**[link](https://github.com/hyperspectraldictionarylearning/bryanetal2023)**|
 |**2023-11-24**|**Rashba splitting in polar-nonpolar sandwich heterostructure : A DFT Study**|Sanchari Bhattacharya et.al.|[2311.14787](http://arxiv.org/abs/2311.14787)|null|
 |**2023-11-24**|**Neural Style Transfer for Computer Games**|Eleftherios Ioannou et.al.|[2311.14617](http://arxiv.org/abs/2311.14617)|null|
 |**2023-11-24**|**Animate124: Animating One Image to 4D Dynamic Scene**|Yuyang Zhao et.al.|[2311.14603](http://arxiv.org/abs/2311.14603)|null|
@@ -218,7 +218,7 @@
 |**2023-11-24**|**Visualizing Plasma Physics Simulations in Immersive Environments**|Nuno Verdelho Trindade et.al.|[2311.14593](http://arxiv.org/abs/2311.14593)|null|
 |**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521](http://arxiv.org/abs/2311.14521)|null|
 |**2023-11-24**|**Morphing Graph Drawings in the Presence of Point Obstacles**|Oksana Firman et.al.|[2311.14516](http://arxiv.org/abs/2311.14516)|null|
-|**2023-11-24**|**MVControl: Adding Conditional Control to Multi-view Diffusion for Controllable Text-to-3D Generation**|Zhiqi Li et.al.|[2311.14494](http://arxiv.org/abs/2311.14494)|null|
+|**2023-11-24**|**MVControl: Adding Conditional Control to Multi-view Diffusion for Controllable Text-to-3D Generation**|Zhiqi Li et.al.|[2311.14494](http://arxiv.org/abs/2311.14494)|**[link](https://github.com/wu-cvgl/mvcontrol)**|
 |**2023-11-24**|**OneFormer3D: One Transformer for Unified Point Cloud Segmentation**|Maxim Kolodiazhnyi et.al.|[2311.14405](http://arxiv.org/abs/2311.14405)|**[link](https://github.com/filapro/oneformer3d)**|
 |**2023-11-24**|**Analytic solution for pulse wave propagation in flexible tubes with application to patient-specific arterial tree**|Peishuo Wu et.al.|[2311.14345](http://arxiv.org/abs/2311.14345)|null|
 |**2023-11-24**|**Binarized 3D Whole-body Human Mesh Recovery**|Zhiteng Li et.al.|[2311.14323](http://arxiv.org/abs/2311.14323)|**[link](https://github.com/zhitengli/bidrn)**|
@@ -404,7 +404,7 @@
 |**2023-11-15**|**Nondestructive, quantitative viability analysis of 3D tissue cultures using machine learning image segmentation**|Kylie J. Trettner et.al.|[2311.09354](http://arxiv.org/abs/2311.09354)|null|
 |**2023-11-15**|**Nothing Stands Still: A Spatiotemporal Benchmark on 3D Point Cloud Registration Under Large Geometric and Temporal Change**|Tao Sun et.al.|[2311.09346](http://arxiv.org/abs/2311.09346)|null|
 |**2023-11-15**|**Survey of Rigid Body Simulation with Extended Position Based Dynamics**|Miguel Luis Nunes Seabra et.al.|[2311.09327](http://arxiv.org/abs/2311.09327)|null|
-|**2023-11-15**|**H-Packer: Holographic Rotationally Equivariant Convolutional Neural Network for Protein Side-Chain Packing**|Gian Marco Visani et.al.|[2311.09312](http://arxiv.org/abs/2311.09312)|null|
+|**2023-11-15**|**H-Packer: Holographic Rotationally Equivariant Convolutional Neural Network for Protein Side-Chain Packing**|Gian Marco Visani et.al.|[2311.09312](http://arxiv.org/abs/2311.09312)|**[link](https://github.com/gvisani/hpacker)**|
 |**2023-11-15**|**From Feast to Famine: A Systematic Study of Accretion onto Oblique Pulsars with 3D GRMHD Simulations**|Ariadna Murguia-Berthier et.al.|[2311.09309](http://arxiv.org/abs/2311.09309)|null|
 |**2023-11-15**|**On the existence of a very metal-poor disc in the Milky Way**|Hanyuan Zhang et.al.|[2311.09294](http://arxiv.org/abs/2311.09294)|null|
 |**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221](http://arxiv.org/abs/2311.09221)|null|
@@ -462,7 +462,7 @@
 |**2023-11-13**|**Fast Normalized Cross-Correlation for Template Matching with Rotations**|José María Almira et.al.|[2311.07561](http://arxiv.org/abs/2311.07561)|null|
 |**2023-11-13**|**Scalar susceptibility of a diluted classical XY model**|Reece Beattie-Hauser et.al.|[2311.07457](http://arxiv.org/abs/2311.07457)|null|
 |**2023-11-15**|**Trajectories and Platoon-forming Algorithm for Intersections with Heterogeneous Autonomous Traffic**|P. C. Joshi et.al.|[2311.07435](http://arxiv.org/abs/2311.07435)|null|
-|**2023-11-13**|**Supersampling of Data from Structured-light Scanner with Deep Learning**|Martin Melicherčík et.al.|[2311.07432](http://arxiv.org/abs/2311.07432)|null|
+|**2023-11-13**|**Supersampling of Data from Structured-light Scanner with Deep Learning**|Martin Melicherčík et.al.|[2311.07432](http://arxiv.org/abs/2311.07432)|**[link](https://github.com/meli-0xff/depthmap_sr)**|
 |**2023-11-13**|**Emittance-preserving acceleration of high-quality positron beams using warm plasma filaments**|Severin Diederichs et.al.|[2311.07402](http://arxiv.org/abs/2311.07402)|**[link](https://github.com/hi-pace/hipace)**|
 |**2023-11-13**|**Gate-Compatible Circuit QED in a Three-Dimensional Cavity Architecture**|Zezhou Xia et.al.|[2311.07337](http://arxiv.org/abs/2311.07337)|null|
 |**2023-11-13**|**Evolution and final fate of massive post-common-envelope binaries**|Dandan Wei et.al.|[2311.07278](http://arxiv.org/abs/2311.07278)|null|
@@ -830,7 +830,7 @@
 |**2023-10-27**|**FLARE: Fast Learning of Animatable and Relightable Mesh Avatars**|Shrisha Bharadwaj et.al.|[2310.17519](http://arxiv.org/abs/2310.17519)|null|
 |**2023-10-26**|**Revisiting the Distillation of Image Representations into Point Clouds for Autonomous Driving**|Gilles Puy et.al.|[2310.17504](http://arxiv.org/abs/2310.17504)|null|
 |**2023-10-30**|**A Hybrid Graph Network for Complex Activity Detection in Video**|Salman Khan et.al.|[2310.17493](http://arxiv.org/abs/2310.17493)|null|
-|**2023-10-26**|**Towards Learning Monocular 3D Object Localization From 2D Labels using the Physical Laws of Motion**|Daniel Kienzle et.al.|[2310.17462](http://arxiv.org/abs/2310.17462)|null|
+|**2023-10-26**|**Towards Learning Monocular 3D Object Localization From 2D Labels using the Physical Laws of Motion**|Daniel Kienzle et.al.|[2310.17462](http://arxiv.org/abs/2310.17462)|**[link](https://github.com/KieDani/Towards_3D_Object_Localization)**|
 |**2023-10-26**|**A hidden 2d CFT for self-dual Yang-Mills on the celestial sphere**|Wei Bu et.al.|[2310.17457](http://arxiv.org/abs/2310.17457)|null|
 |**2023-10-26**|**SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation**|Haobo Jiang et.al.|[2310.17359](http://arxiv.org/abs/2310.17359)|null|
 |**2023-10-26**|**IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting**|Tim J. Schoonbeek et.al.|[2310.17323](http://arxiv.org/abs/2310.17323)|**[link](https://github.com/timschoonbeek/industreal)**|
@@ -1489,7 +1489,7 @@
 |**2023-10-03**|**Talk2BEV: Language-enhanced Bird's-eye View Maps for Autonomous Driving**|Vikrant Dewangan et.al.|[2310.02251](http://arxiv.org/abs/2310.02251)|null|
 |**2023-10-13**|**Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving**|Long Chen et.al.|[2310.01957](http://arxiv.org/abs/2310.01957)|**[link](https://github.com/wayveai/driving-with-llms)**|
 |**2023-10-03**|**DARTH: Holistic Test-time Adaptation for Multiple Object Tracking**|Mattia Segu et.al.|[2310.01926](http://arxiv.org/abs/2310.01926)|**[link](https://github.com/mattiasegu/darth)**|
-|**2023-10-03**|**Trainable Noise Model as an XAI evaluation method: application on Sobol for remote sensing image segmentation**|Hossein Shreim et.al.|[2310.01828](http://arxiv.org/abs/2310.01828)|null|
+|**2023-10-03**|**Trainable Noise Model as an XAI evaluation method: application on Sobol for remote sensing image segmentation**|Hossein Shreim et.al.|[2310.01828](http://arxiv.org/abs/2310.01828)|**[link](https://github.com/geoaigroup/geoai-ecrs2023)**|
 |**2023-10-03**|**Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous Driving**|Maneekwan Toyungyernsub et.al.|[2310.01723](http://arxiv.org/abs/2310.01723)|null|
 |**2023-10-10**|**You Only Look at Once for Real-time and Generic Multi-Task**|Jiayuan Wang et.al.|[2310.01641](http://arxiv.org/abs/2310.01641)|**[link](https://github.com/jiayuanwang-jw/yolov8-multi-task)**|
 |**2023-10-02**|**Elastic Interaction Energy Loss for Traffic Image Segmentation**|Yaxin Feng et.al.|[2310.01449](http://arxiv.org/abs/2310.01449)|null|
