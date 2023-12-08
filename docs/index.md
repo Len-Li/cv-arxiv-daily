@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.07
+## Updated on 2023.12.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -98,7 +98,7 @@ layout: default
 |**2023-12-04**|**Mesh-Guided Neural Implicit Field Editing**|Can Wang et.al.|[2312.02157](http://arxiv.org/abs/2312.02157)|null|
 |**2023-12-04**|**GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis**|Shunyuan Zheng et.al.|[2312.02155](http://arxiv.org/abs/2312.02155)|null|
 |**2023-12-04**|**Steerers: A framework for rotation equivariant keypoint descriptors**|Georg Bökman et.al.|[2312.02152](http://arxiv.org/abs/2312.02152)|**[link](https://github.com/georg-bn/rotation-steerers)**|
-|**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145](http://arxiv.org/abs/2312.02145)|null|
+|**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145](http://arxiv.org/abs/2312.02145)|**[link](https://github.com/prs-eth/marigold)**|
 |**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141](http://arxiv.org/abs/2312.02141)|null|
 |**2023-12-04**|**MANUS: Markerless Hand-Object Grasp Capture using Articulated 3D Gaussians**|Chandradeep Pokhariya et.al.|[2312.02137](http://arxiv.org/abs/2312.02137)|null|
 |**2023-12-04**|**BerfScene: Bev-conditioned Equivariant Radiance Fields for Infinite 3D Scene Generation**|Qihang Zhang et.al.|[2312.02136](http://arxiv.org/abs/2312.02136)|null|
@@ -1169,7 +1169,7 @@ layout: default
 |**2023-12-03**|**SANeRF-HQ: Segment Anything for NeRF in High Quality**|Yichen Liu et.al.|[2312.01531](http://arxiv.org/abs/2312.01531)|null|
 |**2023-12-03**|**VideoRF: Rendering Dynamic Radiance Fields as 2D Feature Video Streams**|Liao Wang et.al.|[2312.01407](http://arxiv.org/abs/2312.01407)|null|
 |**2023-12-05**|**Self-Evolving Neural Radiance Fields**|Jaewoo Jung et.al.|[2312.01003](http://arxiv.org/abs/2312.01003)|null|
-|**2023-11-30**|**PyNeRF: Pyramidal Neural Radiance Fields**|Haithem Turki et.al.|[2312.00252](http://arxiv.org/abs/2312.00252)|null|
+|**2023-11-30**|**PyNeRF: Pyramidal Neural Radiance Fields**|Haithem Turki et.al.|[2312.00252](http://arxiv.org/abs/2312.00252)|**[link](https://github.com/hturki/pynerf)**|
 |**2023-11-30**|**SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting**|Haolin Xiong et.al.|[2312.00206](http://arxiv.org/abs/2312.00206)|null|
 |**2023-11-30**|**Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing**|Hyelin Nam et.al.|[2311.18608](http://arxiv.org/abs/2311.18608)|null|
 |**2023-11-30**|**Anisotropic Neural Representation Learning for High-Quality Neural Rendering**|Y. Wang et.al.|[2311.18311](http://arxiv.org/abs/2311.18311)|null|
@@ -1766,7 +1766,7 @@ layout: default
 |**2023-11-28**|**Empowering Autonomous Driving with Large Language Models: A Safety Perspective**|Yixuan Wang et.al.|[2312.00812](http://arxiv.org/abs/2312.00812)|null|
 |**2023-12-01**|**Towards Efficient 3D Object Detection in Bird's-Eye-View Space for Autonomous Driving: A Convolutional-Only Approach**|Yuxin Li et.al.|[2312.00633](http://arxiv.org/abs/2312.00633)|null|
 |**2023-12-01**|**Improving Efficiency of DNN-based Relocalization Module for Autonomous Driving with Server-side Computing**|Dengbo Li et.al.|[2312.00316](http://arxiv.org/abs/2312.00316)|null|
-|**2023-11-30**|**PyNeRF: Pyramidal Neural Radiance Fields**|Haithem Turki et.al.|[2312.00252](http://arxiv.org/abs/2312.00252)|null|
+|**2023-11-30**|**PyNeRF: Pyramidal Neural Radiance Fields**|Haithem Turki et.al.|[2312.00252](http://arxiv.org/abs/2312.00252)|**[link](https://github.com/hturki/pynerf)**|
 |**2023-11-30**|**EpiTESTER: Testing Autonomous Vehicles with Epigenetic Algorithm and Attention Mechanism**|Chengjie Lu et.al.|[2312.00207](http://arxiv.org/abs/2312.00207)|**[link](https://github.com/simula-complex/epitester)**|
 |**2023-11-30**|**SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting**|Haolin Xiong et.al.|[2312.00206](http://arxiv.org/abs/2312.00206)|null|
 |**2023-11-30**|**Evaluating the Impact of Flaky Simulators on Testing Autonomous Driving Systems**|Mohammad Hossein Amini et.al.|[2311.18768](http://arxiv.org/abs/2311.18768)|**[link](https://github.com/anonoymous9423013/anonymous_paper)**|
