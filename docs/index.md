@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.09
+## Updated on 2023.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -45,7 +45,7 @@ layout: default
 |**2023-12-07**|**MAD UFOs: Magnetically Arrested Discs with persistent Ultra-Fast Outflows**|Petra Suková et.al.|[2312.04149](http://arxiv.org/abs/2312.04149)|null|
 |**2023-12-07**|**Towards 4D Human Video Stylization**|Tiantian Wang et.al.|[2312.04143](http://arxiv.org/abs/2312.04143)|**[link](https://github.com/tiantianwang/4d_video_stylization)**|
 |**2023-12-07**|**Polarimetric Light Transport Analysis for Specular Inter-reflection**|Ryota Maeda et.al.|[2312.04140](http://arxiv.org/abs/2312.04140)|null|
-|**2023-12-07**|**Instance Tracking in 3D Scenes from Egocentric Videos**|Yunhan Zhao et.al.|[2312.04117](http://arxiv.org/abs/2312.04117)|null|
+|**2023-12-07**|**Instance Tracking in 3D Scenes from Egocentric Videos**|Yunhan Zhao et.al.|[2312.04117](http://arxiv.org/abs/2312.04117)|**[link](https://github.com/it3dego/it3dego)**|
 |**2023-12-07**|**Identity-Obscured Neural Radiance Fields: Privacy-Preserving 3D Facial Reconstruction**|Jiayi Kong et.al.|[2312.04106](http://arxiv.org/abs/2312.04106)|null|
 |**2023-12-07**|**Mass Ratio Dependence of Three-Body Resonance Lifetimes in 1D and 3D**|Lucas Happ et.al.|[2312.04080](http://arxiv.org/abs/2312.04080)|null|
 |**2023-12-07**|**Differentiable Registration of Images and LiDAR Point Clouds with VoxelPoint-to-Pixel Matching**|Junsheng Zhou et.al.|[2312.04060](http://arxiv.org/abs/2312.04060)|**[link](https://github.com/junshengzhou/vp2p-match)**|
