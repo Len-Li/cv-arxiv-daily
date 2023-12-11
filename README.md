@@ -129,7 +129,7 @@
 |**2023-12-05**|**A 3D kinetic Monte Carlo study of streamer discharges in CO $_2$**|Robert Marskar et.al.|[2312.02634](http://arxiv.org/abs/2312.02634)|null|
 |**2023-12-05**|**DreaMo: Articulated 3D Reconstruction From A Single Casual Video**|Tao Tu et.al.|[2312.02617](http://arxiv.org/abs/2312.02617)|null|
 |**2023-12-05**|**Panoptica -- instance-wise evaluation of 3D semantic and instance segmentation maps**|Florian Kofler et.al.|[2312.02608](http://arxiv.org/abs/2312.02608)|**[link](https://github.com/brainlesion/panoptica)**|
-|**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593](http://arxiv.org/abs/2312.02593)|null|
+|**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593](http://arxiv.org/abs/2312.02593)|**[link](https://github.com/kulunuos/6dapose)**|
 |**2023-12-05**|**Prompt2NeRF-PIL: Fast NeRF Generation via Pretrained Implicit Latent**|Jianmeng Liu et.al.|[2312.02568](http://arxiv.org/abs/2312.02568)|null|
 |**2023-12-05**|**BOgen: Generating Part-Level 3D Designs Based on User Intention Inference through Bayesian Optimization and Variational Autoencoder**|Seung Won Lee et.al.|[2312.02557](http://arxiv.org/abs/2312.02557)|null|
 |**2023-12-05**|**MASP: Scalable GNN-based Planning for Multi-Agent Navigation**|Xinyi Yang et.al.|[2312.02522](http://arxiv.org/abs/2312.02522)|null|
@@ -190,7 +190,7 @@
 |**2023-12-04**|**Multi-View Person Matching and 3D Pose Estimation with Arbitrary Uncalibrated Camera Networks**|Yan Xu et.al.|[2312.01561](http://arxiv.org/abs/2312.01561)|null|
 |**2023-12-04**|**Axisymmetric Virtual Elements For Problems of Elasticity and Plasticity**|Louie L. Yaw et.al.|[2312.01559](http://arxiv.org/abs/2312.01559)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
-|**2023-12-04**|**Tomographic projection optimization for volumetric additive manufacturing with general band constraint Lp-norm minimization**|Chi Chung Li et.al.|[2312.01548](http://arxiv.org/abs/2312.01548)|null|
+|**2023-12-04**|**Tomographic projection optimization for volumetric additive manufacturing with general band constraint Lp-norm minimization**|Chi Chung Li et.al.|[2312.01548](http://arxiv.org/abs/2312.01548)|**[link](https://github.com/facebookresearch/ldct-vam)**|
 |**2023-12-03**|**SANeRF-HQ: Segment Anything for NeRF in High Quality**|Yichen Liu et.al.|[2312.01531](http://arxiv.org/abs/2312.01531)|null|
 |**2023-12-05**|**T3D: Towards 3D Medical Image Understanding through Vision-Language Pre-training**|Che Liu et.al.|[2312.01529](http://arxiv.org/abs/2312.01529)|null|
 |**2023-12-03**|**CityGen: Infinite and Controllable 3D City Layout Generation**|Jie Deng et.al.|[2312.01508](http://arxiv.org/abs/2312.01508)|null|
@@ -205,7 +205,7 @@
 |**2023-12-02**|**Neural Parametric Gaussians for Monocular Non-Rigid Object Reconstruction**|Devikalyan Das et.al.|[2312.01196](http://arxiv.org/abs/2312.01196)|null|
 |**2023-12-02**|**Has Anything Changed? 3D Change Detection by 2D Segmentation Masks**|Aikaterini Adam et.al.|[2312.01148](http://arxiv.org/abs/2312.01148)|null|
 |**2023-12-02**|**FDM Printing: a Fabrication Method for Fluidic Soft Circuits?**|Savita V. Kendre et.al.|[2312.01131](http://arxiv.org/abs/2312.01131)|null|
-|**2023-12-02**|**STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics**|Lehong Wang et.al.|[2312.01130](http://arxiv.org/abs/2312.01130)|null|
+|**2023-12-02**|**STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics**|Lehong Wang et.al.|[2312.01130](http://arxiv.org/abs/2312.01130)|**[link](https://github.com/roboticmaterialsgroup/fluidlogic)**|
 |**2023-12-02**|**ControlDreamer: Stylized 3D Generation with Multi-View ControlNet**|Yeongtak Oh et.al.|[2312.01129](http://arxiv.org/abs/2312.01129)|null|
 |**2023-12-02**|**Paved2Paradise: Cost-Effective and Scalable LiDAR Simulation by Factoring the Real World**|Michael A. Alcorn et.al.|[2312.01117](http://arxiv.org/abs/2312.01117)|**[link](https://github.com/airalcorn2/paved2paradise)**|
 |**2023-12-02**|**OpEnCam: Lensless Optical Encryption Camera**|Salman S. Khan et.al.|[2312.01077](http://arxiv.org/abs/2312.01077)|null|
@@ -221,8 +221,8 @@
 |**2023-12-01**|**Segment Any 3D Gaussians**|Jiazhong Cen et.al.|[2312.00860](http://arxiv.org/abs/2312.00860)|null|
 |**2023-12-01**|**NeuSG: Neural Implicit Surface Reconstruction with 3D Gaussian Splatting Guidance**|Hanlin Chen et.al.|[2312.00846](http://arxiv.org/abs/2312.00846)|null|
 |**2023-12-01**|**Sparse Beats Dense: Rethinking Supervision in Radar-Camera Depth Completion**|Huadong Li et.al.|[2312.00844](http://arxiv.org/abs/2312.00844)|null|
-|**2023-11-30**|**Lasagna: Layered Score Distillation for Disentangled Object Relighting**|Dina Bashkirova et.al.|[2312.00833](http://arxiv.org/abs/2312.00833)|null|
-|**2023-12-01**|**CompuCell3D Model of Cell Migration Reproduces Chemotaxis**|Pedro C. Dal-Castel et.al.|[2312.00776](http://arxiv.org/abs/2312.00776)|null|
+|**2023-11-30**|**Lasagna: Layered Score Distillation for Disentangled Object Relighting**|Dina Bashkirova et.al.|[2312.00833](http://arxiv.org/abs/2312.00833)|**[link](https://github.com/dbash/lasagna)**|
+|**2023-12-01**|**CompuCell3D Model of Cell Migration Reproduces Chemotaxis**|Pedro C. Dal-Castel et.al.|[2312.00776](http://arxiv.org/abs/2312.00776)|**[link](https://github.com/pdalcastel/single_cell_chemotaxis_2.3)**|
 |**2023-12-01**|**Effects of three-dimensional slit geometry on flashback of premixed hydrogen flames in perforated burners**|Filippo Fruzza et.al.|[2312.00744](http://arxiv.org/abs/2312.00744)|null|
 |**2023-12-01**|**Adversarial Score Distillation: When score distillation meets GAN**|Min Wei et.al.|[2312.00739](http://arxiv.org/abs/2312.00739)|**[link](https://github.com/2y7c3/asd)**|
 |**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732](http://arxiv.org/abs/2312.00732)|**[link](https://github.com/lkeab/gaussian-grouping)**|
@@ -333,7 +333,7 @@
 |**2023-11-29**|**Generative Hierarchical Temporal Transformer for Hand Action Recognition and Motion Prediction**|Yilin Wen et.al.|[2311.17366](http://arxiv.org/abs/2311.17366)|null|
 |**2023-11-29**|**Implicit-explicit Integrated Representations for Multi-view Video Compression**|Chen Zhu et.al.|[2311.17350](http://arxiv.org/abs/2311.17350)|null|
 |**2023-11-29**|**NeRFTAP: Enhancing Transferability of Adversarial Patches on Face Recognition using Neural Radiance Fields**|Xiaoliang Liu et.al.|[2311.17332](http://arxiv.org/abs/2311.17332)|null|
-|**2023-11-29**|**Alternate Diverse Teaching for Semi-supervised Medical Image Segmentation**|Zhen Zhao et.al.|[2311.17325](http://arxiv.org/abs/2311.17325)|null|
+|**2023-11-29**|**Alternate Diverse Teaching for Semi-supervised Medical Image Segmentation**|Zhen Zhao et.al.|[2311.17325](http://arxiv.org/abs/2311.17325)|**[link](https://github.com/zhenzhao/ad-mt)**|
 |**2023-11-28**|**Exceptional Mechanical Performance by Spatial Printing with Continuous Fiber**|Guoxin Fang et.al.|[2311.17265](http://arxiv.org/abs/2311.17265)|null|
 |**2023-11-28**|**SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors**|Dave Zhenyu Chen et.al.|[2311.17261](http://arxiv.org/abs/2311.17261)|null|
 |**2023-11-28**|**LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**|Zhiwen Fan et.al.|[2311.17245](http://arxiv.org/abs/2311.17245)|**[link](https://github.com/VITA-Group/LightGaussian)**|
@@ -618,7 +618,7 @@
 |**2023-11-16**|**A Chern-Simons approach to self-dual gravity in (2+1)-dimensions and quantisation of Poisson structure**|Prince K. Osei et.al.|[2311.10220](http://arxiv.org/abs/2311.10220)|null|
 |**2023-11-16**|**Confinement of the Solar Tachocline by a Non-Axisymmetric Dynamo**|Loren I. Matilsky et.al.|[2311.10202](http://arxiv.org/abs/2311.10202)|null|
 |**2023-11-16**|**MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry and Texture**|Lincong Feng et.al.|[2311.10123](http://arxiv.org/abs/2311.10123)|null|
-|**2023-11-16**|**Slide-SAM: Medical SAM Meets Sliding Window**|Quan Quan et.al.|[2311.10121](http://arxiv.org/abs/2311.10121)|null|
+|**2023-11-16**|**Slide-SAM: Medical SAM Meets Sliding Window**|Quan Quan et.al.|[2311.10121](http://arxiv.org/abs/2311.10121)|**[link](https://github.com/curli-quan/slide-sam)**|
 |**2023-11-16**|**Improving 3D Synthetic Jet Modeling in a Crossflow**|Howard Ho et.al.|[2311.10072](http://arxiv.org/abs/2311.10072)|null|
 |**2023-11-17**|**Visual Environment Assessment for Safe Autonomous Quadrotor Landing**|Mattia Secchiero et.al.|[2311.10065](http://arxiv.org/abs/2311.10065)|null|
 |**2023-11-16**|**Dynamic CBCT Imaging using Prior Model-Free Spatiotemporal Implicit Neural Representation (PMF-STINR)**|Hua-Chieh Shao et.al.|[2311.10036](http://arxiv.org/abs/2311.10036)|null|
