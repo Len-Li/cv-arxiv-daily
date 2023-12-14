@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.13
+## Updated on 2023.12.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -27,7 +27,7 @@ layout: default
 |**2023-12-12**|**MRCN: Enhanced Coherence Mechanism for Near Memory Processing Architectures**|Amit Kumar Kabat et.al.|[2312.07355](http://arxiv.org/abs/2312.07355)|null|
 |**2023-12-12**|**Accurate Fourier-space statistics for line intensity mapping: Cartesian grid sampling without aliased power**|Steven Cunnington et.al.|[2312.07289](http://arxiv.org/abs/2312.07289)|null|
 |**2023-12-12**|**Benchmarking Pretrained Vision Embeddings for Near- and Duplicate Detection in Medical Images**|Tuan Truong et.al.|[2312.07273](http://arxiv.org/abs/2312.07273)|null|
-|**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246](http://arxiv.org/abs/2312.07246)|null|
+|**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246](http://arxiv.org/abs/2312.07246)|**[link](https://github.com/KU-CVLAB/CoPoNeRF)**|
 |**2023-12-12**|**Fast Training of Diffusion Transformer with Extreme Masking for 3D Point Clouds Generation**|Shentong Mo et.al.|[2312.07231](http://arxiv.org/abs/2312.07231)|null|
 |**2023-12-12**|**Transferring CLIP's Knowledge into Zero-Shot Point Cloud Semantic Segmentation**|Yuanbin Wang et.al.|[2312.07221](http://arxiv.org/abs/2312.07221)|null|
 |**2023-12-12**|**Equivariant Flow Matching with Hybrid Probability Transport**|Yuxuan Song et.al.|[2312.07168](http://arxiv.org/abs/2312.07168)|null|
