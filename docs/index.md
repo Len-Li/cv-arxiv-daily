@@ -193,17 +193,17 @@ layout: default
 |**2023-12-08**|**Fine Dense Alignment of Image Bursts through Camera Pose and Depth Estimation**|Bruno Lecouat et.al.|[2312.05190](http://arxiv.org/abs/2312.05190)|null|
 |**2023-12-08**|**GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization**|Yahao Shi et.al.|[2312.05133](http://arxiv.org/abs/2312.05133)|null|
 |**2023-12-08**|**Relativistic Faddeev 3D Equations for Three-Body Bound States Without Two-Body $t-$ Matrices**|M. Mohammadzadeh et.al.|[2312.05132](http://arxiv.org/abs/2312.05132)|null|
-|**2023-12-08**|**The splashback radius for dark matter, gas and observables in the FLAMINGO simulations**|Imogen Towler et.al.|[2312.05126](http://arxiv.org/abs/2312.05126)|null|
+|**2023-12-08**|**The splashback radius for dark matter, gas and observables in the FLAMINGO simulations**|Imogen Towler et.al.|[2312.05126](http://arxiv.org/abs/2312.05126)|**[link](https://github.com/swiftsim/soap)**|
 |**2023-12-08**|**Theoretical Prediction of the Effective Dynamic Dielectric Constant of Disordered Hyperuniform Anisotropic Composites Beyond the Long-Wavelength Regime**|Jaeuk Kim et.al.|[2312.05095](http://arxiv.org/abs/2312.05095)|null|
 |**2023-12-08**|**Potentials for solenoidal fields using the three-dimensional ${\varphi}$ -harmonic cyclic algebra**|Homero G. Díaz-Marín et.al.|[2312.05093](http://arxiv.org/abs/2312.05093)|null|
 |**2023-12-08**|**3D non-LTE modeling of the stellar center-to-limb variation for transmission spectroscopy studies**|G. Canocchi et.al.|[2312.05078](http://arxiv.org/abs/2312.05078)|null|
 |**2023-12-08**|**New results on 3d $\mathcal{N}=2$ SQCD and its 3d GLSM interpretation**|Cyril Closset et.al.|[2312.05076](http://arxiv.org/abs/2312.05076)|null|
-|**2023-12-08**|**Robotic Control of the Deformation of Soft Linear Objects Using Deep Reinforcement Learning**|Mélodie Hani Daniel Zakaria et.al.|[2312.05056](http://arxiv.org/abs/2312.05056)|null|
+|**2023-12-08**|**Robotic Control of the Deformation of Soft Linear Objects Using Deep Reinforcement Learning**|Mélodie Hani Daniel Zakaria et.al.|[2312.05056](http://arxiv.org/abs/2312.05056)|**[link](https://github.com/melodiedaniel/robotic_control_of_dlo_using_drl)**|
 |**2023-12-08**|**Exploring the ex-situ components within $Gaia$ DR3**|Zhuohan Li et.al.|[2312.05027](http://arxiv.org/abs/2312.05027)|null|
 |**2023-12-08**|**Vision-based Learning for Drones: A Survey**|Jiaping Xiao et.al.|[2312.05019](http://arxiv.org/abs/2312.05019)|null|
 |**2023-12-07**|**Text-to-3D Generation with Bidirectional Diffusion using both 2D and 3D priors**|Lihe Ding et.al.|[2312.04963](http://arxiv.org/abs/2312.04963)|null|
 |**2023-12-07**|**Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds**|Yujia Liu et.al.|[2312.04962](http://arxiv.org/abs/2312.04962)|null|
-|**2023-12-08**|**EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism**|Yanxi Chen et.al.|[2312.04916](http://arxiv.org/abs/2312.04916)|null|
+|**2023-12-08**|**EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism**|Yanxi Chen et.al.|[2312.04916](http://arxiv.org/abs/2312.04916)|**[link](https://github.com/pan-x-c/ee-llm)**|
 |**2023-12-08**|**Pilot tone-guided focused navigation for free-breathing whole-liver fat-water and T2* quantification**|Adèle LC Mackowiak et.al.|[2312.04908](http://arxiv.org/abs/2312.04908)|null|
 |**2023-12-08**|**Cross-BERT for Point Cloud Pretraining**|Xin Li et.al.|[2312.04891](http://arxiv.org/abs/2312.04891)|null|
 |**2023-12-08**|**MVDD: Multi-View Depth Diffusion Models**|Zhen Wang et.al.|[2312.04875](http://arxiv.org/abs/2312.04875)|null|
@@ -299,10 +299,10 @@ layout: default
 |**2023-12-05**|**Predicting Bone Degradation Using Vision Transformer and Synthetic Cellular Microstructures Dataset**|Mohammad Saber Hashemi et.al.|[2312.03133](http://arxiv.org/abs/2312.03133)|null|
 |**2023-12-05**|**The DUNE Far Detector Vertical Drift Technology, Technical Design Report**|DUNE Collaboration et.al.|[2312.03130](http://arxiv.org/abs/2312.03130)|null|
 |**2023-12-05**|**Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI**|Sean I. Young et.al.|[2312.03102](http://arxiv.org/abs/2312.03102)|null|
-|**2023-12-05**|**ScAR: Scaling Adversarial Robustness for LiDAR Object Detection**|Xiaohu Lu et.al.|[2312.03085](http://arxiv.org/abs/2312.03085)|null|
+|**2023-12-05**|**ScAR: Scaling Adversarial Robustness for LiDAR Object Detection**|Xiaohu Lu et.al.|[2312.03085](http://arxiv.org/abs/2312.03085)|**[link](https://github.com/xiaohulugo/ScAR-Scaling-Adversarial-Robustness-for-LiDAR-Object-Detection)**|
 |**2023-12-05**|**LooseControl: Lifting ControlNet for Generalized Depth Conditioning**|Shariq Farooq Bhat et.al.|[2312.03079](http://arxiv.org/abs/2312.03079)|null|
 |**2023-12-05**|**Inherent limitations of LLMs regarding spatial information**|He Yan et.al.|[2312.03042](http://arxiv.org/abs/2312.03042)|null|
-|**2023-12-05**|**LiDAR-based Person Re-identification**|Wenxuan Guo et.al.|[2312.03033](http://arxiv.org/abs/2312.03033)|null|
+|**2023-12-05**|**LiDAR-based Person Re-identification**|Wenxuan Guo et.al.|[2312.03033](http://arxiv.org/abs/2312.03033)|**[link](https://github.com/gwxuan/reid3d)**|
 |**2023-12-05**|**Zero-Shot Point Cloud Registration**|Weijie Wang et.al.|[2312.03032](http://arxiv.org/abs/2312.03032)|null|
 |**2023-12-05**|**Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians**|Yuelang Xu et.al.|[2312.03029](http://arxiv.org/abs/2312.03029)|**[link](https://github.com/yuelangx/gaussian-head-avatar)**|
 |**2023-12-05**|**Uni3DL: Unified Model for 3D and Language Understanding**|Xiang Li et.al.|[2312.03026](http://arxiv.org/abs/2312.03026)|null|
@@ -400,7 +400,7 @@ layout: default
 |**2023-12-03**|**MoEC: Mixture of Experts Implicit Neural Compression**|Jianchen Zhao et.al.|[2312.01361](http://arxiv.org/abs/2312.01361)|null|
 |**2023-12-03**|**ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models**|Jeong-gi Kwak et.al.|[2312.01305](http://arxiv.org/abs/2312.01305)|null|
 |**2023-12-03**|**A Review and A Robust Framework of Data-Efficient 3D Scene Parsing with Traditional/Learned 3D Descriptors**|Kangcheng Liu et.al.|[2312.01262](http://arxiv.org/abs/2312.01262)|null|
-|**2023-12-02**|**RNb-NeuS: Reflectance and Normal-based Multi-View 3D Reconstruction**|Baptiste Brument et.al.|[2312.01215](http://arxiv.org/abs/2312.01215)|null|
+|**2023-12-02**|**RNb-NeuS: Reflectance and Normal-based Multi-View 3D Reconstruction**|Baptiste Brument et.al.|[2312.01215](http://arxiv.org/abs/2312.01215)|**[link](https://github.com/bbrument/rnb-neus)**|
 |**2023-12-02**|**Neural Parametric Gaussians for Monocular Non-Rigid Object Reconstruction**|Devikalyan Das et.al.|[2312.01196](http://arxiv.org/abs/2312.01196)|null|
 |**2023-12-02**|**Has Anything Changed? 3D Change Detection by 2D Segmentation Masks**|Aikaterini Adam et.al.|[2312.01148](http://arxiv.org/abs/2312.01148)|null|
 |**2023-12-02**|**FDM Printing: a Fabrication Method for Fluidic Soft Circuits?**|Savita V. Kendre et.al.|[2312.01131](http://arxiv.org/abs/2312.01131)|null|
@@ -786,7 +786,7 @@ layout: default
 |**2023-11-18**|**Diverse Shape Completion via Style Modulated Generative Adversarial Networks**|Wesley Khademi et.al.|[2311.11184](http://arxiv.org/abs/2311.11184)|null|
 |**2023-11-18**|**LOSTU: Fast, Scalable, and Uncertainty-Aware Triangulation**|Sébastien Henry et.al.|[2311.11171](http://arxiv.org/abs/2311.11171)|null|
 |**2023-11-18**|**Invariant-based Mapping of Space During General Motion of an Observer**|Juan D. Yepes et.al.|[2311.11130](http://arxiv.org/abs/2311.11130)|null|
-|**2023-11-18**|**SecondPose: SE(3)-Consistent Dual-Stream Feature Fusion for Category-Level Pose Estimation**|Yamei Chen et.al.|[2311.11125](http://arxiv.org/abs/2311.11125)|null|
+|**2023-11-18**|**SecondPose: SE(3)-Consistent Dual-Stream Feature Fusion for Category-Level Pose Estimation**|Yamei Chen et.al.|[2311.11125](http://arxiv.org/abs/2311.11125)|**[link](https://github.com/NOrangeeroli/SecondPose)**|
 |**2023-11-18**|**6G Fresnel Spot Beamfocusing using Large-Scale Metasurfaces: A Distributed DRL-Based Approach**|Mehdi Monemi et.al.|[2311.11109](http://arxiv.org/abs/2311.11109)|null|
 |**2023-11-18**|**Multiple View Geometry Transformers for 3D Human Pose Estimation**|Ziwei Liao et.al.|[2311.10983](http://arxiv.org/abs/2311.10983)|null|
 |**2023-11-18**|**Structure-Aware Sparse-View X-ray 3D Reconstruction**|Yuanhao Cai et.al.|[2311.10959](http://arxiv.org/abs/2311.10959)|**[link](https://github.com/caiyuanhao1998/sax-nerf)**|
@@ -922,7 +922,7 @@ layout: default
 |**2023-11-11**|**Angular-momentum modes in a bosonic condensate trapped in the inverse-square potential**|Hidetsugu Sakaguchi et.al.|[2311.06507](http://arxiv.org/abs/2311.06507)|null|
 |**2023-11-11**|**Semantic Communication for Cooperative Perception based on Importance Map**|Yucheng Sheng et.al.|[2311.06498](http://arxiv.org/abs/2311.06498)|null|
 |**2023-11-11**|**FiND: Few-shot three-dimensional image-free confocal focusing on point-like emitters**|Swetapadma Sahoo et.al.|[2311.06479](http://arxiv.org/abs/2311.06479)|null|
-|**2023-11-11**|**CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer**|Haoyu Ma et.al.|[2311.06443](http://arxiv.org/abs/2311.06443)|null|
+|**2023-11-11**|**CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer**|Haoyu Ma et.al.|[2311.06443](http://arxiv.org/abs/2311.06443)|**[link](https://github.com/howiema/cvthead)**|
 |**2023-11-10**|**A Computationally Efficient Hybrid Neural Network Architecture for Porous Media: Integrating CNNs and GNNs for Improved Permeability Prediction**|Qingqi Zhao et.al.|[2311.06418](http://arxiv.org/abs/2311.06418)|null|
 |**2023-11-10**|**Going from 3D to 1D: A one-dimensional approach to common-envelope evolution**|V. A. Bronner et.al.|[2311.06332](http://arxiv.org/abs/2311.06332)|null|
 |**2023-11-10**|**B2G4: A synthetic data pipeline for the integration of Blender models in Geant4 simulation toolkit**|Angel Bueno Rodriguez et.al.|[2311.06327](http://arxiv.org/abs/2311.06327)|null|
@@ -1606,7 +1606,7 @@ layout: default
 |**2023-09-14**|**CoRF : Colorizing Radiance Fields using Knowledge Distillation**|Ankit Dhiman et.al.|[2309.07668](http://arxiv.org/abs/2309.07668)|null|
 |**2023-09-14**|**Indoor Scene Reconstruction with Fine-Grained Details Using Hybrid Representation and Normal Prior Enhancement**|Sheng Ye et.al.|[2309.07640](http://arxiv.org/abs/2309.07640)|null|
 |**2023-09-13**|**Text-Guided Generation and Editing of Compositional 3D Avatars**|Hao Zhang et.al.|[2309.07125](http://arxiv.org/abs/2309.07125)|null|
-|**2023-09-13**|**Dynamic NeRFs for Soccer Scenes**|Sacha Lewin et.al.|[2309.06802](http://arxiv.org/abs/2309.06802)|null|
+|**2023-09-13**|**Dynamic NeRFs for Soccer Scenes**|Sacha Lewin et.al.|[2309.06802](http://arxiv.org/abs/2309.06802)|**[link](https://github.com/iSach/SoccerNeRFs)**|
 |**2023-09-12**|**Learning Disentangled Avatars with Hybrid 3D Representations**|Yao Feng et.al.|[2309.06441](http://arxiv.org/abs/2309.06441)|null|
 |**2023-09-12**|**Federated Learning for Large-Scale Scene Modeling with Neural Radiance Fields**|Teppei Suzuki et.al.|[2309.06030](http://arxiv.org/abs/2309.06030)|null|
 |**2023-09-10**|**SC-NeRF: Self-Correcting Neural Radiance Field with Sparse Views**|Liang Song et.al.|[2309.05028](http://arxiv.org/abs/2309.05028)|null|
@@ -2183,7 +2183,7 @@ layout: default
 |**2023-12-11**|**UC-NeRF: Neural Radiance Field for Under-Calibrated Multi-view Cameras in Autonomous Driving**|Kai Cheng et.al.|[2311.16945](http://arxiv.org/abs/2311.16945)|null|
 |**2023-11-29**|**A Unified Approach for Text- and Image-guided 4D Scene Generation**|Yufeng Zheng et.al.|[2311.16854](http://arxiv.org/abs/2311.16854)|null|
 |**2023-11-28**|**Panacea: Panoramic and Controllable Video Generation for Autonomous Driving**|Yuqing Wen et.al.|[2311.16813](http://arxiv.org/abs/2311.16813)|null|
-|**2023-11-28**|**Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving**|Senkang Hu et.al.|[2311.16754](http://arxiv.org/abs/2311.16754)|null|
+|**2023-11-28**|**Towards Full-scene Domain Generalization in Multi-agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving**|Senkang Hu et.al.|[2311.16754](http://arxiv.org/abs/2311.16754)|**[link](https://github.com/dg-cavs/dg-coperception)**|
 |**2023-11-28**|**SplitNeRF: Split Sum Approximation Neural Field for Joint Geometry, Illumination, and Material Estimation**|Jesus Zarzar et.al.|[2311.16671](http://arxiv.org/abs/2311.16671)|null|
 |**2023-11-28**|**DGNR: Density-Guided Neural Point Rendering of Large Driving Scenes**|Zhuopeng Li et.al.|[2311.16664](http://arxiv.org/abs/2311.16664)|null|
 |**2023-11-28**|**SCALAR-NeRF: SCAlable LARge-scale Neural Radiance Fields for Scene Reconstruction**|Yu Chen et.al.|[2311.16657](http://arxiv.org/abs/2311.16657)|null|
