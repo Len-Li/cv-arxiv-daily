@@ -14,6 +14,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation**|Hui Fu et.al.|[2312.10877](http://arxiv.org/abs/2312.10877)|null|
+|**2023-12-18**|**Electronic and optical properties of ternary kagome Rb $_{2}$Ni$_{3}$S$_4$**|Gang Bahadur Acharya et.al.|[2312.10874](http://arxiv.org/abs/2312.10874)|null|
+|**2023-12-17**|**M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts**|Mingsheng Li et.al.|[2312.10763](http://arxiv.org/abs/2312.10763)|**[link](https://github.com/OpenM3D/M3DBench)**|
+|**2023-12-17**|**Automated object detection for muon tomography data analysis**|A. Georgadze et.al.|[2312.10733](http://arxiv.org/abs/2312.10733)|null|
+|**2023-12-17**|**Towards Compact 3D Representations via Point Feature Enhancement Masked Autoencoders**|Yaohua Zha et.al.|[2312.10726](http://arxiv.org/abs/2312.10726)|**[link](https://github.com/zyh16143998882/aaai24-pointfemae)**|
+|**2023-12-17**|**Primitive-based 3D Human-Object Interaction Modelling and Programming**|Siqi Liu et.al.|[2312.10714](http://arxiv.org/abs/2312.10714)|null|
+|**2023-12-17**|**Bilayer crystals of trapped ions for quantum information processing**|Samarth Hawaldar et.al.|[2312.10681](http://arxiv.org/abs/2312.10681)|null|
+|**2023-12-17**|**Open3DIS: Open-vocabulary 3D Instance Segmentation with 2D Mask Guidance**|Phuc D. A. Nguyen et.al.|[2312.10671](http://arxiv.org/abs/2312.10671)|null|
+|**2023-12-17**|**Stability Properties of Multi-Order Fractional Differential Systems in 3D**|Kai Diethelm et.al.|[2312.10653](http://arxiv.org/abs/2312.10653)|null|
+|**2023-12-17**|**Gas Giant Simulations of Eddy-Driven Jets Accompanied by Deep Meridional Circulation**|Keren Duer et.al.|[2312.10651](http://arxiv.org/abs/2312.10651)|null|
+|**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
+|**2023-12-17**|**T2M-HiFiGPT: Generating High Quality Human Motion from Textual Descriptions with Residual Discrete Representations**|Congyi Wang et.al.|[2312.10628](http://arxiv.org/abs/2312.10628)|null|
+|**2023-12-17**|**Robust 3D Tracking with Quality-Aware Shape Completion**|Jingwen Zhang et.al.|[2312.10608](http://arxiv.org/abs/2312.10608)|null|
+|**2023-12-17**|**IntraSeismic: a coordinate-based learning approach to seismic inversion**|Juan Romero et.al.|[2312.10568](http://arxiv.org/abs/2312.10568)|null|
+|**2023-12-16**|**Dynamics of Meniscus-Bound Particle Clusters in Extensional Flow**|Sagar Chaudhary et.al.|[2312.10562](http://arxiv.org/abs/2312.10562)|null|
+|**2023-12-16**|**Transformers in Unsupervised Structure-from-Motion**|Hemang Chawla et.al.|[2312.10529](http://arxiv.org/abs/2312.10529)|**[link](https://github.com/neurai-lab/mt-sfmlearner)**|
+|**2023-12-16**|**Interpretable Online Network Dictionary Learning for Inferring Long-Range Chromatin Interactions**|Vishal Rana et.al.|[2312.10519](http://arxiv.org/abs/2312.10519)|null|
+|**2023-12-16**|**IRS-Aided Sectorized Base Station Design and 3D Coverage Performance Analysis**|Xintong Chen et.al.|[2312.10475](http://arxiv.org/abs/2312.10475)|null|
+|**2023-12-16**|**Exploring the effect of strong electronic correlations in Seebeck Coefficient of the NdCoO3 compound : Using experimental and DFT+U approach**|Abhishek Pandey et.al.|[2312.10449](http://arxiv.org/abs/2312.10449)|null|
+|**2023-12-16**|**A suitable nonlinear Stratonovich noise prevents blow-up in the Euler equations and other SPDEs**|Marco Bagnara et.al.|[2312.10446](http://arxiv.org/abs/2312.10446)|null|
+|**2023-12-16**|**Learning Dense Correspondence for NeRF-Based Face Reenactment**|Songlin Yang et.al.|[2312.10422](http://arxiv.org/abs/2312.10422)|null|
+|**2023-12-16**|**Not Every Side Is Equal: Localization Uncertainty Estimation for Semi-Supervised 3D Object Detection**|ChuXin Wang et.al.|[2312.10390](http://arxiv.org/abs/2312.10390)|null|
+|**2023-12-16**|**Bubble-induced convection and flow-instability in a soft reactor**|Ron Shnapp et.al.|[2312.10363](http://arxiv.org/abs/2312.10363)|null|
+|**2023-12-16**|**Material Point Methods on Unstructured Tessellations: A Stable Kernel Approach With Continuous Gradient Reconstruction**|Yadi Cao et.al.|[2312.10338](http://arxiv.org/abs/2312.10338)|null|
+|**2023-12-16**|**Enabling Mammography with Co-Robotic Ultrasound**|Yuxin Chen et.al.|[2312.10309](http://arxiv.org/abs/2312.10309)|null|
+|**2023-12-16**|**Differential operators on the base affine space of $SL_n$ and quantized Coulomb branches**|Tom Gannon et.al.|[2312.10278](http://arxiv.org/abs/2312.10278)|null|
+|**2023-12-15**|**Implicit Modeling of Non-rigid Objects with Cross-Category Signals**|Yuchun Liu et.al.|[2312.10246](http://arxiv.org/abs/2312.10246)|null|
+|**2023-12-15**|**SoloPose: One-Shot Kinematic 3D Human Pose Estimation with Video Data Augmentation**|David C. Jeong et.al.|[2312.10195](http://arxiv.org/abs/2312.10195)|null|
+|**2023-12-15**|**MVHuman: Tailoring 2D Diffusion with Multi-view Sampling For Realistic 3D Human Generation**|Suyi Jiang et.al.|[2312.10120](http://arxiv.org/abs/2312.10120)|null|
+|**2023-12-15**|**Plasticine3D: Non-rigid 3D editting with text guidance**|Yige Chen et.al.|[2312.10111](http://arxiv.org/abs/2312.10111)|null|
 |**2023-12-15**|**Point Transformer V3: Simpler, Faster, Stronger**|Xiaoyang Wu et.al.|[2312.10035](http://arxiv.org/abs/2312.10035)|**[link](https://github.com/pointcept/pointtransformerv3)**|
 |**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034](http://arxiv.org/abs/2312.10034)|**[link](https://github.com/shiran-yuan/slimmerf)**|
 |**2023-12-15**|**Plasma-enhanced atomic layer deposition of titanium nitride for superconducting devices**|John Femi-Oyetoro et.al.|[2312.09984](http://arxiv.org/abs/2312.09984)|null|
@@ -1432,6 +1462,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
+|**2023-12-16**|**Learning Dense Correspondence for NeRF-Based Face Reenactment**|Songlin Yang et.al.|[2312.10422](http://arxiv.org/abs/2312.10422)|null|
 |**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034](http://arxiv.org/abs/2312.10034)|**[link](https://github.com/shiran-yuan/slimmerf)**|
 |**2023-12-15**|**LAENeRF: Local Appearance Editing for Neural Radiance Fields**|Lukas Radl et.al.|[2312.09913](http://arxiv.org/abs/2312.09913)|null|
 |**2023-12-15**|**RANRAC: Robust Neural Scene Representations via Random Ray Consensus**|Benno Buschmann et.al.|[2312.09780](http://arxiv.org/abs/2312.09780)|null|
@@ -1502,7 +1534,7 @@ layout: default
 |**2023-11-28**|**Human Gaussian Splatting: Real-time Rendering of Animatable Avatars**|Arthur Moreau et.al.|[2311.17113](http://arxiv.org/abs/2311.17113)|null|
 |**2023-12-11**|**UC-NeRF: Neural Radiance Field for Under-Calibrated Multi-view Cameras in Autonomous Driving**|Kai Cheng et.al.|[2311.16945](http://arxiv.org/abs/2311.16945)|null|
 |**2023-11-29**|**A Unified Approach for Text- and Image-guided 4D Scene Generation**|Yufeng Zheng et.al.|[2311.16854](http://arxiv.org/abs/2311.16854)|null|
-|**2023-11-28**|**SplitNeRF: Split Sum Approximation Neural Field for Joint Geometry, Illumination, and Material Estimation**|Jesus Zarzar et.al.|[2311.16671](http://arxiv.org/abs/2311.16671)|null|
+|**2023-11-28**|**SplitNeRF: Split Sum Approximation Neural Field for Joint Geometry, Illumination, and Material Estimation**|Jesus Zarzar et.al.|[2311.16671](http://arxiv.org/abs/2311.16671)|**[link](https://github.com/zarzarj/SplitNeRF)**|
 |**2023-11-28**|**DGNR: Density-Guided Neural Point Rendering of Large Driving Scenes**|Zhuopeng Li et.al.|[2311.16664](http://arxiv.org/abs/2311.16664)|null|
 |**2023-11-28**|**SCALAR-NeRF: SCAlable LARge-scale Neural Radiance Fields for Scene Reconstruction**|Yu Chen et.al.|[2311.16657](http://arxiv.org/abs/2311.16657)|null|
 |**2023-11-28**|**RGBGrasp: Image-based Object Grasping by Capturing Multiple Views during Robot Arm Movement with Neural Radiance Fields**|Chang Liu et.al.|[2311.16592](http://arxiv.org/abs/2311.16592)|null|
@@ -1522,7 +1554,7 @@ layout: default
 |**2023-11-23**|**Tube-NeRF: Efficient Imitation Learning of Visuomotor Policies from MPC using Tube-Guided Data Augmentation and NeRFs**|Andrea Tagliabue et.al.|[2311.14153](http://arxiv.org/abs/2311.14153)|null|
 |**2023-11-23**|**Posterior Distillation Sampling**|Juil Koo et.al.|[2311.13831](http://arxiv.org/abs/2311.13831)|null|
 |**2023-12-06**|**Towards Transferable Multi-modal Perception Representation Learning for Autonomy: NeRF-Supervised Masked AutoEncoder**|Xiaohao Xu et.al.|[2311.13750](http://arxiv.org/abs/2311.13750)|null|
-|**2023-11-22**|**Compact 3D Gaussian Representation for Radiance Field**|Joo Chan Lee et.al.|[2311.13681](http://arxiv.org/abs/2311.13681)|null|
+|**2023-11-22**|**Compact 3D Gaussian Representation for Radiance Field**|Joo Chan Lee et.al.|[2311.13681](http://arxiv.org/abs/2311.13681)|**[link](https://github.com/maincold2/Compact-3DGS)**|
 |**2023-11-22**|**Retargeting Visual Data with Deformation Fields**|Tim Elsner et.al.|[2311.13297](http://arxiv.org/abs/2311.13297)|null|
 |**2023-11-22**|**3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization**|Jianwei Feng et.al.|[2311.13168](http://arxiv.org/abs/2311.13168)|null|
 |**2023-11-21**|**Hyb-NeRF: A Multiresolution Hybrid Encoding for Neural Radiance Fields**|Yifan Wang et.al.|[2311.12490](http://arxiv.org/abs/2311.12490)|null|
@@ -1794,6 +1826,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**Physics-informed Representation and Learning: Control and Risk Quantification**|Zhuoyuan Wang et.al.|[2312.10594](http://arxiv.org/abs/2312.10594)|null|
+|**2023-12-16**|**Improving Environment Robustness of Deep Reinforcement Learning Approaches for Autonomous Racing Using Bayesian Optimization-based Curriculum Learning**|Rohan Banerjee et.al.|[2312.10557](http://arxiv.org/abs/2312.10557)|**[link](https://github.com/prishita123/curriculum_rl_for_driving)**|
+|**2023-12-16**|**Fractional Deep Reinforcement Learning for Age-Minimal Mobile Edge Computing**|Ming Tang et.al.|[2312.10418](http://arxiv.org/abs/2312.10418)|null|
+|**2023-12-15**|**Constrained Meta-Reinforcement Learning for Adaptable Safety Guarantee with Differentiable Convex Programming**|Minjae Cho et.al.|[2312.10230](http://arxiv.org/abs/2312.10230)|null|
+|**2023-12-15**|**Communication-Efficient Soft Actor-Critic Policy Collaboration via Regulated Segment Mixture in Internet of Vehicles**|Xiaoxue Yu et.al.|[2312.10123](http://arxiv.org/abs/2312.10123)|null|
 |**2023-12-15**|**Neurosymbolic Value-Inspired AI (Why, What, and How)**|Amit Sheth et.al.|[2312.09928](http://arxiv.org/abs/2312.09928)|null|
 |**2023-12-15**|**NeuroFlow: Development of lightweight and efficient model integration scheduling strategy for autonomous driving system**|Eunbin Seo et.al.|[2312.09588](http://arxiv.org/abs/2312.09588)|null|
 |**2023-12-15**|**Embodied Adversarial Attack: A Dynamic Robust Physical Attack in Autonomous Driving**|Yitong Sun et.al.|[2312.09554](http://arxiv.org/abs/2312.09554)|null|
@@ -1813,7 +1850,7 @@ layout: default
 |**2023-12-12**|**Efficient Object Detection in Autonomous Driving using Spiking Neural Networks: Performance, Energy Consumption Analysis, and Insights into Open-set Object Discovery**|Aitor Martinez Seras et.al.|[2312.07466](http://arxiv.org/abs/2312.07466)|**[link](https://github.com/aitor-martinez-seras/snn-automotive-object-detection)**|
 |**2023-12-13**|**How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**|Zhongyi Han et.al.|[2312.07424](http://arxiv.org/abs/2312.07424)|**[link](https://github.com/jameszhou-gl/gpt-4v-distribution-shift)**|
 |**2023-12-12**|**Autonomous driving of trucks in off-road environment**|Kenny A. Q. Caldas et.al.|[2312.07382](http://arxiv.org/abs/2312.07382)|null|
-|**2023-12-14**|**MWSIS: Multimodal Weakly Supervised Instance Segmentation with 2D Box Annotations for Autonomous Driving**|Guangfeng Jiang et.al.|[2312.06988](http://arxiv.org/abs/2312.06988)|**[link](https://github.com/jiangxb98/mwsis-plugin)**|
+|**2023-12-17**|**MWSIS: Multimodal Weakly Supervised Instance Segmentation with 2D Box Annotations for Autonomous Driving**|Guangfeng Jiang et.al.|[2312.06988](http://arxiv.org/abs/2312.06988)|**[link](https://github.com/jiangxb98/mwsis-plugin)**|
 |**2023-12-11**|**Scalable Decentralized Cooperative Platoon using Multi-Agent Deep Reinforcement Learning**|Ahmed Abdelrahman et.al.|[2312.06858](http://arxiv.org/abs/2312.06858)|null|
 |**2023-12-10**|**Dynamic Adversarial Attacks on Autonomous Driving Systems**|Amirhosein Chahe et.al.|[2312.06701](http://arxiv.org/abs/2312.06701)|null|
 |**2023-12-15**|**BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous Driving**|Haicheng Liao et.al.|[2312.06371](http://arxiv.org/abs/2312.06371)|**[link](https://github.com/petrichor625/batraj-behavior-aware-model)**|
@@ -2094,6 +2131,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
+|**2023-12-17**|**Physics-informed Representation and Learning: Control and Risk Quantification**|Zhuoyuan Wang et.al.|[2312.10594](http://arxiv.org/abs/2312.10594)|null|
+|**2023-12-16**|**Improving Environment Robustness of Deep Reinforcement Learning Approaches for Autonomous Racing Using Bayesian Optimization-based Curriculum Learning**|Rohan Banerjee et.al.|[2312.10557](http://arxiv.org/abs/2312.10557)|**[link](https://github.com/prishita123/curriculum_rl_for_driving)**|
+|**2023-12-16**|**Learning Dense Correspondence for NeRF-Based Face Reenactment**|Songlin Yang et.al.|[2312.10422](http://arxiv.org/abs/2312.10422)|null|
+|**2023-12-16**|**Fractional Deep Reinforcement Learning for Age-Minimal Mobile Edge Computing**|Ming Tang et.al.|[2312.10418](http://arxiv.org/abs/2312.10418)|null|
+|**2023-12-15**|**Constrained Meta-Reinforcement Learning for Adaptable Safety Guarantee with Differentiable Convex Programming**|Minjae Cho et.al.|[2312.10230](http://arxiv.org/abs/2312.10230)|null|
+|**2023-12-15**|**Communication-Efficient Soft Actor-Critic Policy Collaboration via Regulated Segment Mixture in Internet of Vehicles**|Xiaoxue Yu et.al.|[2312.10123](http://arxiv.org/abs/2312.10123)|null|
 |**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034](http://arxiv.org/abs/2312.10034)|**[link](https://github.com/shiran-yuan/slimmerf)**|
 |**2023-12-15**|**Neurosymbolic Value-Inspired AI (Why, What, and How)**|Amit Sheth et.al.|[2312.09928](http://arxiv.org/abs/2312.09928)|null|
 |**2023-12-15**|**LAENeRF: Local Appearance Editing for Neural Radiance Fields**|Lukas Radl et.al.|[2312.09913](http://arxiv.org/abs/2312.09913)|null|
@@ -2128,7 +2172,7 @@ layout: default
 |**2023-12-12**|**Efficient Object Detection in Autonomous Driving using Spiking Neural Networks: Performance, Energy Consumption Analysis, and Insights into Open-set Object Discovery**|Aitor Martinez Seras et.al.|[2312.07466](http://arxiv.org/abs/2312.07466)|**[link](https://github.com/aitor-martinez-seras/snn-automotive-object-detection)**|
 |**2023-12-13**|**How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**|Zhongyi Han et.al.|[2312.07424](http://arxiv.org/abs/2312.07424)|**[link](https://github.com/jameszhou-gl/gpt-4v-distribution-shift)**|
 |**2023-12-12**|**Autonomous driving of trucks in off-road environment**|Kenny A. Q. Caldas et.al.|[2312.07382](http://arxiv.org/abs/2312.07382)|null|
-|**2023-12-14**|**MWSIS: Multimodal Weakly Supervised Instance Segmentation with 2D Box Annotations for Autonomous Driving**|Guangfeng Jiang et.al.|[2312.06988](http://arxiv.org/abs/2312.06988)|**[link](https://github.com/jiangxb98/mwsis-plugin)**|
+|**2023-12-17**|**MWSIS: Multimodal Weakly Supervised Instance Segmentation with 2D Box Annotations for Autonomous Driving**|Guangfeng Jiang et.al.|[2312.06988](http://arxiv.org/abs/2312.06988)|**[link](https://github.com/jiangxb98/mwsis-plugin)**|
 |**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946](http://arxiv.org/abs/2312.06946)|null|
 |**2023-12-11**|**Scalable Decentralized Cooperative Platoon using Multi-Agent Deep Reinforcement Learning**|Ahmed Abdelrahman et.al.|[2312.06858](http://arxiv.org/abs/2312.06858)|null|
 |**2023-12-10**|**TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video**|Minye Wu et.al.|[2312.06713](http://arxiv.org/abs/2312.06713)|null|
@@ -2504,11 +2548,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Digital Twin Technology Enabled Proactive Safety Application for Vulnerable Road Users: A Real-World Case Study**|Erik Rua et.al.|[2312.10041](http://arxiv.org/abs/2312.10041)|null|
 |**2023-12-15**|**nuScenes Knowledge Graph -- A comprehensive semantic representation of traffic scenes for trajectory prediction**|Leon Mlodzian et.al.|[2312.09676](http://arxiv.org/abs/2312.09676)|**[link](https://github.com/boschresearch/nuscenes_knowledge_graph)**|
 |**2023-12-15**|**EDA: Evolving and Distinct Anchors for Multimodal Motion Prediction**|Longzhong Lin et.al.|[2312.09501](http://arxiv.org/abs/2312.09501)|null|
 |**2023-11-26**|**Enhancing Trajectory Prediction through Self-Supervised Waypoint Noise Prediction**|Pranav Singh Chib et.al.|[2312.09466](http://arxiv.org/abs/2312.09466)|null|
 |**2023-12-14**|**Motion Flow Matching for Human Motion Synthesis and Editing**|Vincent Tao Hu et.al.|[2312.08895](http://arxiv.org/abs/2312.08895)|null|
 |**2023-12-13**|**G-MEMP: Gaze-Enhanced Multimodal Ego-Motion Prediction in Driving**|M. Eren Akbiyik et.al.|[2312.08558](http://arxiv.org/abs/2312.08558)|null|
+|**2023-12-17**|**World Models via Policy-Guided Trajectory Diffusion**|Marc Rigter et.al.|[2312.08533](http://arxiv.org/abs/2312.08533)|**[link](https://github.com/marc-rigter/polygrad-world-models)**|
 |**2023-12-13**|**A Survey of Generative AI for Intelligent Transportation Systems**|Huan Yan et.al.|[2312.08248](http://arxiv.org/abs/2312.08248)|null|
 |**2023-12-14**|**Semi-Supervised Class-Agnostic Motion Prediction with Pseudo Label Regeneration and BEVMix**|Kewei Wang et.al.|[2312.08009](http://arxiv.org/abs/2312.08009)|**[link](https://github.com/kwwcv/ssmp)**|
 |**2023-12-11**|**Adaptive Human Trajectory Prediction via Latent Corridors**|Neerja Thakkar et.al.|[2312.06653](http://arxiv.org/abs/2312.06653)|null|
