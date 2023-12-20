@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.19
+## Updated on 2023.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -52,7 +52,7 @@
 |**2023-12-15**|**SoloPose: One-Shot Kinematic 3D Human Pose Estimation with Video Data Augmentation**|David C. Jeong et.al.|[2312.10195](http://arxiv.org/abs/2312.10195)|null|
 |**2023-12-15**|**MVHuman: Tailoring 2D Diffusion with Multi-view Sampling For Realistic 3D Human Generation**|Suyi Jiang et.al.|[2312.10120](http://arxiv.org/abs/2312.10120)|null|
 |**2023-12-15**|**Plasticine3D: Non-rigid 3D editting with text guidance**|Yige Chen et.al.|[2312.10111](http://arxiv.org/abs/2312.10111)|null|
-|**2023-12-15**|**Point Transformer V3: Simpler, Faster, Stronger**|Xiaoyang Wu et.al.|[2312.10035](http://arxiv.org/abs/2312.10035)|**[link](https://github.com/pointcept/pointtransformerv3)**|
+|**2023-12-15**|**Point Transformer V3: Simpler, Faster, Stronger**|Xiaoyang Wu et.al.|[2312.10035](http://arxiv.org/abs/2312.10035)|**[link](https://github.com/Pointcept/Pointcept)**|
 |**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034](http://arxiv.org/abs/2312.10034)|**[link](https://github.com/shiran-yuan/slimmerf)**|
 |**2023-12-15**|**Plasma-enhanced atomic layer deposition of titanium nitride for superconducting devices**|John Femi-Oyetoro et.al.|[2312.09984](http://arxiv.org/abs/2312.09984)|null|
 |**2023-12-15**|**Quasi-geostrophic convection-driven dynamos in a thick spherical shell**|Olivier Barrois et.al.|[2312.09946](http://arxiv.org/abs/2312.09946)|null|
@@ -1466,7 +1466,7 @@
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231220>back to top</a>)</p>
 
 ## NeRF
 
@@ -1709,7 +1709,7 @@
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231220>back to top</a>)</p>
 
 ## Industry
 
@@ -1834,7 +1834,7 @@
 |**2020-12-22**|**DAGMapper: Learning to Map by Discovering Lane Topology**|Namdar Homayounfar et.al.|[2012.12377](http://arxiv.org/abs/2012.12377)|null|
 |**2020-12-22**|**Hierarchical Recurrent Attention Networks for Structured Online Maps**|Namdar Homayounfar et.al.|[2012.12314](http://arxiv.org/abs/2012.12314)|null|
 
-<p align=right>(<a href=#Updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231220>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -1850,7 +1850,7 @@
 |**2023-12-15**|**Embodied Adversarial Attack: A Dynamic Robust Physical Attack in Autonomous Driving**|Yitong Sun et.al.|[2312.09554](http://arxiv.org/abs/2312.09554)|null|
 |**2023-12-15**|**DriveTrack: A Benchmark for Long-Range Point Tracking in Real-World Videos**|Arjun Balasingam et.al.|[2312.09523](http://arxiv.org/abs/2312.09523)|null|
 |**2023-12-15**|**SlowTrack: Increasing the Latency of Camera-based Perception in Autonomous Driving Using Adversarial Examples**|Chen Ma et.al.|[2312.09520](http://arxiv.org/abs/2312.09520)|null|
-|**2023-12-15**|**EDA: Evolving and Distinct Anchors for Multimodal Motion Prediction**|Longzhong Lin et.al.|[2312.09501](http://arxiv.org/abs/2312.09501)|null|
+|**2023-12-15**|**EDA: Evolving and Distinct Anchors for Multimodal Motion Prediction**|Longzhong Lin et.al.|[2312.09501](http://arxiv.org/abs/2312.09501)|**[link](https://github.com/longzhong-lin/eda)**|
 |**2023-12-14**|**Large Language Models for Autonomous Driving: Real-World Experiments**|Can Cui et.al.|[2312.09397](http://arxiv.org/abs/2312.09397)|null|
 |**2023-12-14**|**DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving**|Wenhai Wang et.al.|[2312.09245](http://arxiv.org/abs/2312.09245)|**[link](https://github.com/opengvlab/drivemlm)**|
 |**2023-12-14**|**OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields**|Chubin Zhang et.al.|[2312.09243](http://arxiv.org/abs/2312.09243)|**[link](https://github.com/linshan-bin/occnerf)**|
@@ -2141,7 +2141,7 @@
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231220>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -2163,7 +2163,7 @@
 |**2023-12-15**|**Embodied Adversarial Attack: A Dynamic Robust Physical Attack in Autonomous Driving**|Yitong Sun et.al.|[2312.09554](http://arxiv.org/abs/2312.09554)|null|
 |**2023-12-15**|**DriveTrack: A Benchmark for Long-Range Point Tracking in Real-World Videos**|Arjun Balasingam et.al.|[2312.09523](http://arxiv.org/abs/2312.09523)|null|
 |**2023-12-15**|**SlowTrack: Increasing the Latency of Camera-based Perception in Autonomous Driving Using Adversarial Examples**|Chen Ma et.al.|[2312.09520](http://arxiv.org/abs/2312.09520)|null|
-|**2023-12-15**|**EDA: Evolving and Distinct Anchors for Multimodal Motion Prediction**|Longzhong Lin et.al.|[2312.09501](http://arxiv.org/abs/2312.09501)|null|
+|**2023-12-15**|**EDA: Evolving and Distinct Anchors for Multimodal Motion Prediction**|Longzhong Lin et.al.|[2312.09501](http://arxiv.org/abs/2312.09501)|**[link](https://github.com/longzhong-lin/eda)**|
 |**2023-12-14**|**Large Language Models for Autonomous Driving: Real-World Experiments**|Can Cui et.al.|[2312.09397](http://arxiv.org/abs/2312.09397)|null|
 |**2023-12-14**|**ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining**|Ruoxi Shi et.al.|[2312.09249](http://arxiv.org/abs/2312.09249)|null|
 |**2023-12-14**|**DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving**|Wenhai Wang et.al.|[2312.09245](http://arxiv.org/abs/2312.09245)|**[link](https://github.com/opengvlab/drivemlm)**|
@@ -2560,7 +2560,7 @@
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231220>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -2568,7 +2568,7 @@
 |---|---|---|---|---|
 |**2023-11-24**|**Digital Twin Technology Enabled Proactive Safety Application for Vulnerable Road Users: A Real-World Case Study**|Erik Rua et.al.|[2312.10041](http://arxiv.org/abs/2312.10041)|null|
 |**2023-12-15**|**nuScenes Knowledge Graph -- A comprehensive semantic representation of traffic scenes for trajectory prediction**|Leon Mlodzian et.al.|[2312.09676](http://arxiv.org/abs/2312.09676)|**[link](https://github.com/boschresearch/nuscenes_knowledge_graph)**|
-|**2023-12-15**|**EDA: Evolving and Distinct Anchors for Multimodal Motion Prediction**|Longzhong Lin et.al.|[2312.09501](http://arxiv.org/abs/2312.09501)|null|
+|**2023-12-15**|**EDA: Evolving and Distinct Anchors for Multimodal Motion Prediction**|Longzhong Lin et.al.|[2312.09501](http://arxiv.org/abs/2312.09501)|**[link](https://github.com/longzhong-lin/eda)**|
 |**2023-11-26**|**Enhancing Trajectory Prediction through Self-Supervised Waypoint Noise Prediction**|Pranav Singh Chib et.al.|[2312.09466](http://arxiv.org/abs/2312.09466)|null|
 |**2023-12-14**|**Motion Flow Matching for Human Motion Synthesis and Editing**|Vincent Tao Hu et.al.|[2312.08895](http://arxiv.org/abs/2312.08895)|null|
 |**2023-12-13**|**G-MEMP: Gaze-Enhanced Multimodal Ego-Motion Prediction in Driving**|M. Eren Akbiyik et.al.|[2312.08558](http://arxiv.org/abs/2312.08558)|null|
@@ -2733,7 +2733,7 @@
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231220>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
