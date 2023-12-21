@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.20
+## Updated on 2023.12.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -17,7 +17,7 @@ layout: default
 |**2023-12-19**|**Scene-Conditional 3D Object Stylization and Composition**|Jinghao Zhou et.al.|[2312.12419](http://arxiv.org/abs/2312.12419)|null|
 |**2023-12-19**|**LASA: Instance Reconstruction from Real Scans using A Large-scale Aligned Shape Annotation Dataset**|Haolin Liu et.al.|[2312.12418](http://arxiv.org/abs/2312.12418)|null|
 |**2023-12-19**|**Gravitational waves from supercooled phase transitions: dimensional transmutation meets dimensional reduction**|Maciej Kierkla et.al.|[2312.12413](http://arxiv.org/abs/2312.12413)|null|
-|**2023-12-19**|**Scalable Geometric Fracture Assembly via Co-creation Space among Assemblers**|Ruiyuan Zhang et.al.|[2312.12340](http://arxiv.org/abs/2312.12340)|null|
+|**2023-12-19**|**Scalable Geometric Fracture Assembly via Co-creation Space among Assemblers**|Ruiyuan Zhang et.al.|[2312.12340](http://arxiv.org/abs/2312.12340)|**[link](https://github.com/Ruiyuan-Zhang/CCS)**|
 |**2023-12-19**|**pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction**|David Charatan et.al.|[2312.12337](http://arxiv.org/abs/2312.12337)|null|
 |**2023-12-19**|**Holography of New Conformal Higher Spin Gravities in 3d**|I. Lovrekovic et.al.|[2312.12301](http://arxiv.org/abs/2312.12301)|null|
 |**2023-12-19**|**Sketch Vision: Artificial Intelligence with Sight for Imagination**|Demircan Tas et.al.|[2312.12270](http://arxiv.org/abs/2312.12270)|null|
@@ -33,7 +33,7 @@ layout: default
 |**2023-12-19**|**Expressive Forecasting of 3D Whole-body Human Motions**|Pengxiang Ding et.al.|[2312.11972](http://arxiv.org/abs/2312.11972)|**[link](https://github.com/dingpx/eai)**|
 |**2023-12-19**|**EVI-SAM: Robust, Real-time, Tightly-coupled Event-Visual-Inertial State Estimation and 3D Dense Mapping**|Weipeng Guan et.al.|[2312.11911](http://arxiv.org/abs/2312.11911)|null|
 |**2023-12-19**|**MeV Astrophysical Spectroscopic Surveyor (MASS): A Compton Telescope Mission Concept**|Jiahuan Zhu et.al.|[2312.11900](http://arxiv.org/abs/2312.11900)|null|
-|**2023-12-19**|**3D-LFM: Lifting Foundation Model**|Mosam Dabhi et.al.|[2312.11894](http://arxiv.org/abs/2312.11894)|null|
+|**2023-12-19**|**3D-LFM: Lifting Foundation Model**|Mosam Dabhi et.al.|[2312.11894](http://arxiv.org/abs/2312.11894)|**[link](https://github.com/mosamdabhi/3dlfm)**|
 |**2023-12-19**|**Point Cloud Segmentation Using Transfer Learning with RandLA-Net: A Case Study on Urban Areas**|Alperen Enes Bayar et.al.|[2312.11880](http://arxiv.org/abs/2312.11880)|null|
 |**2023-12-19**|**Self-supervised Learning for Enhancing Geometrical Modeling in 3D-Aware Generative Adversarial Network**|Jiarong Guo et.al.|[2312.11856](http://arxiv.org/abs/2312.11856)|null|
 |**2023-12-19**|**Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving**|Junkai Xu et.al.|[2312.11837](http://arxiv.org/abs/2312.11837)|**[link](https://github.com/cskkxjk/vampire)**|
