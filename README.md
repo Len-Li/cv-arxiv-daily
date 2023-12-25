@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.24
+## Updated on 2023.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1603,7 +1603,7 @@
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20231224>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
 
 ## NeRF
 
@@ -1861,7 +1861,7 @@
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20231224>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
 
 ## Industry
 
@@ -1987,7 +1987,7 @@
 |**2020-12-22**|**DAGMapper: Learning to Map by Discovering Lane Topology**|Namdar Homayounfar et.al.|[2012.12377](http://arxiv.org/abs/2012.12377)|null|
 |**2020-12-22**|**Hierarchical Recurrent Attention Networks for Structured Online Maps**|Namdar Homayounfar et.al.|[2012.12314](http://arxiv.org/abs/2012.12314)|null|
 
-<p align=right>(<a href=#Updated-on-20231224>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -2011,7 +2011,7 @@
 |**2023-12-19**|**Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving**|Junkai Xu et.al.|[2312.11837](http://arxiv.org/abs/2312.11837)|**[link](https://github.com/cskkxjk/vampire)**|
 |**2023-12-21**|**A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook**|Jiankai Sun et.al.|[2312.11562](http://arxiv.org/abs/2312.11562)|**[link](https://github.com/reasoning-survey/awesome-reasoning-foundation-models)**|
 |**2023-12-18**|**DiffTune-MPC: Closed-Loop Learning for Model Predictive Control**|Ran Tao et.al.|[2312.11384](http://arxiv.org/abs/2312.11384)|null|
-|**2023-12-18**|**Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects**|Min Hua et.al.|[2312.11084](http://arxiv.org/abs/2312.11084)|null|
+|**2023-12-18**|**Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects**|Min Hua et.al.|[2312.11084](http://arxiv.org/abs/2312.11084)|**[link](https://github.com/huahuaedi/MARL_in_CAV_control_review)**|
 |**2023-12-18**|**Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking**|Shihao Feng et.al.|[2312.11051](http://arxiv.org/abs/2312.11051)|**[link](https://github.com/liangp/mcstn-3dsot)**|
 |**2023-12-17**|**Physics-informed Representation and Learning: Control and Risk Quantification**|Zhuoyuan Wang et.al.|[2312.10594](http://arxiv.org/abs/2312.10594)|null|
 |**2023-12-16**|**Improving Environment Robustness of Deep Reinforcement Learning Approaches for Autonomous Racing Using Bayesian Optimization-based Curriculum Learning**|Rohan Banerjee et.al.|[2312.10557](http://arxiv.org/abs/2312.10557)|**[link](https://github.com/prishita123/curriculum_rl_for_driving)**|
@@ -2314,7 +2314,7 @@
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20231224>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -2348,7 +2348,7 @@
 |**2023-12-19**|**Text-Image Conditioned Diffusion for Consistent Text-to-3D Generation**|Yuze He et.al.|[2312.11774](http://arxiv.org/abs/2312.11774)|null|
 |**2023-12-15**|**FastSR-NeRF: Improving NeRF Efficiency on Consumer Devices with A Simple Super-Resolution Pipeline**|Chien-Yu Lin et.al.|[2312.11537](http://arxiv.org/abs/2312.11537)|null|
 |**2023-12-18**|**GauFRe: Gaussian Deformation Fields for Real-time Dynamic Novel View Synthesis**|Yiqing Liang et.al.|[2312.11458](http://arxiv.org/abs/2312.11458)|null|
-|**2023-12-18**|**Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects**|Min Hua et.al.|[2312.11084](http://arxiv.org/abs/2312.11084)|null|
+|**2023-12-18**|**Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects**|Min Hua et.al.|[2312.11084](http://arxiv.org/abs/2312.11084)|**[link](https://github.com/huahuaedi/MARL_in_CAV_control_review)**|
 |**2023-12-18**|**Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking**|Shihao Feng et.al.|[2312.11051](http://arxiv.org/abs/2312.11051)|**[link](https://github.com/liangp/mcstn-3dsot)**|
 |**2023-12-18**|**AE-NeRF: Audio Enhanced Neural Radiance Field for Few Shot Talking Head Synthesis**|Dongze Li et.al.|[2312.10921](http://arxiv.org/abs/2312.10921)|null|
 |**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
@@ -2764,7 +2764,7 @@
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20231224>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -2945,7 +2945,7 @@
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20231224>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

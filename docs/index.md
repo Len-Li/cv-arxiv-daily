@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.24
+## Updated on 2023.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -1997,7 +1997,7 @@ layout: default
 |**2023-12-19**|**Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving**|Junkai Xu et.al.|[2312.11837](http://arxiv.org/abs/2312.11837)|**[link](https://github.com/cskkxjk/vampire)**|
 |**2023-12-21**|**A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook**|Jiankai Sun et.al.|[2312.11562](http://arxiv.org/abs/2312.11562)|**[link](https://github.com/reasoning-survey/awesome-reasoning-foundation-models)**|
 |**2023-12-18**|**DiffTune-MPC: Closed-Loop Learning for Model Predictive Control**|Ran Tao et.al.|[2312.11384](http://arxiv.org/abs/2312.11384)|null|
-|**2023-12-18**|**Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects**|Min Hua et.al.|[2312.11084](http://arxiv.org/abs/2312.11084)|null|
+|**2023-12-18**|**Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects**|Min Hua et.al.|[2312.11084](http://arxiv.org/abs/2312.11084)|**[link](https://github.com/huahuaedi/MARL_in_CAV_control_review)**|
 |**2023-12-18**|**Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking**|Shihao Feng et.al.|[2312.11051](http://arxiv.org/abs/2312.11051)|**[link](https://github.com/liangp/mcstn-3dsot)**|
 |**2023-12-17**|**Physics-informed Representation and Learning: Control and Risk Quantification**|Zhuoyuan Wang et.al.|[2312.10594](http://arxiv.org/abs/2312.10594)|null|
 |**2023-12-16**|**Improving Environment Robustness of Deep Reinforcement Learning Approaches for Autonomous Racing Using Bayesian Optimization-based Curriculum Learning**|Rohan Banerjee et.al.|[2312.10557](http://arxiv.org/abs/2312.10557)|**[link](https://github.com/prishita123/curriculum_rl_for_driving)**|
@@ -2332,7 +2332,7 @@ layout: default
 |**2023-12-19**|**Text-Image Conditioned Diffusion for Consistent Text-to-3D Generation**|Yuze He et.al.|[2312.11774](http://arxiv.org/abs/2312.11774)|null|
 |**2023-12-15**|**FastSR-NeRF: Improving NeRF Efficiency on Consumer Devices with A Simple Super-Resolution Pipeline**|Chien-Yu Lin et.al.|[2312.11537](http://arxiv.org/abs/2312.11537)|null|
 |**2023-12-18**|**GauFRe: Gaussian Deformation Fields for Real-time Dynamic Novel View Synthesis**|Yiqing Liang et.al.|[2312.11458](http://arxiv.org/abs/2312.11458)|null|
-|**2023-12-18**|**Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects**|Min Hua et.al.|[2312.11084](http://arxiv.org/abs/2312.11084)|null|
+|**2023-12-18**|**Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects**|Min Hua et.al.|[2312.11084](http://arxiv.org/abs/2312.11084)|**[link](https://github.com/huahuaedi/MARL_in_CAV_control_review)**|
 |**2023-12-18**|**Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking**|Shihao Feng et.al.|[2312.11051](http://arxiv.org/abs/2312.11051)|**[link](https://github.com/liangp/mcstn-3dsot)**|
 |**2023-12-18**|**AE-NeRF: Audio Enhanced Neural Radiance Field for Few Shot Talking Head Synthesis**|Dongze Li et.al.|[2312.10921](http://arxiv.org/abs/2312.10921)|null|
 |**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
