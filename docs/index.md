@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.26
+## Updated on 2023.12.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -20,7 +20,7 @@ layout: default
 |**2023-12-22**|**The ALMaQUEST Survey XIV: do radial molecular gas flows affect the star-forming ability of barred galaxies?**|Lucy M. Hogarth et.al.|[2312.14702](http://arxiv.org/abs/2312.14702)|null|
 |**2023-12-22**|**Pola4All: survey of polarimetric applications and an open-source toolkit to analyze polarization**|Joaquin Rodriguez et.al.|[2312.14697](http://arxiv.org/abs/2312.14697)|null|
 |**2023-12-22**|**Density Uncertainty Quantification with NeRF-Ensembles: Impact of Data and Scene Constraints**|Miriam Jäger et.al.|[2312.14664](http://arxiv.org/abs/2312.14664)|null|
-|**2023-12-22**|**A Language-based solution to enable Metaverse Retrieval**|Ali Abdari et.al.|[2312.14630](http://arxiv.org/abs/2312.14630)|**[link](https://github.com/aliabdari/NLP_to_rank_artistic_Metaverses)**|
+|**2023-12-22**|**A Language-based solution to enable Metaverse Retrieval**|Ali Abdari et.al.|[2312.14630](http://arxiv.org/abs/2312.14630)|null|
 |**2023-12-22**|**Explainable Multi-Camera 3D Object Detection with Transformer-Based Saliency Maps**|Till Beemelmanns et.al.|[2312.14606](http://arxiv.org/abs/2312.14606)|null|
 |**2023-12-22**|**3D Programming of Patterned Heterogeneous Interface for 4D Smart Robotics**|Kewei Song et.al.|[2312.14511](http://arxiv.org/abs/2312.14511)|null|
 |**2023-12-22**|**Digital twin-assisted three-dimensional electrical capacitance tomography for multiphase flow imaging**|Shengnan Wang et.al.|[2312.14496](http://arxiv.org/abs/2312.14496)|null|
