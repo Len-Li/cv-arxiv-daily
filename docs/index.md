@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.27
+## Updated on 2023.12.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -2861,7 +2861,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-26**|**Social-Transmotion: Promptable Human Trajectory Prediction**|Saeed Saadatnejad et.al.|[2312.16168](http://arxiv.org/abs/2312.16168)|**[link](https://github.com/vita-epfl/social-transmotion)**|
-|**2023-12-26**|**Improving Transferability for Cross-domain Trajectory Prediction via Neural Stochastic Differential Equation**|Daehee Park et.al.|[2312.15906](http://arxiv.org/abs/2312.15906)|null|
+|**2023-12-26**|**Improving Transferability for Cross-domain Trajectory Prediction via Neural Stochastic Differential Equation**|Daehee Park et.al.|[2312.15906](http://arxiv.org/abs/2312.15906)|**[link](https://github.com/daeheepark/TrajSDE)**|
 |**2023-12-26**|**Attention-aware Social Graph Transformer Networks for Stochastic Trajectory Prediction**|Yao Liu et.al.|[2312.15881](http://arxiv.org/abs/2312.15881)|null|
 |**2023-12-22**|**Traffic Reconstruction and Analysis of Natural Driving Behaviors at Unsignalized Intersections**|Supriya Sarker et.al.|[2312.14561](http://arxiv.org/abs/2312.14561)|null|
 |**2023-12-22**|**AdapTraj: A Multi-Source Domain Generalization Framework for Multi-Agent Trajectory Prediction**|Tangwen Qian et.al.|[2312.14394](http://arxiv.org/abs/2312.14394)|null|
