@@ -14,13 +14,30 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**ODIN: A Single Model for 2D and 3D Perception**|Ayush Jain et.al.|[2401.02416](http://arxiv.org/abs/2401.02416)|null|
+|**2024-01-04**|**What You See is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs**|Alex Trevithick et.al.|[2401.02411](http://arxiv.org/abs/2401.02411)|null|
+|**2024-01-04**|**3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation**|Zihao Xiao et.al.|[2401.02402](http://arxiv.org/abs/2401.02402)|null|
+|**2024-01-04**|**Learning the 3D Fauna of the Web**|Zizhang Li et.al.|[2401.02400](http://arxiv.org/abs/2401.02400)|null|
+|**2024-01-04**|**Survey of 3D Human Body Pose and Shape Estimation Methods for Contemporary Dance Applications**|Darshan Venkatrayappa et.al.|[2401.02383](http://arxiv.org/abs/2401.02383)|null|
+|**2024-01-04**|**Fit-NGP: Fitting Object Models to Neural Graphics Primitives**|Marwan Taher et.al.|[2401.02357](http://arxiv.org/abs/2401.02357)|null|
+|**2024-01-04**|**GridFormer: Point-Grid Transformer for Surface Reconstruction**|Shengtao Li et.al.|[2401.02292](http://arxiv.org/abs/2401.02292)|**[link](https://github.com/list17/gridformer)**|
+|**2024-01-04**|**PEGASUS: Physically Enhanced Gaussian Splatting Simulation System for 6DOF Object Pose Dataset Generation**|Lukas Meyer et.al.|[2401.02281](http://arxiv.org/abs/2401.02281)|null|
+|**2024-01-04**|**Slot-guided Volumetric Object Radiance Fields**|Di Qi et.al.|[2401.02241](http://arxiv.org/abs/2401.02241)|null|
+|**2024-01-04**|**Mode conversion and energy flux absorption in the structured solar atmosphere**|Samuel Skirvin et.al.|[2401.02238](http://arxiv.org/abs/2401.02238)|null|
+|**2024-01-04**|**Enabling Digitalization in Modular Robotic Systems Integration**|Daniella Tola et.al.|[2401.02227](http://arxiv.org/abs/2401.02227)|null|
+|**2024-01-04**|**Compositing with 2D Vector Fields by using Shape Maps that can represent Inconsistent, Impossible, and Incoherent Shapes**|Ergun Akleman et.al.|[2401.02200](http://arxiv.org/abs/2401.02200)|null|
+|**2024-01-04**|**Real-and-Present: Investigating the Use of Life-Size 2D Video Avatars in HMD-Based AR Teleconferencing**|Xuanyu Wang et.al.|[2401.02171](http://arxiv.org/abs/2401.02171)|null|
+|**2024-01-03**|**FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding**|Xingxing Zuo et.al.|[2401.01970](http://arxiv.org/abs/2401.01970)|null|
+|**2024-01-03**|**Quasi-two-dimensionality of three-dimensional, magnetically dominated, decaying turbulence**|Shreya Dwivedi et.al.|[2401.01965](http://arxiv.org/abs/2401.01965)|null|
+|**2024-01-03**|**Distilling Temporal Knowledge with Masked Feature Reconstruction for 3D Object Detection**|Haowen Zheng et.al.|[2401.01918](http://arxiv.org/abs/2401.01918)|null|
+|**2024-01-02**|**Development of the CMS Magnetic Field Map**|Nicola Amapane et.al.|[2401.01913](http://arxiv.org/abs/2401.01913)|null|
 |**2024-01-03**|**On the Mesoscale Structure of CMEs at Mercury's Orbit: BepiColombo and Parker Solar Probe Observations**|Erika Palmerio et.al.|[2401.01875](http://arxiv.org/abs/2401.01875)|null|
 |**2024-01-03**|**Immersive Serious Games for Learning Physics Concepts: The Case of Density**|Iuliia Zhurakovskaia et.al.|[2401.01831](http://arxiv.org/abs/2401.01831)|null|
-|**2024-01-03**|**HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**|Ethan Zhu et.al.|[2401.01822](http://arxiv.org/abs/2401.01822)|null|
+|**2024-01-04**|**HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**|Ethan Zhu et.al.|[2401.01822](http://arxiv.org/abs/2401.01822)|null|
 |**2024-01-03**|**Many-Objective-Optimized Semi-Automated Robotic Disassembly Sequences**|Takuya Kiyokawa et.al.|[2401.01817](http://arxiv.org/abs/2401.01817)|null|
 |**2024-01-03**|**A quatum inspired neural network for geometric modeling**|Weitao Du et.al.|[2401.01801](http://arxiv.org/abs/2401.01801)|null|
 |**2024-01-03**|**Simulations of Radiatively Cooled Magnetic Reconnection Driven by Pulsed Power**|Rishabh Datta et.al.|[2401.01795](http://arxiv.org/abs/2401.01795)|null|
-|**2024-01-03**|**Does the Hamiltonian determine the tensor product structure and the 3d space?**|Ovidiu Cristinel Stoica et.al.|[2401.01793](http://arxiv.org/abs/2401.01793)|null|
+|**2024-01-04**|**Does the Hamiltonian determine the tensor product structure and the 3d space?**|Ovidiu Cristinel Stoica et.al.|[2401.01793](http://arxiv.org/abs/2401.01793)|null|
 |**2024-01-03**|**Necessary conditions for the formation of filaments and star clusters in the cold neutral medium**|Rachel Pillsworth et.al.|[2401.01737](http://arxiv.org/abs/2401.01737)|null|
 |**2024-01-03**|**STAF: 3D Human Mesh Recovery from Video with Spatio-Temporal Alignment Fusion**|Wei Yao et.al.|[2401.01730](http://arxiv.org/abs/2401.01730)|null|
 |**2024-01-02**|**Image Sculpting: Precise Object Editing with 3D Geometry Control**|Jiraphon Yenphraphai et.al.|[2401.01702](http://arxiv.org/abs/2401.01702)|null|
@@ -53,7 +70,7 @@ layout: default
 |**2024-01-01**|**Deblurring 3D Gaussian Splatting**|Byeonghyeon Lee et.al.|[2401.00834](http://arxiv.org/abs/2401.00834)|null|
 |**2024-01-01**|**3D Beamforming Through Joint Phase-Time Arrays**|Ozlem Yildiz et.al.|[2401.00819](http://arxiv.org/abs/2401.00819)|null|
 |**2024-01-01**|**GLIMPSE: Generalized Local Imaging with MLPs**|AmirEhsan Khorashadizadeh et.al.|[2401.00816](http://arxiv.org/abs/2401.00816)|null|
-|**2024-01-01**|**Ultraspherical/Gegenbauer polynomials to unify 2D/3D Ambisonic directivity designs**|Franz Zotter et.al.|[2401.00813](http://arxiv.org/abs/2401.00813)|null|
+|**2024-01-03**|**Ultraspherical/Gegenbauer polynomials to unify 2D/3D Ambisonic directivity designs**|Franz Zotter et.al.|[2401.00813](http://arxiv.org/abs/2401.00813)|null|
 |**2024-01-01**|**Plug-and-Play regularized 3D seismic inversion with 2D pre-trained denoisers**|Nick Luiken et.al.|[2401.00753](http://arxiv.org/abs/2401.00753)|null|
 |**2024-01-03**|**Harmonizing Covariance and Expressiveness for Deep Hamiltonian Regression in Crystalline Material Research: a Hybrid Cascaded Regression Framework**|Shi Yin et.al.|[2401.00744](http://arxiv.org/abs/2401.00744)|null|
 |**2024-01-01**|**Depth Map Denoising Network and Lightweight Fusion Network for Enhanced 3D Face Recognition**|Ruizhuo Xu et.al.|[2401.00719](http://arxiv.org/abs/2401.00719)|null|
@@ -2206,6 +2223,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**REDriver: Runtime Enforcement for Autonomous Vehicles**|Yang Sun et.al.|[2401.02253](http://arxiv.org/abs/2401.02253)|null|
+|**2024-01-04**|**Inherently robust suboptimal MPC for autonomous racing with anytime feasible SQP**|Logan Numerow et.al.|[2401.02194](http://arxiv.org/abs/2401.02194)|null|
 |**2024-01-03**|**Context-Aware Interaction Network for RGB-T Semantic Segmentation**|Ying Lv et.al.|[2401.01624](http://arxiv.org/abs/2401.01624)|**[link](https://github.com/yinglv1106/cainet)**|
 |**2024-01-03**|**Collaborative Perception for Connected and Autonomous Driving: Challenges, Possible Solutions and Opportunities**|Senkang Hu et.al.|[2401.01544](http://arxiv.org/abs/2401.01544)|null|
 |**2024-01-02**|**A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook**|Mingyu Liu et.al.|[2401.01454](http://arxiv.org/abs/2401.01454)|null|
@@ -2563,6 +2582,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**REDriver: Runtime Enforcement for Autonomous Vehicles**|Yang Sun et.al.|[2401.02253](http://arxiv.org/abs/2401.02253)|null|
+|**2024-01-04**|**Inherently robust suboptimal MPC for autonomous racing with anytime feasible SQP**|Logan Numerow et.al.|[2401.02194](http://arxiv.org/abs/2401.02194)|null|
 |**2024-01-03**|**SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**|Jan-Niklas Dihlmann et.al.|[2401.01647](http://arxiv.org/abs/2401.01647)|null|
 |**2024-01-03**|**Context-Aware Interaction Network for RGB-T Semantic Segmentation**|Ying Lv et.al.|[2401.01624](http://arxiv.org/abs/2401.01624)|**[link](https://github.com/yinglv1106/cainet)**|
 |**2024-01-03**|**Collaborative Perception for Connected and Autonomous Driving: Challenges, Possible Solutions and Opportunities**|Senkang Hu et.al.|[2401.01544](http://arxiv.org/abs/2401.01544)|null|
