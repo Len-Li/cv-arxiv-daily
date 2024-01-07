@@ -97,7 +97,7 @@ layout: default
 |**2023-12-30**|**A self-assembled periodic nanoporous framework in aqueous solutions of the DNA tetramer GCCG**|Gregory P. Smith et.al.|[2401.00318](http://arxiv.org/abs/2401.00318)|null|
 |**2023-12-30**|**ASL Champ!: A Virtual Reality Game with Deep-Learning Driven Sign Recognition**|Md Shahinur Alam et.al.|[2401.00289](http://arxiv.org/abs/2401.00289)|null|
 |**2023-12-30**|**An $\ell^1$ -Plug-and-Play Approach for Magnetic Particle Imaging Using a Zero Shot Denoiser with Validation on the 3D Open MPI Dataset**|Vladyslav Gapyak et.al.|[2401.00275](http://arxiv.org/abs/2401.00275)|null|
-|**2023-12-30**|**HybridGait: A Benchmark for Spatial-Temporal Cloth-Changing Gait Recognition with Hybrid Explorations**|Yilan Dong et.al.|[2401.00271](http://arxiv.org/abs/2401.00271)|null|
+|**2023-12-30**|**HybridGait: A Benchmark for Spatial-Temporal Cloth-Changing Gait Recognition with Hybrid Explorations**|Yilan Dong et.al.|[2401.00271](http://arxiv.org/abs/2401.00271)|**[link](https://github.com/hcvlab/hybridgait)**|
 |**2023-12-30**|**Robust fluctuation-based super-resolution microscopy in a confocal architecture**|Alexander Krupinski-Ptaszek et.al.|[2401.00261](http://arxiv.org/abs/2401.00261)|null|
 |**2023-12-30**|**Phase diagram and critical behavior of Hubbard model on the square-hexagon-octagon lattice**|Xinwei Jia et.al.|[2401.00258](http://arxiv.org/abs/2401.00258)|null|
 |**2023-12-30**|**Probing the Limits and Capabilities of Diffusion Models for the Anatomic Editing of Digital Twins**|Karim Kadry et.al.|[2401.00247](http://arxiv.org/abs/2401.00247)|null|
@@ -2231,7 +2231,7 @@ layout: default
 |**2024-01-02**|**Off-Road LiDAR Intensity Based Semantic Segmentation**|Kasi Viswanath et.al.|[2401.01439](http://arxiv.org/abs/2401.01439)|**[link](https://github.com/moonlabiiserb/lidar-intensity-predictor)**|
 |**2023-12-28**|**Fast Quantum Convolutional Neural Networks for Low-Complexity Object Detection in Autonomous Driving Applications**|Hankyul Baek et.al.|[2401.01370](http://arxiv.org/abs/2401.01370)|null|
 |**2024-01-02**|**Temporal Adaptive RGBT Tracking with Modality Prompt**|Hongyu Wang et.al.|[2401.01244](http://arxiv.org/abs/2401.01244)|null|
-|**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081](http://arxiv.org/abs/2401.01081)|null|
+|**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081](http://arxiv.org/abs/2401.01081)|**[link](https://github.com/hjmgarmin/ple-slam)**|
 |**2024-01-02**|**BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**|Dafeng Wei et.al.|[2401.01065](http://arxiv.org/abs/2401.01065)|null|
 |**2024-01-02**|**Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models**|Xinpeng Ding et.al.|[2401.00988](http://arxiv.org/abs/2401.00988)|**[link](https://github.com/xmed-lab/nuinstruct)**|
 |**2023-12-31**|**WoodScape Motion Segmentation for Autonomous Driving -- CVPR 2023 OmniCV Workshop Challenge**|Saravanabalagi Ramachandran et.al.|[2401.00910](http://arxiv.org/abs/2401.00910)|null|
@@ -2592,7 +2592,7 @@ layout: default
 |**2023-12-28**|**Fast Quantum Convolutional Neural Networks for Low-Complexity Object Detection in Autonomous Driving Applications**|Hankyul Baek et.al.|[2401.01370](http://arxiv.org/abs/2401.01370)|null|
 |**2024-01-02**|**Temporal Adaptive RGBT Tracking with Modality Prompt**|Hongyu Wang et.al.|[2401.01244](http://arxiv.org/abs/2401.01244)|null|
 |**2024-01-02**|**Noise-NeRF: Hide Information in Neural Radiance Fields using Trainable Noise**|Qinglong Huang et.al.|[2401.01216](http://arxiv.org/abs/2401.01216)|null|
-|**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081](http://arxiv.org/abs/2401.01081)|null|
+|**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081](http://arxiv.org/abs/2401.01081)|**[link](https://github.com/hjmgarmin/ple-slam)**|
 |**2024-01-02**|**BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**|Dafeng Wei et.al.|[2401.01065](http://arxiv.org/abs/2401.01065)|null|
 |**2024-01-02**|**Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models**|Xinpeng Ding et.al.|[2401.00988](http://arxiv.org/abs/2401.00988)|**[link](https://github.com/xmed-lab/nuinstruct)**|
 |**2024-01-02**|**3D Visibility-aware Generalizable Neural Radiance Fields for Interacting Hands**|Xuan Huang et.al.|[2401.00979](http://arxiv.org/abs/2401.00979)|null|
@@ -3100,7 +3100,7 @@ layout: default
 |**2023-12-20**|**BEVSeg2TP: Surround View Camera Bird's-Eye-View Based Joint Vehicle Segmentation and Ego Vehicle Trajectory Prediction**|Sushil Sharma et.al.|[2312.13081](http://arxiv.org/abs/2312.13081)|null|
 |**2023-12-19**|**Probabilistic Prediction of Longitudinal Trajectory Considering Driving Heterogeneity with Interpretability**|Shuli Wang et.al.|[2312.12123](http://arxiv.org/abs/2312.12123)|null|
 |**2023-12-19**|**GazeMoDiff: Gaze-guided Diffusion Model for Stochastic Human Motion Prediction**|Haodong Yan et.al.|[2312.12090](http://arxiv.org/abs/2312.12090)|null|
-|**2023-12-19**|**GCNext: Towards the Unity of Graph Convolutions for Human Motion Prediction**|Xinshun Wang et.al.|[2312.11850](http://arxiv.org/abs/2312.11850)|null|
+|**2023-12-19**|**GCNext: Towards the Unity of Graph Convolutions for Human Motion Prediction**|Xinshun Wang et.al.|[2312.11850](http://arxiv.org/abs/2312.11850)|**[link](https://github.com/bradleywang0416/gcnext)**|
 |**2023-12-18**|**Multiple Hypothesis Dropout: Estimating the Parameters of Multi-Modal Output Distributions**|David D. Nguyen et.al.|[2312.11735](http://arxiv.org/abs/2312.11735)|null|
 |**2023-11-24**|**Digital Twin Technology Enabled Proactive Safety Application for Vulnerable Road Users: A Real-World Case Study**|Erik Rua et.al.|[2312.10041](http://arxiv.org/abs/2312.10041)|null|
 |**2023-12-15**|**nuScenes Knowledge Graph -- A comprehensive semantic representation of traffic scenes for trajectory prediction**|Leon Mlodzian et.al.|[2312.09676](http://arxiv.org/abs/2312.09676)|**[link](https://github.com/boschresearch/nuscenes_knowledge_graph)**|
