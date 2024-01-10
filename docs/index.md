@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.09
+## Updated on 2024.01.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-08**|**AGG: Amortized Generative 3D Gaussians for Single Image to 3D**|Dejia Xu et.al.|[2401.04099](http://arxiv.org/abs/2401.04099)|null|
-|**2024-01-08**|**GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation**|Tong Wu et.al.|[2401.04092](http://arxiv.org/abs/2401.04092)|null|
+|**2024-01-08**|**GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation**|Tong Wu et.al.|[2401.04092](http://arxiv.org/abs/2401.04092)|**[link](https://github.com/3DTopia/GPTEval3D)**|
 |**2024-01-08**|**The enigmatic dance of the HD 189733A system: Does the planet accrete onto the star?**|Salvatore Colombo et.al.|[2401.03962](http://arxiv.org/abs/2401.03962)|null|
 |**2024-01-08**|**Recovering the 3D UUV Position using UAV Imagery in Shallow-Water Environments**|Antun Đuraš et.al.|[2401.03938](http://arxiv.org/abs/2401.03938)|null|
 |**2024-01-08**|**D3PRefiner: A Diffusion-based Denoise Method for 3D Human Pose Refinement**|Danqi Yan et.al.|[2401.03914](http://arxiv.org/abs/2401.03914)|null|
@@ -40,7 +40,7 @@ layout: default
 |**2024-01-07**|**Limiting behavior of minimizing $p$-harmonic maps in 3d as $p$ goes to $2$ with finite fundamental group**|Bohdan Bulanyi et.al.|[2401.03583](http://arxiv.org/abs/2401.03583)|null|
 |**2024-01-07**|**FurniScene: A Large-scale 3D Room Dataset with Intricate Furnishing Scenes**|Genghao Zhang et.al.|[2401.03470](http://arxiv.org/abs/2401.03470)|null|
 |**2024-01-07**|**A Classification of Critical Configurations for any Number of Projective Views**|Martin Bråtelund et.al.|[2401.03450](http://arxiv.org/abs/2401.03450)|null|
-|**2024-01-07**|**See360: Novel Panoramic View Interpolation**|Zhi-Song Liu et.al.|[2401.03431](http://arxiv.org/abs/2401.03431)|null|
+|**2024-01-07**|**See360: Novel Panoramic View Interpolation**|Zhi-Song Liu et.al.|[2401.03431](http://arxiv.org/abs/2401.03431)|**[link](https://github.com/Holmes-Alan/See360)**|
 |**2024-01-07**|**N $^{3}$ -Mapping: Normal Guided Neural Non-Projective Signed Distance Fields for Large-scale 3D Mapping**|Shuangfu Song et.al.|[2401.03412](http://arxiv.org/abs/2401.03412)|null|
 |**2024-01-07**|**Predicting the Skies: A Novel Model for Flight-Level Passenger Traffic Forecasting**|Sian Ehsani et.al.|[2401.03397](http://arxiv.org/abs/2401.03397)|null|
 |**2024-01-07**|**Low Bend Loss, High Index, Composite Morphology Ultra-fast Laser Written Waveguides for Photonic Integrated Circuits**|Andrew J. Ross-Adams et.al.|[2401.03382](http://arxiv.org/abs/2401.03382)|null|
@@ -48,13 +48,13 @@ layout: default
 |**2024-01-06**|**CAVIAR: Co-simulation of 6G Communications, 3D Scenarios and AI for Digital Twins**|João Borges et.al.|[2401.03310](http://arxiv.org/abs/2401.03310)|null|
 |**2024-01-06**|**Multi-View 3D Instance Segmentation of Structural Anomalies for Enhanced Structural Inspection of Concrete Bridges**|Christian Benz et.al.|[2401.03298](http://arxiv.org/abs/2401.03298)|null|
 |**2024-01-06**|**RustNeRF: Robust Neural Radiance Field with Low-Quality Images**|Mengfei Li et.al.|[2401.03257](http://arxiv.org/abs/2401.03257)|null|
-|**2024-01-06**|**3DMIT: 3D Multi-modal Instruction Tuning for Scene Understanding**|Zeju Li et.al.|[2401.03201](http://arxiv.org/abs/2401.03201)|null|
+|**2024-01-06**|**3DMIT: 3D Multi-modal Instruction Tuning for Scene Understanding**|Zeju Li et.al.|[2401.03201](http://arxiv.org/abs/2401.03201)|**[link](https://github.com/staymylove/3DMIT)**|
 |**2024-01-06**|**PosDiffNet: Positional Neural Diffusion for Point Cloud Registration in a Large Field of View with Perturbations**|Rui She et.al.|[2401.03167](http://arxiv.org/abs/2401.03167)|null|
 |**2024-01-06**|**An Event-Oriented Diffusion-Refinement Method for Sparse Events Completion**|Bo Zhang et.al.|[2401.03153](http://arxiv.org/abs/2401.03153)|null|
 |**2024-01-06**|**Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection**|Yuanpeng Tu et.al.|[2401.03145](http://arxiv.org/abs/2401.03145)|null|
 |**2024-01-06**|**Vision Transformers and Bi-LSTM for Alzheimer's Disease Diagnosis from 3D MRI**|Taymaz Akan et.al.|[2401.03132](http://arxiv.org/abs/2401.03132)|null|
 |**2024-01-06**|**Dress-Me-Up: A Dataset & Method for Self-Supervised 3D Garment Retargeting**|Shanthika Naik et.al.|[2401.03108](http://arxiv.org/abs/2401.03108)|null|
-|**2024-01-05**|**Learning Multimodal Volumetric Features for Large-Scale Neuron Tracing**|Qihua Chen et.al.|[2401.03043](http://arxiv.org/abs/2401.03043)|null|
+|**2024-01-05**|**Learning Multimodal Volumetric Features for Large-Scale Neuron Tracing**|Qihua Chen et.al.|[2401.03043](http://arxiv.org/abs/2401.03043)|**[link](https://github.com/Levishery/Flywire-Neuron-Tracing)**|
 |**2024-01-05**|**Development of a central-moment phase-field lattice Boltzmann model for thermocapillary flows: Droplet capture and computational performance**|Markus Holzer et.al.|[2401.03041](http://arxiv.org/abs/2401.03041)|null|
 |**2024-01-05**|**Analytical Quantum Full-Wave Solutions for a 3D Circuit Quantum Electrodynamics System**|Soomin Moon et.al.|[2401.03033](http://arxiv.org/abs/2401.03033)|null|
 |**2024-01-05**|**A GPU-Accelerated Modern Fortran Version of the ECHO Code for Relativistic Magnetohydrodynamics**|Luca Del Zanna et.al.|[2401.03008](http://arxiv.org/abs/2401.03008)|null|
@@ -2301,7 +2301,7 @@ layout: default
 |**2024-01-07**|**Text-Driven Traffic Anomaly Detection with Temporal High-Frequency Modeling in Driving Videos**|Rongqin Liang et.al.|[2401.03522](http://arxiv.org/abs/2401.03522)|null|
 |**2024-01-07**|**Reconfigurable Holographic Surface Aided Wireless Simultaneous Localization and Mapping**|Haobo Zhang et.al.|[2401.03453](http://arxiv.org/abs/2401.03453)|null|
 |**2024-01-06**|**DistFormer: Enhancing Local and Global Features for Monocular Per-Object Distance Estimation**|Aniello Panariello et.al.|[2401.03191](http://arxiv.org/abs/2401.03191)|null|
-|**2024-01-06**|**Human as AI Mentor: Enhanced Human-in-the-loop Reinforcement Learning for Safe and Efficient Autonomous Driving**|Zilin Huang et.al.|[2401.03160](http://arxiv.org/abs/2401.03160)|null|
+|**2024-01-06**|**Human as AI Mentor: Enhanced Human-in-the-loop Reinforcement Learning for Safe and Efficient Autonomous Driving**|Zilin Huang et.al.|[2401.03160](http://arxiv.org/abs/2401.03160)|**[link](https://github.com/zilin-huang/HAIM-DRL)**|
 |**2024-01-06**|**Transferable Learned Image Compression-Resistant Adversarial Perturbations**|Yang Sui et.al.|[2401.03115](http://arxiv.org/abs/2401.03115)|null|
 |**2024-01-08**|**Uncovering the human motion pattern: Pattern Memory-based Diffusion Model for Trajectory Prediction**|Yuxin Yang et.al.|[2401.02916](http://arxiv.org/abs/2401.02916)|null|
 |**2024-01-04**|**OptFlow: Fast Optimization-based Scene Flow Estimation without Supervision**|Rahul Ahuja et.al.|[2401.02550](http://arxiv.org/abs/2401.02550)|null|
@@ -2677,7 +2677,7 @@ layout: default
 |**2024-01-06**|**RustNeRF: Robust Neural Radiance Field with Low-Quality Images**|Mengfei Li et.al.|[2401.03257](http://arxiv.org/abs/2401.03257)|null|
 |**2024-01-06**|**Hi-Map: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping**|Tongyan Hua et.al.|[2401.03203](http://arxiv.org/abs/2401.03203)|null|
 |**2024-01-06**|**DistFormer: Enhancing Local and Global Features for Monocular Per-Object Distance Estimation**|Aniello Panariello et.al.|[2401.03191](http://arxiv.org/abs/2401.03191)|null|
-|**2024-01-06**|**Human as AI Mentor: Enhanced Human-in-the-loop Reinforcement Learning for Safe and Efficient Autonomous Driving**|Zilin Huang et.al.|[2401.03160](http://arxiv.org/abs/2401.03160)|null|
+|**2024-01-06**|**Human as AI Mentor: Enhanced Human-in-the-loop Reinforcement Learning for Safe and Efficient Autonomous Driving**|Zilin Huang et.al.|[2401.03160](http://arxiv.org/abs/2401.03160)|**[link](https://github.com/zilin-huang/HAIM-DRL)**|
 |**2024-01-06**|**Transferable Learned Image Compression-Resistant Adversarial Perturbations**|Yang Sui et.al.|[2401.03115](http://arxiv.org/abs/2401.03115)|null|
 |**2024-01-08**|**Uncovering the human motion pattern: Pattern Memory-based Diffusion Model for Trajectory Prediction**|Yuxin Yang et.al.|[2401.02916](http://arxiv.org/abs/2401.02916)|null|
 |**2024-01-05**|**Progress and Prospects in 3D Generative AI: A Technical Overview including 3D human**|Song Bai et.al.|[2401.02620](http://arxiv.org/abs/2401.02620)|null|
