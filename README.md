@@ -22,6 +22,32 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**A Wireless Ear EEG Drowsiness Monitor**|Ryan Kaveh et.al.|[2401.06076](http://arxiv.org/abs/2401.06076)|null|
+|**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052](http://arxiv.org/abs/2401.06052)|null|
+|**2024-01-11**|**RAVEN: Rethinking Adversarial Video Generation with Efficient Tri-plane Networks**|Partha Ghosh et.al.|[2401.06035](http://arxiv.org/abs/2401.06035)|null|
+|**2024-01-11**|**Surgical-DINO: Adapter Learning of Foundation Model for Depth Estimation in Endoscopic Surgery**|Cui Beilei et.al.|[2401.06013](http://arxiv.org/abs/2401.06013)|**[link](https://github.com/beileicui/surgicaldino)**|
+|**2024-01-11**|**An Application of HEP Track Seeding to Astrophysical Data**|Mine Gökçen et.al.|[2401.06011](http://arxiv.org/abs/2401.06011)|null|
+|**2024-01-11**|**TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering**|Linus Franke et.al.|[2401.06003](http://arxiv.org/abs/2401.06003)|null|
+|**2024-01-11**|**A 3D Diffusive and Advective Model of Electron Transport Applied to the Pulsar Wind Nebula HESS J1825-137**|Tiffany Collins et.al.|[2401.06002](http://arxiv.org/abs/2401.06002)|null|
+|**2024-01-11**|**The multi-spacecraft high-energy solar particle event of 28 October 2021**|A. Kouloumvakos et.al.|[2401.05991](http://arxiv.org/abs/2401.05991)|null|
+|**2024-01-11**|**HybridOctree_Hex: Hybrid Octree-Based Adaptive All-Hexahedral Mesh Generation with Jacobian Control**|Hua Tong et.al.|[2401.05984](http://arxiv.org/abs/2401.05984)|null|
+|**2024-01-11**|**UAVD4L: A Large-Scale Dataset for UAV 6-DoF Localization**|Rouwan Wu et.al.|[2401.05971](http://arxiv.org/abs/2401.05971)|null|
+|**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925](http://arxiv.org/abs/2401.05925)|null|
+|**2024-01-11**|**Neural Implicit Surface Reconstruction for Freehand 3D Ultrasound Volumetric Point Clouds with Geometric Constraints**|Hongbo Chen et.al.|[2401.05915](http://arxiv.org/abs/2401.05915)|null|
+|**2024-01-11**|**PartSTAD: 2D-to-3D Part Segmentation Task Adaptation**|Hyunjin Kim et.al.|[2401.05906](http://arxiv.org/abs/2401.05906)|null|
+|**2024-01-11**|**LiDAR data acquisition and processing for ecology applications**|Ion Ciobotari et.al.|[2401.05891](http://arxiv.org/abs/2401.05891)|null|
+|**2024-01-11**|**Self-navigated 3D diffusion MRI using an optimized CAIPI sampling and structured low-rank reconstruction**|Ziyu Li et.al.|[2401.05844](http://arxiv.org/abs/2401.05844)|null|
+|**2024-01-11**|**GO-NeRF: Generating Virtual Objects in Neural Radiance Fields**|Peng Dai et.al.|[2401.05750](http://arxiv.org/abs/2401.05750)|null|
+|**2024-01-11**|**Object-Centric Diffusion for Efficient Video Editing**|Kumara Kahatapitiya et.al.|[2401.05735](http://arxiv.org/abs/2401.05735)|null|
+|**2024-01-11**|**Target search in the CRISPR/Cas9 system: Facilitated diffusion with target cues**|Qiao Lu et.al.|[2401.05714](http://arxiv.org/abs/2401.05714)|null|
+|**2024-01-11**|**Probability-based Distance Estimation Model for 3D DV-Hop Localization in WSNs**|Penghong Wang et.al.|[2401.05709](http://arxiv.org/abs/2401.05709)|null|
+|**2024-01-11**|**Orbital Hanle Magnetoresistance in a 3d Transition Metal**|Giacomo Sala et.al.|[2401.05703](http://arxiv.org/abs/2401.05703)|null|
+|**2024-01-10**|**Reverse Projection: Real-Time Local Space Texture Mapping**|Adrian Xuan Wei Lim et.al.|[2401.05593](http://arxiv.org/abs/2401.05593)|null|
+|**2024-01-10**|**Current Effect-eliminated Optimal Target Assignment and Motion Planning for a Multi-UUV System**|Danjie Zhu et.al.|[2401.05521](http://arxiv.org/abs/2401.05521)|null|
+|**2024-01-10**|**FPRF: Feed-Forward Photorealistic Style Transfer of Large-Scale 3D Neural Radiance Fields**|GeonU Kim et.al.|[2401.05516](http://arxiv.org/abs/2401.05516)|null|
+|**2024-01-10**|**CADgpt: Harnessing Natural Language Processing for 3D Modelling to Enhance Computer-Aided Design Workflows**|Timo Kapsalis et.al.|[2401.05476](http://arxiv.org/abs/2401.05476)|null|
+|**2024-01-10**|**Pyramidal Clustering Algorithms in ISO-3D Project**|Oldemar Rodriguez et.al.|[2401.05473](http://arxiv.org/abs/2401.05473)|null|
+|**2024-01-08**|**A Survey of Designs for Combined 2D+3D Visual Representations**|Jiayi Hong et.al.|[2401.05438](http://arxiv.org/abs/2401.05438)|null|
 |**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335](http://arxiv.org/abs/2401.05335)|null|
 |**2024-01-10**|**Improved modelling of SEP event onset within the WSA-Enlil-SEPMOD framework**|Erika Palmerio et.al.|[2401.05309](http://arxiv.org/abs/2401.05309)|null|
 |**2024-01-10**|**Score Distillation Sampling with Learned Manifold Corrective**|Thiemo Alldieck et.al.|[2401.05293](http://arxiv.org/abs/2401.05293)|null|
@@ -72,7 +98,7 @@
 |**2024-01-08**|**GrainGNN: A dynamic graph neural network for predicting 3D grain microstructure**|Yigong Qin et.al.|[2401.03661](http://arxiv.org/abs/2401.03661)|null|
 |**2024-01-08**|**Dust formation in common envelope binary interactions -- II: 3D simulations with self-consistent dust formation**|Luis C. Bermúdez-Bustamante et.al.|[2401.03644](http://arxiv.org/abs/2401.03644)|null|
 |**2024-01-08**|**DME-Driver: Integrating Human Decision Logic and 3D Scene Perception in Autonomous Driving**|Wencheng Han et.al.|[2401.03641](http://arxiv.org/abs/2401.03641)|null|
-|**2024-01-07**|**Quantifying T cell morphodynamics and migration in 3D collagen matrices**|Yeeren I. Low et.al.|[2401.03595](http://arxiv.org/abs/2401.03595)|null|
+|**2024-01-07**|**Quantifying T cell morphodynamics and migration in 3D collagen matrices**|Yeeren I. Low et.al.|[2401.03595](http://arxiv.org/abs/2401.03595)|**[link](https://github.com/yeerenlow/tcells_paper_code)**|
 |**2024-01-07**|**A New Dataflow Implementation to Improve Energy Efficiency of Monolithic 3D Systolic Arrays**|Prachi Shukla et.al.|[2401.03585](http://arxiv.org/abs/2401.03585)|null|
 |**2024-01-07**|**Limiting behavior of minimizing $p$-harmonic maps in 3d as $p$ goes to $2$ with finite fundamental group**|Bohdan Bulanyi et.al.|[2401.03583](http://arxiv.org/abs/2401.03583)|null|
 |**2024-01-07**|**FurniScene: A Large-scale 3D Room Dataset with Intricate Furnishing Scenes**|Genghao Zhang et.al.|[2401.03470](http://arxiv.org/abs/2401.03470)|null|
@@ -1925,6 +1951,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052](http://arxiv.org/abs/2401.06052)|null|
+|**2024-01-11**|**GO-NeRF: Generating Virtual Objects in Neural Radiance Fields**|Peng Dai et.al.|[2401.05750](http://arxiv.org/abs/2401.05750)|null|
+|**2024-01-10**|**Diffusion Priors for Dynamic View Synthesis from Monocular Videos**|Chaoyang Wang et.al.|[2401.05583](http://arxiv.org/abs/2401.05583)|null|
+|**2024-01-10**|**FPRF: Feed-Forward Photorealistic Style Transfer of Large-Scale 3D Neural Radiance Fields**|GeonU Kim et.al.|[2401.05516](http://arxiv.org/abs/2401.05516)|null|
 |**2024-01-10**|**CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video**|Xingyu Miao et.al.|[2401.04861](http://arxiv.org/abs/2401.04861)|null|
 |**2024-01-08**|**A Survey on 3D Gaussian Splatting**|Guikun Chen et.al.|[2401.03890](http://arxiv.org/abs/2401.03890)|null|
 |**2024-01-06**|**RustNeRF: Robust Neural Radiance Field with Low-Quality Images**|Mengfei Li et.al.|[2401.03257](http://arxiv.org/abs/2401.03257)|null|
@@ -2335,10 +2365,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**VLP: Vision Language Planning for Autonomous Driving**|Chenbin Pan et.al.|[2401.05577](http://arxiv.org/abs/2401.05577)|null|
 |**2024-01-10**|**Structure from Duplicates: Neural Inverse Graphics from a Pile of Objects**|Tianhang Cheng et.al.|[2401.05236](http://arxiv.org/abs/2401.05236)|**[link](https://github.com/tianhang-cheng/sfd)**|
 |**2024-01-10**|**Autonomous Navigation of Tractor-Trailer Vehicles through Roundabout Intersections**|Daniel Attard et.al.|[2401.04980](http://arxiv.org/abs/2401.04980)|null|
 |**2024-01-10**|**Latency-aware Road Anomaly Segmentation in Videos: A Photorealistic Dataset and New Metrics**|Beiwen Tian et.al.|[2401.04942](http://arxiv.org/abs/2401.04942)|null|
-|**2024-01-08**|**Learning Racing From an AI Coach: Effects of Multimodal Autonomous Driving Explanations on Driving Performance, Cognitive Load, Expertise, and Trust**|Robert Kaufman et.al.|[2401.04206](http://arxiv.org/abs/2401.04206)|null|
+|**2024-01-10**|**Learning Racing From an AI Coach: Effects of Multimodal Autonomous Driving Explanations on Driving Performance, Cognitive Load, Expertise, and Trust**|Robert Kaufman et.al.|[2401.04206](http://arxiv.org/abs/2401.04206)|null|
 |**2024-01-08**|**RoboFusion: Towards Robust Multi-Modal 3D obiect Detection via SAM**|Ziying Song et.al.|[2401.03907](http://arxiv.org/abs/2401.03907)|null|
 |**2024-01-08**|**UFO: Unidentified Foreground Object Detection in 3D Point Cloud**|Hyunjun Choi et.al.|[2401.03846](http://arxiv.org/abs/2401.03846)|null|
 |**2024-01-10**|**WidthFormer: Toward Efficient Transformer-based BEV View Transformation**|Chenhongyi Yang et.al.|[2401.03836](http://arxiv.org/abs/2401.03836)|**[link](https://github.com/chenhongyiyang/widthformer)**|
@@ -2714,10 +2745,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052](http://arxiv.org/abs/2401.06052)|null|
+|**2024-01-11**|**GO-NeRF: Generating Virtual Objects in Neural Radiance Fields**|Peng Dai et.al.|[2401.05750](http://arxiv.org/abs/2401.05750)|null|
+|**2024-01-10**|**Diffusion Priors for Dynamic View Synthesis from Monocular Videos**|Chaoyang Wang et.al.|[2401.05583](http://arxiv.org/abs/2401.05583)|null|
+|**2024-01-10**|**VLP: Vision Language Planning for Autonomous Driving**|Chenbin Pan et.al.|[2401.05577](http://arxiv.org/abs/2401.05577)|null|
+|**2024-01-10**|**FPRF: Feed-Forward Photorealistic Style Transfer of Large-Scale 3D Neural Radiance Fields**|GeonU Kim et.al.|[2401.05516](http://arxiv.org/abs/2401.05516)|null|
 |**2024-01-10**|**Autonomous Navigation of Tractor-Trailer Vehicles through Roundabout Intersections**|Daniel Attard et.al.|[2401.04980](http://arxiv.org/abs/2401.04980)|null|
 |**2024-01-10**|**Latency-aware Road Anomaly Segmentation in Videos: A Photorealistic Dataset and New Metrics**|Beiwen Tian et.al.|[2401.04942](http://arxiv.org/abs/2401.04942)|null|
 |**2024-01-10**|**CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video**|Xingyu Miao et.al.|[2401.04861](http://arxiv.org/abs/2401.04861)|null|
-|**2024-01-08**|**Learning Racing From an AI Coach: Effects of Multimodal Autonomous Driving Explanations on Driving Performance, Cognitive Load, Expertise, and Trust**|Robert Kaufman et.al.|[2401.04206](http://arxiv.org/abs/2401.04206)|null|
+|**2024-01-10**|**Learning Racing From an AI Coach: Effects of Multimodal Autonomous Driving Explanations on Driving Performance, Cognitive Load, Expertise, and Trust**|Robert Kaufman et.al.|[2401.04206](http://arxiv.org/abs/2401.04206)|null|
 |**2024-01-08**|**RoboFusion: Towards Robust Multi-Modal 3D obiect Detection via SAM**|Ziying Song et.al.|[2401.03907](http://arxiv.org/abs/2401.03907)|null|
 |**2024-01-08**|**A Survey on 3D Gaussian Splatting**|Guikun Chen et.al.|[2401.03890](http://arxiv.org/abs/2401.03890)|null|
 |**2024-01-08**|**UFO: Unidentified Foreground Object Detection in 3D Point Cloud**|Hyunjun Choi et.al.|[2401.03846](http://arxiv.org/abs/2401.03846)|null|
@@ -3240,6 +3276,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**Online Action Recognition for Human Risk Prediction with Anticipated Haptic Alert via Wearables**|Cheng Guo et.al.|[2401.05365](http://arxiv.org/abs/2401.05365)|null|
 |**2024-01-10**|**AdvMT: Adversarial Motion Transformer for Long-term Human Motion Prediction**|Sarmad Idrees et.al.|[2401.05018](http://arxiv.org/abs/2401.05018)|null|
 |**2024-01-10**|**Knowledge-aware Graph Transformer for Pedestrian Trajectory Prediction**|Yu Liu et.al.|[2401.04872](http://arxiv.org/abs/2401.04872)|null|
 |**2024-01-09**|**A Payne-Whitham model of urban traffic networks in the presence of traffic lights and its application to traffic optimisation**|Mauritz Cartier van Dissel et.al.|[2401.04436](http://arxiv.org/abs/2401.04436)|null|
