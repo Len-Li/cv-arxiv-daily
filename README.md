@@ -3276,7 +3276,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-14**|**Online Action Recognition for Human Risk Prediction with Anticipated Haptic Alert via Wearables**|Cheng Guo et.al.|[2401.05365](http://arxiv.org/abs/2401.05365)|null|
+|**2023-12-14**|**Online Action Recognition for Human Risk Prediction with Anticipated Haptic Alert via Wearables**|Cheng Guo et.al.|[2401.05365](http://arxiv.org/abs/2401.05365)|**[link](https://github.com/ami-iit/paper_guo_2023_humanoids_lifting_risk_prediction)**|
 |**2024-01-10**|**AdvMT: Adversarial Motion Transformer for Long-term Human Motion Prediction**|Sarmad Idrees et.al.|[2401.05018](http://arxiv.org/abs/2401.05018)|null|
 |**2024-01-10**|**Knowledge-aware Graph Transformer for Pedestrian Trajectory Prediction**|Yu Liu et.al.|[2401.04872](http://arxiv.org/abs/2401.04872)|null|
 |**2024-01-09**|**A Payne-Whitham model of urban traffic networks in the presence of traffic lights and its application to traffic optimisation**|Mauritz Cartier van Dissel et.al.|[2401.04436](http://arxiv.org/abs/2401.04436)|null|
