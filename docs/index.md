@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.16
+## Updated on 2024.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-12**|**Solving the Discretised Multiphase Flow Equations with Interface Capturing on Structured Grids Using Machine Learning Libraries**|Boyang Chen et.al.|[2401.06755](http://arxiv.org/abs/2401.06755)|null|
+|**2024-01-12**|**Solving the Discretised Multiphase Flow Equations with Interface Capturing on Structured Grids Using Machine Learning Libraries**|Boyang Chen et.al.|[2401.06755](http://arxiv.org/abs/2401.06755)|**[link](https://github.com/bc1chen/ai4pde)**|
 |**2024-01-12**|**Scalable 3D Panoptic Segmentation With Superpoint Graph Clustering**|Damien Robert et.al.|[2401.06704](http://arxiv.org/abs/2401.06704)|**[link](https://github.com/drprojects/superpoint_transformer)**|
 |**2024-01-12**|**A 3D picture of moist-convection inhibition in hydrogen-rich atmospheres: Implications for K2-18 b**|Jérémy Leconte et.al.|[2401.06608](http://arxiv.org/abs/2401.06608)|null|
 |**2024-01-12**|**Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook**|Ziying Song et.al.|[2401.06542](http://arxiv.org/abs/2401.06542)|null|
@@ -43,7 +43,7 @@ layout: default
 |**2024-01-11**|**TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering**|Linus Franke et.al.|[2401.06003](http://arxiv.org/abs/2401.06003)|null|
 |**2024-01-11**|**A 3D Diffusive and Advective Model of Electron Transport Applied to the Pulsar Wind Nebula HESS J1825-137**|Tiffany Collins et.al.|[2401.06002](http://arxiv.org/abs/2401.06002)|null|
 |**2024-01-11**|**The multi-spacecraft high-energy solar particle event of 28 October 2021**|A. Kouloumvakos et.al.|[2401.05991](http://arxiv.org/abs/2401.05991)|null|
-|**2024-01-11**|**HybridOctree_Hex: Hybrid Octree-Based Adaptive All-Hexahedral Mesh Generation with Jacobian Control**|Hua Tong et.al.|[2401.05984](http://arxiv.org/abs/2401.05984)|null|
+|**2024-01-11**|**HybridOctree_Hex: Hybrid Octree-Based Adaptive All-Hexahedral Mesh Generation with Jacobian Control**|Hua Tong et.al.|[2401.05984](http://arxiv.org/abs/2401.05984)|**[link](https://github.com/cmu-cbml/hybridoctree_hex)**|
 |**2024-01-11**|**UAVD4L: A Large-Scale Dataset for UAV 6-DoF Localization**|Rouwan Wu et.al.|[2401.05971](http://arxiv.org/abs/2401.05971)|null|
 |**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925](http://arxiv.org/abs/2401.05925)|null|
 |**2024-01-11**|**Neural Implicit Surface Reconstruction for Freehand 3D Ultrasound Volumetric Point Clouds with Geometric Constraints**|Hongbo Chen et.al.|[2401.05915](http://arxiv.org/abs/2401.05915)|null|
@@ -3302,7 +3302,7 @@ layout: default
 |**2024-01-08**|**Safe Chance-constrained Model Predictive Control under Gaussian Mixture Model Uncertainty**|Kai Ren et.al.|[2401.03799](http://arxiv.org/abs/2401.03799)|null|
 |**2024-01-07**|**Disentangled Neural Relational Inference for Interpretable Motion Prediction**|Victoria M. Dax et.al.|[2401.03599](http://arxiv.org/abs/2401.03599)|null|
 |**2024-01-08**|**Uncovering the human motion pattern: Pattern Memory-based Diffusion Model for Trajectory Prediction**|Yuxin Yang et.al.|[2401.02916](http://arxiv.org/abs/2401.02916)|null|
-|**2024-01-08**|**Predicting Infant Brain Connectivity with Federated Multi-Trajectory GNNs using Scarce Data**|Michalis Pistos et.al.|[2401.01383](http://arxiv.org/abs/2401.01383)|null|
+|**2024-01-08**|**Predicting Infant Brain Connectivity with Federated Multi-Trajectory GNNs using Scarce Data**|Michalis Pistos et.al.|[2401.01383](http://arxiv.org/abs/2401.01383)|**[link](https://github.com/basiralab/fedgmte-net-plus)**|
 |**2023-12-30**|**Gridlock Models with the IBM Mega Traffic Simulator: Dependency on Vehicle Acceleration and Road Structure**|Bruce G. Elmegreen et.al.|[2401.00882](http://arxiv.org/abs/2401.00882)|null|
 |**2023-12-31**|**Effect of Optimizer, Initializer, and Architecture of Hypernetworks on Continual Learning from Demonstration**|Sayantan Auddy et.al.|[2401.00524](http://arxiv.org/abs/2401.00524)|**[link](https://github.com/sebastianbergner/exploringclfd)**|
 |**2023-12-31**|**Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion**|Wei-Jer Chang et.al.|[2401.00391](http://arxiv.org/abs/2401.00391)|null|

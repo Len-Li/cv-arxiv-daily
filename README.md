@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.16
+## Updated on 2024.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-12**|**Solving the Discretised Multiphase Flow Equations with Interface Capturing on Structured Grids Using Machine Learning Libraries**|Boyang Chen et.al.|[2401.06755](http://arxiv.org/abs/2401.06755)|null|
+|**2024-01-12**|**Solving the Discretised Multiphase Flow Equations with Interface Capturing on Structured Grids Using Machine Learning Libraries**|Boyang Chen et.al.|[2401.06755](http://arxiv.org/abs/2401.06755)|**[link](https://github.com/bc1chen/ai4pde)**|
 |**2024-01-12**|**Scalable 3D Panoptic Segmentation With Superpoint Graph Clustering**|Damien Robert et.al.|[2401.06704](http://arxiv.org/abs/2401.06704)|**[link](https://github.com/drprojects/superpoint_transformer)**|
 |**2024-01-12**|**A 3D picture of moist-convection inhibition in hydrogen-rich atmospheres: Implications for K2-18 b**|Jérémy Leconte et.al.|[2401.06608](http://arxiv.org/abs/2401.06608)|null|
 |**2024-01-12**|**Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook**|Ziying Song et.al.|[2401.06542](http://arxiv.org/abs/2401.06542)|null|
@@ -51,7 +51,7 @@
 |**2024-01-11**|**TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering**|Linus Franke et.al.|[2401.06003](http://arxiv.org/abs/2401.06003)|null|
 |**2024-01-11**|**A 3D Diffusive and Advective Model of Electron Transport Applied to the Pulsar Wind Nebula HESS J1825-137**|Tiffany Collins et.al.|[2401.06002](http://arxiv.org/abs/2401.06002)|null|
 |**2024-01-11**|**The multi-spacecraft high-energy solar particle event of 28 October 2021**|A. Kouloumvakos et.al.|[2401.05991](http://arxiv.org/abs/2401.05991)|null|
-|**2024-01-11**|**HybridOctree_Hex: Hybrid Octree-Based Adaptive All-Hexahedral Mesh Generation with Jacobian Control**|Hua Tong et.al.|[2401.05984](http://arxiv.org/abs/2401.05984)|null|
+|**2024-01-11**|**HybridOctree_Hex: Hybrid Octree-Based Adaptive All-Hexahedral Mesh Generation with Jacobian Control**|Hua Tong et.al.|[2401.05984](http://arxiv.org/abs/2401.05984)|**[link](https://github.com/cmu-cbml/hybridoctree_hex)**|
 |**2024-01-11**|**UAVD4L: A Large-Scale Dataset for UAV 6-DoF Localization**|Rouwan Wu et.al.|[2401.05971](http://arxiv.org/abs/2401.05971)|null|
 |**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925](http://arxiv.org/abs/2401.05925)|null|
 |**2024-01-11**|**Neural Implicit Surface Reconstruction for Freehand 3D Ultrasound Volumetric Point Clouds with Geometric Constraints**|Hongbo Chen et.al.|[2401.05915](http://arxiv.org/abs/2401.05915)|null|
@@ -1966,7 +1966,7 @@
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20240116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
 
 ## NeRF
 
@@ -2254,7 +2254,7 @@
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20240116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
 
 ## Industry
 
@@ -2381,7 +2381,7 @@
 |**2020-12-22**|**DAGMapper: Learning to Map by Discovering Lane Topology**|Namdar Homayounfar et.al.|[2012.12377](http://arxiv.org/abs/2012.12377)|null|
 |**2020-12-22**|**Hierarchical Recurrent Attention Networks for Structured Online Maps**|Namdar Homayounfar et.al.|[2012.12314](http://arxiv.org/abs/2012.12314)|null|
 
-<p align=right>(<a href=#Updated-on-20240116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -2767,7 +2767,7 @@
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20240116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -3305,7 +3305,7 @@
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20240116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -3320,7 +3320,7 @@
 |**2024-01-08**|**Safe Chance-constrained Model Predictive Control under Gaussian Mixture Model Uncertainty**|Kai Ren et.al.|[2401.03799](http://arxiv.org/abs/2401.03799)|null|
 |**2024-01-07**|**Disentangled Neural Relational Inference for Interpretable Motion Prediction**|Victoria M. Dax et.al.|[2401.03599](http://arxiv.org/abs/2401.03599)|null|
 |**2024-01-08**|**Uncovering the human motion pattern: Pattern Memory-based Diffusion Model for Trajectory Prediction**|Yuxin Yang et.al.|[2401.02916](http://arxiv.org/abs/2401.02916)|null|
-|**2024-01-08**|**Predicting Infant Brain Connectivity with Federated Multi-Trajectory GNNs using Scarce Data**|Michalis Pistos et.al.|[2401.01383](http://arxiv.org/abs/2401.01383)|null|
+|**2024-01-08**|**Predicting Infant Brain Connectivity with Federated Multi-Trajectory GNNs using Scarce Data**|Michalis Pistos et.al.|[2401.01383](http://arxiv.org/abs/2401.01383)|**[link](https://github.com/basiralab/fedgmte-net-plus)**|
 |**2023-12-30**|**Gridlock Models with the IBM Mega Traffic Simulator: Dependency on Vehicle Acceleration and Road Structure**|Bruce G. Elmegreen et.al.|[2401.00882](http://arxiv.org/abs/2401.00882)|null|
 |**2023-12-31**|**Effect of Optimizer, Initializer, and Architecture of Hypernetworks on Continual Learning from Demonstration**|Sayantan Auddy et.al.|[2401.00524](http://arxiv.org/abs/2401.00524)|**[link](https://github.com/sebastianbergner/exploringclfd)**|
 |**2023-12-31**|**Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion**|Wei-Jer Chang et.al.|[2401.00391](http://arxiv.org/abs/2401.00391)|null|
@@ -3505,7 +3505,7 @@
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20240116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
