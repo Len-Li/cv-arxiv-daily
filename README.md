@@ -22,6 +22,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Synthesizing Moving People with 3D Control**|Boyi Li et.al.|[2401.10889](http://arxiv.org/abs/2401.10889)|null|
+|**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
+|**2024-01-19**|**Source-Free and Image-Only Unsupervised Domain Adaptation for Category Level Object Pose Estimation**|Prakhar Kaushik et.al.|[2401.10848](http://arxiv.org/abs/2401.10848)|null|
+|**2024-01-19**|**TDC-less Direct Time-of-Flight Imaging Using Spiking Neural Networks**|Jack MacLean et.al.|[2401.10793](http://arxiv.org/abs/2401.10793)|null|
+|**2024-01-19**|**Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion**|Zuoyue Li et.al.|[2401.10786](http://arxiv.org/abs/2401.10786)|null|
+|**2024-01-19**|**Dense 3D Reconstruction Through Lidar: A Comparative Study on Ex-vivo Porcine Tissue**|Guido Caccianiga et.al.|[2401.10709](http://arxiv.org/abs/2401.10709)|null|
+|**2024-01-19**|**On the penetration of large-scale flows into stellar radiative zones**|Lydia Korre et.al.|[2401.10675](http://arxiv.org/abs/2401.10675)|null|
+|**2024-01-19**|**Assessment of the Axial Resolution of a Compact Gamma Camera with Coded Aperture Collimator**|Tobias Meißner et.al.|[2401.10633](http://arxiv.org/abs/2401.10633)|null|
+|**2024-01-19**|**3d TQFTs and 3-manifold invariants**|Kursat Sozer et.al.|[2401.10587](http://arxiv.org/abs/2401.10587)|null|
+|**2024-01-19**|**3D Shape Completion on Unseen Categories:A Weakly-supervised Approach**|Lintai Wu et.al.|[2401.10578](http://arxiv.org/abs/2401.10578)|null|
+|**2024-01-19**|**3D Room Geometry Inference from Multichannel Room Impulse Response using Deep Neural Network**|Inmo Yeon et.al.|[2401.10453](http://arxiv.org/abs/2401.10453)|null|
+|**2024-01-18**|**Treatment and Aging Studies of GaAs(111)B Substrates for van der Waals Chalcogenide Film Growth**|Mingyu Yu et.al.|[2401.10425](http://arxiv.org/abs/2401.10425)|null|
+|**2024-01-18**|**DataViz3D: An Novel Method Leveraging Online Holographic Modeling for Extensive Dataset Preprocessing and Visualization**|Jinli Duan et.al.|[2401.10416](http://arxiv.org/abs/2401.10416)|null|
+|**2024-01-18**|**TIPSY: Trajectory of Infalling Particles in Streamers around Young stars. Dynamical analysis of the streamers around S CrA and HL Tau**|Aashish Gupta et.al.|[2401.10403](http://arxiv.org/abs/2401.10403)|null|
+|**2024-01-18**|**Line defects in conformal field theory: from weak to strong coupling**|Julien Barrat et.al.|[2401.10336](http://arxiv.org/abs/2401.10336)|null|
+|**2024-01-18**|**Emission signatures from sub-pc Post-Newtonian binaries embedded in circumbinary discs**|Alessia Franchini et.al.|[2401.10331](http://arxiv.org/abs/2401.10331)|null|
 |**2024-01-18**|**ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions**|Jeonghwan Kim et.al.|[2401.10232](http://arxiv.org/abs/2401.10232)|null|
 |**2024-01-18**|**Enabling Efficient Equivariant Operations in the Fourier Basis via Gaunt Tensor Products**|Shengjie Luo et.al.|[2401.10216](http://arxiv.org/abs/2401.10216)|**[link](https://github.com/lsj2408/gaunt-tensor-product)**|
 |**2024-01-18**|**GPAvatar: Generalizable and Precise Head Avatar from Image(s)**|Xuangeng Chu et.al.|[2401.10215](http://arxiv.org/abs/2401.10215)|**[link](https://github.com/xg-chu/gpavatar)**|
@@ -36,7 +52,7 @@
 |**2024-01-18**|**On the global well-posedness of 3D inhomogeneous incompressible Navier-Stokes system with density-dependent viscosity**|Dongjuan Niu et.al.|[2401.09850](http://arxiv.org/abs/2401.09850)|null|
 |**2024-01-18**|**Exploring Latent Cross-Channel Embedding for Accurate 3D Human Pose Reconstruction in a Diffusion Framework**|Junkun Jiang et.al.|[2401.09836](http://arxiv.org/abs/2401.09836)|null|
 |**2024-01-18**|**Measuring the Discrepancy between 3D Geometric Models using Directional Distance Fields**|Siyu Ren et.al.|[2401.09736](http://arxiv.org/abs/2401.09736)|null|
-|**2024-01-18**|**fast graph-based denoising for point cloud color information**|Ryosuke Watanabe et.al.|[2401.09721](http://arxiv.org/abs/2401.09721)|null|
+|**2024-01-19**|**Fast graph-based denoising for point cloud color information**|Ryosuke Watanabe et.al.|[2401.09721](http://arxiv.org/abs/2401.09721)|null|
 |**2024-01-18**|**GaussianBody: Clothed Human Reconstruction via 3d Gaussian Splatting**|Mengtian Li et.al.|[2401.09720](http://arxiv.org/abs/2401.09720)|null|
 |**2024-01-18**|**Spreading of Low-viscosity Ink Filaments Driven by Bath Viscoelasticity in Embedded Printing**|Jae Hyung Cho et.al.|[2401.09684](http://arxiv.org/abs/2401.09684)|null|
 |**2024-01-18**|**Eye Motion Matters for 3D Face Reconstruction**|Xuan Wang et.al.|[2401.09677](http://arxiv.org/abs/2401.09677)|null|
@@ -2079,7 +2095,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-17**|**IPR-NeRF: Ownership Verification meets Neural Radiance Field**|Win Kent Ong et.al.|[2401.09495](http://arxiv.org/abs/2401.09495)|null|
+|**2024-01-19**|**IPR-NeRF: Ownership Verification meets Neural Radiance Field**|Win Kent Ong et.al.|[2401.09495](http://arxiv.org/abs/2401.09495)|null|
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937](http://arxiv.org/abs/2401.08937)|null|
 |**2023-12-11**|**Creating Visual Effects with Neural Radiance Fields**|Cyrus Vachha et.al.|[2401.08633](http://arxiv.org/abs/2401.08633)|null|
 |**2024-01-18**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140](http://arxiv.org/abs/2401.08140)|null|
@@ -2148,7 +2164,7 @@
 |**2023-12-13**|**Neural Radiance Fields for Transparent Object Using Visual Hull**|Heechan Yoon et.al.|[2312.08118](http://arxiv.org/abs/2312.08118)|null|
 |**2023-12-13**|**3DGEN: A GAN-based approach for generating novel 3D models from image data**|Antoine Schnepf et.al.|[2312.08094](http://arxiv.org/abs/2312.08094)|null|
 |**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504](http://arxiv.org/abs/2312.07504)|null|
-|**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946](http://arxiv.org/abs/2312.06946)|null|
+|**2024-01-19**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946](http://arxiv.org/abs/2312.06946)|null|
 |**2023-12-10**|**TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video**|Minye Wu et.al.|[2312.06713](http://arxiv.org/abs/2312.06713)|null|
 |**2023-12-11**|**Learning Naturally Aggregated Appearance for Efficient 3D Editing**|Ka Leong Cheng et.al.|[2312.06657](http://arxiv.org/abs/2312.06657)|**[link](https://github.com/felixcheng97/agap)**|
 |**2023-12-11**|**CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**|Yixing Lao et.al.|[2312.06642](http://arxiv.org/abs/2312.06642)|**[link](https://github.com/yxlao/corres-nerf)**|
@@ -2498,6 +2514,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**A Lightweight Multi-Attack CAN Intrusion Detection System on Hybrid FPGAs**|Shashwat Khandelwal et.al.|[2401.10689](http://arxiv.org/abs/2401.10689)|null|
+|**2024-01-19**|**Deep Learning-based Embedded Intrusion Detection System for Automotive CAN**|Shashwat Khandelwal et.al.|[2401.10674](http://arxiv.org/abs/2401.10674)|null|
+|**2024-01-19**|**BadODD: Bangladeshi Autonomous Driving Object Detection Dataset**|Mirza Nihal Baig et.al.|[2401.10659](http://arxiv.org/abs/2401.10659)|null|
+|**2024-01-19**|**Episodic Reinforcement Learning with Expanded State-reward Space**|Dayang Liang et.al.|[2401.10516](http://arxiv.org/abs/2401.10516)|null|
+|**2024-01-19**|**Towards Automated Driving Violation Cause Analysis in Scenario-Based Testing for Autonomous Driving Systems**|Ziwen Wan et.al.|[2401.10443](http://arxiv.org/abs/2401.10443)|null|
+|**2024-01-18**|**Reconstructing the Invisible: Video Frame Restoration through Siamese Masked Conditional Variational Autoencoder**|Yongchen Zhou et.al.|[2401.10402](http://arxiv.org/abs/2401.10402)|null|
+|**2024-01-18**|**Analyzing and Mitigating Bias for Vulnerable Classes: Towards Balanced Representation in Dataset**|Dewant Katare et.al.|[2401.10397](http://arxiv.org/abs/2401.10397)|null|
+|**2024-01-18**|**LangProp: A code optimization framework using Language Models applied to driving**|Shu Ishida et.al.|[2401.10314](http://arxiv.org/abs/2401.10314)|**[link](https://github.com/shuishida/langprop)**|
+|**2024-01-18**|**Hacking Predictors Means Hacking Cars: Using Sensitivity Analysis to Identify Trajectory Prediction Vulnerabilities for Autonomous Driving Security**|Marsalis Gibson et.al.|[2401.10313](http://arxiv.org/abs/2401.10313)|null|
 |**2024-01-18**|**Model-Assisted Learning for Adaptive Cooperative Perception of Connected Autonomous Vehicles**|Kaige Qu et.al.|[2401.10156](http://arxiv.org/abs/2401.10156)|null|
 |**2024-01-16**|**Importance-Aware Image Segmentation-based Semantic Communication for Autonomous Driving**|Jie Lv et.al.|[2401.10153](http://arxiv.org/abs/2401.10153)|null|
 |**2024-01-17**|**Objects With Lighting: A Real-World Dataset for Evaluating Reconstruction and Rendering for Object Relighting**|Benjamin Ummenhofer et.al.|[2401.09126](http://arxiv.org/abs/2401.09126)|**[link](https://github.com/isl-org/objects-with-lighting)**|
@@ -2901,9 +2926,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**A Lightweight Multi-Attack CAN Intrusion Detection System on Hybrid FPGAs**|Shashwat Khandelwal et.al.|[2401.10689](http://arxiv.org/abs/2401.10689)|null|
+|**2024-01-19**|**Deep Learning-based Embedded Intrusion Detection System for Automotive CAN**|Shashwat Khandelwal et.al.|[2401.10674](http://arxiv.org/abs/2401.10674)|null|
+|**2024-01-19**|**BadODD: Bangladeshi Autonomous Driving Object Detection Dataset**|Mirza Nihal Baig et.al.|[2401.10659](http://arxiv.org/abs/2401.10659)|null|
+|**2024-01-19**|**Episodic Reinforcement Learning with Expanded State-reward Space**|Dayang Liang et.al.|[2401.10516](http://arxiv.org/abs/2401.10516)|null|
+|**2024-01-19**|**Towards Automated Driving Violation Cause Analysis in Scenario-Based Testing for Autonomous Driving Systems**|Ziwen Wan et.al.|[2401.10443](http://arxiv.org/abs/2401.10443)|null|
+|**2024-01-18**|**Reconstructing the Invisible: Video Frame Restoration through Siamese Masked Conditional Variational Autoencoder**|Yongchen Zhou et.al.|[2401.10402](http://arxiv.org/abs/2401.10402)|null|
+|**2024-01-18**|**Analyzing and Mitigating Bias for Vulnerable Classes: Towards Balanced Representation in Dataset**|Dewant Katare et.al.|[2401.10397](http://arxiv.org/abs/2401.10397)|null|
+|**2024-01-18**|**LangProp: A code optimization framework using Language Models applied to driving**|Shu Ishida et.al.|[2401.10314](http://arxiv.org/abs/2401.10314)|**[link](https://github.com/shuishida/langprop)**|
+|**2024-01-18**|**Hacking Predictors Means Hacking Cars: Using Sensitivity Analysis to Identify Trajectory Prediction Vulnerabilities for Autonomous Driving Security**|Marsalis Gibson et.al.|[2401.10313](http://arxiv.org/abs/2401.10313)|null|
 |**2024-01-18**|**Model-Assisted Learning for Adaptive Cooperative Perception of Connected Autonomous Vehicles**|Kaige Qu et.al.|[2401.10156](http://arxiv.org/abs/2401.10156)|null|
 |**2024-01-16**|**Importance-Aware Image Segmentation-based Semantic Communication for Autonomous Driving**|Jie Lv et.al.|[2401.10153](http://arxiv.org/abs/2401.10153)|null|
-|**2024-01-17**|**IPR-NeRF: Ownership Verification meets Neural Radiance Field**|Win Kent Ong et.al.|[2401.09495](http://arxiv.org/abs/2401.09495)|null|
+|**2024-01-19**|**IPR-NeRF: Ownership Verification meets Neural Radiance Field**|Win Kent Ong et.al.|[2401.09495](http://arxiv.org/abs/2401.09495)|null|
 |**2024-01-18**|**Stream Query Denoising for Vectorized HD Map Construction**|Shuo Wang et.al.|[2401.09112](http://arxiv.org/abs/2401.09112)|null|
 |**2024-01-17**|**Enhancing Campus Mobility: Achievements and Challenges of Autonomous Shuttle "Snow Lion''**|Yingbing Chen et.al.|[2401.08939](http://arxiv.org/abs/2401.08939)|null|
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937](http://arxiv.org/abs/2401.08937)|null|
@@ -3458,6 +3492,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Hacking Predictors Means Hacking Cars: Using Sensitivity Analysis to Identify Trajectory Prediction Vulnerabilities for Autonomous Driving Security**|Marsalis Gibson et.al.|[2401.10313](http://arxiv.org/abs/2401.10313)|null|
 |**2024-01-16**|**CycLight: learning traffic signal cooperation with a cycle-level strategy**|Gengyue Han et.al.|[2401.08121](http://arxiv.org/abs/2401.08121)|null|
 |**2024-01-15**|**SSL-Interactions: Pretext Tasks for Interactive Trajectory Prediction**|Prarthana Bhattacharyya et.al.|[2401.07729](http://arxiv.org/abs/2401.07729)|null|
 |**2024-01-12**|**EUSO-SPB1 Mission and Science**|JEM-EUSO Collaboration et.al.|[2401.06525](http://arxiv.org/abs/2401.06525)|null|
