@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.21
+## Updated on 2024.01.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-18**|**ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions**|Jeonghwan Kim et.al.|[2401.10232](http://arxiv.org/abs/2401.10232)|null|
 |**2024-01-18**|**Enabling Efficient Equivariant Operations in the Fourier Basis via Gaunt Tensor Products**|Shengjie Luo et.al.|[2401.10216](http://arxiv.org/abs/2401.10216)|**[link](https://github.com/lsj2408/gaunt-tensor-product)**|
-|**2024-01-18**|**GPAvatar: Generalizable and Precise Head Avatar from Image(s)**|Xuangeng Chu et.al.|[2401.10215](http://arxiv.org/abs/2401.10215)|null|
+|**2024-01-18**|**GPAvatar: Generalizable and Precise Head Avatar from Image(s)**|Xuangeng Chu et.al.|[2401.10215](http://arxiv.org/abs/2401.10215)|**[link](https://github.com/xg-chu/gpavatar)**|
 |**2024-01-18**|**SHINOBI: Shape and Illumination using Neural Object Decomposition via BRDF Optimization In-the-wild**|Andreas Engelhardt et.al.|[2401.10171](http://arxiv.org/abs/2401.10171)|null|
 |**2024-01-18**|**Residual Based Error Estimator for Chemical-Mechanically Coupled Battery Active Particles**|Raphael Schoof et.al.|[2401.10135](http://arxiv.org/abs/2401.10135)|null|
 |**2024-01-18**|**Long time regularity for 3d gravity waves with vorticity**|Daniel Ginsberg et.al.|[2401.10096](http://arxiv.org/abs/2401.10096)|null|
