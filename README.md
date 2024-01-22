@@ -185,7 +185,7 @@
 |**2024-01-10**|**Dual-Perspective Knowledge Enrichment for Semi-Supervised 3D Object Detection**|Yucheng Han et.al.|[2401.05011](http://arxiv.org/abs/2401.05011)|**[link](https://github.com/tingxueronghua/dpke)**|
 |**2024-01-10**|**AdaFed: Fair Federated Learning via Adaptive Common Descent Direction**|Shayan Mohajer Hamidi et.al.|[2401.04993](http://arxiv.org/abs/2401.04993)|null|
 |**2024-01-10**|**A Three-dimensional tumor growth model and its boundary instability**|Jian-Guo Liu et.al.|[2401.04954](http://arxiv.org/abs/2401.04954)|null|
-|**2024-01-10**|**Diffusion-based Pose Refinement and Muti-hypothesis Generation for 3D Human Pose Estimaiton**|Hongbo Kang et.al.|[2401.04921](http://arxiv.org/abs/2401.04921)|null|
+|**2024-01-10**|**Diffusion-based Pose Refinement and Muti-hypothesis Generation for 3D Human Pose Estimaiton**|Hongbo Kang et.al.|[2401.04921](http://arxiv.org/abs/2401.04921)|**[link](https://github.com/khb1698/drpose)**|
 |**2024-01-10**|**Superconductivity in Ternary Zirconium Telluride Zr6MTe2 with 3d Transition Metals**|Haruka Matsumoto et.al.|[2401.04870](http://arxiv.org/abs/2401.04870)|null|
 |**2024-01-09**|**2024 Roadmap on Magnetic Microscopy Techniques and Their Applications in Materials Science**|D. V. Christensen et.al.|[2401.04793](http://arxiv.org/abs/2401.04793)|null|
 |**2024-01-09**|**DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation**|Junming Chen et.al.|[2401.04747](http://arxiv.org/abs/2401.04747)|null|
@@ -297,7 +297,7 @@
 |**2024-01-03**|**STAF: 3D Human Mesh Recovery from Video with Spatio-Temporal Alignment Fusion**|Wei Yao et.al.|[2401.01730](http://arxiv.org/abs/2401.01730)|**[link](https://github.com/yw0208/STAF)**|
 |**2024-01-02**|**Image Sculpting: Precise Object Editing with 3D Geometry Control**|Jiraphon Yenphraphai et.al.|[2401.01702](http://arxiv.org/abs/2401.01702)|null|
 |**2024-01-03**|**SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**|Jan-Niklas Dihlmann et.al.|[2401.01647](http://arxiv.org/abs/2401.01647)|null|
-|**2024-01-03**|**S3Net: Innovating Stereo Matching and Semantic Segmentation with a Single-Branch Semantic Stereo Network in Satellite Epipolar Imagery**|Qingyuan Yang et.al.|[2401.01643](http://arxiv.org/abs/2401.01643)|null|
+|**2024-01-03**|**S3Net: Innovating Stereo Matching and Semantic Segmentation with a Single-Branch Semantic Stereo Network in Satellite Epipolar Imagery**|Qingyuan Yang et.al.|[2401.01643](http://arxiv.org/abs/2401.01643)|**[link](https://github.com/cveo/s3net)**|
 |**2024-01-03**|**Novel analytical solutions to a new formed model of the (2+1)-dimensional BKP equation using a novel expansion technique**|Rajib Mia et.al.|[2401.01594](http://arxiv.org/abs/2401.01594)|null|
 |**2024-01-03**|**On the Mutuality between Localization and Channel Modeling in sub-THz**|Eray Guven et.al.|[2401.01504](http://arxiv.org/abs/2401.01504)|null|
 |**2024-01-02**|**Indoor Obstacle Discovery on Reflective Ground via Monocular Camera**|Feng Xue et.al.|[2401.01445](http://arxiv.org/abs/2401.01445)|**[link](https://github.com/xuefengbupt/indoorobstaclediscovery-rg)**|
@@ -1440,7 +1440,7 @@
 |**2023-11-21**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700](http://arxiv.org/abs/2311.11700)|null|
 |**2023-11-20**|**Quenched disorder and instability control dynamic fracture in three dimensions**|Yuri Lubomirsky et.al.|[2311.11692](http://arxiv.org/abs/2311.11692)|null|
 |**2023-11-20**|**ViP-Mixer: A Convolutional Mixer for Video Prediction**|Xin Zheng et.al.|[2311.11683](http://arxiv.org/abs/2311.11683)|null|
-|**2023-11-20**|**OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning**|Haiyang Ying et.al.|[2311.11666](http://arxiv.org/abs/2311.11666)|null|
+|**2023-11-20**|**OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning**|Haiyang Ying et.al.|[2311.11666](http://arxiv.org/abs/2311.11666)|**[link](https://github.com/THU-luvision/OmniSeg3D)**|
 |**2023-11-20**|**Enhanced Spatio-Temporal Context for Temporally Consistent Robust 3D Human Motion Recovery from Monocular Videos**|Sushovan Chanda et.al.|[2311.11662](http://arxiv.org/abs/2311.11662)|null|
 |**2023-11-20**|**A 3D Multi-Style Cross-Modality Segmentation Framework for Segmenting Vestibular Schwannoma and Cochlea**|Yuzhou Zhuang et.al.|[2311.11578](http://arxiv.org/abs/2311.11578)|null|
 |**2023-11-20**|**Ground state of the $S$ =1/2 pyrochlore Heisenberg antiferromagnet: A quantum spin liquid emergent from dimensional reduction**|Rico Pohle et.al.|[2311.11561](http://arxiv.org/abs/2311.11561)|null|
@@ -1524,7 +1524,7 @@
 |**2023-11-15**|**Self-Annotated 3D Geometric Learning for Smeared Points Removal**|Miaowei Wang et.al.|[2311.09029](http://arxiv.org/abs/2311.09029)|null|
 |**2023-11-15**|**Variational manifolds for ground states and scarred dynamics of blockade-constrained spin models on two and three dimensional lattices**|Joey Li et.al.|[2311.08965](http://arxiv.org/abs/2311.08965)|null|
 |**2023-11-15**|**Plasma sheath tailoring by a magnetic field for three-dimensional plasma etching**|E. Jüngling et.al.|[2311.08916](http://arxiv.org/abs/2311.08916)|null|
-|**2023-11-15**|**Degradation Estimation Recurrent Neural Network with Local and Non-Local Priors for Compressive Spectral Imaging**|Yubo Dong et.al.|[2311.08808](http://arxiv.org/abs/2311.08808)|null|
+|**2023-11-15**|**Degradation Estimation Recurrent Neural Network with Local and Non-Local Priors for Compressive Spectral Imaging**|Yubo Dong et.al.|[2311.08808](http://arxiv.org/abs/2311.08808)|**[link](https://github.com/shawndong98/dernn-lnlt)**|
 |**2023-11-15**|**Quantification of cell contractile behavior based on non-destructive macroscopic measurement of tension forces on bioprinted hydrogel**|Sarah Pragnere et.al.|[2311.08773](http://arxiv.org/abs/2311.08773)|null|
 |**2023-11-15**|**AdVENTR: Autonomous Robot Navigation in Complex Outdoor Environments**|Kasun Weerakoon et.al.|[2311.08740](http://arxiv.org/abs/2311.08740)|null|
 |**2023-11-15**|**Velocity Gradient and Stellar Polarization: Magnetic Field Tomography towards the L1688 Cloud**|Tyler Schmaltz et.al.|[2311.08681](http://arxiv.org/abs/2311.08681)|null|
@@ -1875,7 +1875,7 @@
 |**2023-10-29**|**Prediction of local elasto-plastic stress and strain fields in a two-phase composite microstructure using a deep convolutional neural network**|Indrashish Saha et.al.|[2310.19128](http://arxiv.org/abs/2310.19128)|null|
 |**2023-10-29**|**Dynamic V2X Autonomous Perception from Road-to-Vehicle Vision**|Jiayao Tan et.al.|[2310.19113](http://arxiv.org/abs/2310.19113)|null|
 |**2023-10-29**|**TESTA: Temporal-Spatial Token Aggregation for Long-form Video-Language Understanding**|Shuhuai Ren et.al.|[2310.19060](http://arxiv.org/abs/2310.19060)|**[link](https://github.com/renshuhuai-andy/testa)**|
-|**2023-10-31**|**DynPoint: Dynamic Neural Point For View Synthesis**|Kaichen Zhou et.al.|[2310.18999](http://arxiv.org/abs/2310.18999)|null|
+|**2023-10-31**|**DynPoint: Dynamic Neural Point For View Synthesis**|Kaichen Zhou et.al.|[2310.18999](http://arxiv.org/abs/2310.18999)|**[link](https://github.com/kaichen-z/dynpoint)**|
 |**2023-10-29**|**Investigation of correlation effects in FeSe and FeTe by LDA + U method**|H. Lohani et.al.|[2310.18994](http://arxiv.org/abs/2310.18994)|null|
 |**2023-10-29**|**Predicting RNA-small molecule binding sites by 3D structure**|Nan Pan et.al.|[2310.18985](http://arxiv.org/abs/2310.18985)|null|
 |**2023-10-29**|**Band Structure of Topological Insulator BiSbTe1.25Se1.75**|H. Lohani et.al.|[2310.18922](http://arxiv.org/abs/2310.18922)|null|
@@ -2256,7 +2256,7 @@
 |**2023-11-02**|**Novel View Synthesis from a Single RGBD Image for Indoor Scenes**|Congrui Hetang et.al.|[2311.01065](http://arxiv.org/abs/2311.01065)|null|
 |**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/abs/2310.20710)|null|
 |**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/abs/2310.20685)|null|
-|**2023-10-31**|**DynPoint: Dynamic Neural Point For View Synthesis**|Kaichen Zhou et.al.|[2310.18999](http://arxiv.org/abs/2310.18999)|null|
+|**2023-10-31**|**DynPoint: Dynamic Neural Point For View Synthesis**|Kaichen Zhou et.al.|[2310.18999](http://arxiv.org/abs/2310.18999)|**[link](https://github.com/kaichen-z/dynpoint)**|
 |**2023-11-04**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
 |**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/abs/2310.18846)|**[link](https://github.com/xmindflow/INCODE)**|
 |**2023-10-27**|**Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D Scene Representations**|Tristan Aumentado-Armstrong et.al.|[2310.17880](http://arxiv.org/abs/2310.17880)|null|
@@ -3327,7 +3327,7 @@
 |**2023-11-01**|**Enhancing the Spatial Awareness Capability of Multi-Modal Large Language Model**|Yongqiang Zhao et.al.|[2310.20357](http://arxiv.org/abs/2310.20357)|null|
 |**2023-10-31**|**HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds**|Gang Zhang et.al.|[2310.20234](http://arxiv.org/abs/2310.20234)|**[link](https://github.com/zhanggang001/hednet)**|
 |**2023-10-30**|**Large Trajectory Models are Scalable Motion Predictors and Planners**|Qiao Sun et.al.|[2310.19620](http://arxiv.org/abs/2310.19620)|**[link](https://github.com/tsinghua-mars-lab/statetransformer)**|
-|**2023-10-31**|**DynPoint: Dynamic Neural Point For View Synthesis**|Kaichen Zhou et.al.|[2310.18999](http://arxiv.org/abs/2310.18999)|null|
+|**2023-10-31**|**DynPoint: Dynamic Neural Point For View Synthesis**|Kaichen Zhou et.al.|[2310.18999](http://arxiv.org/abs/2310.18999)|**[link](https://github.com/kaichen-z/dynpoint)**|
 |**2023-11-04**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
 |**2023-10-31**|**Social Interaction-Aware Dynamical Models and Decision Making for Autonomous Vehicles**|Luca Crosato et.al.|[2310.18891](http://arxiv.org/abs/2310.18891)|null|
 |**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/abs/2310.18846)|**[link](https://github.com/xmindflow/INCODE)**|
