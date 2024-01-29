@@ -126,13 +126,13 @@ layout: default
 |**2024-01-22**|**MVSFormer++: Revealing the Devil in Transformer's Details for Multi-View Stereo**|Chenjie Cao et.al.|[2401.11673](http://arxiv.org/abs/2401.11673)|null|
 |**2024-01-22**|**PointGL: A Simple Global-Local Framework for Efficient Point Cloud Analysis**|Jianan Li et.al.|[2401.11650](http://arxiv.org/abs/2401.11650)|**[link](https://github.com/roywangj/pointgl)**|
 |**2024-01-21**|**A Survey on African Computer Vision Datasets, Topics and Researchers**|Abdul-Hakeem Omotayo et.al.|[2401.11617](http://arxiv.org/abs/2401.11617)|null|
-|**2024-01-21**|**Multi-View Neural 3D Reconstruction of Micro-/Nanostructures with Atomic Force Microscopy**|Shuo Chen et.al.|[2401.11541](http://arxiv.org/abs/2401.11541)|null|
-|**2024-01-21**|**Deformable Endoscopic Tissues Reconstruction with Gaussian Splatting**|Lingting Zhu et.al.|[2401.11535](http://arxiv.org/abs/2401.11535)|null|
+|**2024-01-21**|**Multi-View Neural 3D Reconstruction of Micro-/Nanostructures with Atomic Force Microscopy**|Shuo Chen et.al.|[2401.11541](http://arxiv.org/abs/2401.11541)|**[link](https://github.com/zju3dv/mvn-afm)**|
+|**2024-01-21**|**Deformable Endoscopic Tissues Reconstruction with Gaussian Splatting**|Lingting Zhu et.al.|[2401.11535](http://arxiv.org/abs/2401.11535)|**[link](https://github.com/hku-medai/endogs)**|
 |**2024-01-21**|**Ti substitution on Fe sites significantly changes the electronic properties of orthorhombic LaFeO3 perovskites (A first-principles study)**|Jesaya Situmeang et.al.|[2401.11530](http://arxiv.org/abs/2401.11530)|null|
 |**2024-01-21**|**3D Imaging of Magnetic Domains in Nd2Fe14B using Scanning Hard X-Ray Nanotomography**|Srutarshi Banerjee et.al.|[2401.11523](http://arxiv.org/abs/2401.11523)|null|
 |**2024-01-21**|**General Flow as Foundation Affordance for Scalable Robot Learning**|Chengbo Yuan et.al.|[2401.11439](http://arxiv.org/abs/2401.11439)|null|
 |**2024-01-21**|**S $^3$ M-Net: Joint Learning of Semantic Segmentation and Stereo Matching for Autonomous Driving**|Zhiyuan Wu et.al.|[2401.11414](http://arxiv.org/abs/2401.11414)|null|
-|**2024-01-21**|**UniM-OV3D: Uni-Modality Open-Vocabulary 3D Scene Understanding with Fine-Grained Feature Representation**|Qingdong He et.al.|[2401.11395](http://arxiv.org/abs/2401.11395)|null|
+|**2024-01-21**|**UniM-OV3D: Uni-Modality Open-Vocabulary 3D Scene Understanding with Fine-Grained Feature Representation**|Qingdong He et.al.|[2401.11395](http://arxiv.org/abs/2401.11395)|**[link](https://github.com/hithqd/unim-ov3d)**|
 |**2024-01-20**|**A versatile apparatus for simultaneous trapping of multiple species of ultracold atoms and ions to enable studies of low energy collisions and cold chemistry**|Bubai Rahaman et.al.|[2401.11233](http://arxiv.org/abs/2401.11233)|null|
 |**2024-01-20**|**3D Receiver for Molecular Communications in Internet of Organoids**|Shaojie Zhang et.al.|[2401.11214](http://arxiv.org/abs/2401.11214)|null|
 |**2024-01-20**|**Towards Category Unification of 3D Single Object Tracking on Point Clouds**|Jiahao Nie et.al.|[2401.11204](http://arxiv.org/abs/2401.11204)|null|
@@ -143,7 +143,7 @@ layout: default
 |**2024-01-20**|**Make-A-Shape: a Ten-Million-scale 3D Shape Model**|Ka-Hei Hui et.al.|[2401.11067](http://arxiv.org/abs/2401.11067)|null|
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|null|
 |**2024-01-19**|**Anti-Jahn-Teller disproportionation and prospects for spin-triplet superconductivity in d-element compounds**|A. S. Moskvin et.al.|[2401.11028](http://arxiv.org/abs/2401.11028)|null|
-|**2024-01-19**|**Lattice dynamics of quasi-2D perovskites from first-principles**|Emily Y. Chen et.al.|[2401.10994](http://arxiv.org/abs/2401.10994)|null|
+|**2024-01-19**|**Lattice dynamics of quasi-2D perovskites from first-principles**|Emily Y. Chen et.al.|[2401.10994](http://arxiv.org/abs/2401.10994)|**[link](https://github.com/emilyyanchen/quasi-2d-perovskite-phonons)**|
 |**2024-01-19**|**How well does surface magnetism represent deep Sun-like star dynamo action?**|Adam J. Finley et.al.|[2401.10984](http://arxiv.org/abs/2401.10984)|null|
 |**2024-01-19**|**Synthesizing Moving People with 3D Control**|Boyi Li et.al.|[2401.10889](http://arxiv.org/abs/2401.10889)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
@@ -186,7 +186,7 @@ layout: default
 |**2024-01-17**|**LoS Coverage Analysis for UAV-based THz Communication Networks: Towards 3D Visualization of Wireless Networks**|Mohammad Taghi Dabiri et.al.|[2401.09590](http://arxiv.org/abs/2401.09590)|null|
 |**2024-01-17**|**Enhancing Surveillance Camera FOV Quality via Semantic Line Detection and Classification with Deep Hough Transform**|Andrew C. Freeman et.al.|[2401.09515](http://arxiv.org/abs/2401.09515)|null|
 |**2024-01-17**|**4D-ONIX: A deep learning approach for reconstructing 3D movies from sparse X-ray projections**|Yuhe Zhang et.al.|[2401.09508](http://arxiv.org/abs/2401.09508)|null|
-|**2024-01-17**|**Identifying Three-Dimensional Radiative Patterns Associated with Early Tropical Cyclone Intensification**|Frederick Iat-Hin Tam et.al.|[2401.09493](http://arxiv.org/abs/2401.09493)|null|
+|**2024-01-17**|**Identifying Three-Dimensional Radiative Patterns Associated with Early Tropical Cyclone Intensification**|Frederick Iat-Hin Tam et.al.|[2401.09493](http://arxiv.org/abs/2401.09493)|**[link](https://github.com/freddy0218/2024_TCG_VED)**|
 |**2024-01-15**|**3DMASC: Accessible, explainable 3D point clouds classification. Application to Bi-spectral Topo-bathymetric lidar data**|Mathilde Letard et.al.|[2401.09481](http://arxiv.org/abs/2401.09481)|null|
 |**2024-01-17**|**GARField: Group Anything with Radiance Fields**|Chung Min Kim et.al.|[2401.09419](http://arxiv.org/abs/2401.09419)|null|
 |**2024-01-17**|**TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion**|Yu-Ying Yeh et.al.|[2401.09416](http://arxiv.org/abs/2401.09416)|null|
@@ -394,7 +394,7 @@ layout: default
 |**2024-01-05**|**VoxelNextFusion: A Simple, Unified and Effective Voxel Fusion Framework for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2401.02702](http://arxiv.org/abs/2401.02702)|null|
 |**2024-01-05**|**Scaffolding fundamentals and recent advances in sustainable scaffolding techniques for cultured meat development**|AMM Nurul Alam et.al.|[2401.02691](http://arxiv.org/abs/2401.02691)|null|
 |**2024-01-05**|**Scaling Laws Governing the Elastic Properties of 3D-Graphenes**|Ming Li et.al.|[2401.02689](http://arxiv.org/abs/2401.02689)|null|
-|**2024-01-05**|**Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation**|Can Xu et.al.|[2401.02683](http://arxiv.org/abs/2401.02683)|null|
+|**2024-01-05**|**Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation**|Can Xu et.al.|[2401.02683](http://arxiv.org/abs/2401.02683)|**[link](https://github.com/LEOXC1571/GFMDiff)**|
 |**2024-01-05**|**Adaptive Discounting of Training Time Attacks**|Ridhima Bector et.al.|[2401.02652](http://arxiv.org/abs/2401.02652)|null|
 |**2024-01-05**|**Enhancing 3D-Air Signature by Pen Tip Tail Trajectory Awareness: Dataset and Featuring by Novel Spatio-temporal CNN**|Saurabh Atreya et.al.|[2401.02649](http://arxiv.org/abs/2401.02649)|**[link](https://github.com/atrey-a/t3aas-v1-benchmarking)**|
 |**2024-01-05**|**Recent Advancement in 3D Biometrics using Monocular Camera**|Aritra Mukherjee et.al.|[2401.02646](http://arxiv.org/abs/2401.02646)|null|
@@ -1558,7 +1558,7 @@ layout: default
 |**2023-11-18**|**DatasetNeRF: Efficient 3D-aware Data Factory with Generative Radiance Fields**|Yu Chi et.al.|[2311.12063](http://arxiv.org/abs/2311.12063)|null|
 |**2023-11-18**|**PBWR: Parametric Building Wireframe Reconstruction from Aerial LiDAR Point Clouds**|Shangfeng Huang et.al.|[2311.12062](http://arxiv.org/abs/2311.12062)|null|
 |**2023-11-18**|**Towards Function Space Mesh Watermarking: Protecting the Copyright of Signed Distance Fields**|Xingyu Zhu et.al.|[2311.12059](http://arxiv.org/abs/2311.12059)|null|
-|**2023-11-18**|**FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin**|Zichen Yu et.al.|[2311.12058](http://arxiv.org/abs/2311.12058)|null|
+|**2023-11-18**|**FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin**|Zichen Yu et.al.|[2311.12058](http://arxiv.org/abs/2311.12058)|**[link](https://github.com/Yzichen/FlashOCC)**|
 |**2023-11-18**|**3D-GOI: 3D GAN Omni-Inversion for Multifaceted and Multi-object Editing**|Haoran Li et.al.|[2311.12050](http://arxiv.org/abs/2311.12050)|null|
 |**2023-11-17**|**Efficient Domain Adaptation via Generative Prior for 3D Infant Pose Estimation**|Zhuoran Zhou et.al.|[2311.12043](http://arxiv.org/abs/2311.12043)|null|
 |**2023-11-20**|**An on-chip platform for multi-degree-of-freedom control of two-dimensional quantum and nonlinear materials**|Haoning Tang et.al.|[2311.12030](http://arxiv.org/abs/2311.12030)|null|
@@ -2872,7 +2872,7 @@ layout: default
 |**2023-11-21**|**Attacking Motion Planners Using Adversarial Perception Errors**|Jonathan Sadeghi et.al.|[2311.12722](http://arxiv.org/abs/2311.12722)|null|
 |**2023-11-21**|**A Survey on Multimodal Large Language Models for Autonomous Driving**|Can Cui et.al.|[2311.12320](http://arxiv.org/abs/2311.12320)|**[link](https://github.com/irohxu/awesome-multimodal-llm-autonomous-driving)**|
 |**2023-12-04**|**Applications of Large Scale Foundation Models for Autonomous Driving**|Yu Huang et.al.|[2311.12144](http://arxiv.org/abs/2311.12144)|null|
-|**2023-11-18**|**FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin**|Zichen Yu et.al.|[2311.12058](http://arxiv.org/abs/2311.12058)|null|
+|**2023-11-18**|**FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin**|Zichen Yu et.al.|[2311.12058](http://arxiv.org/abs/2311.12058)|**[link](https://github.com/Yzichen/FlashOCC)**|
 |**2023-11-20**|**Beyond Boundaries: A Comprehensive Survey of Transferable Attacks on AI Systems**|Guangjing Wang et.al.|[2311.11796](http://arxiv.org/abs/2311.11796)|null|
 |**2023-11-23**|**MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations**|Daniel Bogdoll et.al.|[2311.11762](http://arxiv.org/abs/2311.11762)|null|
 |**2023-11-20**|**A Large-Scale Car Parts (LSCP) Dataset for Lightweight Fine-Grained Detection**|Wang Jie et.al.|[2311.11754](http://arxiv.org/abs/2311.11754)|null|
@@ -3003,7 +3003,7 @@ layout: default
 |**2023-10-12**|**Impact of multi-armed bandit strategies on deep recurrent reinforcement learning**|Valentina Zangirolami et.al.|[2310.08331](http://arxiv.org/abs/2310.08331)|**[link](https://github.com/ValentinaZangirolami/DRL)**|
 |**2023-10-12**|**NSM4D: Neural Scene Model Based Online 4D Point Cloud Sequence Understanding**|Yuhao Dong et.al.|[2310.08326](http://arxiv.org/abs/2310.08326)|null|
 |**2023-10-12**|**If our aim is to build morality into an artificial agent, how might we begin to go about doing so?**|Reneira Seeamber et.al.|[2310.08295](http://arxiv.org/abs/2310.08295)|null|
-|**2023-10-12**|**Hilbert Space Embedding-based Trajectory Optimization for Multi-Modal Uncertain Obstacle Trajectory Prediction**|Basant Sharma et.al.|[2310.08270](http://arxiv.org/abs/2310.08270)|null|
+|**2023-10-12**|**Hilbert Space Embedding-based Trajectory Optimization for Multi-Modal Uncertain Obstacle Trajectory Prediction**|Basant Sharma et.al.|[2310.08270](http://arxiv.org/abs/2310.08270)|**[link](https://github.com/arunkumar-singh/rkhs_stochastic_traj_opt)**|
 |**2023-10-12**|**GraphAlign: Enhancing Accurate Feature Alignment by Graph matching for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2310.08261](http://arxiv.org/abs/2310.08261)|null|
 |**2023-10-12**|**DUSA: Decoupled Unsupervised Sim2Real Adaptation for Vehicle-to-Everything Collaborative Perception**|Xianghao Kong et.al.|[2310.08117](http://arxiv.org/abs/2310.08117)|**[link](https://github.com/refkxh/DUSA)**|
 |**2023-10-20**|**Model Predictive Inferential Control of Neural State-Space Models for Autonomous Vehicle Motion Planning**|Iman Askari et.al.|[2310.08045](http://arxiv.org/abs/2310.08045)|null|
@@ -3421,7 +3421,7 @@ layout: default
 |**2023-11-21**|**A Survey on Multimodal Large Language Models for Autonomous Driving**|Can Cui et.al.|[2311.12320](http://arxiv.org/abs/2311.12320)|**[link](https://github.com/irohxu/awesome-multimodal-llm-autonomous-driving)**|
 |**2023-12-04**|**Applications of Large Scale Foundation Models for Autonomous Driving**|Yu Huang et.al.|[2311.12144](http://arxiv.org/abs/2311.12144)|null|
 |**2023-11-18**|**Towards Function Space Mesh Watermarking: Protecting the Copyright of Signed Distance Fields**|Xingyu Zhu et.al.|[2311.12059](http://arxiv.org/abs/2311.12059)|null|
-|**2023-11-18**|**FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin**|Zichen Yu et.al.|[2311.12058](http://arxiv.org/abs/2311.12058)|null|
+|**2023-11-18**|**FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin**|Zichen Yu et.al.|[2311.12058](http://arxiv.org/abs/2311.12058)|**[link](https://github.com/Yzichen/FlashOCC)**|
 |**2023-11-20**|**Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**|Zhiyuan Min et.al.|[2311.11845](http://arxiv.org/abs/2311.11845)|**[link](https://github.com/tatakai1/evenerf)**|
 |**2023-11-20**|**Beyond Boundaries: A Comprehensive Survey of Transferable Attacks on AI Systems**|Guangjing Wang et.al.|[2311.11796](http://arxiv.org/abs/2311.11796)|null|
 |**2023-11-23**|**MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations**|Daniel Bogdoll et.al.|[2311.11762](http://arxiv.org/abs/2311.11762)|null|
@@ -3594,7 +3594,7 @@ layout: default
 |**2023-10-12**|**Impact of multi-armed bandit strategies on deep recurrent reinforcement learning**|Valentina Zangirolami et.al.|[2310.08331](http://arxiv.org/abs/2310.08331)|**[link](https://github.com/ValentinaZangirolami/DRL)**|
 |**2023-10-12**|**NSM4D: Neural Scene Model Based Online 4D Point Cloud Sequence Understanding**|Yuhao Dong et.al.|[2310.08326](http://arxiv.org/abs/2310.08326)|null|
 |**2023-10-12**|**If our aim is to build morality into an artificial agent, how might we begin to go about doing so?**|Reneira Seeamber et.al.|[2310.08295](http://arxiv.org/abs/2310.08295)|null|
-|**2023-10-12**|**Hilbert Space Embedding-based Trajectory Optimization for Multi-Modal Uncertain Obstacle Trajectory Prediction**|Basant Sharma et.al.|[2310.08270](http://arxiv.org/abs/2310.08270)|null|
+|**2023-10-12**|**Hilbert Space Embedding-based Trajectory Optimization for Multi-Modal Uncertain Obstacle Trajectory Prediction**|Basant Sharma et.al.|[2310.08270](http://arxiv.org/abs/2310.08270)|**[link](https://github.com/arunkumar-singh/rkhs_stochastic_traj_opt)**|
 |**2023-10-12**|**GraphAlign: Enhancing Accurate Feature Alignment by Graph matching for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2310.08261](http://arxiv.org/abs/2310.08261)|null|
 |**2023-10-12**|**DUSA: Decoupled Unsupervised Sim2Real Adaptation for Vehicle-to-Everything Collaborative Perception**|Xianghao Kong et.al.|[2310.08117](http://arxiv.org/abs/2310.08117)|**[link](https://github.com/refkxh/DUSA)**|
 |**2023-10-20**|**Model Predictive Inferential Control of Neural State-Space Models for Autonomous Vehicle Motion Planning**|Iman Askari et.al.|[2310.08045](http://arxiv.org/abs/2310.08045)|null|
@@ -3767,7 +3767,7 @@ layout: default
 |**2023-10-17**|**Self-Supervised 3D Scene Flow Estimation and Motion Prediction using Local Rigidity Prior**|Ruibo Li et.al.|[2310.11284](http://arxiv.org/abs/2310.11284)|null|
 |**2023-10-16**|**A Novel Benchmarking Paradigm and a Scale- and Motion-Aware Model for Egocentric Pedestrian Trajectory Prediction**|Amir Rasouli et.al.|[2310.10424](http://arxiv.org/abs/2310.10424)|null|
 |**2023-10-16**|**Multi-Body Neural Scene Flow**|Kavisha Vidanapathirana et.al.|[2310.10301](http://arxiv.org/abs/2310.10301)|**[link](https://github.com/kavisha725/MBNSF)**|
-|**2023-10-12**|**Hilbert Space Embedding-based Trajectory Optimization for Multi-Modal Uncertain Obstacle Trajectory Prediction**|Basant Sharma et.al.|[2310.08270](http://arxiv.org/abs/2310.08270)|null|
+|**2023-10-12**|**Hilbert Space Embedding-based Trajectory Optimization for Multi-Modal Uncertain Obstacle Trajectory Prediction**|Basant Sharma et.al.|[2310.08270](http://arxiv.org/abs/2310.08270)|**[link](https://github.com/arunkumar-singh/rkhs_stochastic_traj_opt)**|
 |**2023-10-12**|**Multi-Modal Sensor Fusion and Object Tracking for Autonomous Racing**|Phillip Karle et.al.|[2310.08114](http://arxiv.org/abs/2310.08114)|**[link](https://github.com/tumftm/fusiontracking)**|
 |**2023-10-11**|**CRITERIA: a New Benchmarking Paradigm for Evaluating Trajectory Prediction Models for Autonomous Driving**|Changhe Chen et.al.|[2310.07794](http://arxiv.org/abs/2310.07794)|null|
 |**2023-10-11**|**Pixel State Value Network for Combined Prediction and Planning in Interactive Environments**|Sascha Rosbach et.al.|[2310.07706](http://arxiv.org/abs/2310.07706)|null|
