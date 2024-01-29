@@ -14,6 +14,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**Learning Neural Radiance Fields of Forest Structure for Scalable and Fine Monitoring**|Juan Castorena et.al.|[2401.15029](http://arxiv.org/abs/2401.15029)|null|
+|**2024-01-26**|**Straight versus Spongy -- Effect of Tortuosity on Polymer Imbibition into Nanoporous Matrices Assessed by Segmentation-Free Analysis of 3D Sample Reconstructions**|Fernando Vazquez Luna et.al.|[2401.14950](http://arxiv.org/abs/2401.14950)|null|
+|**2024-01-26**|**DAM: Diffusion Activation Maximization for 3D Global Explanations**|Hanxiao Tan et.al.|[2401.14938](http://arxiv.org/abs/2401.14938)|null|
+|**2024-01-26**|**PARSAC: Accelerating Robust Multi-Model Fitting with Parallel Sample Consensus**|Florian Kluger et.al.|[2401.14919](http://arxiv.org/abs/2401.14919)|null|
+|**2024-01-26**|**Thermal and kinetic coronal rain diagnostics with MgII h & k lines**|M. Kriginsky et.al.|[2401.14859](http://arxiv.org/abs/2401.14859)|null|
+|**2024-01-26**|**LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering**|Sheng Hong et.al.|[2401.14857](http://arxiv.org/abs/2401.14857)|null|
+|**2024-01-26**|**Adaptive Point Transformer**|Alessandro Baiocchi et.al.|[2401.14845](http://arxiv.org/abs/2401.14845)|null|
+|**2024-01-26**|**TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts**|Jingyu Zhuang et.al.|[2401.14828](http://arxiv.org/abs/2401.14828)|null|
+|**2024-01-26**|**SimpleEgo: Predicting Probabilistic Body Pose from Egocentric Cameras**|Hanz Cuevas-Velasquez et.al.|[2401.14785](http://arxiv.org/abs/2401.14785)|null|
+|**2024-01-26**|**Gradient descent optimization of acoustic holograms for transcranial focused ultrasound**|Ahmed Sallam et.al.|[2401.14756](http://arxiv.org/abs/2401.14756)|null|
+|**2024-01-26**|**Probing the position-dependent optical energy fluence rate in 3D scattering samples**|Ozan Akdemir et.al.|[2401.14748](http://arxiv.org/abs/2401.14748)|null|
+|**2024-01-26**|**Synthetic Multimodal Dataset for Empowering Safety and Well-being in Home Environments**|Takanori Ugai et.al.|[2401.14743](http://arxiv.org/abs/2401.14743)|null|
+|**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
+|**2024-01-26**|**Effects of Magnetic Helicity on 3D Equilibira and Self-Organized States in KTX Reversed Field Pinch**|Ke Liu et.al.|[2401.14604](http://arxiv.org/abs/2401.14604)|null|
+|**2024-01-25**|**TIFu: Tri-directional Implicit Function for High-Fidelity 3D Character Reconstruction**|Byoungsung Lim et.al.|[2401.14565](http://arxiv.org/abs/2401.14565)|null|
+|**2024-01-25**|**CaRiNG: Learning Temporal Causal Representation under Non-Invertible Generation Process**|Guangyi Chen et.al.|[2401.14535](http://arxiv.org/abs/2401.14535)|null|
+|**2024-01-25**|**RPNR: Robust-Perception Neural Reshading**|Fouad Afiouni et.al.|[2401.14510](http://arxiv.org/abs/2401.14510)|null|
+|**2024-01-25**|**Magnetochronology of solar-type star dynamos**|Quentin Noraz et.al.|[2401.14460](http://arxiv.org/abs/2401.14460)|null|
+|**2024-01-25**|**The Mass of the Large Magellanic Cloud from the Three-Dimensional Kinematics of its Globular Clusters**|Laura L. Watkins et.al.|[2401.14458](http://arxiv.org/abs/2401.14458)|null|
 |**2024-01-25**|**Nucleosynthesis in magnetorotational supernovae: impact of the magnetic field configuration**|M. Reichert et.al.|[2401.14402](http://arxiv.org/abs/2401.14402)|null|
 |**2024-01-25**|**Range-Agnostic Multi-View Depth Estimation With Keyframe Selection**|Andrea Conti et.al.|[2401.14401](http://arxiv.org/abs/2401.14401)|**[link](https://github.com/andreaconti/ramdepth)**|
 |**2024-01-25**|**pix2gestalt: Amodal Segmentation by Synthesizing Wholes**|Ege Ozguroglu et.al.|[2401.14398](http://arxiv.org/abs/2401.14398)|**[link](https://github.com/cvlab-columbia/pix2gestalt)**|
@@ -2216,6 +2235,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**Learning Neural Radiance Fields of Forest Structure for Scalable and Fine Monitoring**|Juan Castorena et.al.|[2401.15029](http://arxiv.org/abs/2401.15029)|null|
+|**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
 |**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354](http://arxiv.org/abs/2401.14354)|null|
 |**2024-01-25**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257](http://arxiv.org/abs/2401.14257)|null|
 |**2024-01-23**|**NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**|Chongke Bi et.al.|[2401.12568](http://arxiv.org/abs/2401.12568)|null|
@@ -2533,6 +2554,7 @@ layout: default
 |**2023-11-02**|**LabelFormer: Object Trajectory Refinement for Offboard Perception from LiDAR Point Clouds**|Anqi Joyce Yang et.al.|[2311.01444](http://arxiv.org/abs/2311.01444)|null|
 |**2023-11-02**|**Learning Realistic Traffic Agents in Closed-loop**|Chris Zhang et.al.|[2311.01394](http://arxiv.org/abs/2311.01394)|null|
 |**2024-01-16**|**Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion**|Lunjun Zhang et.al.|[2311.01017](http://arxiv.org/abs/2311.01017)|null|
+|**2024-01-26**|**ViR: Towards Efficient Vision Retention Backbones**|Ali Hatamizadeh et.al.|[2310.19731](http://arxiv.org/abs/2310.19731)|**[link](https://github.com/nvlabs/vir)**|
 |**2023-10-20**|**TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models**|Tianshi Cao et.al.|[2310.13772](http://arxiv.org/abs/2310.13772)|null|
 |**2023-09-11**|**Towards Viewpoint Robustness in Bird's Eye View Segmentation**|Tzofi Klinghoffer et.al.|[2309.05192](http://arxiv.org/abs/2309.05192)|null|
 |**2023-08-10**|**Flexible Isosurface Extraction for Gradient-Based Mesh Optimization**|Tianchang Shen et.al.|[2308.05371](http://arxiv.org/abs/2308.05371)|null|
@@ -2638,13 +2660,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**DAM: Diffusion Activation Maximization for 3D Global Explanations**|Hanxiao Tan et.al.|[2401.14938](http://arxiv.org/abs/2401.14938)|null|
 |**2024-01-25**|**Unlocking Past Information: Temporal Embeddings in Cooperative Bird's Eye View Prediction**|Dominik Rößle et.al.|[2401.14325](http://arxiv.org/abs/2401.14325)|null|
 |**2024-01-25**|**Optimization-based motion primitive automata for autonomous driving**|Matheus V. A. Pedrosa et.al.|[2401.14276](http://arxiv.org/abs/2401.14276)|null|
 |**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159](http://arxiv.org/abs/2401.14159)|**[link](https://github.com/IDEA-Research/Grounded-Segment-Anything)**|
 |**2024-01-24**|**S2TPVFormer: Spatio-Temporal Tri-Perspective View for temporally coherent 3D Semantic Occupancy Prediction**|Sathira Silva et.al.|[2401.13785](http://arxiv.org/abs/2401.13785)|null|
 |**2024-01-24**|**ADMap: Anti-disturbance framework for reconstructing online vectorized HD map**|Haotian Hu et.al.|[2401.13172](http://arxiv.org/abs/2401.13172)|**[link](https://github.com/hht1996ok/admap)**|
 |**2024-01-23**|**IRIS: Inverse Rendering of Indoor Scenes from Low Dynamic Range Images**|Zhi-Hao Lin et.al.|[2401.12977](http://arxiv.org/abs/2401.12977)|null|
-|**2024-01-23**|**Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies**|Lincan Li et.al.|[2401.12888](http://arxiv.org/abs/2401.12888)|null|
+|**2024-01-26**|**Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies**|Lincan Li et.al.|[2401.12888](http://arxiv.org/abs/2401.12888)|**[link](https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving)**|
 |**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
 |**2024-01-22**|**Accelerating Continuous Variable Coherent Ising Machines via Momentum**|Robin Brown et.al.|[2401.12135](http://arxiv.org/abs/2401.12135)|**[link](https://github.com/secquoia/continuous-cim)**|
 |**2024-01-22**|**Enhancing Safety in Nonlinear Systems: Design and Stability Analysis of Adaptive Cruise Control**|Fan Yang et.al.|[2401.11961](http://arxiv.org/abs/2401.11961)|null|
@@ -3066,13 +3089,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**Learning Neural Radiance Fields of Forest Structure for Scalable and Fine Monitoring**|Juan Castorena et.al.|[2401.15029](http://arxiv.org/abs/2401.15029)|null|
+|**2024-01-26**|**DAM: Diffusion Activation Maximization for 3D Global Explanations**|Hanxiao Tan et.al.|[2401.14938](http://arxiv.org/abs/2401.14938)|null|
+|**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
 |**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354](http://arxiv.org/abs/2401.14354)|null|
 |**2024-01-25**|**Unlocking Past Information: Temporal Embeddings in Cooperative Bird's Eye View Prediction**|Dominik Rößle et.al.|[2401.14325](http://arxiv.org/abs/2401.14325)|null|
 |**2024-01-25**|**Optimization-based motion primitive automata for autonomous driving**|Matheus V. A. Pedrosa et.al.|[2401.14276](http://arxiv.org/abs/2401.14276)|null|
 |**2024-01-25**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257](http://arxiv.org/abs/2401.14257)|null|
 |**2024-01-24**|**S2TPVFormer: Spatio-Temporal Tri-Perspective View for temporally coherent 3D Semantic Occupancy Prediction**|Sathira Silva et.al.|[2401.13785](http://arxiv.org/abs/2401.13785)|null|
 |**2024-01-24**|**ADMap: Anti-disturbance framework for reconstructing online vectorized HD map**|Haotian Hu et.al.|[2401.13172](http://arxiv.org/abs/2401.13172)|**[link](https://github.com/hht1996ok/admap)**|
-|**2024-01-23**|**Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies**|Lincan Li et.al.|[2401.12888](http://arxiv.org/abs/2401.12888)|null|
+|**2024-01-26**|**Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies**|Lincan Li et.al.|[2401.12888](http://arxiv.org/abs/2401.12888)|**[link](https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving)**|
 |**2024-01-23**|**NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**|Chongke Bi et.al.|[2401.12568](http://arxiv.org/abs/2401.12568)|null|
 |**2024-01-23**|**DDMI: Domain-Agnostic Latent Diffusion Models for Synthesizing High-Quality Implicit Neural Representations**|Dogyun Park et.al.|[2401.12517](http://arxiv.org/abs/2401.12517)|null|
 |**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
@@ -3650,6 +3676,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**Fast Long-Term Multi-Scenario Prediction for Maneuver Planning at Unsignalized Intersections**|Max Bastian Mertens et.al.|[2401.14879](http://arxiv.org/abs/2401.14879)|null|
 |**2024-01-23**|**Workspace Optimization Techniques to Improve Prediction of Human Motion During Human-Robot Collaboration**|Yi-Shiuan Tung et.al.|[2401.12965](http://arxiv.org/abs/2401.12965)|null|
 |**2024-01-23**|**Control-Aware Trajectory Predictions for Communication-Efficient Drone Swarm Coordination in Cluttered Environments**|Longhao Yan et.al.|[2401.12852](http://arxiv.org/abs/2401.12852)|null|
 |**2024-01-22**|**Towards a prioritised use of transportation infrastructures: the case of vehicle-specific dynamic access restrictions to city centres**|Holger Billhardt et.al.|[2401.12329](http://arxiv.org/abs/2401.12329)|null|
