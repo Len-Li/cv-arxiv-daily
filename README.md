@@ -22,6 +22,37 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**SRG/eROSITA 3D mapping of the ISM using X-ray absorption spectroscopy**|E. Gatuzz et.al.|[2401.17284](http://arxiv.org/abs/2401.17284)|null|
+|**2024-01-30**|**ContactGen: Contact-Guided Interactive 3D Human Generation for Partners**|Dongjun Gu et.al.|[2401.17212](http://arxiv.org/abs/2401.17212)|null|
+|**2024-01-30**|**Self-Supervised Representation Learning for Nerve Fiber Distribution Patterns in 3D-PLI**|Alexander Oberstrass et.al.|[2401.17207](http://arxiv.org/abs/2401.17207)|null|
+|**2024-01-30**|**Euler transformation for multiple $q$-hypergeometric series from wall-crossing formula of $K$ -theoretic vortex partition function**|Yutaka Yoshida et.al.|[2401.17198](http://arxiv.org/abs/2401.17198)|null|
+|**2024-01-30**|**Multi-Camera Asynchronous Ball Localization and Trajectory Prediction with Factor Graphs and Human Poses**|Qingyu Xiao et.al.|[2401.17185](http://arxiv.org/abs/2401.17185)|null|
+|**2024-01-30**|**Optical Tactile Sensing for Aerial Multi-Contact Interaction: Design, Integration, and Evaluation**|Emanuele Aucone et.al.|[2401.17149](http://arxiv.org/abs/2401.17149)|null|
+|**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121](http://arxiv.org/abs/2401.17121)|null|
+|**2024-01-30**|**Momentum Matching for 2D-3D Heterogeneous Ohmic van der Waals Contact**|Tara Jabegu et.al.|[2401.17114](http://arxiv.org/abs/2401.17114)|null|
+|**2024-01-30**|**Non-central panorama indoor dataset**|Bruno Berenguel-Baeta et.al.|[2401.17075](http://arxiv.org/abs/2401.17075)|**[link](https://github.com/jesusbermudezcameo/noncentralindoordataset)**|
+|**2024-01-30**|**OmniSCV: An Omnidirectional Synthetic Image Generator for Computer Vision**|Bruno Berenguel-Baeta et.al.|[2401.17061](http://arxiv.org/abs/2401.17061)|**[link](https://github.com/sbrunoberenguel/omniscv)**|
+|**2024-01-30**|**Atlanta Scaled layouts from non-central panoramas**|Bruno Berenguel-Baeta et.al.|[2401.17058](http://arxiv.org/abs/2401.17058)|**[link](https://github.com/jesusbermudezcameo/noncentralindoordataset)**|
+|**2024-01-30**|**BlockFusion: Expandable 3D Scene Generation using Latent Tri-plane Extrapolation**|Zhennan Wu et.al.|[2401.17053](http://arxiv.org/abs/2401.17053)|null|
+|**2024-01-30**|**Prediction of ambient pressure superconductivity in cubic ternary hydrides with MH $_6$ octahedra**|Feng Zheng et.al.|[2401.17024](http://arxiv.org/abs/2401.17024)|null|
+|**2024-01-30**|**Near-Field Fading Channel Modeling for ELAAs: From Communication to ISAC**|Jiuyu Liu et.al.|[2401.17014](http://arxiv.org/abs/2401.17014)|null|
+|**2024-01-30**|**Deep 3D World Models for Multi-Image Super-Resolution Beyond Optical Flow**|Luca Savant Aira et.al.|[2401.16972](http://arxiv.org/abs/2401.16972)|null|
+|**2024-01-30**|**Linear stability analysis of compressible boundary layer over an insulated wall: Existence of multiple new unstable modes for Mach number beyond 3**|Neha Chaturvedi et.al.|[2401.16939](http://arxiv.org/abs/2401.16939)|null|
+|**2024-01-30**|**3D-Printed Hydraulic Fluidic Logic Circuitry for Soft Robots**|Yuxin Lin et.al.|[2401.16827](http://arxiv.org/abs/2401.16827)|null|
+|**2024-01-30**|**An Embeddable Implicit IUVD Representation for Part-based 3D Human Surface Reconstruction**|Baoxing Li et.al.|[2401.16810](http://arxiv.org/abs/2401.16810)|null|
+|**2024-01-30**|**Kinesthetic-based In-Hand Object Recognition with an Underactuated Robotic Hand**|Julius Arolovitch et.al.|[2401.16802](http://arxiv.org/abs/2401.16802)|null|
+|**2024-01-30**|**A Literature Review on Fetus Brain Motion Correction in MRI**|Haoran Zhang et.al.|[2401.16782](http://arxiv.org/abs/2401.16782)|null|
+|**2024-01-30**|**All-optical complex field imaging using diffractive processors**|Jingxi Li et.al.|[2401.16779](http://arxiv.org/abs/2401.16779)|null|
+|**2024-01-30**|**BoostDream: Efficient Refining for High-Quality Text-to-3D Generation from Multi-View Diffusion**|Yonghao Yu et.al.|[2401.16764](http://arxiv.org/abs/2401.16764)|null|
+|**2024-01-30**|**Evidence of electron correlation and unusual spectral evolution in an exotic superconductor, PdTe**|Ram Prakash Pandeya et.al.|[2401.16724](http://arxiv.org/abs/2401.16724)|null|
+|**2024-01-30**|**Layer group classification of two-dimensional materials**|Jingheng Fu et.al.|[2401.16705](http://arxiv.org/abs/2401.16705)|null|
+|**2024-01-30**|**Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers**|Jianbin Jiao et.al.|[2401.16700](http://arxiv.org/abs/2401.16700)|null|
+|**2024-01-30**|**VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality**|Ying Jiang et.al.|[2401.16663](http://arxiv.org/abs/2401.16663)|null|
+|**2024-01-30**|**The Why, When, and How to Use Active Learning in Large-Data-Driven 3D Object Detection for Safe Autonomous Driving: An Empirical Exploration**|Ross Greer et.al.|[2401.16634](http://arxiv.org/abs/2401.16634)|null|
+|**2024-01-29**|**ReLoki: Infrastructure-free Distributed Relative Localization using On-board UWB Antenna Arrays**|Joseph Prince Mathew et.al.|[2401.16599](http://arxiv.org/abs/2401.16599)|null|
+|**2024-01-29**|**Discrete and semi-discrete multidimensional solitons and vortices: Established results and novel findings**|Boris A. Malomed et.al.|[2401.16550](http://arxiv.org/abs/2401.16550)|null|
+|**2024-01-29**|**DressCode: Autoregressively Sewing and Generating Garments from Text Guidance**|Kai He et.al.|[2401.16465](http://arxiv.org/abs/2401.16465)|null|
+|**2024-01-29**|**Print-N-Grip: A Disposable, Compliant, Scalable and One-Shot 3D-Printed Multi-Fingered Robotic Hand**|Alon Laron et.al.|[2401.16463](http://arxiv.org/abs/2401.16463)|null|
 |**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/abs/2401.16416)|null|
 |**2024-01-29**|**SuNeRF: 3D reconstruction of the solar EUV corona using Neural Radiance Fields**|Robert Jarolim et.al.|[2401.16388](http://arxiv.org/abs/2401.16388)|null|
 |**2024-01-29**|**A new numerical method for scalar eigenvalue problems in heterogeneous, dispersive, sign-changing materials**|Martin Halla et.al.|[2401.16368](http://arxiv.org/abs/2401.16368)|null|
@@ -57,7 +88,7 @@
 |**2024-01-28**|**Spatial profile of plasma temperature generated by discharge in 3D printed capillary**|Niv Barkai et.al.|[2401.15705](http://arxiv.org/abs/2401.15705)|null|
 |**2024-01-28**|**On the Itô-Stratonovich Diffusion Limit for the Magnetic Field in a 3D Thin Domain**|Federico Butori et.al.|[2401.15701](http://arxiv.org/abs/2401.15701)|null|
 |**2024-01-28**|**Multidimensional localized states in externally driven Kerr cavities with a parabolic spatiotemporal potential: a dimensional connection**|Yifan Sun et.al.|[2401.15689](http://arxiv.org/abs/2401.15689)|null|
-|**2024-01-28**|**Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance**|Qingcheng Zhao et.al.|[2401.15687](http://arxiv.org/abs/2401.15687)|null|
+|**2024-01-30**|**Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance**|Qingcheng Zhao et.al.|[2401.15687](http://arxiv.org/abs/2401.15687)|null|
 |**2024-01-28**|**Cooperative Receding Horizon 3D Coverage Control with a Team of Networked Aerial Agents**|Savvas Papaioannou et.al.|[2401.15674](http://arxiv.org/abs/2401.15674)|null|
 |**2024-01-28**|**Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras**|Yu-Jhe Li et.al.|[2401.15616](http://arxiv.org/abs/2401.15616)|null|
 |**2024-01-28**|**Discharge quenching mechanism and RPWELL performance with tunable 3D printed resistive plates**|Abhik Jash et.al.|[2401.15611](http://arxiv.org/abs/2401.15611)|null|
@@ -2297,6 +2328,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121](http://arxiv.org/abs/2401.17121)|null|
 |**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/abs/2401.16416)|null|
 |**2024-01-29**|**SuNeRF: 3D reconstruction of the solar EUV corona using Neural Radiance Fields**|Robert Jarolim et.al.|[2401.16388](http://arxiv.org/abs/2401.16388)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144](http://arxiv.org/abs/2401.16144)|null|
@@ -2730,10 +2762,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**MF-MOS: A Motion-Focused Model for Moving Object Segmentation**|Jintao Cheng et.al.|[2401.17023](http://arxiv.org/abs/2401.17023)|**[link](https://github.com/scnu-rislab/mf-mos)**|
+|**2024-01-30**|**Evaluation of Out-of-Distribution Detection Performance on Autonomous Driving Datasets**|Jens Henriksson et.al.|[2401.17013](http://arxiv.org/abs/2401.17013)|null|
+|**2024-01-30**|**The Why, When, and How to Use Active Learning in Large-Data-Driven 3D Object Detection for Safe Autonomous Driving: An Empirical Exploration**|Ross Greer et.al.|[2401.16634](http://arxiv.org/abs/2401.16634)|null|
+|**2024-01-30**|**I came, I saw, I certified: some perspectives on the safety assurance of cyber-physical systems**|Mithila Sivakumar et.al.|[2401.16633](http://arxiv.org/abs/2401.16633)|null|
 |**2024-01-29**|**FIMP: Future Interaction Modeling for Multi-Agent Motion Prediction**|Sungmin Woo et.al.|[2401.16189](http://arxiv.org/abs/2401.16189)|null|
 |**2024-01-29**|**DeFlow: Decoder of Scene Flow Network in Autonomous Driving**|Qingwen Zhang et.al.|[2401.16122](http://arxiv.org/abs/2401.16122)|**[link](https://github.com/kth-rpl/deflow)**|
 |**2024-01-29**|**A Concise but Effective Network for Image Guided Depth Completion in Autonomous Driving**|Moyun Liu et.al.|[2401.15902](http://arxiv.org/abs/2401.15902)|null|
-|**2024-01-28**|**GarchingSim: An Autonomous Driving Simulator with Photorealistic Scenes and Minimalist Workflow**|Liguo Zhou et.al.|[2401.15803](http://arxiv.org/abs/2401.15803)|null|
+|**2024-01-30**|**GarchingSim: An Autonomous Driving Simulator with Photorealistic Scenes and Minimalist Workflow**|Liguo Zhou et.al.|[2401.15803](http://arxiv.org/abs/2401.15803)|null|
 |**2024-01-27**|**You Only Look Bottom-Up for Monocular 3D Object Detection**|Kaixin Xiong et.al.|[2401.15319](http://arxiv.org/abs/2401.15319)|null|
 |**2024-01-27**|**Learning Online Belief Prediction for Efficient POMDP Planning in Autonomous Driving**|Zhiyu Huang et.al.|[2401.15315](http://arxiv.org/abs/2401.15315)|null|
 |**2024-01-26**|**DAM: Diffusion Activation Maximization for 3D Global Explanations**|Hanxiao Tan et.al.|[2401.14938](http://arxiv.org/abs/2401.14938)|**[link](https://github.com/explain3d/dam)**|
@@ -2825,7 +2861,7 @@
 |**2024-01-07**|**Generative AI-driven Semantic Communication Networks: Architecture, Technologies and Applications**|Chengsi Liang et.al.|[2401.00124](http://arxiv.org/abs/2401.00124)|null|
 |**2023-12-29**|**Visual Point Cloud Forecasting enables Scalable Autonomous Driving**|Zetong Yang et.al.|[2312.17655](http://arxiv.org/abs/2312.17655)|**[link](https://github.com/opendrivelab/vidar)**|
 |**2023-12-22**|**TimePillars: Temporally-Recurrent 3D LiDAR Object Detection**|Ernesto Lozano Calvo et.al.|[2312.17260](http://arxiv.org/abs/2312.17260)|null|
-|**2024-01-05**|**FENet: Focusing Enhanced Network for Lane Detection**|Liman Wang et.al.|[2312.17163](http://arxiv.org/abs/2312.17163)|**[link](https://github.com/hanyangzhong/fenet)**|
+|**2024-01-29**|**FENet: Focusing Enhanced Network for Lane Detection**|Liman Wang et.al.|[2312.17163](http://arxiv.org/abs/2312.17163)|**[link](https://github.com/hanyangzhong/fenet)**|
 |**2023-12-29**|**Fully Sparse 3D Panoptic Occupancy Prediction**|Haisong Liu et.al.|[2312.17118](http://arxiv.org/abs/2312.17118)|null|
 |**2023-12-28**|**DOEPatch: Dynamically Optimized Ensemble Model for Adversarial Patches Generation**|Wenyi Tan et.al.|[2312.16907](http://arxiv.org/abs/2312.16907)|null|
 |**2023-12-27**|**LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization**|Sai Shubodh Puligilla et.al.|[2312.16648](http://arxiv.org/abs/2312.16648)|null|
@@ -3167,13 +3203,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121](http://arxiv.org/abs/2401.17121)|null|
+|**2024-01-30**|**MF-MOS: A Motion-Focused Model for Moving Object Segmentation**|Jintao Cheng et.al.|[2401.17023](http://arxiv.org/abs/2401.17023)|**[link](https://github.com/scnu-rislab/mf-mos)**|
+|**2024-01-30**|**Evaluation of Out-of-Distribution Detection Performance on Autonomous Driving Datasets**|Jens Henriksson et.al.|[2401.17013](http://arxiv.org/abs/2401.17013)|null|
+|**2024-01-30**|**The Why, When, and How to Use Active Learning in Large-Data-Driven 3D Object Detection for Safe Autonomous Driving: An Empirical Exploration**|Ross Greer et.al.|[2401.16634](http://arxiv.org/abs/2401.16634)|null|
+|**2024-01-30**|**I came, I saw, I certified: some perspectives on the safety assurance of cyber-physical systems**|Mithila Sivakumar et.al.|[2401.16633](http://arxiv.org/abs/2401.16633)|null|
 |**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/abs/2401.16416)|null|
 |**2024-01-29**|**SuNeRF: 3D reconstruction of the solar EUV corona using Neural Radiance Fields**|Robert Jarolim et.al.|[2401.16388](http://arxiv.org/abs/2401.16388)|null|
 |**2024-01-29**|**FIMP: Future Interaction Modeling for Multi-Agent Motion Prediction**|Sungmin Woo et.al.|[2401.16189](http://arxiv.org/abs/2401.16189)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144](http://arxiv.org/abs/2401.16144)|null|
 |**2024-01-29**|**DeFlow: Decoder of Scene Flow Network in Autonomous Driving**|Qingwen Zhang et.al.|[2401.16122](http://arxiv.org/abs/2401.16122)|**[link](https://github.com/kth-rpl/deflow)**|
 |**2024-01-29**|**A Concise but Effective Network for Image Guided Depth Completion in Autonomous Driving**|Moyun Liu et.al.|[2401.15902](http://arxiv.org/abs/2401.15902)|null|
-|**2024-01-28**|**GarchingSim: An Autonomous Driving Simulator with Photorealistic Scenes and Minimalist Workflow**|Liguo Zhou et.al.|[2401.15803](http://arxiv.org/abs/2401.15803)|null|
+|**2024-01-30**|**GarchingSim: An Autonomous Driving Simulator with Photorealistic Scenes and Minimalist Workflow**|Liguo Zhou et.al.|[2401.15803](http://arxiv.org/abs/2401.15803)|null|
 |**2024-01-27**|**AniDress: Animatable Loose-Dressed Avatar from Sparse Views Using Garment Rigging Model**|Beijia Chen et.al.|[2401.15348](http://arxiv.org/abs/2401.15348)|null|
 |**2024-01-27**|**You Only Look Bottom-Up for Monocular 3D Object Detection**|Kaixin Xiong et.al.|[2401.15319](http://arxiv.org/abs/2401.15319)|null|
 |**2024-01-27**|**Learning Online Belief Prediction for Efficient POMDP Planning in Autonomous Driving**|Zhiyu Huang et.al.|[2401.15315](http://arxiv.org/abs/2401.15315)|null|
@@ -3766,6 +3807,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**Multi-Camera Asynchronous Ball Localization and Trajectory Prediction with Factor Graphs and Human Poses**|Qingyu Xiao et.al.|[2401.17185](http://arxiv.org/abs/2401.17185)|null|
+|**2024-01-29**|**Leveraging Public Cloud Infrastructure for Real-time Connected Vehicle Speed Advisory at a Signalized Corridor**|Hsien-Wen Deng et.al.|[2401.16545](http://arxiv.org/abs/2401.16545)|null|
 |**2024-01-29**|**FIMP: Future Interaction Modeling for Multi-Agent Motion Prediction**|Sungmin Woo et.al.|[2401.16189](http://arxiv.org/abs/2401.16189)|null|
 |**2024-01-29**|**Decentralized Robust Data-driven Predictive Control for Smoothing Mixed Traffic Flow**|Xu Shang et.al.|[2401.15826](http://arxiv.org/abs/2401.15826)|null|
 |**2024-01-28**|**Long-Term Typhoon Trajectory Prediction: A Physics-Conditioned Approach Without Reanalysis Data**|Young-Jae Park et.al.|[2401.15726](http://arxiv.org/abs/2401.15726)|null|
