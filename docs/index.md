@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.30
+## Updated on 2024.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -68,8 +68,8 @@ layout: default
 |**2024-01-26**|**Entropy-calibrated stellar modeling: Testing and improving the use of prescriptions for entropy of adiabatic convection**|L. Manchon et.al.|[2401.15172](http://arxiv.org/abs/2401.15172)|null|
 |**2024-01-26**|**Learning Neural Radiance Fields of Forest Structure for Scalable and Fine Monitoring**|Juan Castorena et.al.|[2401.15029](http://arxiv.org/abs/2401.15029)|null|
 |**2024-01-26**|**Straight versus Spongy -- Effect of Tortuosity on Polymer Imbibition into Nanoporous Matrices Assessed by Segmentation-Free Analysis of 3D Sample Reconstructions**|Fernando Vazquez Luna et.al.|[2401.14950](http://arxiv.org/abs/2401.14950)|null|
-|**2024-01-26**|**DAM: Diffusion Activation Maximization for 3D Global Explanations**|Hanxiao Tan et.al.|[2401.14938](http://arxiv.org/abs/2401.14938)|null|
-|**2024-01-26**|**PARSAC: Accelerating Robust Multi-Model Fitting with Parallel Sample Consensus**|Florian Kluger et.al.|[2401.14919](http://arxiv.org/abs/2401.14919)|null|
+|**2024-01-26**|**DAM: Diffusion Activation Maximization for 3D Global Explanations**|Hanxiao Tan et.al.|[2401.14938](http://arxiv.org/abs/2401.14938)|**[link](https://github.com/explain3d/dam)**|
+|**2024-01-26**|**PARSAC: Accelerating Robust Multi-Model Fitting with Parallel Sample Consensus**|Florian Kluger et.al.|[2401.14919](http://arxiv.org/abs/2401.14919)|**[link](https://github.com/fkluger/parsac)**|
 |**2024-01-26**|**Thermal and kinetic coronal rain diagnostics with MgII h & k lines**|M. Kriginsky et.al.|[2401.14859](http://arxiv.org/abs/2401.14859)|null|
 |**2024-01-26**|**LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering**|Sheng Hong et.al.|[2401.14857](http://arxiv.org/abs/2401.14857)|null|
 |**2024-01-26**|**Adaptive Point Transformer**|Alessandro Baiocchi et.al.|[2401.14845](http://arxiv.org/abs/2401.14845)|null|
@@ -2722,7 +2722,7 @@ layout: default
 |**2024-01-28**|**GarchingSim: An Autonomous Driving Simulator with Photorealistic Scenes and Minimalist Workflow**|Liguo Zhou et.al.|[2401.15803](http://arxiv.org/abs/2401.15803)|null|
 |**2024-01-27**|**You Only Look Bottom-Up for Monocular 3D Object Detection**|Kaixin Xiong et.al.|[2401.15319](http://arxiv.org/abs/2401.15319)|null|
 |**2024-01-27**|**Learning Online Belief Prediction for Efficient POMDP Planning in Autonomous Driving**|Zhiyu Huang et.al.|[2401.15315](http://arxiv.org/abs/2401.15315)|null|
-|**2024-01-26**|**DAM: Diffusion Activation Maximization for 3D Global Explanations**|Hanxiao Tan et.al.|[2401.14938](http://arxiv.org/abs/2401.14938)|null|
+|**2024-01-26**|**DAM: Diffusion Activation Maximization for 3D Global Explanations**|Hanxiao Tan et.al.|[2401.14938](http://arxiv.org/abs/2401.14938)|**[link](https://github.com/explain3d/dam)**|
 |**2024-01-25**|**Unlocking Past Information: Temporal Embeddings in Cooperative Bird's Eye View Prediction**|Dominik Rößle et.al.|[2401.14325](http://arxiv.org/abs/2401.14325)|null|
 |**2024-01-25**|**Optimization-based motion primitive automata for autonomous driving**|Matheus V. A. Pedrosa et.al.|[2401.14276](http://arxiv.org/abs/2401.14276)|null|
 |**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159](http://arxiv.org/abs/2401.14159)|**[link](https://github.com/IDEA-Research/Grounded-Segment-Anything)**|
@@ -3162,7 +3162,7 @@ layout: default
 |**2024-01-27**|**You Only Look Bottom-Up for Monocular 3D Object Detection**|Kaixin Xiong et.al.|[2401.15319](http://arxiv.org/abs/2401.15319)|null|
 |**2024-01-27**|**Learning Online Belief Prediction for Efficient POMDP Planning in Autonomous Driving**|Zhiyu Huang et.al.|[2401.15315](http://arxiv.org/abs/2401.15315)|null|
 |**2024-01-26**|**Learning Neural Radiance Fields of Forest Structure for Scalable and Fine Monitoring**|Juan Castorena et.al.|[2401.15029](http://arxiv.org/abs/2401.15029)|null|
-|**2024-01-26**|**DAM: Diffusion Activation Maximization for 3D Global Explanations**|Hanxiao Tan et.al.|[2401.14938](http://arxiv.org/abs/2401.14938)|null|
+|**2024-01-26**|**DAM: Diffusion Activation Maximization for 3D Global Explanations**|Hanxiao Tan et.al.|[2401.14938](http://arxiv.org/abs/2401.14938)|**[link](https://github.com/explain3d/dam)**|
 |**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
 |**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354](http://arxiv.org/abs/2401.14354)|null|
 |**2024-01-25**|**Unlocking Past Information: Temporal Embeddings in Cooperative Bird's Eye View Prediction**|Dominik Rößle et.al.|[2401.14325](http://arxiv.org/abs/2401.14325)|null|
