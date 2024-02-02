@@ -22,6 +22,32 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**AToM: Amortized Text-to-Mesh using 2D Diffusion**|Guocheng Qian et.al.|[2402.00867](http://arxiv.org/abs/2402.00867)|null|
+|**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864](http://arxiv.org/abs/2402.00864)|**[link](https://github.com/dongjiahua/vica-nerf)**|
+|**2024-02-01**|**Geometry Transfer for Stylizing Radiance Fields**|Hyunyoung Jung et.al.|[2402.00863](http://arxiv.org/abs/2402.00863)|null|
+|**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763](http://arxiv.org/abs/2402.00763)|null|
+|**2024-02-01**|**GS++: Error Analyzing and Optimal Gaussian Splatting**|Letian Huang et.al.|[2402.00752](http://arxiv.org/abs/2402.00752)|null|
+|**2024-02-01**|**DRSM: efficient neural 4d decomposition for dynamic reconstruction in stationary monocular cameras**|Weixing Xie et.al.|[2402.00740](http://arxiv.org/abs/2402.00740)|null|
+|**2024-02-01**|**Automatic Segmentation of the Spinal Cord Nerve Rootlets**|Jan Valosek et.al.|[2402.00724](http://arxiv.org/abs/2402.00724)|null|
+|**2024-02-01**|**Polycube Layouts via Iterative Dual Loops**|Maxim Snoep et.al.|[2402.00652](http://arxiv.org/abs/2402.00652)|null|
+|**2024-02-01**|**Double-scaled SYK, Chords and de Sitter Gravity**|Herman Verlinde et.al.|[2402.00635](http://arxiv.org/abs/2402.00635)|null|
+|**2024-02-01**|**CapHuman: Capture Your Moments in Parallel Universes**|Chao Liang et.al.|[2402.00627](http://arxiv.org/abs/2402.00627)|**[link](https://github.com/vamosc/caphuman)**|
+|**2024-02-01**|**A double scaling for the 4d/3d reduction of $\mathcal{N}=1$ dualities**|Antonio Amariti et.al.|[2402.00613](http://arxiv.org/abs/2402.00613)|null|
+|**2024-02-01**|**Diffusion-based Light Field Synthesis**|Ruisheng Gao et.al.|[2402.00575](http://arxiv.org/abs/2402.00575)|null|
+|**2024-02-01**|**Quasi-perpendicular shocks of galaxy clusters in hybrid kinetic simulations: The structure of the shocks**|S. S. Boula et.al.|[2402.00571](http://arxiv.org/abs/2402.00571)|null|
+|**2024-02-01**|**StopThePop: Sorted Gaussian Splatting for View-Consistent Real-time Rendering**|Lukas Radl et.al.|[2402.00525](http://arxiv.org/abs/2402.00525)|null|
+|**2024-02-01**|**EE-Tuning: An Economical yet Scalable Solution for Tuning Early-Exit Large Language Models**|Xuchen Pan et.al.|[2402.00518](http://arxiv.org/abs/2402.00518)|**[link](https://github.com/pan-x-c/ee-llm)**|
+|**2024-02-01**|**Can you see me now? Blind spot estimation for autonomous vehicles using scenario-based simulation with random reference sensors**|Marc Uecker et.al.|[2402.00467](http://arxiv.org/abs/2402.00467)|**[link](https://github.com/pyrestone/numpy_cukd)**|
+|**2024-02-01**|**The GREENBOT dataset: Multimodal mobile robotic dataset for a typical Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[2402.00438](http://arxiv.org/abs/2402.00438)|null|
+|**2024-02-01**|**Image2Points:A 3D Point-based Context Clusters GAN for High-Quality PET Image Reconstruction**|Jiaqi Cui et.al.|[2402.00376](http://arxiv.org/abs/2402.00376)|**[link](https://github.com/gluucose/pccgan)**|
+|**2024-02-01**|**Reimagining TaxiVis through an Immersive Space-Time Cube metaphor and reflecting on potential benefits of Immersive Analytics for urban data exploration**|Jorge Wagner et.al.|[2402.00344](http://arxiv.org/abs/2402.00344)|null|
+|**2024-02-01**|**DARCS: Memory-Efficient Deep Compressed Sensing Reconstruction for Acceleration of 3D Whole-Heart Coronary MR Angiography**|Zhihao Xue et.al.|[2402.00320](http://arxiv.org/abs/2402.00320)|null|
+|**2024-01-31**|**Geometry aware 3D generation from in-the-wild images in ImageNet**|Qijia Shen et.al.|[2402.00225](http://arxiv.org/abs/2402.00225)|null|
+|**2024-01-31**|**Learning Based Dynamic Cluster Reconfiguration for UAV Mobility Management with 3D Beamforming**|Irshad A. Meer et.al.|[2402.00224](http://arxiv.org/abs/2402.00224)|null|
+|**2024-01-31**|**Signatures of convection in the atmospheres of cool evolved stars**|Andrea Chiavassa et.al.|[2402.00187](http://arxiv.org/abs/2402.00187)|null|
+|**2024-01-31**|**Distance and Collision Probability Estimation from Gaussian Surface Models**|Kshitij Goel et.al.|[2402.00186](http://arxiv.org/abs/2402.00186)|null|
+|**2024-01-31**|**Weakly-Supervised Detection of Bone Lesions in CT**|Tao Sheng et.al.|[2402.00175](http://arxiv.org/abs/2402.00175)|null|
+|**2024-01-31**|**Accretion of Galaxies around Supermassive Black Holes and a Theoretical Model of the Tully-Fisher and M-Sigma Relations**|Nick Gorkavyi et.al.|[2402.00142](http://arxiv.org/abs/2402.00142)|null|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
 |**2024-01-31**|**Strong Bow Shocks: Turbulence and An Exact Self-Similar Asymptotic**|Marcus DuPont et.al.|[2401.18080](http://arxiv.org/abs/2401.18080)|null|
 |**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075](http://arxiv.org/abs/2401.18075)|null|
@@ -29,7 +55,7 @@
 |**2024-01-31**|**Radiatively Cooled Magnetic Reconnection Experiments Driven by Pulsed Power**|R Datta et.al.|[2401.17923](http://arxiv.org/abs/2401.17923)|null|
 |**2024-01-31**|**ReplaceAnything3D:Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields**|Edward Bartrum et.al.|[2401.17895](http://arxiv.org/abs/2401.17895)|null|
 |**2024-01-31**|**VR-based generation of photorealistic synthetic data for training hand-object tracking models**|Chengyan Zhang et.al.|[2401.17874](http://arxiv.org/abs/2401.17874)|null|
-|**2024-01-31**|**Semantic Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857](http://arxiv.org/abs/2401.17857)|null|
+|**2024-02-01**|**Segment Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857](http://arxiv.org/abs/2401.17857)|null|
 |**2024-01-31**|**On the evaluation of the suitability of the materials used to 3D print holographic acoustic lenses to correct transcranial focused ultrasound aberrations**|Marcelino Ferri et.al.|[2401.17818](http://arxiv.org/abs/2401.17818)|null|
 |**2024-01-31**|**On melting for the 3D radial Stefan problem**|Chencheng Zhang et.al.|[2401.17811](http://arxiv.org/abs/2401.17811)|null|
 |**2024-01-31**|**Advances in 3D Generation: A Survey**|Xiaoyu Li et.al.|[2401.17807](http://arxiv.org/abs/2401.17807)|null|
@@ -2356,9 +2382,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864](http://arxiv.org/abs/2402.00864)|**[link](https://github.com/dongjiahua/vica-nerf)**|
 |**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075](http://arxiv.org/abs/2401.18075)|null|
 |**2024-01-31**|**ReplaceAnything3D:Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields**|Edward Bartrum et.al.|[2401.17895](http://arxiv.org/abs/2401.17895)|null|
-|**2024-01-31**|**Semantic Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857](http://arxiv.org/abs/2401.17857)|null|
+|**2024-02-01**|**Segment Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857](http://arxiv.org/abs/2401.17857)|null|
 |**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121](http://arxiv.org/abs/2401.17121)|**[link](https://github.com/mercerai/paev3d)**|
 |**2024-01-31**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/abs/2401.16416)|null|
 |**2024-01-29**|**SuNeRF: 3D reconstruction of the solar EUV corona using Neural Radiance Fields**|Robert Jarolim et.al.|[2401.16388](http://arxiv.org/abs/2401.16388)|null|
@@ -2793,6 +2820,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Combining Belief Function Theory and Stochastic Model Predictive Control for Multi-Modal Uncertainty in Autonomous Driving**|Tommaso Benciolini et.al.|[2402.00697](http://arxiv.org/abs/2402.00697)|null|
+|**2024-02-01**|**Fisheye Camera and Ultrasonic Sensor Fusion For Near-Field Obstacle Perception in Bird's-Eye-View**|Arindam Das et.al.|[2402.00637](http://arxiv.org/abs/2402.00637)|null|
+|**2024-02-01**|**Uncertainty-Aware Partial-Label Learning**|Tobias Fuchs et.al.|[2402.00592](http://arxiv.org/abs/2402.00592)|**[link](https://github.com/anon1248/uncertainty-aware-pll)**|
+|**2024-02-01**|**Reconfigurable Intelligent Computational Surfaces for MEC-Assisted Autonomous Driving Networks**|Bo Yang et.al.|[2402.00398](http://arxiv.org/abs/2402.00398)|null|
+|**2024-02-01**|**Multi-agent Path Finding for Cooperative Autonomous Driving**|Zhongxia Yan et.al.|[2402.00334](http://arxiv.org/abs/2402.00334)|null|
+|**2024-02-01**|**SmartCooper: Vehicular Collaborative Perception with Adaptive Fusion and Judger Mechanism**|Yuang Zhang et.al.|[2402.00321](http://arxiv.org/abs/2402.00321)|null|
+|**2024-01-31**|**Real-time Traffic Object Detection for Autonomous Driving**|Abdul Hannan Khan et.al.|[2402.00128](http://arxiv.org/abs/2402.00128)|null|
 |**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075](http://arxiv.org/abs/2401.18075)|null|
 |**2024-01-31**|**LaneGraph2Seq: Lane Topology Extraction with Language Model via Vertex-Edge Encoding and Connectivity Enhancement**|Renyuan Peng et.al.|[2401.17609](http://arxiv.org/abs/2401.17609)|**[link](https://github.com/fudan-zvg/roadnet)**|
 |**2024-01-30**|**ATPPNet: Attention based Temporal Point cloud Prediction Network**|Kaustab Pal et.al.|[2401.17399](http://arxiv.org/abs/2401.17399)|null|
@@ -3237,9 +3271,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864](http://arxiv.org/abs/2402.00864)|**[link](https://github.com/dongjiahua/vica-nerf)**|
+|**2024-02-01**|**Combining Belief Function Theory and Stochastic Model Predictive Control for Multi-Modal Uncertainty in Autonomous Driving**|Tommaso Benciolini et.al.|[2402.00697](http://arxiv.org/abs/2402.00697)|null|
+|**2024-02-01**|**Fisheye Camera and Ultrasonic Sensor Fusion For Near-Field Obstacle Perception in Bird's-Eye-View**|Arindam Das et.al.|[2402.00637](http://arxiv.org/abs/2402.00637)|null|
+|**2024-02-01**|**Uncertainty-Aware Partial-Label Learning**|Tobias Fuchs et.al.|[2402.00592](http://arxiv.org/abs/2402.00592)|**[link](https://github.com/anon1248/uncertainty-aware-pll)**|
+|**2024-02-01**|**Reconfigurable Intelligent Computational Surfaces for MEC-Assisted Autonomous Driving Networks**|Bo Yang et.al.|[2402.00398](http://arxiv.org/abs/2402.00398)|null|
+|**2024-02-01**|**Multi-agent Path Finding for Cooperative Autonomous Driving**|Zhongxia Yan et.al.|[2402.00334](http://arxiv.org/abs/2402.00334)|null|
+|**2024-02-01**|**SmartCooper: Vehicular Collaborative Perception with Adaptive Fusion and Judger Mechanism**|Yuang Zhang et.al.|[2402.00321](http://arxiv.org/abs/2402.00321)|null|
+|**2024-01-31**|**Real-time Traffic Object Detection for Autonomous Driving**|Abdul Hannan Khan et.al.|[2402.00128](http://arxiv.org/abs/2402.00128)|null|
 |**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075](http://arxiv.org/abs/2401.18075)|null|
 |**2024-01-31**|**ReplaceAnything3D:Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields**|Edward Bartrum et.al.|[2401.17895](http://arxiv.org/abs/2401.17895)|null|
-|**2024-01-31**|**Semantic Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857](http://arxiv.org/abs/2401.17857)|null|
+|**2024-02-01**|**Segment Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857](http://arxiv.org/abs/2401.17857)|null|
 |**2024-01-31**|**LaneGraph2Seq: Lane Topology Extraction with Language Model via Vertex-Edge Encoding and Connectivity Enhancement**|Renyuan Peng et.al.|[2401.17609](http://arxiv.org/abs/2401.17609)|**[link](https://github.com/fudan-zvg/roadnet)**|
 |**2024-01-30**|**ATPPNet: Attention based Temporal Point cloud Prediction Network**|Kaustab Pal et.al.|[2401.17399](http://arxiv.org/abs/2401.17399)|null|
 |**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121](http://arxiv.org/abs/2401.17121)|**[link](https://github.com/mercerai/paev3d)**|
