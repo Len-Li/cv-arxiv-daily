@@ -22,10 +22,48 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion**|Mohamad Qadri et.al.|[2402.03309](http://arxiv.org/abs/2402.03309)|null|
+|**2024-02-05**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307](http://arxiv.org/abs/2402.03307)|null|
+|**2024-02-05**|**A Lennard-Jones Layer for Distribution Normalization**|Mulun Na et.al.|[2402.03287](http://arxiv.org/abs/2402.03287)|null|
+|**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246](http://arxiv.org/abs/2402.03246)|null|
+|**2024-02-05**|**ActiveAnno3D -- An Active Learning Framework for Multi-Modal 3D Object Detection**|Ahmed Ghita et.al.|[2402.03235](http://arxiv.org/abs/2402.03235)|null|
+|**2024-02-05**|**CT-based Anatomical Segmentation for Thoracic Surgical Planning: A Benchmark Study for 3D U-shaped Deep Learning Models**|Arash Harirpoush et.al.|[2402.03230](http://arxiv.org/abs/2402.03230)|**[link](https://github.com/healthx-lab/deepsegthoracic)**|
+|**2024-02-05**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227](http://arxiv.org/abs/2402.03227)|null|
+|**2024-02-05**|**Spinning $Q$ -ball Superradiance in 3+1D**|Guo-Dong Zhang et.al.|[2402.03193](http://arxiv.org/abs/2402.03193)|null|
+|**2024-02-05**|**GPU-Accelerated 3D Polygon Visibility Volumes for Synergistic Perception and Navigation**|Andrew Willis et.al.|[2402.03135](http://arxiv.org/abs/2402.03135)|null|
+|**2024-02-05**|**Towards multiqudit quantum processor based on a $^{171}$Yb$^{+}$ ion string: Realizing basic quantum algorithms**|Ilia V. Zalivako et.al.|[2402.03121](http://arxiv.org/abs/2402.03121)|null|
+|**2024-02-05**|**Taylor Videos for Action Recognition**|Lei Wang et.al.|[2402.03019](http://arxiv.org/abs/2402.03019)|null|
+|**2024-02-05**|**Tracing d-d transitions in FePS $_{3}$ on ultrafast time scales**|Jonah Elias Nitschke et.al.|[2402.03018](http://arxiv.org/abs/2402.03018)|null|
+|**2024-02-05**|**Retrieval-Augmented Score Distillation for Text-to-3D Generation**|Junyoung Seo et.al.|[2402.02972](http://arxiv.org/abs/2402.02972)|null|
+|**2024-02-05**|**Controlling flow patterns and topology in active emulsions**|Giuseppe Negro et.al.|[2402.02960](http://arxiv.org/abs/2402.02960)|null|
+|**2024-02-05**|**Digital Twin for Grey Box modeling of Multistory residential building thermal dynamics**|Lina Morkunaite et.al.|[2402.02909](http://arxiv.org/abs/2402.02909)|null|
+|**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906](http://arxiv.org/abs/2402.02906)|**[link](https://github.com/bronemos/view-fusion)**|
+|**2024-02-05**|**Improving Robustness of LiDAR-Camera Fusion Model against Weather Corruption from Fusion Strategy Perspective**|Yihao Huang et.al.|[2402.02738](http://arxiv.org/abs/2402.02738)|null|
+|**2024-02-05**|**The SAMI Galaxy Survey: Using Tidal Streams and Shells to Trace the Dynamical Evolution of Massive Galaxies**|Tomas H. Rutherford et.al.|[2402.02728](http://arxiv.org/abs/2402.02728)|null|
+|**2024-02-05**|**3D NLTE Lithium abundances for late-type stars in GALAH DR3**|Ella Xi Wang et.al.|[2402.02669](http://arxiv.org/abs/2402.02669)|null|
+|**2024-02-04**|**A 3D joint interpretation of magnetotelluric and seismic tomographic models: the case of the volcanic island of Tenerife**|A. García-Yeguas et.al.|[2402.02610](http://arxiv.org/abs/2402.02610)|null|
+|**2024-02-04**|**SYK Correlators from 2D Liouville-de Sitter Gravity**|Herman Verlinde et.al.|[2402.02584](http://arxiv.org/abs/2402.02584)|null|
+|**2024-02-04**|**Point Cloud Matters: Rethinking the Impact of Different Observation Spaces on Robot Learning**|Haoyi Zhu et.al.|[2402.02500](http://arxiv.org/abs/2402.02500)|null|
+|**2024-02-04**|**On local well-posedness of 3D ideal Hall-MHD system with an azimuthal magnetic field**|Zijin Li et.al.|[2402.02451](http://arxiv.org/abs/2402.02451)|null|
+|**2024-02-04**|**EuLagNet: Eulerian Fluid Prediction with Lagrangian Dynamics**|Qilong Ma et.al.|[2402.02425](http://arxiv.org/abs/2402.02425)|null|
+|**2024-02-04**|**Phase field cohesive zone modeling for fatigue crack propagation in quasi-brittle materials**|A. Baktheer et.al.|[2402.02421](http://arxiv.org/abs/2402.02421)|null|
+|**2024-02-04**|**Multiplexed all-optical permutation operations using a reconfigurable diffractive optical network**|Guangdong Ma et.al.|[2402.02397](http://arxiv.org/abs/2402.02397)|null|
+|**2024-02-04**|**Uncertainty-Aware Testing-Time Optimization for 3D Human Pose Estimation**|Ti Wang et.al.|[2402.02339](http://arxiv.org/abs/2402.02339)|null|
+|**2024-02-04**|**CNS-Edit: 3D Shape Editing via Coupled Neural Shape Optimization**|Jingyu Hu et.al.|[2402.02313](http://arxiv.org/abs/2402.02313)|null|
+|**2024-02-03**|**Operator Dimension Parity Fractionalization**|Christopher W. Murphy et.al.|[2402.02195](http://arxiv.org/abs/2402.02195)|null|
+|**2024-02-03**|**RecNet: An Invertible Point Cloud Encoding through Range Image Embeddings for Multi-Robot Map Sharing and Reconstruction**|Nikolaos Stathoulopoulos et.al.|[2402.02192](http://arxiv.org/abs/2402.02192)|null|
+|**2024-02-03**|**Feasibility of PET-enabled dual-energy CT imaging: First physical phantom and patient results**|Yansong Zhu et.al.|[2402.02091](http://arxiv.org/abs/2402.02091)|null|
+|**2024-02-03**|**A Compact Gas-Kinetic Scheme with Scalable Geometric Multigrid Acceleration for Steady-State Computation on 3D Unstructured Meshes**|Hongyu Liu et.al.|[2402.02075](http://arxiv.org/abs/2402.02075)|null|
+|**2024-02-03**|**RIDERS: Radar-Infrared Depth Estimation for Robust Sensing**|Han Li et.al.|[2402.02067](http://arxiv.org/abs/2402.02067)|**[link](https://github.com/mmocking/riders)**|
+|**2024-02-03**|**Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks**|Duy M. H. Nguyen et.al.|[2402.01975](http://arxiv.org/abs/2402.01975)|null|
+|**2024-02-02**|**Calibrated Uncertainty Quantification for Operator Learning via Conformal Prediction**|Ziqi Ma et.al.|[2402.01960](http://arxiv.org/abs/2402.01960)|null|
+|**2024-02-02**|**ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**|Xingyu Miao et.al.|[2402.01950](http://arxiv.org/abs/2402.01950)|**[link](https://github.com/xingy038/conrf)**|
+|**2024-02-02**|**Robust Inverse Graphics via Probabilistic Inference**|Tuan Anh Le et.al.|[2402.01915](http://arxiv.org/abs/2402.01915)|null|
+|**2024-02-02**|**Onset of transmon ionization in microwave single-photon detection**|Yuki Nojiri et.al.|[2402.01884](http://arxiv.org/abs/2402.01884)|null|
 |**2024-02-02**|**HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**|Paweł Batorski et.al.|[2402.01524](http://arxiv.org/abs/2402.01524)|**[link](https://github.com/gmum/hyperplanes)**|
 |**2024-02-02**|**Advancing Brain Tumor Inpainting with Generative Models**|Ruizhi Zhu et.al.|[2402.01509](http://arxiv.org/abs/2402.01509)|null|
 |**2024-02-02**|**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**|Mahboubeh Asadi et.al.|[2402.01485](http://arxiv.org/abs/2402.01485)|null|
-|**2024-02-02**|**Multi-level protein pre-training with Vabs-Net**|Jiale Zhao et.al.|[2402.01481](http://arxiv.org/abs/2402.01481)|null|
+|**2024-02-05**|**Multi-level protein pre-training with Vabs-Net**|Jiale Zhao et.al.|[2402.01481](http://arxiv.org/abs/2402.01481)|null|
 |**2024-02-02**|**The imprint of magnetic fields on absorption spectra from circumgalactic wind-cloud systems**|Benedetta Casavecchia et.al.|[2402.01475](http://arxiv.org/abs/2402.01475)|null|
 |**2024-02-02**|**Scaled 360 layouts: Revisiting non-central panoramas**|Bruno Berenguel-Baeta et.al.|[2402.01466](http://arxiv.org/abs/2402.01466)|null|
 |**2024-02-02**|**3D Vertebrae Measurements: Assessing Vertebral Dimensions in Human Spine Mesh Models Using Local Anatomical Vertebral Axes**|Ivanna Kramer et.al.|[2402.01462](http://arxiv.org/abs/2402.01462)|null|
@@ -2414,6 +2452,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906](http://arxiv.org/abs/2402.02906)|**[link](https://github.com/bronemos/view-fusion)**|
+|**2024-02-03**|**S-NeRF++: Autonomous Driving Simulation via Neural Reconstruction and Generation**|Yurui Chen et.al.|[2402.02112](http://arxiv.org/abs/2402.02112)|null|
+|**2024-02-02**|**Robust Inverse Graphics via Probabilistic Inference**|Tuan Anh Le et.al.|[2402.01915](http://arxiv.org/abs/2402.01915)|null|
 |**2024-02-02**|**HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**|Paweł Batorski et.al.|[2402.01524](http://arxiv.org/abs/2402.01524)|**[link](https://github.com/gmum/hyperplanes)**|
 |**2024-02-02**|**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**|Mahboubeh Asadi et.al.|[2402.01485](http://arxiv.org/abs/2402.01485)|null|
 |**2024-02-02**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459](http://arxiv.org/abs/2402.01459)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
@@ -2856,10 +2897,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**Learning from Teaching Regularization: Generalizable Correlations Should be Easy to Imitate**|Can Jin et.al.|[2402.02769](http://arxiv.org/abs/2402.02769)|null|
+|**2024-02-05**|**Improving Robustness of LiDAR-Camera Fusion Model against Weather Corruption from Fusion Strategy Perspective**|Yihao Huang et.al.|[2402.02738](http://arxiv.org/abs/2402.02738)|null|
+|**2024-02-04**|**A Review of Full-Sized Autonomous Racing Vehicle Sensor Architecture**|Manuel Mar et.al.|[2402.02603](http://arxiv.org/abs/2402.02603)|null|
+|**2024-02-04**|**Synthesizing Follow-Up Drive Data for Enhanced Road Safety in Intelligent Driving Function Systems**|Nico Schick et.al.|[2402.02598](http://arxiv.org/abs/2402.02598)|null|
+|**2024-02-04**|**SIMPL: A Simple and Efficient Multi-agent Motion Prediction Baseline for Autonomous Driving**|Lu Zhang et.al.|[2402.02519](http://arxiv.org/abs/2402.02519)|**[link](https://github.com/hkust-aerial-robotics/simpl)**|
+|**2024-02-04**|**Hybrid-Prediction Integrated Planning for Autonomous Driving**|Haochen Liu et.al.|[2402.02426](http://arxiv.org/abs/2402.02426)|null|
+|**2024-02-03**|**Evaluating the Robustness of Off-Road Autonomous Driving Segmentation against Adversarial Attacks: A Dataset-Centric analysis**|Pankaj Deoli et.al.|[2402.02154](http://arxiv.org/abs/2402.02154)|null|
+|**2024-02-03**|**S-NeRF++: Autonomous Driving Simulation via Neural Reconstruction and Generation**|Yurui Chen et.al.|[2402.02112](http://arxiv.org/abs/2402.02112)|null|
+|**2024-02-03**|**Physical Perception Network and an All-weather Multi-modality Benchmark for Adverse Weather Image Fusion**|Xilai Li et.al.|[2402.02090](http://arxiv.org/abs/2402.02090)|null|
+|**2024-02-03**|**RIDERS: Radar-Infrared Depth Estimation for Robust Sensing**|Han Li et.al.|[2402.02067](http://arxiv.org/abs/2402.02067)|**[link](https://github.com/mmocking/riders)**|
+|**2024-02-03**|**Multimodal-Enhanced Objectness Learner for Corner Case Detection in Autonomous Driving**|Lixing Xiao et.al.|[2402.02026](http://arxiv.org/abs/2402.02026)|**[link](https://github.com/tryhiseyyysum/menol)**|
+|**2024-02-03**|**A Survey on Context-Aware Multi-Agent Systems: Techniques, Challenges and Future Directions**|Hung Du et.al.|[2402.01968](http://arxiv.org/abs/2402.01968)|null|
 |**2024-02-02**|**Efficient and Interaction-Aware Trajectory Planning for Autonomous Vehicles with Particle Swarm Optimization**|Lin Song et.al.|[2402.01575](http://arxiv.org/abs/2402.01575)|null|
-|**2024-02-02**|**Overcoming Blind Spots: Occlusion Considerations for Improved Autonomous Driving Safety**|Korbinian Moller et.al.|[2402.01507](http://arxiv.org/abs/2402.01507)|null|
-|**2024-02-02**|**A Reinforcement Learning-Boosted Motion Planning Framework: Comprehensive Generalization Performance in Autonomous Driving**|Rainer Trauth et.al.|[2402.01465](http://arxiv.org/abs/2402.01465)|null|
-|**2024-02-02**|**Frenetix Motion Planner: High-Performance and Modular Trajectory Planning Algorithm for Complex Autonomous Driving Scenarios**|Korbinian Moller et.al.|[2402.01443](http://arxiv.org/abs/2402.01443)|null|
+|**2024-02-02**|**Overcoming Blind Spots: Occlusion Considerations for Improved Autonomous Driving Safety**|Korbinian Moller et.al.|[2402.01507](http://arxiv.org/abs/2402.01507)|**[link](https://github.com/tum-avs/frenetix-occlusion)**|
+|**2024-02-02**|**A Reinforcement Learning-Boosted Motion Planning Framework: Comprehensive Generalization Performance in Autonomous Driving**|Rainer Trauth et.al.|[2402.01465](http://arxiv.org/abs/2402.01465)|**[link](https://github.com/tum-avs/frenetix-rl)**|
+|**2024-02-02**|**Frenetix Motion Planner: High-Performance and Modular Trajectory Planning Algorithm for Complex Autonomous Driving Scenarios**|Korbinian Moller et.al.|[2402.01443](http://arxiv.org/abs/2402.01443)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-02**|**A survey on robustness in trajectory prediction for autonomous vehicles**|Jeroen Hagenus et.al.|[2402.01397](http://arxiv.org/abs/2402.01397)|null|
 |**2024-02-02**|**LimSim++: A Closed-Loop Platform for Deploying Multimodal LLMs in Autonomous Driving**|Daocheng Fu et.al.|[2402.01246](http://arxiv.org/abs/2402.01246)|null|
 |**2024-02-02**|**A Survey for Foundation Models in Autonomous Driving**|Haoxiang Gao et.al.|[2402.01105](http://arxiv.org/abs/2402.01105)|null|
@@ -3314,13 +3367,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906](http://arxiv.org/abs/2402.02906)|**[link](https://github.com/bronemos/view-fusion)**|
+|**2024-02-05**|**Improving Robustness of LiDAR-Camera Fusion Model against Weather Corruption from Fusion Strategy Perspective**|Yihao Huang et.al.|[2402.02738](http://arxiv.org/abs/2402.02738)|null|
+|**2024-02-04**|**A Review of Full-Sized Autonomous Racing Vehicle Sensor Architecture**|Manuel Mar et.al.|[2402.02603](http://arxiv.org/abs/2402.02603)|null|
+|**2024-02-04**|**Synthesizing Follow-Up Drive Data for Enhanced Road Safety in Intelligent Driving Function Systems**|Nico Schick et.al.|[2402.02598](http://arxiv.org/abs/2402.02598)|null|
+|**2024-02-04**|**SIMPL: A Simple and Efficient Multi-agent Motion Prediction Baseline for Autonomous Driving**|Lu Zhang et.al.|[2402.02519](http://arxiv.org/abs/2402.02519)|**[link](https://github.com/hkust-aerial-robotics/simpl)**|
+|**2024-02-04**|**Hybrid-Prediction Integrated Planning for Autonomous Driving**|Haochen Liu et.al.|[2402.02426](http://arxiv.org/abs/2402.02426)|null|
+|**2024-02-03**|**Evaluating the Robustness of Off-Road Autonomous Driving Segmentation against Adversarial Attacks: A Dataset-Centric analysis**|Pankaj Deoli et.al.|[2402.02154](http://arxiv.org/abs/2402.02154)|null|
+|**2024-02-03**|**S-NeRF++: Autonomous Driving Simulation via Neural Reconstruction and Generation**|Yurui Chen et.al.|[2402.02112](http://arxiv.org/abs/2402.02112)|null|
+|**2024-02-03**|**Physical Perception Network and an All-weather Multi-modality Benchmark for Adverse Weather Image Fusion**|Xilai Li et.al.|[2402.02090](http://arxiv.org/abs/2402.02090)|null|
+|**2024-02-03**|**RIDERS: Radar-Infrared Depth Estimation for Robust Sensing**|Han Li et.al.|[2402.02067](http://arxiv.org/abs/2402.02067)|**[link](https://github.com/mmocking/riders)**|
+|**2024-02-03**|**Multimodal-Enhanced Objectness Learner for Corner Case Detection in Autonomous Driving**|Lixing Xiao et.al.|[2402.02026](http://arxiv.org/abs/2402.02026)|**[link](https://github.com/tryhiseyyysum/menol)**|
+|**2024-02-03**|**A Survey on Context-Aware Multi-Agent Systems: Techniques, Challenges and Future Directions**|Hung Du et.al.|[2402.01968](http://arxiv.org/abs/2402.01968)|null|
+|**2024-02-02**|**Robust Inverse Graphics via Probabilistic Inference**|Tuan Anh Le et.al.|[2402.01915](http://arxiv.org/abs/2402.01915)|null|
 |**2024-02-02**|**Efficient and Interaction-Aware Trajectory Planning for Autonomous Vehicles with Particle Swarm Optimization**|Lin Song et.al.|[2402.01575](http://arxiv.org/abs/2402.01575)|null|
 |**2024-02-02**|**HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**|Paweł Batorski et.al.|[2402.01524](http://arxiv.org/abs/2402.01524)|**[link](https://github.com/gmum/hyperplanes)**|
-|**2024-02-02**|**Overcoming Blind Spots: Occlusion Considerations for Improved Autonomous Driving Safety**|Korbinian Moller et.al.|[2402.01507](http://arxiv.org/abs/2402.01507)|null|
+|**2024-02-02**|**Overcoming Blind Spots: Occlusion Considerations for Improved Autonomous Driving Safety**|Korbinian Moller et.al.|[2402.01507](http://arxiv.org/abs/2402.01507)|**[link](https://github.com/tum-avs/frenetix-occlusion)**|
 |**2024-02-02**|**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**|Mahboubeh Asadi et.al.|[2402.01485](http://arxiv.org/abs/2402.01485)|null|
-|**2024-02-02**|**A Reinforcement Learning-Boosted Motion Planning Framework: Comprehensive Generalization Performance in Autonomous Driving**|Rainer Trauth et.al.|[2402.01465](http://arxiv.org/abs/2402.01465)|null|
+|**2024-02-02**|**A Reinforcement Learning-Boosted Motion Planning Framework: Comprehensive Generalization Performance in Autonomous Driving**|Rainer Trauth et.al.|[2402.01465](http://arxiv.org/abs/2402.01465)|**[link](https://github.com/tum-avs/frenetix-rl)**|
 |**2024-02-02**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459](http://arxiv.org/abs/2402.01459)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
-|**2024-02-02**|**Frenetix Motion Planner: High-Performance and Modular Trajectory Planning Algorithm for Complex Autonomous Driving Scenarios**|Korbinian Moller et.al.|[2402.01443](http://arxiv.org/abs/2402.01443)|null|
+|**2024-02-02**|**Frenetix Motion Planner: High-Performance and Modular Trajectory Planning Algorithm for Complex Autonomous Driving Scenarios**|Korbinian Moller et.al.|[2402.01443](http://arxiv.org/abs/2402.01443)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-02**|**A survey on robustness in trajectory prediction for autonomous vehicles**|Jeroen Hagenus et.al.|[2402.01397](http://arxiv.org/abs/2402.01397)|null|
 |**2024-02-02**|**LimSim++: A Closed-Loop Platform for Deploying Multimodal LLMs in Autonomous Driving**|Daocheng Fu et.al.|[2402.01246](http://arxiv.org/abs/2402.01246)|null|
 |**2024-02-02**|**Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance**|Yaokun Li et.al.|[2402.01217](http://arxiv.org/abs/2402.01217)|null|
@@ -3942,6 +4008,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-04**|**SIMPL: A Simple and Efficient Multi-agent Motion Prediction Baseline for Autonomous Driving**|Lu Zhang et.al.|[2402.02519](http://arxiv.org/abs/2402.02519)|**[link](https://github.com/hkust-aerial-robotics/simpl)**|
+|**2024-02-04**|**Robot Trajectron: Trajectory Prediction-based Shared Control for Robot Manipulation**|Pinhao Song et.al.|[2402.02499](http://arxiv.org/abs/2402.02499)|**[link](https://github.com/mousecpn/robot-trajectron)**|
+|**2024-02-04**|**Hybrid-Prediction Integrated Planning for Autonomous Driving**|Haochen Liu et.al.|[2402.02426](http://arxiv.org/abs/2402.02426)|null|
+|**2024-02-03**|**Data-Driven Prediction of Seismic Intensity Distributions Featuring Hybrid Classification-Regression Models**|Koyu Mizutani et.al.|[2402.02150](http://arxiv.org/abs/2402.02150)|**[link](https://github.com/koyumizutani/earthquake)**|
 |**2024-02-02**|**Hyperparameter tuning via trajectory predictions: Stochastic prox-linear methods in matrix sensing**|Mengqi Lou et.al.|[2402.01599](http://arxiv.org/abs/2402.01599)|null|
 |**2024-02-02**|**A survey on robustness in trajectory prediction for autonomous vehicles**|Jeroen Hagenus et.al.|[2402.01397](http://arxiv.org/abs/2402.01397)|null|
 |**2024-01-30**|**Multi-Camera Asynchronous Ball Localization and Trajectory Prediction with Factor Graphs and Human Poses**|Qingyu Xiao et.al.|[2401.17185](http://arxiv.org/abs/2401.17185)|null|
