@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.06
+## Updated on 2024.02.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3D
@@ -2883,7 +2883,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-05**|**Learning from Teaching Regularization: Generalizable Correlations Should be Easy to Imitate**|Can Jin et.al.|[2402.02769](http://arxiv.org/abs/2402.02769)|null|
+|**2024-02-05**|**Learning from Teaching Regularization: Generalizable Correlations Should be Easy to Imitate**|Can Jin et.al.|[2402.02769](http://arxiv.org/abs/2402.02769)|**[link](https://github.com/jincan333/lot)**|
 |**2024-02-05**|**Improving Robustness of LiDAR-Camera Fusion Model against Weather Corruption from Fusion Strategy Perspective**|Yihao Huang et.al.|[2402.02738](http://arxiv.org/abs/2402.02738)|null|
 |**2024-02-04**|**A Review of Full-Sized Autonomous Racing Vehicle Sensor Architecture**|Manuel Mar et.al.|[2402.02603](http://arxiv.org/abs/2402.02603)|null|
 |**2024-02-04**|**Synthesizing Follow-Up Drive Data for Enhanced Road Safety in Intelligent Driving Function Systems**|Nico Schick et.al.|[2402.02598](http://arxiv.org/abs/2402.02598)|null|

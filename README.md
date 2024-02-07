@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.06
+## Updated on 2024.02.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2446,7 +2446,7 @@
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20240206>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240207>back to top</a>)</p>
 
 ## NeRF
 
@@ -2762,7 +2762,7 @@
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20240206>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240207>back to top</a>)</p>
 
 ## Industry
 
@@ -2891,13 +2891,13 @@
 |**2020-12-22**|**DAGMapper: Learning to Map by Discovering Lane Topology**|Namdar Homayounfar et.al.|[2012.12377](http://arxiv.org/abs/2012.12377)|null|
 |**2020-12-22**|**Hierarchical Recurrent Attention Networks for Structured Online Maps**|Namdar Homayounfar et.al.|[2012.12314](http://arxiv.org/abs/2012.12314)|null|
 
-<p align=right>(<a href=#Updated-on-20240206>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240207>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-05**|**Learning from Teaching Regularization: Generalizable Correlations Should be Easy to Imitate**|Can Jin et.al.|[2402.02769](http://arxiv.org/abs/2402.02769)|null|
+|**2024-02-05**|**Learning from Teaching Regularization: Generalizable Correlations Should be Easy to Imitate**|Can Jin et.al.|[2402.02769](http://arxiv.org/abs/2402.02769)|**[link](https://github.com/jincan333/lot)**|
 |**2024-02-05**|**Improving Robustness of LiDAR-Camera Fusion Model against Weather Corruption from Fusion Strategy Perspective**|Yihao Huang et.al.|[2402.02738](http://arxiv.org/abs/2402.02738)|null|
 |**2024-02-04**|**A Review of Full-Sized Autonomous Racing Vehicle Sensor Architecture**|Manuel Mar et.al.|[2402.02603](http://arxiv.org/abs/2402.02603)|null|
 |**2024-02-04**|**Synthesizing Follow-Up Drive Data for Enhanced Road Safety in Intelligent Driving Function Systems**|Nico Schick et.al.|[2402.02598](http://arxiv.org/abs/2402.02598)|null|
@@ -3361,7 +3361,7 @@
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20240206>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240207>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -4002,7 +4002,7 @@
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20240206>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240207>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -4225,7 +4225,7 @@
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20240206>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240207>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
