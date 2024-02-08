@@ -22,6 +22,29 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**ARCollab: Towards Multi-User Interactive Cardiovascular Surgical Planning in Mobile Augmented Reality**|Pratham Mehta et.al.|[2402.05075](http://arxiv.org/abs/2402.05075)|null|
+|**2024-02-07**|**LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation**|Jiaxiang Tang et.al.|[2402.05054](http://arxiv.org/abs/2402.05054)|null|
+|**2024-02-07**|**PhosNetVis: a web-based tool for kinase enrichment analysis and interactive 2D/3D network visualizations of phosphoproteomics data**|Osho Rawal et.al.|[2402.05016](http://arxiv.org/abs/2402.05016)|null|
+|**2024-02-07**|**Deep Reinforcement Learning with Dynamic Graphs for Adaptive Informative Path Planning**|Apoorva Vashisth et.al.|[2402.04894](http://arxiv.org/abs/2402.04894)|**[link](https://github.com/dmar-bonn/ipp-rl-3d)**|
+|**2024-02-07**|**Toward Accurate Camera-based 3D Object Detection via Cascade Depth Estimation and Calibration**|Chaoqun Wang et.al.|[2402.04883](http://arxiv.org/abs/2402.04883)|null|
+|**2024-02-07**|**E(3)-Equivariant Mesh Neural Networks**|Thuan Trang et.al.|[2402.04821](http://arxiv.org/abs/2402.04821)|**[link](https://github.com/hysonlab/equimesh)**|
+|**2024-02-07**|**Mesh-based Gaussian Splatting for Real-time Large-scale Deformation**|Lin Gao et.al.|[2402.04796](http://arxiv.org/abs/2402.04796)|null|
+|**2024-02-07**|**Comparing Observed with Simulated Solar Disk Center Scattering Polarization in the Sr I 4607 Å line**|Franziska Zeuner et.al.|[2402.04736](http://arxiv.org/abs/2402.04736)|null|
+|**2024-02-07**|**InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior**|Chenguo Lin et.al.|[2402.04717](http://arxiv.org/abs/2402.04717)|null|
+|**2024-02-07**|**Nonuniversal Equation of State of a Quasi-2D Bose Gas in Dimensional Crossover**|Xiaoran Ye et.al.|[2402.04703](http://arxiv.org/abs/2402.04703)|null|
+|**2024-02-07**|**V2VSSC: A 3D Semantic Scene Completion Benchmark for Perception with Vehicle to Vehicle Communication**|Yuanfang Zhang et.al.|[2402.04671](http://arxiv.org/abs/2402.04671)|null|
+|**2024-02-07**|**SPLEND1D, a reduced one-dimensional model to investigate the physics of plasma detachment**|O. Février et.al.|[2402.04656](http://arxiv.org/abs/2402.04656)|null|
+|**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|null|
+|**2024-02-07**|**Meet JEANIE: a Similarity Measure for 3D Skeleton Sequences via Temporal-Viewpoint Alignment**|Lei Wang et.al.|[2402.04599](http://arxiv.org/abs/2402.04599)|null|
+|**2024-02-07**|**LiDAR-Forest Dataset: LiDAR Point Cloud Simulation Dataset for Forestry Application**|Yawen Lu et.al.|[2402.04546](http://arxiv.org/abs/2402.04546)|null|
+|**2024-02-07**|**Nodal fermions in a strongly spin-orbit coupled frustrated pyrochlore superconductor**|Dongjin Oh et.al.|[2402.04509](http://arxiv.org/abs/2402.04509)|null|
+|**2024-02-07**|**A Review on Digital Pixel Sensors**|Md Rahatul Islam Udoy et.al.|[2402.04507](http://arxiv.org/abs/2402.04507)|null|
+|**2024-02-07**|**MIRT: a simultaneous reconstruction and affine motion compensation technique for four dimensional computed tomography (4DCT)**|Anh-Tuan Nguyen et.al.|[2402.04480](http://arxiv.org/abs/2402.04480)|null|
+|**2024-02-06**|**ARMAN: A Reconfigurable Monolithic 3D Accelerator Architecture for Convolutional Neural Networks**|Ali Sedaghatgoo et.al.|[2402.04431](http://arxiv.org/abs/2402.04431)|null|
+|**2024-02-06**|**SKOOTR: A SKating, Omni-Oriented, Tripedal Robot**|Adam Joshua Hung et.al.|[2402.04374](http://arxiv.org/abs/2402.04374)|null|
+|**2024-02-06**|**3D printer-controlled syringe pumps for dual, active, regulable and simultaneous dispensing of reagents. Manufacturing of immunochromatographic test strips**|Gabriel Siano et.al.|[2402.04354](http://arxiv.org/abs/2402.04354)|null|
+|**2024-02-06**|**Characterization of a Transmon Qubit in a 3D Cavity for Quantum Machine Learning and Photon Counting**|Alessandro D'Elia et.al.|[2402.04322](http://arxiv.org/abs/2402.04322)|null|
+|**2024-02-06**|**Breaking Data Silos: Cross-Domain Learning for Multi-Agent Perception from Independent Private Sources**|Jinlong Li et.al.|[2402.04273](http://arxiv.org/abs/2402.04273)|null|
 |**2024-02-06**|**Instance by Instance: An Iterative Framework for Multi-instance 3D Registration**|Xinyue Cao et.al.|[2402.04195](http://arxiv.org/abs/2402.04195)|null|
 |**2024-02-06**|**3D Volumetric Super-Resolution in Radiology Using 3D RRDB-GAN**|Juhyung Ha et.al.|[2402.04171](http://arxiv.org/abs/2402.04171)|null|
 |**2024-02-06**|**Human Emotions Analysis and Recognition Using EEG Signals in Response to 360 $^\circ$ Videos**|Haseeb ur Rahman Abbasi et.al.|[2402.04142](http://arxiv.org/abs/2402.04142)|null|
@@ -42,7 +65,7 @@
 |**2024-02-06**|**BEAM: Beta Distribution Ray Denoising for Multi-view 3D Object Detection**|Feng Liu et.al.|[2402.03634](http://arxiv.org/abs/2402.03634)|null|
 |**2024-02-06**|**The orbit of HD 142527 B is too compact to explain many of the disc features**|M. Nowak et.al.|[2402.03595](http://arxiv.org/abs/2402.03595)|null|
 |**2024-02-05**|**Decoder-Only Image Registration**|Xi Jia et.al.|[2402.03585](http://arxiv.org/abs/2402.03585)|null|
-|**2024-02-05**|**VLN-Video: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation**|Jialu Li et.al.|[2402.03561](http://arxiv.org/abs/2402.03561)|null|
+|**2024-02-07**|**VLN-Video: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation**|Jialu Li et.al.|[2402.03561](http://arxiv.org/abs/2402.03561)|null|
 |**2024-02-05**|**One-shot Neural Face Reenactment via Finding Directions in GAN's Latent Space**|Stella Bounareli et.al.|[2402.03553](http://arxiv.org/abs/2402.03553)|null|
 |**2024-02-05**|**nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model**|Haifan Gong et.al.|[2402.03526](http://arxiv.org/abs/2402.03526)|**[link](https://github.com/lhaof/nnmamba)**|
 |**2024-02-05**|**Curriculum reinforcement learning for quantum architecture search under hardware errors**|Yash J. Patel et.al.|[2402.03500](http://arxiv.org/abs/2402.03500)|null|
@@ -52,7 +75,7 @@
 |**2024-02-05**|**An end-to-end deep learning pipeline to derive blood input with partial volume corrections for automated parametric brain PET mapping**|Rugved Chavan et.al.|[2402.03414](http://arxiv.org/abs/2402.03414)|null|
 |**2024-02-05**|**Perceptual Video Quality Assessment: A Survey**|Xiongkuo Min et.al.|[2402.03413](http://arxiv.org/abs/2402.03413)|null|
 |**2024-02-05**|**AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion**|Mohamad Qadri et.al.|[2402.03309](http://arxiv.org/abs/2402.03309)|null|
-|**2024-02-05**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307](http://arxiv.org/abs/2402.03307)|null|
+|**2024-02-07**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307](http://arxiv.org/abs/2402.03307)|null|
 |**2024-02-05**|**A Lennard-Jones Layer for Distribution Normalization**|Mulun Na et.al.|[2402.03287](http://arxiv.org/abs/2402.03287)|null|
 |**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246](http://arxiv.org/abs/2402.03246)|null|
 |**2024-02-05**|**ActiveAnno3D -- An Active Learning Framework for Multi-Modal 3D Object Detection**|Ahmed Ghita et.al.|[2402.03235](http://arxiv.org/abs/2402.03235)|null|
@@ -61,7 +84,7 @@
 |**2024-02-05**|**Spinning $Q$ -ball Superradiance in 3+1D**|Guo-Dong Zhang et.al.|[2402.03193](http://arxiv.org/abs/2402.03193)|null|
 |**2024-02-05**|**GPU-Accelerated 3D Polygon Visibility Volumes for Synergistic Perception and Navigation**|Andrew Willis et.al.|[2402.03135](http://arxiv.org/abs/2402.03135)|null|
 |**2024-02-05**|**Towards multiqudit quantum processor based on a $^{171}$Yb$^{+}$ ion string: Realizing basic quantum algorithms**|Ilia V. Zalivako et.al.|[2402.03121](http://arxiv.org/abs/2402.03121)|null|
-|**2024-02-05**|**Taylor Videos for Action Recognition**|Lei Wang et.al.|[2402.03019](http://arxiv.org/abs/2402.03019)|null|
+|**2024-02-07**|**Taylor Videos for Action Recognition**|Lei Wang et.al.|[2402.03019](http://arxiv.org/abs/2402.03019)|null|
 |**2024-02-05**|**Tracing d-d transitions in FePS $_{3}$ on ultrafast time scales**|Jonah Elias Nitschke et.al.|[2402.03018](http://arxiv.org/abs/2402.03018)|null|
 |**2024-02-05**|**Retrieval-Augmented Score Distillation for Text-to-3D Generation**|Junyoung Seo et.al.|[2402.02972](http://arxiv.org/abs/2402.02972)|null|
 |**2024-02-05**|**Controlling flow patterns and topology in active emulsions**|Giuseppe Negro et.al.|[2402.02960](http://arxiv.org/abs/2402.02960)|null|
@@ -2481,6 +2504,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Mesh-based Gaussian Splatting for Real-time Large-scale Deformation**|Lin Gao et.al.|[2402.04796](http://arxiv.org/abs/2402.04796)|null|
+|**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|null|
+|**2024-02-07**|**GSN: Generalisable Segmentation in Neural Radiance Field**|Vinayak Gupta et.al.|[2402.04632](http://arxiv.org/abs/2402.04632)|null|
+|**2024-02-07**|**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**|Huiqing Zhang et.al.|[2402.04554](http://arxiv.org/abs/2402.04554)|null|
 |**2024-02-05**|**Denoising Diffusion via Image-Based Rendering**|Titas Anciukevicius et.al.|[2402.03445](http://arxiv.org/abs/2402.03445)|null|
 |**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906](http://arxiv.org/abs/2402.02906)|**[link](https://github.com/bronemos/view-fusion)**|
 |**2024-02-03**|**S-NeRF++: Autonomous Driving Simulation via Neural Reconstruction and Generation**|Yurui Chen et.al.|[2402.02112](http://arxiv.org/abs/2402.02112)|null|
@@ -2927,6 +2954,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Tuning the feedback controller gains is a simple way to improve autonomous driving performance**|Wenyu Liang et.al.|[2402.05064](http://arxiv.org/abs/2402.05064)|null|
+|**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|null|
+|**2024-02-07**|**LiDAR-Forest Dataset: LiDAR Point Cloud Simulation Dataset for Forestry Application**|Yawen Lu et.al.|[2402.04546](http://arxiv.org/abs/2402.04546)|null|
+|**2024-02-07**|**BioDrone: A Bionic Drone-based Single Object Tracking Benchmark for Robust Vision**|Xin Zhao et.al.|[2402.04519](http://arxiv.org/abs/2402.04519)|null|
+|**2024-02-06**|**Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments**|Haicheng Liao et.al.|[2402.04318](http://arxiv.org/abs/2402.04318)|null|
 |**2024-02-06**|**Informed Reinforcement Learning for Situation-Aware Traffic Rule Exceptions**|Daniel Bogdoll et.al.|[2402.04168](http://arxiv.org/abs/2402.04168)|null|
 |**2024-02-06**|**Controllable Diverse Sampling for Diffusion Based Motion Behavior Forecasting**|Yiming Xu et.al.|[2402.03981](http://arxiv.org/abs/2402.03981)|null|
 |**2024-02-06**|**OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving**|Guohang Yan et.al.|[2402.03830](http://arxiv.org/abs/2402.03830)|**[link](https://github.com/pjlab-adg/oasim)**|
@@ -3401,6 +3433,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Tuning the feedback controller gains is a simple way to improve autonomous driving performance**|Wenyu Liang et.al.|[2402.05064](http://arxiv.org/abs/2402.05064)|null|
+|**2024-02-07**|**Mesh-based Gaussian Splatting for Real-time Large-scale Deformation**|Lin Gao et.al.|[2402.04796](http://arxiv.org/abs/2402.04796)|null|
+|**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|null|
+|**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|null|
+|**2024-02-07**|**GSN: Generalisable Segmentation in Neural Radiance Field**|Vinayak Gupta et.al.|[2402.04632](http://arxiv.org/abs/2402.04632)|null|
+|**2024-02-07**|**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**|Huiqing Zhang et.al.|[2402.04554](http://arxiv.org/abs/2402.04554)|null|
+|**2024-02-07**|**LiDAR-Forest Dataset: LiDAR Point Cloud Simulation Dataset for Forestry Application**|Yawen Lu et.al.|[2402.04546](http://arxiv.org/abs/2402.04546)|null|
+|**2024-02-07**|**BioDrone: A Bionic Drone-based Single Object Tracking Benchmark for Robust Vision**|Xin Zhao et.al.|[2402.04519](http://arxiv.org/abs/2402.04519)|null|
+|**2024-02-06**|**Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments**|Haicheng Liao et.al.|[2402.04318](http://arxiv.org/abs/2402.04318)|null|
 |**2024-02-06**|**Informed Reinforcement Learning for Situation-Aware Traffic Rule Exceptions**|Daniel Bogdoll et.al.|[2402.04168](http://arxiv.org/abs/2402.04168)|null|
 |**2024-02-06**|**Controllable Diverse Sampling for Diffusion Based Motion Behavior Forecasting**|Yiming Xu et.al.|[2402.03981](http://arxiv.org/abs/2402.03981)|null|
 |**2024-02-06**|**OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving**|Guohang Yan et.al.|[2402.03830](http://arxiv.org/abs/2402.03830)|**[link](https://github.com/pjlab-adg/oasim)**|
@@ -4047,6 +4088,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments**|Haicheng Liao et.al.|[2402.04318](http://arxiv.org/abs/2402.04318)|null|
 |**2024-02-06**|**Controllable Diverse Sampling for Diffusion Based Motion Behavior Forecasting**|Yiming Xu et.al.|[2402.03981](http://arxiv.org/abs/2402.03981)|null|
 |**2024-02-06**|**Prediction Horizon Requirements for Automated Driving: Optimizing Safety, Comfort, and Efficiency**|Manuel Muñoz Sánchez et.al.|[2402.03893](http://arxiv.org/abs/2402.03893)|null|
 |**2024-02-05**|**Efficient and Interpretable Traffic Destination Prediction using Explainable Boosting Machines**|Yasin Yousif et.al.|[2402.03457](http://arxiv.org/abs/2402.03457)|null|
