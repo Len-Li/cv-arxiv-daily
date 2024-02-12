@@ -394,7 +394,7 @@ layout: default
 |**2024-01-23**|**Exploration and Improvement of Nerf-based 3D Scene Editing Techniques**|Shun Fang et.al.|[2401.12456](http://arxiv.org/abs/2401.12456)|null|
 |**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
 |**2024-01-23**|**Methods and strategies for improving the novel view synthesis quality of neural radiation field**|Shun Fang et.al.|[2401.12451](http://arxiv.org/abs/2401.12451)|null|
-|**2024-01-23**|**InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction**|Zhenxing Ming et.al.|[2401.12422](http://arxiv.org/abs/2401.12422)|null|
+|**2024-01-23**|**InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction**|Zhenxing Ming et.al.|[2401.12422](http://arxiv.org/abs/2401.12422)|**[link](https://github.com/danielming123/inversematrixvt3d)**|
 |**2024-01-22**|**A model comparison of 2D Cartesian and 2D axisymmetric models for positive streamer discharges in air**|Zhen Wang et.al.|[2401.12353](http://arxiv.org/abs/2401.12353)|null|
 |**2024-01-22**|**Knots of Darkness in Atmospheric Turbulence**|D. G. Pires et.al.|[2401.12306](http://arxiv.org/abs/2401.12306)|null|
 |**2024-01-22**|**Connecting the Dots: Leveraging Spatio-Temporal Graph Neural Networks for Accurate Bangla Sign Language Recognition**|Haz Sameen Shahgir et.al.|[2401.12210](http://arxiv.org/abs/2401.12210)|null|
@@ -1322,7 +1322,7 @@ layout: default
 |**2023-12-08**|**Cross-BERT for Point Cloud Pretraining**|Xin Li et.al.|[2312.04891](http://arxiv.org/abs/2312.04891)|null|
 |**2023-12-08**|**MVDD: Multi-View Depth Diffusion Models**|Zhen Wang et.al.|[2312.04875](http://arxiv.org/abs/2312.04875)|null|
 |**2023-12-08**|**Understanding oscillating features of the time-like nucleon electromagnetic form factors within the extending vector meson dominance model**|Bing Yan et.al.|[2312.04866](http://arxiv.org/abs/2312.04866)|null|
-|**2023-12-08**|**SiCP: Simultaneous Individual and Cooperative Perception for 3D Object Detection in Connected and Automated Vehicles**|Deyuan Qu et.al.|[2312.04822](http://arxiv.org/abs/2312.04822)|null|
+|**2023-12-08**|**SiCP: Simultaneous Individual and Cooperative Perception for 3D Object Detection in Connected and Automated Vehicles**|Deyuan Qu et.al.|[2312.04822](http://arxiv.org/abs/2312.04822)|**[link](https://github.com/darrenqu/sicp)**|
 |**2023-12-08**|**Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting**|Xiaofeng Yang et.al.|[2312.04820](http://arxiv.org/abs/2312.04820)|null|
 |**2023-12-08**|**RL Dreams: Policy Gradient Optimization for Score Distillation based 3D Generation**|Aradhya N. Mathur et.al.|[2312.04806](http://arxiv.org/abs/2312.04806)|null|
 |**2023-12-08**|**SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration**|Xu Cao et.al.|[2312.04803](http://arxiv.org/abs/2312.04803)|null|
@@ -1835,7 +1835,7 @@ layout: default
 |**2023-11-19**|**Global Strong Solutions to the incompressible Magnetohydrodynamic Equations with Density-Dependent Viscosity and Vacuum in 3D Exterior Domains**|Bing Yuan et.al.|[2311.12873](http://arxiv.org/abs/2311.12873)|null|
 |**2023-11-21**|**Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models**|David Stotko et.al.|[2311.12796](http://arxiv.org/abs/2311.12796)|**[link](https://github.com/davidstotko/physics-guided-shape-from-template)**|
 |**2023-11-21**|**The need for spatially resolved observations of PAHs in protoplanetary discs**|K. Lange et.al.|[2311.12794](http://arxiv.org/abs/2311.12794)|null|
-|**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|null|
+|**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|**[link](https://github.com/Anttwo/SuGaR)**|
 |**2023-11-21**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2311.12754](http://arxiv.org/abs/2311.12754)|**[link](https://github.com/huang-yh/selfocc)**|
 |**2023-11-21**|**Non-radial NLS equation with competing inhomogeneous nonlinearities: Ground states, Blow-up and scattering**|Tianxiang Gou et.al.|[2311.12693](http://arxiv.org/abs/2311.12693)|null|
 |**2023-11-21**|**Leveraging Unlabeled Data for 3D Medical Image Segmentation through Self-Supervised Contrastive Learning**|Sanaz Karimijafarbigloo et.al.|[2311.12617](http://arxiv.org/abs/2311.12617)|null|
@@ -1857,7 +1857,7 @@ layout: default
 |**2023-11-20**|**Uncertainty Estimation in Contrast-Enhanced MR Image Translation with Multi-Axis Fusion**|Ivo M. Baltruschat et.al.|[2311.12153](http://arxiv.org/abs/2311.12153)|null|
 |**2023-11-20**|**Mixing-Denoising Generalizable Occupancy Networks**|Amine Ouasfi et.al.|[2311.12125](http://arxiv.org/abs/2311.12125)|null|
 |**2023-11-20**|**A Comprehensive Theory for Neutron Star and Black Hole Kicks and Induced Spins**|Adam Burrows et.al.|[2311.12109](http://arxiv.org/abs/2311.12109)|null|
-|**2023-11-20**|**Pyramid Diffusion for Fine 3D Large Scene Generation**|Yuheng Liu et.al.|[2311.12085](http://arxiv.org/abs/2311.12085)|null|
+|**2023-11-20**|**Pyramid Diffusion for Fine 3D Large Scene Generation**|Yuheng Liu et.al.|[2311.12085](http://arxiv.org/abs/2311.12085)|**[link](https://github.com/Yuheng-SWJTU/pyramid-discrete-diffusion)**|
 |**2023-11-18**|**DatasetNeRF: Efficient 3D-aware Data Factory with Generative Radiance Fields**|Yu Chi et.al.|[2311.12063](http://arxiv.org/abs/2311.12063)|null|
 |**2023-11-18**|**PBWR: Parametric Building Wireframe Reconstruction from Aerial LiDAR Point Clouds**|Shangfeng Huang et.al.|[2311.12062](http://arxiv.org/abs/2311.12062)|null|
 |**2023-11-18**|**Towards Function Space Mesh Watermarking: Protecting the Copyright of Signed Distance Fields**|Xingyu Zhu et.al.|[2311.12059](http://arxiv.org/abs/2311.12059)|null|
@@ -3112,7 +3112,7 @@ layout: default
 |**2023-12-29**|**Fully Sparse 3D Panoptic Occupancy Prediction**|Haisong Liu et.al.|[2312.17118](http://arxiv.org/abs/2312.17118)|null|
 |**2023-12-28**|**DOEPatch: Dynamically Optimized Ensemble Model for Adversarial Patches Generation**|Wenyi Tan et.al.|[2312.16907](http://arxiv.org/abs/2312.16907)|null|
 |**2023-12-27**|**LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization**|Sai Shubodh Puligilla et.al.|[2312.16648](http://arxiv.org/abs/2312.16648)|null|
-|**2023-12-27**|**Autonomous Driving using Residual Sensor Fusion and Deep Reinforcement Learning**|Amin Jalal Aghdasian et.al.|[2312.16620](http://arxiv.org/abs/2312.16620)|null|
+|**2023-12-27**|**Autonomous Driving using Residual Sensor Fusion and Deep Reinforcement Learning**|Amin Jalal Aghdasian et.al.|[2312.16620](http://arxiv.org/abs/2312.16620)|**[link](https://github.com/CMVS-Lab/SAC-Residual-Fusion-CARLA)**|
 |**2023-12-26**|**LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving**|Tianyu Li et.al.|[2312.16108](http://arxiv.org/abs/2312.16108)|**[link](https://github.com/OpenDriveLab/LaneSegNet)**|
 |**2023-12-26**|**Adaptive Kalman-based hybrid car following strategy using TD3 and CACC**|Yuqi Zheng et.al.|[2312.15993](http://arxiv.org/abs/2312.15993)|null|
 |**2023-12-26**|**Attention-aware Social Graph Transformer Networks for Stochastic Trajectory Prediction**|Yao Liu et.al.|[2312.15881](http://arxiv.org/abs/2312.15881)|null|
@@ -3636,7 +3636,7 @@ layout: default
 |**2023-12-29**|**Fully Sparse 3D Panoptic Occupancy Prediction**|Haisong Liu et.al.|[2312.17118](http://arxiv.org/abs/2312.17118)|null|
 |**2023-12-28**|**DOEPatch: Dynamically Optimized Ensemble Model for Adversarial Patches Generation**|Wenyi Tan et.al.|[2312.16907](http://arxiv.org/abs/2312.16907)|null|
 |**2023-12-27**|**LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization**|Sai Shubodh Puligilla et.al.|[2312.16648](http://arxiv.org/abs/2312.16648)|null|
-|**2023-12-27**|**Autonomous Driving using Residual Sensor Fusion and Deep Reinforcement Learning**|Amin Jalal Aghdasian et.al.|[2312.16620](http://arxiv.org/abs/2312.16620)|null|
+|**2023-12-27**|**Autonomous Driving using Residual Sensor Fusion and Deep Reinforcement Learning**|Amin Jalal Aghdasian et.al.|[2312.16620](http://arxiv.org/abs/2312.16620)|**[link](https://github.com/CMVS-Lab/SAC-Residual-Fusion-CARLA)**|
 |**2023-12-29**|**DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision**|Lu Ling et.al.|[2312.16256](http://arxiv.org/abs/2312.16256)|null|
 |**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215](http://arxiv.org/abs/2312.16215)|null|
 |**2023-12-23**|**INFAMOUS-NeRF: ImproviNg FAce MOdeling Using Semantically-Aligned Hypernetworks with Neural Radiance Fields**|Andrew Hou et.al.|[2312.16197](http://arxiv.org/abs/2312.16197)|null|
@@ -4220,7 +4220,7 @@ layout: default
 |**2023-10-31**|**STDA-Meta: A Meta-Learning Framework for Few-Shot Traffic Prediction**|Maoxiang Sun et.al.|[2310.20223](http://arxiv.org/abs/2310.20223)|null|
 |**2023-11-26**|**GraphTransformers for Geospatial Forecasting of Hurricane Trajectories**|Pallavi Banerjee et.al.|[2310.20174](http://arxiv.org/abs/2310.20174)|null|
 |**2023-11-01**|**Decision-Making for Autonomous Vehicles with Interaction-Aware Behavioral Prediction and Social-Attention Neural Network**|Xiao Li et.al.|[2310.20148](http://arxiv.org/abs/2310.20148)|null|
-|**2023-10-30**|**Conditional Unscented Autoencoders for Trajectory Prediction**|Faris Janjoš et.al.|[2310.19944](http://arxiv.org/abs/2310.19944)|null|
+|**2023-10-30**|**Conditional Unscented Autoencoders for Trajectory Prediction**|Faris Janjoš et.al.|[2310.19944](http://arxiv.org/abs/2310.19944)|**[link](https://github.com/boschresearch/cuae-prediction)**|
 |**2023-10-30**|**Large Trajectory Models are Scalable Motion Predictors and Planners**|Qiao Sun et.al.|[2310.19620](http://arxiv.org/abs/2310.19620)|**[link](https://github.com/tsinghua-mars-lab/statetransformer)**|
 |**2023-10-28**|**Triplet Attention Transformer for Spatiotemporal Predictive Learning**|Xuesong Nie et.al.|[2310.18698](http://arxiv.org/abs/2310.18698)|null|
 |**2023-11-22**|**Interactive Joint Planning for Autonomous Vehicles**|Yuxiao Chen et.al.|[2310.18301](http://arxiv.org/abs/2310.18301)|null|
