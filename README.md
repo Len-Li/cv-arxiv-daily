@@ -22,6 +22,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|null|
+|**2024-02-14**|**Pruning Sparse Tensor Neural Networks Enables Deep Learning for 3D Ultrasound Localization Microscopy**|Brice Rauby et.al.|[2402.09359](http://arxiv.org/abs/2402.09359)|null|
+|**2024-02-14**|**Investigation of Ga interstitial and vacancy diffusion in $β$-Ga$_2$O$_3$ via split defects: a direct approach via master diffusion equations**|Channyung Lee et.al.|[2402.09354](http://arxiv.org/abs/2402.09354)|null|
+|**2024-02-14**|**Registration of Longitudinal Spine CTs for Monitoring Lesion Growth**|Malika Sanhinova et.al.|[2402.09341](http://arxiv.org/abs/2402.09341)|null|
+|**2024-02-14**|**3D-based RNA function prediction tools in rnaglib**|Carlos Oliver et.al.|[2402.09330](http://arxiv.org/abs/2402.09330)|null|
+|**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325](http://arxiv.org/abs/2402.09325)|**[link](https://github.com/biter0088/pc-nerf)**|
+|**2024-02-14**|**TDViT: Temporal Dilated Video Transformer for Dense Video Tasks**|Guanxiong Sun et.al.|[2402.09257](http://arxiv.org/abs/2402.09257)|**[link](https://github.com/guanxiongsun/vfe.pytorch)**|
+|**2024-02-14**|**Overview of the L3DAS23 Challenge on Audio-Visual Extended Reality**|Christian Marinoni et.al.|[2402.09245](http://arxiv.org/abs/2402.09245)|null|
+|**2024-02-14**|**A general mechanism for enhancer-insulator pairing reveals heterogeneous dynamics in long-distant 3D gene regulation**|Lucas Hedström et.al.|[2402.09209](http://arxiv.org/abs/2402.09209)|null|
+|**2024-02-14**|**Non-Volatile Analog Control and Reconfiguration of a Vortex Nano-Oscillator Frequency**|Maksim Stebliy et.al.|[2402.09114](http://arxiv.org/abs/2402.09114)|null|
+|**2024-02-14**|**L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects**|Yutaro Yamada et.al.|[2402.09052](http://arxiv.org/abs/2402.09052)|null|
+|**2024-02-14**|**Multi-modality transrectal ultrasound vudei classification for identification of clinically significant prostate cancer**|Hong Wu et.al.|[2402.08987](http://arxiv.org/abs/2402.08987)|**[link](https://github.com/2313595986/prostatetrus)**|
+|**2024-02-14**|**HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding**|Zhao Li et.al.|[2402.08961](http://arxiv.org/abs/2402.08961)|null|
+|**2024-02-14**|**Depth-aware Volume Attention for Texture-less Stereo Matching**|Tong Zhao et.al.|[2402.08931](http://arxiv.org/abs/2402.08931)|**[link](https://github.com/ztsrxh/DVANet)**|
+|**2024-02-14**|**Sharp decay estimates and asymptotic stability for incompressible MHD equations without viscosity or magnetic diffusion**|Yaowei Xie et.al.|[2402.08913](http://arxiv.org/abs/2402.08913)|null|
+|**2024-02-14**|**Weakly Supervised Segmentation of Vertebral Bodies with Iterative Slice-propagation**|Shiqi Peng et.al.|[2402.08892](http://arxiv.org/abs/2402.08892)|null|
+|**2024-02-14**|**DUDF: Differentiable Unsigned Distance Fields with Hyperbolic Scaling**|Miguel Fainstein et.al.|[2402.08876](http://arxiv.org/abs/2402.08876)|null|
+|**2024-02-13**|**The Euler non-mixing made easy**|Boris Khesin et.al.|[2402.08836](http://arxiv.org/abs/2402.08836)|null|
+|**2024-02-13**|**Hydrodynamic shielding in radiative multicloud outflows within multiphase galactic winds**|Andrés S. Villares et.al.|[2402.08745](http://arxiv.org/abs/2402.08745)|null|
+|**2024-02-12**|**Weakly Supervised Detection of Pheochromocytomas and Paragangliomas in CT**|David C. Oluigboa et.al.|[2402.08697](http://arxiv.org/abs/2402.08697)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
 |**2024-02-13**|**Learning Continuous 3D Words for Text-to-Image Generation**|Ta-Ying Cheng et.al.|[2402.08654](http://arxiv.org/abs/2402.08654)|null|
 |**2024-02-13**|**Finite density QCD equation of state: critical point and lattice-based $T'$ -expansion**|Micheal Kahangirwe et.al.|[2402.08636](http://arxiv.org/abs/2402.08636)|null|
@@ -2611,6 +2631,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325](http://arxiv.org/abs/2402.09325)|**[link](https://github.com/biter0088/pc-nerf)**|
+|**2024-02-13**|**Preconditioners for the Stochastic Training of Implicit Neural Representations**|Shin-Fang Chng et.al.|[2402.08784](http://arxiv.org/abs/2402.08784)|null|
 |**2024-02-13**|**NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs**|Michael Fischer et.al.|[2402.08622](http://arxiv.org/abs/2402.08622)|null|
 |**2024-02-13**|**H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields**|Minyoung Park et.al.|[2402.08138](http://arxiv.org/abs/2402.08138)|null|
 |**2024-02-12**|**DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation**|Chenchang Li et.al.|[2402.07648](http://arxiv.org/abs/2402.07648)|null|
@@ -3070,6 +3092,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325](http://arxiv.org/abs/2402.09325)|**[link](https://github.com/biter0088/pc-nerf)**|
+|**2024-02-14**|**Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning**|Michael Lanier et.al.|[2402.09290](http://arxiv.org/abs/2402.09290)|null|
+|**2024-02-14**|**Design and Realization of a Benchmarking Testbed for Evaluating Autonomous Platooning Algorithms**|Michael Shaham et.al.|[2402.09233](http://arxiv.org/abs/2402.09233)|null|
 |**2024-02-13**|**Vehicle Behavior Prediction by Episodic-Memory Implanted NDT**|Peining Shen et.al.|[2402.08423](http://arxiv.org/abs/2402.08423)|**[link](https://github.com/jwfangit/emem-ndt)**|
 |**2024-02-13**|**MetaTra: Meta-Learning for Generalized Trajectory Prediction in Unseen Domain**|Xiaohe Li et.al.|[2402.08221](http://arxiv.org/abs/2402.08221)|null|
 |**2024-02-13**|**Inherent Diverse Redundant Safety Mechanisms for AI-based Software Elements in Automotive Applications**|Mandar Pitale et.al.|[2402.08208](http://arxiv.org/abs/2402.08208)|null|
@@ -3564,6 +3589,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325](http://arxiv.org/abs/2402.09325)|**[link](https://github.com/biter0088/pc-nerf)**|
+|**2024-02-14**|**Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning**|Michael Lanier et.al.|[2402.09290](http://arxiv.org/abs/2402.09290)|null|
+|**2024-02-14**|**Design and Realization of a Benchmarking Testbed for Evaluating Autonomous Platooning Algorithms**|Michael Shaham et.al.|[2402.09233](http://arxiv.org/abs/2402.09233)|null|
+|**2024-02-13**|**Preconditioners for the Stochastic Training of Implicit Neural Representations**|Shin-Fang Chng et.al.|[2402.08784](http://arxiv.org/abs/2402.08784)|null|
 |**2024-02-13**|**NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs**|Michael Fischer et.al.|[2402.08622](http://arxiv.org/abs/2402.08622)|null|
 |**2024-02-13**|**Vehicle Behavior Prediction by Episodic-Memory Implanted NDT**|Peining Shen et.al.|[2402.08423](http://arxiv.org/abs/2402.08423)|**[link](https://github.com/jwfangit/emem-ndt)**|
 |**2024-02-13**|**MetaTra: Meta-Learning for Generalized Trajectory Prediction in Unseen Domain**|Xiaohe Li et.al.|[2402.08221](http://arxiv.org/abs/2402.08221)|null|
@@ -4241,6 +4270,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**AMEND: A Mixture of Experts Framework for Long-tailed Trajectory Prediction**|Ray Coden Mercurius et.al.|[2402.08698](http://arxiv.org/abs/2402.08698)|null|
 |**2024-02-13**|**MetaTra: Meta-Learning for Generalized Trajectory Prediction in Unseen Domain**|Xiaohe Li et.al.|[2402.08221](http://arxiv.org/abs/2402.08221)|null|
 |**2024-02-12**|**Interaction-Based Driving Scenario Classification and Labeling**|Cheng Chang et.al.|[2402.07720](http://arxiv.org/abs/2402.07720)|null|
 |**2024-02-09**|**CityFlowER: An Efficient and Realistic Traffic Simulator with Embedded Machine Learning Models**|Longchao Da et.al.|[2402.06127](http://arxiv.org/abs/2402.06127)|null|
