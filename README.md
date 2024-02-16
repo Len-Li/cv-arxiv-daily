@@ -22,6 +22,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**|Maria Bånkestad et.al.|[2402.10206](http://arxiv.org/abs/2402.10206)|null|
+|**2024-02-15**|**Mirror Chern Bands and Weyl Nodal Loops in Altermagnets**|Daniil S. Antonenko et.al.|[2402.10201](http://arxiv.org/abs/2402.10201)|null|
+|**2024-02-15**|**A coupled VOF/embedded boundary method to model two-phase flows on arbitrary solid surfaces**|Mathilde Tavares et.al.|[2402.10185](http://arxiv.org/abs/2402.10185)|null|
+|**2024-02-15**|**Is Continual Learning Ready for Real-world Challenges?**|Theodora Kontogianni et.al.|[2402.10130](http://arxiv.org/abs/2402.10130)|null|
+|**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
+|**2024-02-15**|**Uncovering the Three-Dimensional Structure of Upconverting Core-Shell Nanoparticles with Multislice Electron Ptychography**|Stephanie M. Ribet et.al.|[2402.10084](http://arxiv.org/abs/2402.10084)|null|
+|**2024-02-15**|**Tomography of orbital vortex lines in a topological semimetal**|T. Figgemeier et.al.|[2402.10031](http://arxiv.org/abs/2402.10031)|null|
+|**2024-02-15**|**Three-dimensional active nematic turbulence: chirality, flow alignment and elastic anisotropy**|Nika Kralj et.al.|[2402.10020](http://arxiv.org/abs/2402.10020)|null|
+|**2024-02-15**|**MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding**|Hai-Tao Yu et.al.|[2402.10002](http://arxiv.org/abs/2402.10002)|**[link](https://github.com/haydenyu/mm-point)**|
+|**2024-02-15**|**One-shot omnidirectional pressure integration through matrix inversion**|Fernando Zigunov et.al.|[2402.09988](http://arxiv.org/abs/2402.09988)|null|
+|**2024-02-14**|**Loopy-SLAM: Dense Neural SLAM with Loop Closures**|Lorenzo Liso et.al.|[2402.09944](http://arxiv.org/abs/2402.09944)|null|
+|**2024-02-15**|**Effective yields as tracers of feedback effects on metallicity scaling relations in the EAGLE cosmological simulations**|M. C. Zerbo et.al.|[2402.09904](http://arxiv.org/abs/2402.09904)|null|
+|**2024-02-15**|**Lester: rotoscope animation through video object segmentation and tracking**|Ruben Tous et.al.|[2402.09883](http://arxiv.org/abs/2402.09883)|**[link](https://github.com/rtous/lester)**|
+|**2024-02-15**|**3D Cooperative Localization in UAV Systems: CRLB Analysis and Security Solutions**|Zexin Fang et.al.|[2402.09810](http://arxiv.org/abs/2402.09810)|null|
+|**2024-02-15**|**Reg-NF: Efficient Registration of Implicit Surfaces within Neural Fields**|Stephen Hausler et.al.|[2402.09722](http://arxiv.org/abs/2402.09722)|null|
+|**2024-02-15**|**Asymptotic stability for $n$ -dimensional isentropic compressible MHD equations without magnetic diffusion**|Quansen Jiu et.al.|[2402.09661](http://arxiv.org/abs/2402.09661)|null|
+|**2024-02-14**|**DeepATLAS: One-Shot Localization for Biomedical Data**|Peter D. Chang et.al.|[2402.09587](http://arxiv.org/abs/2402.09587)|null|
+|**2024-02-14**|**Automated Plaque Detection and Agatston Score Estimation on Non-Contrast CT Scans: A Multicenter Study**|Andrew M. Nguyen et.al.|[2402.09569](http://arxiv.org/abs/2402.09569)|null|
+|**2024-02-14**|**A 3D Memristor Architecture for In-Memory Computing Demonstrated with SHA3**|Muayad J. Aljafar et.al.|[2402.09545](http://arxiv.org/abs/2402.09545)|null|
+|**2024-02-14**|**Superconducting Quantum Memory with a Suspended Coaxial Resonator**|Lev Krayzman et.al.|[2402.09504](http://arxiv.org/abs/2402.09504)|null|
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|null|
 |**2024-02-14**|**Pruning Sparse Tensor Neural Networks Enables Deep Learning for 3D Ultrasound Localization Microscopy**|Brice Rauby et.al.|[2402.09359](http://arxiv.org/abs/2402.09359)|null|
 |**2024-02-14**|**Investigation of Ga interstitial and vacancy diffusion in $β$-Ga$_2$O$_3$ via split defects: a direct approach via master diffusion equations**|Channyung Lee et.al.|[2402.09354](http://arxiv.org/abs/2402.09354)|null|
@@ -36,7 +56,7 @@
 |**2024-02-14**|**Multi-modality transrectal ultrasound vudei classification for identification of clinically significant prostate cancer**|Hong Wu et.al.|[2402.08987](http://arxiv.org/abs/2402.08987)|**[link](https://github.com/2313595986/prostatetrus)**|
 |**2024-02-14**|**HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding**|Zhao Li et.al.|[2402.08961](http://arxiv.org/abs/2402.08961)|null|
 |**2024-02-14**|**Depth-aware Volume Attention for Texture-less Stereo Matching**|Tong Zhao et.al.|[2402.08931](http://arxiv.org/abs/2402.08931)|**[link](https://github.com/ztsrxh/DVANet)**|
-|**2024-02-14**|**Sharp decay estimates and asymptotic stability for incompressible MHD equations without viscosity or magnetic diffusion**|Yaowei Xie et.al.|[2402.08913](http://arxiv.org/abs/2402.08913)|null|
+|**2024-02-15**|**Sharp decay estimates and asymptotic stability for incompressible MHD equations without viscosity or magnetic diffusion**|Yaowei Xie et.al.|[2402.08913](http://arxiv.org/abs/2402.08913)|null|
 |**2024-02-14**|**Weakly Supervised Segmentation of Vertebral Bodies with Iterative Slice-propagation**|Shiqi Peng et.al.|[2402.08892](http://arxiv.org/abs/2402.08892)|null|
 |**2024-02-14**|**DUDF: Differentiable Unsigned Distance Fields with Hyperbolic Scaling**|Miguel Fainstein et.al.|[2402.08876](http://arxiv.org/abs/2402.08876)|null|
 |**2024-02-13**|**The Euler non-mixing made easy**|Boris Khesin et.al.|[2402.08836](http://arxiv.org/abs/2402.08836)|null|
@@ -80,7 +100,7 @@
 |**2024-02-12**|**Remarks on variable Lebesgue spaces and fractional Navier-Stokes equations**|Gastón Vergara-Hermosilla et.al.|[2402.07508](http://arxiv.org/abs/2402.07508)|null|
 |**2024-02-12**|**Make it more specific: A novel uncertainty based airway segmentation application on 3D U-Net and its variants**|Shiyi Wang et.al.|[2402.07403](http://arxiv.org/abs/2402.07403)|null|
 |**2024-02-12**|**Unsupervised Discovery of Object-Centric Neural Fields**|Rundong Luo et.al.|[2402.07376](http://arxiv.org/abs/2402.07376)|null|
-|**2024-02-11**|**BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**|Leandro A. Passos et.al.|[2402.07310](http://arxiv.org/abs/2402.07310)|null|
+|**2024-02-11**|**BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**|Leandro A. Passos et.al.|[2402.07310](http://arxiv.org/abs/2402.07310)|**[link](https://github.com/leandropassosjr/bionerf)**|
 |**2024-02-11**|**LISR: Learning Linear 3D Implicit Surface Representation Using Compactly Supported Radial Basis Functions**|Atharva Pandey et.al.|[2402.07301](http://arxiv.org/abs/2402.07301)|null|
 |**2024-02-11**|**Virtual reassembling of 3D fragments for the data-driven analysis of fracture mechanisms in composite materials**|Thomas Wilhelm et.al.|[2402.07289](http://arxiv.org/abs/2402.07289)|null|
 |**2024-02-11**|**PIVOT-Net: Heterogeneous Point-Voxel-Tree-based Framework for Point Cloud Compression**|Jiahao Pang et.al.|[2402.07243](http://arxiv.org/abs/2402.07243)|null|
@@ -2636,7 +2656,7 @@
 |**2024-02-13**|**NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs**|Michael Fischer et.al.|[2402.08622](http://arxiv.org/abs/2402.08622)|null|
 |**2024-02-13**|**H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields**|Minyoung Park et.al.|[2402.08138](http://arxiv.org/abs/2402.08138)|null|
 |**2024-02-12**|**DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation**|Chenchang Li et.al.|[2402.07648](http://arxiv.org/abs/2402.07648)|null|
-|**2024-02-11**|**BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**|Leandro A. Passos et.al.|[2402.07310](http://arxiv.org/abs/2402.07310)|null|
+|**2024-02-11**|**BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**|Leandro A. Passos et.al.|[2402.07310](http://arxiv.org/abs/2402.07310)|**[link](https://github.com/leandropassosjr/bionerf)**|
 |**2024-02-11**|**3D Gaussian as a New Vision Era: A Survey**|Ben Fei et.al.|[2402.07181](http://arxiv.org/abs/2402.07181)|null|
 |**2024-02-09**|**ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**|Georgii Stanishevskii et.al.|[2402.06390](http://arxiv.org/abs/2402.06390)|**[link](https://github.com/quereste/implicit-deepfake)**|
 |**2024-02-09**|**SIR: Multi-view Inverse Rendering with Decomposable Shadow for Indoor Scenes**|Xiaokang Wei et.al.|[2402.06136](http://arxiv.org/abs/2402.06136)|null|
@@ -2652,7 +2672,7 @@
 |**2024-02-02**|**Robust Inverse Graphics via Probabilistic Inference**|Tuan Anh Le et.al.|[2402.01915](http://arxiv.org/abs/2402.01915)|null|
 |**2024-02-02**|**HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**|Paweł Batorski et.al.|[2402.01524](http://arxiv.org/abs/2402.01524)|**[link](https://github.com/gmum/hyperplanes)**|
 |**2024-02-02**|**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**|Mahboubeh Asadi et.al.|[2402.01485](http://arxiv.org/abs/2402.01485)|null|
-|**2024-02-06**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459](http://arxiv.org/abs/2402.01459)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
+|**2024-02-15**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459](http://arxiv.org/abs/2402.01459)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
 |**2024-02-06**|**Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance**|Yaokun Li et.al.|[2402.01217](http://arxiv.org/abs/2402.01217)|null|
 |**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864](http://arxiv.org/abs/2402.00864)|**[link](https://github.com/dongjiahua/vica-nerf)**|
 |**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075](http://arxiv.org/abs/2401.18075)|null|
@@ -3092,6 +3112,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Explainable AI for Safe and Trustworthy Autonomous Driving: A Systematic Review**|Anton Kuznietsov et.al.|[2402.10086](http://arxiv.org/abs/2402.10086)|null|
+|**2024-01-29**|**Review of the Learning-based Camera and Lidar Simulation Methods for Autonomous Driving Systems**|Hamed Haghighi et.al.|[2402.10079](http://arxiv.org/abs/2402.10079)|null|
+|**2024-02-15**|**Exploiting Alpha Transparency In Language And Vision-Based AI Systems**|David Noever et.al.|[2402.09671](http://arxiv.org/abs/2402.09671)|null|
+|**2024-02-14**|**How Secure Are Large Language Models (LLMs) for Navigation in Urban Environments?**|Congcong Wen et.al.|[2402.09546](http://arxiv.org/abs/2402.09546)|null|
 |**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325](http://arxiv.org/abs/2402.09325)|**[link](https://github.com/biter0088/pc-nerf)**|
 |**2024-02-14**|**Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning**|Michael Lanier et.al.|[2402.09290](http://arxiv.org/abs/2402.09290)|null|
 |**2024-02-14**|**Design and Realization of a Benchmarking Testbed for Evaluating Autonomous Platooning Algorithms**|Michael Shaham et.al.|[2402.09233](http://arxiv.org/abs/2402.09233)|null|
@@ -3589,6 +3613,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Explainable AI for Safe and Trustworthy Autonomous Driving: A Systematic Review**|Anton Kuznietsov et.al.|[2402.10086](http://arxiv.org/abs/2402.10086)|null|
+|**2024-01-29**|**Review of the Learning-based Camera and Lidar Simulation Methods for Autonomous Driving Systems**|Hamed Haghighi et.al.|[2402.10079](http://arxiv.org/abs/2402.10079)|null|
+|**2024-02-15**|**Exploiting Alpha Transparency In Language And Vision-Based AI Systems**|David Noever et.al.|[2402.09671](http://arxiv.org/abs/2402.09671)|null|
+|**2024-02-14**|**How Secure Are Large Language Models (LLMs) for Navigation in Urban Environments?**|Congcong Wen et.al.|[2402.09546](http://arxiv.org/abs/2402.09546)|null|
 |**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325](http://arxiv.org/abs/2402.09325)|**[link](https://github.com/biter0088/pc-nerf)**|
 |**2024-02-14**|**Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning**|Michael Lanier et.al.|[2402.09290](http://arxiv.org/abs/2402.09290)|null|
 |**2024-02-14**|**Design and Realization of a Benchmarking Testbed for Evaluating Autonomous Platooning Algorithms**|Michael Shaham et.al.|[2402.09233](http://arxiv.org/abs/2402.09233)|null|
@@ -3603,7 +3631,7 @@
 |**2024-02-12**|**DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation**|Chenchang Li et.al.|[2402.07648](http://arxiv.org/abs/2402.07648)|null|
 |**2024-02-12**|**DART: A Compact Platform For Autonomous Driving Research**|Lorenzo Lyons et.al.|[2402.07602](http://arxiv.org/abs/2402.07602)|null|
 |**2024-02-11**|**Towards Explainable, Safe Autonomous Driving with Language Embeddings for Novelty Identification and Active Learning: Framework and Experimental Analysis with Real-World Data Sets**|Ross Greer et.al.|[2402.07320](http://arxiv.org/abs/2402.07320)|null|
-|**2024-02-11**|**BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**|Leandro A. Passos et.al.|[2402.07310](http://arxiv.org/abs/2402.07310)|null|
+|**2024-02-11**|**BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**|Leandro A. Passos et.al.|[2402.07310](http://arxiv.org/abs/2402.07310)|**[link](https://github.com/leandropassosjr/bionerf)**|
 |**2024-02-11**|**3D Gaussian as a New Vision Era: A Survey**|Ben Fei et.al.|[2402.07181](http://arxiv.org/abs/2402.07181)|null|
 |**2024-02-09**|**Neural Rendering based Urban Scene Reconstruction for Autonomous Driving**|Shihao Shen et.al.|[2402.06826](http://arxiv.org/abs/2402.06826)|null|
 |**2024-02-09**|**Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following**|Brian Yang et.al.|[2402.06559](http://arxiv.org/abs/2402.06559)|null|
@@ -3647,7 +3675,7 @@
 |**2024-02-02**|**Overcoming Blind Spots: Occlusion Considerations for Improved Autonomous Driving Safety**|Korbinian Moller et.al.|[2402.01507](http://arxiv.org/abs/2402.01507)|**[link](https://github.com/tum-avs/frenetix-occlusion)**|
 |**2024-02-02**|**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**|Mahboubeh Asadi et.al.|[2402.01485](http://arxiv.org/abs/2402.01485)|null|
 |**2024-02-02**|**A Reinforcement Learning-Boosted Motion Planning Framework: Comprehensive Generalization Performance in Autonomous Driving**|Rainer Trauth et.al.|[2402.01465](http://arxiv.org/abs/2402.01465)|**[link](https://github.com/tum-avs/frenetix-rl)**|
-|**2024-02-06**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459](http://arxiv.org/abs/2402.01459)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
+|**2024-02-15**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459](http://arxiv.org/abs/2402.01459)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
 |**2024-02-02**|**Frenetix Motion Planner: High-Performance and Modular Trajectory Planning Algorithm for Complex Autonomous Driving Scenarios**|Korbinian Moller et.al.|[2402.01443](http://arxiv.org/abs/2402.01443)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-08**|**A survey on robustness in trajectory prediction for autonomous vehicles**|Jeroen Hagenus et.al.|[2402.01397](http://arxiv.org/abs/2402.01397)|null|
 |**2024-02-02**|**LimSim++: A Closed-Loop Platform for Deploying Multimodal LLMs in Autonomous Driving**|Daocheng Fu et.al.|[2402.01246](http://arxiv.org/abs/2402.01246)|null|
@@ -4354,6 +4382,7 @@
 |**2024-02-05**|**MGTR: Multi-Granular Transformer for Motion Prediction with LiDAR**|Yiqian Gan et.al.|[2312.02409](http://arxiv.org/abs/2312.02409)|null|
 |**2023-12-03**|**Deeper into Self-Supervised Monocular Indoor Depth Estimation**|Chao Fan et.al.|[2312.01283](http://arxiv.org/abs/2312.01283)|**[link](https://github.com/fcntes/indoordepth)**|
 |**2023-12-02**|**Vehicle path and traffic flow optimization via lane changing of automated or semi-automated vehicles on motorways**|Antonios Georgantas et.al.|[2312.01193](http://arxiv.org/abs/2312.01193)|null|
+|**2024-02-14**|**Extrapolatable Transformer Pre-training for Ultra Long Time-Series Forecasting**|Ziyang Song et.al.|[2312.00817](http://arxiv.org/abs/2312.00817)|null|
 |**2023-11-30**|**Heterogeneous Graph-based Trajectory Prediction using Local Map Context and Social Interactions**|Daniel Grimm et.al.|[2311.18553](http://arxiv.org/abs/2311.18553)|null|
 |**2023-11-30**|**Categorical Traffic Transformer: Interpretable and Diverse Behavior Prediction with Tokenized Latent**|Yuxiao Chen et.al.|[2311.18307](http://arxiv.org/abs/2311.18307)|null|
 |**2023-11-30**|**S-T CRF: Spatial-Temporal Conditional Random Field for Human Trajectory Prediction**|Pengqian Han et.al.|[2311.18198](http://arxiv.org/abs/2311.18198)|null|
