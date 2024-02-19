@@ -223,7 +223,7 @@ layout: default
 |**2024-02-05**|**Spinning $Q$ -ball Superradiance in 3+1D**|Guo-Dong Zhang et.al.|[2402.03193](http://arxiv.org/abs/2402.03193)|null|
 |**2024-02-05**|**GPU-Accelerated 3D Polygon Visibility Volumes for Synergistic Perception and Navigation**|Andrew Willis et.al.|[2402.03135](http://arxiv.org/abs/2402.03135)|null|
 |**2024-02-05**|**Towards multiqudit quantum processor based on a $^{171}$Yb$^{+}$ ion string: Realizing basic quantum algorithms**|Ilia V. Zalivako et.al.|[2402.03121](http://arxiv.org/abs/2402.03121)|null|
-|**2024-02-08**|**Taylor Videos for Action Recognition**|Lei Wang et.al.|[2402.03019](http://arxiv.org/abs/2402.03019)|null|
+|**2024-02-08**|**Taylor Videos for Action Recognition**|Lei Wang et.al.|[2402.03019](http://arxiv.org/abs/2402.03019)|**[link](https://github.com/leiwangr/video-ar)**|
 |**2024-02-05**|**Tracing d-d transitions in FePS $_{3}$ on ultrafast time scales**|Jonah Elias Nitschke et.al.|[2402.03018](http://arxiv.org/abs/2402.03018)|null|
 |**2024-02-05**|**Retrieval-Augmented Score Distillation for Text-to-3D Generation**|Junyoung Seo et.al.|[2402.02972](http://arxiv.org/abs/2402.02972)|null|
 |**2024-02-05**|**Controlling flow patterns and topology in active emulsions**|Giuseppe Negro et.al.|[2402.02960](http://arxiv.org/abs/2402.02960)|null|
@@ -548,7 +548,7 @@ layout: default
 |**2024-01-22**|**Numerical Solutions for Stochastic Continuous-time Algebraic Riccati Equations**|Tsung-Ming Huang et.al.|[2401.11774](http://arxiv.org/abs/2401.11774)|null|
 |**2024-01-22**|**MsSVT++: Mixed-scale Sparse Voxel Transformer with Center Voting for 3D Object Detection**|Jianan Li et.al.|[2401.11718](http://arxiv.org/abs/2401.11718)|null|
 |**2024-01-22**|**Integrating 3D Slicer with a Dynamic Simulator for Situational Aware Robotic Interventions**|Manish Sahu et.al.|[2401.11715](http://arxiv.org/abs/2401.11715)|null|
-|**2024-01-22**|**MVSFormer++: Revealing the Devil in Transformer's Details for Multi-View Stereo**|Chenjie Cao et.al.|[2401.11673](http://arxiv.org/abs/2401.11673)|null|
+|**2024-01-22**|**MVSFormer++: Revealing the Devil in Transformer's Details for Multi-View Stereo**|Chenjie Cao et.al.|[2401.11673](http://arxiv.org/abs/2401.11673)|**[link](https://github.com/maybelx/mvsformerplusplus)**|
 |**2024-01-22**|**PointGL: A Simple Global-Local Framework for Efficient Point Cloud Analysis**|Jianan Li et.al.|[2401.11650](http://arxiv.org/abs/2401.11650)|**[link](https://github.com/roywangj/pointgl)**|
 |**2024-01-21**|**A Survey on African Computer Vision Datasets, Topics and Researchers**|Abdul-Hakeem Omotayo et.al.|[2401.11617](http://arxiv.org/abs/2401.11617)|null|
 |**2024-01-21**|**Multi-View Neural 3D Reconstruction of Micro-/Nanostructures with Atomic Force Microscopy**|Shuo Chen et.al.|[2401.11541](http://arxiv.org/abs/2401.11541)|**[link](https://github.com/zju3dv/mvn-afm)**|
@@ -1600,7 +1600,7 @@ layout: default
 |**2023-12-04**|**GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians**|Liangxiao Hu et.al.|[2312.02134](http://arxiv.org/abs/2312.02134)|null|
 |**2023-12-04**|**SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM**|Nikhil Keetha et.al.|[2312.02126](http://arxiv.org/abs/2312.02126)|null|
 |**2023-12-04**|**A Framework for Self-Intersecting Surfaces (SOS): Symmetric Optimisation for Stability**|Christian Amend et.al.|[2312.02113](http://arxiv.org/abs/2312.02113)|null|
-|**2023-12-04**|**GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians**|Shenhan Qian et.al.|[2312.02069](http://arxiv.org/abs/2312.02069)|null|
+|**2023-12-04**|**GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians**|Shenhan Qian et.al.|[2312.02069](http://arxiv.org/abs/2312.02069)|**[link](https://github.com/ShenhanQian/GaussianAvatars)**|
 |**2023-12-04**|**Implicit Learning of Scene Geometry from Poses for Global Localization**|Mohammad Altillawi et.al.|[2312.02029](http://arxiv.org/abs/2312.02029)|null|
 |**2023-12-04**|**ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction**|Yufei Shi et.al.|[2312.02015](http://arxiv.org/abs/2312.02015)|null|
 |**2023-12-06**|**Towards Learning a Generalist Model for Embodied Navigation**|Duo Zheng et.al.|[2312.02010](http://arxiv.org/abs/2312.02010)|**[link](https://github.com/zd11024/NaviLLM)**|
@@ -2195,7 +2195,7 @@ layout: default
 |**2023-11-09**|**Liquid phase fast electron tomography unravels the true 3D structure of colloidal assemblies**|Daniel Arenas Esteban et.al.|[2311.05309](http://arxiv.org/abs/2311.05309)|null|
 |**2023-11-09**|**Three-dimensional GRMHD simulations of neutron star jets**|Pushpita Das et.al.|[2311.05301](http://arxiv.org/abs/2311.05301)|null|
 |**2023-11-09**|**VoxNeRF: Bridging Voxel Representation and Neural Radiance Fields for Enhanced Indoor View Synthesis**|Sen Wang et.al.|[2311.05289](http://arxiv.org/abs/2311.05289)|null|
-|**2023-11-09**|**Single-shot Tomography of Discrete Dynamic Objects**|Ajinkya Kadu et.al.|[2311.05269](http://arxiv.org/abs/2311.05269)|null|
+|**2023-11-09**|**Single-shot Tomography of Discrete Dynamic Objects**|Ajinkya Kadu et.al.|[2311.05269](http://arxiv.org/abs/2311.05269)|**[link](https://github.com/ajinkyakadu/DynamicXRayCT)**|
 |**2023-11-09**|**ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image**|Senthil Purushwalkam et.al.|[2311.05230](http://arxiv.org/abs/2311.05230)|null|
 |**2023-11-09**|**Super-Resolution Emulation of Large Cosmological Fields with a 3D Conditional Diffusion Model**|Adam Rouhiainen et.al.|[2311.05217](http://arxiv.org/abs/2311.05217)|null|
 |**2023-11-09**|**Boundary vertex algebras for 3d $\mathcal{N}=4$ rank-0 SCFTs**|Andrea E. V. Ferrari et.al.|[2311.05087](http://arxiv.org/abs/2311.05087)|null|
@@ -2229,7 +2229,7 @@ layout: default
 |**2023-11-07**|**Exploring Climate with Obliquity in a Variable-eccentricity Earth-like World**|M. J. Way et.al.|[2311.04167](http://arxiv.org/abs/2311.04167)|null|
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154](http://arxiv.org/abs/2311.04154)|null|
 |**2023-11-07**|**Improved Topological Preservation in 3D Axon Segmentation and Centerline Detection using Geometric Assessment-driven Topological Smoothing (GATS)**|Nina I. Shamsi et.al.|[2311.04116](http://arxiv.org/abs/2311.04116)|null|
-|**2023-11-07**|**SPIRAL: An Efficient Algorithm for the Integration of the Equation of Rotational Motion**|Carlos Andrés del Valle et.al.|[2311.04106](http://arxiv.org/abs/2311.04106)|null|
+|**2023-11-07**|**SPIRAL: An Efficient Algorithm for the Integration of the Equation of Rotational Motion**|Carlos Andrés del Valle et.al.|[2311.04106](http://arxiv.org/abs/2311.04106)|**[link](https://github.com/cdelv/algorithmsforrotationalmotion)**|
 |**2023-11-07**|**DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding**|Kehinde Ajayi et.al.|[2311.04098](http://arxiv.org/abs/2311.04098)|**[link](https://github.com/gofigure-lanl/figure-segmentation)**|
 |**2023-11-07**|**Image-Pointcloud Fusion based Anomaly Detection using PD-REAL Dataset**|Jianjian Qin et.al.|[2311.04095](http://arxiv.org/abs/2311.04095)|null|
 |**2023-11-07**|**mmFUSION: Multimodal Fusion for 3D Objects Detection**|Javed Ahmad et.al.|[2311.04058](http://arxiv.org/abs/2311.04058)|null|
@@ -3292,7 +3292,7 @@ layout: default
 |**2023-12-18**|**DiffTune-MPC: Closed-Loop Learning for Model Predictive Control**|Ran Tao et.al.|[2312.11384](http://arxiv.org/abs/2312.11384)|null|
 |**2024-01-16**|**Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects**|Min Hua et.al.|[2312.11084](http://arxiv.org/abs/2312.11084)|**[link](https://github.com/huahuaedi/MARL_in_CAV_control_review)**|
 |**2023-12-18**|**Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking**|Shihao Feng et.al.|[2312.11051](http://arxiv.org/abs/2312.11051)|**[link](https://github.com/liangp/mcstn-3dsot)**|
-|**2023-12-17**|**Physics-informed Representation and Learning: Control and Risk Quantification**|Zhuoyuan Wang et.al.|[2312.10594](http://arxiv.org/abs/2312.10594)|null|
+|**2023-12-17**|**Physics-informed Representation and Learning: Control and Risk Quantification**|Zhuoyuan Wang et.al.|[2312.10594](http://arxiv.org/abs/2312.10594)|**[link](https://github.com/jacobwang925/path-integral-pinn)**|
 |**2023-12-16**|**Improving Environment Robustness of Deep Reinforcement Learning Approaches for Autonomous Racing Using Bayesian Optimization-based Curriculum Learning**|Rohan Banerjee et.al.|[2312.10557](http://arxiv.org/abs/2312.10557)|**[link](https://github.com/prishita123/curriculum_rl_for_driving)**|
 |**2023-12-19**|**Fractional Deep Reinforcement Learning for Age-Minimal Mobile Edge Computing**|Lyudong Jin et.al.|[2312.10418](http://arxiv.org/abs/2312.10418)|null|
 |**2023-12-15**|**Constrained Meta-Reinforcement Learning for Adaptable Safety Guarantee with Differentiable Convex Programming**|Minjae Cho et.al.|[2312.10230](http://arxiv.org/abs/2312.10230)|null|
@@ -3739,7 +3739,7 @@ layout: default
 |**2024-01-15**|**Pedestrian Detection in Low-Light Conditions: A Comprehensive Survey**|Bahareh Ghari et.al.|[2401.07801](http://arxiv.org/abs/2401.07801)|null|
 |**2024-01-15**|**Semantic Scene Segmentation for Robotics**|Juana Valeria Hurtado et.al.|[2401.07589](http://arxiv.org/abs/2401.07589)|null|
 |**2024-01-15**|**Geo-locating Road Objects using Inverse Haversine Formula with NVIDIA Driveworks**|Mamoona Birkhez Shami et.al.|[2401.07582](http://arxiv.org/abs/2401.07582)|null|
-|**2024-01-14**|**RSUD20K: A Dataset for Road Scene Understanding In Autonomous Driving**|Hasib Zunair et.al.|[2401.07322](http://arxiv.org/abs/2401.07322)|null|
+|**2024-01-14**|**RSUD20K: A Dataset for Road Scene Understanding In Autonomous Driving**|Hasib Zunair et.al.|[2401.07322](http://arxiv.org/abs/2401.07322)|**[link](https://github.com/hasibzunair/rsud20k)**|
 |**2024-01-14**|**Photonic real time video image signal processor at 17Tb/s based on a Kerr microcomb**|Mengxi Tan et.al.|[2401.07197](http://arxiv.org/abs/2401.07197)|null|
 |**2024-01-13**|**ACAV: A Framework for Automatic Causality Analysis in Autonomous Vehicle Accident Recordings**|Huijia Sun et.al.|[2401.07063](http://arxiv.org/abs/2401.07063)|null|
 |**2024-01-13**|**UniVision: A Unified Framework for Vision-Centric 3D Perception**|Yu Hong et.al.|[2401.06994](http://arxiv.org/abs/2401.06994)|null|
@@ -3864,7 +3864,7 @@ layout: default
 |**2023-12-18**|**Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking**|Shihao Feng et.al.|[2312.11051](http://arxiv.org/abs/2312.11051)|**[link](https://github.com/liangp/mcstn-3dsot)**|
 |**2023-12-18**|**AE-NeRF: Audio Enhanced Neural Radiance Field for Few Shot Talking Head Synthesis**|Dongze Li et.al.|[2312.10921](http://arxiv.org/abs/2312.10921)|null|
 |**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
-|**2023-12-17**|**Physics-informed Representation and Learning: Control and Risk Quantification**|Zhuoyuan Wang et.al.|[2312.10594](http://arxiv.org/abs/2312.10594)|null|
+|**2023-12-17**|**Physics-informed Representation and Learning: Control and Risk Quantification**|Zhuoyuan Wang et.al.|[2312.10594](http://arxiv.org/abs/2312.10594)|**[link](https://github.com/jacobwang925/path-integral-pinn)**|
 |**2023-12-16**|**Improving Environment Robustness of Deep Reinforcement Learning Approaches for Autonomous Racing Using Bayesian Optimization-based Curriculum Learning**|Rohan Banerjee et.al.|[2312.10557](http://arxiv.org/abs/2312.10557)|**[link](https://github.com/prishita123/curriculum_rl_for_driving)**|
 |**2023-12-19**|**Learning Dense Correspondence for NeRF-Based Face Reenactment**|Songlin Yang et.al.|[2312.10422](http://arxiv.org/abs/2312.10422)|null|
 |**2023-12-19**|**Fractional Deep Reinforcement Learning for Age-Minimal Mobile Edge Computing**|Lyudong Jin et.al.|[2312.10418](http://arxiv.org/abs/2312.10418)|null|
