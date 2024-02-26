@@ -1,13 +1,8 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-## Up## Updated on 2024.02.26
+## Updated on 2024.02.26
 
 
 
-- [Up## Updated on 2024.02.26](#up-updated-on-20240226)
+- [## Updated on 2024.02.26](#-updated-on-20240226)
 - [3D](#3d)
 - [NeRF](#nerf)
 - [Industry](#industry)

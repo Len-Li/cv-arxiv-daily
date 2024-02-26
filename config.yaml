@@ -4,7 +4,7 @@ user_name: "Len-Li"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
-show_badge: True
+show_badge: False
 max_results: 100
 
 publish_readme: True
