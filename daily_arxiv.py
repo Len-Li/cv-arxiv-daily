@@ -112,6 +112,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
         publish_time        = result.published.date()
         update_time         = result.updated.date()
         comments            = result.comment
+        # import ipdb; ipdb.set_trace()
+        
 
         logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This page is maintained by Leheng Li that contains paper he interested.
+This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in.
 
 
 
