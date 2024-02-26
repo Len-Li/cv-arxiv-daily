@@ -2,16 +2,10 @@
 layout: default
 ---
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-## Updated on 2024.02.26
-> Usage instructions: [here](./docs/README.md#usage)
+This page is maintained by Leheng Li that contains paper he interested.
 
 
-- [Updated on 2024.02.26](#updated-on-20240226)
+
 - [3D](#3d)
 - [NeRF](#nerf)
 - [Industry](#industry)
