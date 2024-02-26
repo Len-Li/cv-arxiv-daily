@@ -37,4 +37,4 @@ keywords:
     "Adversarial":
         filters: ["Adversarial", "Robustness"]
     "Traffic Simulation":
-        filters: ["Traffic Simulation", "Motion Prediction", "Trajectory Prediction"]
+        filters: ["Traffic Simulation", "Motion Prediction", "Motion Planning", "Trajectory Prediction"]
