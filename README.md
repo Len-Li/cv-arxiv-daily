@@ -1,17 +1,14 @@
 Updated on 2024.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href=#3D>3D</a></li>
-    <li><a href=#NeRF>NeRF</a></li>
-    <li><a href=#Industry>Industry</a></li>
-    <li><a href=#Autonomous-Driving>Autonomous Driving</a></li>
-    <li><a href=#NeRF-+-Autonomous-Driving>NeRF + Autonomous Driving</a></li>
-    <li><a href=#Traffic-Simulation>Traffic Simulation</a></li>
-  </ol>
-</details>
+<ol>
+  <li><a href=#3D>3D</a></li>
+  <li><a href=#NeRF>NeRF</a></li>
+  <li><a href=#Industry>Industry</a></li>
+  <li><a href=#Autonomous-Driving>Autonomous Driving</a></li>
+  <li><a href=#NeRF-+-Autonomous-Driving>NeRF + Autonomous Driving</a></li>
+  <li><a href=#Traffic-Simulation>Traffic Simulation</a></li>
+</ol>
 
 ## 3D
 

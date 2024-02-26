@@ -306,12 +306,15 @@ def json_to_md(filename,md_filename,
             f.write("> Updated on " + DateNow + "\n")
 
         # TODO: add usage
-        f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
+        # f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
+
+
+        f.write("This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).")
 
         #Add: table of contents
         if use_tc == True:
-            f.write("<details>\n")
-            f.write("  <summary>Table of Contents</summary>\n")
+            # f.write("<details>\n")
+            # f.write("  <summary>Table of Contents</summary>\n")
             f.write("  <ol>\n")
             for keyword in data.keys():
                 day_content = data[keyword]
@@ -320,7 +323,7 @@ def json_to_md(filename,md_filename,
                 kw = keyword.replace(' ','-')      
                 f.write(f"    <li><a href=#{kw}>{keyword}</a></li>\n")
             f.write("  </ol>\n")
-            f.write("</details>\n\n")
+            # f.write("</details>\n\n")
         
         for keyword in data.keys():
             day_content = data[keyword]
@@ -424,7 +427,7 @@ def demo(**config):
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False)
+            use_tc=True, use_b2t=False)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
