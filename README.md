@@ -3,22 +3,20 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.26
-> Usage instructions: [here](./docs/README.md#usage)
+## Up## Updated on 2024.02.26
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href=#3D>3D</a></li>
-    <li><a href=#NeRF>NeRF</a></li>
-    <li><a href=#Industry>Industry</a></li>
-    <li><a href=#Autonomous-Driving>Autonomous Driving</a></li>
-    <li><a href=#NeRF-+-Autonomous-Driving>NeRF + Autonomous Driving</a></li>
-    <li><a href=#Traffic-Simulation>Traffic Simulation</a></li>
-  </ol>
-</details>
 
-## 3D
+
+- [Up## Updated on 2024.02.26](#up-updated-on-20240226)
+- [3D](#3d)
+- [NeRF](#nerf)
+- [Industry](#industry)
+- [Autonomous Driving](#autonomous-driving)
+- [NeRF + Autonomous Driving](#nerf--autonomous-driving)
+- [Traffic Simulation](#traffic-simulation)
+
+
+## <span id="jump1">3D</span>
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -4736,13 +4734,3 @@
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
 <p align=right>(<a href=#Updated-on-20240226>back to top</a>)</p>
-
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
-
