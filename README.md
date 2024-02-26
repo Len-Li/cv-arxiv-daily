@@ -13,16 +13,6 @@
 
 ## <span id="jump1">3D</span>
 
-
-- [Updated on 2024.02.26](#updated-on-20240226)
-- [3D](#3d)
-- [NeRF](#nerf)
-- [Industry](#industry)
-- [Autonomous Driving](#autonomous-driving)
-- [NeRF + Autonomous Driving](#nerf--autonomous-driving)
-- [Traffic Simulation](#traffic-simulation)
-
-
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-02-22**|**Cameras as Rays: Pose Estimation via Ray Diffusion**|Jason Y. Zhang et.al.|[2402.14817](http://arxiv.org/abs/2402.14817)|null|
