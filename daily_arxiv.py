@@ -121,7 +121,9 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id
         else:
             paper_key = paper_id[0:ver_pos]    
-        paper_url = arxiv_url + 'abs/' + paper_key
+        paper_url = arxiv_url + 'pdf/' + paper_key + '.pdf'
+        # paper_url = arxiv_url + 'abs/' + paper_key
+        # print(paper_url)
         
         try:
             # source code link    
@@ -335,6 +337,8 @@ def json_to_md(filename,md_filename,
             day_content = sort_papers(day_content)
         
             for _,v in day_content.items():
+                # import ipdb; ipdb.set_trace()
+                
                 if v is not None:
                     f.write(pretty_math(v)) # make latex pretty
 
