@@ -2,19 +2,21 @@
 layout: default
 ---
 
-This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
-
-
-
+Updated on 2024.02.27
 - [3D](#3d)
 - [NeRF](#nerf)
 - [Industry](#industry)
 - [Autonomous Driving](#autonomous-driving)
 - [NeRF + Autonomous Driving](#nerf--autonomous-driving)
 - [Traffic Simulation](#traffic-simulation)
-
-
-
+This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).  <ol>
+    <li><a href=#3D>3D</a></li>
+    <li><a href=#NeRF>NeRF</a></li>
+    <li><a href=#Industry>Industry</a></li>
+    <li><a href=#Autonomous-Driving>Autonomous Driving</a></li>
+    <li><a href=#NeRF-+-Autonomous-Driving>NeRF + Autonomous Driving</a></li>
+    <li><a href=#Traffic-Simulation>Traffic Simulation</a></li>
+  </ol>
 ## 3D
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3054,7 +3056,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-05**|**Point-Based Radiance Fields for Controllable Human Motion Synthesis**|Haitao Yu et.al.|[2310.03375](http://arxiv.org/pdf/2310.03375.pdf)|**[link](https://github.com/dehezhang2/point_based_nerf_editing)**|
 |**2023-10-04**|**Shielding the Unseen: Privacy Protection through Poisoning NeRF with Spatial Deformation**|Yihan Wu et.al.|[2310.03125](http://arxiv.org/pdf/2310.03125.pdf)|null|
 |**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015](http://arxiv.org/pdf/2310.03015.pdf)|null|
-|**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/pdf/2310.02687.pdf)|null|
+|**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/pdf/2310.02687.pdf)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-12-06**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437](http://arxiv.org/pdf/2310.02437.pdf)|**[link](https://github.com/anish-bhattacharya/evdnerf)**|
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881](http://arxiv.org/pdf/2310.01881.pdf)|null|
 |**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821](http://arxiv.org/pdf/2310.01821.pdf)|null|
