@@ -315,6 +315,8 @@ def json_to_md(filename,md_filename,
 # - [NeRF + Autonomous Driving](#nerf--autonomous-driving)
 # - [Traffic Simulation](#traffic-simulation)
 
+        f.write("This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).")
+
         if task == 'Update GitPage':
             f.write("- [3D](#3d)\n")
             f.write("- [NeRF](#nerf)\n")
@@ -323,7 +325,6 @@ def json_to_md(filename,md_filename,
             f.write("- [NeRF + Autonomous Driving](#nerf--autonomous-driving)\n")
             f.write("- [Traffic Simulation](#traffic-simulation)\n")
 
-        f.write("This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).")
 
         #Add: table of contents
         if use_tc == True:
@@ -441,7 +442,7 @@ def demo(**config):
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
-            use_tc=True, use_b2t=False)
+            use_tc=False, use_b2t=False)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:

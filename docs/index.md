@@ -9,14 +9,6 @@ Updated on 2024.02.27
 - [Autonomous Driving](#autonomous-driving)
 - [NeRF + Autonomous Driving](#nerf--autonomous-driving)
 - [Traffic Simulation](#traffic-simulation)
-This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).  <ol>
-    <li><a href=#3D>3D</a></li>
-    <li><a href=#NeRF>NeRF</a></li>
-    <li><a href=#Industry>Industry</a></li>
-    <li><a href=#Autonomous-Driving>Autonomous Driving</a></li>
-    <li><a href=#NeRF-+-Autonomous-Driving>NeRF + Autonomous Driving</a></li>
-    <li><a href=#Traffic-Simulation>Traffic Simulation</a></li>
-  </ol>
 ## 3D
 
 | Publish Date | Title | Authors | PDF | Code |
