@@ -315,7 +315,7 @@ def json_to_md(filename,md_filename,
 # - [NeRF + Autonomous Driving](#nerf--autonomous-driving)
 # - [Traffic Simulation](#traffic-simulation)
 
-        f.write("This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).")
+        f.write("This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).\n\n")
 
         if task == 'Update GitPage':
             f.write("- [3D](#3d)\n")
@@ -323,7 +323,7 @@ def json_to_md(filename,md_filename,
             f.write("- [Industry](#industry)\n")
             f.write("- [Autonomous Driving](#autonomous-driving)\n")
             f.write("- [NeRF + Autonomous Driving](#nerf--autonomous-driving)\n")
-            f.write("- [Traffic Simulation](#traffic-simulation)\n")
+            f.write("- [Traffic Simulation](#traffic-simulation)\n\n")
 
 
         #Add: table of contents
