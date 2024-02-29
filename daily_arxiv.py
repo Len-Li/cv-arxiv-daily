@@ -315,6 +315,7 @@ def json_to_md(filename,md_filename,
 # - [NeRF + Autonomous Driving](#nerf--autonomous-driving)
 # - [Traffic Simulation](#traffic-simulation)
 
+        f.write("\n")
         f.write("This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).\n\n")
 
         if task == 'Update GitPage':
