@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.03.03
+Updated on 2024.03.04
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -87,7 +87,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-02-27**|**Evaluation of block encoding for sparse matrix inversion using QSVT**|Leigh Lapworth et.al.|[2402.17529](http://arxiv.org/pdf/2402.17529.pdf)|null|
 |**2024-02-27**|**AVS-Net: Point Sampling with Adaptive Voxel Size for 3D Point Cloud Analysis**|Hongcheng Yang et.al.|[2402.17521](http://arxiv.org/pdf/2402.17521.pdf)|null|
 |**2024-02-27**|**Collisional excitation of propyne (CH $_3$ CCH) by He atoms**|M. Ben Khalifa et.al.|[2402.17491](http://arxiv.org/pdf/2402.17491.pdf)|null|
-|**2024-02-27**|**EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions**|Linrui Tian et.al.|[2402.17485](http://arxiv.org/pdf/2402.17485.pdf)|null|
+|**2024-02-27**|**EMO: Emote Portrait Alive -- Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions**|Linrui Tian et.al.|[2402.17485](http://arxiv.org/pdf/2402.17485.pdf)|null|
 |**2024-02-27**|**Generative 3D Part Assembly via Part-Whole-Hierarchy Message Passing**|Bi'an Du et.al.|[2402.17464](http://arxiv.org/pdf/2402.17464.pdf)|**[link](https://github.com/pkudba/3dhpa)**|
 |**2024-02-27**|**Room Temperature Spin Filtering and Quantum Transport with Transition Metal-Doped Silicon Quantum Dot**|Hemant Arora et.al.|[2402.17461](http://arxiv.org/pdf/2402.17461.pdf)|null|
 |**2024-02-27**|**Aeolian erosion in protoplanetary discs: How impactful it is on dust evolution?**|Stéphane Michoulier et.al.|[2402.17439](http://arxiv.org/pdf/2402.17439.pdf)|null|
