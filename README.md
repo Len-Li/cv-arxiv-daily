@@ -1,4 +1,4 @@
-Updated on 2024.03.05
+Updated on 2024.03.06
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -28,7 +28,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-01**|**On the origin of topotactic reduction effect for superconductivity in infinite-layer nickelates**|Shengwei Zeng et.al.|[2403.00960](http://arxiv.org/pdf/2403.00960.pdf)|null|
 |**2024-03-01**|**G3DR: Generative 3D Reconstruction in ImageNet**|Pradyumna Reddy et.al.|[2403.00939](http://arxiv.org/pdf/2403.00939.pdf)|null|
 |**2024-03-01**|**Iterative Methods for Navier--Stokes Inverse Problems**|Liam O'Connor et.al.|[2403.00937](http://arxiv.org/pdf/2403.00937.pdf)|null|
-|**2024-03-01**|**Science development study for the Atacama Large Aperture Submillimeter Telescope (AtLAST) - Solar and stellar observations**|Sven Wedemeyer et.al.|[2403.00920](http://arxiv.org/pdf/2403.00920.pdf)|null|
+|**2024-03-01**|**Science development study for the Atacama Large Aperture Submillimeter Telescope (AtLAST) -- Solar and stellar observations**|Sven Wedemeyer et.al.|[2403.00920](http://arxiv.org/pdf/2403.00920.pdf)|null|
 |**2024-03-01**|**Entropy Driven Inductive Response of Topological Insulators**|A. Mert Bozkurt et.al.|[2403.00714](http://arxiv.org/pdf/2403.00714.pdf)|null|
 |**2024-03-01**|**Controlled creation of point defects in 3D colloidal crystals**|Max P. M. Schelling et.al.|[2403.00678](http://arxiv.org/pdf/2403.00678.pdf)|null|
 |**2024-03-04**|**Considerations on time resolution of neutron irradiated single pixel 3D structures at fuences up to $10^{17}$ n$_{eq}$/cm$^{2}$ using 120 GeV SPS pion beams**|Evangelos-Leonidas Gkougkousis et.al.|[2403.00627](http://arxiv.org/pdf/2403.00627.pdf)|null|
@@ -2956,7 +2956,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20240305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240306>back to top</a>)</p>
 
 ## NeRF
 
@@ -3311,7 +3311,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20240305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240306>back to top</a>)</p>
 
 ## Industry
 
@@ -3598,7 +3598,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2012-04-06**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-09**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20240305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240306>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -4177,7 +4177,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20240305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240306>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -4954,7 +4954,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20240305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240306>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -4965,7 +4965,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-01**|**Complete and Near-Optimal Robotic Crack Coverage and Filling in Civil Infrastructure**|Vishnu Veeraraghavan et.al.|[2403.00613](http://arxiv.org/pdf/2403.00613.pdf)|null|
 |**2024-03-01**|**MS-Net: A Multi-Path Sparse Model for Motion Prediction in Multi-Scenes**|Xiaqiang Tang et.al.|[2403.00353](http://arxiv.org/pdf/2403.00353.pdf)|null|
 |**2024-03-01**|**Model-Based Planning and Control for Terrestrial-Aerial Bimodal Vehicles with Passive Wheels**|Ruibin Zhang et.al.|[2403.00322](http://arxiv.org/pdf/2403.00322.pdf)|null|
-|**2024-03-04**|**TEXterity - Tactile Extrinsic deXterity: Simultaneous Tactile Estimation and Control for Extrinsic Dexterity**|Sangwoon Kim et.al.|[2403.00049](http://arxiv.org/pdf/2403.00049.pdf)|null|
+|**2024-03-04**|**TEXterity -- Tactile Extrinsic deXterity: Simultaneous Tactile Estimation and Control for Extrinsic Dexterity**|Sangwoon Kim et.al.|[2403.00049](http://arxiv.org/pdf/2403.00049.pdf)|null|
 |**2024-02-29**|**Towards Safe and Reliable Autonomous Driving: Dynamic Occupancy Set Prediction**|Wenbo Shao et.al.|[2402.19385](http://arxiv.org/pdf/2402.19385.pdf)|null|
 |**2024-02-29**|**Attacks Against Mobility Prediction in 5G Networks**|Syafiq Al Atiiq et.al.|[2402.19319](http://arxiv.org/pdf/2402.19319.pdf)|null|
 |**2024-02-29**|**A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving**|Haicheng Liao et.al.|[2402.19251](http://arxiv.org/pdf/2402.19251.pdf)|**[link](https://github.com/petrichor625/hltp)**|
@@ -5364,5 +5364,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20240305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240306>back to top</a>)</p>
 
