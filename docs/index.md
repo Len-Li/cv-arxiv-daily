@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.03.07
+Updated on 2024.03.08
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -109,7 +109,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-03**|**On Diffusion Process in SE(3)-invariant Space**|Zihan Zhou et.al.|[2403.01430](http://arxiv.org/pdf/2403.01430.pdf)|null|
 |**2024-03-03**|**Unsigned Orthogonal Distance Fields: An Accurate Neural Implicit Representation for Diverse 3D Shapes**|Yujie Lu et.al.|[2403.01414](http://arxiv.org/pdf/2403.01414.pdf)|null|
 |**2024-03-03**|**A Novel Dynamic Light-Section 3D Reconstruction Method for Wide-Range Sensing**|Mengjuan Chen et.al.|[2403.01374](http://arxiv.org/pdf/2403.01374.pdf)|null|
-|**2024-03-02**|**TUMTraf V2X Cooperative Perception Dataset**|Walter Zimmer et.al.|[2403.01316](http://arxiv.org/pdf/2403.01316.pdf)|**[link](https://github.com/tum-traffic-dataset/coopdet3d)**|
+|**2024-03-02**|**TUMTraf V2X Cooperative Perception Dataset**|Walter Zimmer et.al.|[2403.01316](http://arxiv.org/pdf/2403.01316.pdf)|**[link](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit)**|
 |**2024-03-02**|**SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code**|Ziniu Hu et.al.|[2403.01248](http://arxiv.org/pdf/2403.01248.pdf)|null|
 |**2024-03-02**|**Dual Graph Attention based Disentanglement Multiple Instance Learning for Brain Age Estimation**|Fanzhe Yan et.al.|[2403.01246](http://arxiv.org/pdf/2403.01246.pdf)|null|
 |**2024-03-02**|**A Cost-Effective Cooperative Exploration and Inspection Strategy for Heterogeneous Aerial System**|Xinhang Xu et.al.|[2403.01225](http://arxiv.org/pdf/2403.01225.pdf)|null|
