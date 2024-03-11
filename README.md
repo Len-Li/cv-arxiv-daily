@@ -346,7 +346,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-02-21**|**Design of a Miniature Underwater Vehicle and Data Collection System for Indoor Experimentation**|Jacob Herbert et.al.|[2402.13837](http://arxiv.org/pdf/2402.13837.pdf)|null|
 |**2024-02-21**|**Identifying Unnecessary 3D Gaussians using Clustering for Fast Rendering of 3D Gaussian Splatting**|Joongho Jo et.al.|[2402.13827](http://arxiv.org/pdf/2402.13827.pdf)|null|
 |**2024-02-21**|**Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments**|Lukas Schmid et.al.|[2402.13817](http://arxiv.org/pdf/2402.13817.pdf)|**[link](https://github.com/mit-spark/khronos)**|
-|**2024-02-21**|**An Empirical Study on Oculus Virtual Reality Applications: Security and Privacy Perspectives**|Hanyang Guo et.al.|[2402.13815](http://arxiv.org/pdf/2402.13815.pdf)|null|
+|**2024-02-21**|**An Empirical Study on Oculus Virtual Reality Applications: Security and Privacy Perspectives**|Hanyang Guo et.al.|[2402.13815](http://arxiv.org/pdf/2402.13815.pdf)|**[link](https://github.com/henrykwokkk/meta-detector)**|
 |**2024-02-21**|**Cas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion**|Lianghu Guo et.al.|[2402.13776](http://arxiv.org/pdf/2402.13776.pdf)|null|
 |**2024-02-21**|**Hybrid Video Diffusion Models with 2D Triplane and 3D Wavelet Representation**|Kihong Kim et.al.|[2402.13729](http://arxiv.org/pdf/2402.13729.pdf)|null|
 |**2024-02-21**|**Bring Your Own Character: A Holistic Solution for Automatic Facial Animation Generation of Customized Characters**|Zechen Bai et.al.|[2402.13724](http://arxiv.org/pdf/2402.13724.pdf)|null|
@@ -867,7 +867,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-01-26**|**Gradient descent optimization of acoustic holograms for transcranial focused ultrasound**|Ahmed Sallam et.al.|[2401.14756](http://arxiv.org/abs/2401.14756)|null|
 |**2024-01-26**|**Probing the position-dependent optical energy fluence rate in 3D scattering samples**|Ozan Akdemir et.al.|[2401.14748](http://arxiv.org/abs/2401.14748)|null|
 |**2024-01-26**|**Synthetic Multimodal Dataset for Empowering Safety and Well-being in Home Environments**|Takanori Ugai et.al.|[2401.14743](http://arxiv.org/abs/2401.14743)|null|
-|**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
+|**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|**[link](https://github.com/pcl3dv/dunerf)**|
 |**2024-01-26**|**Effects of Magnetic Helicity on 3D Equilibira and Self-Organized States in KTX Reversed Field Pinch**|Ke Liu et.al.|[2401.14604](http://arxiv.org/abs/2401.14604)|null|
 |**2024-01-25**|**TIFu: Tri-directional Implicit Function for High-Fidelity 3D Character Reconstruction**|Byoungsung Lim et.al.|[2401.14565](http://arxiv.org/abs/2401.14565)|null|
 |**2024-01-25**|**CaRiNG: Learning Temporal Causal Representation under Non-Invertible Generation Process**|Guangyi Chen et.al.|[2401.14535](http://arxiv.org/abs/2401.14535)|null|
@@ -1384,7 +1384,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-12-28**|**Geometry-Biased Transformer for Robust Multi-View 3D Human Pose Reconstruction**|Olivier Moliner et.al.|[2312.17106](http://arxiv.org/abs/2312.17106)|null|
 |**2023-12-28**|**Multidimensional Soliton Systems**|Boris A. Malomed et.al.|[2312.17096](http://arxiv.org/abs/2312.17096)|null|
 |**2023-12-28**|**3d $N=2$ theories from M-theory on CY4 and IIB brane box**|Marwan Najjar et.al.|[2312.17082](http://arxiv.org/abs/2312.17082)|null|
-|**2023-12-28**|**FILP-3D: Enhancing 3D Few-shot Class-incremental Learning with Pre-trained Vision-Language Models**|Wan Xu et.al.|[2312.17051](http://arxiv.org/abs/2312.17051)|null|
+|**2023-12-28**|**FILP-3D: Enhancing 3D Few-shot Class-incremental Learning with Pre-trained Vision-Language Models**|Wan Xu et.al.|[2312.17051](http://arxiv.org/abs/2312.17051)|**[link](https://github.com/hit-leaderone/flip-3d)**|
 |**2024-01-01**|**Representing and Modeling Inconsistent, Impossible, and Incoherent Shapes and Scenes with 2D Non-Conservative Vector Fields mapped on 2-Complexes**|Ergun Akleman et.al.|[2312.17046](http://arxiv.org/abs/2312.17046)|null|
 |**2023-12-28**|**On Density Functional Theory models for one-dimensional homogeneous materials**|Bouchra Bensiali et.al.|[2312.17036](http://arxiv.org/abs/2312.17036)|null|
 |**2023-12-28**|**Learning Spatially Collaged Fourier Bases for Implicit Neural Representation**|Jason Chun Lok Li et.al.|[2312.17018](http://arxiv.org/abs/2312.17018)|null|
@@ -1494,7 +1494,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-12-21**|**3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera**|Christen Millerdurai et.al.|[2312.14157](http://arxiv.org/abs/2312.14157)|null|
 |**2023-12-21**|**Virtual Pets: Animatable Animal Generation in 3D Scenes**|Yen-Chi Cheng et.al.|[2312.14154](http://arxiv.org/abs/2312.14154)|null|
 |**2023-12-21**|**HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs**|Artem Sevastopolsky et.al.|[2312.14140](http://arxiv.org/abs/2312.14140)|null|
-|**2023-12-21**|**DUSt3R: Geometric 3D Vision Made Easy**|Shuzhe Wang et.al.|[2312.14132](http://arxiv.org/abs/2312.14132)|null|
+|**2023-12-21**|**DUSt3R: Geometric 3D Vision Made Easy**|Shuzhe Wang et.al.|[2312.14132](http://arxiv.org/abs/2312.14132)|**[link](https://github.com/naver/dust3r)**|
 |**2023-12-21**|**Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**|Philipp Schröppel et.al.|[2312.14124](http://arxiv.org/abs/2312.14124)|**[link](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**|
 |**2023-12-21**|**Axionic defects in the CMB: birefringence and gravitational waves**|Ricardo Z. Ferreira et.al.|[2312.14104](http://arxiv.org/abs/2312.14104)|null|
 |**2023-12-21**|**Solar Eruptions Triggered by Flux Emergence Below or Near a Coronal Flux Rope**|T. Török et.al.|[2312.14092](http://arxiv.org/abs/2312.14092)|null|
@@ -2989,7 +2989,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-24**|**GUPNet++: Geometry Uncertainty Propagation Network for Monocular 3D Object Detection**|Yan Lu et.al.|[2310.15624](http://arxiv.org/abs/2310.15624)|**[link](https://github.com/supermhp/gupnet)**|
 |**2023-10-24**|**3D Multi-Target Localization Via Intelligent Reflecting Surface: Protocol and Analysis**|Meng Hua et.al.|[2310.15574](http://arxiv.org/abs/2310.15574)|null|
 |**2023-10-24**|**I $^2$ MD: 3D Action Representation Learning with Inter- and Intra-modal Mutual Distillation**|Yunyao Mao et.al.|[2310.15568](http://arxiv.org/abs/2310.15568)|null|
-|**2023-10-24**|**Topology Optimization with Text-Guided Stylization**|Shengze Zhong et.al.|[2310.15506](http://arxiv.org/abs/2310.15506)|null|
+|**2023-10-24**|**Topology Optimization with Text-Guided Stylization**|Shengze Zhong et.al.|[2310.15506](http://arxiv.org/abs/2310.15506)|**[link](https://github.com/shzzhong/tgto)**|
 |**2023-10-24**|**Generalized Cardy conditions of topological defect lines**|Xia Gu et.al.|[2310.15487](http://arxiv.org/abs/2310.15487)|null|
 |**2023-10-26**|**DeepIron: Predicting Unwarped Garment Texture from a Single Image**|Hyun-Song Kwon et.al.|[2310.15447](http://arxiv.org/abs/2310.15447)|null|
 |**2023-10-24**|**Electric quadrupole second harmonic generation revealing dual magnetic orders in a magnetic Weyl semimetal**|Youngjun Ahn et.al.|[2310.15423](http://arxiv.org/abs/2310.15423)|null|
