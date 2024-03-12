@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.03.11
+Updated on 2024.03.12
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -58,7 +58,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-07**|**THz-assisted microscopy of silica matrix for biological materials encapsulation: a theoretical and experimental study**|Matteo De Tullio et.al.|[2403.04470](http://arxiv.org/pdf/2403.04470.pdf)|null|
 |**2024-03-07**|**Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser**|Qingyuan Cai et.al.|[2403.04444](http://arxiv.org/pdf/2403.04444.pdf)|null|
 |**2024-03-07**|**Direct visualization of domain wall pinning in sub-100nm 3D magnetic nanowires with cross-sectional curvature**|Joseph Askey et.al.|[2403.04411](http://arxiv.org/pdf/2403.04411.pdf)|null|
-|**2024-03-07**|**Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation**|Ruicong Liu et.al.|[2403.04381](http://arxiv.org/pdf/2403.04381.pdf)|null|
+|**2024-03-09**|**Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation**|Ruicong Liu et.al.|[2403.04381](http://arxiv.org/pdf/2403.04381.pdf)|null|
 |**2024-03-07**|**Video-Driven Animation of Neural Head Avatars**|Wolfgang Paier et.al.|[2403.04380](http://arxiv.org/pdf/2403.04380.pdf)|null|
 |**2024-03-07**|**Control-Barrier-Aided Teleoperation with Visual-Inertial SLAM for Safe MAV Navigation in Complex Environments**|Siqi Zhou et.al.|[2403.04331](http://arxiv.org/pdf/2403.04331.pdf)|null|
 |**2024-03-07**|**3DTextureTransformer: Geometry Aware Texture Generation for Arbitrary Mesh Topology**|Dharma KC et.al.|[2403.04225](http://arxiv.org/pdf/2403.04225.pdf)|null|
@@ -3169,7 +3169,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-01-31**|**ReplaceAnything3D:Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields**|Edward Bartrum et.al.|[2401.17895](http://arxiv.org/pdf/2401.17895.pdf)|null|
 |**2024-02-01**|**Segment Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857](http://arxiv.org/pdf/2401.17857.pdf)|null|
 |**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121](http://arxiv.org/pdf/2401.17121.pdf)|**[link](https://github.com/mercerai/paev3d)**|
-|**2024-01-31**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/pdf/2401.16416.pdf)|null|
+|**2024-03-09**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/pdf/2401.16416.pdf)|null|
 |**2024-01-29**|**SuNeRF: 3D reconstruction of the solar EUV corona using Neural Radiance Fields**|Robert Jarolim et.al.|[2401.16388](http://arxiv.org/pdf/2401.16388.pdf)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144](http://arxiv.org/pdf/2401.16144.pdf)|null|
 |**2024-01-27**|**AniDress: Animatable Loose-Dressed Avatar from Sparse Views Using Garment Rigging Model**|Beijia Chen et.al.|[2401.15348](http://arxiv.org/pdf/2401.15348.pdf)|null|
@@ -3343,7 +3343,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-11-09**|**VoxNeRF: Bridging Voxel Representation and Neural Radiance Fields for Enhanced Indoor View Synthesis**|Sen Wang et.al.|[2311.05289](http://arxiv.org/pdf/2311.05289.pdf)|null|
 |**2023-11-09**|**ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image**|Senthil Purushwalkam et.al.|[2311.05230](http://arxiv.org/pdf/2311.05230.pdf)|null|
 |**2023-11-08**|**Learning Robust Multi-Scale Representation for Neural Radiance Fields from Unposed Images**|Nishant Jain et.al.|[2311.04521](http://arxiv.org/pdf/2311.04521.pdf)|null|
-|**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400](http://arxiv.org/pdf/2311.04400.pdf)|null|
+|**2024-03-09**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400](http://arxiv.org/pdf/2311.04400.pdf)|null|
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154](http://arxiv.org/pdf/2311.04154.pdf)|null|
 |**2023-11-07**|**Fast Sun-aligned Outdoor Scene Relighting based on TensoRF**|Yeonjin Chang et.al.|[2311.03965](http://arxiv.org/pdf/2311.03965.pdf)|null|
 |**2023-11-08**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784](http://arxiv.org/pdf/2311.03784.pdf)|**[link](https://github.com/mlvlab/UP-NeRF)**|
@@ -3360,7 +3360,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/pdf/2310.20710.pdf)|null|
 |**2024-01-19**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/pdf/2310.20685.pdf)|null|
 |**2024-01-19**|**DynPoint: Dynamic Neural Point For View Synthesis**|Kaichen Zhou et.al.|[2310.18999](http://arxiv.org/pdf/2310.18999.pdf)|**[link](https://github.com/kaichen-z/dynpoint)**|
-|**2023-11-04**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/pdf/2310.18917.pdf)|null|
+|**2024-03-09**|**TivNe-SLAM: Dynamic Tracking and Mapping via Time-Varying Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/pdf/2310.18917.pdf)|null|
 |**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/pdf/2310.18846.pdf)|**[link](https://github.com/xmindflow/INCODE)**|
 |**2023-10-27**|**Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D Scene Representations**|Tristan Aumentado-Armstrong et.al.|[2310.17880](http://arxiv.org/pdf/2310.17880.pdf)|null|
 |**2023-10-27**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075](http://arxiv.org/pdf/2310.17075.pdf)|null|
@@ -3974,7 +3974,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-01-18**|**Stream Query Denoising for Vectorized HD Map Construction**|Shuo Wang et.al.|[2401.09112](http://arxiv.org/pdf/2401.09112.pdf)|null|
 |**2024-01-17**|**Enhancing Campus Mobility: Achievements and Challenges of Autonomous Shuttle "Snow Lion''**|Yingbing Chen et.al.|[2401.08939](http://arxiv.org/pdf/2401.08939.pdf)|null|
 |**2023-12-27**|**Risk-anticipatory autonomous driving strategies considering vehicles' weights, based on hierarchical deep reinforcement learning**|Di Chen et.al.|[2401.08661](http://arxiv.org/pdf/2401.08661.pdf)|null|
-|**2023-12-26**|**End-To-End Planning of Autonomous Driving in Industry and Academia: 2022-2023**|Gongjin Lan an Qi Hao et.al.|[2401.08658](http://arxiv.org/pdf/2401.08658.pdf)|null|
+|**2023-12-26**|**End-To-End Planning of Autonomous Driving in Industry and Academia: 2022-2023**|Gongjin Lan et.al.|[2401.08658](http://arxiv.org/pdf/2401.08658.pdf)|null|
 |**2023-12-25**|**Digital Twins for Autonomous Driving: A Comprehensive Implementation and Demonstration**|Kui Wang et.al.|[2401.08653](http://arxiv.org/pdf/2401.08653.pdf)|null|
 |**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[2401.08045](http://arxiv.org/pdf/2401.08045.pdf)|**[link](https://github.com/zhanghm1995/forge_vfm4ad)**|
 |**2024-01-15**|**Pedestrian Detection in Low-Light Conditions: A Comprehensive Survey**|Bahareh Ghari et.al.|[2401.07801](http://arxiv.org/pdf/2401.07801.pdf)|null|
@@ -4587,7 +4587,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-01-30**|**Evaluation of Out-of-Distribution Detection Performance on Autonomous Driving Datasets**|Jens Henriksson et.al.|[2401.17013](http://arxiv.org/pdf/2401.17013.pdf)|null|
 |**2024-01-30**|**The Why, When, and How to Use Active Learning in Large-Data-Driven 3D Object Detection for Safe Autonomous Driving: An Empirical Exploration**|Ross Greer et.al.|[2401.16634](http://arxiv.org/pdf/2401.16634.pdf)|null|
 |**2024-01-30**|**I came, I saw, I certified: some perspectives on the safety assurance of cyber-physical systems**|Mithila Sivakumar et.al.|[2401.16633](http://arxiv.org/pdf/2401.16633.pdf)|null|
-|**2024-01-31**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/pdf/2401.16416.pdf)|null|
+|**2024-03-09**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/pdf/2401.16416.pdf)|null|
 |**2024-01-29**|**SuNeRF: 3D reconstruction of the solar EUV corona using Neural Radiance Fields**|Robert Jarolim et.al.|[2401.16388](http://arxiv.org/pdf/2401.16388.pdf)|null|
 |**2024-01-29**|**FIMP: Future Interaction Modeling for Multi-Agent Motion Prediction**|Sungmin Woo et.al.|[2401.16189](http://arxiv.org/pdf/2401.16189.pdf)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144](http://arxiv.org/pdf/2401.16144.pdf)|null|
