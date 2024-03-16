@@ -34,7 +34,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-14**|**Improving Real-Time Omnidirectional 3D Multi-Person Human Pose Estimation with People Matching and Unsupervised 2D-3D Lifting**|Pawel Knap et.al.|[2403.09437](http://arxiv.org/pdf/2403.09437.pdf)|null|
 |**2024-03-14**|**Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians**|Licheng Zhong et.al.|[2403.09434](http://arxiv.org/pdf/2403.09434.pdf)|null|
 |**2024-03-14**|**RoDUS: Robust Decomposition of Static and Dynamic Elements in Urban Scenes**|Thang-Anh-Quan Nguyen et.al.|[2403.09419](http://arxiv.org/pdf/2403.09419.pdf)|null|
-|**2024-03-14**|**Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting**|Jaewoo Jung et.al.|[2403.09413](http://arxiv.org/pdf/2403.09413.pdf)|null|
+|**2024-03-14**|**Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting**|Jaewoo Jung et.al.|[2403.09413](http://arxiv.org/pdf/2403.09413.pdf)|**[link](https://github.com/KU-CVLAB/RAIN-GS)**|
 |**2024-03-14**|**OpenGraph: Open-Vocabulary Hierarchical 3D Graph Representation in Large-Scale Outdoor Environments**|Yinan Deng et.al.|[2403.09412](http://arxiv.org/pdf/2403.09412.pdf)|**[link](https://github.com/bit-dyn/opengraph)**|
 |**2024-03-14**|**LM2D: Lyrics- and Music-Driven Dance Synthesis**|Wenjie Yin et.al.|[2403.09407](http://arxiv.org/pdf/2403.09407.pdf)|null|
 |**2024-03-14**|**DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local Climate Zone Classification**|Qianqian Wu et.al.|[2403.09367](http://arxiv.org/pdf/2403.09367.pdf)|null|
