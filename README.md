@@ -1,4 +1,4 @@
-Updated on 2024.03.22
+Updated on 2024.03.23
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -111,7 +111,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-19**|**Lifting Multi-View Detection and Tracking to the Bird's Eye View**|Torben Teepe et.al.|[2403.12573](http://arxiv.org/pdf/2403.12573.pdf)|**[link](https://github.com/tteepe/tracktacular)**|
 |**2024-03-19**|**Recovering Composition Algebras from 3D Geometric Algebras**|Daniele Corradetti et.al.|[2403.12569](http://arxiv.org/pdf/2403.12569.pdf)|null|
 |**2024-03-19**|**Non-negative tensor factorization for vibration-based local damage detection**|Mateusz Gabor et.al.|[2403.12554](http://arxiv.org/pdf/2403.12554.pdf)|null|
-|**2024-03-19**|**RGBD GS-ICP SLAM**|Seongbo Ha et.al.|[2403.12550](http://arxiv.org/pdf/2403.12550.pdf)|null|
+|**2024-03-19**|**RGBD GS-ICP SLAM**|Seongbo Ha et.al.|[2403.12550](http://arxiv.org/pdf/2403.12550.pdf)|**[link](https://github.com/lab-of-ai-and-robotics/gs_icp_slam)**|
 |**2024-03-19**|**A program for 3D nuclear static and time-dependent density-functional theory with full Skyrme energy density functional: HIT3D**|Yue Shi et.al.|[2403.12539](http://arxiv.org/pdf/2403.12539.pdf)|null|
 |**2024-03-19**|**Multi-View Active Sensing for Human-Robot Interaction via Hierarchically Connected Tree**|Yuanjiong Ying et.al.|[2403.12538](http://arxiv.org/pdf/2403.12538.pdf)|null|
 |**2024-03-19**|**High-Fidelity SLAM Using Gaussian Splatting with Rendering-Guided Densification and Regularized Optimization**|Shuo Sun et.al.|[2403.12535](http://arxiv.org/pdf/2403.12535.pdf)|null|
@@ -3561,7 +3561,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240323>back to top</a>)</p>
 
 ## NeRF
 
@@ -3964,7 +3964,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240323>back to top</a>)</p>
 
 ## Industry
 
@@ -4251,7 +4251,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2012-04-06**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-09**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240323>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -4932,7 +4932,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240323>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -5845,7 +5845,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240323>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -6324,5 +6324,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240323>back to top</a>)</p>
 
