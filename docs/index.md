@@ -157,7 +157,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-18**|**SceneSense: Diffusion Models for 3D Occupancy Synthesis from Partial Observation**|Alec Reed et.al.|[2403.11985](http://arxiv.org/pdf/2403.11985.pdf)|null|
 |**2024-03-18**|**Pedestrian Tracking with Monocular Camera using Unconstrained 3D Motion Model**|Jan Krejčí et.al.|[2403.11978](http://arxiv.org/pdf/2403.11978.pdf)|null|
 |**2024-03-18**|**Advancing COVID-19 Detection in 3D CT Scans**|Qingqiu Li et.al.|[2403.11953](http://arxiv.org/pdf/2403.11953.pdf)|null|
-|**2024-03-18**|**Learning Dynamical Systems Encoding Non-Linearity within Space Curvature**|Bernardo Fichera et.al.|[2403.11948](http://arxiv.org/pdf/2403.11948.pdf)|**[link](https://github.com/nash169/demo-learn-embedding)**|
+|**2024-03-18**|**Learning Dynamical Systems Encoding Non-Linearity within Space Curvature**|Bernardo Fichera et.al.|[2403.11948](http://arxiv.org/pdf/2403.11948.pdf)|**[link](https://github.com/nash169/learn-embedding)**|
 |**2024-03-18**|**RoGUENeRF: A Robust Geometry-Consistent Universal Enhancer for NeRF**|Sibi Catley-Chandar et.al.|[2403.11909](http://arxiv.org/pdf/2403.11909.pdf)|null|
 |**2024-03-18**|**Radiative loss and ion-neutral collisional effects in astrophysical plasmas**|Beatrice Popescu Braileanu et.al.|[2403.11900](http://arxiv.org/pdf/2403.11900.pdf)|null|
 |**2024-03-18**|**GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy Polarization Priors**|LI Yang et.al.|[2403.11899](http://arxiv.org/pdf/2403.11899.pdf)|null|
@@ -4279,7 +4279,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-15**|**Gradient based Feature Attribution in Explainable AI: A Technical Review**|Yongjie Wang et.al.|[2403.10415](http://arxiv.org/pdf/2403.10415.pdf)|null|
 |**2024-03-15**|**Real-Time Image Segmentation via Hybrid Convolutional-Transformer Architecture Search**|Hongyuan Yu et.al.|[2403.10413](http://arxiv.org/pdf/2403.10413.pdf)|**[link](https://github.com/marvinyu1995/hyctas)**|
 |**2024-03-15**|**SimPB: A Single Model for 2D and 3D Object Detection from Multiple Cameras**|Yingqi Tang et.al.|[2403.10353](http://arxiv.org/pdf/2403.10353.pdf)|null|
-|**2024-03-15**|**CoLeCLIP: Open-Domain Continual Learning via Joint Task Prompt and Vocabulary Learning**|Yukun Li et.al.|[2403.10245](http://arxiv.org/pdf/2403.10245.pdf)|null|
+|**2024-03-15**|**CoLeCLIP: Open-Domain Continual Learning via Joint Task Prompt and Vocabulary Learning**|Yukun Li et.al.|[2403.10245](http://arxiv.org/pdf/2403.10245.pdf)|**[link](https://github.com/YukunLi99/CoLeCLIP)**|
 |**2024-03-15**|**RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception**|Ruiyang Hao et.al.|[2403.10145](http://arxiv.org/pdf/2403.10145.pdf)|**[link](https://github.com/air-thu/dair-rcooper)**|
 |**2024-03-15**|**Enhancing Human-Centered Dynamic Scene Understanding via Multiple LLMs Collaborated Reasoning**|Hang Zhang et.al.|[2403.10107](http://arxiv.org/pdf/2403.10107.pdf)|null|
 |**2024-03-15**|**RangeLDM: Fast Realistic LiDAR Point Cloud Generation**|Qianjiang Hu et.al.|[2403.10094](http://arxiv.org/pdf/2403.10094.pdf)|null|
@@ -4979,7 +4979,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-15**|**SimPB: A Single Model for 2D and 3D Object Detection from Multiple Cameras**|Yingqi Tang et.al.|[2403.10353](http://arxiv.org/pdf/2403.10353.pdf)|null|
 |**2024-03-15**|**Thermal-NeRF: Neural Radiance Fields from an Infrared Camera**|Tianxiang Ye et.al.|[2403.10340](http://arxiv.org/pdf/2403.10340.pdf)|null|
 |**2024-03-20**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297](http://arxiv.org/pdf/2403.10297.pdf)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
-|**2024-03-15**|**CoLeCLIP: Open-Domain Continual Learning via Joint Task Prompt and Vocabulary Learning**|Yukun Li et.al.|[2403.10245](http://arxiv.org/pdf/2403.10245.pdf)|null|
+|**2024-03-15**|**CoLeCLIP: Open-Domain Continual Learning via Joint Task Prompt and Vocabulary Learning**|Yukun Li et.al.|[2403.10245](http://arxiv.org/pdf/2403.10245.pdf)|**[link](https://github.com/YukunLi99/CoLeCLIP)**|
 |**2024-03-15**|**SemanticHuman-HD: High-Resolution Semantic Disentangled 3D Human Generation**|Peng Zheng et.al.|[2403.10166](http://arxiv.org/pdf/2403.10166.pdf)|null|
 |**2024-03-15**|**RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception**|Ruiyang Hao et.al.|[2403.10145](http://arxiv.org/pdf/2403.10145.pdf)|**[link](https://github.com/air-thu/dair-rcooper)**|
 |**2024-03-15**|**URS-NeRF: Unordered Rolling Shutter Bundle Adjustment for Neural Radiance Fields**|Bo Xu et.al.|[2403.10119](http://arxiv.org/pdf/2403.10119.pdf)|null|
