@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.03.23
+Updated on 2024.03.24
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -282,7 +282,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-14**|**MARVIS: Motion & Geometry Aware Real and Virtual Image Segmentation**|Jiayi Wu et.al.|[2403.09850](http://arxiv.org/pdf/2403.09850.pdf)|**[link](https://github.com/jiayi-wu-umd/marvis)**|
 |**2024-03-14**|**Kitaev physics in the two-dimensional magnet NiPSe $_3$**|Cheng Peng et.al.|[2403.09831](http://arxiv.org/pdf/2403.09831.pdf)|null|
 |**2024-03-14**|**FastSAM3D: An Efficient Segment Anything Model for 3D Volumetric Medical Images**|Yiqing Shen et.al.|[2403.09827](http://arxiv.org/pdf/2403.09827.pdf)|**[link](https://github.com/arcadelab/fastsam3d)**|
-|**2024-03-14**|**On the Utility of 3D Hand Poses for Action Recognition**|Md Salman Shamil et.al.|[2403.09805](http://arxiv.org/pdf/2403.09805.pdf)|null|
+|**2024-03-14**|**On the Utility of 3D Hand Poses for Action Recognition**|Md Salman Shamil et.al.|[2403.09805](http://arxiv.org/pdf/2403.09805.pdf)|**[link](https://github.com/s-shamil/HandFormer)**|
 |**2024-03-14**|**BOP Challenge 2023 on Detection, Segmentation and Pose Estimation of Seen and Unseen Rigid Objects**|Tomas Hodan et.al.|[2403.09799](http://arxiv.org/pdf/2403.09799.pdf)|null|
 |**2024-03-14**|**GroupContrast: Semantic-aware Self-supervised Representation Learning for 3D Understanding**|Chengyao Wang et.al.|[2403.09639](http://arxiv.org/pdf/2403.09639.pdf)|**[link](https://github.com/dvlab-research/groupcontrast)**|
 |**2024-03-14**|**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**|Yuhang Zheng et.al.|[2403.09637](http://arxiv.org/pdf/2403.09637.pdf)|**[link](https://github.com/mrsecant/gaussiangrasper)**|

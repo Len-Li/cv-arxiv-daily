@@ -1,4 +1,4 @@
-Updated on 2024.03.23
+Updated on 2024.03.24
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -279,7 +279,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-14**|**MARVIS: Motion & Geometry Aware Real and Virtual Image Segmentation**|Jiayi Wu et.al.|[2403.09850](http://arxiv.org/pdf/2403.09850.pdf)|**[link](https://github.com/jiayi-wu-umd/marvis)**|
 |**2024-03-14**|**Kitaev physics in the two-dimensional magnet NiPSe $_3$**|Cheng Peng et.al.|[2403.09831](http://arxiv.org/pdf/2403.09831.pdf)|null|
 |**2024-03-14**|**FastSAM3D: An Efficient Segment Anything Model for 3D Volumetric Medical Images**|Yiqing Shen et.al.|[2403.09827](http://arxiv.org/pdf/2403.09827.pdf)|**[link](https://github.com/arcadelab/fastsam3d)**|
-|**2024-03-14**|**On the Utility of 3D Hand Poses for Action Recognition**|Md Salman Shamil et.al.|[2403.09805](http://arxiv.org/pdf/2403.09805.pdf)|null|
+|**2024-03-14**|**On the Utility of 3D Hand Poses for Action Recognition**|Md Salman Shamil et.al.|[2403.09805](http://arxiv.org/pdf/2403.09805.pdf)|**[link](https://github.com/s-shamil/HandFormer)**|
 |**2024-03-14**|**BOP Challenge 2023 on Detection, Segmentation and Pose Estimation of Seen and Unseen Rigid Objects**|Tomas Hodan et.al.|[2403.09799](http://arxiv.org/pdf/2403.09799.pdf)|null|
 |**2024-03-14**|**GroupContrast: Semantic-aware Self-supervised Representation Learning for 3D Understanding**|Chengyao Wang et.al.|[2403.09639](http://arxiv.org/pdf/2403.09639.pdf)|**[link](https://github.com/dvlab-research/groupcontrast)**|
 |**2024-03-14**|**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**|Yuhang Zheng et.al.|[2403.09637](http://arxiv.org/pdf/2403.09637.pdf)|**[link](https://github.com/mrsecant/gaussiangrasper)**|
@@ -3561,7 +3561,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20240323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240324>back to top</a>)</p>
 
 ## NeRF
 
@@ -3964,7 +3964,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20240323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240324>back to top</a>)</p>
 
 ## Industry
 
@@ -4251,7 +4251,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2012-04-06**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-09**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20240323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240324>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -4932,7 +4932,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20240323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240324>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -5845,7 +5845,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20240323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240324>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -6324,5 +6324,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20240323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240324>back to top</a>)</p>
 
