@@ -28,6 +28,8 @@ keywords:
     #     filters: ["3D detection", "3D object detection", "BEV detection"]
     "NeRF":
         filters: ["NeRF", "neural radiance field"]
+    "Diffusion":
+        filters: ["diffusion", "controlnet", "video diffusion", "Text-to-Video"]
     "Industry":
         filters: ["NVIDIA", "Waymo", "DJI", 'Waabi', 'Raquel Urtasun', 'Sanja Fidler']
     "Autonomous Driving":
