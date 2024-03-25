@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.03.24
+Updated on 2024.03.25
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -59,7 +59,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-20**|**LFS-Aware Surface Reconstruction from Unoriented 3D Point Clouds**|Rao Fu et.al.|[2403.13924](http://arxiv.org/pdf/2403.13924.pdf)|**[link](https://github.com/bizerfr/lfs-aware-reconstruction)**|
 |**2024-03-20**|**CoMo: Controllable Motion Generation through Language Guided Pose Code Editing**|Yiming Huang et.al.|[2403.13900](http://arxiv.org/pdf/2403.13900.pdf)|null|
 |**2024-03-20**|**A scattering theory construction of dynamical solitons in 3d**|Istvan Kadar et.al.|[2403.13891](http://arxiv.org/pdf/2403.13891.pdf)|null|
-|**2024-03-20**|**A Noisy Approach to Intrinsically Mixed-State Topological Order**|Ramanjit Sohal et.al.|[2403.13879](http://arxiv.org/pdf/2403.13879.pdf)|null|
+|**2024-03-22**|**A Noisy Approach to Intrinsically Mixed-State Topological Order**|Ramanjit Sohal et.al.|[2403.13879](http://arxiv.org/pdf/2403.13879.pdf)|null|
 |**2024-03-20**|**Embedding Pose Graph, Enabling 3D Foundation Model Capabilities with a Compact Representation**|Hugues Thomas et.al.|[2403.13777](http://arxiv.org/pdf/2403.13777.pdf)|null|
 |**2024-03-20**|**Heavy States in 3d Gravity and 2d CFT**|David Grabovsky et.al.|[2403.13757](http://arxiv.org/pdf/2403.13757.pdf)|null|
 |**2024-03-20**|**Unraveling the Optical Signatures of Polymeric Carbon Nitrides: Insights into Stacking-Induced Excitonic Transitions**|Changbin Im et.al.|[2403.13685](http://arxiv.org/pdf/2403.13685.pdf)|null|
@@ -3758,7 +3758,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-12-09**|**CoGS: Controllable Gaussian Splatting**|Heng Yu et.al.|[2312.05664](http://arxiv.org/pdf/2312.05664.pdf)|null|
 |**2023-12-08**|**360° Volumetric Portrait Avatar**|Jalees Nehvi et.al.|[2312.05311](http://arxiv.org/pdf/2312.05311.pdf)|null|
 |**2023-12-11**|**Nuvo: Neural UV Mapping for Unruly 3D Representations**|Pratul P. Srinivasan et.al.|[2312.05283](http://arxiv.org/pdf/2312.05283.pdf)|null|
-|**2023-12-08**|**SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation**|Thuan Hoang Nguyen et.al.|[2312.05239](http://arxiv.org/pdf/2312.05239.pdf)|null|
+|**2024-03-22**|**SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation**|Thuan Hoang Nguyen et.al.|[2312.05239](http://arxiv.org/pdf/2312.05239.pdf)|null|
 |**2023-12-08**|**TriHuman : A Real-time and Controllable Tri-plane Representation for Detailed Human Geometry and Appearance Synthesis**|Heming Zhu et.al.|[2312.05161](http://arxiv.org/pdf/2312.05161.pdf)|null|
 |**2023-12-07**|**NeuSD: Surface Completion with Multi-View Text-to-Image Diffusion**|Savva Ignatyev et.al.|[2312.04654](http://arxiv.org/pdf/2312.04654.pdf)|null|
 |**2023-12-07**|**VOODOO 3D: Volumetric Portrait Disentanglement for One-Shot 3D Head Reenactment**|Phong Tran et.al.|[2312.04651](http://arxiv.org/pdf/2312.04651.pdf)|null|
@@ -3775,7 +3775,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-12-05**|**HeadGaS: Real-Time Animatable Head Avatars via 3D Gaussian Splatting**|Helisa Dhamo et.al.|[2312.02902](http://arxiv.org/pdf/2312.02902.pdf)|null|
 |**2023-12-23**|**C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF**|Rui Huang et.al.|[2312.02751](http://arxiv.org/pdf/2312.02751.pdf)|**[link](https://github.com/c-nerf/c-nerf)**|
 |**2023-12-05**|**FINER: Flexible spectral-bias tuning in Implicit NEural Representation by Variable-periodic Activation Functions**|Zhen Liu et.al.|[2312.02434](http://arxiv.org/pdf/2312.02434.pdf)|null|
-|**2023-12-04**|**PointNeRF++: A multi-scale, point-based Neural Radiance Field**|Weiwei Sun et.al.|[2312.02362](http://arxiv.org/pdf/2312.02362.pdf)|null|
+|**2024-03-21**|**PointNeRF++: A multi-scale, point-based Neural Radiance Field**|Weiwei Sun et.al.|[2312.02362](http://arxiv.org/pdf/2312.02362.pdf)|null|
 |**2024-03-19**|**Instant Uncertainty Calibration of NeRFs Using a Meta-calibrator**|Niki Amini-Naieni et.al.|[2312.02350](http://arxiv.org/pdf/2312.02350.pdf)|null|
 |**2023-12-04**|**Re-Nerfing: Enforcing Geometric Constraints on Neural Radiance Fields through Novel Views Synthesis**|Felix Tristram et.al.|[2312.02255](http://arxiv.org/pdf/2312.02255.pdf)|null|
 |**2024-01-23**|**WavePlanes: A compact Wavelet representation for Dynamic Neural Radiance Fields**|Adrian Azzarelli et.al.|[2312.02218](http://arxiv.org/pdf/2312.02218.pdf)|**[link](https://github.com/azzarelli/waveplanes)**|
@@ -5844,7 +5844,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-21**|**Learning Hierarchical Control For Constrained Dynamic Task Assignment**|Charlott Vallon et.al.|[2403.14545](http://arxiv.org/pdf/2403.14545.pdf)|null|
+|**2024-03-22**|**Learning Hierarchical Control For Multi-Agent Capacity-Constrained Systems**|Charlott Vallon et.al.|[2403.14545](http://arxiv.org/pdf/2403.14545.pdf)|null|
 |**2024-03-21**|**Exosense: A Vision-Centric Scene Understanding System For Safe Exoskeleton Navigation**|Jianeng Wang et.al.|[2403.14320](http://arxiv.org/pdf/2403.14320.pdf)|null|
 |**2024-03-21**|**Existence Is Chaos: Enhancing 3D Human Motion Prediction with Uncertainty Consideration**|Zhihao Wang et.al.|[2403.14104](http://arxiv.org/pdf/2403.14104.pdf)|null|
 |**2024-03-20**|**Motion Prediction of Multi-agent systems with Multi-view clustering**|Anegi James et.al.|[2403.13905](http://arxiv.org/pdf/2403.13905.pdf)|null|
