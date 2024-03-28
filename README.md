@@ -1,4 +1,4 @@
-Updated on 2024.03.27
+Updated on 2024.03.28
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -48,7 +48,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-26**|**SSF3D: Strict Semi-Supervised 3D Object Detection with Switching Filter**|Songbur Wong et.al.|[2403.17390](http://arxiv.org/pdf/2403.17390.pdf)|null|
 |**2024-03-26**|**Decoupled Pseudo-labeling for Semi-Supervised Monocular 3D Object Detection**|Jiacheng Zhang et.al.|[2403.17387](http://arxiv.org/pdf/2403.17387.pdf)|null|
 |**2024-03-26**|**TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos**|Yufu Wang et.al.|[2403.17346](http://arxiv.org/pdf/2403.17346.pdf)|null|
-|**2024-03-26**|**Language Models are Free Boosters for Biomedical Imaging Tasks**|Zhixin Lai et.al.|[2403.17343](http://arxiv.org/pdf/2403.17343.pdf)|**[link](https://github.com/zhixinlai/llmboostmedical)**|
+|**2024-03-27**|**Language Models are Free Boosters for Biomedical Imaging Tasks**|Zhixin Lai et.al.|[2403.17343](http://arxiv.org/pdf/2403.17343.pdf)|**[link](https://github.com/zhixinlai/llmboostmedical)**|
 |**2024-03-26**|**Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving**|Junhao Zheng et.al.|[2403.17301](http://arxiv.org/pdf/2403.17301.pdf)|**[link](https://github.com/gandolfczjh/3d2fool)**|
 |**2024-03-26**|**Maximum A Posteriori Ly-alpha Estimator (MAPLE): Band-power and covariance estimation of the 3D Ly-alpha forest power spectrum**|Benjamin Horowitz et.al.|[2403.17294](http://arxiv.org/pdf/2403.17294.pdf)|null|
 |**2024-03-26**|**Mesoscale Polymer Arrays: High Aspect Ratio Surface Structures and Their Digital Reconstruction**|Demi E. Moed et.al.|[2403.17283](http://arxiv.org/pdf/2403.17283.pdf)|null|
@@ -61,8 +61,8 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-25**|**3D printing of hierarchical structures made of inorganic silicon-rich glass featuring self-forming nanogratings**|Po-Han Huang et.al.|[2403.17102](http://arxiv.org/pdf/2403.17102.pdf)|null|
 |**2024-03-25**|**Understanding the Multi-wavelength Thermal Dust Polarization from the Orion Molecular Cloud in Light of the Radiative Torque Paradigm**|Le Ngoc Tram et.al.|[2403.17088](http://arxiv.org/pdf/2403.17088.pdf)|null|
 |**2024-03-25**|**Quantum Liquids: Emergent higher-rank gauge theory and fractons**|Yizhi You et.al.|[2403.17074](http://arxiv.org/pdf/2403.17074.pdf)|null|
-|**2024-03-25**|**Calib3D: Calibrating Model Preferences for Reliable 3D Scene Understanding**|Lingdong Kong et.al.|[2403.17010](http://arxiv.org/pdf/2403.17010.pdf)|null|
-|**2024-03-25**|**Optimizing LiDAR Placements for Robust Driving Perception in Adverse Conditions**|Ye Li et.al.|[2403.17009](http://arxiv.org/pdf/2403.17009.pdf)|null|
+|**2024-03-25**|**Calib3D: Calibrating Model Preferences for Reliable 3D Scene Understanding**|Lingdong Kong et.al.|[2403.17010](http://arxiv.org/pdf/2403.17010.pdf)|**[link](https://github.com/ldkong1205/calib3d)**|
+|**2024-03-25**|**Optimizing LiDAR Placements for Robust Driving Perception in Adverse Conditions**|Ye Li et.al.|[2403.17009](http://arxiv.org/pdf/2403.17009.pdf)|**[link](https://github.com/ywyeli/place3d)**|
 |**2024-03-25**|**TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models**|Zhongwei Zhang et.al.|[2403.17005](http://arxiv.org/pdf/2403.17005.pdf)|null|
 |**2024-03-25**|**VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation**|Yang Chen et.al.|[2403.17001](http://arxiv.org/pdf/2403.17001.pdf)|null|
 |**2024-03-25**|**Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution**|Zhikai Chen et.al.|[2403.17000](http://arxiv.org/pdf/2403.17000.pdf)|null|
@@ -75,7 +75,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-25**|**TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments**|Chen Yao et.al.|[2403.16875](http://arxiv.org/pdf/2403.16875.pdf)|null|
 |**2024-03-25**|**Holographic Gaussian Boson Sampling with Matrix Product States on 3D cQED Processors**|Ningyi Lyu et.al.|[2403.16810](http://arxiv.org/pdf/2403.16810.pdf)|null|
 |**2024-03-25**|**Exploiting Priors from 3D Diffusion Models for RGB-Based One-Shot View Planning**|Sicong Pan et.al.|[2403.16803](http://arxiv.org/pdf/2403.16803.pdf)|null|
-|**2024-03-25**|**CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation**|Guoyang Zhao et.al.|[2403.16794](http://arxiv.org/pdf/2403.16794.pdf)|null|
+|**2024-03-25**|**CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation**|Guoyang Zhao et.al.|[2403.16794](http://arxiv.org/pdf/2403.16794.pdf)|**[link](https://github.com/guoyangzhao/curbnet)**|
 |**2024-03-25**|**C-arm inverse geometry CT for 3D cardiac chamber mapping**|Jordan M. Slagowski et.al.|[2403.16779](http://arxiv.org/pdf/2403.16779.pdf)|null|
 |**2024-03-25**|**Modeling the secular evolution of embedded protoplanetary discs**|J. Mauxion et.al.|[2403.16753](http://arxiv.org/pdf/2403.16753.pdf)|null|
 |**2024-03-25**|**Creating a Digital Twin of Spinal Surgery: A Proof of Concept**|Jonas Hein et.al.|[2403.16736](http://arxiv.org/pdf/2403.16736.pdf)|null|
@@ -115,12 +115,12 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-24**|**BIMCV-R: A Landmark Dataset for 3D CT Text-Image Retrieval**|Yinda Chen et.al.|[2403.15992](http://arxiv.org/pdf/2403.15992.pdf)|null|
 |**2024-03-24**|**Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields**|unhong Zhao et.al.|[2403.15981](http://arxiv.org/pdf/2403.15981.pdf)|null|
 |**2024-03-24**|**PSHop: A Lightweight Feed-Forward Method for 3D Prostate Gland Segmentation**|Yijing Yang et.al.|[2403.15971](http://arxiv.org/pdf/2403.15971.pdf)|null|
-|**2024-03-23**|**Deep Probabilistic Direction Prediction in 3D with Applications to Directional Dark Matter Detectors**|Majd Ghrear et.al.|[2403.15949](http://arxiv.org/pdf/2403.15949.pdf)|null|
+|**2024-03-23**|**Deep Probabilistic Direction Prediction in 3D with Applications to Directional Dark Matter Detectors**|Majd Ghrear et.al.|[2403.15949](http://arxiv.org/pdf/2403.15949.pdf)|**[link](https://github.com/mghrear/3d_heteroscedastic_convnet)**|
 |**2024-03-23**|**Team Coordination on Graphs: Problem, Analysis, and Algorithms**|Manshi Limbu et.al.|[2403.15946](http://arxiv.org/pdf/2403.15946.pdf)|null|
 |**2024-03-23**|**Three-dimensional clustering characteristics of large-stokes number sprays interacting with turbulent swirling co-flows**|Ali Rostami et.al.|[2403.15945](http://arxiv.org/pdf/2403.15945.pdf)|null|
 |**2024-03-23**|**Explore until Confident: Efficient Exploration for Embodied Question Answering**|Allen Z. Ren et.al.|[2403.15941](http://arxiv.org/pdf/2403.15941.pdf)|null|
 |**2024-03-23**|**Spatio-Temporal Bi-directional Cross-frame Memory for Distractor Filtering Point Cloud Single Object Tracking**|Shaoyu Sun et.al.|[2403.15831](http://arxiv.org/pdf/2403.15831.pdf)|null|
-|**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791](http://arxiv.org/pdf/2403.15791.pdf)|null|
+|**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791](http://arxiv.org/pdf/2403.15791.pdf)|**[link](https://github.com/muyishen2040/driveenvnerf)**|
 |**2024-03-23**|**3D-TransUNet for Brain Metastases Segmentation in the BraTS2023 Challenge**|Siwei Yang et.al.|[2403.15735](http://arxiv.org/pdf/2403.15735.pdf)|null|
 |**2024-03-23**|**Contact-aware Human Motion Generation from Textual Descriptions**|Sihan Ma et.al.|[2403.15709](http://arxiv.org/pdf/2403.15709.pdf)|null|
 |**2024-03-23**|**UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation**|Yuliang Guo et.al.|[2403.15705](http://arxiv.org/pdf/2403.15705.pdf)|null|
@@ -137,7 +137,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-17**|**Unified Generative Modeling of 3D Molecules via Bayesian Flow Networks**|Yuxuan Song et.al.|[2403.15441](http://arxiv.org/pdf/2403.15441.pdf)|**[link](https://github.com/AlgoMole/GeoBFN)**|
 |**2024-03-22**|**LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis**|Kevin Xie et.al.|[2403.15385](http://arxiv.org/pdf/2403.15385.pdf)|null|
 |**2024-03-22**|**ThemeStation: Generating Theme-Aware 3D Assets from Few Exemplars**|Zhenwei Wang et.al.|[2403.15383](http://arxiv.org/pdf/2403.15383.pdf)|null|
-|**2024-03-22**|**Time-efficient, high-resolution 3T whole-brain relaxometry using Cartesian 3D MR-STAT with CSF suppression**|Hongyan Liu et.al.|[2403.15379](http://arxiv.org/pdf/2403.15379.pdf)|null|
+|**2024-03-22**|**Time-efficient, high-resolution 3T whole-brain relaxometry using Cartesian 3D MR-STAT with CSF suppression**|Hongyan Liu et.al.|[2403.15379](http://arxiv.org/pdf/2403.15379.pdf)|**[link](https://gitlab.com/hongyanliu/3d-mr-stat-brain)**|
 |**2024-03-22**|**Augmented Reality based Simulated Data (ARSim) with multi-view consistency for AV perception networks**|Aqeel Anwar et.al.|[2403.15370](http://arxiv.org/pdf/2403.15370.pdf)|null|
 |**2024-03-22**|**Topological analysis and experimental control of transformations of domain walls in magnetic cylindrical nanowires**|L. Álvaro-Gómez et.al.|[2403.15343](http://arxiv.org/pdf/2403.15343.pdf)|null|
 |**2024-03-25**|**Point-DETR3D: Leveraging Imagery Data with Spatial Point Prior for Weakly Semi-supervised 3D Object Detection**|Hongzhi Gao et.al.|[2403.15317](http://arxiv.org/pdf/2403.15317.pdf)|null|
@@ -3727,7 +3727,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20240327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240328>back to top</a>)</p>
 
 ## NeRF
 
@@ -3744,7 +3744,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-26**|**PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**|Xiaoyun Zheng et.al.|[2403.16080](http://arxiv.org/pdf/2403.16080.pdf)|**[link](https://github.com/zhengxyun/PKU-DyMVHumans)**|
 |**2024-03-24**|**Semantic Is Enough: Only Semantic Information For NeRF Reconstruction**|Ruibo Wang et.al.|[2403.16043](http://arxiv.org/pdf/2403.16043.pdf)|null|
 |**2024-03-24**|**Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields**|unhong Zhao et.al.|[2403.15981](http://arxiv.org/pdf/2403.15981.pdf)|null|
-|**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791](http://arxiv.org/pdf/2403.15791.pdf)|null|
+|**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791](http://arxiv.org/pdf/2403.15791.pdf)|**[link](https://github.com/muyishen2040/driveenvnerf)**|
 |**2024-03-23**|**Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections**|Dongbin Zhang et.al.|[2403.15704](http://arxiv.org/pdf/2403.15704.pdf)|null|
 |**2024-03-22**|**Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting**|Jun Guo et.al.|[2403.15624](http://arxiv.org/pdf/2403.15624.pdf)|null|
 |**2024-03-21**|**Hyperspectral Neural Radiance Fields**|Gerry Chen et.al.|[2403.14839](http://arxiv.org/pdf/2403.14839.pdf)|null|
@@ -4145,7 +4145,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20240327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240328>back to top</a>)</p>
 
 ## Industry
 
@@ -4434,7 +4434,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2012-04-06**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-09**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20240327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240328>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -4462,7 +4462,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-24**|**Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap**|Carl Lindström et.al.|[2403.16092](http://arxiv.org/pdf/2403.16092.pdf)|null|
 |**2024-03-23**|**iA $^*$: Imperative Learning-based A$^*$ Search for Pathfinding**|Xiangyu Chen et.al.|[2403.15870](http://arxiv.org/pdf/2403.15870.pdf)|null|
 |**2024-03-23**|**Spatio-Temporal Bi-directional Cross-frame Memory for Distractor Filtering Point Cloud Single Object Tracking**|Shaoyu Sun et.al.|[2403.15831](http://arxiv.org/pdf/2403.15831.pdf)|null|
-|**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791](http://arxiv.org/pdf/2403.15791.pdf)|null|
+|**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791](http://arxiv.org/pdf/2403.15791.pdf)|**[link](https://github.com/muyishen2040/driveenvnerf)**|
 |**2024-03-23**|**PNAS-MOT: Multi-Modal Object Tracking with Pareto Neural Architecture Search**|Chensheng Peng et.al.|[2403.15712](http://arxiv.org/pdf/2403.15712.pdf)|**[link](https://github.com/pholypeng/pnas-mot)**|
 |**2024-03-22**|**Autonomous Driving With Perception Uncertainties: Deep-Ensemble Based Adaptive Cruise Control**|Xiao Li et.al.|[2403.15577](http://arxiv.org/pdf/2403.15577.pdf)|null|
 |**2024-03-20**|**EC-IoU: Orienting Safety for Object Detectors via Ego-Centric Intersection-over-Union**|Brian Hsuan-Cheng Liao et.al.|[2403.15474](http://arxiv.org/pdf/2403.15474.pdf)|null|
@@ -5148,7 +5148,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20240327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240328>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -5183,7 +5183,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-24**|**Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields**|unhong Zhao et.al.|[2403.15981](http://arxiv.org/pdf/2403.15981.pdf)|null|
 |**2024-03-23**|**iA $^*$: Imperative Learning-based A$^*$ Search for Pathfinding**|Xiangyu Chen et.al.|[2403.15870](http://arxiv.org/pdf/2403.15870.pdf)|null|
 |**2024-03-23**|**Spatio-Temporal Bi-directional Cross-frame Memory for Distractor Filtering Point Cloud Single Object Tracking**|Shaoyu Sun et.al.|[2403.15831](http://arxiv.org/pdf/2403.15831.pdf)|null|
-|**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791](http://arxiv.org/pdf/2403.15791.pdf)|null|
+|**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791](http://arxiv.org/pdf/2403.15791.pdf)|**[link](https://github.com/muyishen2040/driveenvnerf)**|
 |**2024-03-23**|**PNAS-MOT: Multi-Modal Object Tracking with Pareto Neural Architecture Search**|Chensheng Peng et.al.|[2403.15712](http://arxiv.org/pdf/2403.15712.pdf)|**[link](https://github.com/pholypeng/pnas-mot)**|
 |**2024-03-23**|**Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections**|Dongbin Zhang et.al.|[2403.15704](http://arxiv.org/pdf/2403.15704.pdf)|null|
 |**2024-03-22**|**Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting**|Jun Guo et.al.|[2403.15624](http://arxiv.org/pdf/2403.15624.pdf)|null|
@@ -6104,7 +6104,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20240327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240328>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -6129,7 +6129,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-23**|**Motion Planning for Identification of Linear Classifiers**|Aneesh Raghavan et.al.|[2403.15687](http://arxiv.org/pdf/2403.15687.pdf)|null|
 |**2024-03-22**|**Autonomous Driving With Perception Uncertainties: Deep-Ensemble Based Adaptive Cruise Control**|Xiao Li et.al.|[2403.15577](http://arxiv.org/pdf/2403.15577.pdf)|null|
 |**2024-03-22**|**OceanPlan: Hierarchical Planning and Replanning for Natural Language AUV Piloting in Large-scale Unexplored Ocean Environments**|Ruochu Yang et.al.|[2403.15369](http://arxiv.org/pdf/2403.15369.pdf)|null|
-|**2024-03-22**|**ALPINE: a climbing robot for operations in mountain environments**|Michele Focchi et.al.|[2403.15142](http://arxiv.org/pdf/2403.15142.pdf)|null|
+|**2024-03-22**|**ALPINE: a climbing robot for operations in mountain environments**|Michele Focchi et.al.|[2403.15142](http://arxiv.org/pdf/2403.15142.pdf)|**[link](https://github.com/mfocchi/climbing_robots2)**|
 |**2024-03-22**|**UniTraj: A Unified Framework for Scalable Vehicle Trajectory Prediction**|Lan Feng et.al.|[2403.15098](http://arxiv.org/pdf/2403.15098.pdf)|**[link](https://github.com/vita-epfl/unitraj)**|
 |**2024-03-22**|**Linear Quadratic Guidance Law for Joint Motion Planning of a Pursuer-Turret Assembly**|Bhargav Jha et.al.|[2403.14997](http://arxiv.org/pdf/2403.14997.pdf)|null|
 |**2024-03-22**|**Boundary-Aware Value Function Generation for Safe Stochastic Motion Planning**|Junhong Xu et.al.|[2403.14956](http://arxiv.org/pdf/2403.14956.pdf)|null|
@@ -6606,7 +6606,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20240327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240328>back to top</a>)</p>
 
 ## Diffusion
 
@@ -6626,7 +6626,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-18**|**EchoReel: Enhancing Action Generation of Existing Video Diffusion Models**|Jianzhi liu et.al.|[2403.11535](http://arxiv.org/pdf/2403.11535.pdf)|**[link](https://github.com/liujianzhi/echoreel)**|
 |**2024-03-13**|**Envision3D: One Image to 3D with Anchor Views Interpolation**|Yatian Pang et.al.|[2403.08902](http://arxiv.org/pdf/2403.08902.pdf)|**[link](https://github.com/pku-yuangroup/envision3d)**|
 |**2024-03-10**|**WorldGPT: A Sora-Inspired Video AI Agent as Rich World Models from Text and Image Inputs**|Deshun Yang et.al.|[2403.07944](http://arxiv.org/pdf/2403.07944.pdf)|null|
-|**2024-03-12**|**SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces**|Yuta Oshima et.al.|[2403.07711](http://arxiv.org/pdf/2403.07711.pdf)|**[link](https://github.com/shim0114/ssm-meets-video-diffusion-models)**|
+|**2024-03-27**|**SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces**|Yuta Oshima et.al.|[2403.07711](http://arxiv.org/pdf/2403.07711.pdf)|**[link](https://github.com/shim0114/ssm-meets-video-diffusion-models)**|
 |**2024-03-11**|**V3D: Video Diffusion Models are Effective 3D Generators**|Zilong Chen et.al.|[2403.06738](http://arxiv.org/pdf/2403.06738.pdf)|**[link](https://github.com/heheyas/v3d)**|
 |**2024-03-10**|**VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models**|Wenhao Wang et.al.|[2403.06098](http://arxiv.org/pdf/2403.06098.pdf)|**[link](https://github.com/wangwenhao0716/vidprom)**|
 |**2024-03-08**|**VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models**|Yabo Zhang et.al.|[2403.05438](http://arxiv.org/pdf/2403.05438.pdf)|**[link](https://github.com/ybybzhang/videoelevator)**|
@@ -6635,7 +6635,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-01**|**Abductive Ego-View Accident Video Understanding for Safe Driving Perception**|Jianwu Fang et.al.|[2403.00436](http://arxiv.org/pdf/2403.00436.pdf)|null|
 |**2024-02-28**|**Context-aware Talking Face Video Generation**|Meidai Xuanyuan et.al.|[2402.18092](http://arxiv.org/pdf/2402.18092.pdf)|null|
 |**2024-02-22**|**Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models**|Yixuan Ren et.al.|[2402.14780](http://arxiv.org/pdf/2402.14780.pdf)|null|
-|**2024-02-21**|**Hybrid Video Diffusion Models with 2D Triplane and 3D Wavelet Representation**|Kihong Kim et.al.|[2402.13729](http://arxiv.org/pdf/2402.13729.pdf)|null|
+|**2024-03-27**|**Hybrid Video Diffusion Models with 2D Triplane and 3D Wavelet Representation**|Kihong Kim et.al.|[2402.13729](http://arxiv.org/pdf/2402.13729.pdf)|null|
 |**2024-02-08**|**Animated Stickers: Bringing Stickers to Life with Video Diffusion**|David Yan et.al.|[2402.06088](http://arxiv.org/pdf/2402.06088.pdf)|null|
 |**2024-02-05**|**Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion**|Shiyuan Yang et.al.|[2402.03162](http://arxiv.org/pdf/2402.03162.pdf)|null|
 |**2024-02-02**|**Boximator: Generating Rich and Controllable Motions for Video Synthesis**|Jiawei Wang et.al.|[2402.01566](http://arxiv.org/pdf/2402.01566.pdf)|null|
@@ -6713,5 +6713,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-06-22**|**Video Diffusion Models**|Jonathan Ho et.al.|[2204.03458](http://arxiv.org/pdf/2204.03458.pdf)|null|
 |**2022-12-08**|**Diffusion Probabilistic Modeling for Video Generation**|Ruihan Yang et.al.|[2203.09481](http://arxiv.org/pdf/2203.09481.pdf)|**[link](https://github.com/buggyyang/rvd)**|
 
-<p align=right>(<a href=#Updated-on-20240327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240328>back to top</a>)</p>
 
