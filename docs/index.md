@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.03.30
+Updated on 2024.03.31
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -78,7 +78,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-27**|**Density-guided Translator Boosts Synthetic-to-Real Unsupervised Domain Adaptive Segmentation of 3D Point Clouds**|Zhimin Yuan et.al.|[2403.18469](http://arxiv.org/pdf/2403.18469.pdf)|**[link](https://github.com/yuan-zm/dgt-st)**|
 |**2024-03-27**|**Backpropagation-free Network for 3D Test-time Adaptation**|Yanshuo Wang et.al.|[2403.18442](http://arxiv.org/pdf/2403.18442.pdf)|null|
 |**2024-03-27**|**MonoHair: High-Fidelity Hair Modeling from a Monocular Video**|Keyu Wu et.al.|[2403.18356](http://arxiv.org/pdf/2403.18356.pdf)|null|
-|**2024-03-27**|**Learning Inclusion Matching for Animation Paint Bucket Colorization**|Yuekun Dai et.al.|[2403.18342](http://arxiv.org/pdf/2403.18342.pdf)|null|
+|**2024-03-27**|**Learning Inclusion Matching for Animation Paint Bucket Colorization**|Yuekun Dai et.al.|[2403.18342](http://arxiv.org/pdf/2403.18342.pdf)|**[link](https://github.com/ykdai/BasicPBC)**|
 |**2024-03-27**|**3D Gap Opening in Non-Ideal MHD Protoplanetary Disks: Asymmetric Accretion, Meridional Vortices, and Observational Signatures**|Xiao Hu et.al.|[2403.18292](http://arxiv.org/pdf/2403.18292.pdf)|null|
 |**2024-03-27**|**AIR-HLoc: Adaptive Image Retrieval for Efficient Visual Localisation**|Changkun Liu et.al.|[2403.18281](http://arxiv.org/pdf/2403.18281.pdf)|null|
 |**2024-03-27**|**RoboKeyGen: Robot Pose and Joint Angles Estimation via Diffusion-based 3D Keypoint Generation**|Yang Tian et.al.|[2403.18259](http://arxiv.org/pdf/2403.18259.pdf)|null|
@@ -4523,7 +4523,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-28**|**Human-compatible driving partners through data-regularized self-play reinforcement learning**|Daphne Cornelisse et.al.|[2403.19648](http://arxiv.org/pdf/2403.19648.pdf)|**[link](https://github.com/emerge-lab/nocturne_lab)**|
-|**2024-03-28**|**Learning Sampling Distribution and Safety Filter for Autonomous Driving with VQ-VAE and Differentiable Optimization**|Simon Idoko et.al.|[2403.19461](http://arxiv.org/pdf/2403.19461.pdf)|null|
+|**2024-03-28**|**Learning Sampling Distribution and Safety Filter for Autonomous Driving with VQ-VAE and Differentiable Optimization**|Simon Idoko et.al.|[2403.19461](http://arxiv.org/pdf/2403.19461.pdf)|**[link](https://github.com/cisimon7/vqoptmain)**|
 |**2024-03-28**|**SubjectDrive: Scaling Generative Data in Autonomous Driving via Subject Control**|Binyuan Huang et.al.|[2403.19438](http://arxiv.org/pdf/2403.19438.pdf)|null|
 |**2024-03-28**|**Learning a Formally Verified Control Barrier Function in Stochastic Environment**|Manan Tayal et.al.|[2403.19332](http://arxiv.org/pdf/2403.19332.pdf)|null|
 |**2024-03-28**|**CRKD: Enhanced Camera-Radar Object Detection with Cross-modality Knowledge Distillation**|Lingjun Zhao et.al.|[2403.19104](http://arxiv.org/pdf/2403.19104.pdf)|null|
@@ -5250,7 +5250,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-28**|**Human-compatible driving partners through data-regularized self-play reinforcement learning**|Daphne Cornelisse et.al.|[2403.19648](http://arxiv.org/pdf/2403.19648.pdf)|**[link](https://github.com/emerge-lab/nocturne_lab)**|
 |**2024-03-28**|**SAID-NeRF: Segmentation-AIDed NeRF for Depth Completion of Transparent Objects**|Avinash Ummadisingu et.al.|[2403.19607](http://arxiv.org/pdf/2403.19607.pdf)|null|
 |**2024-03-28**|**CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**|Avinash Paliwal et.al.|[2403.19495](http://arxiv.org/pdf/2403.19495.pdf)|null|
-|**2024-03-28**|**Learning Sampling Distribution and Safety Filter for Autonomous Driving with VQ-VAE and Differentiable Optimization**|Simon Idoko et.al.|[2403.19461](http://arxiv.org/pdf/2403.19461.pdf)|null|
+|**2024-03-28**|**Learning Sampling Distribution and Safety Filter for Autonomous Driving with VQ-VAE and Differentiable Optimization**|Simon Idoko et.al.|[2403.19461](http://arxiv.org/pdf/2403.19461.pdf)|**[link](https://github.com/cisimon7/vqoptmain)**|
 |**2024-03-28**|**SubjectDrive: Scaling Generative Data in Autonomous Driving via Subject Control**|Binyuan Huang et.al.|[2403.19438](http://arxiv.org/pdf/2403.19438.pdf)|null|
 |**2024-03-28**|**Learning a Formally Verified Control Barrier Function in Stochastic Environment**|Manan Tayal et.al.|[2403.19332](http://arxiv.org/pdf/2403.19332.pdf)|null|
 |**2024-03-28**|**Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation**|Yujin Chen et.al.|[2403.19319](http://arxiv.org/pdf/2403.19319.pdf)|null|
