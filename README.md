@@ -1,4 +1,4 @@
-Updated on 2024.04.02
+Updated on 2024.04.03
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -69,11 +69,11 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-28**|**Compression and acceleration of ions by ultra-short ultra-intense azimuthally-polarized light**|Da-Chao Deng et.al.|[2403.19133](http://arxiv.org/pdf/2403.19133.pdf)|null|
 |**2024-03-28**|**CRKD: Enhanced Camera-Radar Object Detection with Cross-modality Knowledge Distillation**|Lingjun Zhao et.al.|[2403.19104](http://arxiv.org/pdf/2403.19104.pdf)|null|
 |**2024-03-28**|**Automatic Fingerpad Customization for Precise and Stable Grasping of 3D-Print Parts**|Joyce Xin-Yan Lim et.al.|[2403.19102](http://arxiv.org/pdf/2403.19102.pdf)|null|
-|**2024-03-29**|**MMCert: Provable Defense against Adversarial Attacks to Multi-modal Models**|Yanting Wang et.al.|[2403.19080](http://arxiv.org/pdf/2403.19080.pdf)|null|
+|**2024-04-02**|**MMCert: Provable Defense against Adversarial Attacks to Multi-modal Models**|Yanting Wang et.al.|[2403.19080](http://arxiv.org/pdf/2403.19080.pdf)|null|
 |**2024-03-28**|**Dataflow-Aware PIM-Enabled Manycore Architecture for Deep Learning Workloads**|Harsh Sharma et.al.|[2403.19073](http://arxiv.org/pdf/2403.19073.pdf)|null|
 |**2024-03-27**|**Low-Complexity Estimation Algorithm and Decoupling Scheme for FRaC System**|Mengjiang Sun et.al.|[2403.19044](http://arxiv.org/pdf/2403.19044.pdf)|null|
 |**2024-03-27**|**Tessellation and interactive visualization of four-dimensional spacetime geometries**|Philip Claude Caplan et.al.|[2403.19036](http://arxiv.org/pdf/2403.19036.pdf)|null|
-|**2024-03-27**|**WALT3D: Generating Realistic Training Data from Time-Lapse Imagery for Reconstructing Dynamic Objects under Occlusion**|Khiem Vuong et.al.|[2403.19022](http://arxiv.org/pdf/2403.19022.pdf)|null|
+|**2024-04-01**|**WALT3D: Generating Realistic Training Data from Time-Lapse Imagery for Reconstructing Dynamic Objects under Occlusion**|Khiem Vuong et.al.|[2403.19022](http://arxiv.org/pdf/2403.19022.pdf)|null|
 |**2024-03-30**|**Cross-domain Fiber Cluster Shape Analysis for Language Performance Cognitive Score Prediction**|Yui Lo et.al.|[2403.19001](http://arxiv.org/pdf/2403.19001.pdf)|null|
 |**2024-03-27**|**Robustness and Visual Explanation for Black Box Image, Video, and ECG Signal Classification with Reinforcement Learning**|Soumyendu Sarkar et.al.|[2403.18985](http://arxiv.org/pdf/2403.18985.pdf)|null|
 |**2024-03-27**|**Supernova Simulations**|Bernhard Müller et.al.|[2403.18952](http://arxiv.org/pdf/2403.18952.pdf)|null|
@@ -3830,7 +3830,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20240402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240403>back to top</a>)</p>
 
 ## NeRF
 
@@ -4264,7 +4264,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20240402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240403>back to top</a>)</p>
 
 ## Industry
 
@@ -4553,7 +4553,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2012-04-06**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-09**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20240402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240403>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -5285,7 +5285,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20240402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240403>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -6273,7 +6273,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20240402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240403>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -6786,7 +6786,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20240402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240403>back to top</a>)</p>
 
 ## Diffusion
 
@@ -6896,5 +6896,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-06-22**|**Video Diffusion Models**|Jonathan Ho et.al.|[2204.03458](http://arxiv.org/pdf/2204.03458.pdf)|null|
 |**2022-12-08**|**Diffusion Probabilistic Modeling for Video Generation**|Ruihan Yang et.al.|[2203.09481](http://arxiv.org/pdf/2203.09481.pdf)|**[link](https://github.com/buggyyang/rvd)**|
 
-<p align=right>(<a href=#Updated-on-20240402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240403>back to top</a>)</p>
 
