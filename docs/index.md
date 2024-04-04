@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.04.03
+Updated on 2024.04.04
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -28,7 +28,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-02**|**Ram pressure stripping in clusters: Gravity can bind the ISM but not the CGM**|Ritali Ghosh et.al.|[2404.02035](http://arxiv.org/pdf/2404.02035.pdf)|**[link](https://github.com/RitaliG/rps_cgm_hydro)**|
 |**2024-04-02**|**A discussion about violin reduction: geometric analysis of contour lines and channel of minima**|Philémon Beghin et.al.|[2404.01995](http://arxiv.org/pdf/2404.01995.pdf)|null|
 |**2024-04-02**|**Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation**|Zihan Wang et.al.|[2404.01943](http://arxiv.org/pdf/2404.01943.pdf)|**[link](https://github.com/mrzihan/hnr-vln)**|
-|**2024-04-02**|**LPSNet: End-to-End Human Pose and Shape Estimation with Lensless Imaging**|Haoyang Ge et.al.|[2404.01941](http://arxiv.org/pdf/2404.01941.pdf)|null|
+|**2024-04-03**|**LPSNet: End-to-End Human Pose and Shape Estimation with Lensless Imaging**|Haoyang Ge et.al.|[2404.01941](http://arxiv.org/pdf/2404.01941.pdf)|null|
 |**2024-04-02**|**3D Scene Generation from Scene Graphs and Self-Attention**|Pietro Bonazzi et.al.|[2404.01887](http://arxiv.org/pdf/2404.01887.pdf)|null|
 |**2024-04-02**|**Multidimensional deconvolution with shared bases**|Daria Sushnikova et.al.|[2404.01870](http://arxiv.org/pdf/2404.01870.pdf)|null|
 |**2024-04-02**|**Identification and characterization of three-dimensional crack propagation mechanism in the Aluminium alloy AA2024-T3 using high-resolution Digital Image Correlation**|Vanessa Schöne et.al.|[2404.01852](http://arxiv.org/pdf/2404.01852.pdf)|null|
@@ -140,7 +140,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-29**|**Automated Identification and Segmentation of Hi Sources in CRAFTS Using Deep Learning Method**|Zihao Song et.al.|[2403.19912](http://arxiv.org/pdf/2403.19912.pdf)|**[link](https://github.com/fishszh/hisf)**|
 |**2024-03-29**|**Fully Geometric Panoramic Localization**|Junho Kim et.al.|[2403.19904](http://arxiv.org/pdf/2403.19904.pdf)|null|
 |**2024-03-28**|**Localization and Offline Mapping of High-Voltage Substations in Rough Terrain Using a Ground Vehicle**|Ioannis Alamanos et.al.|[2403.19875](http://arxiv.org/pdf/2403.19875.pdf)|null|
-|**2024-03-28**|**Is Synthetic Image Useful for Transfer Learning? An Investigation into Data Generation, Volume, and Utilization**|Yuhang Li et.al.|[2403.19866](http://arxiv.org/pdf/2403.19866.pdf)|null|
+|**2024-04-02**|**Is Synthetic Image Useful for Transfer Learning? An Investigation into Data Generation, Volume, and Utilization**|Yuhang Li et.al.|[2403.19866](http://arxiv.org/pdf/2403.19866.pdf)|null|
 |**2024-03-28**|**An Ultra-high-speed Reproducing Kernel Particle Method**|Siavash Jafarzadeh et.al.|[2403.19854](http://arxiv.org/pdf/2403.19854.pdf)|null|
 |**2024-04-01**|**Efficient 3D Instance Mapping and Localization with Neural Fields**|George Tang et.al.|[2403.19797](http://arxiv.org/pdf/2403.19797.pdf)|null|
 |**2024-03-28**|**ShapeFusion: A 3D diffusion model for localized shape editing**|Rolandos Alexandros Potamias et.al.|[2403.19773](http://arxiv.org/pdf/2403.19773.pdf)|null|
@@ -3954,7 +3954,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034](http://arxiv.org/pdf/2403.20034.pdf)|**[link](https://github.com/dtc111111/neslam)**|
 |**2024-03-29**|**SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**|Yunhao Li et.al.|[2403.20018](http://arxiv.org/pdf/2403.20018.pdf)|**[link](https://github.com/wu-cvgl/scinerf)**|
 |**2024-03-29**|**DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal**|Yunhao Li et.al.|[2403.20013](http://arxiv.org/pdf/2403.20013.pdf)|null|
-|**2024-03-29**|**MI-NeRF: Learning a Single Face NeRF from Multiple Identities**|Aggelina Chatziagapi et.al.|[2403.19920](http://arxiv.org/pdf/2403.19920.pdf)|null|
+|**2024-04-03**|**MI-NeRF: Learning a Single Face NeRF from Multiple Identities**|Aggelina Chatziagapi et.al.|[2403.19920](http://arxiv.org/pdf/2403.19920.pdf)|null|
 |**2024-03-28**|**Mitigating Motion Blur in Neural Radiance Fields with Events and Frames**|Marco Cannici et.al.|[2403.19780](http://arxiv.org/pdf/2403.19780.pdf)|**[link](https://github.com/uzh-rpg/evdeblurnerf)**|
 |**2024-03-28**|**GaussianCube: Structuring Gaussian Splatting using Optimal Transport for 3D Generative Modeling**|Bowen Zhang et.al.|[2403.19655](http://arxiv.org/pdf/2403.19655.pdf)|null|
 |**2024-03-28**|**SAID-NeRF: Segmentation-AIDed NeRF for Depth Completion of Transparent Objects**|Avinash Ummadisingu et.al.|[2403.19607](http://arxiv.org/pdf/2403.19607.pdf)|null|
@@ -5455,7 +5455,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-29**|**HO-Gaussian: Hybrid Optimization of 3D Gaussian Splatting for Urban Scenes**|Zhuopeng Li et.al.|[2403.20032](http://arxiv.org/pdf/2403.20032.pdf)|null|
 |**2024-03-29**|**SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**|Yunhao Li et.al.|[2403.20018](http://arxiv.org/pdf/2403.20018.pdf)|**[link](https://github.com/wu-cvgl/scinerf)**|
 |**2024-03-29**|**DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal**|Yunhao Li et.al.|[2403.20013](http://arxiv.org/pdf/2403.20013.pdf)|null|
-|**2024-03-29**|**MI-NeRF: Learning a Single Face NeRF from Multiple Identities**|Aggelina Chatziagapi et.al.|[2403.19920](http://arxiv.org/pdf/2403.19920.pdf)|null|
+|**2024-04-03**|**MI-NeRF: Learning a Single Face NeRF from Multiple Identities**|Aggelina Chatziagapi et.al.|[2403.19920](http://arxiv.org/pdf/2403.19920.pdf)|null|
 |**2024-03-29**|**PLoc: A New Evaluation Criterion Based on Physical Location for Autonomous Driving Datasets**|Ruining Yang et.al.|[2403.19893](http://arxiv.org/pdf/2403.19893.pdf)|null|
 |**2024-03-28**|**Multi-Frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving**|Akshay Gopalkrishnan et.al.|[2403.19838](http://arxiv.org/pdf/2403.19838.pdf)|**[link](https://github.com/akshaygopalkr/em-vlm4ad)**|
 |**2024-03-28**|**Mitigating Motion Blur in Neural Radiance Fields with Events and Frames**|Marco Cannici et.al.|[2403.19780](http://arxiv.org/pdf/2403.19780.pdf)|**[link](https://github.com/uzh-rpg/evdeblurnerf)**|
