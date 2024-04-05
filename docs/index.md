@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.04.04
+Updated on 2024.04.05
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -31,7 +31,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-03**|**HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras**|Zhongyu Xia et.al.|[2404.02517](http://arxiv.org/pdf/2404.02517.pdf)|**[link](https://github.com/vdigpku/henet)**|
 |**2024-04-03**|**On-the-Go Tree Detection and Geometric Traits Estimation with Ground Mobile Robots in Fruit Tree Groves**|Dimitrios Chatziparaschis et.al.|[2404.02516](http://arxiv.org/pdf/2404.02516.pdf)|null|
 |**2024-04-03**|**Freditor: High-Fidelity and Transferable NeRF Editing by Frequency Decomposition**|Yisheng He et.al.|[2404.02514](http://arxiv.org/pdf/2404.02514.pdf)|null|
-|**2024-04-03**|**DiffFit: Visually-Guided Differentiable Fitting of Molecule Structures to Cryo-EM Map**|Deng Luo et.al.|[2404.02465](http://arxiv.org/pdf/2404.02465.pdf)|null|
+|**2024-04-04**|**DiffFit: Visually-Guided Differentiable Fitting of Molecule Structures to Cryo-EM Map**|Deng Luo et.al.|[2404.02465](http://arxiv.org/pdf/2404.02465.pdf)|null|
 |**2024-04-03**|**A fast cosine transformation accelerated method for predicting effective thermal conductivity**|Changqing Ye et.al.|[2404.02433](http://arxiv.org/pdf/2404.02433.pdf)|null|
 |**2024-04-03**|**High quality Fe1+yTe synthesized by chemical vapor deposition with conspicuous vortex flow**|Lu Lv et.al.|[2404.02420](http://arxiv.org/pdf/2404.02420.pdf)|null|
 |**2024-04-03**|**TCLC-GS: Tightly Coupled LiDAR-Camera Gaussian Splatting for Surrounding Autonomous Driving Scenes**|Cheng Zhao et.al.|[2404.02410](http://arxiv.org/pdf/2404.02410.pdf)|null|
@@ -97,7 +97,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-01**|**CityGaussian: Real-time High-quality Large-Scale Scene Rendering with Gaussians**|Yang Liu et.al.|[2404.01133](http://arxiv.org/pdf/2404.01133.pdf)|null|
 |**2024-04-02**|**Few-shot point cloud reconstruction and denoising via learned Guassian splats renderings and fine-tuned diffusion features**|Pietro Bonazzi et.al.|[2404.01112](http://arxiv.org/pdf/2404.01112.pdf)|null|
 |**2024-04-01**|**T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation**|Jing Hao et.al.|[2404.01065](http://arxiv.org/pdf/2404.01065.pdf)|**[link](https://github.com/isbrycee/t-mamba)**|
-|**2024-04-01**|**Roadside Monocular 3D Detection via 2D Detection Prompting**|Yechi Ma et.al.|[2404.01064](http://arxiv.org/pdf/2404.01064.pdf)|null|
+|**2024-04-04**|**Roadside Monocular 3D Detection via 2D Detection Prompting**|Yechi Ma et.al.|[2404.01064](http://arxiv.org/pdf/2404.01064.pdf)|null|
 |**2024-04-01**|**Chat Modeling: Natural Language-based Procedural Modeling of Biological Structures without Training**|Donggang Jia et.al.|[2404.01063](http://arxiv.org/pdf/2404.01063.pdf)|null|
 |**2024-04-01**|**FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**|Ruowen Zhao et.al.|[2404.00987](http://arxiv.org/pdf/2404.00987.pdf)|null|
 |**2024-04-01**|**PDF: A Probability-Driven Framework for Open World 3D Point Cloud Semantic Segmentation**|Jinfeng Xu et.al.|[2404.00979](http://arxiv.org/pdf/2404.00979.pdf)|**[link](https://github.com/jinfengx/pointcloudpdf)**|
@@ -173,7 +173,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-02**|**Is Synthetic Image Useful for Transfer Learning? An Investigation into Data Generation, Volume, and Utilization**|Yuhang Li et.al.|[2403.19866](http://arxiv.org/pdf/2403.19866.pdf)|null|
 |**2024-03-28**|**An Ultra-high-speed Reproducing Kernel Particle Method**|Siavash Jafarzadeh et.al.|[2403.19854](http://arxiv.org/pdf/2403.19854.pdf)|null|
 |**2024-04-01**|**Efficient 3D Instance Mapping and Localization with Neural Fields**|George Tang et.al.|[2403.19797](http://arxiv.org/pdf/2403.19797.pdf)|null|
-|**2024-03-28**|**ShapeFusion: A 3D diffusion model for localized shape editing**|Rolandos Alexandros Potamias et.al.|[2403.19773](http://arxiv.org/pdf/2403.19773.pdf)|null|
+|**2024-04-04**|**ShapeFusion: A 3D diffusion model for localized shape editing**|Rolandos Alexandros Potamias et.al.|[2403.19773](http://arxiv.org/pdf/2403.19773.pdf)|null|
 |**2024-03-28**|**Bayesian Multi-line Intensity Mapping**|Yun-Ting Cheng et.al.|[2403.19740](http://arxiv.org/pdf/2403.19740.pdf)|null|
 |**2024-03-28**|**Towards Reverse-Engineering the Brain: Brain-Derived Neuromorphic Computing Approach with Photonic, Electronic, and Ionic Dynamicity in 3D integrated circuits**|S. J. Ben Yoo et.al.|[2403.19724](http://arxiv.org/pdf/2403.19724.pdf)|null|
 |**2024-03-28**|**GaussianCube: Structuring Gaussian Splatting using Optimal Transport for 3D Generative Modeling**|Bowen Zhang et.al.|[2403.19655](http://arxiv.org/pdf/2403.19655.pdf)|null|
@@ -7041,7 +7041,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-01**|**Abductive Ego-View Accident Video Understanding for Safe Driving Perception**|Jianwu Fang et.al.|[2403.00436](http://arxiv.org/pdf/2403.00436.pdf)|null|
 |**2024-02-28**|**Context-aware Talking Face Video Generation**|Meidai Xuanyuan et.al.|[2402.18092](http://arxiv.org/pdf/2402.18092.pdf)|null|
 |**2024-02-22**|**Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models**|Yixuan Ren et.al.|[2402.14780](http://arxiv.org/pdf/2402.14780.pdf)|null|
-|**2024-03-29**|**Hybrid Video Diffusion Models with 2D Triplane and 3D Wavelet Representation**|Kihong Kim et.al.|[2402.13729](http://arxiv.org/pdf/2402.13729.pdf)|null|
+|**2024-04-03**|**Hybrid Video Diffusion Models with 2D Triplane and 3D Wavelet Representation**|Kihong Kim et.al.|[2402.13729](http://arxiv.org/pdf/2402.13729.pdf)|null|
 |**2024-02-08**|**Animated Stickers: Bringing Stickers to Life with Video Diffusion**|David Yan et.al.|[2402.06088](http://arxiv.org/pdf/2402.06088.pdf)|null|
 |**2024-02-05**|**Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion**|Shiyuan Yang et.al.|[2402.03162](http://arxiv.org/pdf/2402.03162.pdf)|null|
 |**2024-02-02**|**Boximator: Generating Rich and Controllable Motions for Video Synthesis**|Jiawei Wang et.al.|[2402.01566](http://arxiv.org/pdf/2402.01566.pdf)|null|
