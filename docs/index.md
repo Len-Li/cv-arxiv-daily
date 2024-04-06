@@ -163,7 +163,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-02**|**Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation**|Taekyung Ki et.al.|[2404.00636](http://arxiv.org/pdf/2404.00636.pdf)|null|
 |**2024-03-31**|**LAESI: Leaf Area Estimation with Synthetic Imagery**|Jacek Kałużny et.al.|[2404.00593](http://arxiv.org/pdf/2404.00593.pdf)|null|
 |**2024-03-31**|**M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models**|Fan Bai et.al.|[2404.00578](http://arxiv.org/pdf/2404.00578.pdf)|null|
-|**2024-04-02**|**Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction**|Junuk Cha et.al.|[2404.00562](http://arxiv.org/pdf/2404.00562.pdf)|null|
+|**2024-04-02**|**Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction**|Junuk Cha et.al.|[2404.00562](http://arxiv.org/pdf/2404.00562.pdf)|**[link](https://github.com/junukcha/text2hoi)**|
 |**2024-03-31**|**Embodied Active Defense: Leveraging Recurrent Feedback to Counter Adversarial Patches**|Lingxuan Wu et.al.|[2404.00540](http://arxiv.org/pdf/2404.00540.pdf)|null|
 |**2024-04-02**|**Functional Bethe Ansatz for a $\sinh$-Gordon model with real $q$**|Sergey Sergeev et.al.|[2404.00503](http://arxiv.org/pdf/2404.00503.pdf)|null|
 |**2024-03-30**|**DiffHuman: Probabilistic Photorealistic 3D Reconstruction of Humans**|Akash Sengupta et.al.|[2404.00485](http://arxiv.org/pdf/2404.00485.pdf)|null|
@@ -202,7 +202,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-29**|**Grounding and Enhancing Grid-based Models for Neural Fields**|Zelin Zhao et.al.|[2403.20002](http://arxiv.org/pdf/2403.20002.pdf)|null|
 |**2024-03-29**|**3D-Speaker-Toolkit: An Open Source Toolkit for Multi-modal Speaker Verification and Diarization**|Yafeng Chen et.al.|[2403.19971](http://arxiv.org/pdf/2403.19971.pdf)|**[link](https://github.com/alibaba-damo-academy/3D-Speaker)**|
 |**2024-03-29**|**Synthesis and Characterization of Superparamagnetic Iron Oxide Nanoparticles: A Series of Laboratory Experiments**|Armando D. Urbina et.al.|[2403.19970](http://arxiv.org/pdf/2403.19970.pdf)|null|
-|**2024-03-29**|**A Semiparametric Gaussian Mixture Model for Chest CT-based 3D Blood Vessel Reconstruction**|Qianhan Zeng et.al.|[2403.19929](http://arxiv.org/pdf/2403.19929.pdf)|null|
+|**2024-03-29**|**A Semiparametric Gaussian Mixture Model for Chest CT-based 3D Blood Vessel Reconstruction**|Qianhan Zeng et.al.|[2403.19929](http://arxiv.org/pdf/2403.19929.pdf)|**[link](https://github.com/helenology/paper_kem)**|
 |**2024-03-29**|**SceneTracker: Long-term Scene Flow Estimation Network**|Bo Wang et.al.|[2403.19924](http://arxiv.org/pdf/2403.19924.pdf)|null|
 |**2024-03-29**|**Diff-Reg v1: Diffusion Matching Model for Registration Problem**|Qianliang Wu et.al.|[2403.19919](http://arxiv.org/pdf/2403.19919.pdf)|null|
 |**2024-03-29**|**Automated Identification and Segmentation of Hi Sources in CRAFTS Using Deep Learning Method**|Zihao Song et.al.|[2403.19912](http://arxiv.org/pdf/2403.19912.pdf)|**[link](https://github.com/fishszh/hisf)**|
@@ -301,7 +301,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-26**|**Implementing photometric stereo for scanning helium microscopy (SHeM) to reconstruct true-to-size 3D surfaces**|Aleksandar Radic et.al.|[2403.17835](http://arxiv.org/pdf/2403.17835.pdf)|null|
 |**2024-03-26**|**A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities**|Ibrahim Ethem Hamamci et.al.|[2403.17834](http://arxiv.org/pdf/2403.17834.pdf)|**[link](https://github.com/ibrahimethemhamamci/ct-clip)**|
 |**2024-03-26**|**DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions**|Sammy Christen et.al.|[2403.17827](http://arxiv.org/pdf/2403.17827.pdf)|null|
-|**2024-03-26**|**DN-Splatter: Depth and Normal Priors for Gaussian Splatting and Meshing**|Matias Turkulainen et.al.|[2403.17822](http://arxiv.org/pdf/2403.17822.pdf)|null|
+|**2024-03-26**|**DN-Splatter: Depth and Normal Priors for Gaussian Splatting and Meshing**|Matias Turkulainen et.al.|[2403.17822](http://arxiv.org/pdf/2403.17822.pdf)|**[link](https://github.com/maturk/dn-splatter)**|
 |**2024-03-29**|**Towards 3D Vision with Low-Cost Single-Photon Cameras**|Fangzhou Mu et.al.|[2403.17801](http://arxiv.org/pdf/2403.17801.pdf)|null|
 |**2024-03-26**|**System Calibration of a Field Phenotyping Robot with Multiple High-Precision Profile Laser Scanners**|Felix Esser et.al.|[2403.17788](http://arxiv.org/pdf/2403.17788.pdf)|null|
 |**2024-03-26**|**GenesisTex: Adapting Image Denoising Diffusion to Texture Space**|Chenjian Gao et.al.|[2403.17782](http://arxiv.org/pdf/2403.17782.pdf)|null|
@@ -4763,9 +4763,9 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-02**|**Improving Bird's Eye View Semantic Segmentation by Task Decomposition**|Tianhao Zhao et.al.|[2404.01925](http://arxiv.org/pdf/2404.01925.pdf)|null|
 |**2024-04-02**|**Analyzing the Single Event Upset Vulnerability of Binarized Neural Networks on SRAM FPGAs**|Ioanna Souvatzoglou et.al.|[2404.01757](http://arxiv.org/pdf/2404.01757.pdf)|null|
 |**2024-04-02**|**Exploring Latent Pathways: Enhancing the Interpretability of Autonomous Driving with a Variational Autoencoder**|Anass Bairouk et.al.|[2404.01750](http://arxiv.org/pdf/2404.01750.pdf)|null|
-|**2024-04-02**|**Boosting Visual Recognition for Autonomous Driving in Real-world Degradations with Deep Channel Prior**|Zhanwen Liu et.al.|[2404.01703](http://arxiv.org/pdf/2404.01703.pdf)|null|
+|**2024-04-02**|**Boosting Visual Recognition for Autonomous Driving in Real-world Degradations with Deep Channel Prior**|Zhanwen Liu et.al.|[2404.01703](http://arxiv.org/pdf/2404.01703.pdf)|**[link](https://github.com/liyuhang166/deep_channel_prior)**|
 |**2024-04-02**|**Learning Temporal Cues by Predicting Objects Move for Multi-camera 3D Object Detection**|Seokha Moon et.al.|[2404.01580](http://arxiv.org/pdf/2404.01580.pdf)|null|
-|**2024-04-02**|**Perfecting Periodic Trajectory Tracking: Model Predictive Control with a Periodic Observer ( $Π$ -MPC)**|Luis Pabon et.al.|[2404.01550](http://arxiv.org/pdf/2404.01550.pdf)|null|
+|**2024-04-02**|**Perfecting Periodic Trajectory Tracking: Model Predictive Control with a Periodic Observer ( $Π$ -MPC)**|Luis Pabon et.al.|[2404.01550](http://arxiv.org/pdf/2404.01550.pdf)|**[link](https://github.com/stanfordasl/pi-mpc)**|
 |**2024-04-02**|**Are Doppler Velocity Measurements Useful for Spinning Radar Odometry?**|Daniil Lisus et.al.|[2404.01537](http://arxiv.org/pdf/2404.01537.pdf)|null|
 |**2024-04-01**|**ML KPI Prediction in 5G and B5G Networks**|Nguyen Phuc Tran et.al.|[2404.01530](http://arxiv.org/pdf/2404.01530.pdf)|null|
 |**2024-04-01**|**QuAD: Query-based Interpretable Neural Motion Planning for Autonomous Driving**|Sourav Biswas et.al.|[2404.01486](http://arxiv.org/pdf/2404.01486.pdf)|null|
@@ -5531,7 +5531,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-02**|**Improving Bird's Eye View Semantic Segmentation by Task Decomposition**|Tianhao Zhao et.al.|[2404.01925](http://arxiv.org/pdf/2404.01925.pdf)|null|
 |**2024-04-02**|**Analyzing the Single Event Upset Vulnerability of Binarized Neural Networks on SRAM FPGAs**|Ioanna Souvatzoglou et.al.|[2404.01757](http://arxiv.org/pdf/2404.01757.pdf)|null|
 |**2024-04-02**|**Exploring Latent Pathways: Enhancing the Interpretability of Autonomous Driving with a Variational Autoencoder**|Anass Bairouk et.al.|[2404.01750](http://arxiv.org/pdf/2404.01750.pdf)|null|
-|**2024-04-02**|**Boosting Visual Recognition for Autonomous Driving in Real-world Degradations with Deep Channel Prior**|Zhanwen Liu et.al.|[2404.01703](http://arxiv.org/pdf/2404.01703.pdf)|null|
+|**2024-04-02**|**Boosting Visual Recognition for Autonomous Driving in Real-world Degradations with Deep Channel Prior**|Zhanwen Liu et.al.|[2404.01703](http://arxiv.org/pdf/2404.01703.pdf)|**[link](https://github.com/liyuhang166/deep_channel_prior)**|
 |**2024-04-02**|**Learning Temporal Cues by Predicting Objects Move for Multi-camera 3D Object Detection**|Seokha Moon et.al.|[2404.01580](http://arxiv.org/pdf/2404.01580.pdf)|null|
 |**2024-04-02**|**Are Doppler Velocity Measurements Useful for Spinning Radar Odometry?**|Daniil Lisus et.al.|[2404.01537](http://arxiv.org/pdf/2404.01537.pdf)|null|
 |**2024-04-01**|**ML KPI Prediction in 5G and B5G Networks**|Nguyen Phuc Tran et.al.|[2404.01530](http://arxiv.org/pdf/2404.01530.pdf)|null|
