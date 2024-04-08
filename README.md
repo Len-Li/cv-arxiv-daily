@@ -15,18 +15,37 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Dissipative Euler flows originating from circular vortex filaments**|Francisco Gancedo et.al.|[2404.04250](http://arxiv.org/pdf/2404.04250.pdf)|null|
+|**2024-04-05**|**Physical Property Understanding from Language-Embedded Feature Fields**|Albert J. Zhai et.al.|[2404.04242](http://arxiv.org/pdf/2404.04242.pdf)|null|
+|**2024-04-05**|**Robust Gaussian Splatting**|François Darmon et.al.|[2404.04211](http://arxiv.org/pdf/2404.04211.pdf)|null|
+|**2024-04-05**|**Emergent photons and fractionalized excitations in a quantum spin liquid**|Bin Gao et.al.|[2404.04207](http://arxiv.org/pdf/2404.04207.pdf)|null|
+|**2024-04-05**|**H3DFact: Heterogeneous 3D Integrated CIM for Factorization with Holographic Perceptual Representations**|Zishen Wan et.al.|[2404.04173](http://arxiv.org/pdf/2404.04173.pdf)|null|
+|**2024-04-05**|**Into the thick of it: ALMA 0.45 mm observations of HL Tau at 2 au resolution**|Osmar M. Guerra-Alvarado et.al.|[2404.04164](http://arxiv.org/pdf/2404.04164.pdf)|null|
+|**2024-04-05**|**Explorations in Precision Holography and Higher-derivative Supergravity**|Robert J. Saskowski et.al.|[2404.04134](http://arxiv.org/pdf/2404.04134.pdf)|null|
+|**2024-04-05**|**3D Facial Expressions through Analysis-by-Neural-Synthesis**|George Retsinas et.al.|[2404.04104](http://arxiv.org/pdf/2404.04104.pdf)|null|
+|**2024-04-05**|**A first passage model of intravitreal drug delivery and residence time, in relation to ocular geometry, individual variability, and injection location**|Patricia Lamirande et.al.|[2404.04086](http://arxiv.org/pdf/2404.04086.pdf)|null|
+|**2024-04-05**|**No Time to Train: Empowering Non-Parametric Networks for Few-shot 3D Scene Segmentation**|Xiangyang Zhu et.al.|[2404.04050](http://arxiv.org/pdf/2404.04050.pdf)|**[link](https://github.com/yangyangyang127/seg-nn)**|
+|**2024-04-05**|**InstructHumans: Editing Animated 3D Human Textures with Instructions**|Jiayin Zhu et.al.|[2404.04037](http://arxiv.org/pdf/2404.04037.pdf)|null|
+|**2024-04-05**|**MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes**|Chenyang Wu et.al.|[2404.04026](http://arxiv.org/pdf/2404.04026.pdf)|null|
+|**2024-04-05**|**LightOctree: Lightweight 3D Spatially-Coherent Indoor Lighting Estimation**|Xuecan Wang et.al.|[2404.03925](http://arxiv.org/pdf/2404.03925.pdf)|null|
+|**2024-04-05**|**Under-Canopy Navigation using Aerial Lidar Maps**|Lucas Carvalho de Lima et.al.|[2404.03911](http://arxiv.org/pdf/2404.03911.pdf)|null|
+|**2024-04-04**|**PARIS3D: Reasoning-based 3D Part Segmentation Using Large Multimodal Model**|Amrin Kareem et.al.|[2404.03836](http://arxiv.org/pdf/2404.03836.pdf)|**[link](https://github.com/amrinkareem/paris3d)**|
+|**2024-04-04**|**Effective Lymph Nodes Detection in CT Scans Using Location Debiased Query Selection and Contrastive Query Representation in Transformer**|Qinji Yu et.al.|[2404.03819](http://arxiv.org/pdf/2404.03819.pdf)|null|
+|**2024-04-04**|**Test Time Training for Industrial Anomaly Segmentation**|Alex Costanzino et.al.|[2404.03743](http://arxiv.org/pdf/2404.03743.pdf)|null|
+|**2024-04-04**|**SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer**|Zijie Wu et.al.|[2404.03736](http://arxiv.org/pdf/2404.03736.pdf)|null|
+|**2024-04-04**|**Mitigating analytical variability in fMRI results with style transfer**|Elodie Germani et.al.|[2404.03703](http://arxiv.org/pdf/2404.03703.pdf)|null|
 |**2024-04-04**|**Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning**|Rui Li et.al.|[2404.03658](http://arxiv.org/pdf/2404.03658.pdf)|**[link](https://github.com/ruili3/Know-Your-Neighbors)**|
 |**2024-04-04**|**MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation**|Hanzhe Hu et.al.|[2404.03656](http://arxiv.org/pdf/2404.03656.pdf)|null|
 |**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/pdf/2404.03654.pdf)|null|
 |**2024-04-04**|**The More You See in 2D, the More You Perceive in 3D**|Xinyang Han et.al.|[2404.03652](http://arxiv.org/pdf/2404.03652.pdf)|null|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/pdf/2404.03650.pdf)|null|
-|**2024-04-04**|**WorDepth: Variational Language Prior for Monocular Depth Estimation**|Ziyao Zeng et.al.|[2404.03635](http://arxiv.org/pdf/2404.03635.pdf)|**[link](https://github.com/adonis-galaxy/wordepth)**|
+|**2024-04-05**|**WorDepth: Variational Language Prior for Monocular Depth Estimation**|Ziyao Zeng et.al.|[2404.03635](http://arxiv.org/pdf/2404.03635.pdf)|**[link](https://github.com/adonis-galaxy/wordepth)**|
 |**2024-04-04**|**Reference-Based 3D-Aware Image Editing with Triplane**|Bahri Batuhan Bilecen et.al.|[2404.03632](http://arxiv.org/pdf/2404.03632.pdf)|null|
 |**2024-04-04**|**Per-Gaussian Embedding-Based Deformation for Deformable 3D Gaussian Splatting**|Jeongmin Bae et.al.|[2404.03613](http://arxiv.org/pdf/2404.03613.pdf)|null|
 |**2024-04-04**|**The influence of substantial intragranular orientation gradients on the micromechanical response of heavily-worked material**|Karthik Shankar et.al.|[2404.03579](http://arxiv.org/pdf/2404.03579.pdf)|null|
 |**2024-04-04**|**DreamScene: 3D Gaussian-based Text-to-3D Scene Generation via Formation Pattern Sampling**|Haoran Li et.al.|[2404.03575](http://arxiv.org/pdf/2404.03575.pdf)|null|
 |**2024-04-04**|**Terrain Point Cloud Inpainting via Signal Decomposition**|Yizhou Xie et.al.|[2404.03572](http://arxiv.org/pdf/2404.03572.pdf)|null|
-|**2024-04-04**|**High redshift LBGs from deep broadband imaging for future spectroscopic surveys**|Vanina Ruhlmann-Kleider et.al.|[2404.03569](http://arxiv.org/pdf/2404.03569.pdf)|null|
+|**2024-04-05**|**High redshift LBGs from deep broadband imaging for future spectroscopic surveys**|Vanina Ruhlmann-Kleider et.al.|[2404.03569](http://arxiv.org/pdf/2404.03569.pdf)|null|
 |**2024-04-04**|**Towards Transcranial 3D Ultrasound Localization Microscopy of the Nonhuman Primate Brain**|Paul Xing et.al.|[2404.03547](http://arxiv.org/pdf/2404.03547.pdf)|null|
 |**2024-04-04**|**COMO: Compact Mapping and Odometry**|Eric Dexheimer et.al.|[2404.03531](http://arxiv.org/pdf/2404.03531.pdf)|null|
 |**2024-04-04**|**Wilson Loops and Random Matrices**|Georg Bergner et.al.|[2404.03503](http://arxiv.org/pdf/2404.03503.pdf)|null|
@@ -134,7 +153,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-01**|**T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation**|Jing Hao et.al.|[2404.01065](http://arxiv.org/pdf/2404.01065.pdf)|**[link](https://github.com/isbrycee/t-mamba)**|
 |**2024-04-04**|**Roadside Monocular 3D Detection via 2D Detection Prompting**|Yechi Ma et.al.|[2404.01064](http://arxiv.org/pdf/2404.01064.pdf)|null|
 |**2024-04-01**|**Chat Modeling: Natural Language-based Procedural Modeling of Biological Structures without Training**|Donggang Jia et.al.|[2404.01063](http://arxiv.org/pdf/2404.01063.pdf)|null|
-|**2024-04-01**|**FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**|Ruowen Zhao et.al.|[2404.00987](http://arxiv.org/pdf/2404.00987.pdf)|null|
+|**2024-04-01**|**FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**|Ruowen Zhao et.al.|[2404.00987](http://arxiv.org/pdf/2404.00987.pdf)|**[link](https://github.com/zhaorw02/FlexiDreamer)**|
 |**2024-04-01**|**PDF: A Probability-Driven Framework for Open World 3D Point Cloud Semantic Segmentation**|Jinfeng Xu et.al.|[2404.00979](http://arxiv.org/pdf/2404.00979.pdf)|**[link](https://github.com/jinfengx/pointcloudpdf)**|
 |**2024-04-01**|**Diffusion-Driven Domain Adaptation for Generating 3D Molecules**|Haokai Hong et.al.|[2404.00962](http://arxiv.org/pdf/2404.00962.pdf)|null|
 |**2024-04-01**|**Orchestrating UAVs for Prioritized Data Harvesting: A Cross-Layer Optimization Perspective**|Bharath Keshavamurthy et.al.|[2404.00961](http://arxiv.org/pdf/2404.00961.pdf)|null|
@@ -4197,7 +4216,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-12-22**|**Deformable 3D Gaussian Splatting for Animatable Human Avatars**|HyunJun Jung et.al.|[2312.15059](http://arxiv.org/pdf/2312.15059.pdf)|null|
 |**2023-12-22**|**PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**|Mohsen Gholami et.al.|[2312.14915](http://arxiv.org/pdf/2312.14915.pdf)|**[link](https://github.com/mgholamikn/PoseGen)**|
 |**2023-12-22**|**Density Uncertainty Quantification with NeRF-Ensembles: Impact of Data and Scene Constraints**|Miriam Jäger et.al.|[2312.14664](http://arxiv.org/pdf/2312.14664.pdf)|null|
-|**2023-12-21**|**PlatoNeRF: 3D Reconstruction in Plato's Cave via Single-View Two-Bounce Lidar**|Tzofi Klinghoffer et.al.|[2312.14239](http://arxiv.org/pdf/2312.14239.pdf)|null|
+|**2024-04-05**|**PlatoNeRF: 3D Reconstruction in Plato's Cave via Single-View Two-Bounce Lidar**|Tzofi Klinghoffer et.al.|[2312.14239](http://arxiv.org/pdf/2312.14239.pdf)|null|
 |**2023-12-21**|**Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**|Philipp Schröppel et.al.|[2312.14124](http://arxiv.org/pdf/2312.14124.pdf)|**[link](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**|
 |**2024-02-18**|**Gaussian Splatting with NeRF-based Color and Opacity**|Dawid Malarz et.al.|[2312.13729](http://arxiv.org/pdf/2312.13729.pdf)|**[link](https://github.com/gmum/ViewingDirectionGaussianSplatting)**|
 |**2024-03-29**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528](http://arxiv.org/pdf/2312.13528.pdf)|null|
@@ -4746,6 +4765,12 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Physical Property Understanding from Language-Embedded Feature Fields**|Albert J. Zhai et.al.|[2404.04242](http://arxiv.org/pdf/2404.04242.pdf)|null|
+|**2024-04-05**|**Exploring Probabilistic Models for Semi-supervised Learning**|Jianfeng Wang et.al.|[2404.04199](http://arxiv.org/pdf/2404.04199.pdf)|null|
+|**2024-04-05**|**You Can Use But Cannot Recognize: Preserving Visual Privacy in Deep Neural Networks**|Qiushi Li et.al.|[2404.04098](http://arxiv.org/pdf/2404.04098.pdf)|null|
+|**2024-04-05**|**Scaling Motion Forecasting Models with Ensemble Distillation**|Scott Ettinger et.al.|[2404.03843](http://arxiv.org/pdf/2404.03843.pdf)|null|
+|**2024-04-04**|**Language-Guided Instance-Aware Domain-Adaptive Panoptic Segmentation**|Elham Amin Mansour et.al.|[2404.03799](http://arxiv.org/pdf/2404.03799.pdf)|null|
+|**2024-04-04**|**Dendrites endow artificial neural networks with accurate, robust and parameter-efficient learning**|Spyridon Chavlis et.al.|[2404.03708](http://arxiv.org/pdf/2404.03708.pdf)|null|
 |**2024-04-04**|**Is CLIP the main roadblock for fine-grained open-world perception?**|Lorenzo Bianchi et.al.|[2404.03539](http://arxiv.org/pdf/2404.03539.pdf)|**[link](https://github.com/lorebianchi98/fg-clip)**|
 |**2024-04-04**|**Materials for High Temperature Digital Electronics**|Dhiren K. Pradhan et.al.|[2404.03510](http://arxiv.org/pdf/2404.03510.pdf)|null|
 |**2024-04-05**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493](http://arxiv.org/pdf/2404.03493.pdf)|null|
@@ -4832,7 +4857,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-22**|**Unifying Lane-Level Traffic Prediction from a Graph Structural Perspective: Benchmark and Baseline**|Shuhao Li et.al.|[2403.14941](http://arxiv.org/pdf/2403.14941.pdf)|**[link](https://github.com/shuhaolii/tits24lanelevel-traffic-benchmark)**|
 |**2024-03-21**|**MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images**|Yuedong Chen et.al.|[2403.14627](http://arxiv.org/pdf/2403.14627.pdf)|null|
 |**2024-03-21**|**SurroundSDF: Implicit 3D Scene Understanding Based on Signed Distance Field**|Lizhe Liu et.al.|[2403.14366](http://arxiv.org/pdf/2403.14366.pdf)|null|
-|**2024-03-29**|**Credit vs. Discount-Based Congestion Pricing: A Comparison Study**|Chih-Yuan Chiu et.al.|[2403.13923](http://arxiv.org/pdf/2403.13923.pdf)|null|
+|**2024-04-05**|**Credit vs. Discount-Based Congestion Pricing: A Comparison Study**|Chih-Yuan Chiu et.al.|[2403.13923](http://arxiv.org/pdf/2403.13923.pdf)|null|
 |**2024-03-20**|**Reinforcement Learning for Online Testing of Autonomous Driving Systems: a Replication and Extension Study**|Luca Giamattei et.al.|[2403.13729](http://arxiv.org/pdf/2403.13729.pdf)|null|
 |**2024-03-21**|**AMP: Autoregressive Motion Prediction Revisited with Next Token Prediction for Autonomous Driving**|Xiaosong Jia et.al.|[2403.13331](http://arxiv.org/pdf/2403.13331.pdf)|null|
 |**2024-03-21**|**Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations**|Kewei Wang et.al.|[2403.13261](http://arxiv.org/pdf/2403.13261.pdf)|**[link](https://github.com/kwwcv/selfmotion)**|
@@ -5511,6 +5536,11 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Exploring Probabilistic Models for Semi-supervised Learning**|Jianfeng Wang et.al.|[2404.04199](http://arxiv.org/pdf/2404.04199.pdf)|null|
+|**2024-04-05**|**You Can Use But Cannot Recognize: Preserving Visual Privacy in Deep Neural Networks**|Qiushi Li et.al.|[2404.04098](http://arxiv.org/pdf/2404.04098.pdf)|null|
+|**2024-04-05**|**Scaling Motion Forecasting Models with Ensemble Distillation**|Scott Ettinger et.al.|[2404.03843](http://arxiv.org/pdf/2404.03843.pdf)|null|
+|**2024-04-04**|**Language-Guided Instance-Aware Domain-Adaptive Panoptic Segmentation**|Elham Amin Mansour et.al.|[2404.03799](http://arxiv.org/pdf/2404.03799.pdf)|null|
+|**2024-04-04**|**Dendrites endow artificial neural networks with accurate, robust and parameter-efficient learning**|Spyridon Chavlis et.al.|[2404.03708](http://arxiv.org/pdf/2404.03708.pdf)|null|
 |**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/pdf/2404.03654.pdf)|null|
 |**2024-04-04**|**Is CLIP the main roadblock for fine-grained open-world perception?**|Lorenzo Bianchi et.al.|[2404.03539](http://arxiv.org/pdf/2404.03539.pdf)|**[link](https://github.com/lorebianchi98/fg-clip)**|
 |**2024-04-04**|**Materials for High Temperature Digital Electronics**|Dhiren K. Pradhan et.al.|[2404.03510](http://arxiv.org/pdf/2404.03510.pdf)|null|
@@ -6546,6 +6576,8 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**Quantifying Uncertainty in Motion Prediction with Variational Bayesian Mixture**|Juanwu Lu et.al.|[2404.03789](http://arxiv.org/pdf/2404.03789.pdf)|null|
+|**2024-04-04**|**SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer**|Zijie Wu et.al.|[2404.03736](http://arxiv.org/pdf/2404.03736.pdf)|null|
 |**2024-04-04**|**Towards more realistic human motion prediction with attention to motion coordination**|Pengxiang Ding et.al.|[2404.03584](http://arxiv.org/pdf/2404.03584.pdf)|null|
 |**2024-04-04**|**Factored Task and Motion Planning with Combined Optimization, Sampling and Learning**|Joaquim Ortiz-Haro et.al.|[2404.03567](http://arxiv.org/pdf/2404.03567.pdf)|null|
 |**2024-04-04**|**DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models**|Yuchen Liu et.al.|[2404.03275](http://arxiv.org/pdf/2404.03275.pdf)|null|
