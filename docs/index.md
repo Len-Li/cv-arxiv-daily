@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.04.09
+Updated on 2024.04.10
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -47,7 +47,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-07**|**Stop Stealing My Data: Sanitizing Stego Channels in 3D Printing Design Files**|Aleksandr Dolgavin et.al.|[2404.05106](http://arxiv.org/pdf/2404.05106.pdf)|null|
 |**2024-04-07**|**VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration**|Ziyang Wang et.al.|[2404.05105](http://arxiv.org/pdf/2404.05105.pdf)|null|
 |**2024-04-07**|**Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind**|Chiara Plizzari et.al.|[2404.05072](http://arxiv.org/pdf/2404.05072.pdf)|null|
-|**2024-04-07**|**Magic Boundaries of 3D Color Codes**|Zijian Song et.al.|[2404.05033](http://arxiv.org/pdf/2404.05033.pdf)|null|
+|**2024-04-09**|**Magic Boundaries of 3D Color Codes**|Zijian Song et.al.|[2404.05033](http://arxiv.org/pdf/2404.05033.pdf)|null|
 |**2024-04-07**|**FPL+: Filtered Pseudo Label-based Unsupervised Cross-Modality Adaptation for 3D Medical Image Segmentation**|Jianghao Wu et.al.|[2404.04971](http://arxiv.org/pdf/2404.04971.pdf)|null|
 |**2024-04-07**|**Bootstrapping Chest CT Image Understanding by Distilling Knowledge from X-ray Expert Models**|Weiwei Cao et.al.|[2404.04936](http://arxiv.org/pdf/2404.04936.pdf)|null|
 |**2024-04-07**|**CodecNeRF: Toward Fast Encoding and Decoding, Compact, and High-quality Novel-view Synthesis**|Gyeongjin Kang et.al.|[2404.04913](http://arxiv.org/pdf/2404.04913.pdf)|null|
@@ -77,7 +77,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-06**|**Galaxy 3D Shape Recovery using Mixture Density Network**|Suk Yee Yong et.al.|[2404.04491](http://arxiv.org/pdf/2404.04491.pdf)|**[link](https://github.com/kateharborne/SimSpin)**|
 |**2024-04-05**|**Magnetoroton in a two-dimensional Bose-Bose mixture**|O. I. Utesov et.al.|[2404.04440](http://arxiv.org/pdf/2404.04440.pdf)|null|
 |**2024-04-05**|**PhysPT: Physics-aware Pretrained Transformer for Estimating Human Dynamics from Monocular Videos**|Yufei Zhang et.al.|[2404.04430](http://arxiv.org/pdf/2404.04430.pdf)|null|
-|**2024-04-05**|**PhysAvatar: Learning the Physics of Dressed 3D Avatars from Visual Observations**|Yang Zheng et.al.|[2404.04421](http://arxiv.org/pdf/2404.04421.pdf)|null|
+|**2024-04-09**|**PhysAvatar: Learning the Physics of Dressed 3D Avatars from Visual Observations**|Yang Zheng et.al.|[2404.04421](http://arxiv.org/pdf/2404.04421.pdf)|null|
 |**2024-04-05**|**A Ground Mobile Robot for Autonomous Terrestrial Laser Scanning-Based Field Phenotyping**|Javier Rodriguez-Sanchez et.al.|[2404.04404](http://arxiv.org/pdf/2404.04404.pdf)|null|
 |**2024-04-05**|**Idea-2-3D: Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs**|Junhao Chen et.al.|[2404.04363](http://arxiv.org/pdf/2404.04363.pdf)|null|
 |**2024-04-05**|**SpatialTracker: Tracking Any 2D Pixels in 3D Space**|Yuxi Xiao et.al.|[2404.04319](http://arxiv.org/pdf/2404.04319.pdf)|null|
@@ -226,7 +226,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-01**|**Equivariant Local Reference Frames for Unsupervised Non-rigid Point Cloud Shape Correspondence**|Ling Wang et.al.|[2404.00959](http://arxiv.org/pdf/2404.00959.pdf)|null|
 |**2024-04-01**|**GOV-NeSF: Generalizable Open-Vocabulary Neural Semantic Fields**|Yunsong Wang et.al.|[2404.00931](http://arxiv.org/pdf/2404.00931.pdf)|**[link](https://github.com/wangys16/gov-nesf)**|
 |**2024-04-01**|**MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements**|Lisong C. Sun et.al.|[2404.00923](http://arxiv.org/pdf/2404.00923.pdf)|null|
-|**2024-04-01**|**Scalable 3D Registration via Truncated Entry-wise Absolute Residuals**|Tianyu Huang et.al.|[2404.00915](http://arxiv.org/pdf/2404.00915.pdf)|**[link](https://github.com/tyhuang98/tear-release)**|
+|**2024-04-09**|**Scalable 3D Registration via Truncated Entry-wise Absolute Residuals**|Tianyu Huang et.al.|[2404.00915](http://arxiv.org/pdf/2404.00915.pdf)|**[link](https://github.com/tyhuang98/tear-release)**|
 |**2024-04-01**|**Marrying NeRF with Feature Matching for One-step Pose Estimation**|Ronghan Chen et.al.|[2404.00891](http://arxiv.org/pdf/2404.00891.pdf)|null|
 |**2024-04-02**|**DPA-Net: Structured 3D Abstraction from Sparse Views via Differentiable Primitive Assembly**|Fenggen Yu et.al.|[2404.00875](http://arxiv.org/pdf/2404.00875.pdf)|null|
 |**2024-04-01**|**DiSR-NeRF: Diffusion-Guided View-Consistent Super-Resolution NeRF**|Jie Long Lee et.al.|[2404.00874](http://arxiv.org/pdf/2404.00874.pdf)|null|
@@ -4218,7 +4218,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-25**|**BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**|Leandro A. Passos et.al.|[2402.07310](http://arxiv.org/pdf/2402.07310.pdf)|**[link](https://github.com/leandropassosjr/bionerf)**|
 |**2024-02-11**|**3D Gaussian as a New Vision Era: A Survey**|Ben Fei et.al.|[2402.07181](http://arxiv.org/pdf/2402.07181.pdf)|null|
 |**2024-02-09**|**ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**|Georgii Stanishevskii et.al.|[2402.06390](http://arxiv.org/pdf/2402.06390.pdf)|**[link](https://github.com/quereste/implicit-deepfake)**|
-|**2024-02-25**|**SIR: Multi-view Inverse Rendering with Decomposable Shadow for Indoor Scenes**|Xiaokang Wei et.al.|[2402.06136](http://arxiv.org/pdf/2402.06136.pdf)|null|
+|**2024-04-09**|**SIR: Multi-view Inverse Rendering with Decomposable Shadow for Indoor Scenes**|Xiaokang Wei et.al.|[2402.06136](http://arxiv.org/pdf/2402.06136.pdf)|null|
 |**2024-03-11**|**Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**|Yuxi Wei et.al.|[2402.05746](http://arxiv.org/pdf/2402.05746.pdf)|**[link](https://github.com/yifanlu0227/chatsim)**|
 |**2024-02-09**|**NCRF: Neural Contact Radiance Fields for Free-Viewpoint Rendering of Hand-Object Interaction**|Zhongqun Zhang et.al.|[2402.05532](http://arxiv.org/pdf/2402.05532.pdf)|null|
 |**2024-02-07**|**Mesh-based Gaussian Splatting for Real-time Large-scale Deformation**|Lin Gao et.al.|[2402.04796](http://arxiv.org/pdf/2402.04796.pdf)|null|
@@ -6877,7 +6877,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-02-02**|**Equivariant topological complexities**|Mark Grant et.al.|[2402.01540](http://arxiv.org/pdf/2402.01540.pdf)|null|
 |**2024-02-02**|**A Reinforcement Learning-Boosted Motion Planning Framework: Comprehensive Generalization Performance in Autonomous Driving**|Rainer Trauth et.al.|[2402.01465](http://arxiv.org/pdf/2402.01465.pdf)|**[link](https://github.com/tum-avs/frenetix-rl)**|
 |**2024-02-08**|**A survey on robustness in trajectory prediction for autonomous vehicles**|Jeroen Hagenus et.al.|[2402.01397](http://arxiv.org/pdf/2402.01397.pdf)|null|
-|**2024-02-06**|**CC-VPSTO: Chance-Constrained Via-Point-based Stochastic Trajectory Optimisation for Safe and Efficient Online Robot Motion Planning**|Lara Brudermüller et.al.|[2402.01370](http://arxiv.org/pdf/2402.01370.pdf)|null|
+|**2024-04-09**|**CC-VPSTO: Chance-Constrained Via-Point-based Stochastic Trajectory Optimisation for Safe and Efficient Online Robot Motion Planning**|Lara Brudermüller et.al.|[2402.01370](http://arxiv.org/pdf/2402.01370.pdf)|null|
 |**2024-02-11**|**Neural Trajectory Model: Implicit Neural Trajectory Representation for Trajectories Generation**|Zihan Yu et.al.|[2402.01254](http://arxiv.org/pdf/2402.01254.pdf)|**[link](https://github.com/laser2099/neural-trajectory-model)**|
 |**2024-02-02**|**Scalable Multi-modal Model Predictive Control via Duality-based Interaction Predictions**|Hansung Kim et.al.|[2402.01116](http://arxiv.org/pdf/2402.01116.pdf)|null|
 |**2024-01-31**|**Distance and Collision Probability Estimation from Gaussian Surface Models**|Kshitij Goel et.al.|[2402.00186](http://arxiv.org/pdf/2402.00186.pdf)|null|
@@ -7260,7 +7260,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-12-07**|**DreamVideo: Composing Your Dream Videos with Customized Subject and Motion**|Yujie Wei et.al.|[2312.04433](http://arxiv.org/pdf/2312.04433.pdf)|**[link](https://github.com/ali-vilab/VGen)**|
 |**2023-12-06**|**AnimateZero: Video Diffusion Models are Zero-Shot Image Animators**|Jiwen Yu et.al.|[2312.03793](http://arxiv.org/pdf/2312.03793.pdf)|**[link](https://github.com/vvictoryuki/animatezero)**|
 |**2023-12-12**|**DreamVideo: High-Fidelity Image-to-Video Generation with Image Retention and Text Guidance**|Cong Wang et.al.|[2312.03018](http://arxiv.org/pdf/2312.03018.pdf)|null|
-|**2023-12-05**|**BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models**|Fengyuan Shi et.al.|[2312.02813](http://arxiv.org/pdf/2312.02813.pdf)|null|
+|**2024-04-09**|**BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models**|Fengyuan Shi et.al.|[2312.02813](http://arxiv.org/pdf/2312.02813.pdf)|null|
 |**2024-03-29**|**DragVideo: Interactive Drag-style Video Editing**|Yufan Deng et.al.|[2312.02216](http://arxiv.org/pdf/2312.02216.pdf)|**[link](https://github.com/rickyskywalker/dragvideo-official)**|
 |**2023-12-03**|**Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models**|Shengqu Cai et.al.|[2312.01409](http://arxiv.org/pdf/2312.01409.pdf)|null|
 |**2023-12-03**|**ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models**|Jeong-gi Kwak et.al.|[2312.01305](http://arxiv.org/pdf/2312.01305.pdf)|null|
