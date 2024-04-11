@@ -15,6 +15,37 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion**|Jaidev Shriram et.al.|[2404.07199](http://arxiv.org/pdf/2404.07199.pdf)|null|
+|**2024-04-10**|**Laser driven melt pool resonances through dynamically oscillating energy inputs**|Marco Rupp et.al.|[2404.07195](http://arxiv.org/pdf/2404.07195.pdf)|null|
+|**2024-04-10**|**VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification**|Florian Sestak et.al.|[2404.07194](http://arxiv.org/pdf/2404.07194.pdf)|**[link](https://github.com/ml-jku/vnegnn)**|
+|**2024-04-10**|**InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models**|Jiale Xu et.al.|[2404.07191](http://arxiv.org/pdf/2404.07191.pdf)|**[link](https://github.com/tencentarc/instantmesh)**|
+|**2024-04-10**|**Measuring proximity to standard planes during fetal brain ultrasound scanning**|Chiara Di Vece et.al.|[2404.07124](http://arxiv.org/pdf/2404.07124.pdf)|null|
+|**2024-04-10**|**Driver Attention Tracking and Analysis**|Dat Viet Thanh Nguyen et.al.|[2404.07122](http://arxiv.org/pdf/2404.07122.pdf)|null|
+|**2024-04-10**|**3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion**|Yixuan Li et.al.|[2404.07106](http://arxiv.org/pdf/2404.07106.pdf)|null|
+|**2024-04-10**|**Fabrication Tolerant Multi-Layer Integrated Photonic Topology Optimization**|Michael J. Probst et.al.|[2404.07104](http://arxiv.org/pdf/2404.07104.pdf)|null|
+|**2024-04-10**|**Learning Priors for Non Rigid SfM from Casual Videos**|Yoni Kasten et.al.|[2404.07097](http://arxiv.org/pdf/2404.07097.pdf)|null|
+|**2024-04-10**|**MoCap-to-Visual Domain Adaptation for Efficient Human Mesh Estimation from 2D Keypoints**|Bedirhan Uguz et.al.|[2404.07094](http://arxiv.org/pdf/2404.07094.pdf)|null|
+|**2024-04-10**|**Analytical Formula for Calculations of Armour Losses in Three-Core Power Cables**|Marius Hatlo et.al.|[2404.06998](http://arxiv.org/pdf/2404.06998.pdf)|null|
+|**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926](http://arxiv.org/pdf/2404.06926.pdf)|null|
+|**2024-04-10**|**DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting**|Shijie Zhou et.al.|[2404.06903](http://arxiv.org/pdf/2404.06903.pdf)|null|
+|**2024-04-10**|**RESSCAL3D: Resolution Scalable 3D Semantic Segmentation of Point Clouds**|Remco Royen et.al.|[2404.06863](http://arxiv.org/pdf/2404.06863.pdf)|null|
+|**2024-04-10**|**Monocular 3D lane detection for Autonomous Driving: Recent Achievements, Challenges, and Outlooks**|Fulong Ma et.al.|[2404.06860](http://arxiv.org/pdf/2404.06860.pdf)|null|
+|**2024-04-10**|**UDiFF: Generating Conditional Unsigned Distance Fields with Optimal Wavelet Diffusion**|Junsheng Zhou et.al.|[2404.06851](http://arxiv.org/pdf/2404.06851.pdf)|null|
+|**2024-04-10**|**O2V-Mapping: Online Open-Vocabulary Mapping with Neural Implicit Representation**|Muer Tie et.al.|[2404.06836](http://arxiv.org/pdf/2404.06836.pdf)|null|
+|**2024-04-10**|**SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**|Mathis Kruse et.al.|[2404.06832](http://arxiv.org/pdf/2404.06832.pdf)|**[link](https://github.com/m-kruse98/splatpose)**|
+|**2024-04-10**|**Zero-shot Point Cloud Completion Via 2D Priors**|Tianxin Huang et.al.|[2404.06814](http://arxiv.org/pdf/2404.06814.pdf)|null|
+|**2024-04-10**|**Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior**|Fan Lu et.al.|[2404.06780](http://arxiv.org/pdf/2404.06780.pdf)|null|
+|**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753](http://arxiv.org/pdf/2404.06753.pdf)|null|
+|**2024-04-10**|**Designing Fluid-Exuding Cartilage for Biomimetic Robots Mimicking Human Joint Lubrication Function**|Akihiro Miki et.al.|[2404.06740](http://arxiv.org/pdf/2404.06740.pdf)|null|
+|**2024-04-10**|**Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**|Sibeak Lee et.al.|[2404.06727](http://arxiv.org/pdf/2404.06727.pdf)|**[link](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)**|
+|**2024-04-10**|**Sparse Points to Dense Clouds: Enhancing 3D Detection with Limited LiDAR Data**|Aakash Kumar et.al.|[2404.06715](http://arxiv.org/pdf/2404.06715.pdf)|null|
+|**2024-04-10**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710](http://arxiv.org/pdf/2404.06710.pdf)|null|
+|**2024-04-10**|**Scaling Multi-Camera 3D Object Detection through Weak-to-Strong Eliciting**|Hao Lu et.al.|[2404.06700](http://arxiv.org/pdf/2404.06700.pdf)|**[link](https://github.com/envision-research/scale-bev)**|
+|**2024-04-10**|**Binomial Self-compensation for Motion Error in Dynamic 3D Scanning**|Geyou Zhang et.al.|[2404.06693](http://arxiv.org/pdf/2404.06693.pdf)|null|
+|**2024-04-10**|**Fast and Accurate Relative Motion Tracking for Two Industrial Robots**|Honglu He et.al.|[2404.06687](http://arxiv.org/pdf/2404.06687.pdf)|null|
+|**2024-04-09**|**Res-U2Net: Untrained Deep Learning for Phase Retrieval and Image Reconstruction**|Carlos Osorio Quero et.al.|[2404.06657](http://arxiv.org/pdf/2404.06657.pdf)|null|
+|**2024-04-09**|**GOAT-Bench: A Benchmark for Multi-Modal Lifelong Navigation**|Mukul Khanna et.al.|[2404.06609](http://arxiv.org/pdf/2404.06609.pdf)|null|
+|**2024-04-09**|**Chiral two-dimensional MoS2 by molecular functionalization as ultra-sensitive detectors for circularly polarized light**|Ye Wang et.al.|[2404.06555](http://arxiv.org/pdf/2404.06555.pdf)|null|
 |**2024-04-10**|**Reconstructing Hand-Held Objects in 3D**|Jane Wu et.al.|[2404.06507](http://arxiv.org/pdf/2404.06507.pdf)|null|
 |**2024-04-10**|**Flying with Photons: Rendering Novel Views of Propagating Light**|Anagh Malik et.al.|[2404.06493](http://arxiv.org/pdf/2404.06493.pdf)|null|
 |**2024-04-09**|**The Central Spanning Tree Problem**|Enrique Fita Sanmartín et.al.|[2404.06447](http://arxiv.org/pdf/2404.06447.pdf)|null|
@@ -162,7 +193,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-04**|**Design and Evaluation of a Compact 3D End-effector Assistive Robot for Adaptive Arm Support**|Sibo Yang et.al.|[2404.03149](http://arxiv.org/pdf/2404.03149.pdf)|null|
 |**2024-04-04**|**A first extraction of the weak magnetism form factor and Fierz interference term from the $^{114}$In $\rightarrow$ $^{114}$ Sn Gamow-Teller transition**|L. De Keukeleere et.al.|[2404.03140](http://arxiv.org/pdf/2404.03140.pdf)|null|
 |**2024-04-04**|**GaSpCT: Gaussian Splatting for Novel CT Projection View Synthesis**|Emmanouil Nikolakakis et.al.|[2404.03126](http://arxiv.org/pdf/2404.03126.pdf)|null|
-|**2024-04-03**|**Analyzing Warp Drive Spacetimes with Warp Factory**|Christopher Helmerich et.al.|[2404.03095](http://arxiv.org/pdf/2404.03095.pdf)|**[link](https://github.com/pbbp0904/warpfactory)**|
+|**2024-04-10**|**Analyzing Warp Drive Spacetimes with Warp Factory**|Christopher Helmerich et.al.|[2404.03095](http://arxiv.org/pdf/2404.03095.pdf)|**[link](https://github.com/pbbp0904/warpfactory)**|
 |**2024-04-03**|**Behind the Veil: Enhanced Indoor 3D Scene Reconstruction with Occluded Surfaces Completion**|Su Sun et.al.|[2404.03070](http://arxiv.org/pdf/2404.03070.pdf)|null|
 |**2024-04-07**|**Linear Anchored Gaussian Mixture Model for Location and Width Computation of Objects in Thick Line Shape**|Nafaa Nacereddine et.al.|[2404.03043](http://arxiv.org/pdf/2404.03043.pdf)|null|
 |**2024-04-03**|**AWOL: Analysis WithOut synthesis using Language**|Silvia Zuffi et.al.|[2404.03042](http://arxiv.org/pdf/2404.03042.pdf)|null|
@@ -4121,6 +4152,10 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**|Mathis Kruse et.al.|[2404.06832](http://arxiv.org/pdf/2404.06832.pdf)|**[link](https://github.com/m-kruse98/splatpose)**|
+|**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753](http://arxiv.org/pdf/2404.06753.pdf)|null|
+|**2024-04-10**|**Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**|Sibeak Lee et.al.|[2404.06727](http://arxiv.org/pdf/2404.06727.pdf)|**[link](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)**|
+|**2024-04-10**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710](http://arxiv.org/pdf/2404.06710.pdf)|null|
 |**2024-04-09**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270](http://arxiv.org/pdf/2404.06270.pdf)|null|
 |**2024-04-09**|**GHNeRF: Learning Generalizable Human Features with Efficient Neural Radiance Fields**|Arnab Dey et.al.|[2404.06246](http://arxiv.org/pdf/2404.06246.pdf)|null|
 |**2024-04-09**|**HFNeRF: Learning Human Biomechanic Features with Neural Radiance Fields**|Arnab Dey et.al.|[2404.06152](http://arxiv.org/pdf/2404.06152.pdf)|null|
@@ -4872,6 +4907,12 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**Identification of Fine-grained Systematic Errors via Controlled Scene Generation**|Valentyn Boreiko et.al.|[2404.07045](http://arxiv.org/pdf/2404.07045.pdf)|null|
+|**2024-04-10**|**SparseAD: Sparse Query-Centric Paradigm for Efficient End-to-End Autonomous Driving**|Diankun Zhang et.al.|[2404.06892](http://arxiv.org/pdf/2404.06892.pdf)|null|
+|**2024-04-10**|**Monocular 3D lane detection for Autonomous Driving: Recent Achievements, Challenges, and Outlooks**|Fulong Ma et.al.|[2404.06860](http://arxiv.org/pdf/2404.06860.pdf)|null|
+|**2024-04-10**|**Sparse Points to Dense Clouds: Enhancing 3D Detection with Limited LiDAR Data**|Aakash Kumar et.al.|[2404.06715](http://arxiv.org/pdf/2404.06715.pdf)|null|
+|**2024-04-09**|**SAM-I-Am: Semantic Boosting for Zero-shot Atomic-Scale Electron Micrograph Segmentation**|Waqwoya Abebe et.al.|[2404.06638](http://arxiv.org/pdf/2404.06638.pdf)|null|
+|**2024-04-09**|**RoadBEV: Road Surface Reconstruction in Bird's Eye View**|Tong Zhao et.al.|[2404.06605](http://arxiv.org/pdf/2404.06605.pdf)|**[link](https://github.com/ztsrxh/roadbev)**|
 |**2024-04-09**|**HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention**|Xiaolong Tang et.al.|[2404.06351](http://arxiv.org/pdf/2404.06351.pdf)|**[link](https://github.com/xiaolongtang23/hpnet)**|
 |**2024-04-09**|**AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning**|Senkang Hu et.al.|[2404.06345](http://arxiv.org/pdf/2404.06345.pdf)|null|
 |**2024-04-09**|**Label-Efficient 3D Object Detection For Road-Side Units**|Minh-Quan Dao et.al.|[2404.06256](http://arxiv.org/pdf/2404.06256.pdf)|null|
@@ -5661,6 +5702,16 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**Identification of Fine-grained Systematic Errors via Controlled Scene Generation**|Valentyn Boreiko et.al.|[2404.07045](http://arxiv.org/pdf/2404.07045.pdf)|null|
+|**2024-04-10**|**SparseAD: Sparse Query-Centric Paradigm for Efficient End-to-End Autonomous Driving**|Diankun Zhang et.al.|[2404.06892](http://arxiv.org/pdf/2404.06892.pdf)|null|
+|**2024-04-10**|**Monocular 3D lane detection for Autonomous Driving: Recent Achievements, Challenges, and Outlooks**|Fulong Ma et.al.|[2404.06860](http://arxiv.org/pdf/2404.06860.pdf)|null|
+|**2024-04-10**|**SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**|Mathis Kruse et.al.|[2404.06832](http://arxiv.org/pdf/2404.06832.pdf)|**[link](https://github.com/m-kruse98/splatpose)**|
+|**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753](http://arxiv.org/pdf/2404.06753.pdf)|null|
+|**2024-04-10**|**Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**|Sibeak Lee et.al.|[2404.06727](http://arxiv.org/pdf/2404.06727.pdf)|**[link](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)**|
+|**2024-04-10**|**Sparse Points to Dense Clouds: Enhancing 3D Detection with Limited LiDAR Data**|Aakash Kumar et.al.|[2404.06715](http://arxiv.org/pdf/2404.06715.pdf)|null|
+|**2024-04-10**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710](http://arxiv.org/pdf/2404.06710.pdf)|null|
+|**2024-04-09**|**SAM-I-Am: Semantic Boosting for Zero-shot Atomic-Scale Electron Micrograph Segmentation**|Waqwoya Abebe et.al.|[2404.06638](http://arxiv.org/pdf/2404.06638.pdf)|null|
+|**2024-04-09**|**RoadBEV: Road Surface Reconstruction in Bird's Eye View**|Tong Zhao et.al.|[2404.06605](http://arxiv.org/pdf/2404.06605.pdf)|**[link](https://github.com/ztsrxh/roadbev)**|
 |**2024-04-09**|**HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention**|Xiaolong Tang et.al.|[2404.06351](http://arxiv.org/pdf/2404.06351.pdf)|**[link](https://github.com/xiaolongtang23/hpnet)**|
 |**2024-04-09**|**AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning**|Senkang Hu et.al.|[2404.06345](http://arxiv.org/pdf/2404.06345.pdf)|null|
 |**2024-04-09**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270](http://arxiv.org/pdf/2404.06270.pdf)|null|
@@ -6727,6 +6778,12 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification**|Florian Sestak et.al.|[2404.07194](http://arxiv.org/pdf/2404.07194.pdf)|**[link](https://github.com/ml-jku/vnegnn)**|
+|**2024-04-10**|**CBFKIT: A Control Barrier Function Toolbox for Robotics Applications**|Mitchell Black et.al.|[2404.07158](http://arxiv.org/pdf/2404.07158.pdf)|null|
+|**2024-04-10**|**Algebraic Proofs of Path Disconnectedness using Time-Dependent Barrier Functions**|Didier Henrion et.al.|[2404.06985](http://arxiv.org/pdf/2404.06985.pdf)|null|
+|**2024-04-10**|**TrajPRed: Trajectory Prediction with Region-based Relation Learning**|Chen Zhou et.al.|[2404.06971](http://arxiv.org/pdf/2404.06971.pdf)|**[link](https://github.com/olivesgatech/trajpred)**|
+|**2024-04-10**|**SparseAD: Sparse Query-Centric Paradigm for Efficient End-to-End Autonomous Driving**|Diankun Zhang et.al.|[2404.06892](http://arxiv.org/pdf/2404.06892.pdf)|null|
+|**2024-04-10**|**Toward Holistic Planning and Control Optimization for Dual-Arm Rearrangement**|Kai Gao et.al.|[2404.06758](http://arxiv.org/pdf/2404.06758.pdf)|null|
 |**2024-04-09**|**Traffic Signal Control and Speed Offset Coordination Using Q-Learning for Arterial Road Networks**|Tianchen Yuan et.al.|[2404.06382](http://arxiv.org/pdf/2404.06382.pdf)|null|
 |**2024-04-09**|**Two-Person Interaction Augmentation with Skeleton Priors**|Baiyi Li et.al.|[2404.05490](http://arxiv.org/pdf/2404.05490.pdf)|null|
 |**2024-04-08**|**Long-horizon Locomotion and Manipulation on a Quadrupedal Robot with Large Language Models**|Yutao Ouyang et.al.|[2404.05291](http://arxiv.org/pdf/2404.05291.pdf)|null|
