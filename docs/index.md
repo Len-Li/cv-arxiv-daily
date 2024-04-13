@@ -30,7 +30,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-11**|**Active particles knead three-dimensional gels into open crumbs**|Martin Cramer Pedersen et.al.|[2404.07767](http://arxiv.org/pdf/2404.07767.pdf)|null|
 |**2024-04-11**|**3D-CSAD: Untrained 3D Anomaly Detection for Complex Manufacturing Surfaces**|Xuanming Cao et.al.|[2404.07748](http://arxiv.org/pdf/2404.07748.pdf)|null|
 |**2024-04-11**|**Point cloud obstacle detection with the map filtration**|Lukas Kratochvila et.al.|[2404.07730](http://arxiv.org/pdf/2404.07730.pdf)|null|
-|**2024-04-11**|**OpenTrench3D: A Photogrammetric 3D Point Cloud Dataset for Semantic Segmentation of Underground Utilities**|Lasse H. Hansen et.al.|[2404.07711](http://arxiv.org/pdf/2404.07711.pdf)|null|
+|**2024-04-11**|**OpenTrench3D: A Photogrammetric 3D Point Cloud Dataset for Semantic Segmentation of Underground Utilities**|Lasse H. Hansen et.al.|[2404.07711](http://arxiv.org/pdf/2404.07711.pdf)|**[link](https://github.com/simonbuusjensen/opentrench3d)**|
 |**2024-04-11**|**Run-time Monitoring of 3D Object Detection in Automated Driving Systems Using Early Layer Neural Activation Patterns**|Hakan Yekta Yatbaz et.al.|[2404.07685](http://arxiv.org/pdf/2404.07685.pdf)|null|
 |**2024-04-11**|**Shape Completion in the Dark: Completing Vertebrae Morphology from 3D Ultrasound**|Miruna-Alexandra Gafencu et.al.|[2404.07668](http://arxiv.org/pdf/2404.07668.pdf)|**[link](https://github.com/miruna20/shape-completion-in-the-dark)**|
 |**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644](http://arxiv.org/pdf/2404.07644.pdf)|null|
@@ -4934,7 +4934,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-11**|**Sparse Laneformer**|Ji Liu et.al.|[2404.07821](http://arxiv.org/pdf/2404.07821.pdf)|null|
 |**2024-04-11**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762](http://arxiv.org/pdf/2404.07762.pdf)|**[link](https://github.com/wljungbergh/neuroncap)**|
 |**2024-04-11**|**Homography Guided Temporal Fusion for Road Line and Marking Segmentation**|Shan Wang et.al.|[2404.07626](http://arxiv.org/pdf/2404.07626.pdf)|**[link](https://github.com/shanwang-shan/homofusion)**|
-|**2024-04-11**|**Can Vehicle Motion Planning Generalize to Realistic Long-tail Scenarios?**|Marcel Hallgarten et.al.|[2404.07569](http://arxiv.org/pdf/2404.07569.pdf)|null|
+|**2024-04-11**|**Can Vehicle Motion Planning Generalize to Realistic Long-tail Scenarios?**|Marcel Hallgarten et.al.|[2404.07569](http://arxiv.org/pdf/2404.07569.pdf)|**[link](https://github.com/mh0797/interplan)**|
 |**2024-04-11**|**PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds**|Weisheng Xu et.al.|[2404.07495](http://arxiv.org/pdf/2404.07495.pdf)|**[link](https://github.com/stiphyjay/pillartrack)**|
 |**2024-04-10**|**Identification of Fine-grained Systematic Errors via Controlled Scene Generation**|Valentyn Boreiko et.al.|[2404.07045](http://arxiv.org/pdf/2404.07045.pdf)|null|
 |**2024-04-10**|**SparseAD: Sparse Query-Centric Paradigm for Efficient End-to-End Autonomous Driving**|Diankun Zhang et.al.|[2404.06892](http://arxiv.org/pdf/2404.06892.pdf)|null|
@@ -5735,7 +5735,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-11**|**Sparse Laneformer**|Ji Liu et.al.|[2404.07821](http://arxiv.org/pdf/2404.07821.pdf)|null|
 |**2024-04-11**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762](http://arxiv.org/pdf/2404.07762.pdf)|**[link](https://github.com/wljungbergh/neuroncap)**|
 |**2024-04-11**|**Homography Guided Temporal Fusion for Road Line and Marking Segmentation**|Shan Wang et.al.|[2404.07626](http://arxiv.org/pdf/2404.07626.pdf)|**[link](https://github.com/shanwang-shan/homofusion)**|
-|**2024-04-11**|**Can Vehicle Motion Planning Generalize to Realistic Long-tail Scenarios?**|Marcel Hallgarten et.al.|[2404.07569](http://arxiv.org/pdf/2404.07569.pdf)|null|
+|**2024-04-11**|**Can Vehicle Motion Planning Generalize to Realistic Long-tail Scenarios?**|Marcel Hallgarten et.al.|[2404.07569](http://arxiv.org/pdf/2404.07569.pdf)|**[link](https://github.com/mh0797/interplan)**|
 |**2024-04-11**|**PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds**|Weisheng Xu et.al.|[2404.07495](http://arxiv.org/pdf/2404.07495.pdf)|**[link](https://github.com/stiphyjay/pillartrack)**|
 |**2024-04-10**|**Identification of Fine-grained Systematic Errors via Controlled Scene Generation**|Valentyn Boreiko et.al.|[2404.07045](http://arxiv.org/pdf/2404.07045.pdf)|null|
 |**2024-04-10**|**SparseAD: Sparse Query-Centric Paradigm for Efficient End-to-End Autonomous Driving**|Diankun Zhang et.al.|[2404.06892](http://arxiv.org/pdf/2404.06892.pdf)|null|
@@ -6814,11 +6814,11 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-11**|**A Novel Optimization-Based Collision Avoidance For Autonomous On-Orbit Assembly**|Siavash Tavana et.al.|[2404.07916](http://arxiv.org/pdf/2404.07916.pdf)|null|
 |**2024-04-11**|**Q-ITAGS: Quality-Optimized Spatio-Temporal Heterogeneous Task Allocation with a Time Budget**|Glen Neville et.al.|[2404.07902](http://arxiv.org/pdf/2404.07902.pdf)|null|
 |**2024-04-11**|**Estimating Visibility from Alternate Perspectives for Motion Planning with Occlusions**|Barry Gilhuly et.al.|[2404.07781](http://arxiv.org/pdf/2404.07781.pdf)|null|
-|**2024-04-11**|**Can Vehicle Motion Planning Generalize to Realistic Long-tail Scenarios?**|Marcel Hallgarten et.al.|[2404.07569](http://arxiv.org/pdf/2404.07569.pdf)|null|
+|**2024-04-11**|**Can Vehicle Motion Planning Generalize to Realistic Long-tail Scenarios?**|Marcel Hallgarten et.al.|[2404.07569](http://arxiv.org/pdf/2404.07569.pdf)|**[link](https://github.com/mh0797/interplan)**|
 |**2024-04-11**|**Graph Attention Network for Lane-Wise and Topology-Invariant Intersection Traffic Simulation**|Nooshin Yousefzadeh et.al.|[2404.07446](http://arxiv.org/pdf/2404.07446.pdf)|null|
 |**2024-04-10**|**VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification**|Florian Sestak et.al.|[2404.07194](http://arxiv.org/pdf/2404.07194.pdf)|**[link](https://github.com/ml-jku/vnegnn)**|
-|**2024-04-10**|**CBFKIT: A Control Barrier Function Toolbox for Robotics Applications**|Mitchell Black et.al.|[2404.07158](http://arxiv.org/pdf/2404.07158.pdf)|null|
-|**2024-04-10**|**Algebraic Proofs of Path Disconnectedness using Time-Dependent Barrier Functions**|Didier Henrion et.al.|[2404.06985](http://arxiv.org/pdf/2404.06985.pdf)|null|
+|**2024-04-10**|**CBFKIT: A Control Barrier Function Toolbox for Robotics Applications**|Mitchell Black et.al.|[2404.07158](http://arxiv.org/pdf/2404.07158.pdf)|**[link](https://github.com/bardhh/cbfkit)**|
+|**2024-04-10**|**Algebraic Proofs of Path Disconnectedness using Time-Dependent Barrier Functions**|Didier Henrion et.al.|[2404.06985](http://arxiv.org/pdf/2404.06985.pdf)|**[link](https://github.com/jarmill/set_connected)**|
 |**2024-04-10**|**TrajPRed: Trajectory Prediction with Region-based Relation Learning**|Chen Zhou et.al.|[2404.06971](http://arxiv.org/pdf/2404.06971.pdf)|**[link](https://github.com/olivesgatech/trajpred)**|
 |**2024-04-10**|**SparseAD: Sparse Query-Centric Paradigm for Efficient End-to-End Autonomous Driving**|Diankun Zhang et.al.|[2404.06892](http://arxiv.org/pdf/2404.06892.pdf)|null|
 |**2024-04-10**|**Toward Holistic Planning and Control Optimization for Dual-Arm Rearrangement**|Kai Gao et.al.|[2404.06758](http://arxiv.org/pdf/2404.06758.pdf)|null|
