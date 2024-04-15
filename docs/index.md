@@ -18,7 +18,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-12**|**EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams**|Christen Millerdurai et.al.|[2404.08640](http://arxiv.org/pdf/2404.08640.pdf)|null|
+|**2024-04-12**|**EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams**|Christen Millerdurai et.al.|[2404.08640](http://arxiv.org/pdf/2404.08640.pdf)|**[link](https://github.com/Chris10M/EventEgo3D)**|
 |**2024-04-12**|**Probing the 3D Awareness of Visual Foundation Models**|Mohamed El Banani et.al.|[2404.08636](http://arxiv.org/pdf/2404.08636.pdf)|**[link](https://github.com/mbanani/probe3d)**|
 |**2024-04-12**|**3D Human Scan With A Moving Event Camera**|Kai Kohyama et.al.|[2404.08504](http://arxiv.org/pdf/2404.08504.pdf)|null|
 |**2024-04-12**|**A stable decoupled perfectly matched layer for the 3D wave equation using the nodal discontinuous Galerkin method**|Sophia Julia Feriani et.al.|[2404.08464](http://arxiv.org/pdf/2404.08464.pdf)|null|
@@ -56,7 +56,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-12**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644](http://arxiv.org/pdf/2404.07644.pdf)|**[link](https://github.com/littledang/2dliw-slam)**|
 |**2024-04-11**|**The morphology of cell spheroids in simple shear flow**|Rosalia Ferraro et.al.|[2404.07528](http://arxiv.org/pdf/2404.07528.pdf)|null|
 |**2024-04-11**|**PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds**|Weisheng Xu et.al.|[2404.07495](http://arxiv.org/pdf/2404.07495.pdf)|**[link](https://github.com/stiphyjay/pillartrack)**|
-|**2024-04-11**|**G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images**|Zixiong Huang et.al.|[2404.07474](http://arxiv.org/pdf/2404.07474.pdf)|null|
+|**2024-04-11**|**G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images**|Zixiong Huang et.al.|[2404.07474](http://arxiv.org/pdf/2404.07474.pdf)|**[link](https://github.com/llrtt/G-NeRF)**|
 |**2024-04-10**|**Synthetic Spectra from Particle-in-cell Simulations of Relativistic Jets containing an initial Toroidal Magnetic Field**|Ioana Dutan et.al.|[2404.07392](http://arxiv.org/pdf/2404.07392.pdf)|null|
 |**2024-04-10**|**sCWatter: Open source coupled wave scattering simulation for spectroscopy and microscopy**|Ruijiao Sun et.al.|[2404.07293](http://arxiv.org/pdf/2404.07293.pdf)|null|
 |**2024-04-10**|**Topological entropy of Turing complete dynamics**|Renzo Bruera et.al.|[2404.07288](http://arxiv.org/pdf/2404.07288.pdf)|null|
