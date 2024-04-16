@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.04.15
+Updated on 2024.04.16
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -162,7 +162,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-07**|**MonoTAKD: Teaching Assistant Knowledge Distillation for Monocular 3D Object Detection**|Hou-I Liu et.al.|[2404.04910](http://arxiv.org/pdf/2404.04910.pdf)|null|
 |**2024-04-07**|**Dual-Camera Smooth Zoom on Mobile Phones**|Renlong Wu et.al.|[2404.04908](http://arxiv.org/pdf/2404.04908.pdf)|null|
 |**2024-04-07**|**A Unified Diffusion Framework for Scene-aware Human Motion Estimation from Sparse Signals**|Jiangnan Tang et.al.|[2404.04890](http://arxiv.org/pdf/2404.04890.pdf)|null|
-|**2024-04-07**|**GauU-Scene V2: Expanse Lidar Image Dataset Shows Unreliable Geometric Reconstruction Using Gaussian Splatting and NeRF**|Butian Xiong et.al.|[2404.04880](http://arxiv.org/pdf/2404.04880.pdf)|null|
+|**2024-04-13**|**GauU-Scene V2: Assessing the Reliability of Image-Based Metrics with Expansive Lidar Image Dataset Using 3DGS and NeRF**|Butian Xiong et.al.|[2404.04880](http://arxiv.org/pdf/2404.04880.pdf)|null|
 |**2024-04-07**|**CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data**|Wei Fang et.al.|[2404.04878](http://arxiv.org/pdf/2404.04878.pdf)|null|
 |**2024-04-07**|**HiLo: Detailed and Robust 3D Clothed Human Reconstruction with High-and Low-Frequency Information of Parametric Models**|Yifan Yang et.al.|[2404.04876](http://arxiv.org/pdf/2404.04876.pdf)|**[link](https://github.com/yifyang993/hilo)**|
 |**2024-04-07**|**Site-ordering/disordering-induced magnetic textures in a vdW ferromagnet by competing global and broken inversion-symmetry**|Haoyan Zhang et.al.|[2404.04851](http://arxiv.org/pdf/2404.04851.pdf)|null|
@@ -239,7 +239,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-04**|**Design and Evaluation of a Compact 3D End-effector Assistive Robot for Adaptive Arm Support**|Sibo Yang et.al.|[2404.03149](http://arxiv.org/pdf/2404.03149.pdf)|null|
 |**2024-04-04**|**A first extraction of the weak magnetism form factor and Fierz interference term from the $^{114}$In $\rightarrow$ $^{114}$ Sn Gamow-Teller transition**|L. De Keukeleere et.al.|[2404.03140](http://arxiv.org/pdf/2404.03140.pdf)|null|
 |**2024-04-04**|**GaSpCT: Gaussian Splatting for Novel CT Projection View Synthesis**|Emmanouil Nikolakakis et.al.|[2404.03126](http://arxiv.org/pdf/2404.03126.pdf)|null|
-|**2024-04-10**|**Analyzing Warp Drive Spacetimes with Warp Factory**|Christopher Helmerich et.al.|[2404.03095](http://arxiv.org/pdf/2404.03095.pdf)|**[link](https://github.com/pbbp0904/warpfactory)**|
+|**2024-04-10**|**Analyzing Warp Drive Spacetimes with Warp Factory**|Christopher Helmerich et.al.|[2404.03095](http://arxiv.org/pdf/2404.03095.pdf)|**[link](https://github.com/nerdswithattitudes/warpfactory)**|
 |**2024-04-03**|**Behind the Veil: Enhanced Indoor 3D Scene Reconstruction with Occluded Surfaces Completion**|Su Sun et.al.|[2404.03070](http://arxiv.org/pdf/2404.03070.pdf)|null|
 |**2024-04-07**|**Linear Anchored Gaussian Mixture Model for Location and Width Computation of Objects in Thick Line Shape**|Nafaa Nacereddine et.al.|[2404.03043](http://arxiv.org/pdf/2404.03043.pdf)|null|
 |**2024-04-03**|**AWOL: Analysis WithOut synthesis using Language**|Silvia Zuffi et.al.|[2404.03042](http://arxiv.org/pdf/2404.03042.pdf)|null|
@@ -4209,7 +4209,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-09**|**HFNeRF: Learning Human Biomechanic Features with Neural Radiance Fields**|Arnab Dey et.al.|[2404.06152](http://arxiv.org/pdf/2404.06152.pdf)|null|
 |**2024-04-08**|**Stylizing Sparse-View 3D Scenes with Hierarchical Neural Representation**|Y. Wang et.al.|[2404.05236](http://arxiv.org/pdf/2404.05236.pdf)|null|
 |**2024-04-07**|**CodecNeRF: Toward Fast Encoding and Decoding, Compact, and High-quality Novel-view Synthesis**|Gyeongjin Kang et.al.|[2404.04913](http://arxiv.org/pdf/2404.04913.pdf)|null|
-|**2024-04-07**|**GauU-Scene V2: Expanse Lidar Image Dataset Shows Unreliable Geometric Reconstruction Using Gaussian Splatting and NeRF**|Butian Xiong et.al.|[2404.04880](http://arxiv.org/pdf/2404.04880.pdf)|null|
+|**2024-04-13**|**GauU-Scene V2: Assessing the Reliability of Image-Based Metrics with Expansive Lidar Image Dataset Using 3DGS and NeRF**|Butian Xiong et.al.|[2404.04880](http://arxiv.org/pdf/2404.04880.pdf)|null|
 |**2024-04-07**|**NeRF2Points: Large-Scale Point Cloud Generation From Street Views' Radiance Field Optimization**|Peng Tu et.al.|[2404.04875](http://arxiv.org/pdf/2404.04875.pdf)|null|
 |**2024-04-06**|**DATENeRF: Depth-Aware Text-based Editing of NeRFs**|Sara Rojas et.al.|[2404.04526](http://arxiv.org/pdf/2404.04526.pdf)|null|
 |**2024-04-07**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/pdf/2404.03654.pdf)|null|
@@ -4277,7 +4277,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-18**|**OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation**|Haochen Jiang et.al.|[2403.11796](http://arxiv.org/pdf/2403.11796.pdf)|null|
 |**2024-03-17**|**Creating Seamless 3D Maps Using Radiance Fields**|Sai Tarun Sathyan et.al.|[2403.11364](http://arxiv.org/pdf/2403.11364.pdf)|null|
 |**2024-03-17**|**SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream**|Lin Zhu et.al.|[2403.11222](http://arxiv.org/pdf/2403.11222.pdf)|**[link](https://github.com/bit-vision/spikenerf)**|
-|**2024-03-17**|**Recent Advances in 3D Gaussian Splatting**|Tong Wu et.al.|[2403.11134](http://arxiv.org/pdf/2403.11134.pdf)|null|
+|**2024-04-13**|**Recent Advances in 3D Gaussian Splatting**|Tong Wu et.al.|[2403.11134](http://arxiv.org/pdf/2403.11134.pdf)|null|
 |**2024-03-17**|**Omni-Recon: Towards General-Purpose Neural Radiance Fields for Versatile 3D Applications**|Yonggan Fu et.al.|[2403.11131](http://arxiv.org/pdf/2403.11131.pdf)|null|
 |**2024-03-16**|**Fast Sparse View Guided NeRF Update for Object Reconfigurations**|Ziqi Lu et.al.|[2403.11024](http://arxiv.org/pdf/2403.11024.pdf)|null|
 |**2024-03-16**|**HourglassNeRF: Casting an Hourglass as a Bundle of Rays for Few-shot Neural Rendering**|Seunghyeon Seo et.al.|[2403.10906](http://arxiv.org/pdf/2403.10906.pdf)|null|
@@ -5800,7 +5800,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-09**|**Better Monocular 3D Detectors with LiDAR from the Past**|Yurong You et.al.|[2404.05139](http://arxiv.org/pdf/2404.05139.pdf)|**[link](https://github.com/yurongyou/asyncdepth)**|
 |**2024-04-07**|**CodecNeRF: Toward Fast Encoding and Decoding, Compact, and High-quality Novel-view Synthesis**|Gyeongjin Kang et.al.|[2404.04913](http://arxiv.org/pdf/2404.04913.pdf)|null|
 |**2024-04-07**|**MonoTAKD: Teaching Assistant Knowledge Distillation for Monocular 3D Object Detection**|Hou-I Liu et.al.|[2404.04910](http://arxiv.org/pdf/2404.04910.pdf)|null|
-|**2024-04-07**|**GauU-Scene V2: Expanse Lidar Image Dataset Shows Unreliable Geometric Reconstruction Using Gaussian Splatting and NeRF**|Butian Xiong et.al.|[2404.04880](http://arxiv.org/pdf/2404.04880.pdf)|null|
+|**2024-04-13**|**GauU-Scene V2: Assessing the Reliability of Image-Based Metrics with Expansive Lidar Image Dataset Using 3DGS and NeRF**|Butian Xiong et.al.|[2404.04880](http://arxiv.org/pdf/2404.04880.pdf)|null|
 |**2024-04-07**|**NeRF2Points: Large-Scale Point Cloud Generation From Street Views' Radiance Field Optimization**|Peng Tu et.al.|[2404.04875](http://arxiv.org/pdf/2404.04875.pdf)|null|
 |**2024-04-07**|**Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs**|Yiqun Duan et.al.|[2404.04869](http://arxiv.org/pdf/2404.04869.pdf)|null|
 |**2024-04-07**|**Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving**|Jinlong Li et.al.|[2404.04804](http://arxiv.org/pdf/2404.04804.pdf)|null|
@@ -5969,7 +5969,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-17**|**Creating Seamless 3D Maps Using Radiance Fields**|Sai Tarun Sathyan et.al.|[2403.11364](http://arxiv.org/pdf/2403.11364.pdf)|null|
 |**2024-03-17**|**Multi-Sample Long Range Path Planning under Sensing Uncertainty for Off-Road Autonomous Driving**|Matt Schmittle et.al.|[2403.11298](http://arxiv.org/pdf/2403.11298.pdf)|null|
 |**2024-03-17**|**SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream**|Lin Zhu et.al.|[2403.11222](http://arxiv.org/pdf/2403.11222.pdf)|**[link](https://github.com/bit-vision/spikenerf)**|
-|**2024-03-17**|**Recent Advances in 3D Gaussian Splatting**|Tong Wu et.al.|[2403.11134](http://arxiv.org/pdf/2403.11134.pdf)|null|
+|**2024-04-13**|**Recent Advances in 3D Gaussian Splatting**|Tong Wu et.al.|[2403.11134](http://arxiv.org/pdf/2403.11134.pdf)|null|
 |**2024-03-17**|**Omni-Recon: Towards General-Purpose Neural Radiance Fields for Versatile 3D Applications**|Yonggan Fu et.al.|[2403.11131](http://arxiv.org/pdf/2403.11131.pdf)|null|
 |**2024-03-17**|**Large Language Models Powered Context-aware Motion Prediction**|Xiaoji Zheng et.al.|[2403.11057](http://arxiv.org/pdf/2403.11057.pdf)|null|
 |**2024-03-16**|**Fast Sparse View Guided NeRF Update for Object Reconfigurations**|Ziqi Lu et.al.|[2403.11024](http://arxiv.org/pdf/2403.11024.pdf)|null|
@@ -7013,7 +7013,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-02-27**|**Reducing Unnecessary Alerts in Pedestrian Protection Systems Based on P2V Communications**|Ignacio Soto et.al.|[2402.17763](http://arxiv.org/pdf/2402.17763.pdf)|null|
 |**2024-03-08**|**Backpropagation-Based Analytical Derivatives of EKF Covariance for Active Sensing**|Jonas Benhamou et.al.|[2402.17569](http://arxiv.org/pdf/2402.17569.pdf)|null|
 |**2024-02-27**|**RACP: Risk-Aware Contingency Planning with Multi-Modal Predictions**|Khaled A. Mustafa et.al.|[2402.17387](http://arxiv.org/pdf/2402.17387.pdf)|null|
-|**2024-02-27**|**SocialCVAE: Predicting Pedestrian Trajectory via Interaction Conditioned Latents**|Wei Xiang et.al.|[2402.17339](http://arxiv.org/pdf/2402.17339.pdf)|null|
+|**2024-02-27**|**SocialCVAE: Predicting Pedestrian Trajectory via Interaction Conditioned Latents**|Wei Xiang et.al.|[2402.17339](http://arxiv.org/pdf/2402.17339.pdf)|**[link](https://github.com/vivixiang/socialcvae)**|
 |**2024-03-24**|**SwarmPRM: Probabilistic Roadmap Motion Planning for Large-Scale Swarm Robotic Systems**|Yunze Hu et.al.|[2402.16699](http://arxiv.org/pdf/2402.16699.pdf)|null|
 |**2024-03-15**|**Risk-Aware Non-Myopic Motion Planner for Large-Scale Robotic Swarm Using CVaR Constraints**|Xuru Yang et.al.|[2402.16690](http://arxiv.org/pdf/2402.16690.pdf)|null|
 |**2024-02-26**|**Trajectory Prediction for Autonomous Driving Using a Transformer Network**|Zhenning Li et.al.|[2402.16501](http://arxiv.org/pdf/2402.16501.pdf)|null|
