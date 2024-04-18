@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.04.17
+Updated on 2024.04.18
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -52,7 +52,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-15**|**CryoMAE: Few-Shot Cryo-EM Particle Picking with Masked Autoencoders**|Chentianye Xu et.al.|[2404.10178](http://arxiv.org/pdf/2404.10178.pdf)|null|
 |**2024-04-15**|**SegFormer3D: an Efficient Transformer for 3D Medical Image Segmentation**|Shehan Perera et.al.|[2404.10156](http://arxiv.org/pdf/2404.10156.pdf)|**[link](https://github.com/osupcvlab/segformer3d)**|
 |**2024-04-15**|**Cross-Modal Self-Training: Aligning Images and Pointclouds to Learn Classification without Labels**|Amaya Dharmasiri et.al.|[2404.10146](http://arxiv.org/pdf/2404.10146.pdf)|**[link](https://github.com/theamaya/crossmost)**|
-|**2024-04-15**|**Shaping Realities: Enhancing 3D Generative AI with Fabrication Constraints**|Faraz Faruqi et.al.|[2404.10142](http://arxiv.org/pdf/2404.10142.pdf)|null|
+|**2024-04-17**|**Shaping Realities: Enhancing 3D Generative AI with Fabrication Constraints**|Faraz Faruqi et.al.|[2404.10142](http://arxiv.org/pdf/2404.10142.pdf)|null|
 |**2024-04-15**|**WB LUTs: Contrastive Learning for White Balancing Lookup Tables**|Sai Kumar Reddy Manne et.al.|[2404.10133](http://arxiv.org/pdf/2404.10133.pdf)|**[link](https://github.com/skrmanne/3dlut_srgb_wb)**|
 |**2024-04-15**|**Multiple-Input Fourier Neural Operator (MIFNO) for source-dependent 3D elastodynamics**|Fanny Lehmann et.al.|[2404.10115](http://arxiv.org/pdf/2404.10115.pdf)|null|
 |**2024-04-15**|**Synchronous PIV measurements of a self-powered blood turbine and pump couple for right ventricle support**|Kagan Ucak et.al.|[2404.10081](http://arxiv.org/pdf/2404.10081.pdf)|null|
@@ -132,7 +132,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-12**|**Estimation and Inference for Three-Dimensional Panel Data Models**|Guohua Feng et.al.|[2404.08365](http://arxiv.org/pdf/2404.08365.pdf)|null|
 |**2024-04-12**|**Let It Flow: Simultaneous Optimization of 3D Flow and Object Clustering**|Patrik Vacek et.al.|[2404.08363](http://arxiv.org/pdf/2404.08363.pdf)|null|
 |**2024-04-12**|**GPN: Generative Point-based NeRF**|Haipeng Wang et.al.|[2404.08312](http://arxiv.org/pdf/2404.08312.pdf)|**[link](https://github.com/forestsen/GPN)**|
-|**2024-04-12**|**SNAKE-fMRI: A modular fMRI data simulator from the space-time domain to k-space and back**|Pierre-Antoine Comby et.al.|[2404.08282](http://arxiv.org/pdf/2404.08282.pdf)|null|
+|**2024-04-12**|**SNAKE-fMRI: A modular fMRI data simulator from the space-time domain to k-space and back**|Pierre-Antoine Comby et.al.|[2404.08282](http://arxiv.org/pdf/2404.08282.pdf)|**[link](https://github.com/paquiteau/snake-fmri)**|
 |**2024-04-12**|**MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance**|Yuqun Wu et.al.|[2404.08252](http://arxiv.org/pdf/2404.08252.pdf)|null|
 |**2024-04-11**|**An extension theorem for weak solutions of the 3d incompressible Euler equations and applications to singular flows**|Alberto Enciso et.al.|[2404.08115](http://arxiv.org/pdf/2404.08115.pdf)|null|
 |**2024-04-11**|**SimpliCity: Reconstructing Buildings with Simple Regularized 3D Models**|Jean-Philippe Bauchet et.al.|[2404.08104](http://arxiv.org/pdf/2404.08104.pdf)|null|
@@ -4326,7 +4326,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-03**|**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**|Zehan Zheng et.al.|[2404.02742](http://arxiv.org/pdf/2404.02742.pdf)|**[link](https://github.com/ispc-lab/lidar4d)**|
 |**2024-04-03**|**Neural Radiance Fields with Torch Units**|Bingnan Ni et.al.|[2404.02617](http://arxiv.org/pdf/2404.02617.pdf)|null|
 |**2024-04-02**|**NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-Efficient Scene Representation**|Sicheng Li et.al.|[2404.02185](http://arxiv.org/pdf/2404.02185.pdf)|null|
-|**2024-04-02**|**Alpha Invariance: On Inverse Scaling Between Distance and Volume Density in Neural Radiance Fields**|Joshua Ahn et.al.|[2404.02155](http://arxiv.org/pdf/2404.02155.pdf)|null|
+|**2024-04-17**|**Alpha Invariance: On Inverse Scaling Between Distance and Volume Density in Neural Radiance Fields**|Joshua Ahn et.al.|[2404.02155](http://arxiv.org/pdf/2404.02155.pdf)|null|
 |**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400](http://arxiv.org/pdf/2404.01400.pdf)|null|
 |**2024-04-01**|**NeRF-MAE : Masked AutoEncoders for Self Supervised 3D representation Learning for Neural Radiance Fields**|Muhammad Zubair Irshad et.al.|[2404.01300](http://arxiv.org/pdf/2404.01300.pdf)|null|
 |**2024-04-01**|**MagicMirror: Fast and High-Quality Avatar Generation with a Constrained Search Space**|Armand Comas-Massagué et.al.|[2404.01296](http://arxiv.org/pdf/2404.01296.pdf)|null|
@@ -5076,14 +5076,14 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-14**|**VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field**|Fei Xue et.al.|[2404.09271](http://arxiv.org/pdf/2404.09271.pdf)|**[link](https://github.com/feixue94/vrs-nerf)**|
 |**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169](http://arxiv.org/pdf/2404.09169.pdf)|null|
 |**2024-04-13**|**Intention-Aware Control Based on Belief-Space Specifications and Stochastic Expansion**|Zengjie Zhang et.al.|[2404.09037](http://arxiv.org/pdf/2404.09037.pdf)|null|
-|**2024-04-12**|**WROOM: An Autonomous Driving Approach for Off-Road Navigation**|Dvij Kalaria et.al.|[2404.08855](http://arxiv.org/pdf/2404.08855.pdf)|null|
+|**2024-04-12**|**WROOM: An Autonomous Driving Approach for Off-Road Navigation**|Dvij Kalaria et.al.|[2404.08855](http://arxiv.org/pdf/2404.08855.pdf)|**[link](https://github.com/dvij542/offtersim)**|
 |**2024-04-12**|**FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments**|Hexiang Wei et.al.|[2404.08563](http://arxiv.org/pdf/2404.08563.pdf)|null|
 |**2024-04-12**|**Maturity of Vehicle Digital Twins: From Monitoring to Enabling Autonomous Driving**|Robert Klar et.al.|[2404.08438](http://arxiv.org/pdf/2404.08438.pdf)|null|
 |**2024-04-12**|**Transfer Learning Study of Motion Transformer-based Trajectory Predictions**|Lars Ullrich et.al.|[2404.08271](http://arxiv.org/pdf/2404.08271.pdf)|null|
 |**2024-04-12**|**MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance**|Yuqun Wu et.al.|[2404.08252](http://arxiv.org/pdf/2404.08252.pdf)|null|
 |**2024-04-11**|**Real-Time Detection and Analysis of Vehicles and Pedestrians using Deep Learning**|Md Nahid Sadik et.al.|[2404.08081](http://arxiv.org/pdf/2404.08081.pdf)|null|
 |**2024-04-11**|**VeTraSS: Vehicle Trajectory Similarity Search Through Graph Modeling and Representation Learning**|Ming Cheng et.al.|[2404.08021](http://arxiv.org/pdf/2404.08021.pdf)|null|
-|**2024-04-09**|**GRANP: A Graph Recurrent Attentive Neural Process Model for Vehicle Trajectory Prediction**|Yuhao Luo et.al.|[2404.08004](http://arxiv.org/pdf/2404.08004.pdf)|null|
+|**2024-04-09**|**GRANP: A Graph Recurrent Attentive Neural Process Model for Vehicle Trajectory Prediction**|Yuhao Luo et.al.|[2404.08004](http://arxiv.org/pdf/2404.08004.pdf)|**[link](https://github.com/joy-driven/granp)**|
 |**2024-04-11**|**GoMAvatar: Efficient Animatable Human Modeling from Monocular Video Using Gaussians-on-Mesh**|Jing Wen et.al.|[2404.07991](http://arxiv.org/pdf/2404.07991.pdf)|null|
 |**2024-04-11**|**Sparse Laneformer**|Ji Liu et.al.|[2404.07821](http://arxiv.org/pdf/2404.07821.pdf)|null|
 |**2024-04-12**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762](http://arxiv.org/pdf/2404.07762.pdf)|**[link](https://github.com/wljungbergh/neuroncap)**|
@@ -5903,14 +5903,14 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-14**|**VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field**|Fei Xue et.al.|[2404.09271](http://arxiv.org/pdf/2404.09271.pdf)|**[link](https://github.com/feixue94/vrs-nerf)**|
 |**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169](http://arxiv.org/pdf/2404.09169.pdf)|null|
 |**2024-04-13**|**Intention-Aware Control Based on Belief-Space Specifications and Stochastic Expansion**|Zengjie Zhang et.al.|[2404.09037](http://arxiv.org/pdf/2404.09037.pdf)|null|
-|**2024-04-12**|**WROOM: An Autonomous Driving Approach for Off-Road Navigation**|Dvij Kalaria et.al.|[2404.08855](http://arxiv.org/pdf/2404.08855.pdf)|null|
+|**2024-04-12**|**WROOM: An Autonomous Driving Approach for Off-Road Navigation**|Dvij Kalaria et.al.|[2404.08855](http://arxiv.org/pdf/2404.08855.pdf)|**[link](https://github.com/dvij542/offtersim)**|
 |**2024-04-12**|**FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments**|Hexiang Wei et.al.|[2404.08563](http://arxiv.org/pdf/2404.08563.pdf)|null|
 |**2024-04-12**|**Maturity of Vehicle Digital Twins: From Monitoring to Enabling Autonomous Driving**|Robert Klar et.al.|[2404.08438](http://arxiv.org/pdf/2404.08438.pdf)|null|
 |**2024-04-12**|**Transfer Learning Study of Motion Transformer-based Trajectory Predictions**|Lars Ullrich et.al.|[2404.08271](http://arxiv.org/pdf/2404.08271.pdf)|null|
 |**2024-04-12**|**MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance**|Yuqun Wu et.al.|[2404.08252](http://arxiv.org/pdf/2404.08252.pdf)|null|
 |**2024-04-11**|**Real-Time Detection and Analysis of Vehicles and Pedestrians using Deep Learning**|Md Nahid Sadik et.al.|[2404.08081](http://arxiv.org/pdf/2404.08081.pdf)|null|
 |**2024-04-11**|**VeTraSS: Vehicle Trajectory Similarity Search Through Graph Modeling and Representation Learning**|Ming Cheng et.al.|[2404.08021](http://arxiv.org/pdf/2404.08021.pdf)|null|
-|**2024-04-09**|**GRANP: A Graph Recurrent Attentive Neural Process Model for Vehicle Trajectory Prediction**|Yuhao Luo et.al.|[2404.08004](http://arxiv.org/pdf/2404.08004.pdf)|null|
+|**2024-04-09**|**GRANP: A Graph Recurrent Attentive Neural Process Model for Vehicle Trajectory Prediction**|Yuhao Luo et.al.|[2404.08004](http://arxiv.org/pdf/2404.08004.pdf)|**[link](https://github.com/joy-driven/granp)**|
 |**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993](http://arxiv.org/pdf/2404.07993.pdf)|null|
 |**2024-03-18**|**Reinforcement Learning with Generalizable Gaussian Splatting**|Jiaxu Wang et.al.|[2404.07950](http://arxiv.org/pdf/2404.07950.pdf)|null|
 |**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/pdf/2404.07933.pdf)|**[link](https://github.com/keonhee-han/KDBTS)**|
@@ -5978,7 +5978,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-02**|**OOSTraj: Out-of-Sight Trajectory Prediction With Vision-Positioning Denoising**|Haichao Zhang et.al.|[2404.02227](http://arxiv.org/pdf/2404.02227.pdf)|**[link](https://github.com/hai-chao-zhang/oostraj)**|
 |**2024-04-02**|**NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-Efficient Scene Representation**|Sicheng Li et.al.|[2404.02185](http://arxiv.org/pdf/2404.02185.pdf)|null|
 |**2024-04-01**|**Versatile Navigation under Partial Observability via Value-guided Diffusion Policy**|Gengyu Zhang et.al.|[2404.02176](http://arxiv.org/pdf/2404.02176.pdf)|null|
-|**2024-04-02**|**Alpha Invariance: On Inverse Scaling Between Distance and Volume Density in Neural Radiance Fields**|Joshua Ahn et.al.|[2404.02155](http://arxiv.org/pdf/2404.02155.pdf)|null|
+|**2024-04-17**|**Alpha Invariance: On Inverse Scaling Between Distance and Volume Density in Neural Radiance Fields**|Joshua Ahn et.al.|[2404.02155](http://arxiv.org/pdf/2404.02155.pdf)|null|
 |**2024-04-02**|**Risk-Aware Real-Time Task Allocation for Stochastic Multi-Agent Systems under STL Specifications**|Maico H. W. Engelaar et.al.|[2404.02111](http://arxiv.org/pdf/2404.02111.pdf)|null|
 |**2024-04-02**|**WcDT: World-centric Diffusion Transformer for Traffic Scene Generation**|Chen Yang et.al.|[2404.02082](http://arxiv.org/pdf/2404.02082.pdf)|**[link](https://github.com/yangchen1997/wcdt)**|
 |**2024-04-02**|**Heuristic Optimization of Amplifier Reconfiguration Process for Autonomous Driving Optical Networks**|Qizhi Qiu et.al.|[2404.01949](http://arxiv.org/pdf/2404.01949.pdf)|null|
@@ -6998,12 +6998,12 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-16**|**ControlMTR: Control-Guided Motion Transformer with Scene-Compliant Intention Points for Feasible Motion Prediction**|Jiawei Sun et.al.|[2404.10295](http://arxiv.org/pdf/2404.10295.pdf)|null|
 |**2024-04-16**|**PreGSU-A Generalized Traffic Scene Understanding Model for Autonomous Driving based on Pre-trained Graph Attention Network**|Yuning Wang et.al.|[2404.10263](http://arxiv.org/pdf/2404.10263.pdf)|null|
 |**2024-04-15**|**Characterization and Mitigation of Insufficiencies in Automated Driving Systems**|Yuting Fu et.al.|[2404.09557](http://arxiv.org/pdf/2404.09557.pdf)|null|
-|**2024-04-12**|**Inverse Kinematics for Neuro-Robotic Grasping with Humanoid Embodied Agents**|Jan-Gerrit Habekost et.al.|[2404.08825](http://arxiv.org/pdf/2404.08825.pdf)|null|
+|**2024-04-12**|**Inverse Kinematics for Neuro-Robotic Grasping with Humanoid Embodied Agents**|Jan-Gerrit Habekost et.al.|[2404.08825](http://arxiv.org/pdf/2404.08825.pdf)|**[link](https://github.com/jangerritha/CycleIK)**|
 |**2024-04-12**|**Non-impulsive Contact-Implicit Motion Planning for Morpho-functional Loco-manipulation**|Adarsh Salagame et.al.|[2404.08714](http://arxiv.org/pdf/2404.08714.pdf)|null|
 |**2024-04-12**|**Safe Start Regions for Medical Steerable Needle Automation**|Janine Hoelscher et.al.|[2404.08558](http://arxiv.org/pdf/2404.08558.pdf)|null|
 |**2024-04-12**|**Let It Flow: Simultaneous Optimization of 3D Flow and Object Clustering**|Patrik Vacek et.al.|[2404.08363](http://arxiv.org/pdf/2404.08363.pdf)|null|
 |**2024-04-12**|**Transfer Learning Study of Motion Transformer-based Trajectory Predictions**|Lars Ullrich et.al.|[2404.08271](http://arxiv.org/pdf/2404.08271.pdf)|null|
-|**2024-04-09**|**GRANP: A Graph Recurrent Attentive Neural Process Model for Vehicle Trajectory Prediction**|Yuhao Luo et.al.|[2404.08004](http://arxiv.org/pdf/2404.08004.pdf)|null|
+|**2024-04-09**|**GRANP: A Graph Recurrent Attentive Neural Process Model for Vehicle Trajectory Prediction**|Yuhao Luo et.al.|[2404.08004](http://arxiv.org/pdf/2404.08004.pdf)|**[link](https://github.com/joy-driven/granp)**|
 |**2024-04-15**|**A Novel Optimization-Based Collision Avoidance For Autonomous On-Orbit Assembly**|Siavash Tavana et.al.|[2404.07916](http://arxiv.org/pdf/2404.07916.pdf)|null|
 |**2024-04-11**|**Q-ITAGS: Quality-Optimized Spatio-Temporal Heterogeneous Task Allocation with a Time Budget**|Glen Neville et.al.|[2404.07902](http://arxiv.org/pdf/2404.07902.pdf)|**[link](https://github.com/gt-star-lab/q-itags)**|
 |**2024-04-11**|**Estimating Visibility from Alternate Perspectives for Motion Planning with Occlusions**|Barry Gilhuly et.al.|[2404.07781](http://arxiv.org/pdf/2404.07781.pdf)|**[link](https://github.com/idlebear/apcm)**|
@@ -7279,7 +7279,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-12-31**|**Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion**|Wei-Jer Chang et.al.|[2401.00391](http://arxiv.org/pdf/2401.00391.pdf)|null|
 |**2023-12-29**|**Unified Task and Motion Planning using Object-centric Abstractions of Motion Constraints**|Alejandro Agostini et.al.|[2312.17605](http://arxiv.org/pdf/2312.17605.pdf)|null|
 |**2023-12-28**|**InsActor: Instruction-driven Physics-based Characters**|Jiawei Ren et.al.|[2312.17135](http://arxiv.org/pdf/2312.17135.pdf)|null|
-|**2023-12-26**|**Social-Transmotion: Promptable Human Trajectory Prediction**|Saeed Saadatnejad et.al.|[2312.16168](http://arxiv.org/pdf/2312.16168.pdf)|**[link](https://github.com/vita-epfl/social-transmotion)**|
+|**2024-04-16**|**Social-Transmotion: Promptable Human Trajectory Prediction**|Saeed Saadatnejad et.al.|[2312.16168](http://arxiv.org/pdf/2312.16168.pdf)|**[link](https://github.com/vita-epfl/social-transmotion)**|
 |**2023-12-26**|**Improving Transferability for Cross-domain Trajectory Prediction via Neural Stochastic Differential Equation**|Daehee Park et.al.|[2312.15906](http://arxiv.org/pdf/2312.15906.pdf)|**[link](https://github.com/daeheepark/TrajSDE)**|
 |**2023-12-26**|**Attention-aware Social Graph Transformer Networks for Stochastic Trajectory Prediction**|Yao Liu et.al.|[2312.15881](http://arxiv.org/pdf/2312.15881.pdf)|null|
 |**2023-12-22**|**Traffic Reconstruction and Analysis of Natural Driving Behaviors at Unsignalized Intersections**|Supriya Sarker et.al.|[2312.14561](http://arxiv.org/pdf/2312.14561.pdf)|null|
