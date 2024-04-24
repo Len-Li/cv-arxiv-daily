@@ -1,4 +1,4 @@
-Updated on 2024.04.23
+Updated on 2024.04.24
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -48,7 +48,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-21**|**Mapping Phonon Polaritons with Visible Light**|Kiernan E. Arledge et.al.|[2404.13759](http://arxiv.org/pdf/2404.13759.pdf)|null|
 |**2024-04-21**|**Empirical stability criteria for 3D hierarchical triple systems I: Circumbinary planets**|Nikolaos Georgakarakos et.al.|[2404.13746](http://arxiv.org/pdf/2404.13746.pdf)|null|
 |**2024-04-21**|**ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**|Zichen Tang et.al.|[2404.13711](http://arxiv.org/pdf/2404.13711.pdf)|**[link](https://github.com/silence-tang/artnerf)**|
-|**2024-04-21**|**Clio: Real-time Task-Driven Open-Set 3D Scene Graphs**|Dominic Maggio et.al.|[2404.13696](http://arxiv.org/pdf/2404.13696.pdf)|null|
+|**2024-04-23**|**Clio: Real-time Task-Driven Open-Set 3D Scene Graphs**|Dominic Maggio et.al.|[2404.13696](http://arxiv.org/pdf/2404.13696.pdf)|null|
 |**2024-04-21**|**A Complete System for Automated 3D Semantic-Geometric Mapping of Corrosion in Industrial Environments**|Rui Pimentel de Figueiredo et.al.|[2404.13691](http://arxiv.org/pdf/2404.13691.pdf)|null|
 |**2024-04-21**|**GScream: Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal**|Yuxin Wang et.al.|[2404.13679](http://arxiv.org/pdf/2404.13679.pdf)|null|
 |**2024-04-21**|**MLP: Motion Label Prior for Temporal Sentence Localization in Untrimmed 3D Human Motions**|Sheng Yan et.al.|[2404.13657](http://arxiv.org/pdf/2404.13657.pdf)|**[link](https://github.com/eanson023/mlp)**|
@@ -106,7 +106,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-18**|**Partial-to-Partial Shape Matching with Geometric Consistency**|Viktoria Ehm et.al.|[2404.12209](http://arxiv.org/pdf/2404.12209.pdf)|null|
 |**2024-04-18**|**Vortex motion in reconfigurable three-dimensional superconducting nanoarchitectures**|Elina Zhakina et.al.|[2404.12151](http://arxiv.org/pdf/2404.12151.pdf)|null|
 |**2024-04-17**|**Mushroom Segmentation and 3D Pose Estimation from Point Clouds using Fully Convolutional Geometric Features and Implicit Pose Encoding**|George Retsinas et.al.|[2404.12144](http://arxiv.org/pdf/2404.12144.pdf)|**[link](https://github.com/georgeretsi/mushroom-pose)**|
-|**2024-04-18**|**MolCRAFT: Structure-Based Drug Design in Continuous Parameter Space**|Yanru Qu et.al.|[2404.12141](http://arxiv.org/pdf/2404.12141.pdf)|**[link](https://github.com/algomole/molcraft)**|
+|**2024-04-23**|**MolCRAFT: Structure-Based Drug Design in Continuous Parameter Space**|Yanru Qu et.al.|[2404.12141](http://arxiv.org/pdf/2404.12141.pdf)|**[link](https://github.com/algomole/molcraft)**|
 |**2024-04-18**|**Omniview-Tuning: Boosting Viewpoint Invariance of Vision-Language Pre-training Models**|Shouwei Ruan et.al.|[2404.12139](http://arxiv.org/pdf/2404.12139.pdf)|null|
 |**2024-04-18**|**Developing Application Profiles for Enhancing Data and Workflows in Cultural Heritage Digitisation Processes**|Sebastian Barzaghi et.al.|[2404.12069](http://arxiv.org/pdf/2404.12069.pdf)|null|
 |**2024-04-18**|**PureForest: A Large-scale Aerial Lidar and Aerial Imagery Dataset for Tree Species Classification in Monospecific Forests**|Charles Gaydon et.al.|[2404.12064](http://arxiv.org/pdf/2404.12064.pdf)|null|
@@ -129,7 +129,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-17**|**Unifying Scene Representation and Hand-Eye Calibration with 3D Foundation Models**|Weiming Zhi et.al.|[2404.11683](http://arxiv.org/pdf/2404.11683.pdf)|null|
 |**2024-04-19**|**Factorized Motion Fields for Fast Sparse Input Dynamic View Synthesis**|Nagabhushan Somraj et.al.|[2404.11669](http://arxiv.org/pdf/2404.11669.pdf)|null|
 |**2024-04-17**|**InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior**|Zhiheng Liu et.al.|[2404.11613](http://arxiv.org/pdf/2404.11613.pdf)|null|
-|**2024-04-17**|**IntrinsicAnything: Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination**|Xi Chen et.al.|[2404.11593](http://arxiv.org/pdf/2404.11593.pdf)|null|
+|**2024-04-22**|**IntrinsicAnything: Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination**|Xi Chen et.al.|[2404.11593](http://arxiv.org/pdf/2404.11593.pdf)|null|
 |**2024-04-17**|**A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion**|Feng Yu et.al.|[2404.11590](http://arxiv.org/pdf/2404.11590.pdf)|null|
 |**2024-04-17**|**Matern Correlation: A Panoramic Primer**|Xiaoqing Chen et.al.|[2404.11427](http://arxiv.org/pdf/2404.11427.pdf)|null|
 |**2024-04-17**|**Multi-layer continuous carbon fiber pattern optimization and a spline based path planning interpretation**|Fabian Wein et.al.|[2404.11404](http://arxiv.org/pdf/2404.11404.pdf)|null|
@@ -294,7 +294,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-11**|**OpenTrench3D: A Photogrammetric 3D Point Cloud Dataset for Semantic Segmentation of Underground Utilities**|Lasse H. Hansen et.al.|[2404.07711](http://arxiv.org/pdf/2404.07711.pdf)|**[link](https://github.com/simonbuusjensen/opentrench3d)**|
 |**2024-04-11**|**Run-time Monitoring of 3D Object Detection in Automated Driving Systems Using Early Layer Neural Activation Patterns**|Hakan Yekta Yatbaz et.al.|[2404.07685](http://arxiv.org/pdf/2404.07685.pdf)|null|
 |**2024-04-11**|**Shape Completion in the Dark: Completing Vertebrae Morphology from 3D Ultrasound**|Miruna-Alexandra Gafencu et.al.|[2404.07668](http://arxiv.org/pdf/2404.07668.pdf)|**[link](https://github.com/miruna20/shape-completion-in-the-dark)**|
-|**2024-04-16**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644](http://arxiv.org/pdf/2404.07644.pdf)|**[link](https://github.com/littledang/2dliw-slam)**|
+|**2024-04-23**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644](http://arxiv.org/pdf/2404.07644.pdf)|**[link](https://github.com/littledang/2dliw-slam)**|
 |**2024-04-11**|**The morphology of cell spheroids in simple shear flow**|Rosalia Ferraro et.al.|[2404.07528](http://arxiv.org/pdf/2404.07528.pdf)|null|
 |**2024-04-11**|**PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds**|Weisheng Xu et.al.|[2404.07495](http://arxiv.org/pdf/2404.07495.pdf)|**[link](https://github.com/stiphyjay/pillartrack)**|
 |**2024-04-11**|**G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images**|Zixiong Huang et.al.|[2404.07474](http://arxiv.org/pdf/2404.07474.pdf)|**[link](https://github.com/llrtt/G-NeRF)**|
@@ -4433,7 +4433,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## NeRF
 
@@ -4922,7 +4922,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## Industry
 
@@ -5214,7 +5214,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2012-04-06**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-09**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -5280,7 +5280,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-09**|**GRANP: A Graph Recurrent Attentive Neural Process Model for Vehicle Trajectory Prediction**|Yuhao Luo et.al.|[2404.08004](http://arxiv.org/pdf/2404.08004.pdf)|**[link](https://github.com/joy-driven/granp)**|
 |**2024-04-11**|**GoMAvatar: Efficient Animatable Human Modeling from Monocular Video Using Gaussians-on-Mesh**|Jing Wen et.al.|[2404.07991](http://arxiv.org/pdf/2404.07991.pdf)|null|
 |**2024-04-11**|**Sparse Laneformer**|Ji Liu et.al.|[2404.07821](http://arxiv.org/pdf/2404.07821.pdf)|null|
-|**2024-04-22**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762](http://arxiv.org/pdf/2404.07762.pdf)|**[link](https://github.com/atonderski/neuro-ncap)**|
+|**2024-04-23**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762](http://arxiv.org/pdf/2404.07762.pdf)|**[link](https://github.com/atonderski/neuro-ncap)**|
 |**2024-04-11**|**Homography Guided Temporal Fusion for Road Line and Marking Segmentation**|Shan Wang et.al.|[2404.07626](http://arxiv.org/pdf/2404.07626.pdf)|**[link](https://github.com/shanwang-shan/homofusion)**|
 |**2024-04-11**|**Can Vehicle Motion Planning Generalize to Realistic Long-tail Scenarios?**|Marcel Hallgarten et.al.|[2404.07569](http://arxiv.org/pdf/2404.07569.pdf)|**[link](https://github.com/mh0797/interplan)**|
 |**2024-04-11**|**PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds**|Weisheng Xu et.al.|[2404.07495](http://arxiv.org/pdf/2404.07495.pdf)|**[link](https://github.com/stiphyjay/pillartrack)**|
@@ -6073,7 +6073,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -6158,7 +6158,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-18**|**Reinforcement Learning with Generalizable Gaussian Splatting**|Jiaxu Wang et.al.|[2404.07950](http://arxiv.org/pdf/2404.07950.pdf)|null|
 |**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/pdf/2404.07933.pdf)|**[link](https://github.com/keonhee-han/KDBTS)**|
 |**2024-04-11**|**Sparse Laneformer**|Ji Liu et.al.|[2404.07821](http://arxiv.org/pdf/2404.07821.pdf)|null|
-|**2024-04-22**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762](http://arxiv.org/pdf/2404.07762.pdf)|**[link](https://github.com/atonderski/neuro-ncap)**|
+|**2024-04-23**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762](http://arxiv.org/pdf/2404.07762.pdf)|**[link](https://github.com/atonderski/neuro-ncap)**|
 |**2024-04-11**|**Homography Guided Temporal Fusion for Road Line and Marking Segmentation**|Shan Wang et.al.|[2404.07626](http://arxiv.org/pdf/2404.07626.pdf)|**[link](https://github.com/shanwang-shan/homofusion)**|
 |**2024-04-11**|**Can Vehicle Motion Planning Generalize to Realistic Long-tail Scenarios?**|Marcel Hallgarten et.al.|[2404.07569](http://arxiv.org/pdf/2404.07569.pdf)|**[link](https://github.com/mh0797/interplan)**|
 |**2024-04-11**|**PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds**|Weisheng Xu et.al.|[2404.07495](http://arxiv.org/pdf/2404.07495.pdf)|**[link](https://github.com/stiphyjay/pillartrack)**|
@@ -7232,7 +7232,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -7458,7 +7458,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-02-12**|**Interaction-Based Driving Scenario Classification and Labeling**|Cheng Chang et.al.|[2402.07720](http://arxiv.org/pdf/2402.07720.pdf)|null|
 |**2024-02-12**|**DART: A Compact Platform For Autonomous Driving Research**|Lorenzo Lyons et.al.|[2402.07602](http://arxiv.org/pdf/2402.07602.pdf)|null|
 |**2024-02-11**|**Geometric and topological properties of manifolds in robot motion planning**|Stephan Mescher et.al.|[2402.07265](http://arxiv.org/pdf/2402.07265.pdf)|null|
-|**2024-03-05**|**GTM: General Trajectory Modeling with Auto-regressive Generation of Feature Domains**|Yan Lin et.al.|[2402.07232](http://arxiv.org/pdf/2402.07232.pdf)|null|
+|**2024-04-23**|**UVTM: Universal Vehicle Trajectory Modeling with ST Feature Domain Generation**|Yan Lin et.al.|[2402.07232](http://arxiv.org/pdf/2402.07232.pdf)|null|
 |**2024-03-13**|**ASAP-MPC: An Asynchronous Update Scheme for Online Motion Planning with Nonlinear Model Predictive Control**|Dries Dirckx et.al.|[2402.06263](http://arxiv.org/pdf/2402.06263.pdf)|null|
 |**2024-02-09**|**CityFlowER: An Efficient and Realistic Traffic Simulator with Embedded Machine Learning Models**|Longchao Da et.al.|[2402.06127](http://arxiv.org/pdf/2402.06127.pdf)|null|
 |**2024-02-08**|**A versatile robotic hand with 3D perception, force sensing for autonomous manipulation**|Nikolaus Correll et.al.|[2402.06018](http://arxiv.org/pdf/2402.06018.pdf)|null|
@@ -7810,7 +7810,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## Diffusion
 
@@ -7927,5 +7927,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-06-22**|**Video Diffusion Models**|Jonathan Ho et.al.|[2204.03458](http://arxiv.org/pdf/2204.03458.pdf)|null|
 |**2022-12-08**|**Diffusion Probabilistic Modeling for Video Generation**|Ruihan Yang et.al.|[2203.09481](http://arxiv.org/pdf/2203.09481.pdf)|**[link](https://github.com/buggyyang/rvd)**|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
