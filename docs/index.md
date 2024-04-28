@@ -97,9 +97,9 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-23**|**LaneCorrect: Self-supervised Lane Detection**|Ming Nie et.al.|[2404.14671](http://arxiv.org/pdf/2404.14671.pdf)|null|
 |**2024-04-23**|**3DFlowRenderer: One-shot Face Re-enactment via Dense 3D Facial Flow Estimation**|Siddharth Nijhawan et.al.|[2404.14667](http://arxiv.org/pdf/2404.14667.pdf)|null|
 |**2024-04-23**|**UPose3D: Uncertainty-Aware 3D Human Pose Estimation with Cross-View and Temporal Cues**|Vandad Davoodnia et.al.|[2404.14634](http://arxiv.org/pdf/2404.14634.pdf)|null|
-|**2024-04-22**|**A Blueprint for the Milky Way's Stellar Populations. V. 3D Local Dust Extinction**|Deokkeun An et.al.|[2404.14626](http://arxiv.org/pdf/2404.14626.pdf)|null|
+|**2024-04-22**|**A Blueprint for the Milky Way's Stellar Populations. V. 3D Local Dust Extinction**|Deokkeun An et.al.|[2404.14626](http://arxiv.org/pdf/2404.14626.pdf)|**[link](https://github.com/deokkeunan/galactic-extinction-map)**|
 |**2024-04-22**|**Lifetime-Limited Linewidth Measurements of the 3C and 3D Soft X-ray Transitions in Ni XIX**|Chintan Shah et.al.|[2404.14589](http://arxiv.org/pdf/2404.14589.pdf)|null|
-|**2024-04-22**|**UVMap-ID: A Controllable and Personalized UV Map Generative Model**|Weijie Wang et.al.|[2404.14568](http://arxiv.org/pdf/2404.14568.pdf)|null|
+|**2024-04-22**|**UVMap-ID: A Controllable and Personalized UV Map Generative Model**|Weijie Wang et.al.|[2404.14568](http://arxiv.org/pdf/2404.14568.pdf)|**[link](https://github.com/twowwj/uvmap-id)**|
 |**2024-04-22**|**"Where am I?" Scene Retrieval with Language**|Jiaqi Chen et.al.|[2404.14565](http://arxiv.org/pdf/2404.14565.pdf)|null|
 |**2024-04-22**|**Exploring the Potential of Data-Driven Spatial Audio Enhancement Using a Single-Channel Model**|Arthur N. dos Santos et.al.|[2404.14564](http://arxiv.org/pdf/2404.14564.pdf)|null|
 |**2024-04-22**|**Effect of biquadratic magnetic exchange interaction in the 2D antiferromagnets MPS_3 (M = Mn, Fe, Co, Ni)**|Mohammad Amirabbasi et.al.|[2404.14553](http://arxiv.org/pdf/2404.14553.pdf)|null|
@@ -4812,7 +4812,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-12-08**|**TriHuman : A Real-time and Controllable Tri-plane Representation for Detailed Human Geometry and Appearance Synthesis**|Heming Zhu et.al.|[2312.05161](http://arxiv.org/pdf/2312.05161.pdf)|null|
 |**2023-12-07**|**NeuSD: Surface Completion with Multi-View Text-to-Image Diffusion**|Savva Ignatyev et.al.|[2312.04654](http://arxiv.org/pdf/2312.04654.pdf)|null|
 |**2023-12-07**|**VOODOO 3D: Volumetric Portrait Disentanglement for One-Shot 3D Head Reenactment**|Phong Tran et.al.|[2312.04651](http://arxiv.org/pdf/2312.04651.pdf)|null|
-|**2024-04-24**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564](http://arxiv.org/pdf/2312.04564.pdf)|null|
+|**2024-04-24**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564](http://arxiv.org/pdf/2312.04564.pdf)|**[link](https://github.com/sharath-girish/efficientgaussian)**|
 |**2023-12-07**|**Multi-View Unsupervised Image Generation with Cross Attention Guidance**|Llukman Cerkezi et.al.|[2312.04337](http://arxiv.org/pdf/2312.04337.pdf)|null|
 |**2023-12-07**|**Towards 4D Human Video Stylization**|Tiantian Wang et.al.|[2312.04143](http://arxiv.org/pdf/2312.04143.pdf)|**[link](https://github.com/tiantianwang/4d_video_stylization)**|
 |**2023-12-07**|**Identity-Obscured Neural Radiance Fields: Privacy-Preserving 3D Facial Reconstruction**|Jiayi Kong et.al.|[2312.04106](http://arxiv.org/pdf/2312.04106.pdf)|null|
