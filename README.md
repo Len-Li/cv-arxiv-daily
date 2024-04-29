@@ -15,6 +15,32 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**MaPa: Text-driven Photorealistic Material Painting for 3D Shapes**|Shangzhan Zhang et.al.|[2404.17569](http://arxiv.org/pdf/2404.17569.pdf)|null|
+|**2024-04-26**|**Integrating UAV-Enabled Base Stations in 3D Networks: QoS-Aware Joint Fronthaul and Backhaul Design**|Salim Janji et.al.|[2404.17547](http://arxiv.org/pdf/2404.17547.pdf)|null|
+|**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528](http://arxiv.org/pdf/2404.17528.pdf)|null|
+|**2024-04-26**|**TextGaze: Gaze-Controllable Face Generation with Natural Language**|Hengfei Wang et.al.|[2404.17486](http://arxiv.org/pdf/2404.17486.pdf)|null|
+|**2024-04-26**|**Holographic $\frac{1}{2}$ -BPS surface defects in ABJM**|Yolanda Lozano et.al.|[2404.17469](http://arxiv.org/pdf/2404.17469.pdf)|null|
+|**2024-04-26**|**Multi-view Image Prompted Multi-view Diffusion for Improved 3D Generation**|Seungwook Kim et.al.|[2404.17419](http://arxiv.org/pdf/2404.17419.pdf)|null|
+|**2024-04-26**|**Part-Guided 3D RL for Sim2Real Articulated Object Manipulation**|Pengwei Xie et.al.|[2404.17302](http://arxiv.org/pdf/2404.17302.pdf)|**[link](https://github.com/thu-vclab/part-guided-3d-rl-for-sim2real-articulated-object-manipulation)**|
+|**2024-04-26**|**Automatic Target-Less Camera-LiDAR Calibration From Motion and Deep Point Correspondences**|Kürsat Petek et.al.|[2404.17298](http://arxiv.org/pdf/2404.17298.pdf)|**[link](https://github.com/robot-learning-freiburg/MDPCalib)**|
+|**2024-04-26**|**Camera Motion Estimation from RGB-D-Inertial Scene Flow**|Samuel Cerezo et.al.|[2404.17251](http://arxiv.org/pdf/2404.17251.pdf)|null|
+|**2024-04-26**|**Broken time reversal symmetry vestigial state for a two-component superconductor in two spatial dimensions**|P. T. How et.al.|[2404.17239](http://arxiv.org/pdf/2404.17239.pdf)|null|
+|**2024-04-26**|**Enhancing mmWave Radar Point Cloud via Visual-inertial Supervision**|Cong Fan et.al.|[2404.17229](http://arxiv.org/pdf/2404.17229.pdf)|null|
+|**2024-04-26**|**Finite-time blowup for Keller-Segel-Navier-Stokes system in three dimensions**|Zexing Li et.al.|[2404.17228](http://arxiv.org/pdf/2404.17228.pdf)|null|
+|**2024-04-26**|**SLAM for Indoor Mapping of Wide Area Construction Environments**|Vincent Ress et.al.|[2404.17215](http://arxiv.org/pdf/2404.17215.pdf)|null|
+|**2024-04-26**|**Rytov Approximation of Vectorial Waves by Modifying Scattering Matrixes: Precise Reconstruction of Dielectric Tensor Tomography**|ChulMin Oh et.al.|[2404.17206](http://arxiv.org/pdf/2404.17206.pdf)|null|
+|**2024-04-26**|**Construction of a new (3 + 1)-dimensional KdV equation and its closed-form solutions with solitary wave behaviour and conserved vectors**|Nardjess Benoudina et.al.|[2404.17156](http://arxiv.org/pdf/2404.17156.pdf)|null|
+|**2024-04-26**|**Pose-Specific 3D Fingerprint Unfolding**|Xiongjun Guan et.al.|[2404.17149](http://arxiv.org/pdf/2404.17149.pdf)|null|
+|**2024-04-26**|**Finite volume simulation of a semi-linear Neumann problem (Keller-Segel model) on rectangular domains**|Nardjess Benoudina et.al.|[2404.17145](http://arxiv.org/pdf/2404.17145.pdf)|null|
+|**2024-04-26**|**Simple Network Mechanism Leads to Quasi-Real Brain Activation Patterns with Drosophila Connectome**|Xiaoyu Zhang et.al.|[2404.17128](http://arxiv.org/pdf/2404.17128.pdf)|null|
+|**2024-04-26**|**Localization of Pallets on Shelves Using Horizontal Plane Projection of a 360-degree Image**|Yasuyo Kita et.al.|[2404.17118](http://arxiv.org/pdf/2404.17118.pdf)|null|
+|**2024-04-25**|**Towards edge engineering of two-dimensional layered transition-metal dichalcogenides by chemical vapor deposition**|Wei Fu et.al.|[2404.17074](http://arxiv.org/pdf/2404.17074.pdf)|null|
+|**2024-04-25**|**Bootstrapping the Abelian Lattice Gauge Theories**|Zhijin Li et.al.|[2404.17071](http://arxiv.org/pdf/2404.17071.pdf)|null|
+|**2024-04-25**|**Frozen-field Modeling of Coronal Condensations with MPI-AMRVAC I: Demonstration in two-dimensional models**|Yuhao Zhou et.al.|[2404.17056](http://arxiv.org/pdf/2404.17056.pdf)|null|
+|**2024-04-25**|**Generative AI in Color-Changing Systems: Re-Programmable 3D Object Textures with Material and Design Constraints**|Yunyi Zhu et.al.|[2404.17028](http://arxiv.org/pdf/2404.17028.pdf)|null|
+|**2024-04-25**|**Defect Localization Using Region of Interest and Histogram-Based Enhancement Approaches in 3D-Printing**|Md Manjurul Ahsan et.al.|[2404.17015](http://arxiv.org/pdf/2404.17015.pdf)|null|
+|**2024-04-25**|**Higgs Phases and Boundary Criticality**|Kristian Tyn Kai Chung et.al.|[2404.17001](http://arxiv.org/pdf/2404.17001.pdf)|null|
+|**2024-04-25**|**Partial absence of cosine problem in 3d Lorentzian spin foams**|Alexander F. Jercher et.al.|[2404.16943](http://arxiv.org/pdf/2404.16943.pdf)|null|
 |**2024-04-25**|**The Third Monocular Depth Estimation Challenge**|Jaime Spencer et.al.|[2404.16831](http://arxiv.org/pdf/2404.16831.pdf)|null|
 |**2024-04-25**|**Double Copy of 3D Chern-Simons Theory and 6D Kodaira-Spencer Gravity**|Roberto Bonezzi et.al.|[2404.16830](http://arxiv.org/pdf/2404.16830.pdf)|null|
 |**2024-04-25**|**Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials**|Ye Fang et.al.|[2404.16829](http://arxiv.org/pdf/2404.16829.pdf)|null|
@@ -70,7 +96,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-23**|**Hierarchical Hybrid Sliced Wasserstein: A Scalable Metric for Heterogeneous Joint Distributions**|Khai Nguyen et.al.|[2404.15378](http://arxiv.org/pdf/2404.15378.pdf)|null|
 |**2024-04-18**|**High-accurate and efficient numerical algorithms for the self-consistent field theory of liquid-crystalline polymers**|Liwei Tan et.al.|[2404.15363](http://arxiv.org/pdf/2404.15363.pdf)|null|
 |**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276](http://arxiv.org/pdf/2404.15276.pdf)|**[link](https://github.com/xuxy09/smpler)**|
-|**2024-04-23**|**CT-GLIP: 3D Grounded Language-Image Pretraining with CT Scans and Radiology Reports for Full-Body Scenarios**|Jingyang Lin et.al.|[2404.15272](http://arxiv.org/pdf/2404.15272.pdf)|null|
+|**2024-04-26**|**CT-GLIP: 3D Grounded Language-Image Pretraining with CT Scans and Radiology Reports for Full-Body Scenarios**|Jingyang Lin et.al.|[2404.15272](http://arxiv.org/pdf/2404.15272.pdf)|null|
 |**2024-04-23**|**TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting**|Jiahe Li et.al.|[2404.15264](http://arxiv.org/pdf/2404.15264.pdf)|null|
 |**2024-04-23**|**Towards field theory of multiple D0-branes. Hamiltonian mechanics and quantization of simplest 3D prototype of multiple D0-brane system**|Igor Bandos et.al.|[2404.15233](http://arxiv.org/pdf/2404.15233.pdf)|null|
 |**2024-04-23**|**Re-Thinking Inverse Graphics With Large Language Models**|Peter Kulits et.al.|[2404.15228](http://arxiv.org/pdf/2404.15228.pdf)|null|
@@ -4527,6 +4553,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528](http://arxiv.org/pdf/2404.17528.pdf)|null|
 |**2024-04-25**|**Depth Supervised Neural Surface Reconstruction from Airborne Imagery**|Vincent Hackstein et.al.|[2404.16429](http://arxiv.org/pdf/2404.16429.pdf)|null|
 |**2024-04-24**|**NeRF-XL: Scaling NeRFs with Multiple GPUs**|Ruilong Li et.al.|[2404.16221](http://arxiv.org/pdf/2404.16221.pdf)|null|
 |**2024-04-23**|**DreamCraft: Text-Guided Generation of Functional 3D Environments in Minecraft**|Sam Earle et.al.|[2404.15538](http://arxiv.org/pdf/2404.15538.pdf)|null|
@@ -5314,6 +5341,12 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**CoCar NextGen: a Multi-Purpose Platform for Connected Autonomous Driving Research**|Marc Heinrich et.al.|[2404.17550](http://arxiv.org/pdf/2404.17550.pdf)|null|
+|**2024-04-26**|**A Cognitive-Driven Trajectory Prediction Model for Autonomous Driving in Mixed Autonomy Environment**|Haicheng Liao et.al.|[2404.17520](http://arxiv.org/pdf/2404.17520.pdf)|null|
+|**2024-04-26**|**Cost-Sensitive Uncertainty-Based Failure Recognition for Object Detection**|Moussa Kassem Sbeyti et.al.|[2404.17427](http://arxiv.org/pdf/2404.17427.pdf)|null|
+|**2024-04-26**|**On the Road to Clarity: Exploring Explainable AI for World Models in a Driver Assistance System**|Mohamed Roshdi et.al.|[2404.17350](http://arxiv.org/pdf/2404.17350.pdf)|null|
+|**2024-04-26**|**Scene-Extrapolation: Generating Interactive Traffic Scenarios**|Maximilian Zipfl et.al.|[2404.17224](http://arxiv.org/pdf/2404.17224.pdf)|null|
+|**2024-04-26**|**Beyond Imitation: A Life-long Policy Learning Framework for Path Tracking Control of Autonomous Driving**|C. Gong et.al.|[2404.17198](http://arxiv.org/pdf/2404.17198.pdf)|null|
 |**2024-04-25**|**Integration of Mixture of Experts and Multimodal Generative AI in Internet of Vehicles: A Survey**|Minrui Xu et.al.|[2404.16356](http://arxiv.org/pdf/2404.16356.pdf)|null|
 |**2024-04-25**|**A Multi-objective Optimization Benchmark Test Suite for Real-time Semantic Segmentation**|Yifan Zhao et.al.|[2404.16266](http://arxiv.org/pdf/2404.16266.pdf)|**[link](https://github.com/emi-group/evoxbench)**|
 |**2024-04-24**|**A Survey on Intermediate Fusion Methods for Collaborative Perception Categorized by Real World Challenges**|Melih Yazgan et.al.|[2404.16139](http://arxiv.org/pdf/2404.16139.pdf)|null|
@@ -6181,6 +6214,13 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**CoCar NextGen: a Multi-Purpose Platform for Connected Autonomous Driving Research**|Marc Heinrich et.al.|[2404.17550](http://arxiv.org/pdf/2404.17550.pdf)|null|
+|**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528](http://arxiv.org/pdf/2404.17528.pdf)|null|
+|**2024-04-26**|**A Cognitive-Driven Trajectory Prediction Model for Autonomous Driving in Mixed Autonomy Environment**|Haicheng Liao et.al.|[2404.17520](http://arxiv.org/pdf/2404.17520.pdf)|null|
+|**2024-04-26**|**Cost-Sensitive Uncertainty-Based Failure Recognition for Object Detection**|Moussa Kassem Sbeyti et.al.|[2404.17427](http://arxiv.org/pdf/2404.17427.pdf)|null|
+|**2024-04-26**|**On the Road to Clarity: Exploring Explainable AI for World Models in a Driver Assistance System**|Mohamed Roshdi et.al.|[2404.17350](http://arxiv.org/pdf/2404.17350.pdf)|null|
+|**2024-04-26**|**Scene-Extrapolation: Generating Interactive Traffic Scenarios**|Maximilian Zipfl et.al.|[2404.17224](http://arxiv.org/pdf/2404.17224.pdf)|null|
+|**2024-04-26**|**Beyond Imitation: A Life-long Policy Learning Framework for Path Tracking Control of Autonomous Driving**|C. Gong et.al.|[2404.17198](http://arxiv.org/pdf/2404.17198.pdf)|null|
 |**2024-04-25**|**Depth Supervised Neural Surface Reconstruction from Airborne Imagery**|Vincent Hackstein et.al.|[2404.16429](http://arxiv.org/pdf/2404.16429.pdf)|null|
 |**2024-04-25**|**Integration of Mixture of Experts and Multimodal Generative AI in Internet of Vehicles: A Survey**|Minrui Xu et.al.|[2404.16356](http://arxiv.org/pdf/2404.16356.pdf)|null|
 |**2024-04-25**|**A Multi-objective Optimization Benchmark Test Suite for Real-time Semantic Segmentation**|Yifan Zhao et.al.|[2404.16266](http://arxiv.org/pdf/2404.16266.pdf)|**[link](https://github.com/emi-group/evoxbench)**|
@@ -7351,6 +7391,9 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**A Cognitive-Driven Trajectory Prediction Model for Autonomous Driving in Mixed Autonomy Environment**|Haicheng Liao et.al.|[2404.17520](http://arxiv.org/pdf/2404.17520.pdf)|null|
+|**2024-04-26**|**Clustering of Motion Trajectories by a Distance Measure Based on Semantic Features**|Christoph Zelch et.al.|[2404.17269](http://arxiv.org/pdf/2404.17269.pdf)|null|
+|**2024-04-25**|**Motor Focus: Ego-Motion Prediction with All-Pixel Matching**|Hao Wang et.al.|[2404.17031](http://arxiv.org/pdf/2404.17031.pdf)|null|
 |**2024-04-25**|**Neural Interaction Energy for Multi-Agent Trajectory Prediction**|Kaixin Shen et.al.|[2404.16579](http://arxiv.org/pdf/2404.16579.pdf)|null|
 |**2024-04-24**|**Logic Dynamic Movement Primitives for Long-horizon Manipulation Tasks in Dynamic Environments**|Yan Zhang et.al.|[2404.16138](http://arxiv.org/pdf/2404.16138.pdf)|null|
 |**2024-04-24**|**Learning Car-Following Behaviors Using Bayesian Matrix Normal Mixture Regression**|Chengyuan Zhang et.al.|[2404.16023](http://arxiv.org/pdf/2404.16023.pdf)|null|
