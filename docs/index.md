@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.04.30
+Updated on 2024.05.01
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -43,7 +43,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-28**|**Panoptic Segmentation and Labelling of Lumbar Spine Vertebrae using Modified Attention Unet**|Rikathi Pal et.al.|[2404.18291](http://arxiv.org/pdf/2404.18291.pdf)|null|
 |**2024-04-28**|**The Gravitational Lensing Imprints of DES Y3 Superstructures on the CMB: A Matched Filtering Approach**|Umut Demirbozan et.al.|[2404.18278](http://arxiv.org/pdf/2404.18278.pdf)|null|
 |**2024-04-28**|**LEGENT: Open Platform for Embodied Agents**|Zhili Cheng et.al.|[2404.18243](http://arxiv.org/pdf/2404.18243.pdf)|null|
-|**2024-04-28**|**Quadruped robot traversing 3D complex environments with limited perception**|Yi Cheng et.al.|[2404.18225](http://arxiv.org/pdf/2404.18225.pdf)|null|
+|**2024-04-30**|**Quadruped robot traversing 3D complex environments with limited perception**|Yi Cheng et.al.|[2404.18225](http://arxiv.org/pdf/2404.18225.pdf)|null|
 |**2024-04-28**|**Enhancing Action Recognition from Low-Quality Skeleton Data via Part-Level Knowledge Distillation**|Cuiwei Liu et.al.|[2404.18206](http://arxiv.org/pdf/2404.18206.pdf)|null|
 |**2024-04-28**|**LMM-PCQA: Assisting Point Cloud Quality Assessment with LMM**|Zicheng Zhang et.al.|[2404.18203](http://arxiv.org/pdf/2404.18203.pdf)|null|
 |**2024-04-28**|**Block-Map-Based Localization in Large-Scale Environment**|Yixiao Feng et.al.|[2404.18192](http://arxiv.org/pdf/2404.18192.pdf)|null|
@@ -65,7 +65,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-27**|**Instance-free Text to Point Cloud Localization with Relative Position Awareness**|Lichao Wang et.al.|[2404.17845](http://arxiv.org/pdf/2404.17845.pdf)|null|
 |**2024-04-27**|**Hybrid 3D Human Pose Estimation with Monocular Video and Sparse IMUs**|Yiming Bao et.al.|[2404.17837](http://arxiv.org/pdf/2404.17837.pdf)|null|
 |**2024-04-27**|**Efficient Bi-manipulation using RGBD Multi-model Fusion based on Attention Mechanism**|Jian Shen et.al.|[2404.17811](http://arxiv.org/pdf/2404.17811.pdf)|null|
-|**2024-04-27**|**High-quality Surface Reconstruction using Gaussian Surfels**|Pinxuan Dai et.al.|[2404.17774](http://arxiv.org/pdf/2404.17774.pdf)|null|
+|**2024-04-30**|**High-quality Surface Reconstruction using Gaussian Surfels**|Pinxuan Dai et.al.|[2404.17774](http://arxiv.org/pdf/2404.17774.pdf)|null|
 |**2024-04-27**|**Development of an Estimation Method for the Seismic Motion Reproducibility of a Three-dimensional Ground Structure Model by combining Surface-observed Seismic Motion and Three-dimensional Seismic Motion Analysis**|Tsuyoshi Ichimura et.al.|[2404.17754](http://arxiv.org/pdf/2404.17754.pdf)|null|
 |**2024-04-26**|**Learning Manipulation Tasks in Dynamic and Shared 3D Spaces**|Hariharan Arunachalam et.al.|[2404.17673](http://arxiv.org/pdf/2404.17673.pdf)|null|
 |**2024-04-26**|**BlenderAlchemy: Editing 3D Graphics with Vision-Language Models**|Ian Huang et.al.|[2404.17672](http://arxiv.org/pdf/2404.17672.pdf)|null|
@@ -5434,7 +5434,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-19**|**Camera Agnostic Two-Head Network for Ego-Lane Inference**|Chaehyeon Song et.al.|[2404.12770](http://arxiv.org/pdf/2404.12770.pdf)|null|
 |**2024-04-19**|**A Containerized Microservice Architecture for a ROS 2 Autonomous Driving Software: An End-to-End Latency Evaluation**|Tobias Betz et.al.|[2404.12683](http://arxiv.org/pdf/2404.12683.pdf)|null|
 |**2024-04-19**|**Dragtraffic: A Non-Expert Interactive and Point-Based Controllable Traffic Scene Generation Framework**|Sheng Wang et.al.|[2404.12624](http://arxiv.org/pdf/2404.12624.pdf)|null|
-|**2024-04-18**|**TrACT: A Training Dynamics Aware Contrastive Learning Framework for Long-tail Trajectory Prediction**|Junrui Zhang et.al.|[2404.12538](http://arxiv.org/pdf/2404.12538.pdf)|null|
+|**2024-04-30**|**TrACT: A Training Dynamics Aware Contrastive Learning Framework for Long-tail Trajectory Prediction**|Junrui Zhang et.al.|[2404.12538](http://arxiv.org/pdf/2404.12538.pdf)|null|
 |**2024-04-18**|**SPIdepth: Strengthened Pose Information for Self-supervised Monocular Depth Estimation**|Mykola Lavreniuk et.al.|[2404.12501](http://arxiv.org/pdf/2404.12501.pdf)|null|
 |**2024-04-18**|**Reducing Bias in Pre-trained Models by Tuning while Penalizing Change**|Niklas Penzel et.al.|[2404.12292](http://arxiv.org/pdf/2404.12292.pdf)|null|
 |**2024-04-18**|**An Online Spatial-Temporal Graph Trajectory Planner for Autonomous Vehicles**|Jilan Samiuddin et.al.|[2404.12256](http://arxiv.org/pdf/2404.12256.pdf)|null|
@@ -6330,7 +6330,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-19**|**A Containerized Microservice Architecture for a ROS 2 Autonomous Driving Software: An End-to-End Latency Evaluation**|Tobias Betz et.al.|[2404.12683](http://arxiv.org/pdf/2404.12683.pdf)|null|
 |**2024-04-19**|**Dragtraffic: A Non-Expert Interactive and Point-Based Controllable Traffic Scene Generation Framework**|Sheng Wang et.al.|[2404.12624](http://arxiv.org/pdf/2404.12624.pdf)|null|
 |**2024-04-22**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547](http://arxiv.org/pdf/2404.12547.pdf)|null|
-|**2024-04-18**|**TrACT: A Training Dynamics Aware Contrastive Learning Framework for Long-tail Trajectory Prediction**|Junrui Zhang et.al.|[2404.12538](http://arxiv.org/pdf/2404.12538.pdf)|null|
+|**2024-04-30**|**TrACT: A Training Dynamics Aware Contrastive Learning Framework for Long-tail Trajectory Prediction**|Junrui Zhang et.al.|[2404.12538](http://arxiv.org/pdf/2404.12538.pdf)|null|
 |**2024-04-18**|**SPIdepth: Strengthened Pose Information for Self-supervised Monocular Depth Estimation**|Mykola Lavreniuk et.al.|[2404.12501](http://arxiv.org/pdf/2404.12501.pdf)|null|
 |**2024-04-18**|**Reducing Bias in Pre-trained Models by Tuning while Penalizing Change**|Niklas Penzel et.al.|[2404.12292](http://arxiv.org/pdf/2404.12292.pdf)|null|
 |**2024-04-18**|**An Online Spatial-Temporal Graph Trajectory Planner for Autonomous Vehicles**|Jilan Samiuddin et.al.|[2404.12256](http://arxiv.org/pdf/2404.12256.pdf)|null|
@@ -7486,7 +7486,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-19**|**FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving**|Xingtai Gui et.al.|[2404.12867](http://arxiv.org/pdf/2404.12867.pdf)|null|
 |**2024-04-19**|**uTRAND: Unsupervised Anomaly Detection in Traffic Trajectories**|Giacomo D'Amicantonio et.al.|[2404.12712](http://arxiv.org/pdf/2404.12712.pdf)|null|
 |**2024-04-19**|**SA-Attack: Speed-adaptive stealthy adversarial attack on trajectory prediction**|Huilin Yin et.al.|[2404.12612](http://arxiv.org/pdf/2404.12612.pdf)|**[link](https://github.com/eclipse-bot/sa-attack)**|
-|**2024-04-18**|**TrACT: A Training Dynamics Aware Contrastive Learning Framework for Long-tail Trajectory Prediction**|Junrui Zhang et.al.|[2404.12538](http://arxiv.org/pdf/2404.12538.pdf)|null|
+|**2024-04-30**|**TrACT: A Training Dynamics Aware Contrastive Learning Framework for Long-tail Trajectory Prediction**|Junrui Zhang et.al.|[2404.12538](http://arxiv.org/pdf/2404.12538.pdf)|null|
 |**2024-04-18**|**Hybrid Dynamics Modeling and Trajectory Planning for a Cable-Trailer System with a Quadruped Robot**|Wentao Zhang et.al.|[2404.12220](http://arxiv.org/pdf/2404.12220.pdf)|null|
 |**2024-04-18**|**S4TP: Social-Suitable and Safety-Sensitive Trajectory Planning for Autonomous Vehicles**|Xiao Wang et.al.|[2404.11946](http://arxiv.org/pdf/2404.11946.pdf)|null|
 |**2024-04-17**|**State-space Decomposition Model for Video Prediction Considering Long-term Motion Trend**|Fei Cui et.al.|[2404.11576](http://arxiv.org/pdf/2404.11576.pdf)|null|
@@ -7717,7 +7717,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-02-06**|**Controllable Diverse Sampling for Diffusion Based Motion Behavior Forecasting**|Yiming Xu et.al.|[2402.03981](http://arxiv.org/pdf/2402.03981.pdf)|null|
 |**2024-04-10**|**Prediction Horizon Requirements for Automated Driving: Optimizing Safety, Comfort, and Efficiency**|Manuel Muñoz Sánchez et.al.|[2402.03893](http://arxiv.org/pdf/2402.03893.pdf)|null|
 |**2024-02-05**|**Efficient and Interpretable Traffic Destination Prediction using Explainable Boosting Machines**|Yasin Yousif et.al.|[2402.03457](http://arxiv.org/pdf/2402.03457.pdf)|**[link](https://github.com/engyasin/GAM4Traffic)**|
-|**2024-04-05**|**Risk-Aware MPC for Stochastic Systems with Runtime Temporal Logics**|Maico H. W. Engelaar et.al.|[2402.03165](http://arxiv.org/pdf/2402.03165.pdf)|null|
+|**2024-04-30**|**Risk-Aware MPC for Stochastic Systems with Runtime Temporal Logics**|Maico H. W. Engelaar et.al.|[2402.03165](http://arxiv.org/pdf/2402.03165.pdf)|null|
 |**2024-02-04**|**SIMPL: A Simple and Efficient Multi-agent Motion Prediction Baseline for Autonomous Driving**|Lu Zhang et.al.|[2402.02519](http://arxiv.org/pdf/2402.02519.pdf)|**[link](https://github.com/hkust-aerial-robotics/simpl)**|
 |**2024-02-04**|**Robot Trajectron: Trajectory Prediction-based Shared Control for Robot Manipulation**|Pinhao Song et.al.|[2402.02499](http://arxiv.org/pdf/2402.02499.pdf)|**[link](https://github.com/mousecpn/robot-trajectron)**|
 |**2024-02-04**|**Hybrid-Prediction Integrated Planning for Autonomous Driving**|Haochen Liu et.al.|[2402.02426](http://arxiv.org/pdf/2402.02426.pdf)|null|
@@ -7729,7 +7729,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-20**|**A survey on robustness in trajectory prediction for autonomous vehicles**|Jeroen Hagenus et.al.|[2402.01397](http://arxiv.org/pdf/2402.01397.pdf)|null|
 |**2024-04-09**|**CC-VPSTO: Chance-Constrained Via-Point-based Stochastic Trajectory Optimisation for Safe and Efficient Online Robot Motion Planning**|Lara Brudermüller et.al.|[2402.01370](http://arxiv.org/pdf/2402.01370.pdf)|null|
 |**2024-02-11**|**Neural Trajectory Model: Implicit Neural Trajectory Representation for Trajectories Generation**|Zihan Yu et.al.|[2402.01254](http://arxiv.org/pdf/2402.01254.pdf)|**[link](https://github.com/laser2099/neural-trajectory-model)**|
-|**2024-04-19**|**Scalable Multi-modal Model Predictive Control via Duality-based Interaction Predictions**|Hansung Kim et.al.|[2402.01116](http://arxiv.org/pdf/2402.01116.pdf)|**[link](https://github.com/MPC-Berkeley/hmpc_raidnet)**|
+|**2024-04-29**|**Scalable Multi-modal Model Predictive Control via Duality-based Interaction Predictions**|Hansung Kim et.al.|[2402.01116](http://arxiv.org/pdf/2402.01116.pdf)|**[link](https://github.com/MPC-Berkeley/hmpc_raidnet)**|
 |**2024-04-17**|**Distance and Collision Probability Estimation from Gaussian Surface Models**|Kshitij Goel et.al.|[2402.00186](http://arxiv.org/pdf/2402.00186.pdf)|null|
 |**2024-01-25**|**Design and Implementation of Hardware Accelerators for Neural Processing Applications**|Shilpa Mayannavar et.al.|[2402.00051](http://arxiv.org/pdf/2402.00051.pdf)|null|
 |**2024-01-30**|**Multi-FLEX: An Automatic Task Sequence Execution Framework to Enable Reactive Motion Planning for Multi-Robot Applications**|Gaurav Misra et.al.|[2401.17214](http://arxiv.org/pdf/2401.17214.pdf)|null|
