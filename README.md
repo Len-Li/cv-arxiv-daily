@@ -1,4 +1,4 @@
-Updated on 2024.05.01
+Updated on 2024.05.02
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -31,7 +31,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-30**|**Ultra Inertial Poser: Scalable Motion Capture and Tracking from Sparse Inertial Sensors and Ultra-Wideband Ranging**|Rayan Armani et.al.|[2404.19541](http://arxiv.org/pdf/2404.19541.pdf)|null|
 |**2024-04-30**|**MicroDreamer: Zero-shot 3D Generation in $\sim$ 20 Seconds by Score-based Iterative Reconstruction**|Luxi Chen et.al.|[2404.19525](http://arxiv.org/pdf/2404.19525.pdf)|**[link](https://github.com/ml-gsai/microdreamer)**|
 |**2024-04-30**|**Sensorized Soft Skin for Dexterous Robotic Hands**|Jana Egli et.al.|[2404.19448](http://arxiv.org/pdf/2404.19448.pdf)|null|
-|**2024-04-30**|**Neuro-Vision to Language: Image Reconstruction and Interaction via Non-invasive Brain Recordings**|Guobin Shen et.al.|[2404.19438](http://arxiv.org/pdf/2404.19438.pdf)|null|
+|**2024-05-01**|**Neuro-Vision to Language: Image Reconstruction and Language enabled Interaction via Brain Recordings**|Guobin Shen et.al.|[2404.19438](http://arxiv.org/pdf/2404.19438.pdf)|null|
 |**2024-04-30**|**3D Gaussian Blendshapes for Head Avatar Animation**|Shengjie Ma et.al.|[2404.19398](http://arxiv.org/pdf/2404.19398.pdf)|null|
 |**2024-04-30**|**Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection**|Zhanwei Zhang et.al.|[2404.19384](http://arxiv.org/pdf/2404.19384.pdf)|null|
 |**2024-04-30**|**A coupled fluid-dynamics-heat transfer model for 3D simulations of the aqueous humor flow in the human eye**|Thomas Saigre et.al.|[2404.19353](http://arxiv.org/pdf/2404.19353.pdf)|null|
@@ -181,7 +181,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-23**|**Numerical study of transitions in lid-driven flows in semicircular cavities**|Tsorng-Whay Pan et.al.|[2404.15514](http://arxiv.org/pdf/2404.15514.pdf)|null|
 |**2024-04-23**|**OffRAMPS: An FPGA-based Intermediary for Analysis and Modification of Additive Manufacturing Control Systems**|Jason Blocklove et.al.|[2404.15446](http://arxiv.org/pdf/2404.15446.pdf)|null|
 |**2024-04-23**|**WANDR: Intention-guided Human Motion Generation**|Markos Diomataris et.al.|[2404.15383](http://arxiv.org/pdf/2404.15383.pdf)|null|
-|**2024-04-23**|**Hierarchical Hybrid Sliced Wasserstein: A Scalable Metric for Heterogeneous Joint Distributions**|Khai Nguyen et.al.|[2404.15378](http://arxiv.org/pdf/2404.15378.pdf)|null|
+|**2024-04-30**|**Hierarchical Hybrid Sliced Wasserstein: A Scalable Metric for Heterogeneous Joint Distributions**|Khai Nguyen et.al.|[2404.15378](http://arxiv.org/pdf/2404.15378.pdf)|null|
 |**2024-04-18**|**High-accurate and efficient numerical algorithms for the self-consistent field theory of liquid-crystalline polymers**|Liwei Tan et.al.|[2404.15363](http://arxiv.org/pdf/2404.15363.pdf)|null|
 |**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276](http://arxiv.org/pdf/2404.15276.pdf)|**[link](https://github.com/xuxy09/smpler)**|
 |**2024-04-29**|**CT-GLIP: 3D Grounded Language-Image Pretraining with CT Scans and Radiology Reports for Full-Body Scenarios**|Jingyang Lin et.al.|[2404.15272](http://arxiv.org/pdf/2404.15272.pdf)|null|
@@ -4635,7 +4635,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20240501>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
 
 ## NeRF
 
@@ -5134,7 +5134,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20240501>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
 
 ## Industry
 
@@ -5263,7 +5263,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2021-05-16**|**GeoSim: Realistic Video Simulation via Geometry-Aware Composition for Self-Driving**|Yun Chen et.al.|[2101.06543](http://arxiv.org/pdf/2101.06543.pdf)|null|
 |**2021-01-16**|**SceneGen: Learning to Generate Realistic Traffic Scenes**|Shuhan Tan et.al.|[2101.06541](http://arxiv.org/pdf/2101.06541.pdf)|null|
 |**2021-01-07**|**Safety-Oriented Pedestrian Motion and Scene Occupancy Forecasting**|Katie Luo et.al.|[2101.02385](http://arxiv.org/pdf/2101.02385.pdf)|null|
-|**2020-12-23**|**Pit30M: A Benchmark for Global Localization in the Age of Self-Driving Cars**|Julieta Martinez et.al.|[2012.12437](http://arxiv.org/pdf/2012.12437.pdf)|null|
+|**2024-05-01**|**Pit30M: A Benchmark for Global Localization in the Age of Self-Driving Cars**|Julieta Martinez et.al.|[2012.12437](http://arxiv.org/pdf/2012.12437.pdf)|null|
 |**2020-12-22**|**Learning Joint 2D-3D Representations for Depth Completion**|Yun Chen et.al.|[2012.12402](http://arxiv.org/pdf/2012.12402.pdf)|null|
 |**2020-12-22**|**Multi-Task Multi-Sensor Fusion for 3D Object Detection**|Ming Liang et.al.|[2012.12397](http://arxiv.org/pdf/2012.12397.pdf)|null|
 |**2020-12-22**|**Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net**|Wenjie Luo et.al.|[2012.12395](http://arxiv.org/pdf/2012.12395.pdf)|null|
@@ -5428,7 +5428,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2012-04-06**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-09**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20240501>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -5717,7 +5717,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-21**|**A General Calibrated Regret Metric for Detecting and Mitigating Human-Robot Interaction Failures**|Kensuke Nakamura et.al.|[2403.04745](http://arxiv.org/pdf/2403.04745.pdf)|null|
 |**2024-03-07**|**Embodied Understanding of Driving Scenarios**|Yunsong Zhou et.al.|[2403.04593](http://arxiv.org/pdf/2403.04593.pdf)|**[link](https://github.com/opendrivelab/elm)**|
 |**2024-03-07**|**FriendNet: Detection-Friendly Dehazing Network**|Yihua Fan et.al.|[2403.04443](http://arxiv.org/pdf/2403.04443.pdf)|**[link](https://github.com/fanyihua0309/friendnet)**|
-|**2024-03-07**|**LitSim: Conflict-aware Policy for Long-term Interactive Traffic Simulation**|Haojie Xin et.al.|[2403.04299](http://arxiv.org/pdf/2403.04299.pdf)|null|
+|**2024-05-01**|**LitSim: A Conflict-aware Policy for Long-term Interactive Traffic Simulation**|Haojie Xin et.al.|[2403.04299](http://arxiv.org/pdf/2403.04299.pdf)|null|
 |**2024-03-07**|**Generalizing Cooperative Eco-driving via Multi-residual Task Learning**|Vindula Jayawardana et.al.|[2403.04232](http://arxiv.org/pdf/2403.04232.pdf)|null|
 |**2024-03-07**|**Incremental Bayesian Learning for Fail-Operational Control in Autonomous Driving**|Lei Zheng et.al.|[2403.04143](http://arxiv.org/pdf/2403.04143.pdf)|null|
 |**2024-03-07**|**Towards learning-based planning:The nuPlan benchmark for real-world autonomous driving**|Napat Karnchanachari et.al.|[2403.04133](http://arxiv.org/pdf/2403.04133.pdf)|null|
@@ -6316,7 +6316,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20240501>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -7513,7 +7513,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20240501>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -7702,7 +7702,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-17**|**A Motion Planning Algorithm in a Figure Eight Track**|Cristian Jardon et.al.|[2403.05570](http://arxiv.org/pdf/2403.05570.pdf)|null|
 |**2024-03-08**|**JointMotion: Joint Self-supervision for Joint Motion Prediction**|Royden Wagner et.al.|[2403.05489](http://arxiv.org/pdf/2403.05489.pdf)|null|
 |**2024-03-11**|**Fooling Neural Networks for Motion Forecasting via Adversarial Attacks**|Edgar Medina et.al.|[2403.04954](http://arxiv.org/pdf/2403.04954.pdf)|null|
-|**2024-03-07**|**LitSim: Conflict-aware Policy for Long-term Interactive Traffic Simulation**|Haojie Xin et.al.|[2403.04299](http://arxiv.org/pdf/2403.04299.pdf)|null|
+|**2024-05-01**|**LitSim: A Conflict-aware Policy for Long-term Interactive Traffic Simulation**|Haojie Xin et.al.|[2403.04299](http://arxiv.org/pdf/2403.04299.pdf)|null|
 |**2024-03-06**|**Temporal Enhanced Floating Car Observers**|Jeremias Gerner et.al.|[2403.03825](http://arxiv.org/pdf/2403.03825.pdf)|null|
 |**2024-03-06**|**Time-optimal Point-to-point Motion Planning: A Two-stage Approach**|Shuhao Zhang et.al.|[2403.03573](http://arxiv.org/pdf/2403.03573.pdf)|null|
 |**2024-03-04**|**Approximation of the Koopman operator via Bernstein polynomials**|Rishikesh Yadav et.al.|[2403.02438](http://arxiv.org/pdf/2403.02438.pdf)|null|
@@ -8116,7 +8116,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20240501>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
 
 ## Diffusion
 
@@ -8234,5 +8234,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-06-22**|**Video Diffusion Models**|Jonathan Ho et.al.|[2204.03458](http://arxiv.org/pdf/2204.03458.pdf)|null|
 |**2022-12-08**|**Diffusion Probabilistic Modeling for Video Generation**|Ruihan Yang et.al.|[2203.09481](http://arxiv.org/pdf/2203.09481.pdf)|**[link](https://github.com/buggyyang/rvd)**|
 
-<p align=right>(<a href=#Updated-on-20240501>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
 
