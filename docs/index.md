@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.05.02
+Updated on 2024.05.03
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -37,7 +37,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-30**|**Planetary Nebula NGC 2818: Revealing its complex 3D morphology**|Sophia Derlopa et.al.|[2405.00169](http://arxiv.org/pdf/2405.00169.pdf)|null|
 |**2024-04-30**|**Gravitational Stress Tensor and Current at Null Infinity in Three Dimensions**|H. Adami et.al.|[2405.00149](http://arxiv.org/pdf/2405.00149.pdf)|null|
 |**2024-04-30**|**Greater benefits of deep learning-based computer-aided detection systems for finding small signals in 3D volumetric medical images**|Devi Klein et.al.|[2405.00144](http://arxiv.org/pdf/2405.00144.pdf)|null|
-|**2024-04-30**|**Utilizing Machine Learning and 3D Neuroimaging to Predict Hearing Loss: A Comparative Analysis of Dimensionality Reduction and Regression Techniques**|Trinath Sai Subhash Reddy Pittala et.al.|[2405.00142](http://arxiv.org/pdf/2405.00142.pdf)|null|
+|**2024-05-02**|**Utilizing Machine Learning and 3D Neuroimaging to Predict Hearing Loss: A Comparative Analysis of Dimensionality Reduction and Regression Techniques**|Trinath Sai Subhash Reddy Pittala et.al.|[2405.00142](http://arxiv.org/pdf/2405.00142.pdf)|null|
 |**2024-04-30**|**Unveiling the Physics of Neutron Stars: A 3D expedition into MAgneto-Thermal evolution in Isolated Neutron Stars with MATINS**|Clara Dehman et.al.|[2405.00133](http://arxiv.org/pdf/2405.00133.pdf)|null|
 |**2024-04-30**|**A Flexible 2.5D Medical Image Segmentation Approach with In-Slice and Cross-Slice Attention**|Amarjeet Kumar et.al.|[2405.00130](http://arxiv.org/pdf/2405.00130.pdf)|null|
 |**2024-04-30**|**A 3D view on the local gravitational instability of cold gas discs in star-forming galaxies at $0 \lesssim \mathrm{z} \lesssim 5$**|C. Bacchini et.al.|[2405.00103](http://arxiv.org/pdf/2405.00103.pdf)|null|
@@ -59,7 +59,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-30**|**MicroDreamer: Zero-shot 3D Generation in $\sim$ 20 Seconds by Score-based Iterative Reconstruction**|Luxi Chen et.al.|[2404.19525](http://arxiv.org/pdf/2404.19525.pdf)|**[link](https://github.com/ml-gsai/microdreamer)**|
 |**2024-04-30**|**Sensorized Soft Skin for Dexterous Robotic Hands**|Jana Egli et.al.|[2404.19448](http://arxiv.org/pdf/2404.19448.pdf)|null|
 |**2024-05-01**|**Neuro-Vision to Language: Image Reconstruction and Language enabled Interaction via Brain Recordings**|Guobin Shen et.al.|[2404.19438](http://arxiv.org/pdf/2404.19438.pdf)|null|
-|**2024-04-30**|**3D Gaussian Blendshapes for Head Avatar Animation**|Shengjie Ma et.al.|[2404.19398](http://arxiv.org/pdf/2404.19398.pdf)|null|
+|**2024-05-02**|**3D Gaussian Blendshapes for Head Avatar Animation**|Shengjie Ma et.al.|[2404.19398](http://arxiv.org/pdf/2404.19398.pdf)|null|
 |**2024-04-30**|**Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection**|Zhanwei Zhang et.al.|[2404.19384](http://arxiv.org/pdf/2404.19384.pdf)|null|
 |**2024-04-30**|**A coupled fluid-dynamics-heat transfer model for 3D simulations of the aqueous humor flow in the human eye**|Thomas Saigre et.al.|[2404.19353](http://arxiv.org/pdf/2404.19353.pdf)|null|
 |**2024-04-30**|**Assessment of physical schemes for WRF model in convection-permitting mode over southern Iberian Peninsula**|Feliciano Solano-Farías et.al.|[2404.19327](http://arxiv.org/pdf/2404.19327.pdf)|null|
@@ -69,7 +69,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-30**|**NeRF-Insert: 3D Local Editing with Multimodal Control Signals**|Benet Oriol Sabat et.al.|[2404.19204](http://arxiv.org/pdf/2404.19204.pdf)|null|
 |**2024-04-30**|**PEVA-Net: Prompt-Enhanced View Aggregation Network for Zero/Few-Shot Multi-View 3D Shape Recognition**|Dongyun Lin et.al.|[2404.19168](http://arxiv.org/pdf/2404.19168.pdf)|null|
 |**2024-04-29**|**Scalable Bayesian Inference in the Era of Deep Learning: From Gaussian Processes to Deep Neural Networks**|Javier Antoran et.al.|[2404.19157](http://arxiv.org/pdf/2404.19157.pdf)|null|
-|**2024-04-29**|**Room temperature realization of artificial chiral magnets with reprogrammable magnon nonreciprocity at zero field**|Mingran Xu et.al.|[2404.19153](http://arxiv.org/pdf/2404.19153.pdf)|null|
+|**2024-05-01**|**Room temperature realization of artificial chiral magnets with reprogrammable magnon nonreciprocity at zero field**|Mingran Xu et.al.|[2404.19153](http://arxiv.org/pdf/2404.19153.pdf)|null|
 |**2024-04-29**|**SAGS: Structure-Aware 3D Gaussian Splatting**|Evangelos Ververas et.al.|[2404.19149](http://arxiv.org/pdf/2404.19149.pdf)|null|
 |**2024-04-29**|**Evaluating Deep Clustering Algorithms on Non-Categorical 3D CAD Models**|Siyuan Xiang et.al.|[2404.19134](http://arxiv.org/pdf/2404.19134.pdf)|null|
 |**2024-04-29**|**On the Pair-Instability Supernova origin of J1010+2358**|Ása Skúladóttir et.al.|[2404.19086](http://arxiv.org/pdf/2404.19086.pdf)|null|
@@ -4702,7 +4702,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-12**|**MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance**|Yuqun Wu et.al.|[2404.08252](http://arxiv.org/pdf/2404.08252.pdf)|null|
 |**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993](http://arxiv.org/pdf/2404.07993.pdf)|null|
 |**2024-03-18**|**Reinforcement Learning with Generalizable Gaussian Splatting**|Jiaxu Wang et.al.|[2404.07950](http://arxiv.org/pdf/2404.07950.pdf)|null|
-|**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/pdf/2404.07933.pdf)|**[link](https://github.com/keonhee-han/KDBTS)**|
+|**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/pdf/2404.07933.pdf)|null|
 |**2024-04-10**|**SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**|Mathis Kruse et.al.|[2404.06832](http://arxiv.org/pdf/2404.06832.pdf)|**[link](https://github.com/m-kruse98/splatpose)**|
 |**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753](http://arxiv.org/pdf/2404.06753.pdf)|null|
 |**2024-04-10**|**Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**|Sibeak Lee et.al.|[2404.06727](http://arxiv.org/pdf/2404.06727.pdf)|**[link](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)**|
@@ -6480,7 +6480,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-09**|**GRANP: A Graph Recurrent Attentive Neural Process Model for Vehicle Trajectory Prediction**|Yuhao Luo et.al.|[2404.08004](http://arxiv.org/pdf/2404.08004.pdf)|**[link](https://github.com/joy-driven/granp)**|
 |**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993](http://arxiv.org/pdf/2404.07993.pdf)|null|
 |**2024-03-18**|**Reinforcement Learning with Generalizable Gaussian Splatting**|Jiaxu Wang et.al.|[2404.07950](http://arxiv.org/pdf/2404.07950.pdf)|null|
-|**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/pdf/2404.07933.pdf)|**[link](https://github.com/keonhee-han/KDBTS)**|
+|**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/pdf/2404.07933.pdf)|null|
 |**2024-04-11**|**Sparse Laneformer**|Ji Liu et.al.|[2404.07821](http://arxiv.org/pdf/2404.07821.pdf)|null|
 |**2024-04-23**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762](http://arxiv.org/pdf/2404.07762.pdf)|**[link](https://github.com/atonderski/neuro-ncap)**|
 |**2024-04-11**|**Homography Guided Temporal Fusion for Road Line and Marking Segmentation**|Shan Wang et.al.|[2404.07626](http://arxiv.org/pdf/2404.07626.pdf)|**[link](https://github.com/shanwang-shan/homofusion)**|
@@ -7616,7 +7616,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-11**|**Q-ITAGS: Quality-Optimized Spatio-Temporal Heterogeneous Task Allocation with a Time Budget**|Glen Neville et.al.|[2404.07902](http://arxiv.org/pdf/2404.07902.pdf)|**[link](https://github.com/gt-star-lab/q-itags)**|
 |**2024-04-11**|**Estimating Visibility from Alternate Perspectives for Motion Planning with Occlusions**|Barry Gilhuly et.al.|[2404.07781](http://arxiv.org/pdf/2404.07781.pdf)|**[link](https://github.com/idlebear/apcm)**|
 |**2024-04-11**|**Can Vehicle Motion Planning Generalize to Realistic Long-tail Scenarios?**|Marcel Hallgarten et.al.|[2404.07569](http://arxiv.org/pdf/2404.07569.pdf)|**[link](https://github.com/mh0797/interplan)**|
-|**2024-04-11**|**Graph Attention Network for Lane-Wise and Topology-Invariant Intersection Traffic Simulation**|Nooshin Yousefzadeh et.al.|[2404.07446](http://arxiv.org/pdf/2404.07446.pdf)|null|
+|**2024-05-02**|**Graph Attention Network for Lane-Wise and Topology-Invariant Intersection Traffic Simulation**|Nooshin Yousefzadeh et.al.|[2404.07446](http://arxiv.org/pdf/2404.07446.pdf)|null|
 |**2024-04-10**|**VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification**|Florian Sestak et.al.|[2404.07194](http://arxiv.org/pdf/2404.07194.pdf)|**[link](https://github.com/ml-jku/vnegnn)**|
 |**2024-04-10**|**CBFKIT: A Control Barrier Function Toolbox for Robotics Applications**|Mitchell Black et.al.|[2404.07158](http://arxiv.org/pdf/2404.07158.pdf)|**[link](https://github.com/bardhh/cbfkit)**|
 |**2024-04-10**|**Algebraic Proofs of Path Disconnectedness using Time-Dependent Barrier Functions**|Didier Henrion et.al.|[2404.06985](http://arxiv.org/pdf/2404.06985.pdf)|**[link](https://github.com/jarmill/set_connected)**|
