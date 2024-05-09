@@ -18,6 +18,26 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**|Lingdong Kong et.al.|[2405.05258](http://arxiv.org/pdf/2405.05258.pdf)|**[link](https://github.com/ldkong1205/LaserMix)**|
+|**2024-05-08**|**FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**|Jinglin Xu et.al.|[2405.05216](http://arxiv.org/pdf/2405.05216.pdf)|**[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)**|
+|**2024-05-08**|**A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective**|Huaiyuan Xu et.al.|[2405.05173](http://arxiv.org/pdf/2405.05173.pdf)|null|
+|**2024-05-08**|**Crystal structure identification with 3D convolutional neural networks with application to high-pressure phase transitions in SiO $_2$**|Linus C. Erhard et.al.|[2405.05156](http://arxiv.org/pdf/2405.05156.pdf)|null|
+|**2024-05-08**|**DenserRadar: A 4D millimeter-wave radar point cloud detector based on dense LiDAR point clouds**|Zeyu Han et.al.|[2405.05131](http://arxiv.org/pdf/2405.05131.pdf)|null|
+|**2024-05-08**|**Energy stable gradient flow schemes for shape and topology optimization in Navier-Stokes flows**|Jiajie Li et.al.|[2405.05098](http://arxiv.org/pdf/2405.05098.pdf)|null|
+|**2024-05-08**|**Rapid Co-design of Task-Specialized Whegged Robots for Ad-Hoc Needs**|Varun Madabushi et.al.|[2405.05096](http://arxiv.org/pdf/2405.05096.pdf)|null|
+|**2024-05-08**|**Understanding solid nitrogen through machine learning simulation**|Marcin Kirsz et.al.|[2405.05092](http://arxiv.org/pdf/2405.05092.pdf)|null|
+|**2024-05-08**|**${M^2D}$ NeRF: Multi-Modal Decomposition NeRF with 3D Feature Fields**|Ning Wang et.al.|[2405.05010](http://arxiv.org/pdf/2405.05010.pdf)|null|
+|**2024-05-08**|**Audio Matters Too! Enhancing Markerless Motion Capture with Audio Signals for String Performance Capture**|Yitong Jin et.al.|[2405.04963](http://arxiv.org/pdf/2405.04963.pdf)|null|
+|**2024-05-08**|**The many colors of the TNG100 simulation**|Andrea Gebek et.al.|[2405.04925](http://arxiv.org/pdf/2405.04925.pdf)|null|
+|**2024-05-08**|**Fast LiDAR Upsampling using Conditional Diffusion Models**|Sander Elias Magnussen Helgesen et.al.|[2405.04889](http://arxiv.org/pdf/2405.04889.pdf)|null|
+|**2024-05-08**|**EMISSA: Exploring millimetre indicators of solar-stellar activity III. Comparison of Ca II indices and millimetre continua in a 3D model atmosphere**|Sneha Pandit et.al.|[2405.04871](http://arxiv.org/pdf/2405.04871.pdf)|null|
+|**2024-05-08**|**Information Geometric Framework For Point Cloud Data**|Amit Vishwakarma et.al.|[2405.04864](http://arxiv.org/pdf/2405.04864.pdf)|null|
+|**2024-05-08**|**Three-dimensional higher-order saddle points induced flat bands in Co-based kagome metals**|Hengxin Tan et.al.|[2405.04863](http://arxiv.org/pdf/2405.04863.pdf)|null|
+|**2024-05-08**|**GoalGrasp: Grasping Goals in Partially Occluded Scenarios without Grasp Training**|Shun Gui et.al.|[2405.04783](http://arxiv.org/pdf/2405.04783.pdf)|null|
+|**2024-05-08**|**Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches**|Qing Yu et.al.|[2405.04771](http://arxiv.org/pdf/2405.04771.pdf)|null|
+|**2024-05-07**|**Impact of Dimensionality on the Magnetocaloric Effect in Two-dimensional Magnets**|Lokanath Patra et.al.|[2405.04639](http://arxiv.org/pdf/2405.04639.pdf)|null|
+|**2024-05-07**|**FRACTAL: An Ultra-Large-Scale Aerial Lidar Dataset for 3D Semantic Segmentation of Diverse Landscapes**|Charles Gaydon et.al.|[2405.04634](http://arxiv.org/pdf/2405.04634.pdf)|**[link](https://github.com/ignf/myria3d)**|
+|**2024-05-07**|**First Constraints on the ISM Conditions of a Low Mass, Highly Obscured z=4.27 Main Sequence Galaxy**|Andrew Mizener et.al.|[2405.04582](http://arxiv.org/pdf/2405.04582.pdf)|null|
 |**2024-05-07**|**Tactile-Augmented Radiance Fields**|Yiming Dou et.al.|[2405.04534](http://arxiv.org/pdf/2405.04534.pdf)|null|
 |**2024-05-07**|**ChatHuman: Language-driven 3D Human Understanding with Retrieval-Augmented Tool Reasoning**|Jing Lin et.al.|[2405.04533](http://arxiv.org/pdf/2405.04533.pdf)|null|
 |**2024-05-07**|**UQ state-dependent framework for seismic fragility assessment of industrial components**|C. Nardin et.al.|[2405.04487](http://arxiv.org/pdf/2405.04487.pdf)|null|
@@ -4768,7 +4788,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-07**|**Tactile-Augmented Radiance Fields**|Yiming Dou et.al.|[2405.04534](http://arxiv.org/pdf/2405.04534.pdf)|null|
-|**2024-05-07**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416](http://arxiv.org/pdf/2405.04416.pdf)|null|
+|**2024-05-08**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416](http://arxiv.org/pdf/2405.04416.pdf)|null|
 |**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345](http://arxiv.org/pdf/2405.04345.pdf)|null|
 |**2024-05-06**|**A Construct-Optimize Approach to Sparse View Synthesis without Camera Pose**|Kaiwen Jiang et.al.|[2405.03659](http://arxiv.org/pdf/2405.03659.pdf)|null|
 |**2024-05-05**|**Blending Distributed NeRFs with Tri-stage Robust Pose Optimization**|Baijun Ye et.al.|[2405.02880](http://arxiv.org/pdf/2405.02880.pdf)|null|
@@ -5571,6 +5591,11 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**|Lingdong Kong et.al.|[2405.05258](http://arxiv.org/pdf/2405.05258.pdf)|**[link](https://github.com/ldkong1205/LaserMix)**|
+|**2024-05-08**|**A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective**|Huaiyuan Xu et.al.|[2405.05173](http://arxiv.org/pdf/2405.05173.pdf)|null|
+|**2024-05-08**|**DenserRadar: A 4D millimeter-wave radar point cloud detector based on dense LiDAR point clouds**|Zeyu Han et.al.|[2405.05131](http://arxiv.org/pdf/2405.05131.pdf)|null|
+|**2024-05-08**|**Novel Actor-Critic Algorithm for Robust Decision Making of CAV under Delays and Loss of V2X Data**|Zine el abidine Kherroubi et.al.|[2405.05072](http://arxiv.org/pdf/2405.05072.pdf)|null|
+|**2024-05-08**|**Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models**|Zhengxing Lan et.al.|[2405.04909](http://arxiv.org/pdf/2405.04909.pdf)|null|
 |**2024-05-07**|**TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters**|Jonathan Wilder Lavington et.al.|[2405.04491](http://arxiv.org/pdf/2405.04491.pdf)|null|
 |**2024-05-07**|**DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving**|Chen Min et.al.|[2405.04390](http://arxiv.org/pdf/2405.04390.pdf)|null|
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290](http://arxiv.org/pdf/2405.04290.pdf)|null|
@@ -5793,7 +5818,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-26**|**2D Gaussian Splatting for Geometrically Accurate Radiance Fields**|Binbin Huang et.al.|[2403.17888](http://arxiv.org/pdf/2403.17888.pdf)|null|
 |**2024-03-26**|**Low-Latency Neural Stereo Streaming**|Qiqi Hou et.al.|[2403.17879](http://arxiv.org/pdf/2403.17879.pdf)|null|
 |**2024-03-26**|**Scenario-Based Curriculum Generation for Multi-Agent Autonomous Driving**|Axel Brunnbauer et.al.|[2403.17805](http://arxiv.org/pdf/2403.17805.pdf)|**[link](https://github.com/autonomousdrivingexaminer/mats-gym)**|
-|**2024-03-26**|**LiDAR-Based Crop Row Detection Algorithm for Over-Canopy Autonomous Navigation in Agriculture Fields**|Ruiji Liu et.al.|[2403.17774](http://arxiv.org/pdf/2403.17774.pdf)|**[link](https://github.com/Kantor-Lab/LiDAR_CropRowDetection)**|
+|**2024-05-08**|**LiDAR-Based Crop Row Detection Algorithm for Over-Canopy Autonomous Navigation in Agriculture Fields**|Ruiji Liu et.al.|[2403.17774](http://arxiv.org/pdf/2403.17774.pdf)|**[link](https://github.com/Kantor-Lab/LiDAR_CropRowDetection)**|
 |**2024-03-28**|**UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps**|Maciej K Wozniak et.al.|[2403.17633](http://arxiv.org/pdf/2403.17633.pdf)|**[link](https://github.com/maxiuw/uada3d)**|
 |**2024-03-26**|**AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving**|Mingfu Liang et.al.|[2403.17373](http://arxiv.org/pdf/2403.17373.pdf)|null|
 |**2024-03-27**|**Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving**|Junhao Zheng et.al.|[2403.17301](http://arxiv.org/pdf/2403.17301.pdf)|**[link](https://github.com/gandolfczjh/3d2fool)**|
@@ -6502,9 +6527,14 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**|Lingdong Kong et.al.|[2405.05258](http://arxiv.org/pdf/2405.05258.pdf)|**[link](https://github.com/ldkong1205/LaserMix)**|
+|**2024-05-08**|**A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective**|Huaiyuan Xu et.al.|[2405.05173](http://arxiv.org/pdf/2405.05173.pdf)|null|
+|**2024-05-08**|**DenserRadar: A 4D millimeter-wave radar point cloud detector based on dense LiDAR point clouds**|Zeyu Han et.al.|[2405.05131](http://arxiv.org/pdf/2405.05131.pdf)|null|
+|**2024-05-08**|**Novel Actor-Critic Algorithm for Robust Decision Making of CAV under Delays and Loss of V2X Data**|Zine el abidine Kherroubi et.al.|[2405.05072](http://arxiv.org/pdf/2405.05072.pdf)|null|
+|**2024-05-08**|**Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models**|Zhengxing Lan et.al.|[2405.04909](http://arxiv.org/pdf/2405.04909.pdf)|null|
 |**2024-05-07**|**Tactile-Augmented Radiance Fields**|Yiming Dou et.al.|[2405.04534](http://arxiv.org/pdf/2405.04534.pdf)|null|
 |**2024-05-07**|**TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters**|Jonathan Wilder Lavington et.al.|[2405.04491](http://arxiv.org/pdf/2405.04491.pdf)|null|
-|**2024-05-07**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416](http://arxiv.org/pdf/2405.04416.pdf)|null|
+|**2024-05-08**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416](http://arxiv.org/pdf/2405.04416.pdf)|null|
 |**2024-05-07**|**DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving**|Chen Min et.al.|[2405.04390](http://arxiv.org/pdf/2405.04390.pdf)|null|
 |**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345](http://arxiv.org/pdf/2405.04345.pdf)|null|
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290](http://arxiv.org/pdf/2405.04290.pdf)|null|
@@ -7754,6 +7784,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models**|Zhengxing Lan et.al.|[2405.04909](http://arxiv.org/pdf/2405.04909.pdf)|null|
 |**2024-05-07**|**Physics-data hybrid dynamic model of a multi-axis manipulator for sensorless dexterous manipulation and high-performance motion planning**|Wu-Te Yang et.al.|[2405.04503](http://arxiv.org/pdf/2405.04503.pdf)|null|
 |**2024-05-07**|**Adjoint Sensitivity Analysis on Multi-Scale Bioprocess Stochastic Reaction Network**|Keilung Choy et.al.|[2405.04011](http://arxiv.org/pdf/2405.04011.pdf)|null|
 |**2024-05-07**|**Unified End-to-End V2X Cooperative Autonomous Driving**|Zhiwei Li et.al.|[2405.03971](http://arxiv.org/pdf/2405.03971.pdf)|null|
