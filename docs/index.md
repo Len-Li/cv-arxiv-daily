@@ -18,6 +18,41 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers**|Peng Gao et.al.|[2405.05945](http://arxiv.org/pdf/2405.05945.pdf)|**[link](https://github.com/alpha-vllm/lumina-t2x)**|
+|**2024-05-09**|**MRISegmentator-Abdomen: A Fully Automated Multi-Organ and Structure Segmentation Tool for T1-weighted Abdominal MRI**|Yan Zhuang et.al.|[2405.05944](http://arxiv.org/pdf/2405.05944.pdf)|null|
+|**2024-05-09**|**Role of Vanadium-Oxide Layer in Electronic State of Sr $_2$VFeAsO$_{3-δ}$ with Oxygen Deficiency**|Masamichi Nakajima et.al.|[2405.05893](http://arxiv.org/pdf/2405.05893.pdf)|null|
+|**2024-05-09**|**3D Positioning using a New Diffraction Path Model**|Gaurav Duggal et.al.|[2405.05801](http://arxiv.org/pdf/2405.05801.pdf)|null|
+|**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800](http://arxiv.org/pdf/2405.05800.pdf)|null|
+|**2024-05-09**|**RoboHop: Segment-based Topological Map Representation for Open-World Visual Navigation**|Sourav Garg et.al.|[2405.05792](http://arxiv.org/pdf/2405.05792.pdf)|null|
+|**2024-05-09**|**Sequential Amodal Segmentation via Cumulative Occlusion Learning**|Jiayang Ao et.al.|[2405.05791](http://arxiv.org/pdf/2405.05791.pdf)|null|
+|**2024-05-09**|**Autonomous Robotic Ultrasound System for Liver Follow-up Diagnosis: Pilot Phantom Study**|Tianpeng Zhang et.al.|[2405.05787](http://arxiv.org/pdf/2405.05787.pdf)|null|
+|**2024-05-09**|**Exploration of morphological coherence in open clusters with "core-shell'' structure**|Qingshun Hu et.al.|[2405.05771](http://arxiv.org/pdf/2405.05771.pdf)|null|
+|**2024-05-09**|**FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting**|Yikun Ma et.al.|[2405.05768](http://arxiv.org/pdf/2405.05768.pdf)|null|
+|**2024-05-09**|**NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via Generative Prior**|Gihoon Kim et.al.|[2405.05749](http://arxiv.org/pdf/2405.05749.pdf)|null|
+|**2024-05-09**|**3D bulk field theories for 2D non-unitary N=1 supersymmetric minimal models**|Seungjoo Baek et.al.|[2405.05746](http://arxiv.org/pdf/2405.05746.pdf)|null|
+|**2024-05-09**|**Neural Network Approach for Predicting Infrared Spectra from 3D Molecular Structure**|Saleh Abdul Al et.al.|[2405.05737](http://arxiv.org/pdf/2405.05737.pdf)|null|
+|**2024-05-09**|**NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap**|Mingrui Li et.al.|[2405.05702](http://arxiv.org/pdf/2405.05702.pdf)|null|
+|**2024-05-09**|**SubGDiff: A Subgraph Diffusion Model to Improve Molecular Representation Learning**|Jiying Zhang et.al.|[2405.05665](http://arxiv.org/pdf/2405.05665.pdf)|null|
+|**2024-05-09**|**AI in Your Toolbox: A Plugin for Generating Renderings from 3D Models**|Mingming Wang et.al.|[2405.05627](http://arxiv.org/pdf/2405.05627.pdf)|null|
+|**2024-05-09**|**Depth Awakens: A Depth-perceptual Attention Fusion Network for RGB-D Camouflaged Object Detection**|Xinran Liua et.al.|[2405.05614](http://arxiv.org/pdf/2405.05614.pdf)|null|
+|**2024-05-09**|**Minimal Perspective Autocalibration**|Andrea Porfiri Dal Cin et.al.|[2405.05605](http://arxiv.org/pdf/2405.05605.pdf)|null|
+|**2024-05-09**|**Homogenization in 3D thin domains with oscillating boundaries of different orders**|José M. Arrieta et.al.|[2405.05599](http://arxiv.org/pdf/2405.05599.pdf)|null|
+|**2024-05-09**|**A Survey on Backbones for Deep Video Action Recognition**|Zixuan Tang et.al.|[2405.05584](http://arxiv.org/pdf/2405.05584.pdf)|null|
+|**2024-05-09**|**Array SAR 3D Sparse Imaging Based on Regularization by Denoising Under Few Observed Data**|Yangyang Wang et.al.|[2405.05565](http://arxiv.org/pdf/2405.05565.pdf)|null|
+|**2024-05-09**|**Conformal to confining SQFTs from holography**|Dimitrios Chatzis et.al.|[2405.05563](http://arxiv.org/pdf/2405.05563.pdf)|null|
+|**2024-05-09**|**Improved electrochemical performance of NASICON type Na $_{3}$V$_{2-x}$Co$_x$(PO$_{4}$)$_{3}$/C ($x=$ 0--0.15) cathode for high rate and stable sodium-ion batteries**|Simranjot K. Sapra et.al.|[2405.05559](http://arxiv.org/pdf/2405.05559.pdf)|null|
+|**2024-05-09**|**Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview**|Yuhang Ming et.al.|[2405.05526](http://arxiv.org/pdf/2405.05526.pdf)|null|
+|**2024-05-09**|**Continuous max-flow augmentation of self-supervised few-shot learning on SPECT left ventricles**|Ádám István Szűcs et.al.|[2405.05520](http://arxiv.org/pdf/2405.05520.pdf)|**[link](https://github.com/jacksonfurrier/isbi_2024_code)**|
+|**2024-05-09**|**HPPS: A Hierarchical Progressive Perception System for Luggage Trolley Detection and Localization at Airports**|Zhirui Sun et.al.|[2405.05514](http://arxiv.org/pdf/2405.05514.pdf)|null|
+|**2024-05-09**|**Banking Turn of High-DOF Dynamic Morphing Wing Flight by Shifting Structure Response Using Optimization**|Bibek Gupta et.al.|[2405.05490](http://arxiv.org/pdf/2405.05490.pdf)|null|
+|**2024-05-08**|**Highest Fusion Performance without Harmful Edge Energy Bursts in Tokamak**|SangKyeun Kim et.al.|[2405.05452](http://arxiv.org/pdf/2405.05452.pdf)|null|
+|**2024-05-08**|**GDGS: Gradient Domain Gaussian Splatting for Sparse Representation of Radiance Fields**|Yuanhao Gong et.al.|[2405.05446](http://arxiv.org/pdf/2405.05446.pdf)|null|
+|**2024-05-08**|**2D ferroelectrics and ferroelectrics with 2D: materials and device prospects**|Chloe Leblanc et.al.|[2405.05432](http://arxiv.org/pdf/2405.05432.pdf)|null|
+|**2024-05-08**|**Identifying stable communities in Hi-C data using a multifractal null model**|Lucas Hedström et.al.|[2405.05425](http://arxiv.org/pdf/2405.05425.pdf)|null|
+|**2024-05-08**|**Coupling of the Finite Element Method with Physics Informed Neural Networks for the Multi-Fluid Flow Problem**|Michel Nohra et.al.|[2405.05371](http://arxiv.org/pdf/2405.05371.pdf)|null|
+|**2024-05-08**|**Joint semi-supervised and contrastive learning enables zero-shot domain-adaptation and multi-domain segmentation**|Alvaro Gomariz et.al.|[2405.05336](http://arxiv.org/pdf/2405.05336.pdf)|null|
+|**2024-05-08**|**AGN flares as counterparts to the mergers detected by LIGO and Virgo: a novel spatial correlation analysis**|Niccolò Veronesi et.al.|[2405.05318](http://arxiv.org/pdf/2405.05318.pdf)|null|
+|**2024-05-08**|**Convective overstability in radially global protoplanetary disks I - Pure gas dynamics**|Marius Lehmann et.al.|[2405.05314](http://arxiv.org/pdf/2405.05314.pdf)|null|
 |**2024-05-08**|**Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**|Lingdong Kong et.al.|[2405.05258](http://arxiv.org/pdf/2405.05258.pdf)|**[link](https://github.com/ldkong1205/LaserMix)**|
 |**2024-05-08**|**FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**|Jinglin Xu et.al.|[2405.05216](http://arxiv.org/pdf/2405.05216.pdf)|**[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)**|
 |**2024-05-08**|**A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective**|Huaiyuan Xu et.al.|[2405.05173](http://arxiv.org/pdf/2405.05173.pdf)|null|
@@ -4787,6 +4822,9 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via Generative Prior**|Gihoon Kim et.al.|[2405.05749](http://arxiv.org/pdf/2405.05749.pdf)|null|
+|**2024-05-09**|**NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap**|Mingrui Li et.al.|[2405.05702](http://arxiv.org/pdf/2405.05702.pdf)|null|
+|**2024-05-09**|**Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview**|Yuhang Ming et.al.|[2405.05526](http://arxiv.org/pdf/2405.05526.pdf)|null|
 |**2024-05-07**|**Tactile-Augmented Radiance Fields**|Yiming Dou et.al.|[2405.04534](http://arxiv.org/pdf/2405.04534.pdf)|null|
 |**2024-05-08**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416](http://arxiv.org/pdf/2405.04416.pdf)|null|
 |**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345](http://arxiv.org/pdf/2405.04345.pdf)|null|
@@ -5591,6 +5629,10 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Probing Multimodal LLMs as World Models for Driving**|Shiva Sreeram et.al.|[2405.05956](http://arxiv.org/pdf/2405.05956.pdf)|**[link](https://github.com/sreeramsa/drivesim)**|
+|**2024-05-09**|**Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior and Understanding for Complex Road Scenes**|Ziang Guo et.al.|[2405.05885](http://arxiv.org/pdf/2405.05885.pdf)|null|
+|**2024-05-09**|**Towards Robust Physical-world Backdoor Attacks on Lane Detection**|Xinwei Zhang et.al.|[2405.05553](http://arxiv.org/pdf/2405.05553.pdf)|null|
+|**2024-05-07**|**Tiny Deep Ensemble: Uncertainty Estimation in Edge AI Accelerators via Ensembling Normalization Layers with Shared Weights**|Soyed Tuhin Ahmed et.al.|[2405.05286](http://arxiv.org/pdf/2405.05286.pdf)|null|
 |**2024-05-08**|**Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**|Lingdong Kong et.al.|[2405.05258](http://arxiv.org/pdf/2405.05258.pdf)|**[link](https://github.com/ldkong1205/LaserMix)**|
 |**2024-05-08**|**A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective**|Huaiyuan Xu et.al.|[2405.05173](http://arxiv.org/pdf/2405.05173.pdf)|null|
 |**2024-05-08**|**DenserRadar: A 4D millimeter-wave radar point cloud detector based on dense LiDAR point clouds**|Zeyu Han et.al.|[2405.05131](http://arxiv.org/pdf/2405.05131.pdf)|null|
@@ -6527,6 +6569,13 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Probing Multimodal LLMs as World Models for Driving**|Shiva Sreeram et.al.|[2405.05956](http://arxiv.org/pdf/2405.05956.pdf)|**[link](https://github.com/sreeramsa/drivesim)**|
+|**2024-05-09**|**Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior and Understanding for Complex Road Scenes**|Ziang Guo et.al.|[2405.05885](http://arxiv.org/pdf/2405.05885.pdf)|null|
+|**2024-05-09**|**NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via Generative Prior**|Gihoon Kim et.al.|[2405.05749](http://arxiv.org/pdf/2405.05749.pdf)|null|
+|**2024-05-09**|**NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap**|Mingrui Li et.al.|[2405.05702](http://arxiv.org/pdf/2405.05702.pdf)|null|
+|**2024-05-09**|**Towards Robust Physical-world Backdoor Attacks on Lane Detection**|Xinwei Zhang et.al.|[2405.05553](http://arxiv.org/pdf/2405.05553.pdf)|null|
+|**2024-05-09**|**Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview**|Yuhang Ming et.al.|[2405.05526](http://arxiv.org/pdf/2405.05526.pdf)|null|
+|**2024-05-07**|**Tiny Deep Ensemble: Uncertainty Estimation in Edge AI Accelerators via Ensembling Normalization Layers with Shared Weights**|Soyed Tuhin Ahmed et.al.|[2405.05286](http://arxiv.org/pdf/2405.05286.pdf)|null|
 |**2024-05-08**|**Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**|Lingdong Kong et.al.|[2405.05258](http://arxiv.org/pdf/2405.05258.pdf)|**[link](https://github.com/ldkong1205/LaserMix)**|
 |**2024-05-08**|**A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective**|Huaiyuan Xu et.al.|[2405.05173](http://arxiv.org/pdf/2405.05173.pdf)|null|
 |**2024-05-08**|**DenserRadar: A 4D millimeter-wave radar point cloud detector based on dense LiDAR point clouds**|Zeyu Han et.al.|[2405.05131](http://arxiv.org/pdf/2405.05131.pdf)|null|
@@ -7784,6 +7833,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Planning with Probabilistic Opacity and Transparency: A Computational Model of Opaque/Transparent Observations**|Sumukha Udupa et.al.|[2405.05408](http://arxiv.org/pdf/2405.05408.pdf)|null|
 |**2024-05-08**|**Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models**|Zhengxing Lan et.al.|[2405.04909](http://arxiv.org/pdf/2405.04909.pdf)|null|
 |**2024-05-07**|**Physics-data hybrid dynamic model of a multi-axis manipulator for sensorless dexterous manipulation and high-performance motion planning**|Wu-Te Yang et.al.|[2405.04503](http://arxiv.org/pdf/2405.04503.pdf)|null|
 |**2024-05-07**|**Adjoint Sensitivity Analysis on Multi-Scale Bioprocess Stochastic Reaction Network**|Keilung Choy et.al.|[2405.04011](http://arxiv.org/pdf/2405.04011.pdf)|null|
