@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.05.11
+Updated on 2024.05.12
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -52,7 +52,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-08**|**Coupling of the Finite Element Method with Physics Informed Neural Networks for the Multi-Fluid Flow Problem**|Michel Nohra et.al.|[2405.05371](http://arxiv.org/pdf/2405.05371.pdf)|null|
 |**2024-05-08**|**Joint semi-supervised and contrastive learning enables zero-shot domain-adaptation and multi-domain segmentation**|Alvaro Gomariz et.al.|[2405.05336](http://arxiv.org/pdf/2405.05336.pdf)|null|
 |**2024-05-08**|**AGN flares as counterparts to the mergers detected by LIGO and Virgo: a novel spatial correlation analysis**|Niccolò Veronesi et.al.|[2405.05318](http://arxiv.org/pdf/2405.05318.pdf)|null|
-|**2024-05-08**|**Convective overstability in radially global protoplanetary disks I - Pure gas dynamics**|Marius Lehmann et.al.|[2405.05314](http://arxiv.org/pdf/2405.05314.pdf)|null|
+|**2024-05-08**|**Convective overstability in radially global protoplanetary disks I -- Pure gas dynamics**|Marius Lehmann et.al.|[2405.05314](http://arxiv.org/pdf/2405.05314.pdf)|null|
 |**2024-05-08**|**Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**|Lingdong Kong et.al.|[2405.05258](http://arxiv.org/pdf/2405.05258.pdf)|**[link](https://github.com/ldkong1205/LaserMix)**|
 |**2024-05-08**|**FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**|Jinglin Xu et.al.|[2405.05216](http://arxiv.org/pdf/2405.05216.pdf)|**[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)**|
 |**2024-05-08**|**A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective**|Huaiyuan Xu et.al.|[2405.05173](http://arxiv.org/pdf/2405.05173.pdf)|null|
