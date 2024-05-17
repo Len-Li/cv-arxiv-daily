@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.05.16
+Updated on 2024.05.17
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -104,7 +104,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-11**|**PRENet: A Plane-Fit Redundancy Encoding Point Cloud Sequence Network for Real-Time 3D Action Recognition**|Shenglin He et.al.|[2405.06929](http://arxiv.org/pdf/2405.06929.pdf)|null|
 |**2024-05-10**|**CasCalib: Cascaded Calibration for Motion Capture from Sparse Unsynchronized Cameras**|James Tang et.al.|[2405.06845](http://arxiv.org/pdf/2405.06845.pdf)|**[link](https://github.com/jamestang1998/cascalib)**|
 |**2024-05-10**|**G-FARS: Gradient-Field-based Auto-Regressive Sampling for 3D Part Grouping**|Junfeng Cheng et.al.|[2405.06828](http://arxiv.org/pdf/2405.06828.pdf)|**[link](https://github.com/j-f-cheng/g-fars-3dpartgrouping)**|
-|**2024-05-10**|**Tutorials on Monte-Carlo modeling of photon transport in biological tissues**|Maryam Ghahremani et.al.|[2405.06810](http://arxiv.org/pdf/2405.06810.pdf)|null|
+|**2024-05-15**|**Simulating Light Propagation through Biological Media Using Monte-Carlo Method**|Maryam Ghahremani et.al.|[2405.06810](http://arxiv.org/pdf/2405.06810.pdf)|null|
 |**2024-05-10**|**SAM3D: Zero-Shot Semi-Automatic Segmentation in 3D Medical Images with the Segment Anything Model**|Trevor J. Chan et.al.|[2405.06786](http://arxiv.org/pdf/2405.06786.pdf)|null|
 |**2024-05-10**|**GraphRelate3D: Context-Dependent 3D Object Detection with Inter-Object Relationship Graphs**|Mingyu Liu et.al.|[2405.06782](http://arxiv.org/pdf/2405.06782.pdf)|null|
 |**2024-05-10**|**OneTo3D: One Image to Re-editable Dynamic 3D Model and Video Generation**|Jinwei Lin et.al.|[2405.06547](http://arxiv.org/pdf/2405.06547.pdf)|**[link](https://github.com/lin-jinwei/OneTo3D)**|
@@ -5205,7 +5205,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-12-20**|**ShowRoom3D: Text to High-Quality 3D Room Generation Using 3D Priors**|Weijia Mao et.al.|[2312.13324](http://arxiv.org/pdf/2312.13324.pdf)|null|
 |**2024-05-02**|**Compact 3D Scene Representation via Self-Organizing Gaussian Grids**|Wieland Morgenstern et.al.|[2312.13299](http://arxiv.org/pdf/2312.13299.pdf)|**[link](https://github.com/fraunhoferhhi/Self-Organizing-Gaussians)**|
 |**2023-12-20**|**Deep Learning on 3D Neural Fields**|Pierluigi Zama Ramirez et.al.|[2312.13277](http://arxiv.org/pdf/2312.13277.pdf)|null|
-|**2024-03-28**|**SpecNeRF: Gaussian Directional Encoding for Specular Reflections**|Li Ma et.al.|[2312.13102](http://arxiv.org/pdf/2312.13102.pdf)|null|
+|**2024-05-16**|**SpecNeRF: Gaussian Directional Encoding for Specular Reflections**|Li Ma et.al.|[2312.13102](http://arxiv.org/pdf/2312.13102.pdf)|null|
 |**2023-12-20**|**Reducing Shape-Radiance Ambiguity in Radiance Fields with a Closed-Form Color Estimation Method**|Qihang Fang et.al.|[2312.12726](http://arxiv.org/pdf/2312.12726.pdf)|**[link](https://github.com/qihanggh/closed-form-color-field)**|
 |**2023-12-19**|**ZS-SRT: An Efficient Zero-Shot Super-Resolution Training Method for Neural Radiance Fields**|Xiang Feng et.al.|[2312.12122](http://arxiv.org/pdf/2312.12122.pdf)|null|
 |**2024-01-22**|**MixRT: Mixed Neural Representations For Real-Time NeRF Rendering**|Chaojian Li et.al.|[2312.11841](http://arxiv.org/pdf/2312.11841.pdf)|null|
