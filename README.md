@@ -15,6 +15,34 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-21**|**Comprehensive Multimodal Deep Learning Survival Prediction Enabled by a Transformer Architecture: A Multicenter Study in Glioblastoma**|Ahmed Gomaa et.al.|[2405.12963](http://arxiv.org/pdf/2405.12963.pdf)|null|
+|**2024-05-21**|**Exact predicates, exact constructions and combinatorics for mesh CSG**|Bruno Lévy et.al.|[2405.12949](http://arxiv.org/pdf/2405.12949.pdf)|null|
+|**2024-05-21**|**Enabling Additive Manufacturing Part Inspection of Digital Twins via Collaborative Virtual Reality**|Vuthea Chheang et.al.|[2405.12931](http://arxiv.org/pdf/2405.12931.pdf)|null|
+|**2024-05-21**|**Implicit-ARAP: Efficient Handle-Guided Deformation of High-Resolution Meshes and Neural Fields via Local Patch Meshing**|Daniele Baieri et.al.|[2405.12895](http://arxiv.org/pdf/2405.12895.pdf)|null|
+|**2024-05-21**|**Epitaxial RuO $_2$ and IrO$_2$ films by pulsed laser deposition on TiO$_2$ (110)**|Philipp Keßler et.al.|[2405.12878](http://arxiv.org/pdf/2405.12878.pdf)|null|
+|**2024-05-21**|**Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension**|Runwei Guan et.al.|[2405.12821](http://arxiv.org/pdf/2405.12821.pdf)|null|
+|**2024-05-21**|**MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**|Hongsheng Wang et.al.|[2405.12806](http://arxiv.org/pdf/2405.12806.pdf)|null|
+|**2024-05-21**|**Dark-Field X-Ray Microscopy with Structured Illumination for Three-Dimensional Imaging**|Doğa Gürsoy et.al.|[2405.12799](http://arxiv.org/pdf/2405.12799.pdf)|null|
+|**2024-05-21**|**A Novel Methodology for Autonomous Planetary Exploration Using Multi-Robot Teams**|Sarah Swinton et.al.|[2405.12790](http://arxiv.org/pdf/2405.12790.pdf)|null|
+|**2024-05-21**|**Self-Supervised Modality-Agnostic Pre-Training of Swin Transformers**|Abhiroop Talasila et.al.|[2405.12781](http://arxiv.org/pdf/2405.12781.pdf)|**[link](https://github.com/devalab/swinfuse)**|
+|**2024-05-21**|**Neural Operator for Accelerating Coronal Magnetic Field Model**|Yutao Du et.al.|[2405.12754](http://arxiv.org/pdf/2405.12754.pdf)|null|
+|**2024-05-21**|**RemoCap: Disentangled Representation Learning for Motion Capture**|Hongsheng Wang et.al.|[2405.12724](http://arxiv.org/pdf/2405.12724.pdf)|null|
+|**2024-05-21**|**Constraints on the (re-)orientation of star-disk systems through infall**|M. Kuffmeier et.al.|[2405.12670](http://arxiv.org/pdf/2405.12670.pdf)|null|
+|**2024-05-21**|**LAGA: Layered 3D Avatar Generation and Customization via Gaussian Splatting**|Jia Gong et.al.|[2405.12663](http://arxiv.org/pdf/2405.12663.pdf)|null|
+|**2024-05-21**|**S3O: A Dual-Phase Approach for Reconstructing Dynamic Shape and Skeleton of Articulated Objects from Single Monocular Video**|Hao Zhang et.al.|[2405.12607](http://arxiv.org/pdf/2405.12607.pdf)|null|
+|**2024-05-21**|**FFAM: Feature Factorization Activation Map for Explanation of 3D Detectors**|Shuai Liu et.al.|[2405.12601](http://arxiv.org/pdf/2405.12601.pdf)|**[link](https://github.com/say2l/ffam)**|
+|**2024-05-21**|**A Weeding Robot for Seedling Removal**|Jarkko Kotaniemi et.al.|[2405.12596](http://arxiv.org/pdf/2405.12596.pdf)|null|
+|**2024-05-21**|**NOVA-3D: Non-overlapped Views for 3D Anime Character Reconstruction**|Hongsheng Wang et.al.|[2405.12505](http://arxiv.org/pdf/2405.12505.pdf)|null|
+|**2024-05-21**|**3DSS-Mamba: 3D-Spectral-Spatial Mamba for Hyperspectral Image Classification**|Yan He et.al.|[2405.12487](http://arxiv.org/pdf/2405.12487.pdf)|null|
+|**2024-05-21**|**Gaussian Control with Hierarchical Semantic Graphs in 3D Human Recovery**|Hongsheng Wang et.al.|[2405.12477](http://arxiv.org/pdf/2405.12477.pdf)|null|
+|**2024-05-21**|**Optimizing Generative AI Networking: A Dual Perspective with Multi-Agent Systems and Mixture of Experts**|Ruichen Zhang et.al.|[2405.12472](http://arxiv.org/pdf/2405.12472.pdf)|null|
+|**2024-05-21**|**Physics-based Scene Layout Generation from Human Motion**|Jianan Li et.al.|[2405.12460](http://arxiv.org/pdf/2405.12460.pdf)|null|
+|**2024-05-21**|**Mutual Information Analysis in Multimodal Learning Systems**|Hadi Hadizadeh et.al.|[2405.12456](http://arxiv.org/pdf/2405.12456.pdf)|null|
+|**2024-05-20**|**GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details**|Boqian Li et.al.|[2405.12420](http://arxiv.org/pdf/2405.12420.pdf)|null|
+|**2024-05-20**|**GeoMask3D: Geometrically Informed Mask Selection for Self-Supervised Point Cloud Learning in 3D**|Ali Bahri et.al.|[2405.12419](http://arxiv.org/pdf/2405.12419.pdf)|null|
+|**2024-05-20**|**Large scale scattering using fast solvers based on neural operators**|Zongren Zou et.al.|[2405.12380](http://arxiv.org/pdf/2405.12380.pdf)|null|
+|**2024-05-20**|**AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field**|Rong Liu et.al.|[2405.12369](http://arxiv.org/pdf/2405.12369.pdf)|null|
+|**2024-05-14**|**Hypergraph: A Unified and Uniform Definition with Application to Chemical Hypergraph**|Daniel T. Chang et.al.|[2405.12235](http://arxiv.org/pdf/2405.12235.pdf)|null|
 |**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218](http://arxiv.org/pdf/2405.12218.pdf)|null|
 |**2024-05-20**|**Multi-View Attentive Contextualization for Multi-View 3D Object Detection**|Xianpeng Liu et.al.|[2405.12200](http://arxiv.org/pdf/2405.12200.pdf)|null|
 |**2024-05-20**|**Histotripsy of blood clots within a hollow cylindrical transducer for aspiration thrombectomy applications**|Li Gong et.al.|[2405.12194](http://arxiv.org/pdf/2405.12194.pdf)|null|
@@ -27,7 +55,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-20**|**Real topological phonons in 3D carbon allotropes**|Xiaotian Wang et.al.|[2405.12072](http://arxiv.org/pdf/2405.12072.pdf)|null|
 |**2024-05-20**|**The Projective Wave Theory of Consciousness**|Robert Worden et.al.|[2405.12071](http://arxiv.org/pdf/2405.12071.pdf)|null|
 |**2024-05-20**|**AutoSoccerPose: Automated 3D posture Analysis of Soccer Shot Movements**|Calvin Yeung et.al.|[2405.12070](http://arxiv.org/pdf/2405.12070.pdf)|**[link](https://github.com/calvinyeungck/3d-shot-posture-dataset)**|
-|**2024-05-20**|**Gaussian Head & Shoulders: High Fidelity Neural Upper Body Avatars with Anchor Gaussian Guided Texture Warping**|Tianhao Wu et.al.|[2405.12069](http://arxiv.org/pdf/2405.12069.pdf)|null|
+|**2024-05-21**|**Gaussian Head & Shoulders: High Fidelity Neural Upper Body Avatars with Anchor Gaussian Guided Texture Warping**|Tianhao Wu et.al.|[2405.12069](http://arxiv.org/pdf/2405.12069.pdf)|null|
 |**2024-05-20**|**NPLMV-PS: Neural Point-Light Multi-View Photometric Stereo**|Fotios Logothetis et.al.|[2405.12057](http://arxiv.org/pdf/2405.12057.pdf)|null|
 |**2024-05-20**|**Depth Reconstruction with Neural Signed Distance Fields in Structured Light Systems**|Rukun Qiao et.al.|[2405.12006](http://arxiv.org/pdf/2405.12006.pdf)|null|
 |**2024-05-20**|**GGAvatar: Geometric Adjustment of Gaussian Head Avatar**|Xinyang Li et.al.|[2405.11993](http://arxiv.org/pdf/2405.11993.pdf)|null|
@@ -144,7 +172,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-13**|**Non-local twist sequences in floppy kagome chains**|Pegah Azizi et.al.|[2405.08182](http://arxiv.org/pdf/2405.08182.pdf)|null|
 |**2024-05-13**|**Constructing nested coordinates inside strongly shaped toroids using an action principle**|Zeno Tecchiolli et.al.|[2405.08173](http://arxiv.org/pdf/2405.08173.pdf)|null|
 |**2024-05-13**|**Towards the reproducible fabrication of conductive ferroelectric domain walls into lithium niobate bulk single crystals**|Julius Ratzenberger et.al.|[2405.08156](http://arxiv.org/pdf/2405.08156.pdf)|null|
-|**2024-05-13**|**5d 2-Chern-Simons theory and 3d integrable field theories**|Alexander Schenkel et.al.|[2405.08083](http://arxiv.org/pdf/2405.08083.pdf)|null|
+|**2024-05-21**|**5d 2-Chern-Simons theory and 3d integrable field theories**|Alexander Schenkel et.al.|[2405.08083](http://arxiv.org/pdf/2405.08083.pdf)|null|
 |**2024-05-13**|**Random Bond perturbations of the $O(2)$ vector model**|Maria Nocchi et.al.|[2405.08072](http://arxiv.org/pdf/2405.08072.pdf)|null|
 |**2024-05-13**|**DiffTF++: 3D-aware Diffusion Transformer for Large-Vocabulary 3D Generation**|Ziang Cao et.al.|[2405.08055](http://arxiv.org/pdf/2405.08055.pdf)|**[link](https://github.com/ziangcao0312/DiffTF)**|
 |**2024-05-13**|**Coin3D: Controllable and Interactive 3D Assets Generation with Proxy-Guided Conditioning**|Wenqi Dong et.al.|[2405.08054](http://arxiv.org/pdf/2405.08054.pdf)|null|
@@ -5022,6 +5050,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728](http://arxiv.org/pdf/2405.12728.pdf)|null|
 |**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155](http://arxiv.org/pdf/2405.12155.pdf)|null|
 |**2024-05-19**|**R-NeRF: Neural Radiance Fields for Modeling RIS-enabled Wireless Environments**|Huiying Yang et.al.|[2405.11541](http://arxiv.org/pdf/2405.11541.pdf)|null|
 |**2024-05-17**|**Photorealistic 3D Urban Scene Reconstruction and Point Cloud Extraction using Google Earth Imagery and Gaussian Splatting**|Kyle Gao et.al.|[2405.11021](http://arxiv.org/pdf/2405.11021.pdf)|null|
@@ -5845,6 +5874,9 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-21**|**Transparency Distortion Robustness for SOTA Image Segmentation Tasks**|Volker Knauthe et.al.|[2405.12864](http://arxiv.org/pdf/2405.12864.pdf)|null|
+|**2024-05-21**|**CLRKDNet: Speeding up Lane Detection with Knowledge Distillation**|Weiqing Qi et.al.|[2405.12503](http://arxiv.org/pdf/2405.12503.pdf)|null|
+|**2024-05-21**|**Mutual Information Analysis in Multimodal Learning Systems**|Hadi Hadizadeh et.al.|[2405.12456](http://arxiv.org/pdf/2405.12456.pdf)|null|
 |**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120](http://arxiv.org/pdf/2405.12120.pdf)|null|
 |**2024-05-20**|**Safe by Design Autonomous Driving Systems**|Marius Bozga et.al.|[2405.11995](http://arxiv.org/pdf/2405.11995.pdf)|null|
 |**2024-05-20**|**Tutorial on Silicon Photonics Integrated Platform Fiber Edge Coupling**|Sergey S. Avdeev et.al.|[2405.11980](http://arxiv.org/pdf/2405.11980.pdf)|null|
@@ -6826,6 +6858,10 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-21**|**Transparency Distortion Robustness for SOTA Image Segmentation Tasks**|Volker Knauthe et.al.|[2405.12864](http://arxiv.org/pdf/2405.12864.pdf)|null|
+|**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728](http://arxiv.org/pdf/2405.12728.pdf)|null|
+|**2024-05-21**|**CLRKDNet: Speeding up Lane Detection with Knowledge Distillation**|Weiqing Qi et.al.|[2405.12503](http://arxiv.org/pdf/2405.12503.pdf)|null|
+|**2024-05-21**|**Mutual Information Analysis in Multimodal Learning Systems**|Hadi Hadizadeh et.al.|[2405.12456](http://arxiv.org/pdf/2405.12456.pdf)|null|
 |**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155](http://arxiv.org/pdf/2405.12155.pdf)|null|
 |**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120](http://arxiv.org/pdf/2405.12120.pdf)|null|
 |**2024-05-20**|**Safe by Design Autonomous Driving Systems**|Marius Bozga et.al.|[2405.11995](http://arxiv.org/pdf/2405.11995.pdf)|null|
@@ -8140,6 +8176,8 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-21**|**Towards Using Fast Embedded Model Predictive Control for Human-Aware Predictive Robot Navigation**|Till Hielscher et.al.|[2405.12616](http://arxiv.org/pdf/2405.12616.pdf)|null|
+|**2024-05-21**|**MOSS: A Large-scale Open Microscopic Traffic Simulation System**|Jun Zhang et.al.|[2405.12520](http://arxiv.org/pdf/2405.12520.pdf)|null|
 |**2024-05-20**|**Design, Control, and Motion-Planning for a Root-Perching Rotor-Distributed Manipulator**|Takuzumi Nishio et.al.|[2405.12125](http://arxiv.org/pdf/2405.12125.pdf)|null|
 |**2024-05-20**|**CDM-MPC: An Integrated Dynamic Planning and Control Framework for Bipedal Robots Jumping**|Zhicheng He et.al.|[2405.11773](http://arxiv.org/pdf/2405.11773.pdf)|null|
 |**2024-05-20**|**AI Algorithm for Predicting and Optimizing Trajectory of UAV Swarm**|Amit Raj et.al.|[2405.11722](http://arxiv.org/pdf/2405.11722.pdf)|null|
