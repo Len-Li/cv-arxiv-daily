@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.05.23
+Updated on 2024.05.24
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -71,7 +71,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-20**|**Stereo-Knowledge Distillation from dpMV to Dual Pixels for Light Field Video Reconstruction**|Aryan Garg et.al.|[2405.11823](http://arxiv.org/pdf/2405.11823.pdf)|null|
 |**2024-05-20**|**Can we improve the energy efficiency of EUV lithography?**|Tsumoru Shintake et.al.|[2405.11717](http://arxiv.org/pdf/2405.11717.pdf)|null|
 |**2024-05-19**|**FADet: A Multi-sensor 3D Object Detection Network based on Local Featured Attention**|Ziang Guo et.al.|[2405.11682](http://arxiv.org/pdf/2405.11682.pdf)|**[link](https://github.com/ziongo6/fadet)**|
-|**2024-05-19**|**Microstructure and Stress Mapping in 3D at Industrially Relevant Degrees of Plastic Deformation**|Axel Henningsson et.al.|[2405.11644](http://arxiv.org/pdf/2405.11644.pdf)|null|
+|**2024-05-21**|**Microstructure and Stress Mapping in 3D at Industrially Relevant Degrees of Plastic Deformation**|Axel Henningsson et.al.|[2405.11644](http://arxiv.org/pdf/2405.11644.pdf)|null|
 |**2024-05-19**|**Era3D: High-Resolution Multiview Diffusion using Efficient Row-wise Attention**|Peng Li et.al.|[2405.11616](http://arxiv.org/pdf/2405.11616.pdf)|null|
 |**2024-05-19**|**RobMOT: Robust 3D Multi-Object Tracking by Observational Noise and State Estimation Drift Mitigation on LiDAR PointCloud**|Mohamed Nagy et.al.|[2405.11536](http://arxiv.org/pdf/2405.11536.pdf)|null|
 |**2024-05-19**|**Point Cloud Compression with Implicit Neural Representations: A Unified Framework**|Hongning Ruan et.al.|[2405.11493](http://arxiv.org/pdf/2405.11493.pdf)|null|
@@ -231,7 +231,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-14**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461](http://arxiv.org/pdf/2405.06461.pdf)|null|
 |**2024-05-10**|**I3DGS: Improve 3D Gaussian Splatting from Multiple Dimensions**|Jinwei Lin et.al.|[2405.06408](http://arxiv.org/pdf/2405.06408.pdf)|null|
 |**2024-05-10**|**Transmission of a Pressure Signal through a Confined Bubble Array**|Edgar Ortega-Roano et.al.|[2405.06406](http://arxiv.org/pdf/2405.06406.pdf)|null|
-|**2024-05-10**|**M3DIS - A grid of 3D radiation-hydrodynamics stellar atmosphere models for stellar surveys**|Philipp Eitner et.al.|[2405.06338](http://arxiv.org/pdf/2405.06338.pdf)|null|
+|**2024-05-22**|**M3DIS -- A grid of 3D radiation-hydrodynamics stellar atmosphere models for stellar surveys**|Philipp Eitner et.al.|[2405.06338](http://arxiv.org/pdf/2405.06338.pdf)|null|
 |**2024-05-10**|**Automated Cell Structure Extraction for 3D Electron Microscopy by Deep Learning**|Jin Kousaka et.al.|[2405.06303](http://arxiv.org/pdf/2405.06303.pdf)|null|
 |**2024-05-10**|**Benchmarking Classical and Learning-Based Multibeam Point Cloud Registration**|Li Ling et.al.|[2405.06279](http://arxiv.org/pdf/2405.06279.pdf)|**[link](https://github.com/luxiya01/mbes-registration-data)**|
 |**2024-05-10**|**Comparative Analysis of Advanced Feature Matching Algorithms in Challenging High Spatial Resolution Optical Satellite Stereo Scenarios**|Qiyan Luo et.al.|[2405.06246](http://arxiv.org/pdf/2405.06246.pdf)|null|
@@ -5970,7 +5970,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-30**|**SemanticFormer: Holistic and Semantic Traffic Scene Representation for Trajectory Prediction using Knowledge Graphs**|Zhigang Sun et.al.|[2404.19379](http://arxiv.org/pdf/2404.19379.pdf)|null|
 |**2024-04-30**|**G2LTraj: A Global-to-Local Generation Approach for Trajectory Prediction**|Zhanwei Zhang et.al.|[2404.19330](http://arxiv.org/pdf/2404.19330.pdf)|**[link](https://github.com/zhanwei-z/g2ltraj)**|
 |**2024-05-05**|**Multimodal Fusion on Low-quality Data: A Comprehensive Survey**|Qingyang Zhang et.al.|[2404.18947](http://arxiv.org/pdf/2404.18947.pdf)|null|
-|**2024-04-29**|**PlanNetX: Learning an Efficient Neural Network Planner from MPC for Longitudinal Control**|Jasper Hoffmann et.al.|[2404.18863](http://arxiv.org/pdf/2404.18863.pdf)|null|
+|**2024-05-22**|**PlanNetX: Learning an Efficient Neural Network Planner from MPC for Longitudinal Control**|Jasper Hoffmann et.al.|[2404.18863](http://arxiv.org/pdf/2404.18863.pdf)|null|
 |**2024-04-29**|**Safe Reach Set Computation via Neural Barrier Certificates**|Alessandro Abate et.al.|[2404.18813](http://arxiv.org/pdf/2404.18813.pdf)|null|
 |**2024-04-29**|**Uncertainty-boosted Robust Video Activity Anticipation**|Zhaobo Qi et.al.|[2404.18648](http://arxiv.org/pdf/2404.18648.pdf)|**[link](https://github.com/qzhb/ubrv2a)**|
 |**2024-04-29**|**Assessing Quality Metrics for Neural Reality Gap Input Mitigation in Autonomous Driving Testing**|Stefano Carlo Lambertenghi et.al.|[2404.18577](http://arxiv.org/pdf/2404.18577.pdf)|**[link](https://github.com/ast-fortiss-tum/i2i-quality-metrics-study)**|
@@ -6081,7 +6081,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-07**|**Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs**|Yiqun Duan et.al.|[2404.04869](http://arxiv.org/pdf/2404.04869.pdf)|null|
 |**2024-04-07**|**Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving**|Jinlong Li et.al.|[2404.04804](http://arxiv.org/pdf/2404.04804.pdf)|null|
 |**2024-05-06**|**HawkDrive: A Transformer-driven Visual Perception System for Autonomous Driving in Night Scene**|Ziang Guo et.al.|[2404.04653](http://arxiv.org/pdf/2404.04653.pdf)|null|
-|**2024-04-09**|**Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction**|Jingyi Pan et.al.|[2404.04561](http://arxiv.org/pdf/2404.04561.pdf)|null|
+|**2024-05-22**|**Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction**|Jingyi Pan et.al.|[2404.04561](http://arxiv.org/pdf/2404.04561.pdf)|null|
 |**2024-04-06**|**Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**|Han Lei et.al.|[2404.04492](http://arxiv.org/pdf/2404.04492.pdf)|null|
 |**2024-04-05**|**Physical Property Understanding from Language-Embedded Feature Fields**|Albert J. Zhai et.al.|[2404.04242](http://arxiv.org/pdf/2404.04242.pdf)|null|
 |**2024-04-05**|**Exploring Probabilistic Models for Semi-supervised Learning**|Jianfeng Wang et.al.|[2404.04199](http://arxiv.org/pdf/2404.04199.pdf)|null|
@@ -6981,7 +6981,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-29**|**Simple-RF: Regularizing Sparse Input Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2404.19015](http://arxiv.org/pdf/2404.19015.pdf)|null|
 |**2024-05-05**|**Multimodal Fusion on Low-quality Data: A Comprehensive Survey**|Qingyang Zhang et.al.|[2404.18947](http://arxiv.org/pdf/2404.18947.pdf)|null|
 |**2024-04-29**|**DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing**|Minghao Chen et.al.|[2404.18929](http://arxiv.org/pdf/2404.18929.pdf)|null|
-|**2024-04-29**|**PlanNetX: Learning an Efficient Neural Network Planner from MPC for Longitudinal Control**|Jasper Hoffmann et.al.|[2404.18863](http://arxiv.org/pdf/2404.18863.pdf)|null|
+|**2024-05-22**|**PlanNetX: Learning an Efficient Neural Network Planner from MPC for Longitudinal Control**|Jasper Hoffmann et.al.|[2404.18863](http://arxiv.org/pdf/2404.18863.pdf)|null|
 |**2024-04-29**|**Safe Reach Set Computation via Neural Barrier Certificates**|Alessandro Abate et.al.|[2404.18813](http://arxiv.org/pdf/2404.18813.pdf)|null|
 |**2024-04-29**|**Uncertainty-boosted Robust Video Activity Anticipation**|Zhaobo Qi et.al.|[2404.18648](http://arxiv.org/pdf/2404.18648.pdf)|**[link](https://github.com/qzhb/ubrv2a)**|
 |**2024-04-29**|**Assessing Quality Metrics for Neural Reality Gap Input Mitigation in Autonomous Driving Testing**|Stefano Carlo Lambertenghi et.al.|[2404.18577](http://arxiv.org/pdf/2404.18577.pdf)|**[link](https://github.com/ast-fortiss-tum/i2i-quality-metrics-study)**|
@@ -7128,7 +7128,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-07**|**Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs**|Yiqun Duan et.al.|[2404.04869](http://arxiv.org/pdf/2404.04869.pdf)|null|
 |**2024-04-07**|**Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving**|Jinlong Li et.al.|[2404.04804](http://arxiv.org/pdf/2404.04804.pdf)|null|
 |**2024-05-06**|**HawkDrive: A Transformer-driven Visual Perception System for Autonomous Driving in Night Scene**|Ziang Guo et.al.|[2404.04653](http://arxiv.org/pdf/2404.04653.pdf)|null|
-|**2024-04-09**|**Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction**|Jingyi Pan et.al.|[2404.04561](http://arxiv.org/pdf/2404.04561.pdf)|null|
+|**2024-05-22**|**Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction**|Jingyi Pan et.al.|[2404.04561](http://arxiv.org/pdf/2404.04561.pdf)|null|
 |**2024-04-06**|**DATENeRF: Depth-Aware Text-based Editing of NeRFs**|Sara Rojas et.al.|[2404.04526](http://arxiv.org/pdf/2404.04526.pdf)|null|
 |**2024-04-06**|**Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**|Han Lei et.al.|[2404.04492](http://arxiv.org/pdf/2404.04492.pdf)|null|
 |**2024-04-05**|**Exploring Probabilistic Models for Semi-supervised Learning**|Jianfeng Wang et.al.|[2404.04199](http://arxiv.org/pdf/2404.04199.pdf)|null|
@@ -8178,7 +8178,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-18**|**Neural Randomized Planning for Whole Body Robot Motion**|Yunfan Lu et.al.|[2405.11317](http://arxiv.org/pdf/2405.11317.pdf)|null|
 |**2024-05-18**|**RuleFuser: Injecting Rules in Evidential Networks for Robust Out-of-Distribution Trajectory Prediction**|Jay Patrikar et.al.|[2405.11139](http://arxiv.org/pdf/2405.11139.pdf)|null|
 |**2024-05-17**|**Model Predictive Contouring Control for Vehicle Obstacle Avoidance at the Limit of Handling Using Torque Vectoring**|Alberto Bertipaglia et.al.|[2405.10847](http://arxiv.org/pdf/2405.10847.pdf)|null|
-|**2024-05-17**|**Fast Collision Probability Estimation for Automated Driving using Multi-circular Shape Approximations**|Leon Tolksdorf et.al.|[2405.10765](http://arxiv.org/pdf/2405.10765.pdf)|null|
+|**2024-05-22**|**Fast Collision Probability Estimation for Automated Driving using Multi-circular Shape Approximations**|Leon Tolksdorf et.al.|[2405.10765](http://arxiv.org/pdf/2405.10765.pdf)|null|
 |**2024-05-17**|**You Can't Solve These Super Mario Bros. Levels: Undecidable Mario Games**|MIT Hardness Group et.al.|[2405.10546](http://arxiv.org/pdf/2405.10546.pdf)|null|
 |**2024-05-16**|**RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods**|Xin Qiao et.al.|[2405.10357](http://arxiv.org/pdf/2405.10357.pdf)|null|
 |**2024-05-16**|**Towards Consistent and Explainable Motion Prediction using Heterogeneous Graph Attention**|Tobias Demmler et.al.|[2405.10134](http://arxiv.org/pdf/2405.10134.pdf)|null|
