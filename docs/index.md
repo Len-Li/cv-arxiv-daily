@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.06.03
+Updated on 2024.06.04
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -294,7 +294,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-30**|**An Empirical Study of Training State-of-the-Art LiDAR Segmentation Models**|Jiahao Sun et.al.|[2405.14870](http://arxiv.org/pdf/2405.14870.pdf)|**[link](https://github.com/open-mmlab/mmdetection3d)**|
 |**2024-05-23**|**PuzzleAvatar: Assembling 3D Avatars from Personal Albums**|Yuliang Xiu et.al.|[2405.14869](http://arxiv.org/pdf/2405.14869.pdf)|null|
 |**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868](http://arxiv.org/pdf/2405.14868.pdf)|null|
-|**2024-05-23**|**Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer**|Shuang Wu et.al.|[2405.14832](http://arxiv.org/pdf/2405.14832.pdf)|null|
+|**2024-06-01**|**Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer**|Shuang Wu et.al.|[2405.14832](http://arxiv.org/pdf/2405.14832.pdf)|null|
 |**2024-05-23**|**Evaluating Vulnerability of Chiplet-Based Systems to Contactless Probing Techniques**|Aleksa Deric et.al.|[2405.14821](http://arxiv.org/pdf/2405.14821.pdf)|null|
 |**2024-05-23**|**Interacting phase diagram of twisted bilayer MoTe $_2$ in magnetic field**|Minxuan Wang et.al.|[2405.14811](http://arxiv.org/pdf/2405.14811.pdf)|null|
 |**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802](http://arxiv.org/pdf/2405.14802.pdf)|**[link](https://github.com/mirthai/fast-ddpm)**|
@@ -309,7 +309,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-23**|**Ghost-Stereo: GhostNet-based Cost Volume Enhancement and Aggregation for Stereo Matching Networks**|Xingguang Jiang et.al.|[2405.14520](http://arxiv.org/pdf/2405.14520.pdf)|null|
 |**2024-05-23**|**A Brisk Estimator for the Angular Multipoles (BEAM) of the redshift space bispectrum**|Sukhdeep Singh Gill et.al.|[2405.14513](http://arxiv.org/pdf/2405.14513.pdf)|null|
 |**2024-05-23**|**MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes**|Ruiyuan Gao et.al.|[2405.14475](http://arxiv.org/pdf/2405.14475.pdf)|null|
-|**2024-05-23**|**TIGER: Text-Instructed 3D Gaussian Retrieval and Coherent Editing**|Teng Xu et.al.|[2405.14455](http://arxiv.org/pdf/2405.14455.pdf)|null|
+|**2024-06-01**|**TIGER: Text-Instructed 3D Gaussian Retrieval and Coherent Editing**|Teng Xu et.al.|[2405.14455](http://arxiv.org/pdf/2405.14455.pdf)|null|
 |**2024-05-24**|**RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting**|Zhiheng Feng et.al.|[2405.14342](http://arxiv.org/pdf/2405.14342.pdf)|null|
 |**2024-05-23**|**MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models**|Jiuming Liu et.al.|[2405.14338](http://arxiv.org/pdf/2405.14338.pdf)|null|
 |**2024-05-24**|**Autoregressive Image Diffusion: Generation of Image Sequence and Application in MRI**|Guanxiong Luo et.al.|[2405.14327](http://arxiv.org/pdf/2405.14327.pdf)|null|
