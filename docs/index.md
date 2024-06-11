@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.06.10
+Updated on 2024.06.11
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -37,7 +37,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-07**|**UCDNet: Multi-UAV Collaborative 3D Object Detection Network by Reliable Feature Mapping**|Pengju Tian et.al.|[2406.04648](http://arxiv.org/pdf/2406.04648.pdf)|null|
 |**2024-06-07**|**UVCPNet: A UAV-Vehicle Collaborative Perception Network for 3D Object Detection**|Yuchao Wang et.al.|[2406.04647](http://arxiv.org/pdf/2406.04647.pdf)|null|
 |**2024-06-07**|**Preparation of high precision aspherical lenses based on micro stereolithography technology**|Xiaoying Lu et.al.|[2406.04641](http://arxiv.org/pdf/2406.04641.pdf)|null|
-|**2024-06-07**|**STAR: Skeleton-aware Text-based 4D Avatar Generation with In-Network Motion Retargeting**|Zenghao Chai et.al.|[2406.04629](http://arxiv.org/pdf/2406.04629.pdf)|null|
+|**2024-06-07**|**STAR: Skeleton-aware Text-based 4D Avatar Generation with In-Network Motion Retargeting**|Zenghao Chai et.al.|[2406.04629](http://arxiv.org/pdf/2406.04629.pdf)|**[link](https://github.com/czh-98/STAR)**|
 |**2024-06-06**|**The Onset of Magnetic Reconnection in Dynamically Evolving Current Sheets**|James Leake et.al.|[2406.04486](http://arxiv.org/pdf/2406.04486.pdf)|null|
 |**2024-06-06**|**Efficient 3D-Aware Facial Image Editing via Attribute-Specific Prompt Learning**|Amandeep Kumar et.al.|[2406.04413](http://arxiv.org/pdf/2406.04413.pdf)|**[link](https://github.com/virobo-15/efficient-3d-aware-facial-image-editing)**|
 |**2024-05-31**|**Physics-enhanced Neural Operator for Simulating Turbulent Transport**|Shengyu Chen et.al.|[2406.04367](http://arxiv.org/pdf/2406.04367.pdf)|null|
@@ -164,7 +164,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-04**|**LanEvil: Benchmarking the Robustness of Lane Detection to Environmental Illusions**|Tianyuan Zhang et.al.|[2406.00934](http://arxiv.org/pdf/2406.00934.pdf)|null|
 |**2024-06-02**|**Using 3-D LiDAR Data for Safe Physical Human-Robot Interaction**|Sarthak Arora et.al.|[2406.00869](http://arxiv.org/pdf/2406.00869.pdf)|null|
 |**2024-06-02**|**Collaborative Novel Object Discovery and Box-Guided Cross-Modal Alignment for Open-Vocabulary 3D Object Detection**|Yang Cao et.al.|[2406.00830](http://arxiv.org/pdf/2406.00830.pdf)|**[link](https://github.com/yangcaoai/CoDA_NeurIPS2023)**|
-|**2024-06-02**|**Covariance-Adaptive Sequential Black-box Optimization for Diffusion Targeted Generation**|Yueming Lyu et.al.|[2406.00812](http://arxiv.org/pdf/2406.00812.pdf)|null|
+|**2024-06-08**|**Covariance-Adaptive Sequential Black-box Optimization for Diffusion Targeted Generation**|Yueming Lyu et.al.|[2406.00812](http://arxiv.org/pdf/2406.00812.pdf)|null|
 |**2024-06-02**|**Volume density maps of the 862nm DIB carrier and interstellar dust: a hint for the role of carbon-rich ejecta from AGB stars?**|N. L. J. Cox et.al.|[2406.00807](http://arxiv.org/pdf/2406.00807.pdf)|null|
 |**2024-06-02**|**PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency**|Yeonsung Jung et.al.|[2406.00798](http://arxiv.org/pdf/2406.00798.pdf)|null|
 |**2024-06-02**|**Hybrid Photoelectron Momentum Microscope at the Soft X-ray Beamline I09 of the Diamond Light Source**|Matthias Schmitt et.al.|[2406.00771](http://arxiv.org/pdf/2406.00771.pdf)|null|
@@ -5592,7 +5592,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-23**|**NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections**|Dor Verbin et.al.|[2405.14871](http://arxiv.org/pdf/2405.14871.pdf)|null|
 |**2024-05-23**|**Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling**|Liwen Wu et.al.|[2405.14847](http://arxiv.org/pdf/2405.14847.pdf)|null|
 |**2024-05-23**|**Camera Relocalization in Shadow-free Neural Radiance Fields**|Shiyao Xu et.al.|[2405.14824](http://arxiv.org/pdf/2405.14824.pdf)|**[link](https://github.com/hnrna/shadowfreenerf-camerareloc)**|
-|**2024-05-23**|**JointRF: End-to-End Joint Optimization for Dynamic Neural Radiance Field Representation and Compression**|Zihan Zheng et.al.|[2405.14452](http://arxiv.org/pdf/2405.14452.pdf)|null|
+|**2024-06-08**|**JointRF: End-to-End Joint Optimization for Dynamic Neural Radiance Field Representation and Compression**|Zihan Zheng et.al.|[2405.14452](http://arxiv.org/pdf/2405.14452.pdf)|null|
 |**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728](http://arxiv.org/pdf/2405.12728.pdf)|null|
 |**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155](http://arxiv.org/pdf/2405.12155.pdf)|null|
 |**2024-05-19**|**R-NeRF: Neural Radiance Fields for Modeling RIS-enabled Wireless Environments**|Huiying Yang et.al.|[2405.11541](http://arxiv.org/pdf/2405.11541.pdf)|null|
@@ -6530,7 +6530,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-21**|**Transparency Distortion Robustness for SOTA Image Segmentation Tasks**|Volker Knauthe et.al.|[2405.12864](http://arxiv.org/pdf/2405.12864.pdf)|null|
 |**2024-05-21**|**CLRKDNet: Speeding up Lane Detection with Knowledge Distillation**|Weiqing Qi et.al.|[2405.12503](http://arxiv.org/pdf/2405.12503.pdf)|**[link](https://github.com/weiqingq/CLRKDNet)**|
 |**2024-05-21**|**Mutual Information Analysis in Multimodal Learning Systems**|Hadi Hadizadeh et.al.|[2405.12456](http://arxiv.org/pdf/2405.12456.pdf)|null|
-|**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120](http://arxiv.org/pdf/2405.12120.pdf)|null|
+|**2024-06-08**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120](http://arxiv.org/pdf/2405.12120.pdf)|null|
 |**2024-05-20**|**Safe by Design Autonomous Driving Systems**|Marius Bozga et.al.|[2405.11995](http://arxiv.org/pdf/2405.11995.pdf)|null|
 |**2024-05-20**|**Tutorial on Silicon Photonics Integrated Platform Fiber Edge Coupling**|Sergey S. Avdeev et.al.|[2405.11980](http://arxiv.org/pdf/2405.11980.pdf)|null|
 |**2024-05-20**|**A comprehensive overview of deep learning techniques for 3D point cloud classification and semantic segmentation**|Sushmita Sarker et.al.|[2405.11903](http://arxiv.org/pdf/2405.11903.pdf)|null|
@@ -7630,7 +7630,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-23**|**TopoLogic: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes**|Yanping Fu et.al.|[2405.14747](http://arxiv.org/pdf/2405.14747.pdf)|null|
 |**2024-05-23**|**SE3D: A Framework For Saliency Method Evaluation In 3D Imaging**|Mariusz Wiśniewski et.al.|[2405.14584](http://arxiv.org/pdf/2405.14584.pdf)|**[link](https://github.com/nexer8/se3d)**|
 |**2024-05-23**|**MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes**|Ruiyuan Gao et.al.|[2405.14475](http://arxiv.org/pdf/2405.14475.pdf)|null|
-|**2024-05-23**|**JointRF: End-to-End Joint Optimization for Dynamic Neural Radiance Field Representation and Compression**|Zihan Zheng et.al.|[2405.14452](http://arxiv.org/pdf/2405.14452.pdf)|null|
+|**2024-06-08**|**JointRF: End-to-End Joint Optimization for Dynamic Neural Radiance Field Representation and Compression**|Zihan Zheng et.al.|[2405.14452](http://arxiv.org/pdf/2405.14452.pdf)|null|
 |**2024-05-24**|**RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting**|Zhiheng Feng et.al.|[2405.14342](http://arxiv.org/pdf/2405.14342.pdf)|null|
 |**2024-05-23**|**NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation**|Chaokang Jiang et.al.|[2405.14241](http://arxiv.org/pdf/2405.14241.pdf)|**[link](https://github.com/jiangchaokang/neurogauss4d-pci)**|
 |**2024-05-23**|**Eidos: Efficient, Imperceptible Adversarial 3D Point Clouds**|Hanwei Zhang et.al.|[2405.14210](http://arxiv.org/pdf/2405.14210.pdf)|null|
@@ -7650,7 +7650,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-21**|**CLRKDNet: Speeding up Lane Detection with Knowledge Distillation**|Weiqing Qi et.al.|[2405.12503](http://arxiv.org/pdf/2405.12503.pdf)|**[link](https://github.com/weiqingq/CLRKDNet)**|
 |**2024-05-21**|**Mutual Information Analysis in Multimodal Learning Systems**|Hadi Hadizadeh et.al.|[2405.12456](http://arxiv.org/pdf/2405.12456.pdf)|null|
 |**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155](http://arxiv.org/pdf/2405.12155.pdf)|null|
-|**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120](http://arxiv.org/pdf/2405.12120.pdf)|null|
+|**2024-06-08**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120](http://arxiv.org/pdf/2405.12120.pdf)|null|
 |**2024-05-20**|**Safe by Design Autonomous Driving Systems**|Marius Bozga et.al.|[2405.11995](http://arxiv.org/pdf/2405.11995.pdf)|null|
 |**2024-05-20**|**Tutorial on Silicon Photonics Integrated Platform Fiber Edge Coupling**|Sergey S. Avdeev et.al.|[2405.11980](http://arxiv.org/pdf/2405.11980.pdf)|null|
 |**2024-05-20**|**A comprehensive overview of deep learning techniques for 3D point cloud classification and semantic segmentation**|Sushmita Sarker et.al.|[2405.11903](http://arxiv.org/pdf/2405.11903.pdf)|null|
