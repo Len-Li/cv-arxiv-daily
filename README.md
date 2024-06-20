@@ -144,7 +144,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-14**|**An Intrinsic Vector Heat Network**|Alexander Gao et.al.|[2406.09648](http://arxiv.org/pdf/2406.09648.pdf)|null|
 |**2024-06-14**|**Phase-resolving the absorption signatures of water and carbon monoxide in the atmosphere of the ultra-hot Jupiter WASP-121b with GEMINI-S/IGRINS**|Joost P. Wardenier et.al.|[2406.09641](http://arxiv.org/pdf/2406.09641.pdf)|null|
 |**2024-06-13**|**Complex Symplectic Contractions and 3d Mirrors**|Andrew Dancer et.al.|[2406.09626](http://arxiv.org/pdf/2406.09626.pdf)|null|
-|**2024-06-13**|**DrivAerNet++: A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks**|Mohamed Elrefaie et.al.|[2406.09624](http://arxiv.org/pdf/2406.09624.pdf)|null|
+|**2024-06-13**|**DrivAerNet++: A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks**|Mohamed Elrefaie et.al.|[2406.09624](http://arxiv.org/pdf/2406.09624.pdf)|**[link](https://github.com/mohamedelrefaie/drivaernet)**|
 |**2024-06-13**|**Shape optimization for maximizing ionic concentration constrained by steady-state Poisson-Nernst-Planck system**|Jiajie Li et.al.|[2406.09616](http://arxiv.org/pdf/2406.09616.pdf)|null|
 |**2024-06-13**|**ImageNet3D: Towards General-Purpose Object-Level 3D Understanding**|Wufei Ma et.al.|[2406.09613](http://arxiv.org/pdf/2406.09613.pdf)|**[link](https://github.com/wufeim/imagenet3d)**|
 |**2024-06-13**|**Introducing HOT3D: An Egocentric Dataset for 3D Hand and Object Tracking**|Prithviraj Banerjee et.al.|[2406.09598](http://arxiv.org/pdf/2406.09598.pdf)|null|
@@ -10215,7 +10215,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-23**|**Video Diffusion Models are Training-free Motion Interpreter and Controller**|Zeqi Xiao et.al.|[2405.14864](http://arxiv.org/pdf/2405.14864.pdf)|null|
 |**2024-05-22**|**MotionCraft: Physics-based Zero-Shot Video Generation**|Luca Savant Aira et.al.|[2405.13557](http://arxiv.org/pdf/2405.13557.pdf)|null|
 |**2024-05-22**|**Enhanced Creativity and Ideation through Stable Video Synthesis**|Elijah Miller et.al.|[2405.13357](http://arxiv.org/pdf/2405.13357.pdf)|null|
-|**2024-05-06**|**Video Diffusion Models: A Survey**|Andrew Melnik et.al.|[2405.03150](http://arxiv.org/pdf/2405.03150.pdf)|null|
+|**2024-05-06**|**Video Diffusion Models: A Survey**|Andrew Melnik et.al.|[2405.03150](http://arxiv.org/pdf/2405.03150.pdf)|**[link](https://github.com/ndrwmlnk/awesome-video-diffusion-models)**|
 |**2024-04-30**|**Semantically Consistent Video Inpainting with Conditional Diffusion Models**|Dylan Green et.al.|[2405.00251](http://arxiv.org/pdf/2405.00251.pdf)|null|
 |**2024-04-25**|**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models**|Haomiao Ni et.al.|[2404.16306](http://arxiv.org/pdf/2404.16306.pdf)|**[link](https://github.com/merlresearch/TI2V-Zero)**|
 |**2024-06-02**|**X-Ray: A Sequential 3D Representation For Generation**|Tao Hu et.al.|[2404.14329](http://arxiv.org/pdf/2404.14329.pdf)|**[link](https://github.com/tau-yihouxiang/X-Ray)**|
