@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.06.23
+Updated on 2024.06.24
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -133,7 +133,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-17**|**Privacy-preserving Pseudonym Schemes for Personalized 3D Avatars in Mobile Social Metaverses**|Cheng Su et.al.|[2406.11208](http://arxiv.org/pdf/2406.11208.pdf)|null|
 |**2024-06-17**|**Consistency^2: Consistent and Fast 3D Painting with Latent Consistency Models**|Tianfu Wang et.al.|[2406.11202](http://arxiv.org/pdf/2406.11202.pdf)|**[link](https://github.com/kongdai123/consistency2)**|
 |**2024-06-17**|**Vid3D: Synthesis of Dynamic 3D Scenes using 2D Video Diffusion**|Rishab Parthasarathy et.al.|[2406.11196](http://arxiv.org/pdf/2406.11196.pdf)|**[link](https://github.com/rishab-partha/Vid3D)**|
-|**2024-06-16**|**$α$ -SSC: Uncertainty-Aware Camera-based 3D Semantic Scene Completion**|Sanbao Su et.al.|[2406.11021](http://arxiv.org/pdf/2406.11021.pdf)|null|
+|**2024-06-21**|**$α$ -SSC: Uncertainty-Aware Camera-based 3D Semantic Scene Completion**|Sanbao Su et.al.|[2406.11021](http://arxiv.org/pdf/2406.11021.pdf)|null|
 |**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019](http://arxiv.org/pdf/2406.11019.pdf)|null|
 |**2024-06-16**|**SPEAR: Receiver-to-Receiver Acoustic Neural Warping Field**|Yuhang He et.al.|[2406.11006](http://arxiv.org/pdf/2406.11006.pdf)|**[link](https://github.com/xu-shitong/spear)**|
 |**2024-06-16**|**3D Gaze Tracking for Studying Collaborative Interactions in Mixed-Reality Environments**|Eduardo Davalos et.al.|[2406.11003](http://arxiv.org/pdf/2406.11003.pdf)|null|
@@ -6804,7 +6804,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-20**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/pdf/2406.14556.pdf)|null|
+|**2024-06-21**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/pdf/2406.14556.pdf)|null|
 |**2024-06-20**|**FutureNet-LOF: Joint Trajectory Prediction and Lane Occupancy Field Prediction with Future Context Encoding**|Mingkun Wang et.al.|[2406.14422](http://arxiv.org/pdf/2406.14422.pdf)|null|
 |**2024-06-20**|**PoseBench: Benchmarking the Robustness of Pose Estimation Models under Corruptions**|Sihan Ma et.al.|[2406.14367](http://arxiv.org/pdf/2406.14367.pdf)|null|
 |**2024-06-20**|**Uncertainty and Self-Supervision in Single-View Depth**|Javier Rodriguez-Puigvert et.al.|[2406.14226](http://arxiv.org/pdf/2406.14226.pdf)|null|
@@ -6824,7 +6824,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-17**|**A First Physical-World Trajectory Prediction Attack via LiDAR-induced Deceptions in Autonomous Driving**|Yang Lou et.al.|[2406.11707](http://arxiv.org/pdf/2406.11707.pdf)|null|
 |**2024-06-17**|**Communication-Efficient MARL for Platoon Stability and Energy-efficiency Co-optimization in Cooperative Adaptive Cruise Control of CAVs**|Min Hua et.al.|[2406.11653](http://arxiv.org/pdf/2406.11653.pdf)|null|
 |**2024-06-14**|**Galibr: Targetless LiDAR-Camera Extrinsic Calibration Method via Ground Plane Initialization**|Wonho Song et.al.|[2406.11599](http://arxiv.org/pdf/2406.11599.pdf)|null|
-|**2024-06-17**|**Constrained Reinforcement Learning with Average Reward Objective: Model-Based and Model-Free Algorithms**|Vaneet Aggarwal et.al.|[2406.11481](http://arxiv.org/pdf/2406.11481.pdf)|null|
+|**2024-06-21**|**Constrained Reinforcement Learning with Average Reward Objective: Model-Based and Model-Free Algorithms**|Vaneet Aggarwal et.al.|[2406.11481](http://arxiv.org/pdf/2406.11481.pdf)|null|
 |**2024-06-17**|**Semi-Supervised Domain Adaptation Using Target-Oriented Domain Augmentation for 3D Object Detection**|Yecheol Kim et.al.|[2406.11313](http://arxiv.org/pdf/2406.11313.pdf)|**[link](https://github.com/rasd3/toda)**|
 |**2024-06-17**|**Model Adaptation for Time Constrained Embodied Control**|Jaehyun Song et.al.|[2406.11128](http://arxiv.org/pdf/2406.11128.pdf)|null|
 |**2024-06-16**|**SparseDet: A Simple and Effective Framework for Fully Sparse LiDAR-based 3D Object Detection**|Lin Liu et.al.|[2406.10907](http://arxiv.org/pdf/2406.10907.pdf)|null|
@@ -7968,7 +7968,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-20**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/pdf/2406.14556.pdf)|null|
+|**2024-06-21**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/pdf/2406.14556.pdf)|null|
 |**2024-06-20**|**FutureNet-LOF: Joint Trajectory Prediction and Lane Occupancy Field Prediction with Future Context Encoding**|Mingkun Wang et.al.|[2406.14422](http://arxiv.org/pdf/2406.14422.pdf)|null|
 |**2024-06-20**|**PoseBench: Benchmarking the Robustness of Pose Estimation Models under Corruptions**|Sihan Ma et.al.|[2406.14367](http://arxiv.org/pdf/2406.14367.pdf)|null|
 |**2024-06-20**|**Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment**|Yunshan Qi et.al.|[2406.14360](http://arxiv.org/pdf/2406.14360.pdf)|null|
@@ -7994,7 +7994,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-17**|**A First Physical-World Trajectory Prediction Attack via LiDAR-induced Deceptions in Autonomous Driving**|Yang Lou et.al.|[2406.11707](http://arxiv.org/pdf/2406.11707.pdf)|null|
 |**2024-06-17**|**Communication-Efficient MARL for Platoon Stability and Energy-efficiency Co-optimization in Cooperative Adaptive Cruise Control of CAVs**|Min Hua et.al.|[2406.11653](http://arxiv.org/pdf/2406.11653.pdf)|null|
 |**2024-06-14**|**Galibr: Targetless LiDAR-Camera Extrinsic Calibration Method via Ground Plane Initialization**|Wonho Song et.al.|[2406.11599](http://arxiv.org/pdf/2406.11599.pdf)|null|
-|**2024-06-17**|**Constrained Reinforcement Learning with Average Reward Objective: Model-Based and Model-Free Algorithms**|Vaneet Aggarwal et.al.|[2406.11481](http://arxiv.org/pdf/2406.11481.pdf)|null|
+|**2024-06-21**|**Constrained Reinforcement Learning with Average Reward Objective: Model-Based and Model-Free Algorithms**|Vaneet Aggarwal et.al.|[2406.11481](http://arxiv.org/pdf/2406.11481.pdf)|null|
 |**2024-06-17**|**Semi-Supervised Domain Adaptation Using Target-Oriented Domain Augmentation for 3D Object Detection**|Yecheol Kim et.al.|[2406.11313](http://arxiv.org/pdf/2406.11313.pdf)|**[link](https://github.com/rasd3/toda)**|
 |**2024-06-17**|**Model Adaptation for Time Constrained Embodied Control**|Jaehyun Song et.al.|[2406.11128](http://arxiv.org/pdf/2406.11128.pdf)|null|
 |**2024-06-16**|**Learning Relighting and Intrinsic Decomposition in Neural Radiance Fields**|Yixiong Yang et.al.|[2406.11077](http://arxiv.org/pdf/2406.11077.pdf)|null|
@@ -9508,7 +9508,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-20**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/pdf/2406.14556.pdf)|null|
+|**2024-06-21**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/pdf/2406.14556.pdf)|null|
 |**2024-06-20**|**FutureNet-LOF: Joint Trajectory Prediction and Lane Occupancy Field Prediction with Future Context Encoding**|Mingkun Wang et.al.|[2406.14422](http://arxiv.org/pdf/2406.14422.pdf)|null|
 |**2024-06-20**|**A-OctoMap: An Adaptive OctoMap for Online Motion Planning**|Yihui Mao et.al.|[2406.13910](http://arxiv.org/pdf/2406.13910.pdf)|null|
 |**2024-06-19**|**Group-Control Motion Planning Framework for Microrobot Swarms in a Global Field**|Siyu Li et.al.|[2406.13829](http://arxiv.org/pdf/2406.13829.pdf)|null|
@@ -9585,7 +9585,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-25**|**Neural Network-Based Tracking and 3D Reconstruction of Baseball Pitch Trajectories from Single-View 2D Video**|Jhen Hsieh et.al.|[2405.16296](http://arxiv.org/pdf/2405.16296.pdf)|null|
 |**2024-05-25**|**FlightPatchNet: Multi-Scale Patch Network with Differential Coding for Flight Trajectory Prediction**|Lan Wu et.al.|[2405.16200](http://arxiv.org/pdf/2405.16200.pdf)|null|
 |**2024-05-24**|**TD3 Based Collision Free Motion Planning for Robot Navigation**|Hao Liu et.al.|[2405.15460](http://arxiv.org/pdf/2405.15460.pdf)|null|
-|**2024-06-19**|**Dynamic Planning for Sequential Whole-body Mobile Manipulation**|Zhitian Li et.al.|[2405.15377](http://arxiv.org/pdf/2405.15377.pdf)|null|
+|**2024-06-21**|**Dynamic Planning for Sequential Whole-body Mobile Manipulation**|Zhitian Li et.al.|[2405.15377](http://arxiv.org/pdf/2405.15377.pdf)|null|
 |**2024-05-24**|**Off-the-shelf ChatGPT is a Good Few-shot Human Motion Predictor**|Haoxuan Qu et.al.|[2405.15267](http://arxiv.org/pdf/2405.15267.pdf)|null|
 |**2024-05-23**|**Metric Flow Matching for Smooth Interpolations on the Data Manifold**|Kacper Kapusniak et.al.|[2405.14780](http://arxiv.org/pdf/2405.14780.pdf)|null|
 |**2024-05-23**|**Drones Help Drones: A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond**|Zhechao Wang et.al.|[2405.14674](http://arxiv.org/pdf/2405.14674.pdf)|**[link](https://github.com/wangzcbruce/dhd)**|
