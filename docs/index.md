@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.06.25
+Updated on 2024.06.26
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -47,7 +47,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-23**|**Composite Material Design for Optimized Fracture Toughness Using Machine Learning**|Mohammad Naqizadeh Jahromi et.al.|[2406.16166](http://arxiv.org/pdf/2406.16166.pdf)|null|
 |**2024-06-23**|**Flux-Rope Mediated Turbulent Magnetic Reconnection**|Alexander J. B. Russell et.al.|[2406.16149](http://arxiv.org/pdf/2406.16149.pdf)|null|
 |**2024-06-23**|**MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling**|Jian Yang et.al.|[2406.16137](http://arxiv.org/pdf/2406.16137.pdf)|null|
-|**2024-06-23**|**X-ray2CTPA: Generating 3D CTPA scans from 2D X-ray conditioning**|Noa Cahan et.al.|[2406.16109](http://arxiv.org/pdf/2406.16109.pdf)|null|
+|**2024-06-25**|**X-ray2CTPA: Generating 3D CTPA scans from 2D X-ray conditioning**|Noa Cahan et.al.|[2406.16109](http://arxiv.org/pdf/2406.16109.pdf)|null|
 |**2024-06-23**|**LGS: A Light-weight 4D Gaussian Splatting for Efficient Surgical Scene Reconstruction**|Hengyu Liu et.al.|[2406.16073](http://arxiv.org/pdf/2406.16073.pdf)|null|
 |**2024-06-23**|**DV-3DLane: End-to-end Multi-modal 3D Lane Detection with Dual-view Representation**|Yueru Luo et.al.|[2406.16072](http://arxiv.org/pdf/2406.16072.pdf)|**[link](https://github.com/jmoonr/dv-3dlane)**|
 |**2024-06-23**|**Towards Real-Time Neural Volumetric Rendering on Mobile Devices: A Measurement Study**|Zhe Wang et.al.|[2406.16068](http://arxiv.org/pdf/2406.16068.pdf)|null|
@@ -274,7 +274,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-13**|**Introducing HOT3D: An Egocentric Dataset for 3D Hand and Object Tracking**|Prithviraj Banerjee et.al.|[2406.09598](http://arxiv.org/pdf/2406.09598.pdf)|null|
 |**2024-06-13**|**Color Equivariant Network**|Felix O'Mahony et.al.|[2406.09588](http://arxiv.org/pdf/2406.09588.pdf)|null|
 |**2024-06-13**|**The full-sky Spherical Fourier-Bessel power spectrum in general relativity**|Federico Semenzato et.al.|[2406.09545](http://arxiv.org/pdf/2406.09545.pdf)|null|
-|**2024-06-13**|**Rest mass variation in Kaluza-Klein models**|Joao Baptista et.al.|[2406.09503](http://arxiv.org/pdf/2406.09503.pdf)|null|
+|**2024-06-24**|**Test particles in Kaluza-Klein models**|Joao Baptista et.al.|[2406.09503](http://arxiv.org/pdf/2406.09503.pdf)|null|
 |**2024-06-13**|**ELF-UA: Efficient Label-Free User Adaptation in Gaze Estimation**|Yong Wu et.al.|[2406.09481](http://arxiv.org/pdf/2406.09481.pdf)|null|
 |**2024-06-13**|**Stability of monodomain III-V crystals and antiphase boundaries over a Si monoatomic step**|D. Gupta et.al.|[2406.09476](http://arxiv.org/pdf/2406.09476.pdf)|null|
 |**2024-06-13**|**Rethinking Score Distillation as a Bridge Between Image Distributions**|David McAllister et.al.|[2406.09417](http://arxiv.org/pdf/2406.09417.pdf)|null|
