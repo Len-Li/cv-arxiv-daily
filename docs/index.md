@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.06.26
+Updated on 2024.06.27
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -49,7 +49,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-24**|**Reducing the Memory Footprint of 3D Gaussian Splatting**|Panagiotis Papantonakis et.al.|[2406.17074](http://arxiv.org/pdf/2406.17074.pdf)|null|
 |**2024-06-24**|**The Relation Between Variances of a 3D Density and Its 2D Column Density Revisited**|Heesun Yoon et.al.|[2406.17022](http://arxiv.org/pdf/2406.17022.pdf)|null|
 |**2024-06-24**|**Deep Learning for Prediction and Classifying the Dynamical behaviour of Piecewise Smooth Maps**|Vismaya V S et.al.|[2406.17001](http://arxiv.org/pdf/2406.17001.pdf)|null|
-|**2024-06-24**|**Are Vision xLSTM Embedded UNet More Reliable in Medical 3D Image Segmentation?**|Pallabi Dutta et.al.|[2406.16993](http://arxiv.org/pdf/2406.16993.pdf)|**[link](https://github.com/duttapallabi2907/U-VixLSTM)**|
+|**2024-06-24**|**Are Vision xLSTM Embedded UNet More Reliable in Medical 3D Image Segmentation?**|Pallabi Dutta et.al.|[2406.16993](http://arxiv.org/pdf/2406.16993.pdf)|null|
 |**2024-06-23**|**Disruption of the mitochondrial network in a mouse model of Huntington's disease visualized by in tissue multiscale 3D electron microscopy**|Eva Martin Solana et.al.|[2406.16977](http://arxiv.org/pdf/2406.16977.pdf)|null|
 |**2024-06-19**|**The influence of flame-pressure waves collisions on the development and evolution of tulip flames**|Chengeng Qian et.al.|[2406.16950](http://arxiv.org/pdf/2406.16950.pdf)|null|
 |**2024-06-19**|**Networked ISAC for Low-Altitude Economy: Coordinated Transmit Beamforming and UAV Trajectory Design**|Gaoyuan Cheng et.al.|[2406.16946](http://arxiv.org/pdf/2406.16946.pdf)|null|
@@ -142,7 +142,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-20**|**A general Liouville-type theorem for the 3D steady-state Magnetic-Bénard system**|Oscar Jarrin et.al.|[2406.13952](http://arxiv.org/pdf/2406.13952.pdf)|null|
 |**2024-06-19**|**INFusion: Diffusion Regularized Implicit Neural Representations for 2D and 3D accelerated MRI reconstruction**|Yamin Arefeen et.al.|[2406.13895](http://arxiv.org/pdf/2406.13895.pdf)|null|
 |**2024-06-19**|**DPO: Dual-Perturbation Optimization for Test-time Adaptation in 3D Object Detection**|Zhuoxiao Chen et.al.|[2406.13891](http://arxiv.org/pdf/2406.13891.pdf)|**[link](https://github.com/jo-wang/dpo)**|
-|**2024-06-19**|**Splatter a Video: Video Gaussian Representation for Versatile Processing**|Yang-Tian Sun et.al.|[2406.13870](http://arxiv.org/pdf/2406.13870.pdf)|null|
+|**2024-06-26**|**Splatter a Video: Video Gaussian Representation for Versatile Processing**|Yang-Tian Sun et.al.|[2406.13870](http://arxiv.org/pdf/2406.13870.pdf)|null|
 |**2024-06-19**|**RNA-FrameFlow: Flow Matching for de novo 3D RNA Backbone Design**|Rishabh Anand et.al.|[2406.13839](http://arxiv.org/pdf/2406.13839.pdf)|**[link](https://github.com/rish-16/rna-backbone-design)**|
 |**2024-06-19**|**U-shaped disks in Stokes flow: Chiral sedimentation of a non-chiral particle**|Christian Vaquero-Stainer et.al.|[2406.13837](http://arxiv.org/pdf/2406.13837.pdf)|null|
 |**2024-06-19**|**NeRF-Feat: 6D Object Pose Estimation using Feature Rendering**|Shishir Reddy Vutukur et.al.|[2406.13796](http://arxiv.org/pdf/2406.13796.pdf)|null|
@@ -193,7 +193,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-18**|**LOOC: Localizing Organs using Occupancy Networks and Body Surface Depth Images**|Pit Henrich et.al.|[2406.12407](http://arxiv.org/pdf/2406.12407.pdf)|null|
 |**2024-06-18**|**Volume enclosed by a flux surface**|Robert S. MacKay et.al.|[2406.12372](http://arxiv.org/pdf/2406.12372.pdf)|null|
 |**2024-06-18**|**VIRL: Volume-Informed Representation Learning towards Few-shot Manufacturability Estimation**|Yu-hsuan Chen et.al.|[2406.12286](http://arxiv.org/pdf/2406.12286.pdf)|null|
-|**2024-06-19**|**Slot State Space Models**|Jindong Jiang et.al.|[2406.12272](http://arxiv.org/pdf/2406.12272.pdf)|null|
+|**2024-06-26**|**Slot State Space Models**|Jindong Jiang et.al.|[2406.12272](http://arxiv.org/pdf/2406.12272.pdf)|null|
 |**2024-06-18**|**Enhancing Single-Slice Segmentation with 3D-to-2D Unpaired Scan Distillation**|Xin Yu et.al.|[2406.12254](http://arxiv.org/pdf/2406.12254.pdf)|null|
 |**2024-06-18**|**PCIE_EgoHandPose Solution for EgoExo4D Hand Pose Challenge**|Feng Chen et.al.|[2406.12219](http://arxiv.org/pdf/2406.12219.pdf)|**[link](https://github.com/kanokphanl/pcie_egohandpose)**|
 |**2024-06-18**|**Fast Global Localization on Neural Radiance Field**|Mangyu Kong et.al.|[2406.12202](http://arxiv.org/pdf/2406.12202.pdf)|null|
@@ -6295,7 +6295,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-02-11**|**3D Gaussian as a New Vision Era: A Survey**|Ben Fei et.al.|[2402.07181](http://arxiv.org/pdf/2402.07181.pdf)|null|
 |**2024-02-09**|**ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**|Georgii Stanishevskii et.al.|[2402.06390](http://arxiv.org/pdf/2402.06390.pdf)|**[link](https://github.com/quereste/implicit-deepfake)**|
 |**2024-04-09**|**SIR: Multi-view Inverse Rendering with Decomposable Shadow for Indoor Scenes**|Xiaokang Wei et.al.|[2402.06136](http://arxiv.org/pdf/2402.06136.pdf)|null|
-|**2024-03-11**|**Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**|Yuxi Wei et.al.|[2402.05746](http://arxiv.org/pdf/2402.05746.pdf)|**[link](https://github.com/yifanlu0227/chatsim)**|
+|**2024-06-26**|**Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**|Yuxi Wei et.al.|[2402.05746](http://arxiv.org/pdf/2402.05746.pdf)|**[link](https://github.com/yifanlu0227/chatsim)**|
 |**2024-02-09**|**NCRF: Neural Contact Radiance Fields for Free-Viewpoint Rendering of Hand-Object Interaction**|Zhongqun Zhang et.al.|[2402.05532](http://arxiv.org/pdf/2402.05532.pdf)|null|
 |**2024-02-07**|**Mesh-based Gaussian Splatting for Real-time Large-scale Deformation**|Lin Gao et.al.|[2402.04796](http://arxiv.org/pdf/2402.04796.pdf)|null|
 |**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/pdf/2402.04648.pdf)|null|
@@ -6978,7 +6978,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-13**|**SimGen: Simulator-conditioned Driving Scene Generation**|Yunsong Zhou et.al.|[2406.09386](http://arxiv.org/pdf/2406.09386.pdf)|null|
 |**2024-06-13**|**Optimizing Visual Question Answering Models for Driving: Bridging the Gap Between Human and Machine Attention Patterns**|Kaavya Rekanar et.al.|[2406.09203](http://arxiv.org/pdf/2406.09203.pdf)|null|
 |**2024-06-13**|**Auto-Vocabulary Segmentation for LiDAR Points**|Weijie Wei et.al.|[2406.09126](http://arxiv.org/pdf/2406.09126.pdf)|null|
-|**2024-06-17**|**CIMRL: Combining IMitation and Reinforcement Learning for Safe Autonomous Driving**|Jonathan Booher et.al.|[2406.08878](http://arxiv.org/pdf/2406.08878.pdf)|null|
+|**2024-06-26**|**CIMRL: Combining IMitation and Reinforcement Learning for Safe Autonomous Driving**|Jonathan Booher et.al.|[2406.08878](http://arxiv.org/pdf/2406.08878.pdf)|null|
 |**2024-06-13**|**Trajectory Planning for Autonomous Driving in Unstructured Scenarios Based on Graph Neural Network and Numerical Optimization**|Sumin Zhang et.al.|[2406.08855](http://arxiv.org/pdf/2406.08855.pdf)|null|
 |**2024-06-13**|**BEVSpread: Spread Voxel Pooling for Bird's-Eye-View Representation in Vision-based Roadside 3D Object Detection**|Wenjie Wang et.al.|[2406.08785](http://arxiv.org/pdf/2406.08785.pdf)|**[link](https://github.com/datongjie/bevspread)**|
 |**2024-06-12**|**Enhancing End-to-End Autonomous Driving with Latent World Model**|Yingyan Li et.al.|[2406.08481](http://arxiv.org/pdf/2406.08481.pdf)|**[link](https://github.com/bravegroup/law)**|
@@ -8177,7 +8177,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-13**|**Auto-Vocabulary Segmentation for LiDAR Points**|Weijie Wei et.al.|[2406.09126](http://arxiv.org/pdf/2406.09126.pdf)|null|
 |**2024-06-13**|**Neural NeRF Compression**|Tuan Pham et.al.|[2406.08943](http://arxiv.org/pdf/2406.08943.pdf)|null|
 |**2024-06-13**|**OpenMaterial: A Comprehensive Dataset of Complex Materials for 3D Reconstruction**|Zheng Dang et.al.|[2406.08894](http://arxiv.org/pdf/2406.08894.pdf)|null|
-|**2024-06-17**|**CIMRL: Combining IMitation and Reinforcement Learning for Safe Autonomous Driving**|Jonathan Booher et.al.|[2406.08878](http://arxiv.org/pdf/2406.08878.pdf)|null|
+|**2024-06-26**|**CIMRL: Combining IMitation and Reinforcement Learning for Safe Autonomous Driving**|Jonathan Booher et.al.|[2406.08878](http://arxiv.org/pdf/2406.08878.pdf)|null|
 |**2024-06-13**|**Trajectory Planning for Autonomous Driving in Unstructured Scenarios Based on Graph Neural Network and Numerical Optimization**|Sumin Zhang et.al.|[2406.08855](http://arxiv.org/pdf/2406.08855.pdf)|null|
 |**2024-06-13**|**BEVSpread: Spread Voxel Pooling for Bird's-Eye-View Representation in Vision-based Roadside 3D Object Detection**|Wenjie Wang et.al.|[2406.08785](http://arxiv.org/pdf/2406.08785.pdf)|**[link](https://github.com/datongjie/bevspread)**|
 |**2024-06-12**|**Enhancing End-to-End Autonomous Driving with Latent World Model**|Yingyan Li et.al.|[2406.08481](http://arxiv.org/pdf/2406.08481.pdf)|**[link](https://github.com/bravegroup/law)**|
