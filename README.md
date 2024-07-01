@@ -15,6 +15,33 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**Odd-One-Out: Anomaly Detection by Comparing with Neighbors**|Ankan Bhunia et.al.|[2406.20099](http://arxiv.org/pdf/2406.20099.pdf)|**[link](https://github.com/VICO-UoE/OddOneOutAD)**|
+|**2024-06-28**|**HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model**|Hieu T. Nguyen et.al.|[2406.20077](http://arxiv.org/pdf/2406.20077.pdf)|null|
+|**2024-06-28**|**ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**|Ding-Jiun Huang et.al.|[2406.20066](http://arxiv.org/pdf/2406.20066.pdf)|null|
+|**2024-06-28**|**Reionization Parameter Inference from 3D Minkowski Functionals of the 21 cm Signals**|Kangning Diao et.al.|[2406.20058](http://arxiv.org/pdf/2406.20058.pdf)|null|
+|**2024-06-28**|**SpotlessSplats: Ignoring Distractors in 3D Gaussian Splatting**|Sara Sabour et.al.|[2406.20055](http://arxiv.org/pdf/2406.20055.pdf)|null|
+|**2024-06-28**|**A fast-filament eruption observed in the H $α$ spectral line. I. Imaging spectroscopy diagnostic**|Denis P. Cabezas et.al.|[2406.20020](http://arxiv.org/pdf/2406.20020.pdf)|null|
+|**2024-06-28**|**Text2Robot: Evolutionary Robot Design from Text Descriptions**|Ryan P. Ringel et.al.|[2406.19963](http://arxiv.org/pdf/2406.19963.pdf)|null|
+|**2024-06-28**|**3D Operation of Autonomous Excavator based on Reinforcement Learning through Independent Reward for Individual Joints**|Yoonkyu Yoo et.al.|[2406.19848](http://arxiv.org/pdf/2406.19848.pdf)|null|
+|**2024-06-28**|**StreamMOTP: Streaming and Unified Framework for Joint 3D Multi-Object Tracking and Trajectory Prediction**|Jiaheng Zhuang et.al.|[2406.19844](http://arxiv.org/pdf/2406.19844.pdf)|null|
+|**2024-06-28**|**LightStereo: Channel Boost Is All Your Need for Efficient 2D Cost Aggregation**|Xianda Guo et.al.|[2406.19833](http://arxiv.org/pdf/2406.19833.pdf)|**[link](https://github.com/xiandaguo/openstereo)**|
+|**2024-06-28**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811](http://arxiv.org/pdf/2406.19811.pdf)|null|
+|**2024-06-28**|**Novel electronic structures from anomalous stackings in NbS $_2$ and MoS$_2$**|Matthew D. Watson et.al.|[2406.19793](http://arxiv.org/pdf/2406.19793.pdf)|null|
+|**2024-06-28**|**Mobile Robot Oriented Large-Scale Indoor Dataset for Dynamic Scene Understanding**|Yifan Tang et.al.|[2406.19791](http://arxiv.org/pdf/2406.19791.pdf)|null|
+|**2024-06-28**|**Duality constraints on thermal spectra of 3d CFTs and 4d quasinormal modes**|Sašo Grozdanov et.al.|[2406.19790](http://arxiv.org/pdf/2406.19790.pdf)|null|
+|**2024-06-28**|**Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train**|Haojun Jiang et.al.|[2406.19756](http://arxiv.org/pdf/2406.19756.pdf)|null|
+|**2024-06-28**|**High Precision Microscale 3D Manufacturing of Ultra Low Expansion Glass by Femtosecond Selective Laser Etching**|Enrico Casamenti et.al.|[2406.19745](http://arxiv.org/pdf/2406.19745.pdf)|null|
+|**2024-06-28**|**EPOCH: Jointly Estimating the 3D Pose of Cameras and Humans**|Nicola Garau et.al.|[2406.19726](http://arxiv.org/pdf/2406.19726.pdf)|null|
+|**2024-06-28**|**Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey**|Uchitha Rajapaksha et.al.|[2406.19675](http://arxiv.org/pdf/2406.19675.pdf)|null|
+|**2024-06-28**|**Unstable Retention Behavior in MIFIS FEFET: Accurate Analysis of the Origin by Absolute Polarization Measurement**|Song-Hyeon Kuk et.al.|[2406.19618](http://arxiv.org/pdf/2406.19618.pdf)|null|
+|**2024-06-27**|**Deep Temporal Sequence Classification and Mathematical Modeling for Cell Tracking in Dense 3D Microscopy Videos of Bacterial Biofilms**|Tanjin Taher Toma et.al.|[2406.19574](http://arxiv.org/pdf/2406.19574.pdf)|null|
+|**2024-06-27**|**What Matters in Detecting AI-Generated Videos like Sora?**|Chirui Chang et.al.|[2406.19568](http://arxiv.org/pdf/2406.19568.pdf)|null|
+|**2024-06-27**|**Stereo Vision Based Robot for Remote Monitoring with VR Support**|Mohamed Fazil M. S. et.al.|[2406.19498](http://arxiv.org/pdf/2406.19498.pdf)|null|
+|**2024-06-27**|**Propagating Kink Waves in an Open Coronal Magnetic Flux Tube with Gravitational Stratification: Magnetohydrodynamic Simulation and Forward Modelling**|Yuhang Gao et.al.|[2406.19474](http://arxiv.org/pdf/2406.19474.pdf)|null|
+|**2024-06-27**|**Efficient and Distributed Large-Scale 3D Map Registration using Tomographic Features**|Halil Utku Unlu et.al.|[2406.19461](http://arxiv.org/pdf/2406.19461.pdf)|null|
+|**2024-06-27**|**In LIGO's Sight? Vigorous Coherent Gravitational Waves from Cooled Collapsar Disks**|Ore Gottlieb et.al.|[2406.19452](http://arxiv.org/pdf/2406.19452.pdf)|null|
+|**2024-06-27**|**Shoulder of Dust Rings Formed by Planet-disk Interactions**|Jiaqing Bi et.al.|[2406.19438](http://arxiv.org/pdf/2406.19438.pdf)|null|
+|**2024-06-27**|**Lightweight Predictive 3D Gaussian Splats**|Junli Cao et.al.|[2406.19434](http://arxiv.org/pdf/2406.19434.pdf)|**[link](https://github.com/plumpuddings/lpgs)**|
 |**2024-06-27**|**Looking 3D: Anomaly Detection with 2D-3D Alignment**|Ankan Bhunia et.al.|[2406.19393](http://arxiv.org/pdf/2406.19393.pdf)|**[link](https://github.com/vico-uoe/looking3d)**|
 |**2024-06-27**|**STAL3D: Unsupervised Domain Adaptation for 3D Object Detection via Collaborating Self-Training and Adversarial Learning**|Yanan Zhang et.al.|[2406.19362](http://arxiv.org/pdf/2406.19362.pdf)|null|
 |**2024-06-27**|**CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement**|Chengwen Zhang et.al.|[2406.19353](http://arxiv.org/pdf/2406.19353.pdf)|**[link](https://github.com/leolyliu/core4d-instructions)**|
@@ -6973,6 +7000,10 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**Automated Deep Neural Network Inference Partitioning for Distributed Embedded Systems**|Fabian Kreß et.al.|[2406.19913](http://arxiv.org/pdf/2406.19913.pdf)|null|
+|**2024-06-28**|**StreamMOTP: Streaming and Unified Framework for Joint 3D Multi-Object Tracking and Trajectory Prediction**|Jiaheng Zhuang et.al.|[2406.19844](http://arxiv.org/pdf/2406.19844.pdf)|null|
+|**2024-06-28**|**LCSim: A Large-Scale Controllable Traffic Simulator**|Yuheng Zhang et.al.|[2406.19781](http://arxiv.org/pdf/2406.19781.pdf)|null|
+|**2024-06-28**|**Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey**|Uchitha Rajapaksha et.al.|[2406.19675](http://arxiv.org/pdf/2406.19675.pdf)|null|
 |**2024-06-27**|**BiCo-Fusion: Bidirectional Complementary LiDAR-Camera Fusion for Semantic- and Spatial-Aware 3D Object Detection**|Yang Song et.al.|[2406.19048](http://arxiv.org/pdf/2406.19048.pdf)|null|
 |**2024-06-27**|**XLD: A Cross-Lane Dataset for Benchmarking Novel Driving View Synthesis**|Hao Li et.al.|[2406.18360](http://arxiv.org/pdf/2406.18360.pdf)|null|
 |**2024-06-25**|**End-to-End Autonomous Driving without Costly Modularization and 3D Manual Annotation**|Mingzhe Guo et.al.|[2406.17680](http://arxiv.org/pdf/2406.17680.pdf)|null|
@@ -8157,6 +8188,10 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**Automated Deep Neural Network Inference Partitioning for Distributed Embedded Systems**|Fabian Kreß et.al.|[2406.19913](http://arxiv.org/pdf/2406.19913.pdf)|null|
+|**2024-06-28**|**StreamMOTP: Streaming and Unified Framework for Joint 3D Multi-Object Tracking and Trajectory Prediction**|Jiaheng Zhuang et.al.|[2406.19844](http://arxiv.org/pdf/2406.19844.pdf)|null|
+|**2024-06-28**|**LCSim: A Large-Scale Controllable Traffic Simulator**|Yuheng Zhang et.al.|[2406.19781](http://arxiv.org/pdf/2406.19781.pdf)|null|
+|**2024-06-28**|**Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey**|Uchitha Rajapaksha et.al.|[2406.19675](http://arxiv.org/pdf/2406.19675.pdf)|null|
 |**2024-06-27**|**BiCo-Fusion: Bidirectional Complementary LiDAR-Camera Fusion for Semantic- and Spatial-Aware 3D Object Detection**|Yang Song et.al.|[2406.19048](http://arxiv.org/pdf/2406.19048.pdf)|null|
 |**2024-06-27**|**Shorter SPECT Scans Using Self-supervised Coordinate Learning to Synthesize Skipped Projection Views**|Zongyu Li et.al.|[2406.18840](http://arxiv.org/pdf/2406.18840.pdf)|null|
 |**2024-06-05**|**Dream-in-Style: Text-to-3D Generation using Stylized Score Distillation**|Hubert Kompanowski et.al.|[2406.18581](http://arxiv.org/pdf/2406.18581.pdf)|null|
@@ -9728,6 +9763,12 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**Koopman based trajectory model and computation offloading for high mobility paradigm in ISAC enabled IoT system**|Minh-Tuan Tran et.al.|[2406.19871](http://arxiv.org/pdf/2406.19871.pdf)|null|
+|**2024-06-28**|**FootBots: A Transformer-based Architecture for Motion Prediction in Soccer**|Guillem Capellera et.al.|[2406.19852](http://arxiv.org/pdf/2406.19852.pdf)|null|
+|**2024-06-28**|**StreamMOTP: Streaming and Unified Framework for Joint 3D Multi-Object Tracking and Trajectory Prediction**|Jiaheng Zhuang et.al.|[2406.19844](http://arxiv.org/pdf/2406.19844.pdf)|null|
+|**2024-06-28**|**Modeling the Real World with High-Density Visual Particle Dynamics**|William F. Whitney et.al.|[2406.19800](http://arxiv.org/pdf/2406.19800.pdf)|null|
+|**2024-06-28**|**Integrating occlusion awareness in urban motion prediction for enhanced autonomous vehicle navigation**|Vinicius Trentin et.al.|[2406.19798](http://arxiv.org/pdf/2406.19798.pdf)|null|
+|**2024-06-28**|**LCSim: A Large-Scale Controllable Traffic Simulator**|Yuheng Zhang et.al.|[2406.19781](http://arxiv.org/pdf/2406.19781.pdf)|null|
 |**2024-06-27**|**A Max Pressure Algorithm for Traffic Signals Considering Pedestrian Queues**|Hao Liu et.al.|[2406.19305](http://arxiv.org/pdf/2406.19305.pdf)|null|
 |**2024-06-26**|**A Multi-Stage Goal-Driven Network for Pedestrian Trajectory Prediction**|Xiuen Wu et.al.|[2406.18050](http://arxiv.org/pdf/2406.18050.pdf)|null|
 |**2024-06-25**|**Dynamic Scheduling for Vehicle-to-Vehicle Communications Enhanced Federated Learning**|Jintao Yan et.al.|[2406.17470](http://arxiv.org/pdf/2406.17470.pdf)|null|
@@ -10476,6 +10517,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**What Matters in Detecting AI-Generated Videos like Sora?**|Chirui Chang et.al.|[2406.19568](http://arxiv.org/pdf/2406.19568.pdf)|null|
 |**2024-06-26**|**MultiDiff: Consistent Novel View Synthesis from a Single Image**|Norman Müller et.al.|[2406.18524](http://arxiv.org/pdf/2406.18524.pdf)|null|
 |**2024-06-24**|**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**|Haonan Qiu et.al.|[2406.16863](http://arxiv.org/pdf/2406.16863.pdf)|**[link](https://github.com/arthur-qiu/freetraj)**|
 |**2024-06-24**|**Dreamitate: Real-World Visuomotor Policy Learning via Video Generation**|Junbang Liang et.al.|[2406.16862](http://arxiv.org/pdf/2406.16862.pdf)|null|
