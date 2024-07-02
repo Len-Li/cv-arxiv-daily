@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.07.01
+Updated on 2024.07.02
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -8367,7 +8367,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-30**|**$\textit{S}^3$ Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323](http://arxiv.org/pdf/2405.20323.pdf)|**[link](https://github.com/nnanhuang/s3gaussian)**|
 |**2024-05-31**|**NeRF View Synthesis: Subjective Quality Assessment and Objective Metrics Evaluation**|Pedro Martin et.al.|[2405.20078](http://arxiv.org/pdf/2405.20078.pdf)|null|
 |**2024-06-10**|**IReNe: Instant Recoloring of Neural Radiance Fields**|Alessio Mazzucchelli et.al.|[2405.19876](http://arxiv.org/pdf/2405.19876.pdf)|null|
-|**2024-05-30**|**Learning Task-relevant Sequence Representations via Intrinsic Dynamics Characteristics in Reinforcement Learning**|Dayang Liang et.al.|[2405.19736](http://arxiv.org/pdf/2405.19736.pdf)|null|
+|**2024-06-30**|**Intrinsic Dynamics-Driven Generalizable Scene Representations for Vision-Oriented Decision-Making Applications**|Dayang Liang et.al.|[2405.19736](http://arxiv.org/pdf/2405.19736.pdf)|null|
 |**2024-05-31**|**Autonomous Driving with Spiking Neural Networks**|Rui-Jie Zhu et.al.|[2405.19687](http://arxiv.org/pdf/2405.19687.pdf)|**[link](https://github.com/ridgerchu/sad)**|
 |**2024-05-30**|**View-Consistent Hierarchical 3D SegmentationUsing Ultrametric Feature Fields**|Haodi He et.al.|[2405.19678](http://arxiv.org/pdf/2405.19678.pdf)|**[link](https://github.com/hardyho/ultrametric_feature_fields)**|
 |**2024-05-31**|**SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation**|Wenchao Sun et.al.|[2405.19620](http://arxiv.org/pdf/2405.19620.pdf)|**[link](https://github.com/swc-17/sparsedrive)**|
@@ -9886,7 +9886,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-08**|**Planning with Probabilistic Opacity and Transparency: A Computational Model of Opaque/Transparent Observations**|Sumukha Udupa et.al.|[2405.05408](http://arxiv.org/pdf/2405.05408.pdf)|null|
 |**2024-05-08**|**Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models**|Zhengxing Lan et.al.|[2405.04909](http://arxiv.org/pdf/2405.04909.pdf)|null|
 |**2024-05-07**|**Physics-data hybrid dynamic model of a multi-axis manipulator for sensorless dexterous manipulation and high-performance motion planning**|Wu-Te Yang et.al.|[2405.04503](http://arxiv.org/pdf/2405.04503.pdf)|null|
-|**2024-05-07**|**Adjoint Sensitivity Analysis on Multi-Scale Bioprocess Stochastic Reaction Network**|Keilung Choy et.al.|[2405.04011](http://arxiv.org/pdf/2405.04011.pdf)|null|
+|**2024-06-28**|**Adjoint Sensitivity Analysis on Multi-Scale Bioprocess Stochastic Reaction Network**|Keilung Choy et.al.|[2405.04011](http://arxiv.org/pdf/2405.04011.pdf)|null|
 |**2024-05-07**|**Unified End-to-End V2X Cooperative Autonomous Driving**|Zhiwei Li et.al.|[2405.03971](http://arxiv.org/pdf/2405.03971.pdf)|null|
 |**2024-05-06**|**SocialFormer: Social Interaction Modeling with Edge-enhanced Heterogeneous Graph Transformers for Trajectory Prediction**|Zixu Wang et.al.|[2405.03809](http://arxiv.org/pdf/2405.03809.pdf)|null|
 |**2024-05-06**|**Motion Planning under Uncertainty: Integrating Learning-Based Multi-Modal Predictors into Branch Model Predictive Control**|Mohamed-Khalil Bouzidi et.al.|[2405.03470](http://arxiv.org/pdf/2405.03470.pdf)|null|
@@ -10527,7 +10527,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-11**|**Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation**|Yuanhao Zhai et.al.|[2406.06890](http://arxiv.org/pdf/2406.06890.pdf)|null|
 |**2024-04-23**|**Interactive Generation of Laparoscopic Videos with Diffusion Models**|Ivan Iliash et.al.|[2406.06537](http://arxiv.org/pdf/2406.06537.pdf)|null|
 |**2024-06-10**|**AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction**|Zhen Xing et.al.|[2406.06465](http://arxiv.org/pdf/2406.06465.pdf)|null|
-|**2024-06-12**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338](http://arxiv.org/pdf/2406.05338.pdf)|null|
+|**2024-06-28**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338](http://arxiv.org/pdf/2406.05338.pdf)|null|
 |**2024-06-07**|**CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion**|Xingrui Wang et.al.|[2406.05082](http://arxiv.org/pdf/2406.05082.pdf)|null|
 |**2024-06-07**|**Online Continual Learning of Video Diffusion Models From a Single Video Stream**|Jason Yoo et.al.|[2406.04814](http://arxiv.org/pdf/2406.04814.pdf)|null|
 |**2024-06-07**|**Evaluating and Mitigating IP Infringement in Visual Generative AI**|Zhenting Wang et.al.|[2406.04662](http://arxiv.org/pdf/2406.04662.pdf)|**[link](https://github.com/zhentingwang/gai_ip_infringement)**|
