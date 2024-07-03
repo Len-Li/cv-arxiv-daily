@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.07.02
+Updated on 2024.07.03
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -61,7 +61,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-27**|**Evolution of Interfacial Hydration Structure Induced by Ion Condensation and Correlation Effects**|Han Li et.al.|[2406.18827](http://arxiv.org/pdf/2406.18827.pdf)|null|
 |**2024-06-26**|**Numerical simulations for the Ising model on three dimensional lattices with coordination number equal 5: static and dynamic critical phenomena**|Lourdes Bibiana Merino-Solís et.al.|[2406.18782](http://arxiv.org/pdf/2406.18782.pdf)|null|
 |**2024-06-26**|**Computational Fluid Dynamics on Quantum Computers**|Madhava Syamlal et.al.|[2406.18749](http://arxiv.org/pdf/2406.18749.pdf)|null|
-|**2024-06-26**|**3D Feature Distillation with Object-Centric Priors**|Georgios Tziafas et.al.|[2406.18742](http://arxiv.org/pdf/2406.18742.pdf)|null|
+|**2024-07-01**|**3D Feature Distillation with Object-Centric Priors**|Georgios Tziafas et.al.|[2406.18742](http://arxiv.org/pdf/2406.18742.pdf)|null|
 |**2024-06-26**|**Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos**|Colton Stearns et.al.|[2406.18717](http://arxiv.org/pdf/2406.18717.pdf)|null|
 |**2024-06-30**|**Vox-UDA: Voxel-wise Unsupervised Domain Adaptation for Cryo-Electron Subtomogram Segmentation with Denoised Pseudo Labeling**|Haoran Li et.al.|[2406.18610](http://arxiv.org/pdf/2406.18610.pdf)|null|
 |**2024-06-26**|**On Scaling Up 3D Gaussian Splatting Training**|Hexu Zhao et.al.|[2406.18533](http://arxiv.org/pdf/2406.18533.pdf)|**[link](https://github.com/nyu-systems/grendel-gs)**|
@@ -7126,7 +7126,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-03**|**REvolve: Reward Evolution with Large Language Models for Autonomous Driving**|Rishi Hazra et.al.|[2406.01309](http://arxiv.org/pdf/2406.01309.pdf)|null|
 |**2024-06-11**|**LanEvil: Benchmarking the Robustness of Lane Detection to Environmental Illusions**|Tianyuan Zhang et.al.|[2406.00934](http://arxiv.org/pdf/2406.00934.pdf)|null|
 |**2024-06-02**|**A Survey of Deep Learning Based Radar and Vision Fusion for 3D Object Detection in Autonomous Driving**|Di Wu et.al.|[2406.00714](http://arxiv.org/pdf/2406.00714.pdf)|null|
-|**2024-06-04**|**SuperGaussian: Repurposing Video Models for 3D Super Resolution**|Yuan Shen et.al.|[2406.00609](http://arxiv.org/pdf/2406.00609.pdf)|null|
+|**2024-07-01**|**SuperGaussian: Repurposing Video Models for 3D Super Resolution**|Yuan Shen et.al.|[2406.00609](http://arxiv.org/pdf/2406.00609.pdf)|null|
 |**2024-06-01**|**2nd Place Solution for PVUW Challenge 2024: Video Panoptic Segmentation**|Biao Wu et.al.|[2406.00500](http://arxiv.org/pdf/2406.00500.pdf)|null|
 |**2024-06-04**|**Research on the Application of Computer Vision Based on Deep Learning in Autonomous Driving Technology**|Jingyu Zhang et.al.|[2406.00490](http://arxiv.org/pdf/2406.00490.pdf)|null|
 |**2024-06-01**|**Learning Manipulation by Predicting Interaction**|Jia Zeng et.al.|[2406.00439](http://arxiv.org/pdf/2406.00439.pdf)|**[link](https://github.com/opendrivelab/mpi)**|
