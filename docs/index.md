@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.07.03
+Updated on 2024.07.04
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -32,7 +32,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-02**|**Towards a Holistic Framework for Multimodal Large Language Models in Three-dimensional Brain CT Report Generation**|Cheng-Yi Li et.al.|[2407.02235](http://arxiv.org/pdf/2407.02235.pdf)|**[link](https://github.com/charlierabea/FORTE)**|
 |**2024-07-02**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174](http://arxiv.org/pdf/2407.02174.pdf)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
 |**2024-07-02**|**WildAvatar: Web-scale In-the-wild Video Dataset for 3D Avatar Creation**|Zihao Huang et.al.|[2407.02165](http://arxiv.org/pdf/2407.02165.pdf)|**[link](https://github.com/wildavatar/WildAvatar_Toolbox)**|
-|**2024-07-02**|**SparseSSP: 3D Subcellular Structure Prediction from Sparse-View Transmitted Light Images**|Jintu Zheng et.al.|[2407.02159](http://arxiv.org/pdf/2407.02159.pdf)|null|
+|**2024-07-03**|**SparseSSP: 3D Subcellular Structure Prediction from Sparse-View Transmitted Light Images**|Jintu Zheng et.al.|[2407.02159](http://arxiv.org/pdf/2407.02159.pdf)|null|
 |**2024-07-02**|**VRBiom: A New Periocular Dataset for Biometric Applications of HMD**|Ketan Kotwal et.al.|[2407.02150](http://arxiv.org/pdf/2407.02150.pdf)|null|
 |**2024-07-02**|**Magnetic critical phenomena and low temperature re-entrant spin-glass features of Al $_2$ MnFe Heusler alloy**|Abhinav Kumar Khorwal et.al.|[2407.02149](http://arxiv.org/pdf/2407.02149.pdf)|null|
 |**2024-07-02**|**Estimating Inverse Scattering Potentials for \textit{n-p} System Using Variational Monte Carlo \& Neural Networks**|Anil Khachi et.al.|[2407.02137](http://arxiv.org/pdf/2407.02137.pdf)|null|
@@ -41,7 +41,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-02**|**Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion**|Bohan Li et.al.|[2407.02077](http://arxiv.org/pdf/2407.02077.pdf)|**[link](https://github.com/arlo0o/htcl)**|
 |**2024-07-02**|**CountFormer: Multi-View Crowd Counting Transformer**|Hong Mo et.al.|[2407.02047](http://arxiv.org/pdf/2407.02047.pdf)|**[link](https://github.com/MandyMo/ECCV_Countformer)**|
 |**2024-07-02**|**ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation**|Zhiyuan Ma et.al.|[2407.02040](http://arxiv.org/pdf/2407.02040.pdf)|**[link](https://github.com/theericma/scaledreamer)**|
-|**2024-07-02**|**Camera-LiDAR Cross-modality Gait Recognition**|Wenxuan Guo et.al.|[2407.02038](http://arxiv.org/pdf/2407.02038.pdf)|null|
+|**2024-07-03**|**Camera-LiDAR Cross-modality Gait Recognition**|Wenxuan Guo et.al.|[2407.02038](http://arxiv.org/pdf/2407.02038.pdf)|null|
 |**2024-07-02**|**TrAME: Trajectory-Anchored Multi-View Editing for Text-Guided 3D Gaussian Splatting Manipulation**|Chaofan Luo et.al.|[2407.02034](http://arxiv.org/pdf/2407.02034.pdf)|null|
 |**2024-07-02**|**A Proposal for a FAIR Management of 3D Data in Cultural Heritage: The Aldrovandi Digital Twin Case**|Sebastian Barzaghi et.al.|[2407.02018](http://arxiv.org/pdf/2407.02018.pdf)|null|
 |**2024-07-02**|**AHMsys: An Automated HVAC Modeling System for BIM Project**|Long Hoang Dang et.al.|[2407.01987](http://arxiv.org/pdf/2407.01987.pdf)|null|
@@ -210,7 +210,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-25**|**Masked Generative Extractor for Synergistic Representation and 3D Generation of Point Clouds**|Hongliang Zeng et.al.|[2406.17342](http://arxiv.org/pdf/2406.17342.pdf)|null|
 |**2024-06-27**|**Towards Open-set Camera 3D Object Detection**|Zhuolin He et.al.|[2406.17297](http://arxiv.org/pdf/2406.17297.pdf)|null|
 |**2024-06-25**|**A refined uniqueness result of Leray's problem in an infinite-long pipe with the Navier-slip boundary condition**|Zijin Li et.al.|[2406.17264](http://arxiv.org/pdf/2406.17264.pdf)|null|
-|**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/pdf/2406.17249.pdf)|null|
+|**2024-07-02**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/pdf/2406.17249.pdf)|null|
 |**2024-06-26**|**Diff3Dformer: Leveraging Slice Sequence Diffusion for Enhanced 3D CT Classification with Transformer Networks**|Zihao Jin et.al.|[2406.17173](http://arxiv.org/pdf/2406.17173.pdf)|null|
 |**2024-06-24**|**Toward Ubiquitous 3D Object Digitization: A Wearable Computing Framework for Non-Invasive Physical Property Acquisition**|Yunxiang Zhang et.al.|[2406.17156](http://arxiv.org/pdf/2406.17156.pdf)|null|
 |**2024-06-24**|**Multi-Aperture Fusion of Transformer-Convolutional Network (MFTC-Net) for 3D Medical Image Segmentation and Visualization**|Siyavash Shabani et.al.|[2406.17080](http://arxiv.org/pdf/2406.17080.pdf)|**[link](https://github.com/siyavashshabani/mftc-net)**|
