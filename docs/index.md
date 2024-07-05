@@ -86,7 +86,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-01**|**Centerline Boundary Dice Loss for Vascular Segmentation**|Pengcheng Shi et.al.|[2407.01517](http://arxiv.org/pdf/2407.01517.pdf)|**[link](https://github.com/pengchengshi1220/cbdice)**|
 |**2024-07-02**|**How Land-Mass Distribution Influences the Atmospheric Dynamics of Tidally Locked Terrestrial Exoplanets**|F. Sainsbury-Martinez et.al.|[2407.01480](http://arxiv.org/pdf/2407.01480.pdf)|null|
 |**2024-07-01**|**AdaOcc: Adaptive Forward View Transformation and Flow Modeling for 3D Occupancy and Flow Prediction**|Dubing Chen et.al.|[2407.01436](http://arxiv.org/pdf/2407.01436.pdf)|null|
-|**2024-07-01**|**StyleShot: A Snapshot on Any Style**|Junyao Gao et.al.|[2407.01414](http://arxiv.org/pdf/2407.01414.pdf)|null|
+|**2024-07-01**|**StyleShot: A Snapshot on Any Style**|Junyao Gao et.al.|[2407.01414](http://arxiv.org/pdf/2407.01414.pdf)|**[link](https://github.com/open-mmlab/StyleShot)**|
 |**2024-07-01**|**3D MHD modelling of plasmoid drift following massive material injection in a tokamak**|M. Kong et.al.|[2407.01399](http://arxiv.org/pdf/2407.01399.pdf)|null|
 |**2024-07-01**|**PanopticRecon: Leverage Open-vocabulary Instance Segmentation for Zero-shot Panoptic Reconstruction**|Xuan Yu et.al.|[2407.01349](http://arxiv.org/pdf/2407.01349.pdf)|null|
 |**2024-07-01**|**Shape Synthesis and 3D Ceramic Printing of Non-canonical MIMO Dielectric Resonator Antennas**|Binbin Yang et.al.|[2407.01340](http://arxiv.org/pdf/2407.01340.pdf)|null|
