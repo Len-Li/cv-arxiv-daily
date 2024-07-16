@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.07.15
+Updated on 2024.07.16
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -112,7 +112,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-09**|**A 3D Pancreatic Cancer Model with Integrated Optical Sensors for Noninvasive Metabolism Monitoring and Drug Screening**|Anna Chiara Siciliano et.al.|[2407.07126](http://arxiv.org/pdf/2407.07126.pdf)|null|
 |**2024-07-09**|**V-VIPE: Variational View Invariant Pose Embedding**|Mara Levy et.al.|[2407.07092](http://arxiv.org/pdf/2407.07092.pdf)|null|
 |**2024-07-10**|**3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes**|Nicolas Moenne-Loccoz et.al.|[2407.07090](http://arxiv.org/pdf/2407.07090.pdf)|null|
-|**2024-07-09**|**Bow-shock structure of Sgr B molecular-cloud complex in the Galactic Centre inferred from 3D CO-line kinematics**|Yoshiaki Sofue et.al.|[2407.07013](http://arxiv.org/pdf/2407.07013.pdf)|null|
+|**2024-07-12**|**Bow-shock structure of Sgr B molecular-cloud complex in the Galactic Centre inferred from 3D CO-line kinematics**|Yoshiaki Sofue et.al.|[2407.07013](http://arxiv.org/pdf/2407.07013.pdf)|null|
 |**2024-07-09**|**Improved Block Merging for 3D Point Cloud Instance Segmentation**|Leon Denis et.al.|[2407.06991](http://arxiv.org/pdf/2407.06991.pdf)|null|
 |**2024-07-09**|**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**|Chuanrui Zhang et.al.|[2407.06984](http://arxiv.org/pdf/2407.06984.pdf)|null|
 |**2024-07-09**|**INTERACT: An authoring tool that facilitates the creation of human centric interaction with 3d objects in virtual reality**|Rama Krishnan Gopal Ramasamy Thandapani et.al.|[2407.06967](http://arxiv.org/pdf/2407.06967.pdf)|null|
@@ -255,7 +255,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-03**|**Graph and Skipped Transformer: Exploiting Spatial and Temporal Modeling Capacities for Efficient 3D Human Pose Estimation**|Mengmeng Cui et.al.|[2407.02990](http://arxiv.org/pdf/2407.02990.pdf)|null|
 |**2024-07-03**|**Numerical analysis of a porous natural convection system with vorticity and viscous dissipation**|Russel Demos et.al.|[2407.02986](http://arxiv.org/pdf/2407.02986.pdf)|null|
 |**2024-07-03**|**3D Multimodal Image Registration for Plant Phenotyping**|Eric Stumpe et.al.|[2407.02946](http://arxiv.org/pdf/2407.02946.pdf)|**[link](https://github.com/eric-stumpe/plant3dimagereg)**|
-|**2024-07-04**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945](http://arxiv.org/pdf/2407.02945.pdf)|null|
+|**2024-07-13**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945](http://arxiv.org/pdf/2407.02945.pdf)|null|
 |**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918](http://arxiv.org/pdf/2407.02918.pdf)|**[link](https://github.com/wrld/free-surgs)**|
 |**2024-07-04**|**Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion**|Hang Xu et.al.|[2407.02887](http://arxiv.org/pdf/2407.02887.pdf)|**[link](https://github.com/whu-usi3dv/egiinet)**|
 |**2024-07-03**|**Spatially Coherent 3D Distributions of HI and CO in the Milky Way**|Laurin Söding et.al.|[2407.02859](http://arxiv.org/pdf/2407.02859.pdf)|null|

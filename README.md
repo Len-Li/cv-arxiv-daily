@@ -1,4 +1,4 @@
-Updated on 2024.07.15
+Updated on 2024.07.16
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -109,7 +109,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-09**|**A 3D Pancreatic Cancer Model with Integrated Optical Sensors for Noninvasive Metabolism Monitoring and Drug Screening**|Anna Chiara Siciliano et.al.|[2407.07126](http://arxiv.org/pdf/2407.07126.pdf)|null|
 |**2024-07-09**|**V-VIPE: Variational View Invariant Pose Embedding**|Mara Levy et.al.|[2407.07092](http://arxiv.org/pdf/2407.07092.pdf)|null|
 |**2024-07-10**|**3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes**|Nicolas Moenne-Loccoz et.al.|[2407.07090](http://arxiv.org/pdf/2407.07090.pdf)|null|
-|**2024-07-09**|**Bow-shock structure of Sgr B molecular-cloud complex in the Galactic Centre inferred from 3D CO-line kinematics**|Yoshiaki Sofue et.al.|[2407.07013](http://arxiv.org/pdf/2407.07013.pdf)|null|
+|**2024-07-12**|**Bow-shock structure of Sgr B molecular-cloud complex in the Galactic Centre inferred from 3D CO-line kinematics**|Yoshiaki Sofue et.al.|[2407.07013](http://arxiv.org/pdf/2407.07013.pdf)|null|
 |**2024-07-09**|**Improved Block Merging for 3D Point Cloud Instance Segmentation**|Leon Denis et.al.|[2407.06991](http://arxiv.org/pdf/2407.06991.pdf)|null|
 |**2024-07-09**|**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**|Chuanrui Zhang et.al.|[2407.06984](http://arxiv.org/pdf/2407.06984.pdf)|null|
 |**2024-07-09**|**INTERACT: An authoring tool that facilitates the creation of human centric interaction with 3d objects in virtual reality**|Rama Krishnan Gopal Ramasamy Thandapani et.al.|[2407.06967](http://arxiv.org/pdf/2407.06967.pdf)|null|
@@ -252,7 +252,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-03**|**Graph and Skipped Transformer: Exploiting Spatial and Temporal Modeling Capacities for Efficient 3D Human Pose Estimation**|Mengmeng Cui et.al.|[2407.02990](http://arxiv.org/pdf/2407.02990.pdf)|null|
 |**2024-07-03**|**Numerical analysis of a porous natural convection system with vorticity and viscous dissipation**|Russel Demos et.al.|[2407.02986](http://arxiv.org/pdf/2407.02986.pdf)|null|
 |**2024-07-03**|**3D Multimodal Image Registration for Plant Phenotyping**|Eric Stumpe et.al.|[2407.02946](http://arxiv.org/pdf/2407.02946.pdf)|**[link](https://github.com/eric-stumpe/plant3dimagereg)**|
-|**2024-07-04**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945](http://arxiv.org/pdf/2407.02945.pdf)|null|
+|**2024-07-13**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945](http://arxiv.org/pdf/2407.02945.pdf)|null|
 |**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918](http://arxiv.org/pdf/2407.02918.pdf)|**[link](https://github.com/wrld/free-surgs)**|
 |**2024-07-04**|**Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion**|Hang Xu et.al.|[2407.02887](http://arxiv.org/pdf/2407.02887.pdf)|**[link](https://github.com/whu-usi3dv/egiinet)**|
 |**2024-07-03**|**Spatially Coherent 3D Distributions of HI and CO in the Milky Way**|Laurin Söding et.al.|[2407.02859](http://arxiv.org/pdf/2407.02859.pdf)|null|
@@ -6442,7 +6442,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20240715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240716>back to top</a>)</p>
 
 ## NeRF
 
@@ -7059,7 +7059,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20240715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240716>back to top</a>)</p>
 
 ## Industry
 
@@ -7360,7 +7360,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2012-04-06**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-09**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20240715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240716>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -8634,7 +8634,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20240715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240716>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -10310,7 +10310,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20240715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240716>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -11101,7 +11101,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20240715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240716>back to top</a>)</p>
 
 ## Diffusion
 
@@ -11283,5 +11283,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-06-22**|**Video Diffusion Models**|Jonathan Ho et.al.|[2204.03458](http://arxiv.org/pdf/2204.03458.pdf)|null|
 |**2022-12-08**|**Diffusion Probabilistic Modeling for Video Generation**|Ruihan Yang et.al.|[2203.09481](http://arxiv.org/pdf/2203.09481.pdf)|**[link](https://github.com/buggyyang/rvd)**|
 
-<p align=right>(<a href=#Updated-on-20240715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240716>back to top</a>)</p>
 
