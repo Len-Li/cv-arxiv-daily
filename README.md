@@ -1,4 +1,4 @@
-Updated on 2024.07.24
+Updated on 2024.07.25
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -19,7 +19,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-23**|**AbdomenAtlas: A Large-Scale, Detailed-Annotated, & Multi-Center Dataset for Efficient Transfer Learning and Open Algorithmic Benchmarking**|Wenxuan Li et.al.|[2407.16697](http://arxiv.org/pdf/2407.16697.pdf)|null|
 |**2024-07-23**|**Unveiling galaxy pair alignment in cosmic filaments: A 3D exploration using EAGLE simulation**|Suman Sarkar et.al.|[2407.16675](http://arxiv.org/pdf/2407.16675.pdf)|null|
 |**2024-07-23**|**Fluorescence Diffraction Tomography using Explicit Neural Fields**|Renzhi He et.al.|[2407.16657](http://arxiv.org/pdf/2407.16657.pdf)|null|
-|**2024-07-23**|**Aggregated Attributions for Explanatory Analysis of 3D Segmentation Models**|Maciej Chrabaszcz et.al.|[2407.16653](http://arxiv.org/pdf/2407.16653.pdf)|**[link](https://github.com/mi2datalab/agg2exp)**|
+|**2024-07-24**|**Aggregated Attributions for Explanatory Analysis of 3D Segmentation Models**|Maciej Chrabaszcz et.al.|[2407.16653](http://arxiv.org/pdf/2407.16653.pdf)|**[link](https://github.com/mi2datalab/agg2exp)**|
 |**2024-07-23**|**Nonlinear screening in periodically doped Graphene**|K. A. Baryshnikov et.al.|[2407.16579](http://arxiv.org/pdf/2407.16579.pdf)|null|
 |**2024-07-23**|**Timeliness-Fidelity Tradeoff in 3D Scene Representations**|Xiangmin Xu et.al.|[2407.16575](http://arxiv.org/pdf/2407.16575.pdf)|null|
 |**2024-07-23**|**Is 3D Convolution with 5D Tensors Really Necessary for Video Analysis?**|Habib Hajimolahoseini et.al.|[2407.16514](http://arxiv.org/pdf/2407.16514.pdf)|null|
@@ -41,19 +41,19 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-22**|**Carving Polytopes with Saws in 3D**|Eliot W. Robson et.al.|[2407.15981](http://arxiv.org/pdf/2407.15981.pdf)|null|
 |**2024-07-22**|**Ising BCFT from Fuzzy Hemisphere**|Mykola Dedushenko et.al.|[2407.15948](http://arxiv.org/pdf/2407.15948.pdf)|null|
 |**2024-07-22**|**The Effect of Donor Star Rejuvenation on Common Envelope Evolution**|C. Landri et.al.|[2407.15932](http://arxiv.org/pdf/2407.15932.pdf)|null|
-|**2024-07-22**|**Studying the 3d Ising surface CFTs on the fuzzy sphere**|Zheng Zhou et.al.|[2407.15914](http://arxiv.org/pdf/2407.15914.pdf)|null|
+|**2024-07-24**|**Studying the 3d Ising surface CFTs on the fuzzy sphere**|Zheng Zhou et.al.|[2407.15914](http://arxiv.org/pdf/2407.15914.pdf)|null|
 |**2024-07-22**|**Local existence of classical solutions to the 3D isentropic compressible Navier-Stokes-Poisson equations with degenerate viscosities and vacuum**|Peng Lu et.al.|[2407.15897](http://arxiv.org/pdf/2407.15897.pdf)|null|
 |**2024-07-21**|**A Novel Method to Improve Quality Surface Coverage in Multi-View Capture**|Wei-Lun Huang et.al.|[2407.15883](http://arxiv.org/pdf/2407.15883.pdf)|null|
 |**2024-07-19**|**Gaussian Process Model with Tensorial Inputs and Its Application to the Design of 3D Printed Antennas**|Xi Chen et.al.|[2407.15877](http://arxiv.org/pdf/2407.15877.pdf)|null|
 |**2024-07-22**|**HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning**|Eugene Valassakis et.al.|[2407.15844](http://arxiv.org/pdf/2407.15844.pdf)|null|
 |**2024-07-22**|**Unsupervised Mastoidectomy for Cochlear CT Mesh Reconstruction Using Highly Noisy Data**|Yike Zhang et.al.|[2407.15787](http://arxiv.org/pdf/2407.15787.pdf)|null|
 |**2024-07-22**|**Local Occupancy-Enhanced Object Grasping with Multiple Triplanar Projection**|Kangqi Ma et.al.|[2407.15771](http://arxiv.org/pdf/2407.15771.pdf)|null|
-|**2024-07-22**|**SAM2CLIP2SAM: Vision Language Model for Segmentation of 3D CT Scans for Covid-19 Detection**|Dimitrios Kollias et.al.|[2407.15728](http://arxiv.org/pdf/2407.15728.pdf)|null|
+|**2024-07-23**|**SAM2CLIP2SAM: Vision Language Model for Segmentation of 3D CT Scans for Covid-19 Detection**|Dimitrios Kollias et.al.|[2407.15728](http://arxiv.org/pdf/2407.15728.pdf)|null|
 |**2024-07-22**|**Differentiable Convex Polyhedra Optimization from Multi-view Images**|Daxuan Ren et.al.|[2407.15686](http://arxiv.org/pdf/2407.15686.pdf)|null|
 |**2024-07-22**|**TreeSBA: Tree-Transformer for Self-Supervised Sequential Brick Assembly**|Mengqi Guo et.al.|[2407.15648](http://arxiv.org/pdf/2407.15648.pdf)|null|
 |**2024-07-22**|**Decomposition of Neural Discrete Representations for Large-Scale 3D Mapping**|Minseong Park et.al.|[2407.15554](http://arxiv.org/pdf/2407.15554.pdf)|**[link](https://github.com/minseong-p/dnmap)**|
 |**2024-07-22**|**Shell mergers in the late stages of massive star evolution: new insight from 3D hydrodynamic simulations**|Federico Rizzuti et.al.|[2407.15544](http://arxiv.org/pdf/2407.15544.pdf)|null|
-|**2024-07-22**|**Differentiable Product Quantization for Memory Efficient Camera Relocalization**|Zakaria Laskar et.al.|[2407.15540](http://arxiv.org/pdf/2407.15540.pdf)|null|
+|**2024-07-23**|**Differentiable Product Quantization for Memory Efficient Camera Relocalization**|Zakaria Laskar et.al.|[2407.15540](http://arxiv.org/pdf/2407.15540.pdf)|null|
 |**2024-07-22**|**6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model**|Matteo Bortolon et.al.|[2407.15484](http://arxiv.org/pdf/2407.15484.pdf)|null|
 |**2024-07-22**|**Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures**|Ruizhe Wang et.al.|[2407.15435](http://arxiv.org/pdf/2407.15435.pdf)|null|
 |**2024-07-22**|**Spatial-Division Augmented Occupancy Field for Bone Shape Reconstruction from Biplanar X-Rays**|Jixiang Chen et.al.|[2407.15433](http://arxiv.org/pdf/2407.15433.pdf)|null|
@@ -6718,7 +6718,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240725>back to top</a>)</p>
 
 ## NeRF
 
@@ -7357,7 +7357,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240725>back to top</a>)</p>
 
 ## Industry
 
@@ -7659,15 +7659,15 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2012-04-06**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-09**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240725>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-23**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/pdf/2407.16680.pdf)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
+|**2024-07-24**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/pdf/2407.16680.pdf)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
 |**2024-07-23**|**Deformable Convolution Based Road Scene Semantic Segmentation of Fisheye Images in Autonomous Driving**|Anam Manzoor et.al.|[2407.16647](http://arxiv.org/pdf/2407.16647.pdf)|null|
-|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/pdf/2407.16636.pdf)|null|
+|**2024-07-24**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/pdf/2407.16636.pdf)|null|
 |**2024-07-23**|**MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection**|Youngmin Oh et.al.|[2407.16448](http://arxiv.org/pdf/2407.16448.pdf)|**[link](https://github.com/visualaikhu/monowad)**|
 |**2024-07-23**|**Cleaning Robots in Public Spaces: A Survey and Proposal for Benchmarking Based on Stakeholders Interviews**|Raphael Memmesheimer et.al.|[2407.16393](http://arxiv.org/pdf/2407.16393.pdf)|null|
 |**2024-07-23**|**Understanding Impacts of Electromagnetic Signal Injection Attacks on Object Detection**|Youqian Zhang et.al.|[2407.16327](http://arxiv.org/pdf/2407.16327.pdf)|null|
@@ -7821,7 +7821,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-20**|**Multi-Task Lane-Free Driving Strategy for Connected and Automated Vehicles: A Multi-Agent Deep Reinforcement Learning Approach**|Mehran Berahman et.al.|[2406.14766](http://arxiv.org/pdf/2406.14766.pdf)|null|
 |**2024-06-20**|**Preferential Multi-Objective Bayesian Optimization**|Raul Astudillo et.al.|[2406.14699](http://arxiv.org/pdf/2406.14699.pdf)|null|
 |**2024-06-24**|**Enhancing Dropout-based Bayesian Neural Networks with Multi-Exit on FPGA**|Hao Mark Chen et.al.|[2406.14593](http://arxiv.org/pdf/2406.14593.pdf)|**[link](https://github.com/os-hxfan/mcme_fpga_acc)**|
-|**2024-06-21**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/pdf/2406.14556.pdf)|null|
+|**2024-07-24**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/pdf/2406.14556.pdf)|null|
 |**2024-06-20**|**FutureNet-LOF: Joint Trajectory Prediction and Lane Occupancy Field Prediction with Future Context Encoding**|Mingkun Wang et.al.|[2406.14422](http://arxiv.org/pdf/2406.14422.pdf)|null|
 |**2024-06-20**|**PoseBench: Benchmarking the Robustness of Pose Estimation Models under Corruptions**|Sihan Ma et.al.|[2406.14367](http://arxiv.org/pdf/2406.14367.pdf)|null|
 |**2024-06-20**|**Uncertainty and Self-Supervision in Single-View Depth**|Javier Rodriguez-Puigvert et.al.|[2406.14226](http://arxiv.org/pdf/2406.14226.pdf)|null|
@@ -8982,15 +8982,15 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240725>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-23**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/pdf/2407.16680.pdf)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
+|**2024-07-24**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/pdf/2407.16680.pdf)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
 |**2024-07-23**|**Deformable Convolution Based Road Scene Semantic Segmentation of Fisheye Images in Autonomous Driving**|Anam Manzoor et.al.|[2407.16647](http://arxiv.org/pdf/2407.16647.pdf)|null|
-|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/pdf/2407.16636.pdf)|null|
+|**2024-07-24**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/pdf/2407.16636.pdf)|null|
 |**2024-07-23**|**MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection**|Youngmin Oh et.al.|[2407.16448](http://arxiv.org/pdf/2407.16448.pdf)|**[link](https://github.com/visualaikhu/monowad)**|
 |**2024-07-23**|**Cleaning Robots in Public Spaces: A Survey and Proposal for Benchmarking Based on Stakeholders Interviews**|Raphael Memmesheimer et.al.|[2407.16393](http://arxiv.org/pdf/2407.16393.pdf)|null|
 |**2024-07-23**|**Understanding Impacts of Electromagnetic Signal Injection Attacks on Object Detection**|Youqian Zhang et.al.|[2407.16327](http://arxiv.org/pdf/2407.16327.pdf)|null|
@@ -9190,7 +9190,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-20**|**Multi-Task Lane-Free Driving Strategy for Connected and Automated Vehicles: A Multi-Agent Deep Reinforcement Learning Approach**|Mehran Berahman et.al.|[2406.14766](http://arxiv.org/pdf/2406.14766.pdf)|null|
 |**2024-06-20**|**Preferential Multi-Objective Bayesian Optimization**|Raul Astudillo et.al.|[2406.14699](http://arxiv.org/pdf/2406.14699.pdf)|null|
 |**2024-06-24**|**Enhancing Dropout-based Bayesian Neural Networks with Multi-Exit on FPGA**|Hao Mark Chen et.al.|[2406.14593](http://arxiv.org/pdf/2406.14593.pdf)|**[link](https://github.com/os-hxfan/mcme_fpga_acc)**|
-|**2024-06-21**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/pdf/2406.14556.pdf)|null|
+|**2024-07-24**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/pdf/2406.14556.pdf)|null|
 |**2024-06-20**|**FutureNet-LOF: Joint Trajectory Prediction and Lane Occupancy Field Prediction with Future Context Encoding**|Mingkun Wang et.al.|[2406.14422](http://arxiv.org/pdf/2406.14422.pdf)|null|
 |**2024-06-20**|**PoseBench: Benchmarking the Robustness of Pose Estimation Models under Corruptions**|Sihan Ma et.al.|[2406.14367](http://arxiv.org/pdf/2406.14367.pdf)|null|
 |**2024-06-20**|**Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment**|Yunshan Qi et.al.|[2406.14360](http://arxiv.org/pdf/2406.14360.pdf)|null|
@@ -10727,13 +10727,13 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240725>back to top</a>)</p>
 
 ## Traffic Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/pdf/2407.16636.pdf)|null|
+|**2024-07-24**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/pdf/2407.16636.pdf)|null|
 |**2024-07-23**|**Cross Anything: General Quadruped Robot Navigation through Complex Terrains**|Shaoting Zhu et.al.|[2407.16412](http://arxiv.org/pdf/2407.16412.pdf)|null|
 |**2024-07-23**|**Flatness-based motion planning for a non-uniform moving cantilever Euler-Bernoulli beam with a tip-mass**|Soham Chatterjee et.al.|[2407.16195](http://arxiv.org/pdf/2407.16195.pdf)|null|
 |**2024-07-22**|**Flow-guided Motion Prediction with Semantics and Dynamic Occupancy Grid Maps**|Rabbia Asghar et.al.|[2407.15675](http://arxiv.org/pdf/2407.15675.pdf)|null|
@@ -10802,7 +10802,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-23**|**MetaFollower: Adaptable Personalized Autonomous Car Following**|Xianda Chen et.al.|[2406.16978](http://arxiv.org/pdf/2406.16978.pdf)|null|
 |**2024-04-29**|**An Exploratory Study on Human-Centric Video Anomaly Detection through Variational Autoencoders and Trajectory Prediction**|Ghazal Alinezhad Noghre et.al.|[2406.15395](http://arxiv.org/pdf/2406.15395.pdf)|**[link](https://github.com/tecsar-uncc/tsgad)**|
 |**2024-06-20**|**Relational Reasoning On Graphs Using Opinion Dynamics**|Yulong Yang et.al.|[2406.14746](http://arxiv.org/pdf/2406.14746.pdf)|null|
-|**2024-06-21**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/pdf/2406.14556.pdf)|null|
+|**2024-07-24**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/pdf/2406.14556.pdf)|null|
 |**2024-06-20**|**FutureNet-LOF: Joint Trajectory Prediction and Lane Occupancy Field Prediction with Future Context Encoding**|Mingkun Wang et.al.|[2406.14422](http://arxiv.org/pdf/2406.14422.pdf)|null|
 |**2024-06-20**|**A-OctoMap: An Adaptive OctoMap for Online Motion Planning**|Yihui Mao et.al.|[2406.13910](http://arxiv.org/pdf/2406.13910.pdf)|null|
 |**2024-06-19**|**Group-Control Motion Planning Framework for Microrobot Swarms in a Global Field**|Siyu Li et.al.|[2406.13829](http://arxiv.org/pdf/2406.13829.pdf)|null|
@@ -10965,7 +10965,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-20**|**Social Force Embedded Mixed Graph Convolutional Network for Multi-class Trajectory Prediction**|Quancheng Du et.al.|[2404.13378](http://arxiv.org/pdf/2404.13378.pdf)|null|
 |**2024-04-19**|**Action Contextualization: Adaptive Task Planning and Action Tuning using Large Language Models**|Sthithpragya Gupta et.al.|[2404.13191](http://arxiv.org/pdf/2404.13191.pdf)|null|
 |**2024-04-19**|**PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation**|Tianyuan Zhang et.al.|[2404.13026](http://arxiv.org/pdf/2404.13026.pdf)|null|
-|**2024-04-19**|**FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving**|Xingtai Gui et.al.|[2404.12867](http://arxiv.org/pdf/2404.12867.pdf)|null|
+|**2024-07-24**|**FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving**|Xingtai Gui et.al.|[2404.12867](http://arxiv.org/pdf/2404.12867.pdf)|null|
 |**2024-04-19**|**uTRAND: Unsupervised Anomaly Detection in Traffic Trajectories**|Giacomo D'Amicantonio et.al.|[2404.12712](http://arxiv.org/pdf/2404.12712.pdf)|null|
 |**2024-04-19**|**SA-Attack: Speed-adaptive stealthy adversarial attack on trajectory prediction**|Huilin Yin et.al.|[2404.12612](http://arxiv.org/pdf/2404.12612.pdf)|**[link](https://github.com/eclipse-bot/sa-attack)**|
 |**2024-04-30**|**TrACT: A Training Dynamics Aware Contrastive Learning Framework for Long-tail Trajectory Prediction**|Junrui Zhang et.al.|[2404.12538](http://arxiv.org/pdf/2404.12538.pdf)|null|
@@ -11535,7 +11535,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240725>back to top</a>)</p>
 
 ## Diffusion
 
@@ -11728,5 +11728,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-06-22**|**Video Diffusion Models**|Jonathan Ho et.al.|[2204.03458](http://arxiv.org/pdf/2204.03458.pdf)|null|
 |**2022-12-08**|**Diffusion Probabilistic Modeling for Video Generation**|Ruihan Yang et.al.|[2203.09481](http://arxiv.org/pdf/2203.09481.pdf)|**[link](https://github.com/buggyyang/rvd)**|
 
-<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240725>back to top</a>)</p>
 
