@@ -18,6 +18,36 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470](http://arxiv.org/pdf/2407.17470.pdf)|null|
+|**2024-07-24**|**Existence and non-uniqueness of weak solutions with continuous energy to the 3D deterministic and stochastic Navier-Stokes equations**|Alexey Cheskidov et.al.|[2407.17463](http://arxiv.org/pdf/2407.17463.pdf)|null|
+|**2024-07-24**|**A soft-hard framework with exact four momentum conservation for small systems**|I. Soudi et.al.|[2407.17443](http://arxiv.org/pdf/2407.17443.pdf)|null|
+|**2024-07-24**|**Long-time behavior to the 3D isentropic compressible Navier-Stokes equations**|Guochun Wu et.al.|[2407.17439](http://arxiv.org/pdf/2407.17439.pdf)|null|
+|**2024-07-24**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438](http://arxiv.org/pdf/2407.17438.pdf)|**[link](https://github.com/zhenzhiwang/humanvid)**|
+|**2024-07-24**|**3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities**|Yanqi Bao et.al.|[2407.17418](http://arxiv.org/pdf/2407.17418.pdf)|**[link](https://github.com/qqqqqqy0227/awesome-3dgs)**|
+|**2024-07-24**|**3D Question Answering for City Scene Understanding**|Penglei Sun et.al.|[2407.17398](http://arxiv.org/pdf/2407.17398.pdf)|null|
+|**2024-07-24**|**2D and 3D Deep Learning Models for MRI-based Parkinson's Disease Classification: A Comparative Analysis of Convolutional Kolmogorov-Arnold Networks, Convolutional Neural Networks, and Graph Convolutional Networks**|Salil B Patel et.al.|[2407.17380](http://arxiv.org/pdf/2407.17380.pdf)|null|
+|**2024-07-24**|**Accurate Inverse Process Optimization Framework in Laser Directed Energy Deposition**|Xiao Shang et.al.|[2407.17338](http://arxiv.org/pdf/2407.17338.pdf)|null|
+|**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324](http://arxiv.org/pdf/2407.17324.pdf)|null|
+|**2024-07-24**|**Asymmetries in asymptotic giant branch stars and their winds. I. From 3D RHD models to synthetic observables**|Joachim Wiegert et.al.|[2407.17317](http://arxiv.org/pdf/2407.17317.pdf)|null|
+|**2024-07-24**|**LangOcc: Self-Supervised Open Vocabulary Occupancy Estimation via Volume Rendering**|Simon Boeder et.al.|[2407.17310](http://arxiv.org/pdf/2407.17310.pdf)|null|
+|**2024-07-24**|**The impact of differences in facial features between real speakers and 3D face models on synthesized lip motions**|Rabab Algadhy et.al.|[2407.17253](http://arxiv.org/pdf/2407.17253.pdf)|null|
+|**2024-07-24**|**Near-Field Integrated Sensing and Communication with Extremely Large-Scale Antenna Array**|Haocheng Hua et.al.|[2407.17237](http://arxiv.org/pdf/2407.17237.pdf)|null|
+|**2024-07-24**|**Graph Neural Networks: A suitable Alternative to MLPs in Latent 3D Medical Image Classification?**|Johannes Kiechle et.al.|[2407.17219](http://arxiv.org/pdf/2407.17219.pdf)|**[link](https://github.com/compai-lab/2024-miccai-grail-kiechle)**|
+|**2024-07-24**|**The Sketchfab 3D Creative Commons Collection (S3D3C)**|Florian Spiess et.al.|[2407.17205](http://arxiv.org/pdf/2407.17205.pdf)|null|
+|**2024-07-24**|**ALPI: Auto-Labeller with Proxy Injection for 3D Object Detection using 2D Labels Only**|Saad Lahlali et.al.|[2407.17197](http://arxiv.org/pdf/2407.17197.pdf)|null|
+|**2024-07-24**|**DiffCD: A Symmetric Differentiable Chamfer Distance for Neural Implicit Surface Fitting**|Linus Härenstam-Nielsen et.al.|[2407.17058](http://arxiv.org/pdf/2407.17058.pdf)|null|
+|**2024-07-24**|**DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car Reconstruction**|Xiaobiao Du et.al.|[2407.16988](http://arxiv.org/pdf/2407.16988.pdf)|null|
+|**2024-07-24**|**Understanding the Ising zigzag antiferromagnetism of FePS3 and FePSe3 monolayers**|Ke Yang et.al.|[2407.16978](http://arxiv.org/pdf/2407.16978.pdf)|null|
+|**2024-07-24**|**3DAttGAN: A 3D Attention-based Generative Adversarial Network for Joint Space-Time Video Super-Resolution**|Congrui Fu et.al.|[2407.16965](http://arxiv.org/pdf/2407.16965.pdf)|null|
+|**2024-07-24**|**DVPE: Divided View Position Embedding for Multi-View 3D Object Detection**|Jiasen Wang et.al.|[2407.16955](http://arxiv.org/pdf/2407.16955.pdf)|**[link](https://github.com/dop0/dvpe)**|
+|**2024-07-24**|**EUFormer: Learning Driven 3D Spine Deformity Assessment with Orthogonal Optical Images**|Nan Meng et.al.|[2407.16942](http://arxiv.org/pdf/2407.16942.pdf)|null|
+|**2024-07-23**|**Vision-Based Adaptive Robotics for Autonomous Surface Crack Repair**|Joshua Genova et.al.|[2407.16874](http://arxiv.org/pdf/2407.16874.pdf)|null|
+|**2024-07-23**|**SE3ET: SE(3)-Equivariant Transformer for Low-Overlap Point Cloud Registration**|Chien Erh Lin et.al.|[2407.16823](http://arxiv.org/pdf/2407.16823.pdf)|null|
+|**2024-07-23**|**Chern-Simons-Like Formulation of Exotic Massive 3D Gravity Models**|Büşra Dedeoğlu et.al.|[2407.16799](http://arxiv.org/pdf/2407.16799.pdf)|null|
+|**2024-07-23**|**What Matters in Range View 3D Object Detection**|Benjamin Wilson et.al.|[2407.16789](http://arxiv.org/pdf/2407.16789.pdf)|**[link](https://github.com/benjaminrwilson/range-view-3d-detection)**|
+|**2024-07-23**|**Occlusion-Aware 3D Motion Interpretation for Abnormal Behavior Detection**|Su Li et.al.|[2407.16788](http://arxiv.org/pdf/2407.16788.pdf)|null|
+|**2024-07-23**|**She's Got Her Mother's Hair: End-to-End Collapsar Simulations Unveil the Origin of Black Holes' Magnetic Field**|Ore Gottlieb et.al.|[2407.16745](http://arxiv.org/pdf/2407.16745.pdf)|null|
+|**2024-07-23**|**Simulation of ultracold Bose gases with the complex Langevin method**|Philipp Heinen et.al.|[2407.16730](http://arxiv.org/pdf/2407.16730.pdf)|null|
 |**2024-07-23**|**Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions**|Fabio Tosi et.al.|[2407.16698](http://arxiv.org/pdf/2407.16698.pdf)|**[link](https://github.com/fabiotosi92/diffusion4robustdepth)**|
 |**2024-07-23**|**AbdomenAtlas: A Large-Scale, Detailed-Annotated, & Multi-Center Dataset for Efficient Transfer Learning and Open Algorithmic Benchmarking**|Wenxuan Li et.al.|[2407.16697](http://arxiv.org/pdf/2407.16697.pdf)|null|
 |**2024-07-23**|**Unveiling galaxy pair alignment in cosmic filaments: A 3D exploration using EAGLE simulation**|Suman Sarkar et.al.|[2407.16675](http://arxiv.org/pdf/2407.16675.pdf)|null|
@@ -7662,6 +7692,13 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**$VILA^2$ : VILA Augmented VILA**|Yunhao Fang et.al.|[2407.17453](http://arxiv.org/pdf/2407.17453.pdf)|null|
+|**2024-07-24**|**3D Question Answering for City Scene Understanding**|Penglei Sun et.al.|[2407.17398](http://arxiv.org/pdf/2407.17398.pdf)|null|
+|**2024-07-24**|**Physical Adversarial Attack on Monocular Depth Estimation via Shape-Varying Patches**|Chenxing Zhao et.al.|[2407.17312](http://arxiv.org/pdf/2407.17312.pdf)|null|
+|**2024-07-24**|**Testing Large Language Models on Driving Theory Knowledge and Skills for Connected Autonomous Vehicles**|Zuoyin Tang et.al.|[2407.17211](http://arxiv.org/pdf/2407.17211.pdf)|null|
+|**2024-07-24**|**Applications of Multi-Agent Deep Reinforcement Learning Communication in Network Management: A Survey**|Yue Pi et.al.|[2407.17030](http://arxiv.org/pdf/2407.17030.pdf)|null|
+|**2024-07-24**|**Progressive Query Refinement Framework for Bird's-Eye-View Semantic Segmentation from Surrounding Images**|Dooseop Choi et.al.|[2407.17003](http://arxiv.org/pdf/2407.17003.pdf)|**[link](https://github.com/d1024choi/progressivequeryrefinenet)**|
+|**2024-07-23**|**SECRM-2D: RL-Based Efficient and Comfortable Route-Following Autonomous Driving with Analytic Safety Guarantees**|Tianyu Shi et.al.|[2407.16857](http://arxiv.org/pdf/2407.16857.pdf)|null|
 |**2024-07-24**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/pdf/2407.16680.pdf)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
 |**2024-07-23**|**Deformable Convolution Based Road Scene Semantic Segmentation of Fisheye Images in Autonomous Driving**|Anam Manzoor et.al.|[2407.16647](http://arxiv.org/pdf/2407.16647.pdf)|null|
 |**2024-07-24**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/pdf/2407.16636.pdf)|null|
@@ -7818,7 +7855,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-20**|**Multi-Task Lane-Free Driving Strategy for Connected and Automated Vehicles: A Multi-Agent Deep Reinforcement Learning Approach**|Mehran Berahman et.al.|[2406.14766](http://arxiv.org/pdf/2406.14766.pdf)|null|
 |**2024-06-20**|**Preferential Multi-Objective Bayesian Optimization**|Raul Astudillo et.al.|[2406.14699](http://arxiv.org/pdf/2406.14699.pdf)|null|
 |**2024-06-24**|**Enhancing Dropout-based Bayesian Neural Networks with Multi-Exit on FPGA**|Hao Mark Chen et.al.|[2406.14593](http://arxiv.org/pdf/2406.14593.pdf)|**[link](https://github.com/os-hxfan/mcme_fpga_acc)**|
-|**2024-07-24**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/pdf/2406.14556.pdf)|null|
+|**2024-07-24**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/pdf/2406.14556.pdf)|**[link](https://github.com/memberre/asyncdriver)**|
 |**2024-06-20**|**FutureNet-LOF: Joint Trajectory Prediction and Lane Occupancy Field Prediction with Future Context Encoding**|Mingkun Wang et.al.|[2406.14422](http://arxiv.org/pdf/2406.14422.pdf)|null|
 |**2024-06-20**|**PoseBench: Benchmarking the Robustness of Pose Estimation Models under Corruptions**|Sihan Ma et.al.|[2406.14367](http://arxiv.org/pdf/2406.14367.pdf)|null|
 |**2024-06-20**|**Uncertainty and Self-Supervision in Single-View Depth**|Javier Rodriguez-Puigvert et.al.|[2406.14226](http://arxiv.org/pdf/2406.14226.pdf)|null|
@@ -8983,6 +9020,12 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**3D Question Answering for City Scene Understanding**|Penglei Sun et.al.|[2407.17398](http://arxiv.org/pdf/2407.17398.pdf)|null|
+|**2024-07-24**|**Physical Adversarial Attack on Monocular Depth Estimation via Shape-Varying Patches**|Chenxing Zhao et.al.|[2407.17312](http://arxiv.org/pdf/2407.17312.pdf)|null|
+|**2024-07-24**|**Testing Large Language Models on Driving Theory Knowledge and Skills for Connected Autonomous Vehicles**|Zuoyin Tang et.al.|[2407.17211](http://arxiv.org/pdf/2407.17211.pdf)|null|
+|**2024-07-24**|**Applications of Multi-Agent Deep Reinforcement Learning Communication in Network Management: A Survey**|Yue Pi et.al.|[2407.17030](http://arxiv.org/pdf/2407.17030.pdf)|null|
+|**2024-07-24**|**Progressive Query Refinement Framework for Bird's-Eye-View Semantic Segmentation from Surrounding Images**|Dooseop Choi et.al.|[2407.17003](http://arxiv.org/pdf/2407.17003.pdf)|**[link](https://github.com/d1024choi/progressivequeryrefinenet)**|
+|**2024-07-23**|**SECRM-2D: RL-Based Efficient and Comfortable Route-Following Autonomous Driving with Analytic Safety Guarantees**|Tianyu Shi et.al.|[2407.16857](http://arxiv.org/pdf/2407.16857.pdf)|null|
 |**2024-07-24**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/pdf/2407.16680.pdf)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
 |**2024-07-23**|**Deformable Convolution Based Road Scene Semantic Segmentation of Fisheye Images in Autonomous Driving**|Anam Manzoor et.al.|[2407.16647](http://arxiv.org/pdf/2407.16647.pdf)|null|
 |**2024-07-24**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/pdf/2407.16636.pdf)|null|
@@ -9185,7 +9228,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-20**|**Multi-Task Lane-Free Driving Strategy for Connected and Automated Vehicles: A Multi-Agent Deep Reinforcement Learning Approach**|Mehran Berahman et.al.|[2406.14766](http://arxiv.org/pdf/2406.14766.pdf)|null|
 |**2024-06-20**|**Preferential Multi-Objective Bayesian Optimization**|Raul Astudillo et.al.|[2406.14699](http://arxiv.org/pdf/2406.14699.pdf)|null|
 |**2024-06-24**|**Enhancing Dropout-based Bayesian Neural Networks with Multi-Exit on FPGA**|Hao Mark Chen et.al.|[2406.14593](http://arxiv.org/pdf/2406.14593.pdf)|**[link](https://github.com/os-hxfan/mcme_fpga_acc)**|
-|**2024-07-24**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/pdf/2406.14556.pdf)|null|
+|**2024-07-24**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/pdf/2406.14556.pdf)|**[link](https://github.com/memberre/asyncdriver)**|
 |**2024-06-20**|**FutureNet-LOF: Joint Trajectory Prediction and Lane Occupancy Field Prediction with Future Context Encoding**|Mingkun Wang et.al.|[2406.14422](http://arxiv.org/pdf/2406.14422.pdf)|null|
 |**2024-06-20**|**PoseBench: Benchmarking the Robustness of Pose Estimation Models under Corruptions**|Sihan Ma et.al.|[2406.14367](http://arxiv.org/pdf/2406.14367.pdf)|null|
 |**2024-06-20**|**Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment**|Yunshan Qi et.al.|[2406.14360](http://arxiv.org/pdf/2406.14360.pdf)|null|
@@ -10726,6 +10769,10 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Towards Practical Finite Sample Bounds for Motion Planning in TAMP**|Seiji Shaw et.al.|[2407.17394](http://arxiv.org/pdf/2407.17394.pdf)|null|
+|**2024-07-24**|**Context-aware Multi-task Learning for Pedestrian Intent and Trajectory Prediction**|Farzeen Munir et.al.|[2407.17162](http://arxiv.org/pdf/2407.17162.pdf)|**[link](https://github.com/aalto-mobile-robotics-group/ptinet)**|
+|**2024-07-24**|**AI-Gadget Kit: Integrating Swarm User Interfaces with LLM-driven Agents for Rich Tabletop Game Applications**|Yijie Guo et.al.|[2407.17086](http://arxiv.org/pdf/2407.17086.pdf)|null|
+|**2024-07-23**|**Topology-Guided ORCA: Smooth Multi-Agent Motion Planning in Constrained Environments**|Fatemeh Cheraghi Pouria et.al.|[2407.16771](http://arxiv.org/pdf/2407.16771.pdf)|null|
 |**2024-07-24**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/pdf/2407.16636.pdf)|null|
 |**2024-07-23**|**Cross Anything: General Quadruped Robot Navigation through Complex Terrains**|Shaoting Zhu et.al.|[2407.16412](http://arxiv.org/pdf/2407.16412.pdf)|null|
 |**2024-07-23**|**Flatness-based motion planning for a non-uniform moving cantilever Euler-Bernoulli beam with a tip-mass**|Soham Chatterjee et.al.|[2407.16195](http://arxiv.org/pdf/2407.16195.pdf)|null|
@@ -10795,7 +10842,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-23**|**MetaFollower: Adaptable Personalized Autonomous Car Following**|Xianda Chen et.al.|[2406.16978](http://arxiv.org/pdf/2406.16978.pdf)|null|
 |**2024-04-29**|**An Exploratory Study on Human-Centric Video Anomaly Detection through Variational Autoencoders and Trajectory Prediction**|Ghazal Alinezhad Noghre et.al.|[2406.15395](http://arxiv.org/pdf/2406.15395.pdf)|**[link](https://github.com/tecsar-uncc/tsgad)**|
 |**2024-06-20**|**Relational Reasoning On Graphs Using Opinion Dynamics**|Yulong Yang et.al.|[2406.14746](http://arxiv.org/pdf/2406.14746.pdf)|null|
-|**2024-07-24**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/pdf/2406.14556.pdf)|null|
+|**2024-07-24**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/pdf/2406.14556.pdf)|**[link](https://github.com/memberre/asyncdriver)**|
 |**2024-06-20**|**FutureNet-LOF: Joint Trajectory Prediction and Lane Occupancy Field Prediction with Future Context Encoding**|Mingkun Wang et.al.|[2406.14422](http://arxiv.org/pdf/2406.14422.pdf)|null|
 |**2024-06-20**|**A-OctoMap: An Adaptive OctoMap for Online Motion Planning**|Yihui Mao et.al.|[2406.13910](http://arxiv.org/pdf/2406.13910.pdf)|null|
 |**2024-06-19**|**Group-Control Motion Planning Framework for Microrobot Swarms in a Global Field**|Siyu Li et.al.|[2406.13829](http://arxiv.org/pdf/2406.13829.pdf)|null|
@@ -10958,7 +11005,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-20**|**Social Force Embedded Mixed Graph Convolutional Network for Multi-class Trajectory Prediction**|Quancheng Du et.al.|[2404.13378](http://arxiv.org/pdf/2404.13378.pdf)|null|
 |**2024-04-19**|**Action Contextualization: Adaptive Task Planning and Action Tuning using Large Language Models**|Sthithpragya Gupta et.al.|[2404.13191](http://arxiv.org/pdf/2404.13191.pdf)|null|
 |**2024-04-19**|**PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation**|Tianyuan Zhang et.al.|[2404.13026](http://arxiv.org/pdf/2404.13026.pdf)|null|
-|**2024-07-24**|**FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving**|Xingtai Gui et.al.|[2404.12867](http://arxiv.org/pdf/2404.12867.pdf)|null|
+|**2024-07-24**|**FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving**|Xingtai Gui et.al.|[2404.12867](http://arxiv.org/pdf/2404.12867.pdf)|**[link](https://github.com/tabguigui/fiptr)**|
 |**2024-04-19**|**uTRAND: Unsupervised Anomaly Detection in Traffic Trajectories**|Giacomo D'Amicantonio et.al.|[2404.12712](http://arxiv.org/pdf/2404.12712.pdf)|null|
 |**2024-04-19**|**SA-Attack: Speed-adaptive stealthy adversarial attack on trajectory prediction**|Huilin Yin et.al.|[2404.12612](http://arxiv.org/pdf/2404.12612.pdf)|**[link](https://github.com/eclipse-bot/sa-attack)**|
 |**2024-04-30**|**TrACT: A Training Dynamics Aware Contrastive Learning Framework for Long-tail Trajectory Prediction**|Junrui Zhang et.al.|[2404.12538](http://arxiv.org/pdf/2404.12538.pdf)|null|
@@ -11532,6 +11579,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470](http://arxiv.org/pdf/2407.17470.pdf)|null|
 |**2024-07-19**|**Unlearning Concepts from Text-to-Video Diffusion Models**|Shiqi Liu et.al.|[2407.14209](http://arxiv.org/pdf/2407.14209.pdf)|null|
 |**2024-07-18**|**Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion**|Boyang Deng et.al.|[2407.13759](http://arxiv.org/pdf/2407.13759.pdf)|null|
 |**2024-07-20**|**VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control**|Sherwin Bahmani et.al.|[2407.12781](http://arxiv.org/pdf/2407.12781.pdf)|null|
