@@ -29,7 +29,7 @@ keywords:
     "NeRF":
         filters: ["NeRF", "neural radiance field"]
     "Diffusion":
-        filters: ["diffusion", "controlnet", "video diffusion", "Text-to-Video"]
+        filters: ["GAN", "diffusion", "diffusion model", "controlnet", "controllable generation", "image generation", "video diffusion", "video generation", "Text-to-Video", "text to image"]
     "Industry":
         filters: ["NVIDIA", "Waymo", "DJI", 'Waabi', 'Raquel Urtasun', 'Sanja Fidler']
     "Autonomous Driving":
