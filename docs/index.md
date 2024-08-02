@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.08.01
+Updated on 2024.08.02
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -54,7 +54,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-30**|**Radio-Frequency Spectroscopy and the Dimensional Crossover in Interacting Spin-Polarized Fermi Gases**|Jeff Maki et.al.|[2407.21106](http://arxiv.org/pdf/2407.21106.pdf)|null|
 |**2024-07-30**|**A Generative Modeling Approach to Reconstructing 21-cm Tomographic Data**|Nashwan Sabti et.al.|[2407.21097](http://arxiv.org/pdf/2407.21097.pdf)|null|
 |**2024-07-30**|**Design and Predict Tetragonal van der Waals Layered Quantum Materials of MPd $_5$I$_2$ (M=Ga, In and 3d Transition Metals)**|Niraj K. Nepal et.al.|[2407.20938](http://arxiv.org/pdf/2407.20938.pdf)|null|
-|**2024-07-30**|**Magnetic field diagnostics of prominences with the Mg II k line: 3D Stokes inversions vs. traditional methods**|Jiří Štěpán et.al.|[2407.20926](http://arxiv.org/pdf/2407.20926.pdf)|null|
+|**2024-08-01**|**Magnetic field diagnostics of prominences with the Mg II k line: 3D Stokes inversions versus traditional methods**|Jiří Štěpán et.al.|[2407.20926](http://arxiv.org/pdf/2407.20926.pdf)|null|
 |**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908](http://arxiv.org/pdf/2407.20908.pdf)|**[link](https://github.com/zyp123494/dynavol)**|
 |**2024-07-30**|**A Comparative Study of Neural Surface Reconstruction for Scientific Visualization**|Siyuan Yao et.al.|[2407.20868](http://arxiv.org/pdf/2407.20868.pdf)|null|
 |**2024-07-30**|**DeTurb: Atmospheric Turbulence Mitigation with Deformable 3D Convolutions and 3D Swin Transformers**|Zhicheng Zou et.al.|[2407.20855](http://arxiv.org/pdf/2407.20855.pdf)|null|
@@ -89,7 +89,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-29**|**Tetrahedral grids in Monte Carlo radiative transfer**|Arno Lauwers et.al.|[2407.20216](http://arxiv.org/pdf/2407.20216.pdf)|null|
 |**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194](http://arxiv.org/pdf/2407.20194.pdf)|**[link](https://github.com/leggedrobotics/rf_ros)**|
 |**2024-07-29**|**Homogenization of Non-homogeneous Incompressible Navier-Stokes System in Critically Perforated Domains**|Jiaojiao Pan et.al.|[2407.20153](http://arxiv.org/pdf/2407.20153.pdf)|null|
-|**2024-07-29**|**Extreme time extrapolation capabilities and thermodynamic consistency of physics-inspired Neural Networks for the 3D microstructure evolution of materials**|Daniele Lanzoni et.al.|[2407.20126](http://arxiv.org/pdf/2407.20126.pdf)|null|
+|**2024-07-29**|**Extreme time extrapolation capabilities and thermodynamic consistency of physics-inspired Neural Networks for the 3D microstructure evolution of materials**|Daniele Lanzoni et.al.|[2407.20126](http://arxiv.org/pdf/2407.20126.pdf)|**[link](https://github.com/dlanzo/CRANE)**|
 |**2024-07-29**|**Integrable and superintegrable quantum mechanical systems with position dependent masses invariant with respect to one parametric Lie groups. 2. Systems with dilatation and shift symmetries**|A. G. Nikitin et.al.|[2407.20112](http://arxiv.org/pdf/2407.20112.pdf)|null|
 |**2024-07-29**|**Visual Support for the Loop Grafting Workflow on Proteins**|Filip Opálený et.al.|[2407.20054](http://arxiv.org/pdf/2407.20054.pdf)|null|
 |**2024-07-29**|**Physically-based Path Tracer using WebGPU and OpenPBR**|Simon Stucki et.al.|[2407.19977](http://arxiv.org/pdf/2407.19977.pdf)|null|
@@ -109,9 +109,9 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-28**|**FreeShell: A Context-Free 4D Printing Technique for Fabricating Complex 3D Triangle Mesh Shells**|Chao Yuan et.al.|[2407.19533](http://arxiv.org/pdf/2407.19533.pdf)|null|
 |**2024-07-30**|**Bistability in spatiotemporal mode-locking with dynamic multimode gain**|Zhijin Xiong et.al.|[2407.19482](http://arxiv.org/pdf/2407.19482.pdf)|null|
 |**2024-07-28**|**Crater-shaped Enrichment of $\mathrm{V}_\mathrm{Si}$ Color Centers in $4H$ -SiC using Single-Pulse Near-Infrared Femtosecond Laser Processing**|Mengzhi Yan et.al.|[2407.19470](http://arxiv.org/pdf/2407.19470.pdf)|null|
-|**2024-07-28**|**BEMTrace: Visualization-driven approach for deriving Building Energy Models from BIM**|Andreas Walch et.al.|[2407.19464](http://arxiv.org/pdf/2407.19464.pdf)|null|
+|**2024-07-31**|**BEMTrace: Visualization-driven approach for deriving Building Energy Models from BIM**|Andreas Walch et.al.|[2407.19464](http://arxiv.org/pdf/2407.19464.pdf)|null|
 |**2024-07-28**|**HD-maps as Prior Information for Globally Consistent Mapping in GPS-denied Environments**|Waqas Ali et.al.|[2407.19463](http://arxiv.org/pdf/2407.19463.pdf)|null|
-|**2024-07-28**|**\textsc{Perm}: A Parametric Representation for Multi-Style 3D Hair Modeling**|Chengan He et.al.|[2407.19451](http://arxiv.org/pdf/2407.19451.pdf)|null|
+|**2024-07-31**|**Perm: A Parametric Representation for Multi-Style 3D Hair Modeling**|Chengan He et.al.|[2407.19451](http://arxiv.org/pdf/2407.19451.pdf)|null|
 |**2024-07-28**|**FINER++: Building a Family of Variable-periodic Functions for Activating Implicit Neural Representation**|Hao Zhu et.al.|[2407.19434](http://arxiv.org/pdf/2407.19434.pdf)|null|
 |**2024-07-28**|**Three-dimensional solitons supported by the spin-orbit coupling and Rydberg-Rydberg interactions in PT-symmetric potentials**|Yuan Zhao et.al.|[2407.19432](http://arxiv.org/pdf/2407.19432.pdf)|null|
 |**2024-07-28**|**Near-Isotropic Sub-Ångstrom 3D Resolution Phase Contrast Imaging Achieved by End-to-End Ptychographic Electron Tomography**|Shengboy You et.al.|[2407.19407](http://arxiv.org/pdf/2407.19407.pdf)|null|
@@ -7096,7 +7096,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-28**|**CodecNeRF: Toward Fast Encoding and Decoding, Compact, and High-quality Novel-view Synthesis**|Gyeongjin Kang et.al.|[2404.04913](http://arxiv.org/pdf/2404.04913.pdf)|null|
 |**2024-04-13**|**GauU-Scene V2: Assessing the Reliability of Image-Based Metrics with Expansive Lidar Image Dataset Using 3DGS and NeRF**|Butian Xiong et.al.|[2404.04880](http://arxiv.org/pdf/2404.04880.pdf)|null|
 |**2024-04-07**|**NeRF2Points: Large-Scale Point Cloud Generation From Street Views' Radiance Field Optimization**|Peng Tu et.al.|[2404.04875](http://arxiv.org/pdf/2404.04875.pdf)|null|
-|**2024-04-06**|**DATENeRF: Depth-Aware Text-based Editing of NeRFs**|Sara Rojas et.al.|[2404.04526](http://arxiv.org/pdf/2404.04526.pdf)|null|
+|**2024-08-01**|**DATENeRF: Depth-Aware Text-based Editing of NeRFs**|Sara Rojas et.al.|[2404.04526](http://arxiv.org/pdf/2404.04526.pdf)|null|
 |**2024-04-07**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/pdf/2404.03654.pdf)|null|
 |**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349](http://arxiv.org/pdf/2404.03349.pdf)|null|
 |**2024-04-03**|**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**|Zehan Zheng et.al.|[2404.02742](http://arxiv.org/pdf/2404.02742.pdf)|**[link](https://github.com/ispc-lab/lidar4d)**|
@@ -11854,7 +11854,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-30**|**Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning**|Norman Di Palo et.al.|[2407.20798](http://arxiv.org/pdf/2407.20798.pdf)|null|
 |**2024-07-29**|**Retinex-Diffusion: On Controlling Illumination Conditions in Diffusion Models via Retinex Theory**|Xiaoyan Xing et.al.|[2407.20785](http://arxiv.org/pdf/2407.20785.pdf)|null|
 |**2024-07-27**|**Inverse Problems with Diffusion Models: A MAP Estimation Perspective**|Sai bharath chandra Gutha et.al.|[2407.20784](http://arxiv.org/pdf/2407.20784.pdf)|null|
-|**2024-07-30**|**SynthVLM: High-Efficiency and High-Quality Synthetic Data for Vision Language Models**|Zheng Liu et.al.|[2407.20756](http://arxiv.org/pdf/2407.20756.pdf)|**[link](https://github.com/starriver030515/synthvlm)**|
+|**2024-08-01**|**SynthVLM: High-Efficiency and High-Quality Synthetic Data for Vision Language Models**|Zheng Liu et.al.|[2407.20756](http://arxiv.org/pdf/2407.20756.pdf)|**[link](https://github.com/starriver030515/synthvlm)**|
 |**2024-07-30**|**Understanding the Impact of Synchronous, Asynchronous, and Hybrid In-Situ Techniques in Computational Fluid Dynamics Applications**|Yi Ju et.al.|[2407.20717](http://arxiv.org/pdf/2407.20717.pdf)|null|
 |**2024-07-30**|**DocXPand-25k: a large and diverse benchmark dataset for identity documents analysis**|Julien Lerouge et.al.|[2407.20662](http://arxiv.org/pdf/2407.20662.pdf)|**[link](https://github.com/quicksign/docxpand)**|
 |**2024-07-30**|**Autonomous Improvement of Instruction Following Skills via Foundation Models**|Zhiyuan Zhou et.al.|[2407.20635](http://arxiv.org/pdf/2407.20635.pdf)|null|
@@ -11887,7 +11887,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-28**|**MVPbev: Multi-view Perspective Image Generation from BEV with Test-time Controllability and Generalizability**|Buyu Liu et.al.|[2407.19468](http://arxiv.org/pdf/2407.19468.pdf)|**[link](https://github.com/kkaiwwana/mvpbev)**|
 |**2024-07-28**|**White Matter Geometry-Guided Score-Based Diffusion Model for Tissue Microstructure Imputation in Tractography Imaging**|Yui Lo et.al.|[2407.19460](http://arxiv.org/pdf/2407.19460.pdf)|null|
 |**2024-07-28**|**FIND: Fine-tuning Initial Noise Distribution with Policy Optimization for Diffusion Models**|Changgu Chen et.al.|[2407.19453](http://arxiv.org/pdf/2407.19453.pdf)|null|
-|**2024-07-28**|**\textsc{Perm}: A Parametric Representation for Multi-Style 3D Hair Modeling**|Chengan He et.al.|[2407.19451](http://arxiv.org/pdf/2407.19451.pdf)|null|
+|**2024-07-31**|**Perm: A Parametric Representation for Multi-Style 3D Hair Modeling**|Chengan He et.al.|[2407.19451](http://arxiv.org/pdf/2407.19451.pdf)|null|
 |**2024-07-28**|**Innovative RIS Prototyping Enhancing Wireless Communication with Real-Time Spot Beam Tracking and OAM Wavefront Manipulation**|Yufei Zhao et.al.|[2407.19379](http://arxiv.org/pdf/2407.19379.pdf)|null|
 |**2024-07-28**|**ClickDiff: Click to Induce Semantic Contact Map for Controllable Grasp Generation with Diffusion Models**|Peiming Li et.al.|[2407.19370](http://arxiv.org/pdf/2407.19370.pdf)|**[link](https://github.com/adventurer-w/clickdiff)**|
 |**2024-07-27**|**Radio Frequency Signal based Human Silhouette Segmentation: A Sequential Diffusion Approach**|Penghui Wen et.al.|[2407.19244](http://arxiv.org/pdf/2407.19244.pdf)|**[link](https://github.com/ph-w2000/sdm)**|
