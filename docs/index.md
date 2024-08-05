@@ -1019,7 +1019,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-21**|**3D-Localization of Single Point-Like Gamma Sources with a Coded Aperture Camera**|Tobias Meißner et.al.|[2406.15048](http://arxiv.org/pdf/2406.15048.pdf)|null|
 |**2024-06-21**|**SVFormer: A Direct Training Spiking Transformer for Efficient Video Action Recognition**|Liutao Yu et.al.|[2406.15034](http://arxiv.org/pdf/2406.15034.pdf)|null|
 |**2024-06-21**|**A3D: Does Diffusion Dream about 3D Alignment?**|Savva Ignatyev et.al.|[2406.15020](http://arxiv.org/pdf/2406.15020.pdf)|null|
-|**2024-06-21**|**SO(3) attitude controllers and the alignment of robots with non-constant 3D vector fields**|Jesus Bautista et.al.|[2406.14998](http://arxiv.org/pdf/2406.14998.pdf)|null|
+|**2024-06-21**|**SO(3) attitude controllers and the alignment of robots with non-constant 3D vector fields**|Jesus Bautista et.al.|[2406.14998](http://arxiv.org/pdf/2406.14998.pdf)|**[link](https://github.com/jesusbv20/source_seeking_3d)**|
 |**2024-06-21**|**Probabilistic and Differentiable Wireless Simulation with Geometric Transformers**|Thomas Hehn et.al.|[2406.14995](http://arxiv.org/pdf/2406.14995.pdf)|null|
 |**2024-06-21**|**E2GS: Event Enhanced Gaussian Splatting**|Hiroyuki Deguchi et.al.|[2406.14978](http://arxiv.org/pdf/2406.14978.pdf)|**[link](https://github.com/deguchihiroyuki/e2gs)**|
 |**2024-06-21**|**CoCPF: Coordinate-based Continuous Projection Field for Ill-Posed Inverse Problem in Imaging**|Zixuan Chen et.al.|[2406.14976](http://arxiv.org/pdf/2406.14976.pdf)|null|
@@ -3033,7 +3033,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-04-02**|**Identification and characterization of three-dimensional crack propagation mechanism in the Aluminium alloy AA2024-T3 using high-resolution Digital Image Correlation**|Vanessa Schöne et.al.|[2404.01852](http://arxiv.org/pdf/2404.01852.pdf)|null|
 |**2024-04-07**|**Sketch3D: Style-Consistent Guidance for Sketch-to-3D Generation**|Wangguandong Zheng et.al.|[2404.01843](http://arxiv.org/pdf/2404.01843.pdf)|null|
 |**2024-04-02**|**Uncertainty-aware Active Learning of NeRF-based Object Models for Robot Manipulators using Visual and Re-orientation Actions**|Saptarshi Dasgupta et.al.|[2404.01812](http://arxiv.org/pdf/2404.01812.pdf)|null|
-|**2024-04-02**|**Surface Reconstruction from Gaussian Splatting via Novel Stereo Views**|Yaniv Wolf et.al.|[2404.01810](http://arxiv.org/pdf/2404.01810.pdf)|null|
+|**2024-04-02**|**Surface Reconstruction from Gaussian Splatting via Novel Stereo Views**|Yaniv Wolf et.al.|[2404.01810](http://arxiv.org/pdf/2404.01810.pdf)|**[link](https://github.com/yanivw12/gs2mesh)**|
 |**2024-04-02**|**Diagnostics of 3D explosion asymmetries of stripped-envelope supernovae by nebular line profiles**|Bart van Baal et.al.|[2404.01763](http://arxiv.org/pdf/2404.01763.pdf)|null|
 |**2024-04-02**|**Contextual Embedding Learning to Enhance 2D Networks for Volumetric Image Segmentation**|Zhuoyuan Wang et.al.|[2404.01723](http://arxiv.org/pdf/2404.01723.pdf)|**[link](https://github.com/juliuswang-7/ce_block)**|
 |**2024-04-02**|**HeMeNet: Heterogeneous Multichannel Equivariant Network for Protein Multitask Learning**|Rong Han et.al.|[2404.01693](http://arxiv.org/pdf/2404.01693.pdf)|null|
@@ -6276,7 +6276,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-11-20**|**Mixing-Denoising Generalizable Occupancy Networks**|Amine Ouasfi et.al.|[2311.12125](http://arxiv.org/abs/2311.12125)|null|
 |**2023-11-20**|**A Comprehensive Theory for Neutron Star and Black Hole Kicks and Induced Spins**|Adam Burrows et.al.|[2311.12109](http://arxiv.org/abs/2311.12109)|null|
 |**2023-11-20**|**Pyramid Diffusion for Fine 3D Large Scene Generation**|Yuheng Liu et.al.|[2311.12085](http://arxiv.org/abs/2311.12085)|**[link](https://github.com/Yuheng-SWJTU/pyramid-discrete-diffusion)**|
-|**2023-11-18**|**DatasetNeRF: Efficient 3D-aware Data Factory with Generative Radiance Fields**|Yu Chi et.al.|[2311.12063](http://arxiv.org/abs/2311.12063)|null|
+|**2023-11-18**|**DatasetNeRF: Efficient 3D-aware Data Factory with Generative Radiance Fields**|Yu Chi et.al.|[2311.12063](http://arxiv.org/abs/2311.12063)|**[link](https://github.com/genintel/datasetnerf)**|
 |**2023-11-18**|**PBWR: Parametric Building Wireframe Reconstruction from Aerial LiDAR Point Clouds**|Shangfeng Huang et.al.|[2311.12062](http://arxiv.org/abs/2311.12062)|null|
 |**2023-11-18**|**Towards Function Space Mesh Watermarking: Protecting the Copyright of Signed Distance Fields**|Xingyu Zhu et.al.|[2311.12059](http://arxiv.org/abs/2311.12059)|null|
 |**2023-11-18**|**FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin**|Zichen Yu et.al.|[2311.12058](http://arxiv.org/abs/2311.12058)|**[link](https://github.com/Yzichen/FlashOCC)**|
@@ -8626,7 +8626,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-12**|**Unleashing HyDRa: Hybrid Fusion, Depth Consistency and Radar for Unified 3D Perception**|Philipp Wolters et.al.|[2403.07746](http://arxiv.org/pdf/2403.07746.pdf)|**[link](https://github.com/phi-wol/hydra)**|
 |**2024-03-12**|**A Survey of Vision Transformers in Autonomous Driving: Current Trends and Future Directions**|Quoc-Vinh Lai-Dang et.al.|[2403.07542](http://arxiv.org/pdf/2403.07542.pdf)|null|
 |**2024-03-12**|**Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving**|JunDa Cheng et.al.|[2403.07535](http://arxiv.org/pdf/2403.07535.pdf)|**[link](https://github.com/junda24/afnet)**|
-|**2024-03-12**|**Adaptive Bounding Box Uncertainties via Two-Step Conformal Prediction**|Alexander Timans et.al.|[2403.07263](http://arxiv.org/pdf/2403.07263.pdf)|null|
+|**2024-03-12**|**Adaptive Bounding Box Uncertainties via Two-Step Conformal Prediction**|Alexander Timans et.al.|[2403.07263](http://arxiv.org/pdf/2403.07263.pdf)|**[link](https://github.com/alextimans/conformal-od)**|
 |**2024-03-12**|**Tractable Joint Prediction and Planning over Discrete Behavior Modes for Urban Driving**|Adam Villaflor et.al.|[2403.07232](http://arxiv.org/pdf/2403.07232.pdf)|null|
 |**2024-03-11**|**Mapping High-level Semantic Regions in Indoor Environments without Object Recognition**|Roberto Bigazzi et.al.|[2403.07076](http://arxiv.org/pdf/2403.07076.pdf)|null|
 |**2024-03-11**|**LISO: Lidar-only Self-Supervised 3D Object Detection**|Stefan Baur et.al.|[2403.07071](http://arxiv.org/pdf/2403.07071.pdf)|null|
@@ -10218,7 +10218,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-12**|**SMURF: Continuous Dynamics for Motion-Deblurring Radiance Fields**|Jungho Lee et.al.|[2403.07547](http://arxiv.org/pdf/2403.07547.pdf)|**[link](https://github.com/jho-yonsei/smurf)**|
 |**2024-03-12**|**A Survey of Vision Transformers in Autonomous Driving: Current Trends and Future Directions**|Quoc-Vinh Lai-Dang et.al.|[2403.07542](http://arxiv.org/pdf/2403.07542.pdf)|null|
 |**2024-03-12**|**Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving**|JunDa Cheng et.al.|[2403.07535](http://arxiv.org/pdf/2403.07535.pdf)|**[link](https://github.com/junda24/afnet)**|
-|**2024-03-12**|**Adaptive Bounding Box Uncertainties via Two-Step Conformal Prediction**|Alexander Timans et.al.|[2403.07263](http://arxiv.org/pdf/2403.07263.pdf)|null|
+|**2024-03-12**|**Adaptive Bounding Box Uncertainties via Two-Step Conformal Prediction**|Alexander Timans et.al.|[2403.07263](http://arxiv.org/pdf/2403.07263.pdf)|**[link](https://github.com/alextimans/conformal-od)**|
 |**2024-03-12**|**Tractable Joint Prediction and Planning over Discrete Behavior Modes for Urban Driving**|Adam Villaflor et.al.|[2403.07232](http://arxiv.org/pdf/2403.07232.pdf)|null|
 |**2024-02-28**|**Automatic driving lane change safety prediction model based on LSTM**|Wenjian Sun et.al.|[2403.06993](http://arxiv.org/pdf/2403.06993.pdf)|null|
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/pdf/2403.06877.pdf)|null|
