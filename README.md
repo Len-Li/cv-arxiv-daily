@@ -15,6 +15,29 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Type II orientifold flux vacua in 3D**|Álvaro Arboleya et.al.|[2408.01403](http://arxiv.org/pdf/2408.01403.pdf)|null|
+|**2024-08-02**|**PLIC-Net: A Machine Learning Approach for 3D Interface Reconstruction in Volume of Fluid Methods**|Andrew Cahaly et.al.|[2408.01383](http://arxiv.org/pdf/2408.01383.pdf)|null|
+|**2024-08-02**|**Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation**|Yuanzhi Su et.al.|[2408.01356](http://arxiv.org/pdf/2408.01356.pdf)|null|
+|**2024-08-02**|**3DPX: Progressive 2D-to-3D Oral Image Reconstruction with Hybrid MLP-CNN Networks**|Xiaoshuang Li et.al.|[2408.01292](http://arxiv.org/pdf/2408.01292.pdf)|null|
+|**2024-08-02**|**TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling**|Dong Huo et.al.|[2408.01291](http://arxiv.org/pdf/2408.01291.pdf)|null|
+|**2024-08-02**|**Chirality and dimensionality in the ultrastrong light-matter coupling regime**|R. Avriller et.al.|[2408.01275](http://arxiv.org/pdf/2408.01275.pdf)|null|
+|**2024-08-02**|**A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness**|Lutao Jiang et.al.|[2408.01269](http://arxiv.org/pdf/2408.01269.pdf)|null|
+|**2024-08-02**|**NeRFoot: Robot-Footprint Estimation for Image-Based Visual Servoing**|Daoxin Zhong et.al.|[2408.01251](http://arxiv.org/pdf/2408.01251.pdf)|null|
+|**2024-08-02**|**Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion**|Ke Li et.al.|[2408.01225](http://arxiv.org/pdf/2408.01225.pdf)|null|
+|**2024-08-02**|**S2TD-Face: Reconstruct a Detailed 3D Face with Controllable Texture from a Single Sketch**|Zidu Wang et.al.|[2408.01218](http://arxiv.org/pdf/2408.01218.pdf)|null|
+|**2024-08-02**|**From Problem to Solution: Bio-inspired 3D Printing for Bonding Soft and Rigid Materials via Underextrusions**|Arman Goshtasbi et.al.|[2408.01210](http://arxiv.org/pdf/2408.01210.pdf)|null|
+|**2024-08-02**|**Dipole orientation reveals single-molecule interactions and dynamics on 2D crystals**|Wei Guo et.al.|[2408.01207](http://arxiv.org/pdf/2408.01207.pdf)|null|
+|**2024-08-02**|**3D Genetic Metamaterials for Scattering Maximization**|Dmitry Dobrykh et.al.|[2408.01170](http://arxiv.org/pdf/2408.01170.pdf)|null|
+|**2024-08-02**|**IG-SLAM: Instant Gaussian SLAM**|Furkan Aykut Sarikamis et.al.|[2408.01126](http://arxiv.org/pdf/2408.01126.pdf)|null|
+|**2024-08-02**|**Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions**|Ajinkya Shinde et.al.|[2408.01085](http://arxiv.org/pdf/2408.01085.pdf)|null|
+|**2024-08-02**|**FCDFusion: a Fast, Low Color Deviation Method for Fusing Visible and Infrared Image Pairs**|Hesong Li et.al.|[2408.01080](http://arxiv.org/pdf/2408.01080.pdf)|null|
+|**2024-08-02**|**Structure from Motion-based Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris**|Kentaro Uno et.al.|[2408.01035](http://arxiv.org/pdf/2408.01035.pdf)|null|
+|**2024-08-02**|**A Numerical Technique for Coupling the Momentum and the Continuity Equations for Semi-Implicit 3D Ocean Models**|Ali Shahabi et.al.|[2408.00990](http://arxiv.org/pdf/2408.00990.pdf)|null|
+|**2024-08-01**|**On the fate of the secondary white dwarf in double-degenerate double-detonation Type Ia supernovae -- II. 3D synthetic observables**|J. M. Pollin et.al.|[2408.00917](http://arxiv.org/pdf/2408.00917.pdf)|null|
+|**2024-08-01**|**Demonstrating the Potential of Adaptive LMS Filtering on FPGA-Based Qubit Control Platforms for Improved Qubit Readout in 2D and 3D Quantum Processing Units**|Hans Johnson et.al.|[2408.00904](http://arxiv.org/pdf/2408.00904.pdf)|null|
+|**2024-08-01**|**Medical SAM 2: Segment medical images as video via Segment Anything Model 2**|Jiayuan Zhu et.al.|[2408.00874](http://arxiv.org/pdf/2408.00874.pdf)|null|
+|**2024-08-01**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860](http://arxiv.org/pdf/2408.00860.pdf)|null|
+|**2024-08-01**|**AI-Enabled sensor fusion of time of flight imaging and mmwave for concealed metal detection**|Chaitanya Kaul et.al.|[2408.00816](http://arxiv.org/pdf/2408.00816.pdf)|null|
 |**2024-08-01**|**UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model**|Xiangyu Fan et.al.|[2408.00762](http://arxiv.org/pdf/2408.00762.pdf)|null|
 |**2024-08-01**|**Segment anything model 2: an application to 2D and 3D medical images**|Haoyu Dong et.al.|[2408.00756](http://arxiv.org/pdf/2408.00756.pdf)|null|
 |**2024-08-01**|**Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal Language Model**|Benlin Liu et.al.|[2408.00754](http://arxiv.org/pdf/2408.00754.pdf)|null|
@@ -6936,6 +6959,8 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**NeRFoot: Robot-Footprint Estimation for Image-Based Visual Servoing**|Daoxin Zhong et.al.|[2408.01251](http://arxiv.org/pdf/2408.01251.pdf)|null|
+|**2024-08-01**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860](http://arxiv.org/pdf/2408.00860.pdf)|null|
 |**2024-07-31**|**StyleRF-VolVis: Style Transfer of Neural Radiance Fields for Expressive Volume Visualization**|Kaiyuan Tang et.al.|[2408.00150](http://arxiv.org/pdf/2408.00150.pdf)|null|
 |**2024-07-22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/pdf/2407.21047.pdf)|null|
 |**2024-07-30**|**A Comparative Study of Neural Surface Reconstruction for Scientific Visualization**|Siyuan Yao et.al.|[2407.20868](http://arxiv.org/pdf/2407.20868.pdf)|null|
@@ -7885,6 +7910,10 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**CommonUppRoad: A Framework of Formal Modelling, Verifying, Learning, and Visualisation of Autonomous Vehicles**|Rong Gu et.al.|[2408.01093](http://arxiv.org/pdf/2408.01093.pdf)|null|
+|**2024-08-02**|**Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions**|Ajinkya Shinde et.al.|[2408.01085](http://arxiv.org/pdf/2408.01085.pdf)|null|
+|**2024-08-02**|**MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection**|Xiangbo Gao et.al.|[2408.01037](http://arxiv.org/pdf/2408.01037.pdf)|null|
+|**2024-07-15**|**Quantification and Validation for Degree of Understanding in M2M Semantic Communications**|Linhan Xia et.al.|[2408.00767](http://arxiv.org/pdf/2408.00767.pdf)|null|
 |**2024-08-01**|**Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation**|Yixiao Wang et.al.|[2408.00766](http://arxiv.org/pdf/2408.00766.pdf)|null|
 |**2024-08-01**|**MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection**|Xiangyuan Peng et.al.|[2408.00565](http://arxiv.org/pdf/2408.00565.pdf)|null|
 |**2024-08-01**|**DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving**|Xuemeng Yang et.al.|[2408.00415](http://arxiv.org/pdf/2408.00415.pdf)|null|
@@ -9257,6 +9286,12 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**NeRFoot: Robot-Footprint Estimation for Image-Based Visual Servoing**|Daoxin Zhong et.al.|[2408.01251](http://arxiv.org/pdf/2408.01251.pdf)|null|
+|**2024-08-02**|**CommonUppRoad: A Framework of Formal Modelling, Verifying, Learning, and Visualisation of Autonomous Vehicles**|Rong Gu et.al.|[2408.01093](http://arxiv.org/pdf/2408.01093.pdf)|null|
+|**2024-08-02**|**Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions**|Ajinkya Shinde et.al.|[2408.01085](http://arxiv.org/pdf/2408.01085.pdf)|null|
+|**2024-08-02**|**MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection**|Xiangbo Gao et.al.|[2408.01037](http://arxiv.org/pdf/2408.01037.pdf)|null|
+|**2024-08-01**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860](http://arxiv.org/pdf/2408.00860.pdf)|null|
+|**2024-07-15**|**Quantification and Validation for Degree of Understanding in M2M Semantic Communications**|Linhan Xia et.al.|[2408.00767](http://arxiv.org/pdf/2408.00767.pdf)|null|
 |**2024-08-01**|**Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation**|Yixiao Wang et.al.|[2408.00766](http://arxiv.org/pdf/2408.00766.pdf)|null|
 |**2024-08-01**|**MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection**|Xiangyuan Peng et.al.|[2408.00565](http://arxiv.org/pdf/2408.00565.pdf)|null|
 |**2024-08-01**|**DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving**|Xuemeng Yang et.al.|[2408.00415](http://arxiv.org/pdf/2408.00415.pdf)|null|
@@ -11056,6 +11091,8 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**CommonUppRoad: A Framework of Formal Modelling, Verifying, Learning, and Visualisation of Autonomous Vehicles**|Rong Gu et.al.|[2408.01093](http://arxiv.org/pdf/2408.01093.pdf)|null|
+|**2024-08-01**|**Data-Driven Traffic Simulation for an Intersection in a Metropolis**|Chengbo Zang et.al.|[2408.00943](http://arxiv.org/pdf/2408.00943.pdf)|null|
 |**2024-08-01**|**Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation**|Yixiao Wang et.al.|[2408.00766](http://arxiv.org/pdf/2408.00766.pdf)|null|
 |**2024-08-01**|**DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving**|Xuemeng Yang et.al.|[2408.00415](http://arxiv.org/pdf/2408.00415.pdf)|null|
 |**2024-08-02**|**Conformal Trajectory Prediction with Multi-View Data Integration in Cooperative Driving**|Xi Chen et.al.|[2408.00374](http://arxiv.org/pdf/2408.00374.pdf)|null|
@@ -11888,6 +11925,15 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Conditional LoRA Parameter Generation**|Xiaolong Jin et.al.|[2408.01415](http://arxiv.org/pdf/2408.01415.pdf)|null|
+|**2024-08-02**|**TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling**|Dong Huo et.al.|[2408.01291](http://arxiv.org/pdf/2408.01291.pdf)|null|
+|**2024-08-02**|**A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness**|Lutao Jiang et.al.|[2408.01269](http://arxiv.org/pdf/2408.01269.pdf)|null|
+|**2024-08-02**|**CLIP4Sketch: Enhancing Sketch to Mugshot Matching through Dataset Augmentation using Diffusion Models**|Kushal Kumar Jain et.al.|[2408.01233](http://arxiv.org/pdf/2408.01233.pdf)|null|
+|**2024-08-02**|**VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling**|Qian Zhang et.al.|[2408.01181](http://arxiv.org/pdf/2408.01181.pdf)|null|
+|**2024-08-02**|**PINNs for Medical Image Analysis: A Survey**|Chayan Banerjee et.al.|[2408.01026](http://arxiv.org/pdf/2408.01026.pdf)|null|
+|**2024-08-02**|**EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts**|Die Chen et.al.|[2408.01014](http://arxiv.org/pdf/2408.01014.pdf)|null|
+|**2024-08-02**|**FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation**|Xiang Gao et.al.|[2408.00998](http://arxiv.org/pdf/2408.00998.pdf)|null|
+|**2024-08-01**|**CIResDiff: A Clinically-Informed Residual Diffusion Model for Predicting Idiopathic Pulmonary Fibrosis Progression**|Caiwen Jiang et.al.|[2408.00938](http://arxiv.org/pdf/2408.00938.pdf)|null|
 |**2024-08-01**|**Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation**|Yixiao Wang et.al.|[2408.00766](http://arxiv.org/pdf/2408.00766.pdf)|null|
 |**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760](http://arxiv.org/pdf/2408.00760.pdf)|null|
 |**2024-08-01**|**TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models**|Gilad Deutch et.al.|[2408.00735](http://arxiv.org/pdf/2408.00735.pdf)|null|
@@ -12176,7 +12222,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-16**|**Contrastive Sequential-Diffusion Learning: An approach to Multi-Scene Instructional Video Synthesis**|Vasco Ramos et.al.|[2407.11814](http://arxiv.org/pdf/2407.11814.pdf)|null|
 |**2024-07-16**|**Diffusion-driven self-assembly of emerin nanodomains at the nuclear envelope**|Carlos D. Alas et.al.|[2407.11758](http://arxiv.org/pdf/2407.11758.pdf)|null|
 |**2024-07-16**|**Mask-guided cross-image attention for zero-shot in-silico histopathologic image generation with a diffusion model**|Dominik Winter et.al.|[2407.11664](http://arxiv.org/pdf/2407.11664.pdf)|null|
-|**2024-07-25**|**CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**|Sunny Gupta et.al.|[2407.11652](http://arxiv.org/pdf/2407.11652.pdf)|null|
+|**2024-08-02**|**CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**|Sunny Gupta et.al.|[2407.11652](http://arxiv.org/pdf/2407.11652.pdf)|null|
 |**2024-07-16**|**Scaling Diffusion Transformers to 16 Billion Parameters**|Zhengcong Fei et.al.|[2407.11633](http://arxiv.org/pdf/2407.11633.pdf)|**[link](https://github.com/feizc/dit-moe)**|
 |**2024-07-16**|**DiNO-Diffusion. Scaling Medical Diffusion via Self-Supervised Pre-Training**|Guillermo Jimenez-Perez et.al.|[2407.11594](http://arxiv.org/pdf/2407.11594.pdf)|null|
 |**2024-07-17**|**QVD: Post-training Quantization for Video Diffusion Models**|Shilong Tian et.al.|[2407.11585](http://arxiv.org/pdf/2407.11585.pdf)|null|
