@@ -1,4 +1,4 @@
-Updated on 2024.08.12
+Updated on 2024.08.13
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -41,7 +41,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-08-08**|**Sampling for View Synthesis: From Local Light Field Fusion to Neural Radiance Fields and Beyond**|Ravi Ramamoorthi et.al.|[2408.04586](http://arxiv.org/pdf/2408.04586.pdf)|null|
 |**2024-08-08**|**Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches**|Yongzhi Xu et.al.|[2408.04567](http://arxiv.org/pdf/2408.04567.pdf)|null|
 |**2024-08-09**|**Development of the cadmium zinc TElluride Radiation Imager (TERI)**|Daniel Shy et.al.|[2408.04559](http://arxiv.org/pdf/2408.04559.pdf)|null|
-|**2024-08-08**|**Synchronous Multi-modal Semantic CommunicationSystem with Packet-level Coding**|Yun Tian et.al.|[2408.04535](http://arxiv.org/pdf/2408.04535.pdf)|null|
+|**2024-08-11**|**Synchronous Multi-modal Semantic Communication System with Packet-level Coding**|Yun Tian et.al.|[2408.04535](http://arxiv.org/pdf/2408.04535.pdf)|null|
 |**2024-08-08**|**Towards Synergistic Deep Learning Models for Volumetric Cirrhotic Liver Segmentation in MRIs**|Vandan Gorade et.al.|[2408.04491](http://arxiv.org/pdf/2408.04491.pdf)|null|
 |**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta et.al.|[2408.04474](http://arxiv.org/pdf/2408.04474.pdf)|null|
 |**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu et.al.|[2408.04426](http://arxiv.org/pdf/2408.04426.pdf)|**[link](https://github.com/epsilon404/surgicalnerf)**|
@@ -62,7 +62,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-08-07**|**Counterfactuals and Uncertainty-Based Explainable Paradigm for the Automated Detection and Segmentation of Renal Cysts in Computed Tomography Images: A Multi-Center Study**|Zohaib Salahuddin et.al.|[2408.03789](http://arxiv.org/pdf/2408.03789.pdf)|null|
 |**2024-08-07**|**Magnetic Field Controlled Surface Localization of Spin-Wave Ferromagnetic Resonance Modes in 3D Nanostructures**|Mateusz Gołębiewski et.al.|[2408.03782](http://arxiv.org/pdf/2408.03782.pdf)|null|
 |**2024-08-07**|**3iGS: Factorised Tensorial Illumination for 3D Gaussian Splatting**|Zhe Jun Tang et.al.|[2408.03753](http://arxiv.org/pdf/2408.03753.pdf)|null|
-|**2024-08-07**|**L4DR: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection**|Xun Huang et.al.|[2408.03677](http://arxiv.org/pdf/2408.03677.pdf)|null|
+|**2024-08-09**|**L4DR: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection**|Xun Huang et.al.|[2408.03677](http://arxiv.org/pdf/2408.03677.pdf)|null|
 |**2024-08-07**|**2D Embeddings of Multi-dimensional Partitionings**|Marina Evers et.al.|[2408.03641](http://arxiv.org/pdf/2408.03641.pdf)|null|
 |**2024-08-07**|**The Navier-Stokes Cauchy problem in a class of weighted function spaces**|Paolo Maremonti et.al.|[2408.03604](http://arxiv.org/pdf/2408.03604.pdf)|null|
 |**2024-08-07**|**A deeper investigation of the Primordial Binary Cluster**|Qingshun Hu et.al.|[2408.03552](http://arxiv.org/pdf/2408.03552.pdf)|null|
@@ -217,7 +217,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-31**|**Adaptive Mix for Semi-Supervised Medical Image Segmentation**|Zhiqiang Shen et.al.|[2407.21586](http://arxiv.org/pdf/2407.21586.pdf)|null|
 |**2024-07-31**|**InScope: A New Real-world 3D Infrastructure-side Collaborative Perception Dataset for Open Traffic Scenarios**|Xiaofei Zhang et.al.|[2407.21581](http://arxiv.org/pdf/2407.21581.pdf)|null|
 |**2024-07-31**|**Voxel Scene Graph for Intracranial Hemorrhage**|Antoine P. Sanner et.al.|[2407.21580](http://arxiv.org/pdf/2407.21580.pdf)|null|
-|**2024-07-31**|**Monotonicity, bounds and extrapolation of Block-Gauss and Gauss-Radau quadrature for computing $B^T φ(A) B$**|Jörn Zimmerling et.al.|[2407.21505](http://arxiv.org/pdf/2407.21505.pdf)|null|
+|**2024-08-11**|**Monotonicity, bounds and extrapolation of Block-Gauss and Gauss-Radau quadrature for computing $B^T φ(A) B$**|Jörn Zimmerling et.al.|[2407.21505](http://arxiv.org/pdf/2407.21505.pdf)|null|
 |**2024-07-31**|**Turbulent features near the X point of a DTT-like tokamak plasma**|F. Cianfrani et.al.|[2407.21493](http://arxiv.org/pdf/2407.21493.pdf)|null|
 |**2024-07-31**|**Theoretical study on the possibility of high $T_c$ s$\pm$ -wave superconductivity in the heavily hole-doped infinite layer nickelates**|Hirofumi Sakakibara et.al.|[2407.21461](http://arxiv.org/pdf/2407.21461.pdf)|null|
 |**2024-07-31**|**Floquet Engineering of Relativistic Electrons using Propagating Waves**|Takashi Oka et.al.|[2407.21458](http://arxiv.org/pdf/2407.21458.pdf)|null|
@@ -7090,7 +7090,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240813>back to top</a>)</p>
 
 ## NeRF
 
@@ -7746,7 +7746,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240813>back to top</a>)</p>
 
 ## Industry
 
@@ -8049,7 +8049,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2012-04-06**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-09**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240813>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -8280,7 +8280,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-25**|**Querying Labeled Time Series Data with Scenario Programs**|Devan Shanker et.al.|[2406.17627](http://arxiv.org/pdf/2406.17627.pdf)|null|
 |**2024-06-25**|**Image-Guided Outdoor LiDAR Perception Quality Assessment for Autonomous Driving**|Ce Zhang et.al.|[2406.17265](http://arxiv.org/pdf/2406.17265.pdf)|null|
 |**2024-06-24**|**GPT-4V Explorations: Mining Autonomous Driving**|Zixuan Li et.al.|[2406.16817](http://arxiv.org/pdf/2406.16817.pdf)|null|
-|**2024-06-24**|**ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets**|Bowen Xu et.al.|[2406.16713](http://arxiv.org/pdf/2406.16713.pdf)|null|
+|**2024-08-11**|**ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets**|Bowen Xu et.al.|[2406.16713](http://arxiv.org/pdf/2406.16713.pdf)|null|
 |**2024-06-24**|**SegNet4D: Effective and Efficient 4D LiDAR Semantic Segmentation in Autonomous Driving Environments**|Neng Wang et.al.|[2406.16279](http://arxiv.org/pdf/2406.16279.pdf)|**[link](https://github.com/nubot-nudt/segnet4d)**|
 |**2024-06-23**|**DV-3DLane: End-to-end Multi-modal 3D Lane Detection with Dual-view Representation**|Yueru Luo et.al.|[2406.16072](http://arxiv.org/pdf/2406.16072.pdf)|**[link](https://github.com/jmoonr/dv-3dlane)**|
 |**2024-06-22**|**ISS-Scenario: Scenario-based Testing in CARLA**|Renjue Li et.al.|[2406.15777](http://arxiv.org/pdf/2406.15777.pdf)|**[link](https://github.com/CAS-LRJ/ISS_Scenario)**|
@@ -9452,7 +9452,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240813>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -9736,7 +9736,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-06-25**|**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**|Jonas Kulhanek et.al.|[2406.17345](http://arxiv.org/pdf/2406.17345.pdf)|null|
 |**2024-06-25**|**Image-Guided Outdoor LiDAR Perception Quality Assessment for Autonomous Driving**|Ce Zhang et.al.|[2406.17265](http://arxiv.org/pdf/2406.17265.pdf)|null|
 |**2024-06-24**|**GPT-4V Explorations: Mining Autonomous Driving**|Zixuan Li et.al.|[2406.16817](http://arxiv.org/pdf/2406.16817.pdf)|null|
-|**2024-06-24**|**ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets**|Bowen Xu et.al.|[2406.16713](http://arxiv.org/pdf/2406.16713.pdf)|null|
+|**2024-08-11**|**ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets**|Bowen Xu et.al.|[2406.16713](http://arxiv.org/pdf/2406.16713.pdf)|null|
 |**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289](http://arxiv.org/pdf/2406.16289.pdf)|null|
 |**2024-06-24**|**SegNet4D: Effective and Efficient 4D LiDAR Semantic Segmentation in Autonomous Driving Environments**|Neng Wang et.al.|[2406.16279](http://arxiv.org/pdf/2406.16279.pdf)|**[link](https://github.com/nubot-nudt/segnet4d)**|
 |**2024-06-23**|**DV-3DLane: End-to-end Multi-modal 3D Lane Detection with Dual-view Representation**|Yueru Luo et.al.|[2406.16072](http://arxiv.org/pdf/2406.16072.pdf)|**[link](https://github.com/jmoonr/dv-3dlane)**|
@@ -11291,7 +11291,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240813>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -12133,7 +12133,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240813>back to top</a>)</p>
 
 ## Diffusion
 
@@ -12278,7 +12278,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-30**|**Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning**|Norman Di Palo et.al.|[2407.20798](http://arxiv.org/pdf/2407.20798.pdf)|null|
 |**2024-07-29**|**Retinex-Diffusion: On Controlling Illumination Conditions in Diffusion Models via Retinex Theory**|Xiaoyan Xing et.al.|[2407.20785](http://arxiv.org/pdf/2407.20785.pdf)|null|
 |**2024-07-27**|**Inverse Problems with Diffusion Models: A MAP Estimation Perspective**|Sai bharath chandra Gutha et.al.|[2407.20784](http://arxiv.org/pdf/2407.20784.pdf)|null|
-|**2024-08-01**|**SynthVLM: High-Efficiency and High-Quality Synthetic Data for Vision Language Models**|Zheng Liu et.al.|[2407.20756](http://arxiv.org/pdf/2407.20756.pdf)|**[link](https://github.com/starriver030515/synthvlm)**|
+|**2024-08-10**|**SynthVLM: High-Efficiency and High-Quality Synthetic Data for Vision Language Models**|Zheng Liu et.al.|[2407.20756](http://arxiv.org/pdf/2407.20756.pdf)|**[link](https://github.com/starriver030515/synthvlm)**|
 |**2024-07-30**|**Understanding the Impact of Synchronous, Asynchronous, and Hybrid In-Situ Techniques in Computational Fluid Dynamics Applications**|Yi Ju et.al.|[2407.20717](http://arxiv.org/pdf/2407.20717.pdf)|null|
 |**2024-07-30**|**DocXPand-25k: a large and diverse benchmark dataset for identity documents analysis**|Julien Lerouge et.al.|[2407.20662](http://arxiv.org/pdf/2407.20662.pdf)|**[link](https://github.com/quicksign/docxpand)**|
 |**2024-07-30**|**Autonomous Improvement of Instruction Following Skills via Foundation Models**|Zhiyuan Zhou et.al.|[2407.20635](http://arxiv.org/pdf/2407.20635.pdf)|null|
@@ -12806,5 +12806,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-06-22**|**Video Diffusion Models**|Jonathan Ho et.al.|[2204.03458](http://arxiv.org/pdf/2204.03458.pdf)|null|
 |**2022-12-08**|**Diffusion Probabilistic Modeling for Video Generation**|Ruihan Yang et.al.|[2203.09481](http://arxiv.org/pdf/2203.09481.pdf)|**[link](https://github.com/buggyyang/rvd)**|
 
-<p align=right>(<a href=#Updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240813>back to top</a>)</p>
 
