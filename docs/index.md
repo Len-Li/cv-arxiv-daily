@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.08.14
+Updated on 2024.08.15
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -103,7 +103,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-08-09**|**Cosmic Anisotropy and Bianchi Characterization: Killing vector fields and the implied finding of their metric frame**|Robbert W. Scholtens et.al.|[2408.04938](http://arxiv.org/pdf/2408.04938.pdf)|null|
 |**2024-08-09**|**GuidedNet: Semi-Supervised Multi-Organ Segmentation via Labeled Data Guide Unlabeled Data**|Haochen Zhao et.al.|[2408.04914](http://arxiv.org/pdf/2408.04914.pdf)|null|
 |**2024-08-09**|**Parity Violating Marginal Deformation of the 3D Gross-Neveu-Thirring Model**|Gordon W. Semenoff et.al.|[2408.04855](http://arxiv.org/pdf/2408.04855.pdf)|null|
-|**2024-08-09**|**Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction**|Lingbei Meng et.al.|[2408.04831](http://arxiv.org/pdf/2408.04831.pdf)|null|
+|**2024-08-14**|**Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction**|Lingbei Meng et.al.|[2408.04831](http://arxiv.org/pdf/2408.04831.pdf)|null|
 |**2024-08-09**|**FewShotNeRF: Meta-Learning-based Novel View Synthesis for Rapid Scene-Specific Adaptation**|Piraveen Sivakumar et.al.|[2408.04803](http://arxiv.org/pdf/2408.04803.pdf)|null|
 |**2024-08-09**|**A High-Temperature Thermocouple Development by Additive Manufacturing: Tungsten-Nickel (W-Ni) and Molybdenum (Mo) Integration with Ceramic Structures**|Azizul Islam et.al.|[2408.04800](http://arxiv.org/pdf/2408.04800.pdf)|null|
 |**2024-08-08**|**Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2**|Andrew Seohwan Yu et.al.|[2408.04762](http://arxiv.org/pdf/2408.04762.pdf)|null|
@@ -198,7 +198,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-08-04**|**AvatarPose: Avatar-guided 3D Pose Estimation of Close Human Interaction from Sparse Multi-view Videos**|Feichi Lu et.al.|[2408.02110](http://arxiv.org/pdf/2408.02110.pdf)|null|
 |**2024-08-04**|**View-consistent Object Removal in Radiance Fields**|Yiren Lu et.al.|[2408.02100](http://arxiv.org/pdf/2408.02100.pdf)|null|
 |**2024-08-04**|**Past Movements-Guided Motion Representation Learning for Human Motion Prediction**|Junyu Shi et.al.|[2408.02091](http://arxiv.org/pdf/2408.02091.pdf)|null|
-|**2024-08-04**|**KAN-RCBEVDepth: A multi-modal fusion algorithm in object detection for autonomous driving**|Zhihao Lai et.al.|[2408.02088](http://arxiv.org/pdf/2408.02088.pdf)|null|
+|**2024-08-13**|**KAN-RCBEVDepth: A multi-modal fusion algorithm in object detection for autonomous driving**|Zhihao Lai et.al.|[2408.02088](http://arxiv.org/pdf/2408.02088.pdf)|null|
 |**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053](http://arxiv.org/pdf/2408.02053.pdf)|null|
 |**2024-08-04**|**3D Single-object Tracking in Point Clouds with High Temporal Variation**|Qiao Wu et.al.|[2408.02049](http://arxiv.org/pdf/2408.02049.pdf)|null|
 |**2024-08-04**|**Characterizing the Performance of the Implicit Massively Parallel Particle-in-Cell iPIC3D Code**|Jeremy J. Williams et.al.|[2408.01983](http://arxiv.org/pdf/2408.01983.pdf)|null|
@@ -7456,7 +7456,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-03-25**|**URS-NeRF: Unordered Rolling Shutter Bundle Adjustment for Neural Radiance Fields**|Bo Xu et.al.|[2403.10119](http://arxiv.org/pdf/2403.10119.pdf)|null|
 |**2024-03-19**|**DyBluRF: Dynamic Neural Radiance Fields from Blurry Monocular Video**|Huiqiang Sun et.al.|[2403.10103](http://arxiv.org/pdf/2403.10103.pdf)|null|
 |**2024-03-14**|**The NeRFect Match: Exploring NeRF Features for Visual Localization**|Qunjie Zhou et.al.|[2403.09577](http://arxiv.org/pdf/2403.09577.pdf)|null|
-|**2024-03-14**|**VIRUS-NeRF -- Vision, InfraRed and UltraSonic based Neural Radiance Fields**|Nicolaj Schmid et.al.|[2403.09477](http://arxiv.org/pdf/2403.09477.pdf)|**[link](https://github.com/ethz-asl/virus_nerf)**|
+|**2024-08-14**|**VIRUS-NeRF -- Vision, InfraRed and UltraSonic based Neural Radiance Fields**|Nicolaj Schmid et.al.|[2403.09477](http://arxiv.org/pdf/2403.09477.pdf)|**[link](https://github.com/ethz-asl/virus_nerf)**|
 |**2024-07-15**|**PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**|Tianyuan Yuan et.al.|[2403.09079](http://arxiv.org/pdf/2403.09079.pdf)|**[link](https://github.com/yuantianyuan01/presight)**|
 |**2024-03-13**|**StyleDyRF: Zero-shot 4D Style Transfer for Dynamic Neural Radiance Fields**|Hongbin Xu et.al.|[2403.08310](http://arxiv.org/pdf/2403.08310.pdf)|**[link](https://github.com/toughstonex/styledyrf)**|
 |**2024-07-30**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/pdf/2403.08156.pdf)|null|
@@ -8151,7 +8151,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-08-07**|**Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection**|Christian Fruhwirth-Reisinger et.al.|[2408.03790](http://arxiv.org/pdf/2408.03790.pdf)|null|
 |**2024-08-07**|**Orthogonal and oriented Fano planes, triangular embeddings of $K_7,$ and geometrical representations of the Frobenius group $F_{21}$**|Simone Costa et.al.|[2408.03743](http://arxiv.org/pdf/2408.03743.pdf)|null|
 |**2024-08-07**|**MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System**|Xiangcheng Hu et.al.|[2408.03723](http://arxiv.org/pdf/2408.03723.pdf)|**[link](https://github.com/jokerjohn/ms-mapping)**|
-|**2024-08-07**|**DRAMA: An Efficient End-to-end Motion Planner for Autonomous Driving with Mamba**|Chengran Yuan et.al.|[2408.03601](http://arxiv.org/pdf/2408.03601.pdf)|null|
+|**2024-08-14**|**DRAMA: An Efficient End-to-end Motion Planner for Autonomous Driving with Mamba**|Chengran Yuan et.al.|[2408.03601](http://arxiv.org/pdf/2408.03601.pdf)|null|
 |**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[2408.03516](http://arxiv.org/pdf/2408.03516.pdf)|null|
 |**2024-08-06**|**Communication-Aware Consistent Edge Selection for Mobile Users and Autonomous Vehicles**|Nazish Tahir et.al.|[2408.03435](http://arxiv.org/pdf/2408.03435.pdf)|null|
 |**2024-08-06**|**Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization**|Xiao Zhou et.al.|[2408.03191](http://arxiv.org/pdf/2408.03191.pdf)|null|
@@ -8161,7 +8161,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-08-06**|**Reinforcement Learning based Workflow Scheduling in Cloud and Edge Computing Environments: A Taxonomy, Review and Future Directions**|Amanda Jayanetti et.al.|[2408.02938](http://arxiv.org/pdf/2408.02938.pdf)|null|
 |**2024-08-06**|**Compromising Embodied Agents with Contextual Backdoor Attacks**|Aishan Liu et.al.|[2408.02882](http://arxiv.org/pdf/2408.02882.pdf)|null|
 |**2024-08-04**|**Model Hijacking Attack in Federated Learning**|Zheng Li et.al.|[2408.02131](http://arxiv.org/pdf/2408.02131.pdf)|null|
-|**2024-08-04**|**KAN-RCBEVDepth: A multi-modal fusion algorithm in object detection for autonomous driving**|Zhihao Lai et.al.|[2408.02088](http://arxiv.org/pdf/2408.02088.pdf)|null|
+|**2024-08-13**|**KAN-RCBEVDepth: A multi-modal fusion algorithm in object detection for autonomous driving**|Zhihao Lai et.al.|[2408.02088](http://arxiv.org/pdf/2408.02088.pdf)|null|
 |**2024-08-03**|**STDA: Spatio-Temporal Dual-Encoder Network Incorporating Driver Attention to Predict Driver Behaviors Under Safety-Critical Scenarios**|Dongyang Xu et.al.|[2408.01774](http://arxiv.org/pdf/2408.01774.pdf)|null|
 |**2024-08-03**|**LAM3D: Leveraging Attention for Monocular 3D Object Detection**|Diana-Alexandra Sas et.al.|[2408.01739](http://arxiv.org/pdf/2408.01739.pdf)|null|
 |**2024-08-02**|**Trainable Pointwise Decoder Module for Point Cloud Segmentation**|Bike Chen et.al.|[2408.01548](http://arxiv.org/pdf/2408.01548.pdf)|null|
@@ -9569,7 +9569,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-08-07**|**Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection**|Christian Fruhwirth-Reisinger et.al.|[2408.03790](http://arxiv.org/pdf/2408.03790.pdf)|null|
 |**2024-08-07**|**MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System**|Xiangcheng Hu et.al.|[2408.03723](http://arxiv.org/pdf/2408.03723.pdf)|**[link](https://github.com/jokerjohn/ms-mapping)**|
 |**2024-08-07**|**Goal-oriented Semantic Communication for the Metaverse Application**|Zhe Wang et.al.|[2408.03646](http://arxiv.org/pdf/2408.03646.pdf)|null|
-|**2024-08-07**|**DRAMA: An Efficient End-to-end Motion Planner for Autonomous Driving with Mamba**|Chengran Yuan et.al.|[2408.03601](http://arxiv.org/pdf/2408.03601.pdf)|null|
+|**2024-08-14**|**DRAMA: An Efficient End-to-end Motion Planner for Autonomous Driving with Mamba**|Chengran Yuan et.al.|[2408.03601](http://arxiv.org/pdf/2408.03601.pdf)|null|
 |**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[2408.03516](http://arxiv.org/pdf/2408.03516.pdf)|null|
 |**2024-08-06**|**Communication-Aware Consistent Edge Selection for Mobile Users and Autonomous Vehicles**|Nazish Tahir et.al.|[2408.03435](http://arxiv.org/pdf/2408.03435.pdf)|null|
 |**2024-08-06**|**RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis**|Hugo Blanc et.al.|[2408.03356](http://arxiv.org/pdf/2408.03356.pdf)|null|
@@ -9581,7 +9581,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-08-06**|**Reinforcement Learning based Workflow Scheduling in Cloud and Edge Computing Environments: A Taxonomy, Review and Future Directions**|Amanda Jayanetti et.al.|[2408.02938](http://arxiv.org/pdf/2408.02938.pdf)|null|
 |**2024-08-06**|**Compromising Embodied Agents with Contextual Backdoor Attacks**|Aishan Liu et.al.|[2408.02882](http://arxiv.org/pdf/2408.02882.pdf)|null|
 |**2024-08-04**|**Model Hijacking Attack in Federated Learning**|Zheng Li et.al.|[2408.02131](http://arxiv.org/pdf/2408.02131.pdf)|null|
-|**2024-08-04**|**KAN-RCBEVDepth: A multi-modal fusion algorithm in object detection for autonomous driving**|Zhihao Lai et.al.|[2408.02088](http://arxiv.org/pdf/2408.02088.pdf)|null|
+|**2024-08-13**|**KAN-RCBEVDepth: A multi-modal fusion algorithm in object detection for autonomous driving**|Zhihao Lai et.al.|[2408.02088](http://arxiv.org/pdf/2408.02088.pdf)|null|
 |**2024-08-03**|**FBINeRF: Feature-Based Integrated Recurrent Network for Pinhole and Fisheye Neural Radiance Fields**|Yifan Wu et.al.|[2408.01878](http://arxiv.org/pdf/2408.01878.pdf)|null|
 |**2024-08-03**|**E $^3$ NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840](http://arxiv.org/pdf/2408.01840.pdf)|null|
 |**2024-08-03**|**STDA: Spatio-Temporal Dual-Encoder Network Incorporating Driver Attention to Predict Driver Behaviors Under Safety-Critical Scenarios**|Dongyang Xu et.al.|[2408.01774](http://arxiv.org/pdf/2408.01774.pdf)|null|
@@ -11402,7 +11402,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-08-08**|**Open-Source Software Architecture for Multi-Robot Wire Arc Additive Manufacturing (WAAM)**|Honglu He et.al.|[2408.04677](http://arxiv.org/pdf/2408.04677.pdf)|null|
 |**2024-08-07**|**NAVINACT: Combining Navigation and Imitation Learning for Bootstrapping Reinforcement Learning**|Amisha Bhaskar et.al.|[2408.04054](http://arxiv.org/pdf/2408.04054.pdf)|null|
 |**2024-08-07**|**Improving the Intelligent Driver Model by Incorporating Vehicle Dynamics: Microscopic Calibration and Macroscopic Validation**|Dominik Salles et.al.|[2408.03722](http://arxiv.org/pdf/2408.03722.pdf)|**[link](https://github.com/stepeos/pycarmodel_calibration)**|
-|**2024-08-07**|**DRAMA: An Efficient End-to-end Motion Planner for Autonomous Driving with Mamba**|Chengran Yuan et.al.|[2408.03601](http://arxiv.org/pdf/2408.03601.pdf)|null|
+|**2024-08-14**|**DRAMA: An Efficient End-to-end Motion Planner for Autonomous Driving with Mamba**|Chengran Yuan et.al.|[2408.03601](http://arxiv.org/pdf/2408.03601.pdf)|null|
 |**2024-08-04**|**Past Movements-Guided Motion Representation Learning for Human Motion Prediction**|Junyu Shi et.al.|[2408.02091](http://arxiv.org/pdf/2408.02091.pdf)|null|
 |**2024-08-04**|**Individualized multi-horizon MRI trajectory prediction for Alzheimer's Disease**|Rosemary He et.al.|[2408.02018](http://arxiv.org/pdf/2408.02018.pdf)|null|
 |**2024-08-03**|**LF-3PM: a LiDAR-based Framework for Perception-aware Planning with Perturbation-induced Metric**|Kaixin Chai et.al.|[2408.01649](http://arxiv.org/pdf/2408.01649.pdf)|null|
