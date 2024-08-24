@@ -12572,7 +12572,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-08-22**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590](http://arxiv.org/pdf/2408.12590.pdf)|null|
 |**2024-08-22**|**Real-Time Video Generation with Pyramid Attention Broadcast**|Xuanlei Zhao et.al.|[2408.12588](http://arxiv.org/pdf/2408.12588.pdf)|**[link](https://github.com/nus-hpc-ai-lab/opendit)**|
 |**2024-08-22**|**ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation**|Lujia Zhong et.al.|[2408.12561](http://arxiv.org/pdf/2408.12561.pdf)|**[link](https://github.com/lujiazho/ssprop)**|
-|**2024-08-22**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528](http://arxiv.org/pdf/2408.12528.pdf)|**[link](https://github.com/showlab/show-o)**|
+|**2024-08-22**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528](http://arxiv.org/pdf/2408.12528.pdf)|null|
 |**2024-08-22**|**FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing**|Jue Wang et.al.|[2408.12429](http://arxiv.org/pdf/2408.12429.pdf)|**[link](https://github.com/a-new-b/flex_edit)**|
 |**2024-08-22**|**4D Diffusion for Dynamic Protein Structure Prediction with Reference Guided Motion Alignment**|Kaihui Cheng et.al.|[2408.12419](http://arxiv.org/pdf/2408.12419.pdf)|null|
 |**2024-08-22**|**CODE: Confident Ordinary Differential Editing**|Bastien van Delft et.al.|[2408.12418](http://arxiv.org/pdf/2408.12418.pdf)|**[link](https://github.com/vita-epfl/code)**|
