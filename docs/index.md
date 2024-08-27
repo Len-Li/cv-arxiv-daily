@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.08.26
+Updated on 2024.08.27
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -217,7 +217,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-08-15**|**Learned Multimodal Compression for Autonomous Driving**|Hadi Hadizadeh et.al.|[2408.08211](http://arxiv.org/pdf/2408.08211.pdf)|null|
 |**2024-08-15**|**WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**|Huapeng Li et.al.|[2408.08206](http://arxiv.org/pdf/2408.08206.pdf)|null|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/pdf/2408.08202.pdf)|null|
-|**2024-08-15**|**Your Turn: Real-World Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/pdf/2408.08182.pdf)|null|
+|**2024-08-24**|**Your Turn: At Home Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/pdf/2408.08182.pdf)|null|
 |**2024-08-15**|**Chemical complexity and dust formation around evolved stars**|Marie Van de Sande et.al.|[2408.08153](http://arxiv.org/pdf/2408.08153.pdf)|null|
 |**2024-08-15**|**Study of non-diffusive thermal behaviors in nanoscale transistors under different heating strategies**|Chuang Zhang et.al.|[2408.08120](http://arxiv.org/pdf/2408.08120.pdf)|null|
 |**2024-08-15**|**Exploring Uncertainty Visualization for Degenerate Tensors in 3D Symmetric Second-Order Tensor Field Ensembles**|Tadea Schmitz et.al.|[2408.08099](http://arxiv.org/pdf/2408.08099.pdf)|**[link](https://github.com/timo-oster/tensor-lines)**|
@@ -254,7 +254,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-08-13**|**Flexible 3D Lane Detection by Hierarchical Shape MatchingFlexible 3D Lane Detection by Hierarchical Shape Matching**|Zhihao Guan et.al.|[2408.07163](http://arxiv.org/pdf/2408.07163.pdf)|**[link](https://github.com/doo-do/fhld)**|
 |**2024-08-13**|**Universal non-thermal power-law distribution functions from the self-consistent evolution of collisionless electrostatic plasmas**|Uddipan Banik et.al.|[2408.07127](http://arxiv.org/pdf/2408.07127.pdf)|null|
 |**2024-08-13**|**Physics-informed graph neural networks for flow field estimation in carotid arteries**|Julian Suk et.al.|[2408.07110](http://arxiv.org/pdf/2408.07110.pdf)|null|
-|**2024-08-13**|**A new non-parametric method to infer galaxy cluster masses from weak lensing**|Tobias Mistele et.al.|[2408.07026](http://arxiv.org/pdf/2408.07026.pdf)|**[link](https://github.com/tmistele/SphericalClusterMass.jl)**|
+|**2024-08-24**|**A new non-parametric method to infer galaxy cluster masses from weak lensing**|Tobias Mistele et.al.|[2408.07026](http://arxiv.org/pdf/2408.07026.pdf)|**[link](https://github.com/tmistele/SphericalClusterMass.jl)**|
 |**2024-08-14**|**Content and Style Aware Audio-Driven Facial Animation**|Qingju Liu et.al.|[2408.07005](http://arxiv.org/pdf/2408.07005.pdf)|null|
 |**2024-08-13**|**SpectralGaussians: Semantic, spectral 3D Gaussian splatting for multi-spectral scene representation, visualization and analysis**|Saptarshi Neil Sinha et.al.|[2408.06975](http://arxiv.org/pdf/2408.06975.pdf)|null|
 |**2024-08-13**|**Mesh Simplification For Unfolding**|Manas Bhargava et.al.|[2408.06944](http://arxiv.org/pdf/2408.06944.pdf)|null|
