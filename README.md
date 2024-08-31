@@ -1,4 +1,4 @@
-Updated on 2024.08.30
+Updated on 2024.08.31
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -7559,7 +7559,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20240830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240831>back to top</a>)</p>
 
 ## NeRF
 
@@ -8236,7 +8236,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20240830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240831>back to top</a>)</p>
 
 ## Industry
 
@@ -8541,7 +8541,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2012-04-06**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-09**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20240830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240831>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -8832,7 +8832,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-02**|**FlowTrack: Point-level Flow Network for 3D Single Object Tracking**|Shuo Li et.al.|[2407.01959](http://arxiv.org/pdf/2407.01959.pdf)|null|
 |**2024-07-02**|**Cloud-Edge-Terminal Collaborative AIGC for Autonomous Driving**|Jianan Zhang et.al.|[2407.01956](http://arxiv.org/pdf/2407.01956.pdf)|null|
 |**2024-07-01**|**Predicting Trust Dynamics with Dynamic SEM in Human-AI Cooperation**|Sota Kaneko et.al.|[2407.01752](http://arxiv.org/pdf/2407.01752.pdf)|null|
-|**2024-07-01**|**SeFlow: A Self-Supervised Scene Flow Method in Autonomous Driving**|Qingwen Zhang et.al.|[2407.01702](http://arxiv.org/pdf/2407.01702.pdf)|**[link](https://github.com/kth-rpl/deflow)**|
+|**2024-07-01**|**SeFlow: A Self-Supervised Scene Flow Method in Autonomous Driving**|Qingwen Zhang et.al.|[2407.01702](http://arxiv.org/pdf/2407.01702.pdf)|**[link](https://github.com/kth-rpl/seflow)**|
 |**2024-07-01**|**Deep Reinforcement Learning for Adverse Garage Scenario Generation**|Kai Li et.al.|[2407.01333](http://arxiv.org/pdf/2407.01333.pdf)|null|
 |**2024-07-01**|**Let Hybrid A* Path Planner Obey Traffic Rules: A Deep Reinforcement Learning-Based Planning Framework**|Xibo Li et.al.|[2407.01216](http://arxiv.org/pdf/2407.01216.pdf)|null|
 |**2024-07-01**|**FedRC: A Rapid-Converged Hierarchical Federated Learning Framework in Street Scene Semantic Understanding**|Wei-Bin Kou et.al.|[2407.01103](http://arxiv.org/pdf/2407.01103.pdf)|null|
@@ -10029,7 +10029,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20240830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240831>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -11969,7 +11969,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20240830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240831>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -12842,7 +12842,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20240830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240831>back to top</a>)</p>
 
 ## Diffusion
 
@@ -13813,5 +13813,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-06-22**|**Video Diffusion Models**|Jonathan Ho et.al.|[2204.03458](http://arxiv.org/pdf/2204.03458.pdf)|null|
 |**2022-12-08**|**Diffusion Probabilistic Modeling for Video Generation**|Ruihan Yang et.al.|[2203.09481](http://arxiv.org/pdf/2203.09481.pdf)|**[link](https://github.com/buggyyang/rvd)**|
 
-<p align=right>(<a href=#Updated-on-20240830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240831>back to top</a>)</p>
 

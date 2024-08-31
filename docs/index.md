@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.08.30
+Updated on 2024.08.31
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -8829,7 +8829,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-02**|**FlowTrack: Point-level Flow Network for 3D Single Object Tracking**|Shuo Li et.al.|[2407.01959](http://arxiv.org/pdf/2407.01959.pdf)|null|
 |**2024-07-02**|**Cloud-Edge-Terminal Collaborative AIGC for Autonomous Driving**|Jianan Zhang et.al.|[2407.01956](http://arxiv.org/pdf/2407.01956.pdf)|null|
 |**2024-07-01**|**Predicting Trust Dynamics with Dynamic SEM in Human-AI Cooperation**|Sota Kaneko et.al.|[2407.01752](http://arxiv.org/pdf/2407.01752.pdf)|null|
-|**2024-07-01**|**SeFlow: A Self-Supervised Scene Flow Method in Autonomous Driving**|Qingwen Zhang et.al.|[2407.01702](http://arxiv.org/pdf/2407.01702.pdf)|**[link](https://github.com/kth-rpl/deflow)**|
+|**2024-07-01**|**SeFlow: A Self-Supervised Scene Flow Method in Autonomous Driving**|Qingwen Zhang et.al.|[2407.01702](http://arxiv.org/pdf/2407.01702.pdf)|**[link](https://github.com/kth-rpl/seflow)**|
 |**2024-07-01**|**Deep Reinforcement Learning for Adverse Garage Scenario Generation**|Kai Li et.al.|[2407.01333](http://arxiv.org/pdf/2407.01333.pdf)|null|
 |**2024-07-01**|**Let Hybrid A* Path Planner Obey Traffic Rules: A Deep Reinforcement Learning-Based Planning Framework**|Xibo Li et.al.|[2407.01216](http://arxiv.org/pdf/2407.01216.pdf)|null|
 |**2024-07-01**|**FedRC: A Rapid-Converged Hierarchical Federated Learning Framework in Street Scene Semantic Understanding**|Wei-Bin Kou et.al.|[2407.01103](http://arxiv.org/pdf/2407.01103.pdf)|null|
