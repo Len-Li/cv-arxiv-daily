@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.08.31
+Updated on 2024.09.01
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -12858,7 +12858,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-08-29**|**Improving Diffusion-based Data Augmentation with Inversion Spherical Interpolation**|Yanghao Wang et.al.|[2408.16266](http://arxiv.org/pdf/2408.16266.pdf)|null|
 |**2024-08-29**|**Advancing Architectural Floorplan Design with Geometry-enhanced Graph Diffusion**|Sizhe Hu et.al.|[2408.16258](http://arxiv.org/pdf/2408.16258.pdf)|null|
 |**2024-08-29**|**Error analysis of conformal finite element method for nonlocal diffusion model**|Zuoqiang Shi et.al.|[2408.16243](http://arxiv.org/pdf/2408.16243.pdf)|null|
-|**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232](http://arxiv.org/pdf/2408.16232.pdf)|null|
+|**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232](http://arxiv.org/pdf/2408.16232.pdf)|**[link](https://github.com/kshitij79/CS-7476-Improvements-in-Diffusion-Model)**|
 |**2024-08-29**|**Anchor-Controlled Generative Adversarial Network for High-Fidelity Electromagnetic and Structurally Diverse Metasurface Design**|Yunhui Zeng et.al.|[2408.16231](http://arxiv.org/pdf/2408.16231.pdf)|null|
 |**2024-08-28**|**TEDRA: Text-based Editing of Dynamic and Photoreal Actors**|Basavaraj Sunagad et.al.|[2408.15995](http://arxiv.org/pdf/2408.15995.pdf)|null|
 |**2024-08-28**|**Distribution Backtracking Builds A Faster Convergence Trajectory for One-step Diffusion Distillation**|Shengyuan Zhang et.al.|[2408.15991](http://arxiv.org/pdf/2408.15991.pdf)|**[link](https://github.com/syzhang0805/disback)**|
