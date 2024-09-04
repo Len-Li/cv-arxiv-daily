@@ -1,4 +1,4 @@
-Updated on 2024.09.03
+Updated on 2024.09.04
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -7581,7 +7581,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20240903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240904>back to top</a>)</p>
 
 ## NeRF
 
@@ -8258,7 +8258,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20240903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240904>back to top</a>)</p>
 
 ## Industry
 
@@ -8563,7 +8563,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2012-04-06**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-09**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20240903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240904>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -8609,7 +8609,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-08-23**|**Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment**|Yanze Zhang et.al.|[2408.12822](http://arxiv.org/pdf/2408.12822.pdf)|null|
 |**2024-08-23**|**A Safe Self-evolution Algorithm for Autonomous Driving Based on Data-Driven Risk Quantification Model**|Shuo Yang et.al.|[2408.12805](http://arxiv.org/pdf/2408.12805.pdf)|null|
 |**2024-08-22**|**Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection**|Ruixiao Zhang et.al.|[2408.12708](http://arxiv.org/pdf/2408.12708.pdf)|null|
-|**2024-08-22**|**Can LLMs Understand Social Norms in Autonomous Driving Games?**|Boxuan Wang et.al.|[2408.12680](http://arxiv.org/pdf/2408.12680.pdf)|null|
+|**2024-09-01**|**Can LLMs Understand Social Norms in Autonomous Driving Games?**|Boxuan Wang et.al.|[2408.12680](http://arxiv.org/pdf/2408.12680.pdf)|null|
 |**2024-08-22**|**Multimodal Foundational Models for Unsupervised 3D General Obstacle Detection**|Tamás Matuszka et.al.|[2408.12322](http://arxiv.org/pdf/2408.12322.pdf)|null|
 |**2024-08-22**|**A Safety-Oriented Self-Learning Algorithm for Autonomous Driving: Evolution Starting from a Basic Model**|Shuo Yang et.al.|[2408.12190](http://arxiv.org/pdf/2408.12190.pdf)|null|
 |**2024-08-22**|**A Safe and Efficient Self-evolving Algorithm for Decision-making and Control of Autonomous Driving Systems**|Shuo Yang et.al.|[2408.12187](http://arxiv.org/pdf/2408.12187.pdf)|null|
@@ -10057,7 +10057,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20240903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240904>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -10108,7 +10108,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-08-23**|**Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment**|Yanze Zhang et.al.|[2408.12822](http://arxiv.org/pdf/2408.12822.pdf)|null|
 |**2024-08-23**|**A Safe Self-evolution Algorithm for Autonomous Driving Based on Data-Driven Risk Quantification Model**|Shuo Yang et.al.|[2408.12805](http://arxiv.org/pdf/2408.12805.pdf)|null|
 |**2024-08-22**|**Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection**|Ruixiao Zhang et.al.|[2408.12708](http://arxiv.org/pdf/2408.12708.pdf)|null|
-|**2024-08-22**|**Can LLMs Understand Social Norms in Autonomous Driving Games?**|Boxuan Wang et.al.|[2408.12680](http://arxiv.org/pdf/2408.12680.pdf)|null|
+|**2024-09-01**|**Can LLMs Understand Social Norms in Autonomous Driving Games?**|Boxuan Wang et.al.|[2408.12680](http://arxiv.org/pdf/2408.12680.pdf)|null|
 |**2024-08-22**|**Multimodal Foundational Models for Unsupervised 3D General Obstacle Detection**|Tamás Matuszka et.al.|[2408.12322](http://arxiv.org/pdf/2408.12322.pdf)|null|
 |**2024-08-22**|**A Safety-Oriented Self-Learning Algorithm for Autonomous Driving: Evolution Starting from a Basic Model**|Shuo Yang et.al.|[2408.12190](http://arxiv.org/pdf/2408.12190.pdf)|null|
 |**2024-08-22**|**A Safe and Efficient Self-evolving Algorithm for Decision-making and Control of Autonomous Driving Systems**|Shuo Yang et.al.|[2408.12187](http://arxiv.org/pdf/2408.12187.pdf)|null|
@@ -12003,7 +12003,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20240903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240904>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -12025,7 +12025,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-08-20**|**Target-Oriented Object Grasping via Multimodal Human Guidance**|Pengwei Xie et.al.|[2408.11138](http://arxiv.org/pdf/2408.11138.pdf)|null|
 |**2024-08-20**|**Towards reliable real-time trajectory optimization**|Fatemeh Rastgar et.al.|[2408.10731](http://arxiv.org/pdf/2408.10731.pdf)|null|
 |**2024-08-19**|**Edge-Cloud Collaborative Motion Planning for Autonomous Driving with Large Language Models**|Jiao Chen et.al.|[2408.09972](http://arxiv.org/pdf/2408.09972.pdf)|null|
-|**2024-08-19**|**Harnessing the Potential of Omnidirectional Multi-Rotor Aerial Vehicles in Cooperative Jamming Against Eavesdropping**|Daniel Bonilla Licea et.al.|[2408.09753](http://arxiv.org/pdf/2408.09753.pdf)|null|
+|**2024-08-31**|**Harnessing the Potential of Omnidirectional Multi-Rotor Aerial Vehicles in Cooperative Jamming Against Eavesdropping**|Daniel Bonilla Licea et.al.|[2408.09753](http://arxiv.org/pdf/2408.09753.pdf)|null|
 |**2024-08-18**|**SynTraC: A Synthetic Dataset for Traffic Signal Control from Traffic Monitoring Cameras**|Tiejin Chen et.al.|[2408.09588](http://arxiv.org/pdf/2408.09588.pdf)|**[link](https://github.com/darl-libsignal/syntrac)**|
 |**2024-08-17**|**MambaTrack: A Simple Baseline for Multiple Object Tracking with State Space Model**|Changcheng Xiao et.al.|[2408.09178](http://arxiv.org/pdf/2408.09178.pdf)|null|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/pdf/2408.08202.pdf)|null|
@@ -12876,7 +12876,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20240903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240904>back to top</a>)</p>
 
 ## Diffusion
 
@@ -13007,7 +13007,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-08-22**|**Unlocking Intrinsic Fairness in Stable Diffusion**|Eunji Kim et.al.|[2408.12692](http://arxiv.org/pdf/2408.12692.pdf)|null|
 |**2024-08-22**|**Generative Diffusion Model-based Downscaling of Observed Sea Surface Height over Kuroshio Extension since 2000**|Qiuchang Han et.al.|[2408.12632](http://arxiv.org/pdf/2408.12632.pdf)|null|
 |**2024-08-09**|**Quantum Generative Adversarial Networks: Generating and Detecting Quantum Product States**|James E. Steck et.al.|[2408.12620](http://arxiv.org/pdf/2408.12620.pdf)|null|
-|**2024-08-22**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590](http://arxiv.org/pdf/2408.12590.pdf)|null|
+|**2024-08-31**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590](http://arxiv.org/pdf/2408.12590.pdf)|null|
 |**2024-08-22**|**Real-Time Video Generation with Pyramid Attention Broadcast**|Xuanlei Zhao et.al.|[2408.12588](http://arxiv.org/pdf/2408.12588.pdf)|**[link](https://github.com/nus-hpc-ai-lab/opendit)**|
 |**2024-08-22**|**ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation**|Lujia Zhong et.al.|[2408.12561](http://arxiv.org/pdf/2408.12561.pdf)|**[link](https://github.com/lujiazho/ssprop)**|
 |**2024-08-25**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528](http://arxiv.org/pdf/2408.12528.pdf)|null|
@@ -13164,7 +13164,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-08-13**|**ViMo: Generating Motions from Casual Videos**|Liangdong Qiu et.al.|[2408.06614](http://arxiv.org/pdf/2408.06614.pdf)|null|
 |**2024-08-12**|**Prompt Recovery for Image Generation Models: A Comparative Study of Discrete Optimizers**|Joshua Nathaniel Williams et.al.|[2408.06502](http://arxiv.org/pdf/2408.06502.pdf)|null|
 |**2024-08-12**|**Synthetic Photography Detection: A Visual Guidance for Identifying Synthetic Images Created by AI**|Melanie Mathys et.al.|[2408.06398](http://arxiv.org/pdf/2408.06398.pdf)|null|
-|**2024-08-15**|**The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**|Chris Lu et.al.|[2408.06292](http://arxiv.org/pdf/2408.06292.pdf)|**[link](https://github.com/sakanaai/ai-scientist)**|
+|**2024-09-01**|**The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**|Chris Lu et.al.|[2408.06292](http://arxiv.org/pdf/2408.06292.pdf)|**[link](https://github.com/sakanaai/ai-scientist)**|
 |**2024-08-12**|**3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)**|Jaydeep Rade et.al.|[2408.06244](http://arxiv.org/pdf/2408.06244.pdf)|null|
 |**2024-08-12**|**Novel View Synthesis from a Single Image with Pretrained Diffusion Guidance**|Taewon Kang et.al.|[2408.06157](http://arxiv.org/pdf/2408.06157.pdf)|null|
 |**2024-08-12**|**Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models**|Ioannis Romanelis et.al.|[2408.06145](http://arxiv.org/pdf/2408.06145.pdf)|**[link](https://github.com/johnromanelis/spvd)**|
@@ -13860,5 +13860,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-06-22**|**Video Diffusion Models**|Jonathan Ho et.al.|[2204.03458](http://arxiv.org/pdf/2204.03458.pdf)|null|
 |**2022-12-08**|**Diffusion Probabilistic Modeling for Video Generation**|Ruihan Yang et.al.|[2203.09481](http://arxiv.org/pdf/2203.09481.pdf)|**[link](https://github.com/buggyyang/rvd)**|
 
-<p align=right>(<a href=#Updated-on-20240903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240904>back to top</a>)</p>
 
