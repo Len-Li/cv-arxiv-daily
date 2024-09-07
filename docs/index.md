@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.09.06
+Updated on 2024.09.07
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -53,7 +53,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-09-04**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)**|Yao Mu et.al.|[2409.02920](http://arxiv.org/pdf/2409.02920.pdf)|null|
 |**2024-09-04**|**Toward 2D Dynamo Models Calibrated by Global 3D Relativistic Accretion Disk Simulations**|Matthew D. Duez et.al.|[2409.02899](http://arxiv.org/pdf/2409.02899.pdf)|null|
 |**2024-09-04**|**RISTRETTO: reflected-light exoplanet spectroscopy at the diffraction limit of the VLT**|Christophe Lovis et.al.|[2409.02875](http://arxiv.org/pdf/2409.02875.pdf)|null|
-|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/pdf/2409.02851.pdf)|null|
+|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/pdf/2409.02851.pdf)|**[link](https://github.com/Human-VDM/Human-VDM)**|
 |**2024-09-04**|**Diffraction Aided Wireless Positioning**|Gaurav Duggal et.al.|[2409.02832](http://arxiv.org/pdf/2409.02832.pdf)|null|
 |**2024-09-04**|**Automatic facial axes standardization of 3D fetal ultrasound images**|Antonia Alomar et.al.|[2409.02826](http://arxiv.org/pdf/2409.02826.pdf)|null|
 |**2024-09-04**|**Physics Perspectives with the ePIC Far-Forward and Far-Backward detectors**|Michael Pitt et.al.|[2409.02811](http://arxiv.org/pdf/2409.02811.pdf)|null|
@@ -13147,7 +13147,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-09-04**|**How DREAMS are made: Emulating Satellite Galaxy and Subhalo Populations with Diffusion Models and Point Clouds**|Tri Nguyen et.al.|[2409.02980](http://arxiv.org/pdf/2409.02980.pdf)|null|
 |**2024-09-04**|**HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**|Xinyu Liu et.al.|[2409.02919](http://arxiv.org/pdf/2409.02919.pdf)|**[link](https://github.com/Liuxinyv/HiPrompt)**|
 |**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908](http://arxiv.org/pdf/2409.02908.pdf)|null|
-|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/pdf/2409.02851.pdf)|null|
+|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/pdf/2409.02851.pdf)|**[link](https://github.com/Human-VDM/Human-VDM)**|
 |**2024-09-04**|**Multi-Track MusicLDM: Towards Versatile Music Generation with Latent Diffusion Model**|Tornike Karchkhadze et.al.|[2409.02845](http://arxiv.org/pdf/2409.02845.pdf)|null|
 |**2024-09-04**|**Independence Constrained Disentangled Representation Learning from Epistemological Perspective**|Ruoyu Wang et.al.|[2409.02672](http://arxiv.org/pdf/2409.02672.pdf)|null|
 |**2024-09-04**|**Generalized Individual Q-learning for Polymatrix Games with Partial Observations**|Ahmed Said Donmez et.al.|[2409.02663](http://arxiv.org/pdf/2409.02663.pdf)|null|
