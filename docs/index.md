@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.09.19
+Updated on 2024.09.20
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -18,6 +18,40 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Vista3D: Unravel the 3D Darkside of a Single Image**|Qiuhong Shen et.al.|[2409.12193](http://arxiv.org/pdf/2409.12193.pdf)|**[link](https://github.com/florinshen/vista3d)**|
+|**2024-09-18**|**Bundle Adjustment in the Eager Mode**|Zitong Zhan et.al.|[2409.12190](http://arxiv.org/pdf/2409.12190.pdf)|null|
+|**2024-09-18**|**Massively Multi-Person 3D Human Motion Forecasting with Scene Context**|Felix B Mueller et.al.|[2409.12189](http://arxiv.org/pdf/2409.12189.pdf)|null|
+|**2024-09-18**|**Panoptic-Depth Forecasting**|Juana Valeria Hurtado et.al.|[2409.12008](http://arxiv.org/pdf/2409.12008.pdf)|null|
+|**2024-09-18**|**Particle-based Instance-aware Semantic Occupancy Mapping in Dynamic Environments**|Gang Chen et.al.|[2409.11975](http://arxiv.org/pdf/2409.11975.pdf)|null|
+|**2024-09-18**|**MitoSeg: Mitochondria Segmentation Tool**|Faris Serdar Taşel et.al.|[2409.11974](http://arxiv.org/pdf/2409.11974.pdf)|null|
+|**2024-09-18**|**GaussianHeads: End-to-End Learning of Drivable Gaussian Head Avatars from Coarse-to-fine Representations**|Kartik Teotia et.al.|[2409.11951](http://arxiv.org/pdf/2409.11951.pdf)|null|
+|**2024-09-18**|**GauTOAO: Gaussian-based Task-Oriented Affordance of Objects**|Jiawen Wang et.al.|[2409.11941](http://arxiv.org/pdf/2409.11941.pdf)|null|
+|**2024-09-18**|**Differentiable Collision-Supervised Tooth Arrangement Network with a Decoupling Perspective**|Zhihui He et.al.|[2409.11937](http://arxiv.org/pdf/2409.11937.pdf)|null|
+|**2024-09-18**|**Generation of Complex 3D Human Motion by Temporal and Spatial Composition of Diffusion Models**|Lorenzo Mandelli et.al.|[2409.11920](http://arxiv.org/pdf/2409.11920.pdf)|null|
+|**2024-09-18**|**Borophane as substrate for adsorption of He-4: A journey across dimensionality**|Stefania De Palo et.al.|[2409.11913](http://arxiv.org/pdf/2409.11913.pdf)|null|
+|**2024-09-18**|**Tumor aware recurrent inter-patient deformable image registration of computed tomography scans with lung cancer**|Jue Jiang et.al.|[2409.11910](http://arxiv.org/pdf/2409.11910.pdf)|null|
+|**2024-09-18**|**SpheriGait: Enriching Spatial Representation via Spherical Projection for LiDAR-based Gait Recognition**|Yanxi Wang et.al.|[2409.11869](http://arxiv.org/pdf/2409.11869.pdf)|null|
+|**2024-09-18**|**Electric field control for experiments with atoms in Rydberg states**|Aishik Panja et.al.|[2409.11865](http://arxiv.org/pdf/2409.11865.pdf)|null|
+|**2024-09-18**|**Physically-Based Photometric Bundle Adjustment in Non-Lambertian Environments**|Lei Cheng et.al.|[2409.11854](http://arxiv.org/pdf/2409.11854.pdf)|null|
+|**2024-09-18**|**World of Forms: Deformable Geometric Templates for One-Shot Surface Meshing in Coronary CT Angiography**|Rudolf L. M. van Herten et.al.|[2409.11837](http://arxiv.org/pdf/2409.11837.pdf)|null|
+|**2024-09-18**|**Smart Data-Driven GRU Predictor for SnO $_2$ Thin films Characteristics**|Faiza Bouamra et.al.|[2409.11782](http://arxiv.org/pdf/2409.11782.pdf)|null|
+|**2024-09-18**|**RockTrack: A 3D Robust Multi-Camera-Ken Multi-Object Tracking Framework**|Xiaoyu Li et.al.|[2409.11749](http://arxiv.org/pdf/2409.11749.pdf)|null|
+|**2024-09-18**|**Three-dimensional topological valley photonics**|Wenhao Li et.al.|[2409.11715](http://arxiv.org/pdf/2409.11715.pdf)|null|
+|**2024-09-18**|**Three-dimensional valley-contrasting sound**|Haoran Xue et.al.|[2409.11714](http://arxiv.org/pdf/2409.11714.pdf)|null|
+|**2024-09-18**|**Revolutionizing Pharmaceutical Manufacturing: Advances and Challenges of 3D Printing System and Control**|Rahul Kumar et.al.|[2409.11712](http://arxiv.org/pdf/2409.11712.pdf)|null|
+|**2024-09-18**|**LFIC-DRASC: Deep Light Field Image Compression Using Disentangled Representation and Asymmetrical Strip Convolution**|Shiyu Feng et.al.|[2409.11711](http://arxiv.org/pdf/2409.11711.pdf)|null|
+|**2024-09-18**|**SLAM assisted 3D tracking system for laparoscopic surgery**|Jingwei Song et.al.|[2409.11688](http://arxiv.org/pdf/2409.11688.pdf)|null|
+|**2024-09-18**|**SRIF: Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation**|Mingze Sun et.al.|[2409.11682](http://arxiv.org/pdf/2409.11682.pdf)|null|
+|**2024-09-18**|**Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks**|Joji Joseph et.al.|[2409.11681](http://arxiv.org/pdf/2409.11681.pdf)|**[link](https://github.com/JojiJoseph/3dgs-gradient-segmentation)**|
+|**2024-09-19**|**WALLABY Pilot Survey: HI source-finding with a machine learning framework**|Li Wang et.al.|[2409.11668](http://arxiv.org/pdf/2409.11668.pdf)|null|
+|**2024-09-17**|**DiffESM: Conditional Emulation of Temperature and Precipitation in Earth System Models with 3D Diffusion Models**|Seth Bassetti et.al.|[2409.11601](http://arxiv.org/pdf/2409.11601.pdf)|null|
+|**2024-09-17**|**3D Water Quality Mapping using Invariant Extended Kalman Filtering for Underwater Robot Localization**|Kaustubh Joshi et.al.|[2409.11578](http://arxiv.org/pdf/2409.11578.pdf)|null|
+|**2024-09-17**|**VALO: A Versatile Anytime Framework for LiDAR-based Object Detection Deep Neural Networks**|Ahmet Soyyigit et.al.|[2409.11542](http://arxiv.org/pdf/2409.11542.pdf)|**[link](https://github.com/csl-ku/valo)**|
+|**2024-09-17**|**Using Physics Informed Generative Adversarial Networks to Model 3D porous media**|Zihan Ren et.al.|[2409.11541](http://arxiv.org/pdf/2409.11541.pdf)|null|
+|**2024-09-17**|**Obfuscation Based Privacy Preserving Representations are Recoverable Using Neighborhood Information**|Kunal Chelani et.al.|[2409.11536](http://arxiv.org/pdf/2409.11536.pdf)|null|
+|**2024-09-17**|**Rigid Body Path Planning using Mixed-Integer Linear Programming**|Mingxin Yu et.al.|[2409.11520](http://arxiv.org/pdf/2409.11520.pdf)|null|
+|**2024-09-17**|**Instability and warping in vertically oscillating accretion discs**|Loren E. Held et.al.|[2409.11490](http://arxiv.org/pdf/2409.11490.pdf)|null|
+|**2024-09-11**|**Next-generation Probabilistic Computing Hardware with 3D MOSAICs, Illusion Scale-up, and Co-design**|Tathagata Srimani et.al.|[2409.11422](http://arxiv.org/pdf/2409.11422.pdf)|null|
 |**2024-09-17**|**Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion**|Zhenwei Wang et.al.|[2409.11406](http://arxiv.org/pdf/2409.11406.pdf)|null|
 |**2024-09-17**|**Online 4D Ultrasound-Guided Robotic Tracking Enables 3D Ultrasound Localisation Microscopy with Large Tissue Displacements**|Jipeng Yan et.al.|[2409.11391](http://arxiv.org/pdf/2409.11391.pdf)|null|
 |**2024-09-17**|**Learning Spatially-Aware Language and Audio Embedding**|Bhavika Devnani et.al.|[2409.11369](http://arxiv.org/pdf/2409.11369.pdf)|null|
@@ -25,10 +59,10 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356](http://arxiv.org/pdf/2409.11356.pdf)|null|
 |**2024-09-17**|**fMRI-3D: A Comprehensive Dataset for Enhancing fMRI-based 3D Reconstruction**|Jianxiong Gao et.al.|[2409.11315](http://arxiv.org/pdf/2409.11315.pdf)|null|
 |**2024-09-17**|**GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**|Yichen Zhang et.al.|[2409.11307](http://arxiv.org/pdf/2409.11307.pdf)|null|
-|**2024-09-17**|**TTT-Unet: Enhancing U-Net with Test-Time Training Layers for biomedical image segmentation**|Rong Zhou et.al.|[2409.11299](http://arxiv.org/pdf/2409.11299.pdf)|null|
+|**2024-09-18**|**TTT-Unet: Enhancing U-Net with Test-Time Training Layers for Biomedical Image Segmentation**|Rong Zhou et.al.|[2409.11299](http://arxiv.org/pdf/2409.11299.pdf)|null|
 |**2024-09-17**|**SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction**|Marko Mihajlovic et.al.|[2409.11211](http://arxiv.org/pdf/2409.11211.pdf)|null|
 |**2024-09-17**|**Air-FAR: Fast and Adaptable Routing for Aerial Navigation in Large-scale Complex Unknown Environments**|Botao He et.al.|[2409.11188](http://arxiv.org/pdf/2409.11188.pdf)|null|
-|**2024-09-13**|**MAISI: Medical AI for Synthetic Imaging**|Pengfei Guo et.al.|[2409.11169](http://arxiv.org/pdf/2409.11169.pdf)|null|
+|**2024-09-13**|**MAISI: Medical AI for Synthetic Imaging**|Pengfei Guo et.al.|[2409.11169](http://arxiv.org/pdf/2409.11169.pdf)|**[link](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi)**|
 |**2024-09-17**|**UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height**|Zichen Yu et.al.|[2409.11160](http://arxiv.org/pdf/2409.11160.pdf)|null|
 |**2024-09-17**|**The Impact of Icy Cometary 'Impacts' on Exoplanetary Atmospheres I: Tidally-Locked Terrestrial Exoplanets**|Felix Sainsbury-Martinez et.al.|[2409.11151](http://arxiv.org/pdf/2409.11151.pdf)|null|
 |**2024-09-17**|**Use the Force, Bot! -- Force-Aware ProDMP with Event-Based Replanning**|Paul Werner Lödige et.al.|[2409.11144](http://arxiv.org/pdf/2409.11144.pdf)|null|
@@ -45,7 +79,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-09-17**|**Multi-Floor Zero-Shot Object Navigation Policy**|Lingfeng Zhang et.al.|[2409.10906](http://arxiv.org/pdf/2409.10906.pdf)|null|
 |**2024-09-17**|**TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection**|Philip Jacobson et.al.|[2409.10901](http://arxiv.org/pdf/2409.10901.pdf)|null|
 |**2024-09-17**|**3DFacePolicy: Speech-Driven 3D Facial Animation with Diffusion Policy**|Xuanmeng Sha et.al.|[2409.10848](http://arxiv.org/pdf/2409.10848.pdf)|null|
-|**2024-09-17**|**Single-Layer Learnable Activation for Implicit Neural Representation (SL $^{2}$ A-INR)**|Moein Heidari et.al.|[2409.10836](http://arxiv.org/pdf/2409.10836.pdf)|null|
+|**2024-09-18**|**Single-Layer Learnable Activation for Implicit Neural Representation (SL $^{2}$ A-INR)**|Moein Heidari et.al.|[2409.10836](http://arxiv.org/pdf/2409.10836.pdf)|null|
 |**2024-09-18**|**Context-Dependent Interactable Graphical User Interface Element Detection for Spatial Computing Applications**|Shuqing Li et.al.|[2409.10811](http://arxiv.org/pdf/2409.10811.pdf)|null|
 |**2024-09-17**|**Global solutions to 3D quadratic nonlinear Schrödinger-type equation**|Zihua Guo et.al.|[2409.10804](http://arxiv.org/pdf/2409.10804.pdf)|null|
 |**2024-09-16**|**Ideal flat and resolved SU(3) Landau levels in three dimensions**|Mian Peng et.al.|[2409.10785](http://arxiv.org/pdf/2409.10785.pdf)|null|
@@ -274,7 +308,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-09-08**|**Inverse cascade in zonal flows**|Siddhant Mishra et.al.|[2409.05127](http://arxiv.org/pdf/2409.05127.pdf)|null|
 |**2024-09-08**|**On the Sobolev stability threshold for 3D Navier-Stokes equations with rotation near the Couette flow**|Wenting Huang et.al.|[2409.05104](http://arxiv.org/pdf/2409.05104.pdf)|null|
 |**2024-09-12**|**DreamMapping: High-Fidelity Text-to-3D Generation via Variational Distribution Mapping**|Zeyu Cai et.al.|[2409.05099](http://arxiv.org/pdf/2409.05099.pdf)|null|
-|**2024-09-08**|**Ion Trapping with a Laser-written 3D Miniaturized Monolithic Linear Paul Trap for Microcavity Integration**|Soon Teh et.al.|[2409.05075](http://arxiv.org/pdf/2409.05075.pdf)|null|
+|**2024-09-19**|**Ion Trapping with a Laser-written 3D Miniaturized Monolithic Linear Paul Trap for Microcavity Integration**|Soon Teh et.al.|[2409.05075](http://arxiv.org/pdf/2409.05075.pdf)|null|
 |**2024-09-08**|**Unsupervised Multimodal 3D Medical Image Registration with Multilevel Correlation Balanced Optimization**|Jiazheng Wang et.al.|[2409.05040](http://arxiv.org/pdf/2409.05040.pdf)|null|
 |**2024-09-08**|**Room-temperature superconductivity in 1D**|Carlo A. Trugenberger et.al.|[2409.05031](http://arxiv.org/pdf/2409.05031.pdf)|null|
 |**2024-09-08**|**Multi-V2X: A Large Scale Multi-modal Multi-penetration-rate Dataset for Cooperative Perception**|Rongsong Li et.al.|[2409.04980](http://arxiv.org/pdf/2409.04980.pdf)|null|
@@ -8038,6 +8072,8 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014](http://arxiv.org/pdf/2409.12014.pdf)|null|
+|**2024-09-18**|**Intraoperative Registration by Cross-Modal Inverse Neural Rendering**|Maximilian Fehrentz et.al.|[2409.11983](http://arxiv.org/pdf/2409.11983.pdf)|null|
 |**2024-09-16**|**DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**|Mahmud A. Mohamad et.al.|[2409.10041](http://arxiv.org/pdf/2409.10041.pdf)|null|
 |**2024-09-15**|**SAFER-Splat: A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps**|Timothy Chen et.al.|[2409.09868](http://arxiv.org/pdf/2409.09868.pdf)|null|
 |**2024-09-15**|**NARF24: Estimating Articulated Object Structure for Implicit Rendering**|Stanley Lewis et.al.|[2409.09829](http://arxiv.org/pdf/2409.09829.pdf)|null|
@@ -8224,7 +8260,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345](http://arxiv.org/pdf/2405.04345.pdf)|null|
 |**2024-06-10**|**A Construct-Optimize Approach to Sparse View Synthesis without Camera Pose**|Kaiwen Jiang et.al.|[2405.03659](http://arxiv.org/pdf/2405.03659.pdf)|null|
 |**2024-05-05**|**Blending Distributed NeRFs with Tri-stage Robust Pose Optimization**|Baijun Ye et.al.|[2405.02880](http://arxiv.org/pdf/2405.02880.pdf)|null|
-|**2024-05-04**|**TK-Planes: Tiered K-Planes with High Dimensional Feature Vectors for Dynamic UAV-based Scenes**|Christopher Maxey et.al.|[2405.02762](http://arxiv.org/pdf/2405.02762.pdf)|null|
+|**2024-09-18**|**TK-Planes: Tiered K-Planes with High Dimensional Feature Vectors for Dynamic UAV-based Scenes**|Christopher Maxey et.al.|[2405.02762](http://arxiv.org/pdf/2405.02762.pdf)|null|
 |**2024-06-10**|**Active Neural 3D Reconstruction with Colorized Surface Voxel-based View Selection**|Hyunseo Kim et.al.|[2405.02568](http://arxiv.org/pdf/2405.02568.pdf)|null|
 |**2024-05-03**|**Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning**|Dhruva Tirumala et.al.|[2405.02425](http://arxiv.org/pdf/2405.02425.pdf)|null|
 |**2024-05-03**|**Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids**|Junchen Liu et.al.|[2405.02386](http://arxiv.org/pdf/2405.02386.pdf)|**[link](https://github.com/junchenliu77/rip-nerf)**|
@@ -9035,12 +9071,17 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Unveiling the Black Box: Independent Functional Module Evaluation for Bird's-Eye-View Perception Model**|Ludan Zhang et.al.|[2409.11969](http://arxiv.org/pdf/2409.11969.pdf)|null|
+|**2024-09-18**|**RoboMorph: In-Context Meta-Learning for Robot Dynamics Modeling**|Manuel Bianchi Bazzi et.al.|[2409.11815](http://arxiv.org/pdf/2409.11815.pdf)|null|
+|**2024-09-18**|**Explaining Non-monotonic Normative Reasoning using Argumentation Theory with Deontic Logic**|Zhe Yu et.al.|[2409.11780](http://arxiv.org/pdf/2409.11780.pdf)|null|
+|**2024-09-18**|**RopeBEV: A Multi-Camera Roadside Perception Network in Bird's-Eye-View**|Jinrang Jia et.al.|[2409.11706](http://arxiv.org/pdf/2409.11706.pdf)|null|
+|**2024-09-18**|**From Words to Wheels: Automated Style-Customized Policy Generation for Autonomous Driving**|Xu Han et.al.|[2409.11694](http://arxiv.org/pdf/2409.11694.pdf)|null|
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356](http://arxiv.org/pdf/2409.11356.pdf)|null|
 |**2024-09-17**|**TopoMaskV2: Enhanced Instance-Mask-Based Formulation for the Road Topology Problem**|M. Esat Kalfaoglu et.al.|[2409.11325](http://arxiv.org/pdf/2409.11325.pdf)|null|
 |**2024-09-18**|**High-Order Evolving Graphs for Enhanced Representation of Traffic Dynamics**|Aditya Humnabadkar et.al.|[2409.11206](http://arxiv.org/pdf/2409.11206.pdf)|null|
 |**2024-09-17**|**Optimization of Rulebooks via Asymptotically Representing Lexicographic Hierarchies for Autonomous Vehicles**|Matteo Penlington et.al.|[2409.11199](http://arxiv.org/pdf/2409.11199.pdf)|null|
 |**2024-09-16**|**Video Token Sparsification for Efficient Multimodal LLMs in Autonomous Driving**|Yunsheng Ma et.al.|[2409.11182](http://arxiv.org/pdf/2409.11182.pdf)|null|
-|**2024-09-18**|**Annealed Winner-Takes-All for Motion Forecasting**|Yihong Xu et.al.|[2409.11172](http://arxiv.org/pdf/2409.11172.pdf)|null|
+|**2024-09-18**|**Annealed Winner-Takes-All for Motion Forecasting**|Yihong Xu et.al.|[2409.11172](http://arxiv.org/pdf/2409.11172.pdf)|**[link](https://github.com/valeoai/mf_awta)**|
 |**2024-09-17**|**UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height**|Zichen Yu et.al.|[2409.11160](http://arxiv.org/pdf/2409.11160.pdf)|null|
 |**2024-09-17**|**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**|Rui Yu et.al.|[2409.11018](http://arxiv.org/pdf/2409.11018.pdf)|null|
 |**2024-09-17**|**TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection**|Philip Jacobson et.al.|[2409.10901](http://arxiv.org/pdf/2409.10901.pdf)|null|
@@ -10642,12 +10683,18 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014](http://arxiv.org/pdf/2409.12014.pdf)|null|
+|**2024-09-18**|**Intraoperative Registration by Cross-Modal Inverse Neural Rendering**|Maximilian Fehrentz et.al.|[2409.11983](http://arxiv.org/pdf/2409.11983.pdf)|null|
+|**2024-09-18**|**Unveiling the Black Box: Independent Functional Module Evaluation for Bird's-Eye-View Perception Model**|Ludan Zhang et.al.|[2409.11969](http://arxiv.org/pdf/2409.11969.pdf)|null|
+|**2024-09-18**|**Explaining Non-monotonic Normative Reasoning using Argumentation Theory with Deontic Logic**|Zhe Yu et.al.|[2409.11780](http://arxiv.org/pdf/2409.11780.pdf)|null|
+|**2024-09-18**|**RopeBEV: A Multi-Camera Roadside Perception Network in Bird's-Eye-View**|Jinrang Jia et.al.|[2409.11706](http://arxiv.org/pdf/2409.11706.pdf)|null|
+|**2024-09-18**|**From Words to Wheels: Automated Style-Customized Policy Generation for Autonomous Driving**|Xu Han et.al.|[2409.11694](http://arxiv.org/pdf/2409.11694.pdf)|null|
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356](http://arxiv.org/pdf/2409.11356.pdf)|null|
 |**2024-09-17**|**TopoMaskV2: Enhanced Instance-Mask-Based Formulation for the Road Topology Problem**|M. Esat Kalfaoglu et.al.|[2409.11325](http://arxiv.org/pdf/2409.11325.pdf)|null|
 |**2024-09-18**|**High-Order Evolving Graphs for Enhanced Representation of Traffic Dynamics**|Aditya Humnabadkar et.al.|[2409.11206](http://arxiv.org/pdf/2409.11206.pdf)|null|
 |**2024-09-17**|**Optimization of Rulebooks via Asymptotically Representing Lexicographic Hierarchies for Autonomous Vehicles**|Matteo Penlington et.al.|[2409.11199](http://arxiv.org/pdf/2409.11199.pdf)|null|
 |**2024-09-16**|**Video Token Sparsification for Efficient Multimodal LLMs in Autonomous Driving**|Yunsheng Ma et.al.|[2409.11182](http://arxiv.org/pdf/2409.11182.pdf)|null|
-|**2024-09-18**|**Annealed Winner-Takes-All for Motion Forecasting**|Yihong Xu et.al.|[2409.11172](http://arxiv.org/pdf/2409.11172.pdf)|null|
+|**2024-09-18**|**Annealed Winner-Takes-All for Motion Forecasting**|Yihong Xu et.al.|[2409.11172](http://arxiv.org/pdf/2409.11172.pdf)|**[link](https://github.com/valeoai/mf_awta)**|
 |**2024-09-17**|**UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height**|Zichen Yu et.al.|[2409.11160](http://arxiv.org/pdf/2409.11160.pdf)|null|
 |**2024-09-17**|**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**|Rui Yu et.al.|[2409.11018](http://arxiv.org/pdf/2409.11018.pdf)|null|
 |**2024-09-17**|**TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection**|Philip Jacobson et.al.|[2409.10901](http://arxiv.org/pdf/2409.10901.pdf)|null|
@@ -12714,10 +12761,15 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Real-Time-Feasible Collision-Free Motion Planning For Ellipsoidal Objects**|Yunfan Gao et.al.|[2409.12007](http://arxiv.org/pdf/2409.12007.pdf)|null|
+|**2024-09-18**|**LMMCoDrive: Cooperative Driving with Large Multimodal Model**|Haichao Liu et.al.|[2409.11981](http://arxiv.org/pdf/2409.11981.pdf)|null|
+|**2024-09-18**|**XP-MARL: Auxiliary Prioritization in Multi-Agent Reinforcement Learning to Address Non-Stationarity**|Jianye Xu et.al.|[2409.11852](http://arxiv.org/pdf/2409.11852.pdf)|null|
+|**2024-09-18**|**RMP-YOLO: A Robust Motion Predictor for Partially Observable Scenarios even if You Only Look Once**|Jiawei Sun et.al.|[2409.11696](http://arxiv.org/pdf/2409.11696.pdf)|null|
+|**2024-09-18**|**Hypergraph-based Motion Generation with Multi-modal Interaction Relational Reasoning**|Keshu Wu et.al.|[2409.11676](http://arxiv.org/pdf/2409.11676.pdf)|null|
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356](http://arxiv.org/pdf/2409.11356.pdf)|null|
 |**2024-09-17**|**Optimization of Rulebooks via Asymptotically Representing Lexicographic Hierarchies for Autonomous Vehicles**|Matteo Penlington et.al.|[2409.11199](http://arxiv.org/pdf/2409.11199.pdf)|null|
-|**2024-09-18**|**Annealed Winner-Takes-All for Motion Forecasting**|Yihong Xu et.al.|[2409.11172](http://arxiv.org/pdf/2409.11172.pdf)|null|
-|**2024-09-16**|**Uncovering the Secrets of Human-Like Movement: A Fresh Perspective on Motion Planning**|Lei Shi et.al.|[2409.10747](http://arxiv.org/pdf/2409.10747.pdf)|null|
+|**2024-09-18**|**Annealed Winner-Takes-All for Motion Forecasting**|Yihong Xu et.al.|[2409.11172](http://arxiv.org/pdf/2409.11172.pdf)|**[link](https://github.com/valeoai/mf_awta)**|
+|**2024-09-18**|**Uncovering the Secrets of Human-Like Movement: A Fresh Perspective on Motion Planning**|Lei Shi et.al.|[2409.10747](http://arxiv.org/pdf/2409.10747.pdf)|null|
 |**2024-09-16**|**Safe Interval Motion Planning for Quadrotors in Dynamic Environments**|Songhao Huang et.al.|[2409.10647](http://arxiv.org/pdf/2409.10647.pdf)|null|
 |**2024-09-16**|**Motion Forecasting via Model-Based Risk Minimization**|Aron Distelzweig et.al.|[2409.10585](http://arxiv.org/pdf/2409.10585.pdf)|null|
 |**2024-09-16**|**Optimal Geodesic Curvature Constrained Dubins' Path on Sphere with Free Terminal Orientation**|Deepak Prakash Kumar et.al.|[2409.10363](http://arxiv.org/pdf/2409.10363.pdf)|null|
@@ -13631,15 +13683,36 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Massively Multi-Person 3D Human Motion Forecasting with Scene Context**|Felix B Mueller et.al.|[2409.12189](http://arxiv.org/pdf/2409.12189.pdf)|null|
+|**2024-09-18**|**MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion**|Kalakonda Sai Shashank et.al.|[2409.12140](http://arxiv.org/pdf/2409.12140.pdf)|null|
+|**2024-09-18**|**Brain-Streams: fMRI-to-Image Reconstruction with Multi-modal Guidance**|Jaehoon Joo et.al.|[2409.12099](http://arxiv.org/pdf/2409.12099.pdf)|null|
+|**2024-09-18**|**Denoising diffusion models for high-resolution microscopy image restoration**|Pamela Osuna-Vargas et.al.|[2409.12078](http://arxiv.org/pdf/2409.12078.pdf)|null|
+|**2024-09-18**|**LEMON: Localized Editing with Mesh Optimization and Neural Shaders**|Furkan Mert Algan et.al.|[2409.12024](http://arxiv.org/pdf/2409.12024.pdf)|null|
+|**2024-09-18**|**ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation**|Peiyu Li et.al.|[2409.12010](http://arxiv.org/pdf/2409.12010.pdf)|**[link](https://github.com/peiyu-georgia-li/cheffusion-multimodal-foundation-model-integrating-recipe-and-food-image-generation)**|
+|**2024-09-18**|**Tracking Any Point with Frame-Event Fusion Network at High Frame Rate**|Jiaxiong Liu et.al.|[2409.11953](http://arxiv.org/pdf/2409.11953.pdf)|null|
+|**2024-09-18**|**Generation of Complex 3D Human Motion by Temporal and Spatial Composition of Diffusion Models**|Lorenzo Mandelli et.al.|[2409.11920](http://arxiv.org/pdf/2409.11920.pdf)|null|
+|**2024-09-18**|**Finding the Subjective Truth: Collecting 2 Million Votes for Comprehensive Gen-AI Model Evaluation**|Dimitrios Christodoulou et.al.|[2409.11904](http://arxiv.org/pdf/2409.11904.pdf)|null|
+|**2024-09-18**|**ABHINAW: A method for Automatic Evaluation of Typography within AI-Generated Images**|Abhinaw Jagtap et.al.|[2409.11874](http://arxiv.org/pdf/2409.11874.pdf)|null|
+|**2024-09-18**|**DPI-TTS: Directional Patch Interaction for Fast-Converging and Style Temporal Modeling in Text-to-Speech**|Xin Qi et.al.|[2409.11835](http://arxiv.org/pdf/2409.11835.pdf)|null|
+|**2024-09-18**|**RaggeDi: Diffusion-based State Estimation of Disordered Rags, Sheets, Towels and Blankets**|Jikai Ye et.al.|[2409.11831](http://arxiv.org/pdf/2409.11831.pdf)|null|
+|**2024-09-18**|**InverseMeetInsert: Robust Real Image Editing via Geometric Accumulation Inversion in Guided Diffusion Models**|Yan Zheng et.al.|[2409.11734](http://arxiv.org/pdf/2409.11734.pdf)|null|
+|**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689](http://arxiv.org/pdf/2409.11689.pdf)|null|
+|**2024-09-18**|**Recurrent Interpolants for Probabilistic Time Series Prediction**|Yu Chen et.al.|[2409.11684](http://arxiv.org/pdf/2409.11684.pdf)|null|
+|**2024-09-18**|**SRIF: Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation**|Mingze Sun et.al.|[2409.11682](http://arxiv.org/pdf/2409.11682.pdf)|null|
+|**2024-09-18**|**PainDiffusion: Can robot express pain?**|Quang Tien Dam et.al.|[2409.11635](http://arxiv.org/pdf/2409.11635.pdf)|null|
+|**2024-09-17**|**Context-Generative Default Policy for Bounded Rational Agent**|Durgakant Pushp et.al.|[2409.11604](http://arxiv.org/pdf/2409.11604.pdf)|null|
+|**2024-09-17**|**DiffESM: Conditional Emulation of Temperature and Precipitation in Earth System Models with 3D Diffusion Models**|Seth Bassetti et.al.|[2409.11601](http://arxiv.org/pdf/2409.11601.pdf)|null|
+|**2024-09-17**|**Using Physics Informed Generative Adversarial Networks to Model 3D porous media**|Zihan Ren et.al.|[2409.11541](http://arxiv.org/pdf/2409.11541.pdf)|null|
+|**2024-09-15**|**Machine Learning for Analyzing Atomic Force Microscopy (AFM) Images Generated from Polymer Blends**|Aanish Paruchuri et.al.|[2409.11438](http://arxiv.org/pdf/2409.11438.pdf)|**[link](https://github.com/arthijayaraman-lab/automated-atomic-force-microscopy-image-analysis)**|
 |**2024-09-17**|**Ultrasound Image Enhancement with the Variance of Diffusion Models**|Yuxin Zhang et.al.|[2409.11380](http://arxiv.org/pdf/2409.11380.pdf)|**[link](https://github.com/yuxin-zhang-jasmine/ius2024_diffusion)**|
 |**2024-09-17**|**OSV: One Step is Enough for High-Quality Image to Video Generation**|Xiaofeng Mao et.al.|[2409.11367](http://arxiv.org/pdf/2409.11367.pdf)|null|
-|**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355](http://arxiv.org/pdf/2409.11355.pdf)|null|
+|**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355](http://arxiv.org/pdf/2409.11355.pdf)|**[link](https://github.com/VisualComputingInstitute/diffusion-e2e-ft)**|
 |**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340](http://arxiv.org/pdf/2409.11340.pdf)|**[link](https://github.com/vectorspacelab/omnigen)**|
 |**2024-09-17**|**fMRI-3D: A Comprehensive Dataset for Enhancing fMRI-based 3D Reconstruction**|Jianxiong Gao et.al.|[2409.11315](http://arxiv.org/pdf/2409.11315.pdf)|null|
 |**2024-09-17**|**DroneDiffusion: Robust Quadrotor Dynamics Learning with Diffusion Models**|Avirup Das et.al.|[2409.11292](http://arxiv.org/pdf/2409.11292.pdf)|null|
-|**2024-09-18**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/pdf/2409.11261.pdf)|null|
+|**2024-09-19**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/pdf/2409.11261.pdf)|**[link](https://github.com/ulrs0/The-Art-of-Story-Telling)**|
 |**2024-09-17**|**Score Forgetting Distillation: A Swift, Data-Free Method for Machine Unlearning in Diffusion Models**|Tianqi Chen et.al.|[2409.11219](http://arxiv.org/pdf/2409.11219.pdf)|null|
-|**2024-09-13**|**MAISI: Medical AI for Synthetic Imaging**|Pengfei Guo et.al.|[2409.11169](http://arxiv.org/pdf/2409.11169.pdf)|null|
+|**2024-09-13**|**MAISI: Medical AI for Synthetic Imaging**|Pengfei Guo et.al.|[2409.11169](http://arxiv.org/pdf/2409.11169.pdf)|**[link](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi)**|
 |**2024-09-17**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148](http://arxiv.org/pdf/2409.11148.pdf)|null|
 |**2024-09-17**|**High-Resolution Speech Restoration with Latent Diffusion Model**|Tushar Dhyani et.al.|[2409.11145](http://arxiv.org/pdf/2409.11145.pdf)|null|
 |**2024-09-17**|**In-situ measurements of light diffusion in an optically dense atomic ensemble**|Antoine Glicenstein et.al.|[2409.11117](http://arxiv.org/pdf/2409.11117.pdf)|null|
@@ -13727,7 +13800,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-09-12**|**LoRID: Low-Rank Iterative Diffusion for Adversarial Purification**|Geigh Zollicoffer et.al.|[2409.08255](http://arxiv.org/pdf/2409.08255.pdf)|null|
 |**2024-09-12**|**Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding**|Hongyu Li et.al.|[2409.08251](http://arxiv.org/pdf/2409.08251.pdf)|null|
 |**2024-09-12**|**TextBoost: Towards One-Shot Personalization of Text-to-Image Models via Fine-tuning Text Encoder**|NaHyeon Park et.al.|[2409.08248](http://arxiv.org/pdf/2409.08248.pdf)|**[link](https://github.com/nahyeonkaty/textboost)**|
-|**2024-09-12**|**IFAdapter: Instance Feature Control for Grounded Text-to-Image Generation**|Yinwei Wu et.al.|[2409.08240](http://arxiv.org/pdf/2409.08240.pdf)|null|
+|**2024-09-19**|**IFAdapter: Instance Feature Control for Grounded Text-to-Image Generation**|Yinwei Wu et.al.|[2409.08240](http://arxiv.org/pdf/2409.08240.pdf)|null|
 |**2024-09-12**|**LT3SD: Latent Trees for 3D Scene Diffusion**|Quan Meng et.al.|[2409.08215](http://arxiv.org/pdf/2409.08215.pdf)|null|
 |**2024-09-12**|**VI3DRM:Towards meticulous 3D Reconstruction from Sparse Views via Photo-Realistic Novel View Synthesis**|Hao Chen et.al.|[2409.08207](http://arxiv.org/pdf/2409.08207.pdf)|null|
 |**2024-09-12**|**High-Frequency Anti-DreamBooth: Robust Defense Against Image Synthesis**|Takuto Onikubo et.al.|[2409.08167](http://arxiv.org/pdf/2409.08167.pdf)|null|
