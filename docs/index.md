@@ -13767,7 +13767,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-09-14**|**Schrödinger Bridge Flow for Unpaired Data Translation**|Valentin De Bortoli et.al.|[2409.09347](http://arxiv.org/pdf/2409.09347.pdf)|null|
 |**2024-09-14**|**Improving Robustness of Diffusion-Based Zero-Shot Speech Synthesis via Stable Formant Generation**|Changjin Han et.al.|[2409.09311](http://arxiv.org/pdf/2409.09311.pdf)|null|
 |**2024-09-13**|**Adaptive Multi-Modal Control of Digital Human Hand Synthesis Using a Region-Aware Cycle Loss**|Qifan Fu et.al.|[2409.09149](http://arxiv.org/pdf/2409.09149.pdf)|**[link](https://github.com/fuqifan/region-aware-cycle-loss)**|
-|**2024-09-13**|**PrimeDepth: Efficient Monocular Depth Estimation with a Stable Diffusion Preimage**|Denis Zavadski et.al.|[2409.09144](http://arxiv.org/pdf/2409.09144.pdf)|null|
+|**2024-09-13**|**PrimeDepth: Efficient Monocular Depth Estimation with a Stable Diffusion Preimage**|Denis Zavadski et.al.|[2409.09144](http://arxiv.org/pdf/2409.09144.pdf)|**[link](https://github.com/vislearn/PrimeDepth)**|
 |**2024-09-13**|**Neural Message Passing Induced by Energy-Constrained Diffusion**|Qitian Wu et.al.|[2409.09111](http://arxiv.org/pdf/2409.09111.pdf)|null|
 |**2024-09-13**|**Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation**|Qingwen Bu et.al.|[2409.09016](http://arxiv.org/pdf/2409.09016.pdf)|**[link](https://github.com/OpenDriveLab/CLOVER)**|
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/pdf/2409.08947.pdf)|null|
