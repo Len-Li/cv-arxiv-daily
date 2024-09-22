@@ -9168,7 +9168,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-09-04**|**Volumetric Surfaces: Representing Fuzzy Geometries with Multiple Meshes**|Stefano Esposito et.al.|[2409.02482](http://arxiv.org/pdf/2409.02482.pdf)|null|
 |**2024-09-04**|**Local map Construction Methods with SD map: A Novel Survey**|Jiaqi Li et.al.|[2409.02415](http://arxiv.org/pdf/2409.02415.pdf)|null|
 |**2024-09-04**|**GGS: Generalizable Gaussian Splatting for Lane Switching in Autonomous Driving**|Huasong Han et.al.|[2409.02382](http://arxiv.org/pdf/2409.02382.pdf)|null|
-|**2024-09-03**|**AllWeatherNet:Unified Image enhancement for autonomous driving under adverse weather and lowlight-conditions**|Chenghao Qian et.al.|[2409.02045](http://arxiv.org/pdf/2409.02045.pdf)|null|
+|**2024-09-03**|**AllWeatherNet:Unified Image enhancement for autonomous driving under adverse weather and lowlight-conditions**|Chenghao Qian et.al.|[2409.02045](http://arxiv.org/pdf/2409.02045.pdf)|**[link](https://github.com/jumponthemoon/allweathernet)**|
 |**2024-09-03**|**Snapshot: Towards Application-centered Models for Pedestrian Trajectory Prediction in Urban Traffic Environments**|Nico Uhlemann et.al.|[2409.01971](http://arxiv.org/pdf/2409.01971.pdf)|null|
 |**2024-09-03**|**DiVE: DiT-based Video Generation with Enhanced Control**|Junpeng Jiang et.al.|[2409.01595](http://arxiv.org/pdf/2409.01595.pdf)|null|
 |**2024-09-03**|**Situation-aware Autonomous Driving Decision Making with Cooperative Perception on Demand**|Wei Liu et.al.|[2409.01504](http://arxiv.org/pdf/2409.01504.pdf)|null|
@@ -10793,7 +10793,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-09-04**|**TASAR: Transferable Attack on Skeletal Action Recognition**|Yunfeng Diao et.al.|[2409.02483](http://arxiv.org/pdf/2409.02483.pdf)|null|
 |**2024-09-04**|**Local map Construction Methods with SD map: A Novel Survey**|Jiaqi Li et.al.|[2409.02415](http://arxiv.org/pdf/2409.02415.pdf)|null|
 |**2024-09-04**|**GGS: Generalizable Gaussian Splatting for Lane Switching in Autonomous Driving**|Huasong Han et.al.|[2409.02382](http://arxiv.org/pdf/2409.02382.pdf)|null|
-|**2024-09-03**|**AllWeatherNet:Unified Image enhancement for autonomous driving under adverse weather and lowlight-conditions**|Chenghao Qian et.al.|[2409.02045](http://arxiv.org/pdf/2409.02045.pdf)|null|
+|**2024-09-03**|**AllWeatherNet:Unified Image enhancement for autonomous driving under adverse weather and lowlight-conditions**|Chenghao Qian et.al.|[2409.02045](http://arxiv.org/pdf/2409.02045.pdf)|**[link](https://github.com/jumponthemoon/allweathernet)**|
 |**2024-09-03**|**Snapshot: Towards Application-centered Models for Pedestrian Trajectory Prediction in Urban Traffic Environments**|Nico Uhlemann et.al.|[2409.01971](http://arxiv.org/pdf/2409.01971.pdf)|null|
 |**2024-09-03**|**$S^2$ NeRF: Privacy-preserving Training Framework for NeRF**|Bokang Zhang et.al.|[2409.01661](http://arxiv.org/pdf/2409.01661.pdf)|**[link](https://github.com/lucky9-cyou/S2-NeRF)**|
 |**2024-09-03**|**DiVE: DiT-based Video Generation with Enhanced Control**|Junpeng Jiang et.al.|[2409.01595](http://arxiv.org/pdf/2409.01595.pdf)|null|
