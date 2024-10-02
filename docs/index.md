@@ -54,7 +54,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-09-29**|**Learning Wheelchair Tennis Navigation from Broadcast Videos with Domain Knowledge Transfer and Diffusion Motion Planning**|Zixuan Wu et.al.|[2409.19771](http://arxiv.org/pdf/2409.19771.pdf)|null|
 |**2024-10-01**|**RNG: Relightable Neural Gaussians**|Jiahui Fan et.al.|[2409.19702](http://arxiv.org/pdf/2409.19702.pdf)|null|
 |**2024-09-29**|**Development of a 3D-printed canine head phantom for veterinary radiotherapy**|Sandhya Rottoo et.al.|[2409.19694](http://arxiv.org/pdf/2409.19694.pdf)|null|
-|**2024-10-01**|**See Detail Say Clear: Towards Brain CT Report Generation via Pathological Clue-driven Representation Learning**|Chengxin Zheng et.al.|[2409.19676](http://arxiv.org/pdf/2409.19676.pdf)|null|
+|**2024-10-01**|**See Detail Say Clear: Towards Brain CT Report Generation via Pathological Clue-driven Representation Learning**|Chengxin Zheng et.al.|[2409.19676](http://arxiv.org/pdf/2409.19676.pdf)|**[link](https://github.com/chauncey-jheng/pcrl-mrg)**|
 |**2024-09-29**|**Dual-Attention Frequency Fusion at Multi-Scale for Joint Segmentation and Deformable Medical Image Registration**|Hongchao Zhou et.al.|[2409.19658](http://arxiv.org/pdf/2409.19658.pdf)|null|
 |**2024-09-29**|**Grounding 3D Scene Affordance From Egocentric Interactions**|Cuiyu Liu et.al.|[2409.19650](http://arxiv.org/pdf/2409.19650.pdf)|null|
 |**2024-09-29**|**FlexSBDD: Structure-Based Drug Design with Flexible Protein Modeling**|Zaixi Zhang et.al.|[2409.19645](http://arxiv.org/pdf/2409.19645.pdf)|null|
@@ -97,7 +97,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-09-27**|**Multi-hypotheses Conditioned Point Cloud Diffusion for 3D Human Reconstruction from Occluded Images**|Donghwan Kim et.al.|[2409.18364](http://arxiv.org/pdf/2409.18364.pdf)|null|
 |**2024-09-27**|**Energy Efficient Beamforming Training in Terahertz Communication Systems**|Li-Hsiang Shen et.al.|[2409.18353](http://arxiv.org/pdf/2409.18353.pdf)|null|
 |**2024-09-26**|**DeBaRA: Denoising-Based 3D Room Arrangement Generation**|Léopold Maillard et.al.|[2409.18336](http://arxiv.org/pdf/2409.18336.pdf)|null|
-|**2024-09-26**|**Synthesizing beta-amyloid PET images from T1-weighted Structural MRI: A Preliminary Study**|Qing Lyu et.al.|[2409.18282](http://arxiv.org/pdf/2409.18282.pdf)|null|
+|**2024-10-01**|**Synthesizing beta-amyloid PET images from T1-weighted Structural MRI: A Preliminary Study**|Qing Lyu et.al.|[2409.18282](http://arxiv.org/pdf/2409.18282.pdf)|null|
 |**2024-09-26**|**Galerkin Method of Regularized Stokeslets for Procedural Fluid Flow with Control Curves**|Ryusuke Sugimoto et.al.|[2409.18276](http://arxiv.org/pdf/2409.18276.pdf)|null|
 |**2024-09-26**|**Spin-lattice couplings in $3d$ ferromagnets: analysis from first-principles**|I. P. Miranda et.al.|[2409.18274](http://arxiv.org/pdf/2409.18274.pdf)|null|
 |**2024-09-30**|**Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation**|Mengchen Zhang et.al.|[2409.18261](http://arxiv.org/pdf/2409.18261.pdf)|**[link](https://github.com/3dtopia/omni6d)**|
@@ -163,7 +163,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-09-25**|**PokeFlex: Towards a Real-World Dataset of Deformable Objects for Robotic Manipulation**|Jan Obrist et.al.|[2409.17124](http://arxiv.org/pdf/2409.17124.pdf)|null|
 |**2024-09-25**|**An Active Electromagnetic 3D Surface Cloak**|Paris Ang et.al.|[2409.17007](http://arxiv.org/pdf/2409.17007.pdf)|null|
 |**2024-09-25**|**Single Image, Any Face: Generalisable 3D Face Generation**|Wenqing Wang et.al.|[2409.16990](http://arxiv.org/pdf/2409.16990.pdf)|null|
-|**2024-09-25**|**Multi-Robot Informative Path Planning for Efficient Target Mapping using Deep Reinforcement Learning**|Apoorva Vashisth et.al.|[2409.16967](http://arxiv.org/pdf/2409.16967.pdf)|**[link](https://github.com/accgen99/marl_ipp)**|
+|**2024-10-01**|**Multi-Robot Informative Path Planning for Efficient Target Mapping using Deep Reinforcement Learning**|Apoorva Vashisth et.al.|[2409.16967](http://arxiv.org/pdf/2409.16967.pdf)|**[link](https://github.com/accgen99/marl_ipp)**|
 |**2024-09-25**|**Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM**|Phu Pham et.al.|[2409.16944](http://arxiv.org/pdf/2409.16944.pdf)|null|
 |**2024-09-25**|**Generative Object Insertion in Gaussian Splatting with a Multi-View Diffusion Model**|Hongliang Zhong et.al.|[2409.16938](http://arxiv.org/pdf/2409.16938.pdf)|**[link](https://github.com/jiutongbro/multiview_inpaint)**|
 |**2024-09-25**|**The diverse star formation histories of early massive, quenched galaxies in modern galaxy formation simulations**|Claudia del P. Lagos et.al.|[2409.16916](http://arxiv.org/pdf/2409.16916.pdf)|null|
@@ -13489,7 +13489,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-07-01**|**Locomotion as Manipulation with ReachBot**|Tony G. Chen et.al.|[2407.00973](http://arxiv.org/pdf/2407.00973.pdf)|null|
 |**2024-06-30**|**Engineering an Efficient Object Tracker for Non-Linear Motion**|Momir Adžemović et.al.|[2407.00738](http://arxiv.org/pdf/2407.00738.pdf)|null|
 |**2024-06-30**|**OfCaM: Global Human Mesh Recovery via Optimization-free Camera Motion Scale Calibration**|Fengyuan Yang et.al.|[2407.00574](http://arxiv.org/pdf/2407.00574.pdf)|null|
-|**2024-09-11**|**Divide And Conquer: Learning Chaotic Dynamical Systems With Multistep Penalty Neural Ordinary Differential Equations**|Dibyajyoti Chakraborty et.al.|[2407.00568](http://arxiv.org/pdf/2407.00568.pdf)|null|
+|**2024-10-01**|**Divide And Conquer: Learning Chaotic Dynamical Systems With Multistep Penalty Neural Ordinary Differential Equations**|Dibyajyoti Chakraborty et.al.|[2407.00568](http://arxiv.org/pdf/2407.00568.pdf)|null|
 |**2024-06-28**|**SPITE: Simple Polyhedral Intersection Techniques for modified Environments**|Stav Ashur et.al.|[2407.00259](http://arxiv.org/pdf/2407.00259.pdf)|null|
 |**2024-06-28**|**Koopman based trajectory model and computation offloading for high mobility paradigm in ISAC enabled IoT system**|Minh-Tuan Tran et.al.|[2406.19871](http://arxiv.org/pdf/2406.19871.pdf)|null|
 |**2024-06-28**|**FootBots: A Transformer-based Architecture for Motion Prediction in Soccer**|Guillem Capellera et.al.|[2406.19852](http://arxiv.org/pdf/2406.19852.pdf)|null|
@@ -14303,7 +14303,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-09-27**|**Generative AI for fast and accurate Statistical Computation of Fluids**|Roberto Molinaro et.al.|[2409.18359](http://arxiv.org/pdf/2409.18359.pdf)|null|
 |**2024-09-26**|**Realistic Evaluation of Model Merging for Compositional Generalization**|Derek Tam et.al.|[2409.18314](http://arxiv.org/pdf/2409.18314.pdf)|null|
 |**2024-09-26**|**Harnessing Wavelet Transformations for Generalizable Deepfake Forgery Detection**|Lalith Bharadwaj Baru et.al.|[2409.18301](http://arxiv.org/pdf/2409.18301.pdf)|**[link](https://github.com/lalithbharadwajbaru/wavelet-clip)**|
-|**2024-09-26**|**Synthesizing beta-amyloid PET images from T1-weighted Structural MRI: A Preliminary Study**|Qing Lyu et.al.|[2409.18282](http://arxiv.org/pdf/2409.18282.pdf)|null|
+|**2024-10-01**|**Synthesizing beta-amyloid PET images from T1-weighted Structural MRI: A Preliminary Study**|Qing Lyu et.al.|[2409.18282](http://arxiv.org/pdf/2409.18282.pdf)|null|
 |**2024-09-26**|**Amodal Instance Segmentation with Diffusion Shape Prior Estimation**|Minh Tran et.al.|[2409.18256](http://arxiv.org/pdf/2409.18256.pdf)|null|
 |**2024-09-26**|**PDFed: Privacy-Preserving and Decentralized Asynchronous Federated Learning for Diffusion Models**|Kar Balan et.al.|[2409.18245](http://arxiv.org/pdf/2409.18245.pdf)|null|
 |**2024-09-26**|**Trustworthy Text-to-Image Diffusion Models: A Timely and Focused Survey**|Yi Zhang et.al.|[2409.18214](http://arxiv.org/pdf/2409.18214.pdf)|**[link](https://github.com/wellzline/trustworthy_t2i_dms)**|
@@ -14432,7 +14432,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-09-20**|**Efficient Domain Augmentation for Autonomous Driving Testing Using Diffusion Models**|Luciano Baresi et.al.|[2409.13661](http://arxiv.org/pdf/2409.13661.pdf)|null|
 |**2024-09-20**|**Human-Robot Cooperative Distribution Coupling for Hamiltonian-Constrained Social Navigation**|Weizheng Wang et.al.|[2409.13573](http://arxiv.org/pdf/2409.13573.pdf)|null|
 |**2024-09-20**|**Efficient Visualization of Neural Networks with Generative Models and Adversarial Perturbations**|Athanasios Karagounis et.al.|[2409.13559](http://arxiv.org/pdf/2409.13559.pdf)|null|
-|**2024-09-20**|**Physics-Informed Latent Diffusion for Multimodal Brain MRI Synthesis**|Sven Lüpke et.al.|[2409.13532](http://arxiv.org/pdf/2409.13532.pdf)|null|
+|**2024-10-01**|**Physics-Informed Latent Diffusion for Multimodal Brain MRI Synthesis**|Sven Lüpke et.al.|[2409.13532](http://arxiv.org/pdf/2409.13532.pdf)|null|
 |**2024-09-20**|**Towards the Discovery of Down Syndrome Brain Biomarkers Using Generative Models**|Jordi Malé et.al.|[2409.13437](http://arxiv.org/pdf/2409.13437.pdf)|null|
 |**2024-09-20**|**HMD $^2$ : Environment-aware Motion Generation from Single Egocentric Head-Mounted Device**|Vladimir Guzov et.al.|[2409.13426](http://arxiv.org/pdf/2409.13426.pdf)|null|
 |**2024-09-20**|**Imagine yourself: Tuning-Free Personalized Image Generation**|Zecheng He et.al.|[2409.13346](http://arxiv.org/pdf/2409.13346.pdf)|null|
