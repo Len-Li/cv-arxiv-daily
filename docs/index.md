@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.10.04
+Updated on 2024.10.05
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -9595,7 +9595,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-09-25**|**Skyeyes: Ground Roaming using Aerial View Images**|Zhiyuan Gao et.al.|[2409.16685](http://arxiv.org/pdf/2409.16685.pdf)|null|
 |**2024-09-26**|**Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models**|Alexander Popov et.al.|[2409.16663](http://arxiv.org/pdf/2409.16663.pdf)|null|
 |**2024-09-25**|**Efficient Motion Prediction: A Lightweight & Accurate Trajectory Prediction Model With Fast Training and Inference Speed**|Alexander Prutsch et.al.|[2409.16154](http://arxiv.org/pdf/2409.16154.pdf)|null|
-|**2024-09-23**|**MCTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving**|Xiyang Wang et.al.|[2409.16149](http://arxiv.org/pdf/2409.16149.pdf)|null|
+|**2024-09-23**|**MCTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving**|Xiyang Wang et.al.|[2409.16149](http://arxiv.org/pdf/2409.16149.pdf)|**[link](https://github.com/megvii-research/mctrack)**|
 |**2024-09-30**|**Unimotion: Unifying 3D Human Motion Synthesis and Understanding**|Chuqiao Li et.al.|[2409.15904](http://arxiv.org/pdf/2409.15904.pdf)|null|
 |**2024-09-24**|**FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving**|Erxin Guo et.al.|[2409.15841](http://arxiv.org/pdf/2409.15841.pdf)|null|
 |**2024-09-24**|**Intention-based and Risk-Aware Trajectory Prediction for Autonomous Driving in Complex Traffic Scenarios**|Wen Wei et.al.|[2409.15821](http://arxiv.org/pdf/2409.15821.pdf)|null|
@@ -11302,7 +11302,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-09-25**|**TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans**|Aggelina Chatziagapi et.al.|[2409.16666](http://arxiv.org/pdf/2409.16666.pdf)|null|
 |**2024-09-26**|**Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models**|Alexander Popov et.al.|[2409.16663](http://arxiv.org/pdf/2409.16663.pdf)|null|
 |**2024-09-25**|**Efficient Motion Prediction: A Lightweight & Accurate Trajectory Prediction Model With Fast Training and Inference Speed**|Alexander Prutsch et.al.|[2409.16154](http://arxiv.org/pdf/2409.16154.pdf)|null|
-|**2024-09-23**|**MCTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving**|Xiyang Wang et.al.|[2409.16149](http://arxiv.org/pdf/2409.16149.pdf)|null|
+|**2024-09-23**|**MCTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving**|Xiyang Wang et.al.|[2409.16149](http://arxiv.org/pdf/2409.16149.pdf)|**[link](https://github.com/megvii-research/mctrack)**|
 |**2024-09-24**|**FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving**|Erxin Guo et.al.|[2409.15841](http://arxiv.org/pdf/2409.15841.pdf)|null|
 |**2024-09-24**|**Intention-based and Risk-Aware Trajectory Prediction for Autonomous Driving in Complex Traffic Scenarios**|Wen Wei et.al.|[2409.15821](http://arxiv.org/pdf/2409.15821.pdf)|null|
 |**2024-09-27**|**Diffusion Models for Intelligent Transportation Systems: A Survey**|Mingxing Peng et.al.|[2409.15816](http://arxiv.org/pdf/2409.15816.pdf)|null|
