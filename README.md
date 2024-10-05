@@ -14443,7 +14443,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-10-02**|**Stochastic Deep Restoration Priors for Imaging Inverse Problems**|Yuyang Hu et.al.|[2410.02057](http://arxiv.org/pdf/2410.02057.pdf)|null|
 |**2024-10-02**|**Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data**|Sreyan Ghosh et.al.|[2410.02056](http://arxiv.org/pdf/2410.02056.pdf)|null|
 |**2024-10-02**|**Using Style Ambiguity Loss to Improve Aesthetics of Diffusion Models**|James Baker et.al.|[2410.02055](http://arxiv.org/pdf/2410.02055.pdf)|**[link](https://github.com/jamesbaker361/clipcreate)**|
-|**2024-10-02**|**Normalizing Flow Based Metric for Image Generation**|Pranav Jeevan et.al.|[2410.02004](http://arxiv.org/pdf/2410.02004.pdf)|null|
+|**2024-10-02**|**Normalizing Flow Based Metric for Image Generation**|Pranav Jeevan et.al.|[2410.02004](http://arxiv.org/pdf/2410.02004.pdf)|**[link](https://github.com/pranavphoenix/FLD)**|
 |**2024-10-02**|**Discrete Copula Diffusion**|Anji Liu et.al.|[2410.01949](http://arxiv.org/pdf/2410.01949.pdf)|null|
 |**2024-10-02**|**A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Finegrained Image Generation**|Liang Chen et.al.|[2410.01912](http://arxiv.org/pdf/2410.01912.pdf)|**[link](https://github.com/chenllliang/dnd-transformer)**|
 |**2024-10-02**|**FabricDiffusion: High-Fidelity Texture Transfer for 3D Garments Generation from In-The-Wild Clothing Images**|Cheng Zhang et.al.|[2410.01801](http://arxiv.org/pdf/2410.01801.pdf)|null|
