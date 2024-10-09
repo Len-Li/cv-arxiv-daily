@@ -1,4 +1,4 @@
-Updated on 2024.10.08
+Updated on 2024.10.09
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -8601,7 +8601,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20241008>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241009>back to top</a>)</p>
 
 ## NeRF
 
@@ -9324,7 +9324,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20241008>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241009>back to top</a>)</p>
 
 ## Industry
 
@@ -9634,7 +9634,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2012-04-06**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-09**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20241008>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241009>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -11347,7 +11347,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20241008>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241009>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -13542,7 +13542,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20241008>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241009>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -13553,7 +13553,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-10-07**|**Data-driven Diffusion Models for Enhancing Safety in Autonomous Vehicle Traffic Simulations**|Jinxiong Lu et.al.|[2410.04809](http://arxiv.org/pdf/2410.04809.pdf)|null|
 |**2024-10-05**|**Fast Object Detection with a Machine Learning Edge Device**|Richard C. Rodriguez et.al.|[2410.04173](http://arxiv.org/pdf/2410.04173.pdf)|null|
 |**2024-10-04**|**Improving Efficiency of Sampling-based Motion Planning via Message-Passing Monte Carlo**|Makram Chahine et.al.|[2410.03909](http://arxiv.org/pdf/2410.03909.pdf)|null|
-|**2024-10-04**|**MDMP: Multi-modal Diffusion for supervised Motion Predictions with uncertainty**|Leo Bringer et.al.|[2410.03860](http://arxiv.org/pdf/2410.03860.pdf)|null|
+|**2024-10-04**|**MDMP: Multi-modal Diffusion for supervised Motion Predictions with uncertainty**|Leo Bringer et.al.|[2410.03860](http://arxiv.org/pdf/2410.03860.pdf)|**[link](https://github.com/leob03/mdmp)**|
 |**2024-10-04**|**CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control**|Guy Tevet et.al.|[2410.03441](http://arxiv.org/pdf/2410.03441.pdf)|**[link](https://github.com/GuyTevet/CLoSD)**|
 |**2024-10-04**|**SPHINX: Structural Prediction using Hypergraph Inference Network**|Iulia Duta et.al.|[2410.03208](http://arxiv.org/pdf/2410.03208.pdf)|null|
 |**2024-10-04**|**Multi-Robot Motion Planning with Diffusion Models**|Yorai Shaoul et.al.|[2410.03072](http://arxiv.org/pdf/2410.03072.pdf)|**[link](https://github.com/yoraish/mmd)**|
@@ -14542,7 +14542,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20241008>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241009>back to top</a>)</p>
 
 ## Diffusion
 
@@ -14566,7 +14566,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-10-07**|**Patch is Enough: Naturalistic Adversarial Patch against Vision-Language Pre-training Models**|Dehong Kong et.al.|[2410.04884](http://arxiv.org/pdf/2410.04884.pdf)|null|
 |**2024-10-07**|**PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing**|Feng Tian et.al.|[2410.04844](http://arxiv.org/pdf/2410.04844.pdf)|null|
 |**2024-10-07**|**Real-time cardiac cine MRI -- A comparison of a diffusion probabilistic model with alternative state-of-the-art image reconstruction techniques for undersampled spiral acquisitions**|Oliver Schad et.al.|[2410.04843](http://arxiv.org/pdf/2410.04843.pdf)|null|
-|**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811](http://arxiv.org/pdf/2410.04811.pdf)|null|
+|**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811](http://arxiv.org/pdf/2410.04811.pdf)|**[link](https://github.com/ZHU-Zhiyu/FLUX-IR)**|
 |**2024-10-07**|**FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models**|Haokun Chen et.al.|[2410.04810](http://arxiv.org/pdf/2410.04810.pdf)|null|
 |**2024-10-07**|**Data-driven Diffusion Models for Enhancing Safety in Autonomous Vehicle Traffic Simulations**|Jinxiong Lu et.al.|[2410.04809](http://arxiv.org/pdf/2410.04809.pdf)|null|
 |**2024-10-07**|**Stochastic Runge-Kutta Methods: Provable Acceleration of Diffusion Models**|Yuchen Wu et.al.|[2410.04760](http://arxiv.org/pdf/2410.04760.pdf)|null|
@@ -14604,7 +14604,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-10-04**|**Online Posterior Sampling with a Diffusion Prior**|Branislav Kveton et.al.|[2410.03919](http://arxiv.org/pdf/2410.03919.pdf)|null|
 |**2024-10-04**|**SONIQUE: Video Background Music Generation Using Unpaired Audio-Visual Data**|Liqian Zhang et.al.|[2410.03879](http://arxiv.org/pdf/2410.03879.pdf)|null|
 |**2024-10-04**|**Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step**|Wenxuan Wang et.al.|[2410.03869](http://arxiv.org/pdf/2410.03869.pdf)|null|
-|**2024-10-04**|**MDMP: Multi-modal Diffusion for supervised Motion Predictions with uncertainty**|Leo Bringer et.al.|[2410.03860](http://arxiv.org/pdf/2410.03860.pdf)|null|
+|**2024-10-04**|**MDMP: Multi-modal Diffusion for supervised Motion Predictions with uncertainty**|Leo Bringer et.al.|[2410.03860](http://arxiv.org/pdf/2410.03860.pdf)|**[link](https://github.com/leob03/mdmp)**|
 |**2024-10-04**|**Text-guided Diffusion Model for 3D Molecule Generation**|Yanchen Luo et.al.|[2410.03803](http://arxiv.org/pdf/2410.03803.pdf)|null|
 |**2024-10-03**|**People are poorly equipped to detect AI-powered voice clones**|Sarah Barrington et.al.|[2410.03791](http://arxiv.org/pdf/2410.03791.pdf)|null|
 |**2024-10-02**|**Denoising with a Joint-Embedding Predictive Architecture**|Dengsheng Chen et.al.|[2410.03755](http://arxiv.org/pdf/2410.03755.pdf)|null|
@@ -16218,5 +16218,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-06-22**|**Video Diffusion Models**|Jonathan Ho et.al.|[2204.03458](http://arxiv.org/pdf/2204.03458.pdf)|null|
 |**2022-12-08**|**Diffusion Probabilistic Modeling for Video Generation**|Ruihan Yang et.al.|[2203.09481](http://arxiv.org/pdf/2203.09481.pdf)|**[link](https://github.com/buggyyang/rvd)**|
 
-<p align=right>(<a href=#Updated-on-20241008>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241009>back to top</a>)</p>
 
