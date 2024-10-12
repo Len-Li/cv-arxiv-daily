@@ -1,4 +1,4 @@
-Updated on 2024.10.11
+Updated on 2024.10.12
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -43,7 +43,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-10-10**|**HeightFormer: A Semantic Alignment Monocular 3D Object Detection Method from Roadside Perspective**|Pei Liu et.al.|[2410.07758](http://arxiv.org/pdf/2410.07758.pdf)|null|
 |**2024-10-10**|**MMHead: Towards Fine-grained Multi-modal 3D Facial Animation**|Sijing Wu et.al.|[2410.07757](http://arxiv.org/pdf/2410.07757.pdf)|null|
 |**2024-10-10**|**All-optical in vivo photoacoustic tomography by adaptive multilayer temporal backpropagation**|Taeil Yoon et.al.|[2410.07714](http://arxiv.org/pdf/2410.07714.pdf)|null|
-|**2024-10-10**|**MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting**|Ruijie Zhu et.al.|[2410.07707](http://arxiv.org/pdf/2410.07707.pdf)|null|
+|**2024-10-10**|**MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting**|Ruijie Zhu et.al.|[2410.07707](http://arxiv.org/pdf/2410.07707.pdf)|**[link](https://github.com/RuijieZhu94/MotionGS)**|
 |**2024-10-10**|**A Visual Cooperative Localization Method for Airborne Magnetic Surveying Based on a Manifold Sensor Fusion Algorithm Using Lie Groups**|Liang Liu et.al.|[2410.07700](http://arxiv.org/pdf/2410.07700.pdf)|null|
 |**2024-10-10**|**PokeFlex: A Real-World Dataset of Deformable Objects for Robotics**|Jan Obrist et.al.|[2410.07688](http://arxiv.org/pdf/2410.07688.pdf)|null|
 |**2024-10-10**|**Patterned Structure Muscle : Arbitrary Shaped Wire-driven Artificial Muscle Utilizing Anisotropic Flexible Structure for Musculoskeletal Robots**|Shunnosuke Yoshimura et.al.|[2410.07682](http://arxiv.org/pdf/2410.07682.pdf)|null|
@@ -294,7 +294,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-10-01**|**Data Augmentation for 3DMM-based Arousal-Valence Prediction for HRI**|Christian Arzate Cruz et.al.|[2410.00349](http://arxiv.org/pdf/2410.00349.pdf)|null|
 |**2024-10-01**|**Revisiting the Role of Texture in 3D Person Re-identification**|Huy Nguyen et.al.|[2410.00348](http://arxiv.org/pdf/2410.00348.pdf)|null|
 |**2024-10-01**|**SyntheOcc: Synthesize Geometric-Controlled Street View Images through 3D Semantic MPIs**|Leheng Li et.al.|[2410.00337](http://arxiv.org/pdf/2410.00337.pdf)|null|
-|**2024-10-01**|**PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al.|[2410.00320](http://arxiv.org/pdf/2410.00320.pdf)|null|
+|**2024-10-01**|**PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al.|[2410.00320](http://arxiv.org/pdf/2410.00320.pdf)|**[link](https://github.com/zqhang/pointad)**|
 |**2024-10-01**|**GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving**|Zhangshuo Qi et.al.|[2410.00299](http://arxiv.org/pdf/2410.00299.pdf)|**[link](https://github.com/qizs-bit/gspr)**|
 |**2024-09-30**|**Embodied Visuomotor Representation**|Levi Burner et.al.|[2410.00287](http://arxiv.org/pdf/2410.00287.pdf)|null|
 |**2024-10-02**|**Social Conjuring: Multi-User Runtime Collaboration with AI in Building Virtual 3D Worlds**|Amina Kobenova et.al.|[2410.00274](http://arxiv.org/pdf/2410.00274.pdf)|null|
@@ -8704,7 +8704,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20241011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241012>back to top</a>)</p>
 
 ## NeRF
 
@@ -9435,7 +9435,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20241011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241012>back to top</a>)</p>
 
 ## Industry
 
@@ -9745,7 +9745,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2012-04-06**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-09**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20241011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241012>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -11485,7 +11485,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20241011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241012>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -13712,7 +13712,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20241011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241012>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -14724,7 +14724,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20241011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241012>back to top</a>)</p>
 
 ## Diffusion
 
@@ -14798,7 +14798,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-10-08**|**AP-LDM: Attentive and Progressive Latent Diffusion Model for Training-Free High-Resolution Image Generation**|Boyuan Cao et.al.|[2410.06055](http://arxiv.org/pdf/2410.06055.pdf)|null|
 |**2024-10-08**|**HyperDet: Generalizable Detection of Synthesized Images by Generating and Merging A Mixture of Hyper LoRAs**|Huangsen Cao et.al.|[2410.06044](http://arxiv.org/pdf/2410.06044.pdf)|null|
 |**2024-10-10**|**Sparse Repellency for Shielded Generation in Text-to-image Diffusion Models**|Michael Kirchhof et.al.|[2410.06025](http://arxiv.org/pdf/2410.06025.pdf)|null|
-|**2024-10-08**|**Pyramidal Flow Matching for Efficient Video Generative Modeling**|Yang Jin et.al.|[2410.05954](http://arxiv.org/pdf/2410.05954.pdf)|null|
+|**2024-10-08**|**Pyramidal Flow Matching for Efficient Video Generative Modeling**|Yang Jin et.al.|[2410.05954](http://arxiv.org/pdf/2410.05954.pdf)|**[link](https://github.com/jy0205/Pyramid-Flow)**|
 |**2024-10-08**|**TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models**|Javier Solís-García et.al.|[2410.05916](http://arxiv.org/pdf/2410.05916.pdf)|null|
 |**2024-10-08**|**Manifolds, Random Matrices and Spectral Gaps: The geometric phases of generative diffusion**|Enrico Ventura et.al.|[2410.05898](http://arxiv.org/pdf/2410.05898.pdf)|null|
 |**2024-10-08**|**Unobserved Object Detection using Generative Models**|Subhransu S. Bhattacharjee et.al.|[2410.05869](http://arxiv.org/pdf/2410.05869.pdf)|null|
@@ -16495,5 +16495,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-06-22**|**Video Diffusion Models**|Jonathan Ho et.al.|[2204.03458](http://arxiv.org/pdf/2204.03458.pdf)|null|
 |**2022-12-08**|**Diffusion Probabilistic Modeling for Video Generation**|Ruihan Yang et.al.|[2203.09481](http://arxiv.org/pdf/2203.09481.pdf)|**[link](https://github.com/buggyyang/rvd)**|
 
-<p align=right>(<a href=#Updated-on-20241011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241012>back to top</a>)</p>
 
