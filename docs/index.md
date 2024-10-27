@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.10.26
+Updated on 2024.10.27
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -14333,7 +14333,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-10-03**|**Guiding Long-Horizon Task and Motion Planning with Vision Language Models**|Zhutian Yang et.al.|[2410.02193](http://arxiv.org/pdf/2410.02193.pdf)|null|
 |**2024-10-07**|**Entropy-Based Uncertainty Modeling for Trajectory Prediction in Autonomous Driving**|Aron Distelzweig et.al.|[2410.01628](http://arxiv.org/pdf/2410.01628.pdf)|null|
 |**2024-10-02**|**MARLens: Understanding Multi-agent Reinforcement Learning for Traffic Signal Control via Visual Analytics**|Yutian Zhang et.al.|[2410.01364](http://arxiv.org/pdf/2410.01364.pdf)|null|
-|**2024-10-02**|**Towards Generalizable Vision-Language Robotic Manipulation: A Benchmark and LLM-guided 3D Policy**|Ricardo Garcia et.al.|[2410.01345](http://arxiv.org/pdf/2410.01345.pdf)|null|
+|**2024-10-02**|**Towards Generalizable Vision-Language Robotic Manipulation: A Benchmark and LLM-guided 3D Policy**|Ricardo Garcia et.al.|[2410.01345](http://arxiv.org/pdf/2410.01345.pdf)|**[link](https://github.com/vlc-robot/robot-3dlotus)**|
 |**2024-10-02**|**Towards Efficient Moion Planning for UAVs: Lazy A* Search with Motion Primitives**|Wentao Wang et.al.|[2410.01230](http://arxiv.org/pdf/2410.01230.pdf)|null|
 |**2024-10-01**|**Collaborative motion planning for multi-manipulator systems through Reinforcement Learning and Dynamic Movement Primitives**|Siddharth Singh et.al.|[2410.00757](http://arxiv.org/pdf/2410.00757.pdf)|null|
 |**2024-10-01**|**LASMP: Language Aided Subset Sampling Based Motion Planner**|Saswati Bhattacharjee et.al.|[2410.00649](http://arxiv.org/pdf/2410.00649.pdf)|null|
