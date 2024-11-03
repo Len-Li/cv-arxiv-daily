@@ -1,4 +1,4 @@
-Updated on 2024.11.02
+Updated on 2024.11.03
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -16,7 +16,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-31**|**URAvatar: Universal Relightable Gaussian Codec Avatars**|Junxuan Li et.al.|[2410.24223](http://arxiv.org/pdf/2410.24223.pdf)|null|
-|**2024-10-31**|**EgoMimic: Scaling Imitation Learning via Egocentric Video**|Simar Kareer et.al.|[2410.24221](http://arxiv.org/pdf/2410.24221.pdf)|null|
+|**2024-10-31**|**EgoMimic: Scaling Imitation Learning via Egocentric Video**|Simar Kareer et.al.|[2410.24221](http://arxiv.org/pdf/2410.24221.pdf)|**[link](https://github.com/SimarKareer/EgoMimic)**|
 |**2024-10-31**|**DELTA: Dense Efficient Long-range 3D Tracking for any video**|Tuan Duc Ngo et.al.|[2410.24211](http://arxiv.org/pdf/2410.24211.pdf)|null|
 |**2024-10-31**|**No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**|Botao Ye et.al.|[2410.24207](http://arxiv.org/pdf/2410.24207.pdf)|**[link](https://github.com/cvg/NoPoSplat)**|
 |**2024-10-31**|**GeoSplatting: Towards Geometry Guided Gaussian Splatting for Physically-based Inverse Rendering**|Kai Ye et.al.|[2410.24204](http://arxiv.org/pdf/2410.24204.pdf)|null|
@@ -91,7 +91,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-10-29**|**Topological surface state dominated nonlinear transverse response and microwave rectification at room temperature**|Qia Shen et.al.|[2410.22156](http://arxiv.org/pdf/2410.22156.pdf)|null|
 |**2024-10-30**|**Learning Successor Features the Simple Way**|Raymond Chua et.al.|[2410.22133](http://arxiv.org/pdf/2410.22133.pdf)|null|
 |**2024-10-29**|**PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting**|Sunghwan Hong et.al.|[2410.22128](http://arxiv.org/pdf/2410.22128.pdf)|**[link](https://github.com/cvlab-kaist/PF3plat)**|
-|**2024-10-30**|**TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds**|Yui Lo et.al.|[2410.22099](http://arxiv.org/pdf/2410.22099.pdf)|null|
+|**2024-10-30**|**TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds**|Yui Lo et.al.|[2410.22099](http://arxiv.org/pdf/2410.22099.pdf)|**[link](https://github.com/slicerdmri/tractshapenet)**|
 |**2024-10-29**|**DINeuro: Distilling Knowledge from 2D Natural Images via Deformable Tubular Transferring Strategy for 3D Neuron Reconstruction**|Yik San Cheng et.al.|[2410.22078](http://arxiv.org/pdf/2410.22078.pdf)|null|
 |**2024-10-29**|**FreeGaussian: Guidance-free Controllable 3D Gaussian Splats with Flow Derivatives**|Qizhi Chen et.al.|[2410.22070](http://arxiv.org/pdf/2410.22070.pdf)|null|
 |**2024-10-29**|**Numerical Calculation of the Hopf Index for 3D Magnetic Textures**|Ross Knapman et.al.|[2410.22058](http://arxiv.org/pdf/2410.22058.pdf)|null|
@@ -9248,7 +9248,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20241102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241103>back to top</a>)</p>
 
 ## NeRF
 
@@ -9300,7 +9300,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-10-06**|**In-Place Panoptic Radiance Field Segmentation with Perceptual Prior for 3D Scene Understanding**|Shenghao Li et.al.|[2410.04529](http://arxiv.org/pdf/2410.04529.pdf)|null|
 |**2024-10-06**|**Deformable NeRF using Recursively Subdivided Tetrahedra**|Zherui Qiu et.al.|[2410.04402](http://arxiv.org/pdf/2410.04402.pdf)|null|
 |**2024-10-10**|**Hybrid NeRF-Stereo Vision: Pioneering Depth Estimation and 3D Reconstruction in Endoscopy**|Pengcheng Chen et.al.|[2410.04041](http://arxiv.org/pdf/2410.04041.pdf)|null|
-|**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103](http://arxiv.org/pdf/2410.02103.pdf)|null|
+|**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103](http://arxiv.org/pdf/2410.02103.pdf)|**[link](https://github.com/xiaobiaodu/MVGS)**|
 |**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647](http://arxiv.org/pdf/2410.01647.pdf)|**[link](https://github.com/yangcaoai/3dgs-det)**|
 |**2024-10-06**|**GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians**|Shuyi Jiang et.al.|[2410.01535](http://arxiv.org/pdf/2410.01535.pdf)|null|
 |**2024-10-02**|**AniSDF: Fused-Granularity Neural Surfaces with Anisotropic Encoding for High-Fidelity 3D Reconstruction**|Jingnan Gao et.al.|[2410.01202](http://arxiv.org/pdf/2410.01202.pdf)|null|
@@ -10011,7 +10011,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20241102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241103>back to top</a>)</p>
 
 ## Industry
 
@@ -10322,7 +10322,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2012-04-06**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-09**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20241102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241103>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -12164,7 +12164,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20241102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241103>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -12347,7 +12347,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-10-03**|**End-to-end Driving in High-Interaction Traffic Scenarios with Reinforcement Learning**|Yueyuan Li et.al.|[2410.02253](http://arxiv.org/pdf/2410.02253.pdf)|null|
 |**2024-10-03**|**Remember and Recall: Associative-Memory-based Trajectory Prediction**|Hang Guo et.al.|[2410.02201](http://arxiv.org/pdf/2410.02201.pdf)|null|
 |**2024-10-03**|**Abstract Reward Processes: Leveraging State Abstraction for Consistent Off-Policy Evaluation**|Shreyas Chaudhari et.al.|[2410.02172](http://arxiv.org/pdf/2410.02172.pdf)|**[link](https://github.com/shreyasc-13/star)**|
-|**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103](http://arxiv.org/pdf/2410.02103.pdf)|null|
+|**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103](http://arxiv.org/pdf/2410.02103.pdf)|**[link](https://github.com/xiaobiaodu/MVGS)**|
 |**2024-10-28**|**Neural Eulerian Scene Flow Fields**|Kyle Vedder et.al.|[2410.02031](http://arxiv.org/pdf/2410.02031.pdf)|null|
 |**2024-10-02**|**Open3DTrack: Towards Open-Vocabulary 3D Multi-Object Tracking**|Ayesha Ishaq et.al.|[2410.01678](http://arxiv.org/pdf/2410.01678.pdf)|**[link](https://github.com/ayesha-ishaq/open3dtrack)**|
 |**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647](http://arxiv.org/pdf/2410.01647.pdf)|**[link](https://github.com/yangcaoai/3dgs-det)**|
@@ -14513,7 +14513,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20241102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241103>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -15592,7 +15592,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20241102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241103>back to top</a>)</p>
 
 ## Diffusion
 
@@ -15604,7 +15604,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-10-31**|**Multi-Attribute Linguistic Tuning for Controlled Paraphrase Generation**|Mohamed Elgaar et.al.|[2410.24199](http://arxiv.org/pdf/2410.24199.pdf)|null|
 |**2024-10-31**|**Redefining <Creative> in Dictionary: Towards a Enhanced Semantic Understanding of Creative Generation**|Fu Feng et.al.|[2410.24160](http://arxiv.org/pdf/2410.24160.pdf)|null|
 |**2024-10-31**|**Scaling Concept With Text-Guided Diffusion Models**|Chao Huang et.al.|[2410.24151](http://arxiv.org/pdf/2410.24151.pdf)|null|
-|**2024-10-31**|**Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure**|Xiang Li et.al.|[2410.24060](http://arxiv.org/pdf/2410.24060.pdf)|null|
+|**2024-10-31**|**Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure**|Xiang Li et.al.|[2410.24060](http://arxiv.org/pdf/2410.24060.pdf)|**[link](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)**|
 |**2024-10-31**|**TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation**|Sunjae Yoon et.al.|[2410.24037](http://arxiv.org/pdf/2410.24037.pdf)|null|
 |**2024-10-31**|**DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination**|Jia Fu et.al.|[2410.24006](http://arxiv.org/pdf/2410.24006.pdf)|null|
 |**2024-10-31**|**Breaking Determinism: Fuzzy Modeling of Sequential Recommendation Using Discrete State Space Diffusion Model**|Wenjia Xie et.al.|[2410.23994](http://arxiv.org/pdf/2410.23994.pdf)|null|
@@ -15612,7 +15612,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-10-31**|**Image Synthesis with Class-Aware Semantic Diffusion Models for Surgical Scene Segmentation**|Yihang Zhou et.al.|[2410.23962](http://arxiv.org/pdf/2410.23962.pdf)|null|
 |**2024-10-31**|**Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model**|Hao Zhang et.al.|[2410.23905](http://arxiv.org/pdf/2410.23905.pdf)|**[link](https://github.com/leiii-cao/text-difuse)**|
 |**2024-10-29**|**Temporal and Spatial Super Resolution with Latent Diffusion Model in Medical MRI images**|Vishal Dubey et.al.|[2410.23898](http://arxiv.org/pdf/2410.23898.pdf)|null|
-|**2024-10-31**|**DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis**|Hamidreza Eivazi et.al.|[2410.23893](http://arxiv.org/pdf/2410.23893.pdf)|null|
+|**2024-10-31**|**DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis**|Hamidreza Eivazi et.al.|[2410.23893](http://arxiv.org/pdf/2410.23893.pdf)|**[link](https://github.com/HamidrezaEiv/DiffBatt)**|
 |**2024-10-31**|**Stereo-Talker: Audio-driven 3D Human Synthesis with Prior-Guided Mixture-of-Experts**|Xiang Deng et.al.|[2410.23836](http://arxiv.org/pdf/2410.23836.pdf)|null|
 |**2024-10-31**|**Denoising Diffusion Models for Anomaly Localization in Medical Images**|Cosmin I. Bercea et.al.|[2410.23834](http://arxiv.org/pdf/2410.23834.pdf)|null|
 |**2024-10-31**|**Disentangling Disentangled Representations: Towards Improved Latent Units via Diffusion Models**|Youngjun Jun et.al.|[2410.23820](http://arxiv.org/pdf/2410.23820.pdf)|null|
@@ -15636,14 +15636,14 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-10-30**|**Improving Musical Accompaniment Co-creation via Diffusion Transformers**|Javier Nistal et.al.|[2410.23005](http://arxiv.org/pdf/2410.23005.pdf)|null|
 |**2024-10-30**|**DexGraspNet 2.0: Learning Generative Dexterous Grasping in Large-scale Synthetic Cluttered Scenes**|Jialiang Zhang et.al.|[2410.23004](http://arxiv.org/pdf/2410.23004.pdf)|null|
 |**2024-10-30**|**LumiSculpt: A Consistency Lighting Control Network for Video Generation**|Yuxin Zhang et.al.|[2410.22979](http://arxiv.org/pdf/2410.22979.pdf)|null|
-|**2024-10-30**|**Private Synthetic Text Generation with Diffusion Models**|Sebastian Ochs et.al.|[2410.22971](http://arxiv.org/pdf/2410.22971.pdf)|null|
+|**2024-10-30**|**Private Synthetic Text Generation with Diffusion Models**|Sebastian Ochs et.al.|[2410.22971](http://arxiv.org/pdf/2410.22971.pdf)|**[link](https://github.com/trusthlt/private-synthetic-text-generation)**|
 |**2024-10-31**|**DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data**|Hanyang Chen et.al.|[2410.22938](http://arxiv.org/pdf/2410.22938.pdf)|**[link](https://github.com/lokol5579/DiffLight-release)**|
 |**2024-10-30**|**An Individual Identity-Driven Framework for Animal Re-Identification**|Yihao Wu et.al.|[2410.22927](http://arxiv.org/pdf/2410.22927.pdf)|**[link](https://github.com/ywu840/indivaid)**|
 |**2024-10-30**|**HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level and Fidelity-Rich Conditions in Diffusion Models**|Shengkai Zhang et.al.|[2410.22901](http://arxiv.org/pdf/2410.22901.pdf)|**[link](https://github.com/HelloVision/HelloMeme)**|
 |**2024-10-30**|**Latent Diffusion, Implicit Amplification: Efficient Continuous-Scale Super-Resolution for Remote Sensing Images**|Hanlin Wu et.al.|[2410.22830](http://arxiv.org/pdf/2410.22830.pdf)|null|
 |**2024-10-30**|**Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models**|Arash Marioriyad et.al.|[2410.22775](http://arxiv.org/pdf/2410.22775.pdf)|null|
 |**2024-10-30**|**FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images**|Zheng Yu et.al.|[2410.22771](http://arxiv.org/pdf/2410.22771.pdf)|**[link](https://github.com/thomas-wyh/fuseanypart)**|
-|**2024-10-30**|**Identifying Drift, Diffusion, and Causal Structure from Temporal Snapshots**|Vincent Guan et.al.|[2410.22729](http://arxiv.org/pdf/2410.22729.pdf)|null|
+|**2024-10-30**|**Identifying Drift, Diffusion, and Causal Structure from Temporal Snapshots**|Vincent Guan et.al.|[2410.22729](http://arxiv.org/pdf/2410.22729.pdf)|**[link](https://github.com/HydroML/X0isAllYouNeed)**|
 |**2024-10-31**|**One Prompt to Verify Your Models: Black-Box Text-to-Image Models Verification via Non-Transferable Adversarial Attacks**|Ji Guo et.al.|[2410.22725](http://arxiv.org/pdf/2410.22725.pdf)|null|
 |**2024-10-30**|**FlowDCN: Exploring DCN-like Architectures for Fast Image Generation with Arbitrary Resolution**|Shuai Wang et.al.|[2410.22655](http://arxiv.org/pdf/2410.22655.pdf)|null|
 |**2024-10-31**|**Consistency Diffusion Bridge Models**|Guande He et.al.|[2410.22637](http://arxiv.org/pdf/2410.22637.pdf)|null|
@@ -15805,7 +15805,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-10-23**|**Strategic Irreversible Investment**|Jan-Henrik Steg et.al.|[2410.17673](http://arxiv.org/pdf/2410.17673.pdf)|null|
 |**2024-10-23**|**Deep Generative Models for 3D Medical Image Synthesis**|Paul Friedrich et.al.|[2410.17664](http://arxiv.org/pdf/2410.17664.pdf)|null|
 |**2024-10-23**|**Towards Effective Data-Free Knowledge Distillation via Diverse Diffusion Augmentation**|Muquan Li et.al.|[2410.17606](http://arxiv.org/pdf/2410.17606.pdf)|**[link](https://github.com/slgsp/dda)**|
-|**2024-10-23**|**How to Continually Adapt Text-to-Image Diffusion Models for Flexible Customization?**|Jiahua Dong et.al.|[2410.17594](http://arxiv.org/pdf/2410.17594.pdf)|null|
+|**2024-10-23**|**How to Continually Adapt Text-to-Image Diffusion Models for Flexible Customization?**|Jiahua Dong et.al.|[2410.17594](http://arxiv.org/pdf/2410.17594.pdf)|**[link](https://github.com/jiahuadong/cifc)**|
 |**2024-10-23**|**GDDA: Semantic OOD Detection on Graphs under Covariate Shift via Score-Based Diffusion Models**|Zhixia He et.al.|[2410.17526](http://arxiv.org/pdf/2410.17526.pdf)|null|
 |**2024-10-23**|**Physics-driven AI for Channel Estimation in Cellular Network**|Xiaoqian Qi et.al.|[2410.17525](http://arxiv.org/pdf/2410.17525.pdf)|null|
 |**2024-10-23**|**Diffusion Priors for Variational Likelihood Estimation and Image Denoising**|Jun Cheng et.al.|[2410.17521](http://arxiv.org/pdf/2410.17521.pdf)|**[link](https://github.com/hust-tan/diffusionvi)**|
@@ -15823,7 +15823,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-10-22**|**MPDS: A Movie Posters Dataset for Image Generation with Diffusion Model**|Meng Xu et.al.|[2410.16840](http://arxiv.org/pdf/2410.16840.pdf)|null|
 |**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/pdf/2410.16820.pdf)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
 |**2024-10-22**|**Evaluating the Effectiveness of Attack-Agnostic Features for Morphing Attack Detection**|Laurent Colbois et.al.|[2410.16802](http://arxiv.org/pdf/2410.16802.pdf)|**[link](https://gitlab.idiap.ch/bob/bob.paper.ijcb2024_agnostic_features_mad)**|
-|**2024-10-22**|**One-Step Diffusion Distillation through Score Implicit Matching**|Weijian Luo et.al.|[2410.16794](http://arxiv.org/pdf/2410.16794.pdf)|null|
+|**2024-10-22**|**One-Step Diffusion Distillation through Score Implicit Matching**|Weijian Luo et.al.|[2410.16794](http://arxiv.org/pdf/2410.16794.pdf)|**[link](https://github.com/maple-research-lab/sim)**|
 |**2024-10-22**|**LLM-Assisted Red Teaming of Diffusion Models through "Failures Are Fated, But Can Be Faded"**|Som Sagar et.al.|[2410.16738](http://arxiv.org/pdf/2410.16738.pdf)|null|
 |**2024-10-22**|**Polyp-E: Benchmarking the Robustness of Deep Segmentation Models via Polyp Editing**|Runpu Wei et.al.|[2410.16732](http://arxiv.org/pdf/2410.16732.pdf)|null|
 |**2024-10-22**|**DiffusionSeeder: Seeding Motion Optimization with Diffusion for Rapid Motion Planning**|Huang Huang et.al.|[2410.16727](http://arxiv.org/pdf/2410.16727.pdf)|null|
@@ -17850,5 +17850,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-06-22**|**Video Diffusion Models**|Jonathan Ho et.al.|[2204.03458](http://arxiv.org/pdf/2204.03458.pdf)|null|
 |**2022-12-08**|**Diffusion Probabilistic Modeling for Video Generation**|Ruihan Yang et.al.|[2203.09481](http://arxiv.org/pdf/2203.09481.pdf)|**[link](https://github.com/buggyyang/rvd)**|
 
-<p align=right>(<a href=#Updated-on-20241102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241103>back to top</a>)</p>
 
