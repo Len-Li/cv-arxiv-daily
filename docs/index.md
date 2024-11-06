@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.11.05
+Updated on 2024.11.06
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -82,7 +82,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-11-01**|**ZIM: Zero-Shot Image Matting for Anything**|Beomyoung Kim et.al.|[2411.00626](http://arxiv.org/pdf/2411.00626.pdf)|**[link](https://github.com/naver-ai/zim)**|
 |**2024-11-01**|**A Graph Attention-Guided Diffusion Model for Liver Vessel Segmentation**|Xiaotong Zhang et.al.|[2411.00617](http://arxiv.org/pdf/2411.00617.pdf)|null|
 |**2024-11-01**|**Tumor Location-weighted MRI-Report Contrastive Learning: A Framework for Improving the Explainability of Pediatric Brain Tumor Diagnosis**|Sara Ketabi et.al.|[2411.00609](http://arxiv.org/pdf/2411.00609.pdf)|null|
-|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/pdf/2411.00600.pdf)|null|
+|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/pdf/2411.00600.pdf)|**[link](https://github.com/l1997i/lim3d)**|
 |**2024-11-01**|**A Semi-Discrete Optimal Transport Scheme for the 3D Incompressible Semi-Geostrophic Equations**|Théo Lavier et.al.|[2411.00575](http://arxiv.org/pdf/2411.00575.pdf)|null|
 |**2024-11-01**|**Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials**|Xintong Yang et.al.|[2411.00554](http://arxiv.org/pdf/2411.00554.pdf)|null|
 |**2024-11-01**|**Conditional Synthesis of 3D Molecules with Time Correction Sampler**|Hojung Jung et.al.|[2411.00551](http://arxiv.org/pdf/2411.00551.pdf)|null|
@@ -10424,7 +10424,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-11-03**|**Interaction-Aware Trajectory Prediction for Safe Motion Planning in Autonomous Driving: A Transformer-Transfer Learning Approach**|Jinhao Liang et.al.|[2411.01475](http://arxiv.org/pdf/2411.01475.pdf)|null|
 |**2024-10-28**|**On the Black-box Explainability of Object Detection Models for Safe and Trustworthy Industrial Applications**|Alain Andres et.al.|[2411.00818](http://arxiv.org/pdf/2411.00818.pdf)|null|
 |**2024-11-01**|**HopTrack: A Real-time Multi-Object Tracking System for Embedded Devices**|Xiang Li et.al.|[2411.00608](http://arxiv.org/pdf/2411.00608.pdf)|null|
-|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/pdf/2411.00600.pdf)|null|
+|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/pdf/2411.00600.pdf)|**[link](https://github.com/l1997i/DurLAR)**|
 |**2024-11-01**|**MAROON: A Framework for the Joint Characterization of Near-Field High-Resolution Radar and Optical Depth Imaging Techniques**|Vanessa Wirth et.al.|[2411.00527](http://arxiv.org/pdf/2411.00527.pdf)|null|
 |**2024-11-01**|**PlanScope: Learning to Plan Within Decision Scope Does Matter**|Ren Xin et.al.|[2411.00476](http://arxiv.org/pdf/2411.00476.pdf)|null|
 |**2024-11-01**|**PLATYPUS: Progressive Local Surface Estimator for Arbitrary-Scale Point Cloud Upsampling**|Donghyun Kim et.al.|[2411.00432](http://arxiv.org/pdf/2411.00432.pdf)|null|
@@ -12279,7 +12279,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-11-03**|**Interaction-Aware Trajectory Prediction for Safe Motion Planning in Autonomous Driving: A Transformer-Transfer Learning Approach**|Jinhao Liang et.al.|[2411.01475](http://arxiv.org/pdf/2411.01475.pdf)|null|
 |**2024-10-28**|**On the Black-box Explainability of Object Detection Models for Safe and Trustworthy Industrial Applications**|Alain Andres et.al.|[2411.00818](http://arxiv.org/pdf/2411.00818.pdf)|null|
 |**2024-11-01**|**HopTrack: A Real-time Multi-Object Tracking System for Embedded Devices**|Xiang Li et.al.|[2411.00608](http://arxiv.org/pdf/2411.00608.pdf)|null|
-|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/pdf/2411.00600.pdf)|null|
+|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/pdf/2411.00600.pdf)|**[link](https://github.com/l1997i/DurLAR)**|
 |**2024-11-01**|**MAROON: A Framework for the Joint Characterization of Near-Field High-Resolution Radar and Optical Depth Imaging Techniques**|Vanessa Wirth et.al.|[2411.00527](http://arxiv.org/pdf/2411.00527.pdf)|null|
 |**2024-11-01**|**PlanScope: Learning to Plan Within Decision Scope Does Matter**|Ren Xin et.al.|[2411.00476](http://arxiv.org/pdf/2411.00476.pdf)|null|
 |**2024-11-01**|**PLATYPUS: Progressive Local Surface Estimator for Arbitrary-Scale Point Cloud Upsampling**|Donghyun Kim et.al.|[2411.00432](http://arxiv.org/pdf/2411.00432.pdf)|null|
