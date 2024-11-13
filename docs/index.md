@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.11.12
+Updated on 2024.11.13
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -85,13 +85,13 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-11-08**|**Logarithmic corrections to entropy of 3D cosmological solutions from celestial dual**|Arindam Bhattacharjee et.al.|[2411.05605](http://arxiv.org/pdf/2411.05605.pdf)|null|
 |**2024-11-08**|**Towards Active Flow Control Strategies Through Deep Reinforcement Learning**|Ricard Montalà et.al.|[2411.05536](http://arxiv.org/pdf/2411.05536.pdf)|null|
 |**2024-11-08**|**Alignment of 3D woodblock geometrical models and 2D orthographic projection image**|Minh DUc Nguyen et.al.|[2411.05524](http://arxiv.org/pdf/2411.05524.pdf)|null|
-|**2024-11-08**|**EROAS: 3D Efficient Reactive Obstacle Avoidance System for Autonomous Underwater Vehicles using 2.5D Forward-Looking Sonar**|Pruthviraj Mane et.al.|[2411.05516](http://arxiv.org/pdf/2411.05516.pdf)|null|
+|**2024-11-08**|**EROAS: 3D Efficient Reactive Obstacle Avoidance System for Autonomous Underwater Vehicles using 2.5D Forward-Looking Sonar**|Pruthviraj Mane et.al.|[2411.05516](http://arxiv.org/pdf/2411.05516.pdf)|**[link](https://github.com/airlabiisc/eroas)**|
 |**2024-11-08**|**Fast Stochastic Subspace Identification of Densely Instrumented Bridges Using Randomized SVD**|Elisa Tomassini et.al.|[2411.05510](http://arxiv.org/pdf/2411.05510.pdf)|null|
 |**2024-11-08**|**3D-Printed Dual-Polarized Magneto-Electric Dipole Antenna with Wideband High Isolation for Full-Duplex Applications**|Mehmet Ahad Yurtoglu et.al.|[2411.05475](http://arxiv.org/pdf/2411.05475.pdf)|null|
 |**2024-11-08**|**Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation**|Peidong Liu et.al.|[2411.05472](http://arxiv.org/pdf/2411.05472.pdf)|**[link](https://github.com/hughnew/gapdiff)**|
 |**2024-11-08**|**2D versus 3D-like electrical behavior of MXene thin films: insights from weak localization in the role of thickness, interflake coupling and defects**|Sophia Tangui et.al.|[2411.05461](http://arxiv.org/pdf/2411.05461.pdf)|null|
 |**2024-11-08**|**Multidimensional quantum dynamics with explicitly correlated Gaussian wave packets using Rothe's method**|Simon Elias Schrader et.al.|[2411.05459](http://arxiv.org/pdf/2411.05459.pdf)|null|
-|**2024-11-08**|**Comparative Study of Probabilistic Atlas and Deep Learning Approaches for Automatic Brain Tissue Segmentation from MRI Using N4 Bias Field Correction and Anisotropic Diffusion Pre-processing Techniques**|Mohammad Imran Hossain et.al.|[2411.05456](http://arxiv.org/pdf/2411.05456.pdf)|null|
+|**2024-11-08**|**Comparative Study of Probabilistic Atlas and Deep Learning Approaches for Automatic Brain Tissue Segmentation from MRI Using N4 Bias Field Correction and Anisotropic Diffusion Pre-processing Techniques**|Mohammad Imran Hossain et.al.|[2411.05456](http://arxiv.org/pdf/2411.05456.pdf)|**[link](https://github.com/imran-maia/ibsr_18_bratseg_deep_learning)**|
 |**2024-11-08**|**Agile UAV landing control on moving ship in adverse conditions**|James Mordaunt et.al.|[2411.05445](http://arxiv.org/pdf/2411.05445.pdf)|null|
 |**2024-11-08**|**POC-SLT: Partial Object Completion with SDF Latent Transformers**|Faezeh Zakeri et.al.|[2411.05419](http://arxiv.org/pdf/2411.05419.pdf)|null|
 |**2024-11-08**|**Development of Underactuated Geometric Compliant (UGC) Module with Variable Radial for Robotic Applications**|Mark Krysov et.al.|[2411.05418](http://arxiv.org/pdf/2411.05418.pdf)|null|
@@ -16029,7 +16029,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-11-06**|**Multivariate Data Augmentation for Predictive Maintenance using Diffusion**|Andrew Thompson et.al.|[2411.05848](http://arxiv.org/pdf/2411.05848.pdf)|null|
 |**2024-11-05**|**From Pixels to Prose: Advancing Multi-Modal Language Models for Remote Sensing**|Xintian Sun et.al.|[2411.05826](http://arxiv.org/pdf/2411.05826.pdf)|null|
 |**2024-11-05**|**FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models**|Zhanwei Zhang et.al.|[2411.05823](http://arxiv.org/pdf/2411.05823.pdf)|null|
-|**2024-11-08**|**Quantitative Assessment of Intersectional Empathetic Bias and Understanding**|Vojtech Formanek et.al.|[2411.05777](http://arxiv.org/pdf/2411.05777.pdf)|null|
+|**2024-11-08**|**Quantitative Assessment of Intersectional Empathetic Bias and Understanding**|Vojtech Formanek et.al.|[2411.05777](http://arxiv.org/pdf/2411.05777.pdf)|**[link](https://github.com/xforman/jaem_st)**|
 |**2024-11-08**|**StdGEN: Semantic-Decomposed 3D Character Generation from Single Images**|Yuze He et.al.|[2411.05738](http://arxiv.org/pdf/2411.05738.pdf)|null|
 |**2024-11-08**|**Image2Text2Image: A Novel Framework for Label-Free Evaluation of Image-to-Text Generation with Text-to-Image Diffusion Models**|Jia-Hong Huang et.al.|[2411.05706](http://arxiv.org/pdf/2411.05706.pdf)|null|
 |**2024-11-08**|**Improving Molecular Graph Generation with Flow Matching and Optimal Transport**|Xiaoyang Hou et.al.|[2411.05676](http://arxiv.org/pdf/2411.05676.pdf)|null|
