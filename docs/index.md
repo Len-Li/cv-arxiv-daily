@@ -15305,7 +15305,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-21**|**Landing Trajectory Prediction for UAS Based on Generative Adversarial Network**|Jun Xiang et.al.|[2411.14403](http://arxiv.org/pdf/2411.14403.pdf)|null|
-|**2024-11-21**|**A Multi-Layer Blockchain Simulator and Performance Evaluation of Social Internet of Vehicles with Multi-Connectivity Management**|Yi-Ting Sun et.al.|[2411.14000](http://arxiv.org/pdf/2411.14000.pdf)|null|
+|**2024-11-21**|**A Multi-Layer Blockchain Simulator and Performance Evaluation of Social Internet of Vehicles with Multi-Connectivity Management**|Yi-Ting Sun et.al.|[2411.14000](http://arxiv.org/pdf/2411.14000.pdf)|**[link](https://github.com/IPCLab/V2XBlockchain)**|
 |**2024-11-21**|**Learning Two-agent Motion Planning Strategies from Generalized Nash Equilibrium for Model Predictive Control**|Hansung Kim et.al.|[2411.13983](http://arxiv.org/pdf/2411.13983.pdf)|null|
 |**2024-11-20**|**Bezier Reachable Polytopes: Efficient Certificates for Robust Motion Planning with Layered Architectures**|Noel Csomay-Shanklin et.al.|[2411.13506](http://arxiv.org/pdf/2411.13506.pdf)|null|
 |**2024-11-20**|**REVISE: Robust Probabilistic Motion Planning in a Gaussian Random Field**|Alex Rose et.al.|[2411.13369](http://arxiv.org/pdf/2411.13369.pdf)|null|
