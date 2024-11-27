@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.11.26
+Updated on 2024.11.27
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -16698,7 +16698,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-11-22**|**Material Anything: Generating Materials for Any 3D Object via Diffusion**|Xin Huang et.al.|[2411.15138](http://arxiv.org/pdf/2411.15138.pdf)|null|
 |**2024-11-22**|**VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement**|Daeun Lee et.al.|[2411.15115](http://arxiv.org/pdf/2411.15115.pdf)|null|
 |**2024-11-22**|**Efficient Pruning of Text-to-Image Models: Insights from Pruning Stable Diffusion**|Samarth N Ramesh et.al.|[2411.15113](http://arxiv.org/pdf/2411.15113.pdf)|null|
-|**2024-11-25**|**OminiControl: Minimal and Universal Control for Diffusion Transformer**|Zhenxiong Tan et.al.|[2411.15098](http://arxiv.org/pdf/2411.15098.pdf)|**[link](https://github.com/Yuanshi9815/Subjects200K)**|
+|**2024-11-25**|**OminiControl: Minimal and Universal Control for Diffusion Transformer**|Zhenxiong Tan et.al.|[2411.15098](http://arxiv.org/pdf/2411.15098.pdf)|**[link](https://github.com/Yuanshi9815/OminiControl)**|
 |**2024-11-22**|**Leapfrog Latent Consistency Model (LLCM) for Medical Images Generation**|Lakshmikar R. Polamreddy et.al.|[2411.15084](http://arxiv.org/pdf/2411.15084.pdf)|**[link](https://github.com/lskdsjy/leapfroglcm)**|
 |**2024-11-22**|**Empowering Clients: Transformation of Design Processes Due to Generative AI**|Johannes Schneider et.al.|[2411.15061](http://arxiv.org/pdf/2411.15061.pdf)|null|
 |**2024-11-22**|**The 1D nonlocal Fisher-KPP equation with a top hat kernel. Part 3. The effect of perturbations in the kernel**|David John Needham et.al.|[2411.15054](http://arxiv.org/pdf/2411.15054.pdf)|null|
@@ -16822,7 +16822,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-11-16**|**FlipSketch: Flipping Static Drawings to Text-Guided Sketch Animations**|Hmrishav Bandyopadhyay et.al.|[2411.10818](http://arxiv.org/pdf/2411.10818.pdf)|**[link](https://github.com/hmrishavbandy/flipsketch)**|
 |**2024-11-16**|**Stable Continual Reinforcement Learning via Diffusion-based Trajectory Replay**|Feng Chen et.al.|[2411.10809](http://arxiv.org/pdf/2411.10809.pdf)|null|
 |**2024-11-16**|**Test-time Conditional Text-to-Image Synthesis Using Diffusion Models**|Tripti Shukla et.al.|[2411.10800](http://arxiv.org/pdf/2411.10800.pdf)|null|
-|**2024-11-23**|**C-DiffSET: Leveraging Latent Diffusion for SAR-to-EO Image Translation with Confidence-Guided Reliable Object Generation**|Jeonghyeok Do et.al.|[2411.10788](http://arxiv.org/pdf/2411.10788.pdf)|null|
+|**2024-11-23**|**C-DiffSET: Leveraging Latent Diffusion for SAR-to-EO Image Translation with Confidence-Guided Reliable Object Generation**|Jeonghyeok Do et.al.|[2411.10788](http://arxiv.org/pdf/2411.10788.pdf)|**[link](https://github.com/KAIST-VICLab/C-DiffSET)**|
 |**2024-11-16**|**Bag of Design Choices for Inference of High-Resolution Masked Generative Transformer**|Shitong Shao et.al.|[2411.10781](http://arxiv.org/pdf/2411.10781.pdf)|**[link](https://github.com/xie-lab-ml/Meissonic-Inference)**|
 |**2024-11-19**|**Diffusion-Based Semantic Segmentation of Lumbar Spine MRI Scans of Lower Back Pain Patients**|Maria Monzon et.al.|[2411.10755](http://arxiv.org/pdf/2411.10755.pdf)|**[link](https://github.com/BMDS-ETH/SpineSegDiff)**|
 |**2024-11-22**|**TDSM: Triplet Diffusion for Skeleton-Text Matching in Zero-Shot Action Recognition**|Jeonghyeok Do et.al.|[2411.10745](http://arxiv.org/pdf/2411.10745.pdf)|**[link](https://github.com/KAIST-VICLab/TDSM)**|

@@ -1,4 +1,4 @@
-Updated on 2024.11.26
+Updated on 2024.11.27
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -9935,7 +9935,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Statistical Process Monitoring of Isolated and Persistent Defects in Complex Geometrical Shapes**|Sara Bonacina et.al.|[2310.12876](http://arxiv.org/abs/2310.12876)|null|
 
-<p align=right>(<a href=#Updated-on-20241126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241127>back to top</a>)</p>
 
 ## NeRF
 
@@ -10728,7 +10728,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-29**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 
-<p align=right>(<a href=#Updated-on-20241126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241127>back to top</a>)</p>
 
 ## Industry
 
@@ -11041,7 +11041,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2012-04-06**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-09**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20241126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241127>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -13000,7 +13000,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249](http://arxiv.org/abs/2310.00249)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 
-<p align=right>(<a href=#Updated-on-20241126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241127>back to top</a>)</p>
 
 ## NeRF + Autonomous Driving
 
@@ -15493,7 +15493,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-10-04**|**Adaptive Spatio-Temporal Voxels Based Trajectory Planning for Autonomous Driving in Highway Traffic Flow**|Zhiqiang Jian et.al.|[2310.02625](http://arxiv.org/abs/2310.02625)|**[link](https://github.com/flztiii/traffic_flow_trajectory_planning)**|
 
-<p align=right>(<a href=#Updated-on-20241126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241127>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -16628,7 +16628,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-08-11**|**TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models**|Liang Zhang et.al.|[2308.05985](http://arxiv.org/abs/2308.05985)|**[link](https://github.com/zl-helios/trajpac)**|
 |**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 
-<p align=right>(<a href=#Updated-on-20241126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241127>back to top</a>)</p>
 
 ## Diffusion
 
@@ -16707,7 +16707,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-11-22**|**Material Anything: Generating Materials for Any 3D Object via Diffusion**|Xin Huang et.al.|[2411.15138](http://arxiv.org/pdf/2411.15138.pdf)|null|
 |**2024-11-22**|**VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement**|Daeun Lee et.al.|[2411.15115](http://arxiv.org/pdf/2411.15115.pdf)|null|
 |**2024-11-22**|**Efficient Pruning of Text-to-Image Models: Insights from Pruning Stable Diffusion**|Samarth N Ramesh et.al.|[2411.15113](http://arxiv.org/pdf/2411.15113.pdf)|null|
-|**2024-11-25**|**OminiControl: Minimal and Universal Control for Diffusion Transformer**|Zhenxiong Tan et.al.|[2411.15098](http://arxiv.org/pdf/2411.15098.pdf)|**[link](https://github.com/Yuanshi9815/Subjects200K)**|
+|**2024-11-25**|**OminiControl: Minimal and Universal Control for Diffusion Transformer**|Zhenxiong Tan et.al.|[2411.15098](http://arxiv.org/pdf/2411.15098.pdf)|**[link](https://github.com/Yuanshi9815/OminiControl)**|
 |**2024-11-22**|**Leapfrog Latent Consistency Model (LLCM) for Medical Images Generation**|Lakshmikar R. Polamreddy et.al.|[2411.15084](http://arxiv.org/pdf/2411.15084.pdf)|**[link](https://github.com/lskdsjy/leapfroglcm)**|
 |**2024-11-22**|**Empowering Clients: Transformation of Design Processes Due to Generative AI**|Johannes Schneider et.al.|[2411.15061](http://arxiv.org/pdf/2411.15061.pdf)|null|
 |**2024-11-22**|**The 1D nonlocal Fisher-KPP equation with a top hat kernel. Part 3. The effect of perturbations in the kernel**|David John Needham et.al.|[2411.15054](http://arxiv.org/pdf/2411.15054.pdf)|null|
@@ -16831,7 +16831,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-11-16**|**FlipSketch: Flipping Static Drawings to Text-Guided Sketch Animations**|Hmrishav Bandyopadhyay et.al.|[2411.10818](http://arxiv.org/pdf/2411.10818.pdf)|**[link](https://github.com/hmrishavbandy/flipsketch)**|
 |**2024-11-16**|**Stable Continual Reinforcement Learning via Diffusion-based Trajectory Replay**|Feng Chen et.al.|[2411.10809](http://arxiv.org/pdf/2411.10809.pdf)|null|
 |**2024-11-16**|**Test-time Conditional Text-to-Image Synthesis Using Diffusion Models**|Tripti Shukla et.al.|[2411.10800](http://arxiv.org/pdf/2411.10800.pdf)|null|
-|**2024-11-23**|**C-DiffSET: Leveraging Latent Diffusion for SAR-to-EO Image Translation with Confidence-Guided Reliable Object Generation**|Jeonghyeok Do et.al.|[2411.10788](http://arxiv.org/pdf/2411.10788.pdf)|null|
+|**2024-11-23**|**C-DiffSET: Leveraging Latent Diffusion for SAR-to-EO Image Translation with Confidence-Guided Reliable Object Generation**|Jeonghyeok Do et.al.|[2411.10788](http://arxiv.org/pdf/2411.10788.pdf)|**[link](https://github.com/KAIST-VICLab/C-DiffSET)**|
 |**2024-11-16**|**Bag of Design Choices for Inference of High-Resolution Masked Generative Transformer**|Shitong Shao et.al.|[2411.10781](http://arxiv.org/pdf/2411.10781.pdf)|**[link](https://github.com/xie-lab-ml/Meissonic-Inference)**|
 |**2024-11-19**|**Diffusion-Based Semantic Segmentation of Lumbar Spine MRI Scans of Lower Back Pain Patients**|Maria Monzon et.al.|[2411.10755](http://arxiv.org/pdf/2411.10755.pdf)|**[link](https://github.com/BMDS-ETH/SpineSegDiff)**|
 |**2024-11-22**|**TDSM: Triplet Diffusion for Skeleton-Text Matching in Zero-Shot Action Recognition**|Jeonghyeok Do et.al.|[2411.10745](http://arxiv.org/pdf/2411.10745.pdf)|**[link](https://github.com/KAIST-VICLab/TDSM)**|
@@ -19330,5 +19330,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-06-22**|**Video Diffusion Models**|Jonathan Ho et.al.|[2204.03458](http://arxiv.org/pdf/2204.03458.pdf)|null|
 |**2022-12-08**|**Diffusion Probabilistic Modeling for Video Generation**|Ruihan Yang et.al.|[2203.09481](http://arxiv.org/pdf/2203.09481.pdf)|**[link](https://github.com/buggyyang/rvd)**|
 
-<p align=right>(<a href=#Updated-on-20241126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241127>back to top</a>)</p>
 
