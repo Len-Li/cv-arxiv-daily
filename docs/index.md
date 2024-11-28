@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.11.27
+Updated on 2024.11.28
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -16736,7 +16736,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-11-26**|**ChatGen: Automatic Text-to-Image Generation From FreeStyle Chatting**|Chengyou Jia et.al.|[2411.17176](http://arxiv.org/pdf/2411.17176.pdf)|null|
 |**2024-11-26**|**OSDFace: One-Step Diffusion Model for Face Restoration**|Jingkai Wang et.al.|[2411.17163](http://arxiv.org/pdf/2411.17163.pdf)|**[link](https://github.com/jkwang28/osdface)**|
 |**2024-11-26**|**Contrastive CFG: Improving CFG in Diffusion Models by Contrasting Positive and Negative Concepts**|Jinho Chang et.al.|[2411.17077](http://arxiv.org/pdf/2411.17077.pdf)|null|
-|**2024-11-26**|**Relations, Negations, and Numbers: Looking for Logic in Generative Text-to-Image Models**|Colin Conwell et.al.|[2411.17066](http://arxiv.org/pdf/2411.17066.pdf)|null|
+|**2024-11-26**|**Relations, Negations, and Numbers: Looking for Logic in Generative Text-to-Image Models**|Colin Conwell et.al.|[2411.17066](http://arxiv.org/pdf/2411.17066.pdf)|**[link](https://github.com/colinconwell/t2i-probology)**|
 |**2024-11-26**|**A generalised novel loss function for computational fluid dynamics**|Zachary Cooper-Baldock et.al.|[2411.17059](http://arxiv.org/pdf/2411.17059.pdf)|null|
 |**2024-11-26**|**PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation**|Hengjia Li et.al.|[2411.17048](http://arxiv.org/pdf/2411.17048.pdf)|null|
 |**2024-11-26**|**Free $^2$ Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models**|Jaemin Kim et.al.|[2411.17041](http://arxiv.org/pdf/2411.17041.pdf)|null|
