@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.12.02
+Updated on 2024.12.03
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -16918,7 +16918,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-11-28**|**Bayesian Deconvolution of Astronomical Images with Diffusion Models: Quantifying Prior-Driven Features in Reconstructions**|Alessio Spagnoletti et.al.|[2411.19158](http://arxiv.org/pdf/2411.19158.pdf)|null|
 |**2024-11-28**|**MSG score: A Comprehensive Evaluation for Multi-Scene Video Generation**|Daewon Yoon et.al.|[2411.19121](http://arxiv.org/pdf/2411.19121.pdf)|null|
 |**2024-11-28**|**Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model**|Feng Liu et.al.|[2411.19108](http://arxiv.org/pdf/2411.19108.pdf)|null|
-|**2024-11-28**|**I Dream My Painting: Connecting MLLMs and Diffusion Models via Prompt Generation for Text-Guided Multi-Mask Inpainting**|Nicola Fanelli et.al.|[2411.19050](http://arxiv.org/pdf/2411.19050.pdf)|null|
+|**2024-11-28**|**I Dream My Painting: Connecting MLLMs and Diffusion Models via Prompt Generation for Text-Guided Multi-Mask Inpainting**|Nicola Fanelli et.al.|[2411.19050](http://arxiv.org/pdf/2411.19050.pdf)|**[link](https://github.com/cilabuniba/i-dream-my-painting)**|
 |**2024-11-28**|**3D-WAG: Hierarchical Wavelet-Guided Autoregressive Generation for High-Fidelity 3D Shapes**|Tejaswini Medi et.al.|[2411.19037](http://arxiv.org/pdf/2411.19037.pdf)|null|
 |**2024-11-28**|**Locally-Focused Face Representation for Sketch-to-Image Generation Using Noise-Induced Refinement**|Muhammad Umer Ramzan et.al.|[2411.19005](http://arxiv.org/pdf/2411.19005.pdf)|null|
 |**2024-11-28**|**SPAgent: Adaptive Task Decomposition and Model Selection for General Video Generation and Editing**|Rong-Cheng Tu et.al.|[2411.18983](http://arxiv.org/pdf/2411.18983.pdf)|null|
