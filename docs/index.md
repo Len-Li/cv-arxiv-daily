@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.12.19
+Updated on 2024.12.20
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -17997,7 +17997,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-12-16**|**InterDyn: Controllable Interactive Dynamics with Video Diffusion Models**|Rick Akkerman et.al.|[2412.11785](http://arxiv.org/pdf/2412.11785.pdf)|null|
 |**2024-12-16**|**Joint Reconstruction of the Activity and the Attenuation in PET by Diffusion Posterior Sampling: a Feasibility Study**|Clémentine Phung-Ngoc et.al.|[2412.11776](http://arxiv.org/pdf/2412.11776.pdf)|null|
 |**2024-12-17**|**No More Adam: Learning Rate Scaling at Initialization is All You Need**|Minghao Xu et.al.|[2412.11768](http://arxiv.org/pdf/2412.11768.pdf)|**[link](https://github.com/anonymousalethiometer/sgd_sai)**|
-|**2024-12-16**|**Generative Inbetweening through Frame-wise Conditions-Driven Video Generation**|Tianyi Zhu et.al.|[2412.11755](http://arxiv.org/pdf/2412.11755.pdf)|null|
+|**2024-12-16**|**Generative Inbetweening through Frame-wise Conditions-Driven Video Generation**|Tianyi Zhu et.al.|[2412.11755](http://arxiv.org/pdf/2412.11755.pdf)|**[link](https://github.com/Tian-one/FCVG)**|
 |**2024-12-18**|**Conditional Diffusion Models Based Conditional Independence Testing**|Yanfeng Yang et.al.|[2412.11744](http://arxiv.org/pdf/2412.11744.pdf)|**[link](https://github.com/yanfeng-yang-0316/cdcit)**|
 |**2024-12-16**|**Re-Attentional Controllable Video Diffusion Editing**|Yuanzhi Wang et.al.|[2412.11710](http://arxiv.org/pdf/2412.11710.pdf)|**[link](https://github.com/mdswyz/reatco)**|
 |**2024-12-16**|**AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration**|Wenhao Sun et.al.|[2412.11706](http://arxiv.org/pdf/2412.11706.pdf)|null|
