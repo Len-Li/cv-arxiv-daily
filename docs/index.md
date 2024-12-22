@@ -18055,7 +18055,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-12-18**|**SemiDFL: A Semi-Supervised Paradigm for Decentralized Federated Learning**|Xinyang Liu et.al.|[2412.13589](http://arxiv.org/pdf/2412.13589.pdf)|**[link](https://github.com/ez4lionky/SemiDFL)**|
 |**2024-12-18**|**Urban Air Temperature Prediction using Conditional Diffusion Models**|Siyang Dai et.al.|[2412.13504](http://arxiv.org/pdf/2412.13504.pdf)|null|
 |**2024-12-18**|**VaeDiff-DocRE: End-to-end Data Augmentation Framework for Document-level Relation Extraction**|Khai Phan Tran et.al.|[2412.13503](http://arxiv.org/pdf/2412.13503.pdf)|null|
-|**2024-12-18**|**Real-time One-Step Diffusion-based Expressive Portrait Videos Generation**|Hanzhong Guo et.al.|[2412.13479](http://arxiv.org/pdf/2412.13479.pdf)|null|
+|**2024-12-18**|**Real-time One-Step Diffusion-based Expressive Portrait Videos Generation**|Hanzhong Guo et.al.|[2412.13479](http://arxiv.org/pdf/2412.13479.pdf)|**[link](https://github.com/Guohanzhong/OSA-LCM)**|
 |**2024-12-18**|**SAVGBench: Benchmarking Spatially Aligned Audio-Video Generation**|Kazuki Shimada et.al.|[2412.13462](http://arxiv.org/pdf/2412.13462.pdf)|null|
 |**2024-12-18**|**Zero-Shot Low Light Image Enhancement with Diffusion Prior**|Joshua Cho et.al.|[2412.13401](http://arxiv.org/pdf/2412.13401.pdf)|**[link](https://github.com/hello-world-from-joshua/zero-shot-llie)**|
 |**2024-12-18**|**Marigold-DC: Zero-Shot Monocular Depth Completion with Guided Diffusion**|Massimiliano Viola et.al.|[2412.13389](http://arxiv.org/pdf/2412.13389.pdf)|null|
