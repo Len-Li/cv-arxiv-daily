@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2024.12.26
+Updated on 2024.12.27
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -63,7 +63,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-12-23**|**PointVoxelFormer -- Reviving point cloud networks for 3D medical imaging**|Mattias Paul Heinrich et.al.|[2412.17390](http://arxiv.org/pdf/2412.17390.pdf)|null|
 |**2024-12-23**|**Balanced 3DGS: Gaussian-wise Parallelism Rendering with Fine-Grained Tiling**|Hao Gui et.al.|[2412.17378](http://arxiv.org/pdf/2412.17378.pdf)|null|
 |**2024-12-23**|**A Plug-and-Play Physical Motion Restoration Approach for In-the-Wild High-Difficulty Motions**|Youliang Zhang et.al.|[2412.17377](http://arxiv.org/pdf/2412.17377.pdf)|null|
-|**2024-12-23**|**DiffFormer: a Differential Spatial-Spectral Transformer for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2412.17350](http://arxiv.org/pdf/2412.17350.pdf)|null|
+|**2024-12-23**|**DiffFormer: a Differential Spatial-Spectral Transformer for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2412.17350](http://arxiv.org/pdf/2412.17350.pdf)|**[link](https://github.com/mahmad000/diffformer)**|
 |**2024-12-23**|**Revisiting Multimodal Fusion for 3D Anomaly Detection from an Architectural Perspective**|Kaifang Long et.al.|[2412.17297](http://arxiv.org/pdf/2412.17297.pdf)|null|
 |**2024-12-23**|**LMD-PGN: Cross-Modal Knowledge Distillation from First-Person-View Images to Third-Person-View BEV Maps for Universal Point Goal Navigation**|Riku Uemura et.al.|[2412.17282](http://arxiv.org/pdf/2412.17282.pdf)|null|
 |**2024-12-23**|**A Coalition Game for On-demand Multi-modal 3D Automated Delivery System**|Farzan Moosavi et.al.|[2412.17252](http://arxiv.org/pdf/2412.17252.pdf)|null|
@@ -215,7 +215,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-12-18**|**RelationField: Relate Anything in Radiance Fields**|Sebastian Koch et.al.|[2412.13652](http://arxiv.org/pdf/2412.13652.pdf)|null|
 |**2024-12-18**|**Learning to Control an Android Robot Head for Facial Animation**|Marcel Heisler et.al.|[2412.13641](http://arxiv.org/pdf/2412.13641.pdf)|null|
 |**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639](http://arxiv.org/pdf/2412.13639.pdf)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
-|**2024-12-19**|**Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Production**|Shengeng Tang et.al.|[2412.13609](http://arxiv.org/pdf/2412.13609.pdf)|null|
+|**2024-12-19**|**Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Production**|Shengeng Tang et.al.|[2412.13609](http://arxiv.org/pdf/2412.13609.pdf)|**[link](https://github.com/navi-start/sign-idd)**|
 |**2024-12-18**|**Read Like a Radiologist: Efficient Vision-Language Model for 3D Medical Imaging Interpretation**|Changsun Lee et.al.|[2412.13558](http://arxiv.org/pdf/2412.13558.pdf)|null|
 |**2024-12-18**|**DragScene: Interactive 3D Scene Editing with Single-view Drag Instructions**|Chenghao Gu et.al.|[2412.13552](http://arxiv.org/pdf/2412.13552.pdf)|null|
 |**2024-12-18**|**Turbo-GS: Accelerating 3D Gaussian Fitting for High-Quality Radiance Fields**|Tao Lu et.al.|[2412.13547](http://arxiv.org/pdf/2412.13547.pdf)|null|
@@ -16970,7 +16970,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-12-23**|**Sampling-Based Constrained Motion Planning with Products of Experts**|Amirreza Razmjoo et.al.|[2412.17462](http://arxiv.org/pdf/2412.17462.pdf)|null|
 |**2024-12-21**|**Gradient-based Trajectory Optimization with Parallelized Differentiable Traffic Simulation**|Sanghyun Son et.al.|[2412.16750](http://arxiv.org/pdf/2412.16750.pdf)|null|
 |**2024-12-21**|**Effective and Efficient Representation Learning for Flight Trajectories**|Shuo Liu et.al.|[2412.16581](http://arxiv.org/pdf/2412.16581.pdf)|null|
-|**2024-12-20**|**Learning Group Interactions and Semantic Intentions for Multi-Object Trajectory Prediction**|Mengshi Qi et.al.|[2412.15673](http://arxiv.org/pdf/2412.15673.pdf)|null|
+|**2024-12-20**|**Learning Group Interactions and Semantic Intentions for Multi-Object Trajectory Prediction**|Mengshi Qi et.al.|[2412.15673](http://arxiv.org/pdf/2412.15673.pdf)|**[link](https://github.com/aurora-xin/group2int-trajectory)**|
 |**2024-12-19**|**Co-optimization of Vehicle Dynamics and Powertrain Management for Connected and Automated Electric Vehicles**|Zongtan Li et.al.|[2412.14984](http://arxiv.org/pdf/2412.14984.pdf)|null|
 |**2024-12-19**|**EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction**|Saiqian Peng et.al.|[2412.14442](http://arxiv.org/pdf/2412.14442.pdf)|**[link](https://github.com/whutpsq/EPN)**|
 |**2024-12-17**|**A Comprehensive Review on Traffic Datasets and Simulators for Autonomous Vehicles**|Supriya Sarker et.al.|[2412.14207](http://arxiv.org/pdf/2412.14207.pdf)|null|
@@ -18257,7 +18257,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-12-21**|**GANFusion: Feed-Forward Text-to-3D with Diffusion in GAN Space**|Souhaib Attaiki et.al.|[2412.16717](http://arxiv.org/pdf/2412.16717.pdf)|null|
 |**2024-12-21**|**TCAQ-DM: Timestep-Channel Adaptive Quantization for Diffusion Models**|Haocheng Huang et.al.|[2412.16700](http://arxiv.org/pdf/2412.16700.pdf)|null|
 |**2024-12-21**|**VAST 1.0: A Unified Framework for Controllable and Consistent Video Generation**|Chi Zhang et.al.|[2412.16677](http://arxiv.org/pdf/2412.16677.pdf)|null|
-|**2024-12-21**|**Optoelectronic generative adversarial networks**|Jumin Qiu et.al.|[2412.16672](http://arxiv.org/pdf/2412.16672.pdf)|null|
+|**2024-12-21**|**Optoelectronic generative adversarial networks**|Jumin Qiu et.al.|[2412.16672](http://arxiv.org/pdf/2412.16672.pdf)|**[link](https://github.com/qiujumin/OE-GAN)**|
 |**2024-12-24**|**Adversarial Attack Against Images Classification based on Generative Adversarial Networks**|Yahe Yang et.al.|[2412.16662](http://arxiv.org/pdf/2412.16662.pdf)|null|
 |**2024-12-21**|**A Generalizable 3D Diffusion Framework for Low-Dose and Few-View Cardiac SPECT**|Huidong Xie et.al.|[2412.16573](http://arxiv.org/pdf/2412.16573.pdf)|null|
 |**2024-12-21**|**Diffusion Prior Interpolation for Flexibility Real-World Face Super-Resolution**|Jiarui Yang et.al.|[2412.16552](http://arxiv.org/pdf/2412.16552.pdf)|**[link](https://github.com/jerryyann/dpi)**|
@@ -18284,7 +18284,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2024-12-20**|**Diffusion-Based Conditional Image Editing through Optimized Inference with Guidance**|Hyunsoo Lee et.al.|[2412.15798](http://arxiv.org/pdf/2412.15798.pdf)|null|
 |**2024-12-20**|**DOLLAR: Few-Step Video Generation via Distillation and Latent Reward Optimization**|Zihan Ding et.al.|[2412.15689](http://arxiv.org/pdf/2412.15689.pdf)|null|
 |**2024-12-20**|**PersonaMagic: Stage-Regulated High-Fidelity Face Customization with Tandem Equilibrium**|Xinzhe Li et.al.|[2412.15674](http://arxiv.org/pdf/2412.15674.pdf)|null|
-|**2024-12-20**|**Learning Group Interactions and Semantic Intentions for Multi-Object Trajectory Prediction**|Mengshi Qi et.al.|[2412.15673](http://arxiv.org/pdf/2412.15673.pdf)|null|
+|**2024-12-20**|**Learning Group Interactions and Semantic Intentions for Multi-Object Trajectory Prediction**|Mengshi Qi et.al.|[2412.15673](http://arxiv.org/pdf/2412.15673.pdf)|**[link](https://github.com/aurora-xin/group2int-trajectory)**|
 |**2024-12-24**|**BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models**|Yifei Sun et.al.|[2412.15670](http://arxiv.org/pdf/2412.15670.pdf)|**[link](https://github.com/diaoquesang/BS-LDM)**|
 |**2024-12-20**|**SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control**|Xiaohan Zhang et.al.|[2412.15664](http://arxiv.org/pdf/2412.15664.pdf)|null|
 |**2024-12-23**|**CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training**|Xiuli Bi et.al.|[2412.15646](http://arxiv.org/pdf/2412.15646.pdf)|**[link](https://github.com/rongpiking/customttt)**|
