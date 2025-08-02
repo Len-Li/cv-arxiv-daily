@@ -22,10 +22,6 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    # "3D": 
-    #     filters: ["3D"]
-    # "3D detection": 
-    #     filters: ["3D detection", "3D object detection", "BEV detection"]
     "3D":
         filters: ["3D", "NeRF", "neural radiance field", "3D Gaussian Splatting", "3D Reconstruction"]
     "Diffusion":
@@ -34,9 +30,5 @@ keywords:
         filters: ["NVIDIA", "Waymo", "DJI", 'Waabi', 'Raquel Urtasun', 'Sanja Fidler']
     "Autonomous Driving":
         filters: ["Autonomous Driving", "Self-driving", "Shenlong Wang", 'Marco Pavone', 'Andreas Geiger', 'Hongyang Li', 'Yikang Li', 'Wei-Chiu Ma']
-    # "NeRF + Autonomous Driving":
-        # filters: ["Autonomous Driving", "Self-driving", "NeRF", "neural radiance field"]
-    # "Adversarial":
-    #     filters: ["Adversarial", "Robustness"]
     "Traffic Simulation":
         filters: ["Traffic Simulation", "Motion Prediction", "Motion Planning", "Trajectory Prediction"]

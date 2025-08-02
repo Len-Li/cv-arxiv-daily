@@ -308,23 +308,14 @@ def json_to_md(filename,md_filename,
         # TODO: add usage
         # f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
 
-# - [3D](#3d)
-# - [NeRF](#nerf)
-# - [Industry](#industry)
-# - [Autonomous Driving](#autonomous-driving)
-# - [NeRF + Autonomous Driving](#nerf--autonomous-driving)
-# - [Traffic Simulation](#traffic-simulation)
-
         f.write("\n")
         f.write("This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).\n\n")
 
         if task == 'Update GitPage':
             f.write("- [3D](#3d)\n")
-            # f.write("- [NeRF](#nerf)\n")
             f.write("- [Diffusion](#diffusion)\n")
             f.write("- [Industry](#industry)\n")
             f.write("- [Autonomous Driving](#autonomous-driving)\n")
-            # f.write("- [NeRF + Autonomous Driving](#nerf--autonomous-driving)\n")
             f.write("- [Traffic Simulation](#traffic-simulation)\n\n")
 
 
