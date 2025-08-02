@@ -320,11 +320,11 @@ def json_to_md(filename,md_filename,
 
         if task == 'Update GitPage':
             f.write("- [3D](#3d)\n")
-            f.write("- [NeRF](#nerf)\n")
+            # f.write("- [NeRF](#nerf)\n")
             f.write("- [Diffusion](#diffusion)\n")
             f.write("- [Industry](#industry)\n")
             f.write("- [Autonomous Driving](#autonomous-driving)\n")
-            f.write("- [NeRF + Autonomous Driving](#nerf--autonomous-driving)\n")
+            # f.write("- [NeRF + Autonomous Driving](#nerf--autonomous-driving)\n")
             f.write("- [Traffic Simulation](#traffic-simulation)\n\n")
 
 
