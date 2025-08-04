@@ -16,6 +16,30 @@ base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 
+
+EXCAPE = '\"'
+QUOTA = '' # NO-USE
+OR = ' OR ' # TODO
+AND = ' AND '
+ANDNOT = ' ANDNOT '
+LEFT = '('
+RIGHT = ')'
+
+def key_connecter(key_list:list) -> str:
+    ret = ''
+    for idx in range(0,len(key_list)):
+        words = key_list[idx]
+        if ':' in words:
+            prefix, words = words.split(':')
+            ret += prefix + ':'
+        if len(words.split()) > 1:
+            ret += (EXCAPE + words + EXCAPE)
+        else:
+            ret += (QUOTA + words + QUOTA)
+        if idx != len(key_list) - 1:
+            ret += OR
+    return ret
+
 def load_config(config_file:str) -> dict:
     '''
     config_file: input config file path
@@ -24,28 +48,27 @@ def load_config(config_file:str) -> dict:
     # make filters pretty
     def pretty_filters(**config) -> dict:
         keywords = dict()
-        EXCAPE = '\"'
-        QUOTA = '' # NO-USE
-        OR = 'OR' # TODO
-        def parse_filters(filters:list):
+        def parse_filters(dicts:dict):
             ret = ''
-            for idx in range(0,len(filters)):
-                filter = filters[idx]
-                if len(filter.split()) > 1:
-                    ret += (EXCAPE + filter + EXCAPE)  
-                else:
-                    ret += (QUOTA + filter + QUOTA)   
-                if idx != len(filters) - 1:
-                    ret += OR
+            if 'filters' in dicts.keys():
+                ret += LEFT + key_connecter(dicts['filters']) + RIGHT
+                dicts.pop('filters')
+            for k,v in dicts.items():
+                if k != 'invert':
+                    ret += AND if len(ret) > 0 else ''
+                    ret += LEFT + key_connecter(v) + RIGHT
+            if 'invert' in dicts.keys():
+                ret += ANDNOT + LEFT + key_connecter(dicts['invert']) + RIGHT
             return ret
+
         for k,v in config['keywords'].items():
-            keywords[k] = parse_filters(v['filters'])
+            keywords[k] = parse_filters(v)
         return keywords
     with open(config_file,'r') as f:
-        config = yaml.load(f,Loader=yaml.FullLoader) 
+        config = yaml.load(f,Loader=yaml.FullLoader)
         config['kv'] = pretty_filters(**config)
         logging.info(f'config = {config}')
-    return config 
+    return config
 
 def get_authors(authors, first_author = False):
     output = str()
@@ -93,13 +116,16 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # output 
     content = dict() 
     content_to_web = dict()
+
+    client = arxiv.Client()  # 创建客户端实例
+
     search_engine = arxiv.Search(
         query = query,
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    for result in client.results(search_engine):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -128,22 +154,29 @@ def get_daily_papers(topic,query="slam", max_results=2):
         # print(paper_url)
         
         try:
-            # source code link    
-            r = requests.get(code_url).json()
+            # source code link   
+            # import ipdb; ipdb.set_trace()
+
             repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
+
+            # r = requests.get(code_url).json()
+            # if "official" in r and r["official"]:
+            #     repo_url = r["official"]["url"]
+
+
             # TODO: not found, two more chances  
             # else: 
             #    repo_url = get_code_link(paper_title)
             #    if repo_url is None:
             #        repo_url = get_code_link(paper_key)
+
+
+
             if repo_url is not None:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
                        update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
                        update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
-
             else:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
                        update_time,paper_title,paper_first_author,paper_key,paper_url)
@@ -282,11 +315,11 @@ def json_to_md(filename,md_filename,
             data = json.loads(content)
 
     # clean README.md if daily already exist else create it
-    with open(md_filename,"w+") as f:
+    with open(md_filename,"w+", encoding='utf-8') as f:
         pass
 
     # write data into README.md
-    with open(md_filename,"a+") as f:
+    with open(md_filename,"a+", encoding='utf-8') as f:
 
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")

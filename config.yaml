@@ -24,11 +24,15 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "3D":
         filters: ["3D", "NeRF", "neural radiance field", "3D Gaussian Splatting", "3D Reconstruction"]
+        categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
     "Diffusion":
         filters: ["GAN", "diffusion", "diffusion model", "controlnet", "controllable generation", "image generation", "video diffusion", "video generation", "Text-to-Video", "text to image"]
     "Industry":
         filters: ["NVIDIA", "Waymo", "DJI", 'Waabi', 'Raquel Urtasun', 'Sanja Fidler']
     "Autonomous Driving":
-        filters: ["Autonomous Driving", "Self-driving", "Shenlong Wang", 'Marco Pavone', 'Andreas Geiger', 'Hongyang Li', 'Yikang Li', 'Wei-Chiu Ma']
+        filters: ["Autonomous Driving", "Self-driving", "Shenlong Wang", 'Marco Pavone', 'Andreas Geiger', 'Hongyang Li', 'Yikang Li', 'Wei-Chiu Ma', 'Hang Zhao', 'Li Auto']
+        categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
     "Traffic Simulation":
         filters: ["Traffic Simulation", "Motion Prediction", "Motion Planning", "Trajectory Prediction"]
+        categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
+
