@@ -9,7 +9,6 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
     <li><a href=#Autonomous-Driving>Autonomous Driving</a></li>
     <li><a href=#Traffic-Simulation>Traffic Simulation</a></li>
   </ol>
-  
 ## 3D
 
 |Publish Date|Title|Authors|PDF|Code|
