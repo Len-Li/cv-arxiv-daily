@@ -11,6 +11,16 @@ publish_readme: True
 publish_gitpage: True
 publish_wechat: False
 
+# HTML customization options
+html_customization:
+  theme: "dark"  # dark, light, custom
+  custom_css: "assets/css/custom.css"
+  custom_js: "assets/js/custom.js"
+  show_search: True
+  show_sort: True
+  table_style: "modern"  # modern, classic, card
+  header_template: "custom_header.html"
+
 # file paths
 json_readme_path: './docs/cv-arxiv-daily.json'
 json_gitpage_path: './docs/cv-arxiv-daily-web.json'

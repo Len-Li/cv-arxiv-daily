@@ -15,6 +15,10 @@ social_links:
   twitter: AlphaRealcat
   github: vincentqyw
 
+# 自定义样式和脚本
+head_scripts:
+  - /assets/js/custom.js
+
 plugins:
  - jekyll-remote-theme # add this line to the plugins list if you already have one
  - jekyll-feed
