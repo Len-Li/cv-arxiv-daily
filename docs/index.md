@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.08.11
+Updated on 2025.08.12
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -440,7 +440,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-07**|**MolSnap: Snap-Fast Molecular Generation with Latent Variational Mean Flow**|Md Atik Ahamed et.al.|[2508.05411](http://arxiv.org/pdf/2508.05411.pdf)|null|
 |**2025-08-07**|**UNCAGE: Contrastive Attention Guidance for Masked Generative Transformers in Text-to-Image Generation**|Wonjun Kang et.al.|[2508.05399](http://arxiv.org/pdf/2508.05399.pdf)|null|
 |**2025-08-07**|**Real-Time Iteration Scheme for Diffusion Policy**|Yufei Duan et.al.|[2508.05396](http://arxiv.org/pdf/2508.05396.pdf)|null|
-|**2025-08-07**|**Echo: Decoupling Inference and Training for Large-Scale RL Alignment on Heterogeneous Swarms**|Jie Xiao et.al.|[2508.05387](http://arxiv.org/pdf/2508.05387.pdf)|null|
+|**2025-08-09**|**Echo: Decoupling Inference and Training for Large-Scale RL Alignment on Heterogeneous Swarms**|Jie Xiao et.al.|[2508.05387](http://arxiv.org/pdf/2508.05387.pdf)|null|
 |**2025-08-07**|**Multi-Modal Multi-Behavior Sequential Recommendation with Conditional Diffusion-Based Feature Denoising**|Xiaoxi Cui et.al.|[2508.05352](http://arxiv.org/pdf/2508.05352.pdf)|null|
 |**2025-08-07**|**Stranski-Krastanov Growth of Disordered ScNx Thin Films on MgO(100): Influence of Defect Densities on Electronic Structure and Transport Properties**|Susmita Chowdhury et.al.|[2508.05330](http://arxiv.org/pdf/2508.05330.pdf)|null|
 |**2025-08-07**|**Textual Inversion for Efficient Adaptation of Open-Vocabulary Object Detectors Without Forgetting**|Frank Ruis et.al.|[2508.05323](http://arxiv.org/pdf/2508.05323.pdf)|null|
@@ -1120,7 +1120,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-21**|**AoI-Aware Resource Allocation with Deep Reinforcement Learning for HAPS-V2X Networks**|Ahmet Melih Ince et.al.|[2508.00011](http://arxiv.org/pdf/2508.00011.pdf)|null|
 |**2025-07-31**|**I2V-GS: Infrastructure-to-Vehicle View Transformation with Gaussian Splatting for Autonomous Driving Data Generation**|Jialei Chen et.al.|[2507.23683](http://arxiv.org/pdf/2507.23683.pdf)|null|
 |**2025-07-31**|**DA-Occ: Efficient 3D Voxel Occupancy Prediction via Directional 2D for Geometric Structure Preservation**|Yuchen Zhou et.al.|[2507.23599](http://arxiv.org/pdf/2507.23599.pdf)|null|
-|**2025-08-02**|**MoGA: 3D Generative Avatar Prior for Monocular Gaussian Avatar Reconstruction**|Zijian Dong et.al.|[2507.23597](http://arxiv.org/pdf/2507.23597.pdf)|null|
+|**2025-08-09**|**MoGA: 3D Generative Avatar Prior for Monocular Gaussian Avatar Reconstruction**|Zijian Dong et.al.|[2507.23597](http://arxiv.org/pdf/2507.23597.pdf)|null|
 |**2025-07-31**|**A Unified Perception-Language-Action Framework for Adaptive Autonomous Driving**|Yi Zhang et.al.|[2507.23540](http://arxiv.org/pdf/2507.23540.pdf)|null|
 |**2025-07-31**|**MagicRoad: Semantic-Aware 3D Road Surface Reconstruction via Obstacle Inpainting**|Xingyue Peng et.al.|[2507.23340](http://arxiv.org/pdf/2507.23340.pdf)|null|
 |**2025-07-31**|**Contrastive Learning-Driven Traffic Sign Perception: Multi-Modal Fusion of Text and Vision**|Qiang Lu et.al.|[2507.23331](http://arxiv.org/pdf/2507.23331.pdf)|null|
