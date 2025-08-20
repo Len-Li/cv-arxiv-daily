@@ -1,4 +1,4 @@
-Updated on 2025.08.19
+Updated on 2025.08.20
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -29,11 +29,11 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-18**|**Stable Diffusion-Based Approach for Human De-Occlusion**|Seung Young Noh et.al.|[2508.12663](http://arxiv.org/pdf/2508.12663.pdf)|null|
 |**2025-08-18**|**DyCrowd: Towards Dynamic Crowd Reconstruction from a Large-scene Video**|Hao Wen et.al.|[2508.12644](http://arxiv.org/pdf/2508.12644.pdf)|null|
 |**2025-08-18**|**Synthesizing Accurate and Realistic T1-weighted Contrast-Enhanced MR Images using Posterior-Mean Rectified Flow**|Bastian Brandstötter et.al.|[2508.12640](http://arxiv.org/pdf/2508.12640.pdf)|null|
-|**2025-08-18**|**WIPES: Wavelet-based Visual Primitives**|Wenhao Zhang et.al.|[2508.12615](http://arxiv.org/pdf/2508.12615.pdf)|null|
+|**2025-08-19**|**WIPES: Wavelet-based Visual Primitives**|Wenhao Zhang et.al.|[2508.12615](http://arxiv.org/pdf/2508.12615.pdf)|null|
 |**2025-08-17**|**Segmenting Thalamic Nuclei: T1 Maps Provide a Reliable and Efficient Solution**|Anqi Feng et.al.|[2508.12508](http://arxiv.org/pdf/2508.12508.pdf)|null|
 |**2025-08-17**|**FractMorph: A Fractional Fourier-Based Multi-Domain Transformer for Deformable Image Registration**|Shayan Kebriti et.al.|[2508.12445](http://arxiv.org/pdf/2508.12445.pdf)|null|
 |**2025-08-17**|**TiP4GEN: Text to Immersive Panorama 4D Scene Generation**|Ke Xing et.al.|[2508.12415](http://arxiv.org/pdf/2508.12415.pdf)|null|
-|**2025-08-17**|**SRMA-Mamba: Spatial Reverse Mamba Attention Network for Pathological Liver Segmentation in MRI Volumes**|Jun Zeng et.al.|[2508.12410](http://arxiv.org/pdf/2508.12410.pdf)|null|
+|**2025-08-19**|**SRMA-Mamba: Spatial Reverse Mamba Attention Network for Pathological Liver Segmentation in MRI Volumes**|Jun Zeng et.al.|[2508.12410](http://arxiv.org/pdf/2508.12410.pdf)|null|
 |**2025-08-17**|**Geometry-Aware Video Inpainting for Joint Headset Occlusion Removal and Face Reconstruction in Social XR**|Fatemeh Ghorbani Lohesara et.al.|[2508.12336](http://arxiv.org/pdf/2508.12336.pdf)|null|
 |**2025-08-17**|**Semi-Infinite Programming for Collision-Avoidance in Optimal and Model Predictive Control**|Yunfan Gao et.al.|[2508.12335](http://arxiv.org/pdf/2508.12335.pdf)|null|
 |**2025-08-17**|**Improving Densification in 3D Gaussian Splatting for High-Fidelity Rendering**|Xiaobin Deng et.al.|[2508.12313](http://arxiv.org/pdf/2508.12313.pdf)|null|
@@ -550,7 +550,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978](http://arxiv.org/pdf/2507.07978.pdf)|null|
 |**2025-07-10**|**RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection**|Yongyang Zhou et.al.|[2507.07733](http://arxiv.org/pdf/2507.07733.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250819>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250820>back to top</a>)</p>
 
 ## Diffusion
 
@@ -566,7 +566,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-18**|**From Transthoracic to Transesophageal: Cross-Modality Generation using LoRA Diffusion**|Emmanuel Oladokun et.al.|[2508.13077](http://arxiv.org/pdf/2508.13077.pdf)|null|
 |**2025-08-18**|**Reinforced Context Order Recovery for Adaptive Reasoning and Planning**|Long Ma et.al.|[2508.13070](http://arxiv.org/pdf/2508.13070.pdf)|null|
 |**2025-08-18**|**Odo: Depth-Guided Diffusion for Identity-Preserving Body Reshaping**|Siddharth Khandelwal et.al.|[2508.13065](http://arxiv.org/pdf/2508.13065.pdf)|null|
-|**2025-08-18**|**PC-Sampler: Position-Aware Calibration of Decoding Bias in Masked Diffusion Models**|Pengcheng Huang et.al.|[2508.13021](http://arxiv.org/pdf/2508.13021.pdf)|null|
+|**2025-08-19**|**PC-Sampler: Position-Aware Calibration of Decoding Bias in Masked Diffusion Models**|Pengcheng Huang et.al.|[2508.13021](http://arxiv.org/pdf/2508.13021.pdf)|null|
 |**2025-08-18**|**EgoTwin: Dreaming Body and View in First Person**|Jingqiao Xiu et.al.|[2508.13013](http://arxiv.org/pdf/2508.13013.pdf)|null|
 |**2025-08-18**|**Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model**|Xianglong He et.al.|[2508.13009](http://arxiv.org/pdf/2508.13009.pdf)|null|
 |**2025-08-18**|**Transfer Learning for Neutrino Scattering: Domain Adaptation with GANs**|Jose L. Bonilla et.al.|[2508.12987](http://arxiv.org/pdf/2508.12987.pdf)|null|
@@ -574,7 +574,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-18**|**Compact Attention: Exploiting Structured Spatio-Temporal Sparsity for Fast Video Generation**|Qirui Li et.al.|[2508.12969](http://arxiv.org/pdf/2508.12969.pdf)|null|
 |**2025-08-18**|**Self-Consistent Heating of the Magnetically Closed Solar Corona: Generation of Nanoflares, Thermodynamic Response of the Plasma and Observational Signatures**|Craig D. Johnston et.al.|[2508.12952](http://arxiv.org/pdf/2508.12952.pdf)|null|
 |**2025-08-18**|**Lumen: Consistent Video Relighting and Harmonious Background Replacement with Video Generative Models**|Jianshu Zeng et.al.|[2508.12945](http://arxiv.org/pdf/2508.12945.pdf)|null|
-|**2025-08-18**|**Fully Automated Segmentation of Fiber Bundles in Anatomic Tracing Data**|Kyriaki-Margarita Bintsi et.al.|[2508.12942](http://arxiv.org/pdf/2508.12942.pdf)|null|
+|**2025-08-19**|**Fully Automated Segmentation of Fiber Bundles in Anatomic Tracing Data**|Kyriaki-Margarita Bintsi et.al.|[2508.12942](http://arxiv.org/pdf/2508.12942.pdf)|null|
 |**2025-08-18**|**7Bench: a Comprehensive Benchmark for Layout-guided Text-to-image Models**|Elena Izzo et.al.|[2508.12919](http://arxiv.org/pdf/2508.12919.pdf)|null|
 |**2025-08-18**|**FoleySpace: Vision-Aligned Binaural Spatial Audio Generation**|Lei Zhao et.al.|[2508.12918](http://arxiv.org/pdf/2508.12918.pdf)|null|
 |**2025-08-18**|**S^2-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models**|Chubin Chen et.al.|[2508.12880](http://arxiv.org/pdf/2508.12880.pdf)|null|
@@ -596,10 +596,10 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-18**|**Score-informed Neural Operator for Enhancing Ordering-based Causal Discovery**|Jiyeon Kang et.al.|[2508.12650](http://arxiv.org/pdf/2508.12650.pdf)|null|
 |**2025-08-18**|**Cognitive Structure Generation: From Educational Priors to Policy Optimization**|Hengnian Gu et.al.|[2508.12647](http://arxiv.org/pdf/2508.12647.pdf)|null|
 |**2025-08-18**|**ViLaD: A Large Vision Language Diffusion Framework for End-to-End Autonomous Driving**|Can Cui et.al.|[2508.12603](http://arxiv.org/pdf/2508.12603.pdf)|null|
-|**2025-08-18**|**A Tale of Two Sightlines: Comparison of Hydrocarbon Dust Absorption Bands toward Cygnus OB2-12 and the Galactic Center**|Yvonne J. Pendleton et.al.|[2508.12601](http://arxiv.org/pdf/2508.12601.pdf)|null|
+|**2025-08-19**|**A Tale of Two Sightlines: Comparison of Hydrocarbon Dust Absorption Bands toward Cygnus OB2-12 and the Galactic Center**|Yvonne J. Pendleton et.al.|[2508.12601](http://arxiv.org/pdf/2508.12601.pdf)|null|
 |**2025-08-17**|**Trust Region Constrained Measure Transport in Path Space for Stochastic Optimal Control and Inference**|Denis Blessing et.al.|[2508.12511](http://arxiv.org/pdf/2508.12511.pdf)|null|
 |**2025-08-17**|**Say It, See It: A Systematic Evaluation on Speech-Based 3D Content Generation Methods in Augmented Reality**|Yanming Xiu et.al.|[2508.12498](http://arxiv.org/pdf/2508.12498.pdf)|null|
-|**2025-08-17**|**Portable Laser-Pumped Rb Atomic Clock with Digital Circuits**|Qiang Hao et.al.|[2508.12437](http://arxiv.org/pdf/2508.12437.pdf)|null|
+|**2025-08-19**|**Portable Laser-Pumped Rb Atomic Clock with Digital Circuits**|Qiang Hao et.al.|[2508.12437](http://arxiv.org/pdf/2508.12437.pdf)|null|
 |**2025-08-17**|**Spin decoherence dynamics of Er $^{3+}$ in CeO$_2$ film**|Sagar Kumar Seth et.al.|[2508.12429](http://arxiv.org/pdf/2508.12429.pdf)|null|
 |**2025-08-17**|**TiP4GEN: Text to Immersive Panorama 4D Scene Generation**|Ke Xing et.al.|[2508.12415](http://arxiv.org/pdf/2508.12415.pdf)|null|
 |**2025-08-17**|**Where to Start Alignment? Diffusion Large Language Model May Demand a Distinct Position**|Zhixin Xie et.al.|[2508.12398](http://arxiv.org/pdf/2508.12398.pdf)|null|
@@ -627,7 +627,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-16**|**Bongard-RWR+: Real-World Representations of Fine-Grained Concepts in Bongard Problems**|Szymon Pawlonka et.al.|[2508.12026](http://arxiv.org/pdf/2508.12026.pdf)|null|
 |**2025-08-16**|**Virtual Trading in Multi-Settlement Electricity Markets**|Agostino Capponi et.al.|[2508.11979](http://arxiv.org/pdf/2508.11979.pdf)|null|
 |**2025-08-16**|**UniUGG: Unified 3D Understanding and Generation via Geometric-Semantic Encoding**|Yueming Xu et.al.|[2508.11952](http://arxiv.org/pdf/2508.11952.pdf)|null|
-|**2025-08-16**|**Assessment of Using Synthetic Data in Brain Tumor Segmentation**|Aditi Jahagirdar et.al.|[2508.11922](http://arxiv.org/pdf/2508.11922.pdf)|null|
+|**2025-08-19**|**Assessment of Using Synthetic Data in Brain Tumor Segmentation**|Aditi Jahagirdar et.al.|[2508.11922](http://arxiv.org/pdf/2508.11922.pdf)|null|
 |**2025-08-16**|**SafeCtrl: Region-Based Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress**|Lingyun Zhang et.al.|[2508.11904](http://arxiv.org/pdf/2508.11904.pdf)|null|
 |**2025-08-16**|**OmniD: Generalizable Robot Manipulation Policy via Image-Based BEV Representation**|Jilei Mao et.al.|[2508.11898](http://arxiv.org/pdf/2508.11898.pdf)|null|
 |**2025-08-16**|**Simulation of heavy quarkonium equilibration in the quark-gluon plasma**|Shouxing Zhao et.al.|[2508.11897](http://arxiv.org/pdf/2508.11897.pdf)|null|
@@ -1416,7 +1416,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/pdf/2507.20987.pdf)|null|
 |**2025-07-28**|**Adapting Vehicle Detectors for Aerial Imagery to Unseen Domains with Weak Supervision**|Xiao Fang et.al.|[2507.20976](http://arxiv.org/pdf/2507.20976.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250819>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250820>back to top</a>)</p>
 
 ## Industry
 
@@ -1666,7 +1666,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-04-19**|**M $^2$ BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation**|Enze Xie et.al.|[2204.05088](http://arxiv.org/pdf/2204.05088.pdf)|null|
 |**2022-04-06**|**AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis**|Zhiqin Chen et.al.|[2204.03105](http://arxiv.org/pdf/2204.03105.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250819>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250820>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -1872,14 +1872,14 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-14**|**RCG: Safety-Critical Scenario Generation for Robust Autonomous Driving via Real-World Crash Grounding**|Benjamin Stoler et.al.|[2507.10749](http://arxiv.org/pdf/2507.10749.pdf)|null|
 |**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/pdf/2507.10500.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250819>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250820>back to top</a>)</p>
 
 ## Traffic Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-08-18**|**BOW: Bayesian Optimization over Windows for Motion Planning in Complex Environments**|Sourav Raxit et.al.|[2508.13052](http://arxiv.org/pdf/2508.13052.pdf)|null|
-|**2025-08-18**|**On the complexity of constrained reconfiguration and motion planning**|Nicolas Bousquet et.al.|[2508.13032](http://arxiv.org/pdf/2508.13032.pdf)|null|
+|**2025-08-19**|**On the complexity of constrained reconfiguration and motion planning**|Nicolas Bousquet et.al.|[2508.13032](http://arxiv.org/pdf/2508.13032.pdf)|null|
 |**2025-08-18**|**SocialTrack: Multi-Object Tracking in Complex Urban Traffic Scenes Inspired by Social Behavior**|Wenguang Tao et.al.|[2508.12777](http://arxiv.org/pdf/2508.12777.pdf)|null|
 |**2025-08-17**|**Autonomous Oil Spill Response Through Liquid Neural Trajectory Modeling and Coordinated Marine Robotics**|Hadas C. Kuzmenko et.al.|[2508.12456](http://arxiv.org/pdf/2508.12456.pdf)|null|
 |**2025-08-17**|**EgoLoc: A Generalizable Solution for Temporal Interaction Localization in Egocentric Videos**|Junyi Ma et.al.|[2508.12349](http://arxiv.org/pdf/2508.12349.pdf)|null|
@@ -1920,7 +1920,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-04**|**X-Actor: Emotional and Expressive Long-Range Portrait Acting from Audio**|Chenxu Zhang et.al.|[2508.02944](http://arxiv.org/pdf/2508.02944.pdf)|null|
 |**2025-08-04**|**MIDAR: Mimicking LiDAR Detection for Traffic Applications with a Lightweight Plug-and-Play Model**|Tianheng Zhu et.al.|[2508.02858](http://arxiv.org/pdf/2508.02858.pdf)|null|
 |**2025-08-04**|**Text2Lip: Progressive Lip-Synced Talking Face Generation from Text via Viseme-Guided Rendering**|Xu Wang et.al.|[2508.02362](http://arxiv.org/pdf/2508.02362.pdf)|null|
-|**2025-08-04**|**Adaptive Lattice-based Motion Planning**|Abhishek Dhar et.al.|[2508.02350](http://arxiv.org/pdf/2508.02350.pdf)|null|
+|**2025-08-19**|**Adaptive Lattice-based Motion Planning**|Abhishek Dhar et.al.|[2508.02350](http://arxiv.org/pdf/2508.02350.pdf)|null|
 |**2025-08-04**|**Framework for Robust Motion Planning of Tethered Multi-Robot Systems in Marine Environments**|Markus Buchholz et.al.|[2508.02287](http://arxiv.org/pdf/2508.02287.pdf)|null|
 |**2025-08-04**|**AID4AD: Aerial Image Data for Automated Driving Perception**|Daniel Lengerer et.al.|[2508.02140](http://arxiv.org/pdf/2508.02140.pdf)|null|
 |**2025-08-03**|**Beyond Simulation: Benchmarking World Models for Planning and Causality in Autonomous Driving**|Hunter Schofield et.al.|[2508.01922](http://arxiv.org/pdf/2508.01922.pdf)|null|
@@ -2045,5 +2045,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-06-20**|**Judo: A User-Friendly Open-Source Package for Sampling-Based Model Predictive Control**|Albert H. Li et.al.|[2506.17184](http://arxiv.org/pdf/2506.17184.pdf)|null|
 |**2025-07-11**|**Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms**|Aditya Bhatt et.al.|[2506.16710](http://arxiv.org/pdf/2506.16710.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250819>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250820>back to top</a>)</p>
 
