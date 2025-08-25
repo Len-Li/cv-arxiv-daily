@@ -1,4 +1,4 @@
-Updated on 2025.08.24
+Updated on 2025.08.25
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -34,7 +34,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-20**|**Virtual Community: An Open World for Humans, Robots, and Society**|Qinhong Zhou et.al.|[2508.14893](http://arxiv.org/pdf/2508.14893.pdf)|null|
 |**2025-08-20**|**Snap-Snap: Taking Two Images to Reconstruct 3D Human Gaussians in Milliseconds**|Jia Lu et.al.|[2508.14892](http://arxiv.org/pdf/2508.14892.pdf)|null|
 |**2025-08-20**|**GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects**|Licheng Shen et.al.|[2508.14891](http://arxiv.org/pdf/2508.14891.pdf)|null|
-|**2025-08-20**|**MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds**|Bingquan Dai et.al.|[2508.14879](http://arxiv.org/pdf/2508.14879.pdf)|null|
+|**2025-08-22**|**MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds**|Bingquan Dai et.al.|[2508.14879](http://arxiv.org/pdf/2508.14879.pdf)|null|
 |**2025-08-20**|**Tinker: Diffusion's Gift to 3D--Multi-View Consistent Editing From Sparse Inputs without Per-Scene Optimization**|Canyu Zhao et.al.|[2508.14811](http://arxiv.org/pdf/2508.14811.pdf)|null|
 |**2025-08-20**|**Fusing Monocular RGB Images with AIS Data to Create a 6D Pose Estimation Dataset for Marine Vessels**|Fabian Holst et.al.|[2508.14767](http://arxiv.org/pdf/2508.14767.pdf)|null|
 |**2025-08-20**|**GSFix3D: Diffusion-Guided Repair of Novel Views in Gaussian Splatting**|Jiaxin Wei et.al.|[2508.14717](http://arxiv.org/pdf/2508.14717.pdf)|null|
@@ -78,7 +78,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-19**|**Unleashing Semantic and Geometric Priors for 3D Scene Completion**|Shiyuan Chen et.al.|[2508.13601](http://arxiv.org/pdf/2508.13601.pdf)|null|
 |**2025-08-19**|**The 9th AI City Challenge**|Zheng Tang et.al.|[2508.13564](http://arxiv.org/pdf/2508.13564.pdf)|null|
 |**2025-08-19**|**Learnable SMPLify: A Neural Solution for Optimization-Free Human Pose Inverse Kinematics**|Yuchen Yang et.al.|[2508.13562](http://arxiv.org/pdf/2508.13562.pdf)|null|
-|**2025-08-19**|**FLAIR: Frequency- and Locality-Aware Implicit Neural Representations**|Sukhun Ko et.al.|[2508.13544](http://arxiv.org/pdf/2508.13544.pdf)|null|
+|**2025-08-22**|**FLAIR: Frequency and Locality-Aware Implicit Neural Representations**|Sukhun Ko et.al.|[2508.13544](http://arxiv.org/pdf/2508.13544.pdf)|null|
 |**2025-08-19**|**EAvatar: Expression-Aware Head Avatar Reconstruction with Generative Geometry Priors**|Shikun Zhang et.al.|[2508.13537](http://arxiv.org/pdf/2508.13537.pdf)|null|
 |**2025-08-19**|**FAMNet: Integrating 2D and 3D Features for Micro-expression Recognition via Multi-task Learning and Hierarchical Attention**|Liangyu Fu et.al.|[2508.13483](http://arxiv.org/pdf/2508.13483.pdf)|null|
 |**2025-08-18**|**Susceptibility Distortion Correction of Diffusion MRI with a single Phase-Encoding Direction**|Sedigheh Dargahi et.al.|[2508.13340](http://arxiv.org/pdf/2508.13340.pdf)|null|
@@ -621,7 +621,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978](http://arxiv.org/pdf/2507.07978.pdf)|null|
 |**2025-07-10**|**RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection**|Yongyang Zhou et.al.|[2507.07733](http://arxiv.org/pdf/2507.07733.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250824>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250825>back to top</a>)</p>
 
 ## Diffusion
 
@@ -646,7 +646,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-21**|**Numerical Analysis of Unsupervised Learning Approaches for Parameter Identification in PDEs**|Siyu Cen et.al.|[2508.15381](http://arxiv.org/pdf/2508.15381.pdf)|null|
 |**2025-08-21**|**Diffusion-driven pattern formation in an opinion dynamical network model**|Tim Mauch et.al.|[2508.15377](http://arxiv.org/pdf/2508.15377.pdf)|null|
 |**2025-08-21**|**Performance Analysis of RIS-Aided High-Mobility Wireless Systems**|Hanwen Hu et.al.|[2508.15375](http://arxiv.org/pdf/2508.15375.pdf)|null|
-|**2025-08-21**|**Analytical Theory of Chiral Active Particle Transport in a Fluctuating Density Field**|Jayam Joshi et.al.|[2508.15366](http://arxiv.org/pdf/2508.15366.pdf)|null|
+|**2025-08-22**|**Analytical Theory of Chiral Active Particle Transport in a Fluctuating Density Field**|Jayam Joshi et.al.|[2508.15366](http://arxiv.org/pdf/2508.15366.pdf)|null|
 |**2025-08-21**|**The effect of multi-occupancy traps on the diffusion and retention of multiple hydrogen isotopes in irradiated tungsten and vanadium**|Sanjeet Kaur et.al.|[2508.15341](http://arxiv.org/pdf/2508.15341.pdf)|null|
 |**2025-08-21**|**Discovering correlations between metal foam thermal characteristics and non-Fourier behavior**|Anna Fehér et.al.|[2508.15340](http://arxiv.org/pdf/2508.15340.pdf)|null|
 |**2025-08-21**|**Interface fluctuations for $1$ D stochastic Allen-Cahn equation -- singular regime**|Weijun Xu et.al.|[2508.15319](http://arxiv.org/pdf/2508.15319.pdf)|null|
@@ -1632,7 +1632,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/pdf/2507.20987.pdf)|null|
 |**2025-07-28**|**Adapting Vehicle Detectors for Aerial Imagery to Unseen Domains with Weak Supervision**|Xiao Fang et.al.|[2507.20976](http://arxiv.org/pdf/2507.20976.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250824>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250825>back to top</a>)</p>
 
 ## Industry
 
@@ -1891,13 +1891,13 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-04-19**|**M $^2$ BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation**|Enze Xie et.al.|[2204.05088](http://arxiv.org/pdf/2204.05088.pdf)|null|
 |**2022-04-06**|**AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis**|Zhiqin Chen et.al.|[2204.03105](http://arxiv.org/pdf/2204.03105.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250824>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250825>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-08-21**|**MapKD: Unlocking Prior Knowledge with Cross-Modal Distillation for Efficient Online HD Map Construction**|Ziyang Yan et.al.|[2508.15653](http://arxiv.org/pdf/2508.15653.pdf)|null|
+|**2025-08-22**|**MapKD: Unlocking Prior Knowledge with Cross-Modal Distillation for Efficient Online HD Map Construction**|Ziyang Yan et.al.|[2508.15653](http://arxiv.org/pdf/2508.15653.pdf)|null|
 |**2025-08-21**|**ExtraGS: Geometric-Aware Trajectory Extrapolation with Uncertainty-Guided Generative Priors**|Kaiyuan Tan et.al.|[2508.15529](http://arxiv.org/pdf/2508.15529.pdf)|null|
 |**2025-08-21**|**RCDINO: Enhancing Radar-Camera 3D Object Detection with DINOv2 Semantic Features**|Olga Matykina et.al.|[2508.15353](http://arxiv.org/pdf/2508.15353.pdf)|null|
 |**2025-08-21**|**RATopo: Improving Lane Topology Reasoning via Redundancy Assignment**|Han Li et.al.|[2508.15272](http://arxiv.org/pdf/2508.15272.pdf)|null|
@@ -2114,7 +2114,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-14**|**RCG: Safety-Critical Scenario Generation for Robust Autonomous Driving via Real-World Crash Grounding**|Benjamin Stoler et.al.|[2507.10749](http://arxiv.org/pdf/2507.10749.pdf)|null|
 |**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/pdf/2507.10500.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250824>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250825>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -2292,5 +2292,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-06-20**|**Judo: A User-Friendly Open-Source Package for Sampling-Based Model Predictive Control**|Albert H. Li et.al.|[2506.17184](http://arxiv.org/pdf/2506.17184.pdf)|null|
 |**2025-07-11**|**Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms**|Aditya Bhatt et.al.|[2506.16710](http://arxiv.org/pdf/2506.16710.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250824>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250825>back to top</a>)</p>
 

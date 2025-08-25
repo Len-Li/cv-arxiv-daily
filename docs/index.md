@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.08.24
+Updated on 2025.08.25
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -37,7 +37,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-20**|**Virtual Community: An Open World for Humans, Robots, and Society**|Qinhong Zhou et.al.|[2508.14893](http://arxiv.org/pdf/2508.14893.pdf)|null|
 |**2025-08-20**|**Snap-Snap: Taking Two Images to Reconstruct 3D Human Gaussians in Milliseconds**|Jia Lu et.al.|[2508.14892](http://arxiv.org/pdf/2508.14892.pdf)|null|
 |**2025-08-20**|**GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects**|Licheng Shen et.al.|[2508.14891](http://arxiv.org/pdf/2508.14891.pdf)|null|
-|**2025-08-20**|**MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds**|Bingquan Dai et.al.|[2508.14879](http://arxiv.org/pdf/2508.14879.pdf)|null|
+|**2025-08-22**|**MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds**|Bingquan Dai et.al.|[2508.14879](http://arxiv.org/pdf/2508.14879.pdf)|null|
 |**2025-08-20**|**Tinker: Diffusion's Gift to 3D--Multi-View Consistent Editing From Sparse Inputs without Per-Scene Optimization**|Canyu Zhao et.al.|[2508.14811](http://arxiv.org/pdf/2508.14811.pdf)|null|
 |**2025-08-20**|**Fusing Monocular RGB Images with AIS Data to Create a 6D Pose Estimation Dataset for Marine Vessels**|Fabian Holst et.al.|[2508.14767](http://arxiv.org/pdf/2508.14767.pdf)|null|
 |**2025-08-20**|**GSFix3D: Diffusion-Guided Repair of Novel Views in Gaussian Splatting**|Jiaxin Wei et.al.|[2508.14717](http://arxiv.org/pdf/2508.14717.pdf)|null|
@@ -81,7 +81,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-19**|**Unleashing Semantic and Geometric Priors for 3D Scene Completion**|Shiyuan Chen et.al.|[2508.13601](http://arxiv.org/pdf/2508.13601.pdf)|null|
 |**2025-08-19**|**The 9th AI City Challenge**|Zheng Tang et.al.|[2508.13564](http://arxiv.org/pdf/2508.13564.pdf)|null|
 |**2025-08-19**|**Learnable SMPLify: A Neural Solution for Optimization-Free Human Pose Inverse Kinematics**|Yuchen Yang et.al.|[2508.13562](http://arxiv.org/pdf/2508.13562.pdf)|null|
-|**2025-08-19**|**FLAIR: Frequency- and Locality-Aware Implicit Neural Representations**|Sukhun Ko et.al.|[2508.13544](http://arxiv.org/pdf/2508.13544.pdf)|null|
+|**2025-08-22**|**FLAIR: Frequency and Locality-Aware Implicit Neural Representations**|Sukhun Ko et.al.|[2508.13544](http://arxiv.org/pdf/2508.13544.pdf)|null|
 |**2025-08-19**|**EAvatar: Expression-Aware Head Avatar Reconstruction with Generative Geometry Priors**|Shikun Zhang et.al.|[2508.13537](http://arxiv.org/pdf/2508.13537.pdf)|null|
 |**2025-08-19**|**FAMNet: Integrating 2D and 3D Features for Micro-expression Recognition via Multi-task Learning and Hierarchical Attention**|Liangyu Fu et.al.|[2508.13483](http://arxiv.org/pdf/2508.13483.pdf)|null|
 |**2025-08-18**|**Susceptibility Distortion Correction of Diffusion MRI with a single Phase-Encoding Direction**|Sedigheh Dargahi et.al.|[2508.13340](http://arxiv.org/pdf/2508.13340.pdf)|null|
@@ -647,7 +647,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-21**|**Numerical Analysis of Unsupervised Learning Approaches for Parameter Identification in PDEs**|Siyu Cen et.al.|[2508.15381](http://arxiv.org/pdf/2508.15381.pdf)|null|
 |**2025-08-21**|**Diffusion-driven pattern formation in an opinion dynamical network model**|Tim Mauch et.al.|[2508.15377](http://arxiv.org/pdf/2508.15377.pdf)|null|
 |**2025-08-21**|**Performance Analysis of RIS-Aided High-Mobility Wireless Systems**|Hanwen Hu et.al.|[2508.15375](http://arxiv.org/pdf/2508.15375.pdf)|null|
-|**2025-08-21**|**Analytical Theory of Chiral Active Particle Transport in a Fluctuating Density Field**|Jayam Joshi et.al.|[2508.15366](http://arxiv.org/pdf/2508.15366.pdf)|null|
+|**2025-08-22**|**Analytical Theory of Chiral Active Particle Transport in a Fluctuating Density Field**|Jayam Joshi et.al.|[2508.15366](http://arxiv.org/pdf/2508.15366.pdf)|null|
 |**2025-08-21**|**The effect of multi-occupancy traps on the diffusion and retention of multiple hydrogen isotopes in irradiated tungsten and vanadium**|Sanjeet Kaur et.al.|[2508.15341](http://arxiv.org/pdf/2508.15341.pdf)|null|
 |**2025-08-21**|**Discovering correlations between metal foam thermal characteristics and non-Fourier behavior**|Anna Fehér et.al.|[2508.15340](http://arxiv.org/pdf/2508.15340.pdf)|null|
 |**2025-08-21**|**Interface fluctuations for $1$ D stochastic Allen-Cahn equation -- singular regime**|Weijun Xu et.al.|[2508.15319](http://arxiv.org/pdf/2508.15319.pdf)|null|
@@ -1894,7 +1894,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-08-21**|**MapKD: Unlocking Prior Knowledge with Cross-Modal Distillation for Efficient Online HD Map Construction**|Ziyang Yan et.al.|[2508.15653](http://arxiv.org/pdf/2508.15653.pdf)|null|
+|**2025-08-22**|**MapKD: Unlocking Prior Knowledge with Cross-Modal Distillation for Efficient Online HD Map Construction**|Ziyang Yan et.al.|[2508.15653](http://arxiv.org/pdf/2508.15653.pdf)|null|
 |**2025-08-21**|**ExtraGS: Geometric-Aware Trajectory Extrapolation with Uncertainty-Guided Generative Priors**|Kaiyuan Tan et.al.|[2508.15529](http://arxiv.org/pdf/2508.15529.pdf)|null|
 |**2025-08-21**|**RCDINO: Enhancing Radar-Camera 3D Object Detection with DINOv2 Semantic Features**|Olga Matykina et.al.|[2508.15353](http://arxiv.org/pdf/2508.15353.pdf)|null|
 |**2025-08-21**|**RATopo: Improving Lane Topology Reasoning via Redundancy Assignment**|Han Li et.al.|[2508.15272](http://arxiv.org/pdf/2508.15272.pdf)|null|
