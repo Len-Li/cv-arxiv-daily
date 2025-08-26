@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.08.25
+Updated on 2025.08.26
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -109,7 +109,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-17**|**PreSem-Surf: RGB-D Surface Reconstruction with Progressive Semantic Modeling and SG-MLP Pre-Rendering Mechanism**|Yuyan Ye et.al.|[2508.13228](http://arxiv.org/pdf/2508.13228.pdf)|null|
 |**2025-08-18**|**4DNeX: Feed-Forward 4D Generative Modeling Made Easy**|Zhaoxi Chen et.al.|[2508.13154](http://arxiv.org/pdf/2508.13154.pdf)|null|
 |**2025-08-18**|**IGFuse: Interactive 3D Gaussian Scene Reconstruction via Multi-Scans Fusion**|Wenhao Hu et.al.|[2508.13153](http://arxiv.org/pdf/2508.13153.pdf)|null|
-|**2025-08-18**|**Odo: Depth-Guided Diffusion for Identity-Preserving Body Reshaping**|Siddharth Khandelwal et.al.|[2508.13065](http://arxiv.org/pdf/2508.13065.pdf)|null|
+|**2025-08-24**|**Odo: Depth-Guided Diffusion for Identity-Preserving Body Reshaping**|Siddharth Khandelwal et.al.|[2508.13065](http://arxiv.org/pdf/2508.13065.pdf)|null|
 |**2025-08-18**|**IntelliCap: Intelligent Guidance for Consistent View Sampling**|Ayaka Yasunaga et.al.|[2508.13043](http://arxiv.org/pdf/2508.13043.pdf)|null|
 |**2025-08-18**|**Multi-Phase Automated Segmentation of Dental Structures in CBCT Using a Lightweight Auto3DSeg and SegResNet Implementation**|Dominic LaBella et.al.|[2508.12962](http://arxiv.org/pdf/2508.12962.pdf)|null|
 |**2025-08-18**|**MaskSem: Semantic-Guided Masking for Learning 3D Hybrid High-Order Motion Representation**|Wei Wei et.al.|[2508.12948](http://arxiv.org/pdf/2508.12948.pdf)|null|
@@ -722,9 +722,9 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-21**|**MeSS: City Mesh-Guided Outdoor Scene Generation with Cross-View Consistent Diffusion**|Xuyang Chen et.al.|[2508.15169](http://arxiv.org/pdf/2508.15169.pdf)|null|
 |**2025-08-21**|**Zero-shot Volumetric CT Super-Resolution using 3D Gaussian Splatting with Upsampled 2D X-ray Projection Priors**|Jeonghyun Noh et.al.|[2508.15151](http://arxiv.org/pdf/2508.15151.pdf)|null|
 |**2025-08-21**|**Electron-Ion Equilibration in the Merging Galaxy Cluster Abell 665**|Christian Norseth et.al.|[2508.15138](http://arxiv.org/pdf/2508.15138.pdf)|null|
-|**2025-08-20**|**Side Effects of Erasing Concepts from Diffusion Models**|Shaswati Saha et.al.|[2508.15124](http://arxiv.org/pdf/2508.15124.pdf)|null|
+|**2025-08-24**|**Side Effects of Erasing Concepts from Diffusion Models**|Shaswati Saha et.al.|[2508.15124](http://arxiv.org/pdf/2508.15124.pdf)|null|
 |**2025-08-20**|**Microstructural and preliminary optical and microwave characterization of erbium doped CaMoO $_4$ thin films**|Ignas Masiulionis et.al.|[2508.15122](http://arxiv.org/pdf/2508.15122.pdf)|null|
-|**2025-08-20**|**CurveFlow: Curvature-Guided Flow Matching for Image Generation**|Yan Luo et.al.|[2508.15093](http://arxiv.org/pdf/2508.15093.pdf)|null|
+|**2025-08-24**|**CurveFlow: Curvature-Guided Flow Matching for Image Generation**|Yan Luo et.al.|[2508.15093](http://arxiv.org/pdf/2508.15093.pdf)|null|
 |**2025-08-20**|**Sampling by averaging: A multiscale approach to score estimation**|Paula Cordero-Encinar et.al.|[2508.15069](http://arxiv.org/pdf/2508.15069.pdf)|null|
 |**2025-08-20**|**Asymptotic analysis on narrow tubes: narrow escape problems and diffusion processes**|Wen-Tai Hsu et.al.|[2508.15060](http://arxiv.org/pdf/2508.15060.pdf)|null|
 |**2025-08-20**|**Correlating Particle Acceleration Rates with Plasma Conditions in Colliding Wind Binaries**|Gislaine B Cordeiro et.al.|[2508.15059](http://arxiv.org/pdf/2508.15059.pdf)|null|
@@ -1960,7 +1960,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-22**|**Seeing Clearly, Forgetting Deeply: Revisiting Fine-Tuned Video Generators for Driving Simulation**|Chun-Peng Chang et.al.|[2508.16512](http://arxiv.org/pdf/2508.16512.pdf)|null|
 |**2025-08-22**|**SAMFusion: Sensor-Adaptive Multimodal Fusion for 3D Object Detection in Adverse Weather**|Edoardo Palladin et.al.|[2508.16408](http://arxiv.org/pdf/2508.16408.pdf)|null|
 |**2025-08-22**|**MapKD: Unlocking Prior Knowledge with Cross-Modal Distillation for Efficient Online HD Map Construction**|Ziyang Yan et.al.|[2508.15653](http://arxiv.org/pdf/2508.15653.pdf)|null|
-|**2025-08-21**|**ExtraGS: Geometric-Aware Trajectory Extrapolation with Uncertainty-Guided Generative Priors**|Kaiyuan Tan et.al.|[2508.15529](http://arxiv.org/pdf/2508.15529.pdf)|null|
+|**2025-08-23**|**ExtraGS: Geometric-Aware Trajectory Extrapolation with Uncertainty-Guided Generative Priors**|Kaiyuan Tan et.al.|[2508.15529](http://arxiv.org/pdf/2508.15529.pdf)|null|
 |**2025-08-21**|**RCDINO: Enhancing Radar-Camera 3D Object Detection with DINOv2 Semantic Features**|Olga Matykina et.al.|[2508.15353](http://arxiv.org/pdf/2508.15353.pdf)|null|
 |**2025-08-21**|**RATopo: Improving Lane Topology Reasoning via Redundancy Assignment**|Han Li et.al.|[2508.15272](http://arxiv.org/pdf/2508.15272.pdf)|null|
 |**2025-08-21**|**Adversarial Agent Behavior Learning in Autonomous Driving Using Deep Reinforcement Learning**|Arjun Srinivasan et.al.|[2508.15207](http://arxiv.org/pdf/2508.15207.pdf)|null|
