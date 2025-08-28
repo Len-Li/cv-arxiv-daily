@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.08.27
+Updated on 2025.08.28
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -741,7 +741,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-26**|**Single-Photon Detection in Few-Layer NbSe $_2$ Superconducting Nanowires**|Lucio Zugliani et.al.|[2508.18843](http://arxiv.org/pdf/2508.18843.pdf)|null|
 |**2025-08-26**|**Quantum-Circuit-Based Visual Fractal Image Generation in Qiskit and Analytics**|Hillol Biswas et.al.|[2508.18835](http://arxiv.org/pdf/2508.18835.pdf)|null|
 |**2025-08-26**|**On the Application of Diffusion Models for Simultaneous Denoising and Dereverberation**|Adrian Meise et.al.|[2508.18833](http://arxiv.org/pdf/2508.18833.pdf)|null|
-|**2025-08-26**|**Asymptotic limit of a vector-valued Allen-Cahn equation for phase transition dynamics**|Dong Huan et.al.|[2508.18754](http://arxiv.org/pdf/2508.18754.pdf)|null|
+|**2025-08-26**|**Asymptotic limit of a vector-valued Allen-Cahn equation for phase transition dynamics**|Huan Dong et.al.|[2508.18754](http://arxiv.org/pdf/2508.18754.pdf)|null|
 |**2025-08-26**|**Joint Time-Position Statistics and Fisher Information in Drift-Diffusion Molecular Channels**|Yun-Feng Lo et.al.|[2508.18680](http://arxiv.org/pdf/2508.18680.pdf)|null|
 |**2025-08-26**|**ROSE: Remove Objects with Side Effects in Videos**|Chenxuan Miao et.al.|[2508.18633](http://arxiv.org/pdf/2508.18633.pdf)|null|
 |**2025-08-26**|**Wan-S2V: Audio-Driven Cinematic Video Generation**|Xin Gao et.al.|[2508.18621](http://arxiv.org/pdf/2508.18621.pdf)|null|
@@ -768,7 +768,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-25**|**Parallel Nodal Interior-Penalty Discontinuous Galerkin Methods for the Subsonic Compressible Navier-Stokes Equations: Applications to Vortical Flows and VIV Problems**|Spiros Zafeiris et.al.|[2508.17917](http://arxiv.org/pdf/2508.17917.pdf)|null|
 |**2025-08-25**|**Quasi-likelihood inference for SDE with mixed-effects observed at high frequency**|Maud Delattre et.al.|[2508.17910](http://arxiv.org/pdf/2508.17910.pdf)|null|
 |**2025-08-25**|**Local Well-Posedness of the Cahn-Hilliard-Biot System**|Helmut Abels et.al.|[2508.17893](http://arxiv.org/pdf/2508.17893.pdf)|null|
-|**2025-08-25**|**Vocoder-Projected Feature Discriminator**|Takuhiro Kaneko et.al.|[2508.17874](http://arxiv.org/pdf/2508.17874.pdf)|null|
+|**2025-08-27**|**Vocoder-Projected Feature Discriminator**|Takuhiro Kaneko et.al.|[2508.17874](http://arxiv.org/pdf/2508.17874.pdf)|null|
 |**2025-08-25**|**FasterVoiceGrad: Faster One-step Diffusion-Based Voice Conversion with Adversarial Diffusion Conversion Distillation**|Takuhiro Kaneko et.al.|[2508.17868](http://arxiv.org/pdf/2508.17868.pdf)|null|
 |**2025-08-25**|**Diffusion-Based Data Augmentation for Medical Image Segmentation**|Maham Nazir et.al.|[2508.17844](http://arxiv.org/pdf/2508.17844.pdf)|null|
 |**2025-08-25**|**Threshold Diffusions**|Lina Ji et.al.|[2508.17812](http://arxiv.org/pdf/2508.17812.pdf)|null|
@@ -780,7 +780,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-25**|**CATformer: Contrastive Adversarial Transformer for Image Super-Resolution**|Qinyi Tian et.al.|[2508.17708](http://arxiv.org/pdf/2508.17708.pdf)|null|
 |**2025-08-25**|**On the Edge of Memorization in Diffusion Models**|Sam Buchanan et.al.|[2508.17689](http://arxiv.org/pdf/2508.17689.pdf)|null|
 |**2025-08-25**|**Calculating the power spectrum in stochastic inflation by Monte Carlo simulation and least squares curve fitting**|Koichi Miyamoto et.al.|[2508.17654](http://arxiv.org/pdf/2508.17654.pdf)|null|
-|**2025-08-25**|**ControlEchoSynth: Boosting Ejection Fraction Estimation Models via Controlled Video Diffusion**|Nima Kondori et.al.|[2508.17631](http://arxiv.org/pdf/2508.17631.pdf)|null|
+|**2025-08-27**|**ControlEchoSynth: Boosting Ejection Fraction Estimation Models via Controlled Video Diffusion**|Nima Kondori et.al.|[2508.17631](http://arxiv.org/pdf/2508.17631.pdf)|null|
 |**2025-08-25**|**Effects of Near-Field Hydrodynamic Interactions on Bacterial Dynamics Near a Solid Surface**|Baopi Liu et.al.|[2508.17626](http://arxiv.org/pdf/2508.17626.pdf)|null|
 |**2025-08-25**|**Steering When Necessary: Flexible Steering Large Language Models with Backtracking**|Jinwei Gan et.al.|[2508.17621](http://arxiv.org/pdf/2508.17621.pdf)|null|
 |**2025-08-25**|**Preference Trajectory Modeling via Flow Matching for Sequential Recommendation**|Li Li et.al.|[2508.17618](http://arxiv.org/pdf/2508.17618.pdf)|null|
@@ -1904,7 +1904,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-17**|**GPU Acceleration for Faster Evolutionary Spatial Cyclic Game Systems**|Louie Sinadjan et.al.|[2508.16639](http://arxiv.org/pdf/2508.16639.pdf)|null|
 |**2025-08-22**|**GreenLLM: SLO-Aware Dynamic Frequency Scaling for Energy-Efficient LLM Serving**|Qunyou Liu et.al.|[2508.16449](http://arxiv.org/pdf/2508.16449.pdf)|null|
 |**2025-08-22**|**Audio2Face-3D: Audio-driven Realistic Facial Animation For Digital Avatars**|NVIDIA et.al.|[2508.16401](http://arxiv.org/pdf/2508.16401.pdf)|null|
-|**2025-08-22**|**Hybrid Classical-Quantum Supercomputing: A demonstration of a multi-user, multi-QPU and multi-GPU environment**|Mateusz Slysz et.al.|[2508.16297](http://arxiv.org/pdf/2508.16297.pdf)|null|
+|**2025-08-27**|**Hybrid Classical-Quantum Supercomputing: A demonstration of a multi-user, multi-QPU and multi-GPU environment**|Mateusz Slysz et.al.|[2508.16297](http://arxiv.org/pdf/2508.16297.pdf)|null|
 |**2025-08-22**|**Bare-Metal RISC-V + NVDLA SoC for Efficient Deep Learning Inference**|Vineet Kumar et.al.|[2508.16095](http://arxiv.org/pdf/2508.16095.pdf)|null|
 |**2025-08-22**|**A Unified Voxel Diffusion Module for Point Cloud 3D Object Detection**|Qifeng Liu et.al.|[2508.16069](http://arxiv.org/pdf/2508.16069.pdf)|null|
 |**2025-08-21**|**graph framework: A Domain Specific Compiler for Building Physics Applications**|M. Cianciosa et.al.|[2508.15967](http://arxiv.org/pdf/2508.15967.pdf)|null|
@@ -1939,7 +1939,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-11**|**TLV-HGNN: Thinking Like a Vertex for Memory-efficient HGNN Inference**|Dengke Han et.al.|[2508.07796](http://arxiv.org/pdf/2508.07796.pdf)|null|
 |**2025-08-10**|**An Experimental Exploration of In-Memory Computing for Multi-Layer Perceptrons**|Pedro Carrinho et.al.|[2508.07317](http://arxiv.org/pdf/2508.07317.pdf)|null|
 |**2025-08-09**|**The Fused Kernel Library: A C++ API to Develop Highly-Efficient GPU Libraries**|Oscar Amoros et.al.|[2508.07071](http://arxiv.org/pdf/2508.07071.pdf)|null|
-|**2025-08-09**|**From Imitation to Optimization: A Comparative Study of Offline Learning for Autonomous Driving**|Antonio Guillen-Perez et.al.|[2508.07029](http://arxiv.org/pdf/2508.07029.pdf)|null|
+|**2025-08-27**|**From Imitation to Optimization: A Comparative Study of Offline Learning for Autonomous Driving**|Antonio Guillen-Perez et.al.|[2508.07029](http://arxiv.org/pdf/2508.07029.pdf)|null|
 |**2025-08-09**|**A Portable Multi-GPU Solver for Collisional Plasmas with Coulombic Interactions**|James Almgren-Bell et.al.|[2508.06771](http://arxiv.org/pdf/2508.06771.pdf)|null|
 |**2025-08-02**|**PiKV: KV Cache Management System for Mixture of Experts**|Dong Liu et.al.|[2508.06526](http://arxiv.org/pdf/2508.06526.pdf)|null|
 |**2025-08-08**|**MeanAudio: Fast and Faithful Text-to-Audio Generation with Mean Flows**|Xiquan Li et.al.|[2508.06098](http://arxiv.org/pdf/2508.06098.pdf)|null|
@@ -2231,7 +2231,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-12**|**Decoupled Functional Evaluation of Autonomous Driving Models via Feature Map Quality Scoring**|Ludan Zhang et.al.|[2508.07552](http://arxiv.org/pdf/2508.07552.pdf)|null|
 |**2025-08-10**|**Noise-Aware Generative Microscopic Traffic Simulation**|Vindula Jayawardana et.al.|[2508.07453](http://arxiv.org/pdf/2508.07453.pdf)|null|
 |**2025-08-09**|**An Evolutionary Game-Theoretic Merging Decision-Making Considering Social Acceptance for Autonomous Driving**|Haolin Liu et.al.|[2508.07080](http://arxiv.org/pdf/2508.07080.pdf)|null|
-|**2025-08-09**|**From Imitation to Optimization: A Comparative Study of Offline Learning for Autonomous Driving**|Antonio Guillen-Perez et.al.|[2508.07029](http://arxiv.org/pdf/2508.07029.pdf)|null|
+|**2025-08-27**|**From Imitation to Optimization: A Comparative Study of Offline Learning for Autonomous Driving**|Antonio Guillen-Perez et.al.|[2508.07029](http://arxiv.org/pdf/2508.07029.pdf)|null|
 |**2025-08-09**|**WeatherDiffusion: Weather-Guided Diffusion Model for Forward and Inverse Rendering**|Yixin Zhu et.al.|[2508.06982](http://arxiv.org/pdf/2508.06982.pdf)|null|
 |**2025-08-08**|**Robust-Sub-Gaussian Model Predictive Control for Safe Ultrasound-Image-Guided Robotic Spinal Surgery**|Yunke Ao et.al.|[2508.06744](http://arxiv.org/pdf/2508.06744.pdf)|null|
 |**2025-08-15**|**IRL-VLA: Training an Vision-Language-Action Policy via Reward World Model**|Anqing Jiang et.al.|[2508.06571](http://arxiv.org/pdf/2508.06571.pdf)|null|
