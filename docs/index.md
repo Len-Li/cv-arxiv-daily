@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.08.31
+Updated on 2025.09.01
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -71,7 +71,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-26**|**ROSE: Remove Objects with Side Effects in Videos**|Chenxuan Miao et.al.|[2508.18633](http://arxiv.org/pdf/2508.18633.pdf)|null|
 |**2025-08-26**|**SemLayoutDiff: Semantic Layout Generation with Diffusion Model for Indoor Scene Synthesis**|Xiaohao Sun et.al.|[2508.18597](http://arxiv.org/pdf/2508.18597.pdf)|null|
 |**2025-08-25**|**Real-time 3D Visualization of Radiance Fields on Light Field Displays**|Jonghyun Kim et.al.|[2508.18540](http://arxiv.org/pdf/2508.18540.pdf)|null|
-|**2025-08-25**|**Adaptive Visual Navigation Assistant in 3D RPGs**|Kaijie Xu et.al.|[2508.18539](http://arxiv.org/pdf/2508.18539.pdf)|null|
+|**2025-08-29**|**Adaptive Visual Navigation Assistant in 3D RPGs**|Kaijie Xu et.al.|[2508.18539](http://arxiv.org/pdf/2508.18539.pdf)|null|
 |**2025-08-25**|**SAT-SKYLINES: 3D Building Generation from Satellite Imagery and Coarse Geometric Priors**|Zhangyu Jin et.al.|[2508.18531](http://arxiv.org/pdf/2508.18531.pdf)|null|
 |**2025-08-25**|**DoGFlow: Self-Supervised LiDAR Scene Flow via Cross-Modal Doppler Guidance**|Ajinkya Khoche et.al.|[2508.18506](http://arxiv.org/pdf/2508.18506.pdf)|null|
 |**2025-08-25**|**FastAvatar: Instant 3D Gaussian Splatting for Faces from Single Unconstrained Poses**|Hao Liang et.al.|[2508.18389](http://arxiv.org/pdf/2508.18389.pdf)|null|
@@ -777,7 +777,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-28**|**Unleashing Uncertainty: Efficient Machine Unlearning for Generative AI**|Christoforos N. Spartalis et.al.|[2508.20773](http://arxiv.org/pdf/2508.20773.pdf)|null|
 |**2025-08-28**|**Anomalous diffusion and run-and-tumble motion of a chemotactic particle in low dimensions**|Jacopo Romano et.al.|[2508.20756](http://arxiv.org/pdf/2508.20756.pdf)|null|
 |**2025-08-28**|**Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning**|Yibin Wang et.al.|[2508.20751](http://arxiv.org/pdf/2508.20751.pdf)|null|
-|**2025-08-28**|**A two-state generalisation of the strong collision model**|Ola Kenji Forslund et.al.|[2508.20727](http://arxiv.org/pdf/2508.20727.pdf)|null|
+|**2025-08-29**|**A two-state generalisation of the strong collision model**|Ola Kenji Forslund et.al.|[2508.20727](http://arxiv.org/pdf/2508.20727.pdf)|null|
 |**2025-08-28**|**EEGDM: Learning EEG Representation with Latent Diffusion Model**|Shaocong Wang et.al.|[2508.20705](http://arxiv.org/pdf/2508.20705.pdf)|null|
 |**2025-08-28**|**Agent-based model of information diffusion in the limit order book trading**|Mateusz Wilinski et.al.|[2508.20672](http://arxiv.org/pdf/2508.20672.pdf)|null|
 |**2025-08-28**|**"Humor, Art, or Misinformation?": A Multimodal Dataset for Intent-Aware Synthetic Image Detection**|Anastasios Skoularikis et.al.|[2508.20670](http://arxiv.org/pdf/2508.20670.pdf)|null|
