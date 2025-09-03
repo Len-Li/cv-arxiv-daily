@@ -1,4 +1,4 @@
-Updated on 2025.09.02
+Updated on 2025.09.03
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -757,7 +757,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978](http://arxiv.org/pdf/2507.07978.pdf)|null|
 |**2025-07-10**|**RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection**|Yongyang Zhou et.al.|[2507.07733](http://arxiv.org/pdf/2507.07733.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250902>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250903>back to top</a>)</p>
 
 ## Diffusion
 
@@ -2081,7 +2081,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/pdf/2507.20987.pdf)|null|
 |**2025-07-28**|**Adapting Vehicle Detectors for Aerial Imagery to Unseen Domains with Weak Supervision**|Xiao Fang et.al.|[2507.20976](http://arxiv.org/pdf/2507.20976.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250902>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250903>back to top</a>)</p>
 
 ## Industry
 
@@ -2102,7 +2102,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-24**|**MoE-Inference-Bench: Performance Evaluation of Mixture of Expert Large Language and Vision Models**|Krishna Teja Chitty-Venkata et.al.|[2508.17467](http://arxiv.org/pdf/2508.17467.pdf)|null|
 |**2025-08-23**|**DeltaFlow: An Efficient Multi-frame Scene Flow Estimation Method**|Qingwen Zhang et.al.|[2508.17054](http://arxiv.org/pdf/2508.17054.pdf)|null|
 |**2025-08-23**|**A Novel Local Focusing Mechanism for Deepfake Detection Generalization**|Mingliang Li et.al.|[2508.17029](http://arxiv.org/pdf/2508.17029.pdf)|null|
-|**2025-08-22**|**GPT-OSS-20B: A Comprehensive Deployment-Centric Analysis of OpenAI's Open-Weight Mixture of Experts Model**|Deepak Kumar et.al.|[2508.16700](http://arxiv.org/pdf/2508.16700.pdf)|null|
+|**2025-08-31**|**GPT-OSS-20B: A Comprehensive Deployment-Centric Analysis of OpenAI's Open-Weight Mixture of Experts Model**|Deepak Kumar et.al.|[2508.16700](http://arxiv.org/pdf/2508.16700.pdf)|null|
 |**2025-08-17**|**GPU Acceleration for Faster Evolutionary Spatial Cyclic Game Systems**|Louie Sinadjan et.al.|[2508.16639](http://arxiv.org/pdf/2508.16639.pdf)|null|
 |**2025-08-22**|**GreenLLM: SLO-Aware Dynamic Frequency Scaling for Energy-Efficient LLM Serving**|Qunyou Liu et.al.|[2508.16449](http://arxiv.org/pdf/2508.16449.pdf)|null|
 |**2025-08-22**|**Audio2Face-3D: Audio-driven Realistic Facial Animation For Digital Avatars**|NVIDIA et.al.|[2508.16401](http://arxiv.org/pdf/2508.16401.pdf)|null|
@@ -2364,7 +2364,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-04-19**|**M $^2$ BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation**|Enze Xie et.al.|[2204.05088](http://arxiv.org/pdf/2204.05088.pdf)|null|
 |**2022-04-06**|**AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis**|Zhiqin Chen et.al.|[2204.03105](http://arxiv.org/pdf/2204.03105.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250902>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250903>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -2613,7 +2613,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-14**|**RCG: Safety-Critical Scenario Generation for Robust Autonomous Driving via Real-World Crash Grounding**|Benjamin Stoler et.al.|[2507.10749](http://arxiv.org/pdf/2507.10749.pdf)|null|
 |**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/pdf/2507.10500.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250902>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250903>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -2647,7 +2647,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-20**|**Accelerating Signal-Temporal-Logic-Based Task and Motion Planning of Bipedal Navigation using Benders Decomposition**|Jiming Ren et.al.|[2508.13407](http://arxiv.org/pdf/2508.13407.pdf)|null|
 |**2025-08-18**|**BOW: Bayesian Optimization over Windows for Motion Planning in Complex Environments**|Sourav Raxit et.al.|[2508.13052](http://arxiv.org/pdf/2508.13052.pdf)|null|
 |**2025-08-28**|**On the complexity of constrained reconfiguration and motion planning**|Nicolas Bousquet et.al.|[2508.13032](http://arxiv.org/pdf/2508.13032.pdf)|null|
-|**2025-08-26**|**SocialTrack: Multi-Object Tracking in Complex Urban Traffic Scenes Inspired by Social Behavior**|Wenguang Tao et.al.|[2508.12777](http://arxiv.org/pdf/2508.12777.pdf)|null|
+|**2025-08-31**|**SocialTrack: Multi-Object Tracking in Complex Urban Traffic Scenes Inspired by Social Behavior**|Wenguang Tao et.al.|[2508.12777](http://arxiv.org/pdf/2508.12777.pdf)|null|
 |**2025-08-17**|**Autonomous Oil Spill Response Through Liquid Neural Trajectory Modeling and Coordinated Marine Robotics**|Hadas C. Kuzmenko et.al.|[2508.12456](http://arxiv.org/pdf/2508.12456.pdf)|null|
 |**2025-08-17**|**EgoLoc: A Generalizable Solution for Temporal Interaction Localization in Egocentric Videos**|Junyi Ma et.al.|[2508.12349](http://arxiv.org/pdf/2508.12349.pdf)|null|
 |**2025-08-15**|**A Comparative Study of Floating-Base Space Parameterizations for Agile Whole-Body Motion Planning**|Evangelos Tsiatsianas et.al.|[2508.11520](http://arxiv.org/pdf/2508.11520.pdf)|null|
@@ -2812,5 +2812,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-06-20**|**Judo: A User-Friendly Open-Source Package for Sampling-Based Model Predictive Control**|Albert H. Li et.al.|[2506.17184](http://arxiv.org/pdf/2506.17184.pdf)|null|
 |**2025-07-11**|**Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms**|Aditya Bhatt et.al.|[2506.16710](http://arxiv.org/pdf/2506.16710.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250902>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250903>back to top</a>)</p>
 
