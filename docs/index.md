@@ -94,7 +94,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-25**|**GSVisLoc: Generalizable Visual Localization for Gaussian Splatting Scene Representations**|Fadi Khatib et.al.|[2508.18242](http://arxiv.org/pdf/2508.18242.pdf)|null|
 |**2025-08-21**|**PriorFormer: A Transformer for Real-time Monocular 3D Human Pose Estimation with Versatile Geometric Priors**|Mohamed Adjel et.al.|[2508.18238](http://arxiv.org/pdf/2508.18238.pdf)|null|
 |**2025-08-25**|**Follow My Hold: Hand-Object Interaction Reconstruction through Geometric Guidance**|Ayce Idil Aytekin et.al.|[2508.18213](http://arxiv.org/pdf/2508.18213.pdf)|null|
-|**2025-08-25**|**EventTracer: Fast Path Tracing-based Event Stream Rendering**|Zhenyang Li et.al.|[2508.18071](http://arxiv.org/pdf/2508.18071.pdf)|null|
+|**2025-09-02**|**EventTracer: Fast Path Tracing-based Event Stream Rendering**|Zhenyang Li et.al.|[2508.18071](http://arxiv.org/pdf/2508.18071.pdf)|null|
 |**2025-08-25**|**Topology Aware Neural Interpolation of Scalar Fields**|Mohamed Kissi et.al.|[2508.17995](http://arxiv.org/pdf/2508.17995.pdf)|null|
 |**2025-08-25**|**SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization**|Junyuan Deng et.al.|[2508.17972](http://arxiv.org/pdf/2508.17972.pdf)|null|
 |**2025-08-25**|**A holistic perception system of internal and external monitoring for ground autonomous vehicles: AutoTRUST paradigm**|Alexandros Gkillas et.al.|[2508.17969](http://arxiv.org/pdf/2508.17969.pdf)|null|
@@ -112,7 +112,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-25**|**TinyGiantVLM: A Lightweight Vision-Language Architecture for Spatial Reasoning under Resource Constraints**|Vinh-Thuan Ly et.al.|[2508.17595](http://arxiv.org/pdf/2508.17595.pdf)|null|
 |**2025-08-25**|**IDU: Incremental Dynamic Update of Existing 3D Virtual Environments with New Imagery Data**|Meida Chen et.al.|[2508.17579](http://arxiv.org/pdf/2508.17579.pdf)|null|
 |**2025-08-24**|**Random-phase Gaussian Wave Splatting for Computer-generated Holography**|Brian Chao et.al.|[2508.17480](http://arxiv.org/pdf/2508.17480.pdf)|null|
-|**2025-08-24**|**Investigating Domain Gaps for Indoor 3D Object Detection**|Zijing Zhao et.al.|[2508.17439](http://arxiv.org/pdf/2508.17439.pdf)|null|
+|**2025-09-01**|**Investigating Domain Gaps for Indoor 3D Object Detection**|Zijing Zhao et.al.|[2508.17439](http://arxiv.org/pdf/2508.17439.pdf)|null|
 |**2025-08-20**|**Pixie: Fast and Generalizable Supervised Learning of 3D Physics from Pixels**|Long Le et.al.|[2508.17437](http://arxiv.org/pdf/2508.17437.pdf)|null|
 |**2025-08-24**|**MoCo: Motion-Consistent Human Video Generation via Structure-Appearance Decoupling**|Haoyu Wang et.al.|[2508.17404](http://arxiv.org/pdf/2508.17404.pdf)|null|
 |**2025-08-26**|**PersPose: 3D Human Pose Estimation with Perspective Encoding and Perspective Rotation**|Xiaoyang Hao et.al.|[2508.17239](http://arxiv.org/pdf/2508.17239.pdf)|null|
@@ -768,10 +768,10 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-29**|**Tree-Guided Diffusion Planner**|Hyeonseong Jeon et.al.|[2508.21800](http://arxiv.org/pdf/2508.21800.pdf)|null|
 |**2025-08-29**|**OptMark: Robust Multi-bit Diffusion Watermarking via Inference Time Optimization**|Jiazheng Xing et.al.|[2508.21727](http://arxiv.org/pdf/2508.21727.pdf)|null|
 |**2025-08-29**|**FLORA: Efficient Synthetic Data Generation for Object Detection in Low-Data Regimes via finetuning Flux LoRA**|Alvaro Patricio et.al.|[2508.21712](http://arxiv.org/pdf/2508.21712.pdf)|null|
-|**2025-08-29**|**Infinite-Dimensional Stochastic Differential Equations and Diffusion Dynamics of Coulomb Random Point Fields**|Hirofumi Osada et.al.|[2508.21658](http://arxiv.org/pdf/2508.21658.pdf)|null|
+|**2025-09-01**|**Infinite-Dimensional Stochastic Differential Equations and Diffusion Dynamics of Coulomb Random Point Fields**|Hirofumi Osada et.al.|[2508.21658](http://arxiv.org/pdf/2508.21658.pdf)|null|
 |**2025-08-29**|**Deciphering the gamma-ray emission in the Cygnus region**|L. Haerer et.al.|[2508.21644](http://arxiv.org/pdf/2508.21644.pdf)|null|
 |**2025-08-29**|**Conforming and discontinuous discretizations of non-isothermal Darcy-Forchheimer flows**|Stefano Bonetti et.al.|[2508.21630](http://arxiv.org/pdf/2508.21630.pdf)|null|
-|**2025-08-29**|**Approximate calculation of multidimensional first passage times**|James F. Lutsko et.al.|[2508.21607](http://arxiv.org/pdf/2508.21607.pdf)|null|
+|**2025-09-02**|**Approximate calculation of multidimensional first passage times**|James F. Lutsko et.al.|[2508.21607](http://arxiv.org/pdf/2508.21607.pdf)|null|
 |**2025-08-29**|**Condense to Conduct and Conduct to Condense**|Tomasz Kazana et.al.|[2508.21602](http://arxiv.org/pdf/2508.21602.pdf)|null|
 |**2025-08-29**|**Fluid dynamics of charm quarks from heavy to light-ion collisions**|Federica Capellino et.al.|[2508.21600](http://arxiv.org/pdf/2508.21600.pdf)|null|
 |**2025-08-29**|**OASIS: Harnessing Diffusion Adversarial Network for Ocean Salinity Imputation using Sparse Drifter Trajectories**|Bo Li et.al.|[2508.21570](http://arxiv.org/pdf/2508.21570.pdf)|null|
@@ -782,7 +782,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-29**|**Few-Shot Neuro-Symbolic Imitation Learning for Long-Horizon Planning and Acting**|Pierrick Lorang et.al.|[2508.21501](http://arxiv.org/pdf/2508.21501.pdf)|null|
 |**2025-08-29**|**Controllable 3D Molecular Generation for Structure-Based Drug Design Through Bayesian Flow Networks and Gradient Integration**|Seungyeon Choi et.al.|[2508.21468](http://arxiv.org/pdf/2508.21468.pdf)|null|
 |**2025-08-29**|**Diffusion-based Multi-modal Synergy Interest Network for Click-through Rate Prediction**|Xiaoxi Cui et.al.|[2508.21460](http://arxiv.org/pdf/2508.21460.pdf)|null|
-|**2025-08-29**|**Contrarian Motives in Social Learning: Information Cascades with Nonconformist Preferences**|Georgy Lukyanov et.al.|[2508.21446](http://arxiv.org/pdf/2508.21446.pdf)|null|
+|**2025-09-01**|**Contrarian Motives in Social Learning: Information Cascades with Nonconformist Preferences**|Georgy Lukyanov et.al.|[2508.21446](http://arxiv.org/pdf/2508.21446.pdf)|null|
 |**2025-08-29**|**Quantum enhanced ensemble GANs for anomaly detection in continuous biomanufacturing**|Rajiv Kailasanathan et.al.|[2508.21438](http://arxiv.org/pdf/2508.21438.pdf)|null|
 |**2025-08-29**|**MedShift: Implicit Conditional Transport for X-Ray Domain Adaptation**|Francisco Caetano et.al.|[2508.21435](http://arxiv.org/pdf/2508.21435.pdf)|null|
 |**2025-08-29**|**Global Hot Gas Excess in (U)LIRGs: Replicating Galactic Nuclei Scaling Relations between Diffuse X-ray Emission and Star Formation on Galaxy-Wide Scales**|Chunyi Zhang et.al.|[2508.21401](http://arxiv.org/pdf/2508.21401.pdf)|null|
@@ -848,7 +848,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-28**|**Run-and-tumble particle with diffusion: boundary local times and the zero-diffusion limit**|Paul C Bressloff et.al.|[2508.20473](http://arxiv.org/pdf/2508.20473.pdf)|null|
 |**2025-08-28**|**Realistic and Controllable 3D Gaussian-Guided Object Editing for Driving Video Generation**|Jiusi Li et.al.|[2508.20471](http://arxiv.org/pdf/2508.20471.pdf)|null|
 |**2025-08-28**|**Breaking Diffusion with Cache: Exploiting Approximate Caches in Diffusion Models**|Desen Sun et.al.|[2508.20424](http://arxiv.org/pdf/2508.20424.pdf)|null|
-|**2025-08-28**|**AWorld: Orchestrating the Training Recipe for Agentic AI**|Chengyue Yu et.al.|[2508.20404](http://arxiv.org/pdf/2508.20404.pdf)|null|
+|**2025-09-01**|**AWorld: Orchestrating the Training Recipe for Agentic AI**|Chengyue Yu et.al.|[2508.20404](http://arxiv.org/pdf/2508.20404.pdf)|null|
 |**2025-08-28**|**Mean Field Game with Reflected Jump Diffusion Dynamics: A Linear Programming Approach**|Zongxia Liang et.al.|[2508.20388](http://arxiv.org/pdf/2508.20388.pdf)|null|
 |**2025-08-28**|**Do triangles matter? Replicating hypergraph disease dynamics with lower-order interactions**|Eugene Tan et.al.|[2508.20380](http://arxiv.org/pdf/2508.20380.pdf)|null|
 |**2025-08-28**|**Audio-Guided Visual Editing with Complex Multi-Modal Prompts**|Hyeonyu Kim et.al.|[2508.20379](http://arxiv.org/pdf/2508.20379.pdf)|null|
@@ -2087,7 +2087,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-08-29**|**FLORA: Efficient Synthetic Data Generation for Object Detection in Low-Data Regimes via finetuning Flux LoRA**|Alvaro Patricio et.al.|[2508.21712](http://arxiv.org/pdf/2508.21712.pdf)|null|
-|**2025-08-29**|**$Δ$ -Motif: Subgraph Isomorphism at Scale via Data-Centric**|Yulun Wang et.al.|[2508.21287](http://arxiv.org/pdf/2508.21287.pdf)|null|
+|**2025-09-01**|**$Δ$ -Motif: Subgraph Isomorphism at Scale via Data-Centric Parallelism**|Yulun Wang et.al.|[2508.21287](http://arxiv.org/pdf/2508.21287.pdf)|null|
 |**2025-08-28**|**GPU-acceleration of the Discontinuous Galerkin Shallow Water Equations Solver (DG-SWEM) using CUDA and OpenACC**|Chayanon Wichitrnithed et.al.|[2508.21208](http://arxiv.org/pdf/2508.21208.pdf)|null|
 |**2025-08-28**|**Leveraging Generative Models for Real-Time Query-Driven Text Summarization in Large-Scale Web Search**|Zeyu Xiong et.al.|[2508.20559](http://arxiv.org/pdf/2508.20559.pdf)|null|
 |**2025-08-28**|**Realistic and Controllable 3D Gaussian-Guided Object Editing for Driving Video Generation**|Jiusi Li et.al.|[2508.20471](http://arxiv.org/pdf/2508.20471.pdf)|null|
@@ -2114,7 +2114,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-20**|**Snap-Snap: Taking Two Images to Reconstruct 3D Human Gaussians in Milliseconds**|Jia Lu et.al.|[2508.14892](http://arxiv.org/pdf/2508.14892.pdf)|null|
 |**2025-08-20**|**Leveraging Hardware-Aware Computation in Mixed-Precision Matrix Multiply: A Tile-Centric Approach**|Qiao Zhang et.al.|[2508.14848](http://arxiv.org/pdf/2508.14848.pdf)|null|
 |**2025-08-20**|**FakeHunter: Multimodal Step-by-Step Reasoning for Explainable Video Forensics**|Chen Chen et.al.|[2508.14581](http://arxiv.org/pdf/2508.14581.pdf)|null|
-|**2025-08-25**|**NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model**|NVIDIA et.al.|[2508.14444](http://arxiv.org/pdf/2508.14444.pdf)|null|
+|**2025-09-02**|**NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model**|NVIDIA et.al.|[2508.14444](http://arxiv.org/pdf/2508.14444.pdf)|null|
 |**2025-08-19**|**The 9th AI City Challenge**|Zheng Tang et.al.|[2508.13564](http://arxiv.org/pdf/2508.13564.pdf)|null|
 |**2025-08-18**|**Optimizing Allreduce Operations for Heterogeneous Architectures with Multiple Processes per GPU**|Michael Adams et.al.|[2508.13397](http://arxiv.org/pdf/2508.13397.pdf)|null|
 |**2025-08-18**|**X-MoE: Enabling Scalable Training for Emerging Mixture-of-Experts Architectures on HPC Platforms**|Yueming Yuan et.al.|[2508.13337](http://arxiv.org/pdf/2508.13337.pdf)|null|
@@ -2383,7 +2383,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-26**|**Interpretable Decision-Making for End-to-End Autonomous Driving**|Mona Mirzaie et.al.|[2508.18898](http://arxiv.org/pdf/2508.18898.pdf)|null|
 |**2025-08-26**|**EMind: A Foundation Model for Multi-task Electromagnetic Signals Understanding**|Luqing Luo et.al.|[2508.18785](http://arxiv.org/pdf/2508.18785.pdf)|null|
 |**2025-08-20**|**GM-Skip: Metric-Guided Transformer Block Skipping for Efficient Vision-Language Models**|Lianming Huang et.al.|[2508.18227](http://arxiv.org/pdf/2508.18227.pdf)|null|
-|**2025-08-25**|**EventTracer: Fast Path Tracing-based Event Stream Rendering**|Zhenyang Li et.al.|[2508.18071](http://arxiv.org/pdf/2508.18071.pdf)|null|
+|**2025-09-02**|**EventTracer: Fast Path Tracing-based Event Stream Rendering**|Zhenyang Li et.al.|[2508.18071](http://arxiv.org/pdf/2508.18071.pdf)|null|
 |**2025-08-25**|**Integration of Computer Vision with Adaptive Control for Autonomous Driving Using ADORE**|Abu Shad Ahammed et.al.|[2508.17985](http://arxiv.org/pdf/2508.17985.pdf)|null|
 |**2025-08-25**|**Enhanced Drift-Aware Computer Vision Architecture for Autonomous Driving**|Md Shahi Amran Hossain et.al.|[2508.17975](http://arxiv.org/pdf/2508.17975.pdf)|null|
 |**2025-08-25**|**Adaptive Output Steps: FlexiSteps Network for Dynamic Trajectory Prediction**|Yunxiang Liu et.al.|[2508.17797](http://arxiv.org/pdf/2508.17797.pdf)|null|
