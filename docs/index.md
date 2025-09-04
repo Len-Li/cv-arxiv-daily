@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.09.03
+Updated on 2025.09.04
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -2384,7 +2384,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-26**|**EMind: A Foundation Model for Multi-task Electromagnetic Signals Understanding**|Luqing Luo et.al.|[2508.18785](http://arxiv.org/pdf/2508.18785.pdf)|null|
 |**2025-08-20**|**GM-Skip: Metric-Guided Transformer Block Skipping for Efficient Vision-Language Models**|Lianming Huang et.al.|[2508.18227](http://arxiv.org/pdf/2508.18227.pdf)|null|
 |**2025-09-02**|**EventTracer: Fast Path Tracing-based Event Stream Rendering**|Zhenyang Li et.al.|[2508.18071](http://arxiv.org/pdf/2508.18071.pdf)|null|
-|**2025-08-25**|**Integration of Computer Vision with Adaptive Control for Autonomous Driving Using ADORE**|Abu Shad Ahammed et.al.|[2508.17985](http://arxiv.org/pdf/2508.17985.pdf)|null|
+|**2025-09-02**|**Integration of Computer Vision with Adaptive Control for Autonomous Driving Using ADORE**|Abu Shad Ahammed et.al.|[2508.17985](http://arxiv.org/pdf/2508.17985.pdf)|null|
 |**2025-08-25**|**Enhanced Drift-Aware Computer Vision Architecture for Autonomous Driving**|Md Shahi Amran Hossain et.al.|[2508.17975](http://arxiv.org/pdf/2508.17975.pdf)|null|
 |**2025-08-25**|**Adaptive Output Steps: FlexiSteps Network for Dynamic Trajectory Prediction**|Yunxiang Liu et.al.|[2508.17797](http://arxiv.org/pdf/2508.17797.pdf)|null|
 |**2025-08-23**|**A Rapid Iterative Trajectory Planning Method for Automated Parking through Differential Flatness**|Zhouheng Li et.al.|[2508.17038](http://arxiv.org/pdf/2508.17038.pdf)|null|
