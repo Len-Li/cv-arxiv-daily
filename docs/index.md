@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.09.04
+Updated on 2025.09.05
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -32,7 +32,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-02**|**Manipulation as in Simulation: Enabling Accurate Geometry Perception in Robots**|Minghuan Liu et.al.|[2509.02530](http://arxiv.org/pdf/2509.02530.pdf)|null|
 |**2025-09-02**|**Enhancing Fitness Movement Recognition with Attention Mechanism and Pre-Trained Feature Extractors**|Shanjid Hasan Nishat et.al.|[2509.02511](http://arxiv.org/pdf/2509.02511.pdf)|null|
 |**2025-09-02**|**Unifi3D: A Study on 3D Representations for Generation and Reconstruction in a Common Framework**|Nina Wiedemann et.al.|[2509.02474](http://arxiv.org/pdf/2509.02474.pdf)|null|
-|**2025-09-02**|**TeRA: Rethinking Text-driven Realistic 3D Avatar Generation**|Yanwen Wang et.al.|[2509.02466](http://arxiv.org/pdf/2509.02466.pdf)|null|
+|**2025-09-02**|**TeRA: Rethinking Text-guided Realistic 3D Avatar Generation**|Yanwen Wang et.al.|[2509.02466](http://arxiv.org/pdf/2509.02466.pdf)|null|
 |**2025-09-02**|**U-ARM : Ultra low-cost general teleoperation interface for robot manipulation**|Yanwen Zou et.al.|[2509.02437](http://arxiv.org/pdf/2509.02437.pdf)|null|
 |**2025-09-02**|**Decoupling Bidirectional Geometric Representations of 4D cost volume with 2D convolution**|Xiaobao Wei et.al.|[2509.02415](http://arxiv.org/pdf/2509.02415.pdf)|null|
 |**2025-09-02**|**Category-Aware 3D Object Composition with Disentangled Texture and Shape Multi-view Diffusion**|Zeren Xiong et.al.|[2509.02357](http://arxiv.org/pdf/2509.02357.pdf)|null|
@@ -869,7 +869,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-02**|**Double-faced white dwarfs and the magnetic inhibition of convection**|Sivan Ginzburg et.al.|[2509.02671](http://arxiv.org/pdf/2509.02671.pdf)|null|
 |**2025-09-02**|**Is RL fine-tuning harder than regression? A PDE learning approach for diffusion models**|Wenlong Mou et.al.|[2509.02528](http://arxiv.org/pdf/2509.02528.pdf)|null|
 |**2025-09-02**|**Unifi3D: A Study on 3D Representations for Generation and Reconstruction in a Common Framework**|Nina Wiedemann et.al.|[2509.02474](http://arxiv.org/pdf/2509.02474.pdf)|null|
-|**2025-09-02**|**TeRA: Rethinking Text-driven Realistic 3D Avatar Generation**|Yanwen Wang et.al.|[2509.02466](http://arxiv.org/pdf/2509.02466.pdf)|null|
+|**2025-09-02**|**TeRA: Rethinking Text-guided Realistic 3D Avatar Generation**|Yanwen Wang et.al.|[2509.02466](http://arxiv.org/pdf/2509.02466.pdf)|null|
 |**2025-09-02**|**Fractional differential equations: non-constant coefficients, simulation and model reduction**|Ruben Aylwin et.al.|[2509.02465](http://arxiv.org/pdf/2509.02465.pdf)|null|
 |**2025-09-02**|**GenCompositor: Generative Video Compositing with Diffusion Transformer**|Shuzhou Yang et.al.|[2509.02460](http://arxiv.org/pdf/2509.02460.pdf)|null|
 |**2025-09-02**|**Quantitative positivity of transition densities for random perturbations of Hamiltonian systems**|Shimaa Elesaely et.al.|[2509.02448](http://arxiv.org/pdf/2509.02448.pdf)|null|
@@ -907,7 +907,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-02**|**A Diffusion-Based Framework for Configurable and Realistic Multi-Storage Trace Generation**|Seohyun Kim et.al.|[2509.01919](http://arxiv.org/pdf/2509.01919.pdf)|null|
 |**2025-09-02**|**DroneSR: Rethinking Few-shot Thermal Image Super-Resolution from Drone-based Perspective**|Zhipeng Weng et.al.|[2509.01898](http://arxiv.org/pdf/2509.01898.pdf)|null|
 |**2025-09-02**|**Far-infrared probing with PRIMA into particle acceleration associated with relativistic jets from active galactic nuclei**|Naoki Isobe et.al.|[2509.01876](http://arxiv.org/pdf/2509.01876.pdf)|null|
-|**2025-09-02**|**RadioDiff-Loc: Diffusion Model Enhanced Scattering Congnition for NLoS Localization with Sparse Radio Map Estimation**|Xiucheng Wang et.al.|[2509.01875](http://arxiv.org/pdf/2509.01875.pdf)|null|
+|**2025-09-04**|**RadioDiff-Loc: Diffusion Model Enhanced Scattering Congnition for NLoS Localization with Sparse Radio Map Estimation**|Xiucheng Wang et.al.|[2509.01875](http://arxiv.org/pdf/2509.01875.pdf)|null|
 |**2025-09-02**|**Latent Gene Diffusion for Spatial Transcriptomics Completion**|Paula Cárdenas et.al.|[2509.01864](http://arxiv.org/pdf/2509.01864.pdf)|null|
 |**2025-09-02**|**Does the high-energy AMS-02 positron flux originate from the dark matter density spikes around nearby black holes?**|Man Ho Chan et.al.|[2509.01860](http://arxiv.org/pdf/2509.01860.pdf)|null|
 |**2025-09-01**|**PractiLight: Practical Light Control Using Foundational Diffusion Models**|Yotam Erel et.al.|[2509.01837](http://arxiv.org/pdf/2509.01837.pdf)|null|
@@ -2320,7 +2320,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-06**|**A Foundation Model for DAS Signal Recognition and Visual Prompt Tuning of the Pre-trained Model for Downstream Tasks**|Kun Gui et.al.|[2508.04316](http://arxiv.org/pdf/2508.04316.pdf)|null|
 |**2025-08-11**|**Industrial Robot Motion Planning with GPUs: Integration of cuRobo for Extended DOF Systems**|Luai Abuelsamen et.al.|[2508.04146](http://arxiv.org/pdf/2508.04146.pdf)|null|
 |**2025-08-05**|**La La LiDAR: Large-Scale Layout Generation from LiDAR Data**|Youquan Liu et.al.|[2508.03691](http://arxiv.org/pdf/2508.03691.pdf)|null|
-|**2025-08-05**|**Understanding the Landscape of Ampere GPU Memory Errors**|Zhu Zhu et.al.|[2508.03513](http://arxiv.org/pdf/2508.03513.pdf)|null|
+|**2025-09-04**|**Understanding the Landscape of Ampere GPU Memory Errors**|Zhu Zhu et.al.|[2508.03513](http://arxiv.org/pdf/2508.03513.pdf)|null|
 |**2025-08-05**|**Full-History Graphs with Edge-Type Decoupled Networks for Temporal Reasoning**|Osama Mohammed et.al.|[2508.03251](http://arxiv.org/pdf/2508.03251.pdf)|null|
 |**2025-08-04**|**MicroMix: Efficient Mixed-Precision Quantization with Microscaling Formats for Large Language Models**|Wenyuan Liu et.al.|[2508.02343](http://arxiv.org/pdf/2508.02343.pdf)|null|
 |**2025-08-04**|**Dream-to-Recon: Monocular 3D Reconstruction with Diffusion-Depth Distillation from Single Images**|Philipp Wulff et.al.|[2508.02323](http://arxiv.org/pdf/2508.02323.pdf)|null|
@@ -2820,7 +2820,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-29**|**Multi-Modal Model Predictive Path Integral Control for Collision Avoidance**|Alberto Bertipaglia et.al.|[2508.21364](http://arxiv.org/pdf/2508.21364.pdf)|null|
 |**2025-08-29**|**Learning to Assemble the Soma Cube with Legal-Action Masked DQN and Safe ZYZ Regrasp on a Doosan M0609**|Jaehong Oh et.al.|[2508.21272](http://arxiv.org/pdf/2508.21272.pdf)|null|
 |**2025-08-27**|**ScanMove: Motion Prediction and Transfer for Unregistered Body Meshes**|Thomas Besnier et.al.|[2508.21095](http://arxiv.org/pdf/2508.21095.pdf)|null|
-|**2025-08-28**|**HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning**|Zhi Su et.al.|[2508.21043](http://arxiv.org/pdf/2508.21043.pdf)|null|
+|**2025-09-04**|**HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning**|Zhi Su et.al.|[2508.21043](http://arxiv.org/pdf/2508.21043.pdf)|null|
 |**2025-08-28**|**Train-Once Plan-Anywhere Kinodynamic Motion Planning via Diffusion Trees**|Yaniv Hassidof et.al.|[2508.21001](http://arxiv.org/pdf/2508.21001.pdf)|null|
 |**2025-08-28**|**Deep Fuzzy Optimization for Batch-Size and Nearest Neighbors in Optimal Robot Motion Planning**|Liding Zhang et.al.|[2508.20884](http://arxiv.org/pdf/2508.20884.pdf)|null|
 |**2025-08-28**|**Uncertainty Aware-Predictive Control Barrier Functions: Safer Human Robot Interaction through Probabilistic Motion Forecasting**|Lorenzo Busellato et.al.|[2508.20812](http://arxiv.org/pdf/2508.20812.pdf)|null|
