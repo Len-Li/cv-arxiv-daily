@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.09.07
+Updated on 2025.09.08
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -870,7 +870,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-04**|**Electromechanical human heart modeling for predicting endocardial heart motion**|Milad Hasani et.al.|[2509.04024](http://arxiv.org/pdf/2509.04024.pdf)|null|
 |**2025-09-04**|**Divergence-Kernel method for linear responses and diffusion models**|Angxiu Ni et.al.|[2509.03992](http://arxiv.org/pdf/2509.03992.pdf)|null|
 |**2025-09-04**|**NeuroBreak: Unveil Internal Jailbreak Mechanisms in Large Language Models**|Chuhan Zhang et.al.|[2509.03985](http://arxiv.org/pdf/2509.03985.pdf)|null|
-|**2025-09-04**|**Improving Vessel Segmentation with Multi-Task Learning and Auxiliary Data Available Only During Model Training**|Daniel Sobotka et.al.|[2509.03975](http://arxiv.org/pdf/2509.03975.pdf)|null|
+|**2025-09-05**|**Improving Vessel Segmentation with Multi-Task Learning and Auxiliary Data Available Only During Model Training**|Daniel Sobotka et.al.|[2509.03975](http://arxiv.org/pdf/2509.03975.pdf)|null|
 |**2025-09-04**|**ANTS: Shaping the Adaptive Negative Textual Space by MLLM for OOD Detection**|Zhu Wenjie et.al.|[2509.03951](http://arxiv.org/pdf/2509.03951.pdf)|null|
 |**2025-09-04**|**Fluid boundary conditions in kinetic-diffusion Monte Carlo**|Thijs Steel et.al.|[2509.03942](http://arxiv.org/pdf/2509.03942.pdf)|null|
 |**2025-09-04**|**Thickness-dependent magnon spin transport in antiferromagnetic insulators: Crossover from quasi-three-dimensional to quasi-two-dimensional regimes**|Mathias Åsan Myhre et.al.|[2509.03941](http://arxiv.org/pdf/2509.03941.pdf)|null|
@@ -2624,7 +2624,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-01**|**PointSlice: Accurate and Efficient Slice-Based Representation for 3D Object Detection from Point Clouds**|Liu Qifeng et.al.|[2509.01487](http://arxiv.org/pdf/2509.01487.pdf)|null|
 |**2025-09-01**|**Guided Model-based LiDAR Super-Resolution for Resource-Efficient Automotive scene Segmentation**|Alexandros Gkillas et.al.|[2509.01317](http://arxiv.org/pdf/2509.01317.pdf)|null|
 |**2025-09-01**|**Toward a Holistic Multi-Criteria Trajectory Evaluation Framework for Autonomous Driving in Mixed Traffic Environment**|Nouhed Naidja et.al.|[2509.01291](http://arxiv.org/pdf/2509.01291.pdf)|null|
-|**2025-08-31**|**Enhanced Mean Field Game for Interactive Decision-Making with Varied Stylish Multi-Vehicles**|Liancheng Zheng et.al.|[2509.00981](http://arxiv.org/pdf/2509.00981.pdf)|null|
+|**2025-09-04**|**Enhanced Mean Field Game for Interactive Decision-Making with Varied Stylish Multi-Vehicles**|Liancheng Zheng et.al.|[2509.00981](http://arxiv.org/pdf/2509.00981.pdf)|null|
 |**2025-08-31**|**OmniReason: A Temporal-Guided Vision-Language-Action Framework for Autonomous Driving**|Pei Liu et.al.|[2509.00789](http://arxiv.org/pdf/2509.00789.pdf)|null|
 |**2025-08-30**|**Vehicle-in-Virtual-Environment (VVE) Method for Developing and Evaluating VRU Safety of Connected and Autonomous Driving with Focus on Bicyclist Safety**|Haochong Chen et.al.|[2509.00624](http://arxiv.org/pdf/2509.00624.pdf)|null|
 |**2025-08-30**|**Safe and Efficient Lane-Changing for Autonomous Vehicles: An Improved Double Quintic Polynomial Approach with Time-to-Collision Evaluation**|Rui Bai et.al.|[2509.00582](http://arxiv.org/pdf/2509.00582.pdf)|null|
@@ -2904,7 +2904,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-29**|**Learning to Assemble the Soma Cube with Legal-Action Masked DQN and Safe ZYZ Regrasp on a Doosan M0609**|Jaehong Oh et.al.|[2508.21272](http://arxiv.org/pdf/2508.21272.pdf)|null|
 |**2025-08-27**|**ScanMove: Motion Prediction and Transfer for Unregistered Body Meshes**|Thomas Besnier et.al.|[2508.21095](http://arxiv.org/pdf/2508.21095.pdf)|null|
 |**2025-09-04**|**HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning**|Zhi Su et.al.|[2508.21043](http://arxiv.org/pdf/2508.21043.pdf)|null|
-|**2025-08-28**|**Train-Once Plan-Anywhere Kinodynamic Motion Planning via Diffusion Trees**|Yaniv Hassidof et.al.|[2508.21001](http://arxiv.org/pdf/2508.21001.pdf)|null|
+|**2025-09-05**|**Train-Once Plan-Anywhere Kinodynamic Motion Planning via Diffusion Trees**|Yaniv Hassidof et.al.|[2508.21001](http://arxiv.org/pdf/2508.21001.pdf)|null|
 |**2025-08-28**|**Deep Fuzzy Optimization for Batch-Size and Nearest Neighbors in Optimal Robot Motion Planning**|Liding Zhang et.al.|[2508.20884](http://arxiv.org/pdf/2508.20884.pdf)|null|
 |**2025-08-28**|**Uncertainty Aware-Predictive Control Barrier Functions: Safer Human Robot Interaction through Probabilistic Motion Forecasting**|Lorenzo Busellato et.al.|[2508.20812](http://arxiv.org/pdf/2508.20812.pdf)|null|
 |**2025-08-28**|**CardioMorphNet: Cardiac Motion Prediction Using a Shape-Guided Bayesian Recurrent Deep Network**|Reza Akbari Movahed et.al.|[2508.20734](http://arxiv.org/pdf/2508.20734.pdf)|null|
