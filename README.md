@@ -1,4 +1,4 @@
-Updated on 2025.09.08
+Updated on 2025.09.09
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -843,7 +843,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978](http://arxiv.org/pdf/2507.07978.pdf)|null|
 |**2025-07-10**|**RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection**|Yongyang Zhou et.al.|[2507.07733](http://arxiv.org/pdf/2507.07733.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250908>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250909>back to top</a>)</p>
 
 ## Diffusion
 
@@ -937,8 +937,8 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-03**|**Effects of Bethe-Heitler pair production in ultraluminous X-ray sources**|Gustavo Esteban Romero et.al.|[2509.03735](http://arxiv.org/pdf/2509.03735.pdf)|null|
 |**2025-09-03**|**LuxDiT: Lighting Estimation with Video Diffusion Transformer**|Ruofan Liang et.al.|[2509.03680](http://arxiv.org/pdf/2509.03680.pdf)|null|
 |**2025-09-03**|**Applying a Gaussian networking theory to model motor-driven transport along cytoskeletal filaments**|Nadine du Toit et.al.|[2509.03671](http://arxiv.org/pdf/2509.03671.pdf)|null|
-|**2025-09-03**|**Efficient Virtuoso: A Latent Diffusion Transformer Model for Goal-Conditioned Trajectory Planning**|Antonio Guillen-Perez et.al.|[2509.03658](http://arxiv.org/pdf/2509.03658.pdf)|null|
-|**2025-09-03**|**NoiseNoise is All You Need: rethinking the value of noise on seismic denoising via diffusion models**|Donglin Zhu et.al.|[2509.03629](http://arxiv.org/pdf/2509.03629.pdf)|null|
+|**2025-09-06**|**Efficient Virtuoso: A Latent Diffusion Transformer Model for Goal-Conditioned Trajectory Planning**|Antonio Guillen-Perez et.al.|[2509.03658](http://arxiv.org/pdf/2509.03658.pdf)|null|
+|**2025-09-05**|**Noise is All You Need: rethinking the value of noise on seismic denoising via diffusion models**|Donglin Zhu et.al.|[2509.03629](http://arxiv.org/pdf/2509.03629.pdf)|null|
 |**2025-09-03**|**Statistical Analysis of PAHs as a Tracer of Anomalous Microwave Emission Using DIRBE Data**|Danielle Sponseller et.al.|[2509.03611](http://arxiv.org/pdf/2509.03611.pdf)|null|
 |**2025-09-03**|**Breaking Down the $\textsf{CosmoGEMS}$ : Toward Modeling and Understanding Globular Cluster Stellar Streams in a Fully Cosmological Context**|Nondh Panithanpaisal et.al.|[2509.03599](http://arxiv.org/pdf/2509.03599.pdf)|null|
 |**2025-09-02**|**Diffusion-RL Based Air Traffic Conflict Detection and Resolution Method**|Tonghe Li et.al.|[2509.03550](http://arxiv.org/pdf/2509.03550.pdf)|null|
@@ -2360,7 +2360,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/pdf/2507.20987.pdf)|null|
 |**2025-07-28**|**Adapting Vehicle Detectors for Aerial Imagery to Unseen Domains with Weak Supervision**|Xiao Fang et.al.|[2507.20976](http://arxiv.org/pdf/2507.20976.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250908>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250909>back to top</a>)</p>
 
 ## Industry
 
@@ -2371,7 +2371,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-04**|**A Highly Scalable TDMA for GPUs and Its Application to Flow Solver Optimization**|Seungchan Kim et.al.|[2509.03933](http://arxiv.org/pdf/2509.03933.pdf)|null|
 |**2025-09-04**|**Real-Time Buoyancy Estimation for AUV Simulations Using Convex Hull-Based Submerged Volume Calculation**|Ad-Deen Mahbub et.al.|[2509.03804](http://arxiv.org/pdf/2509.03804.pdf)|null|
 |**2025-09-03**|**LuxDiT: Lighting Estimation with Video Diffusion Transformer**|Ruofan Liang et.al.|[2509.03680](http://arxiv.org/pdf/2509.03680.pdf)|null|
-|**2025-09-03**|**Efficient Virtuoso: A Latent Diffusion Transformer Model for Goal-Conditioned Trajectory Planning**|Antonio Guillen-Perez et.al.|[2509.03658](http://arxiv.org/pdf/2509.03658.pdf)|null|
+|**2025-09-06**|**Efficient Virtuoso: A Latent Diffusion Transformer Model for Goal-Conditioned Trajectory Planning**|Antonio Guillen-Perez et.al.|[2509.03658](http://arxiv.org/pdf/2509.03658.pdf)|null|
 |**2025-09-03**|**Combining Performance and Productivity: Accelerating the Network Sensing Graph Challenge with GPUs and Commodity Data Science Software**|Siddharth Samsi et.al.|[2509.03653](http://arxiv.org/pdf/2509.03653.pdf)|null|
 |**2025-09-03**|**Can the Waymo Open Motion Dataset Support Realistic Behavioral Modeling? A Validation Study with Naturalistic Trajectories**|Yanlin Zhang et.al.|[2509.03515](http://arxiv.org/pdf/2509.03515.pdf)|null|
 |**2025-09-03**|**Harnessing Batched BLAS/LAPACK Kernels on GPUs for Parallel Solutions of Block Tridiagonal Systems**|David Jin et.al.|[2509.03015](http://arxiv.org/pdf/2509.03015.pdf)|null|
@@ -2435,7 +2435,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-11**|**Efficient Speculative Decoding for Llama at Scale: Challenges and Solutions**|Bangsheng Tang et.al.|[2508.08192](http://arxiv.org/pdf/2508.08192.pdf)|null|
 |**2025-08-11**|**TLV-HGNN: Thinking Like a Vertex for Memory-efficient HGNN Inference**|Dengke Han et.al.|[2508.07796](http://arxiv.org/pdf/2508.07796.pdf)|null|
 |**2025-08-10**|**An Experimental Exploration of In-Memory Computing for Multi-Layer Perceptrons**|Pedro Carrinho et.al.|[2508.07317](http://arxiv.org/pdf/2508.07317.pdf)|null|
-|**2025-08-09**|**The Fused Kernel Library: A C++ API to Develop Highly-Efficient GPU Libraries**|Oscar Amoros et.al.|[2508.07071](http://arxiv.org/pdf/2508.07071.pdf)|null|
+|**2025-09-06**|**The Fused Kernel Library: A C++ API to Develop Highly-Efficient GPU Libraries**|Oscar Amoros et.al.|[2508.07071](http://arxiv.org/pdf/2508.07071.pdf)|null|
 |**2025-08-27**|**From Imitation to Optimization: A Comparative Study of Offline Learning for Autonomous Driving**|Antonio Guillen-Perez et.al.|[2508.07029](http://arxiv.org/pdf/2508.07029.pdf)|null|
 |**2025-08-09**|**A Portable Multi-GPU Solver for Collisional Plasmas with Coulombic Interactions**|James Almgren-Bell et.al.|[2508.06771](http://arxiv.org/pdf/2508.06771.pdf)|null|
 |**2025-08-02**|**PiKV: KV Cache Management System for Mixture of Experts**|Dong Liu et.al.|[2508.06526](http://arxiv.org/pdf/2508.06526.pdf)|null|
@@ -2659,7 +2659,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-04-19**|**M $^2$ BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation**|Enze Xie et.al.|[2204.05088](http://arxiv.org/pdf/2204.05088.pdf)|null|
 |**2022-04-06**|**AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis**|Zhiqin Chen et.al.|[2204.03105](http://arxiv.org/pdf/2204.03105.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250908>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250909>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -2936,7 +2936,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-14**|**RCG: Safety-Critical Scenario Generation for Robust Autonomous Driving via Real-World Crash Grounding**|Benjamin Stoler et.al.|[2507.10749](http://arxiv.org/pdf/2507.10749.pdf)|null|
 |**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/pdf/2507.10500.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250908>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250909>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -2956,7 +2956,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-01**|**Metamorphic Testing of Multimodal Human Trajectory Prediction**|Helge Spieker et.al.|[2509.01294](http://arxiv.org/pdf/2509.01294.pdf)|null|
 |**2025-09-01**|**A Reactive Grasping Framework for Multi-DoF Grippers via Task Space Velocity Fields and Joint Space QP**|Yonghyeon Lee et.al.|[2509.01044](http://arxiv.org/pdf/2509.01044.pdf)|null|
 |**2025-08-31**|**One-Step Model Predictive Path Integral for Manipulator Motion Planning Using Configuration Space Distance Fields**|Yulin Li et.al.|[2509.00836](http://arxiv.org/pdf/2509.00836.pdf)|null|
-|**2025-08-31**|**An Effective Trajectory Planning and an Optimized Path Planning for a 6-Degree-of-Freedom Robot Manipulator**|Takumu Okazaki et.al.|[2509.00828](http://arxiv.org/pdf/2509.00828.pdf)|null|
+|**2025-09-06**|**An Effective Trajectory Planning and an Optimized Path Planning for a 6-Degree-of-Freedom Robot Manipulator**|Takumu Okazaki et.al.|[2509.00828](http://arxiv.org/pdf/2509.00828.pdf)|null|
 |**2025-08-30**|**Vehicle-in-Virtual-Environment (VVE) Method for Developing and Evaluating VRU Safety of Connected and Autonomous Driving with Focus on Bicyclist Safety**|Haochong Chen et.al.|[2509.00624](http://arxiv.org/pdf/2509.00624.pdf)|null|
 |**2025-08-30**|**NeuralSVCD for Efficient Swept Volume Collision Detection**|Dongwon Son et.al.|[2509.00499](http://arxiv.org/pdf/2509.00499.pdf)|null|
 |**2025-08-30**|**A Framework for Task and Motion Planning based on Expanding AND/OR Graphs**|Fulvio Mastrogiovanni et.al.|[2509.00317](http://arxiv.org/pdf/2509.00317.pdf)|null|
@@ -3154,5 +3154,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-06-20**|**Judo: A User-Friendly Open-Source Package for Sampling-Based Model Predictive Control**|Albert H. Li et.al.|[2506.17184](http://arxiv.org/pdf/2506.17184.pdf)|null|
 |**2025-07-11**|**Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms**|Aditya Bhatt et.al.|[2506.16710](http://arxiv.org/pdf/2506.16710.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250908>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250909>back to top</a>)</p>
 
