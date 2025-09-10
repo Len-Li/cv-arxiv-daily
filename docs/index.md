@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.09.09
+Updated on 2025.09.10
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -899,7 +899,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-08**|**Scaling Transformer-Based Novel View Synthesis Models with Token Disentanglement and Synthetic Data**|Nithin Gopalakrishnan Nair et.al.|[2509.06950](http://arxiv.org/pdf/2509.06950.pdf)|null|
 |**2025-09-08**|**Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models**|Yinjie Wang et.al.|[2509.06949](http://arxiv.org/pdf/2509.06949.pdf)|null|
-|**2025-09-08**|**Interleaving Reasoning for Better Text-to-Image Generation**|Wenxuan Huang et.al.|[2509.06945](http://arxiv.org/pdf/2509.06945.pdf)|null|
+|**2025-09-09**|**Interleaving Reasoning for Better Text-to-Image Generation**|Wenxuan Huang et.al.|[2509.06945](http://arxiv.org/pdf/2509.06945.pdf)|null|
 |**2025-09-08**|**Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human Preference**|Xiangwei Shen et.al.|[2509.06942](http://arxiv.org/pdf/2509.06942.pdf)|null|
 |**2025-09-08**|**LLaDA-VLA: Vision Language Diffusion Action Models**|Yuqing Wen et.al.|[2509.06932](http://arxiv.org/pdf/2509.06932.pdf)|null|
 |**2025-09-08**|**BIR-Adapter: A Low-Complexity Diffusion Model Adapter for Blind Image Restoration**|Cem Eteke et.al.|[2509.06904](http://arxiv.org/pdf/2509.06904.pdf)|null|
@@ -909,7 +909,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-08**|**A New Hybrid Model of Generative Adversarial Network and You Only Look Once Algorithm for Automatic License-Plate Recognition**|Behnoud Shafiezadeh et.al.|[2509.06868](http://arxiv.org/pdf/2509.06868.pdf)|null|
 |**2025-09-08**|**floq: Training Critics via Flow-Matching for Scaling Compute in Value-Based RL**|Bhavya Agrawalla et.al.|[2509.06863](http://arxiv.org/pdf/2509.06863.pdf)|null|
 |**2025-09-08**|**Stochastic modelling of cosmic-ray sources for Galactic diffuse emissions**|Anton Stall et.al.|[2509.06857](http://arxiv.org/pdf/2509.06857.pdf)|null|
-|**2025-09-08**|**CRISP - Compliant ROS2 Controllers for Learning-Based Manipulation Policies and Teleoperation**|Daniel San José Pro et.al.|[2509.06819](http://arxiv.org/pdf/2509.06819.pdf)|null|
+|**2025-09-08**|**CRISP -- Compliant ROS2 Controllers for Learning-Based Manipulation Policies and Teleoperation**|Daniel San José Pro et.al.|[2509.06819](http://arxiv.org/pdf/2509.06819.pdf)|null|
 |**2025-09-08**|**UMO: Scaling Multi-Identity Consistency for Image Customization via Matching Reward**|Yufeng Cheng et.al.|[2509.06818](http://arxiv.org/pdf/2509.06818.pdf)|null|
 |**2025-09-08**|**Large eddy simulations in astrophysics**|Wolfram Schmidt-Brückner et.al.|[2509.06801](http://arxiv.org/pdf/2509.06801.pdf)|null|
 |**2025-09-08**|**Image Encryption Scheme Based on Hyper-Chaotic Map and Self-Adaptive Diffusion**|Yiqi Tang et.al.|[2509.06754](http://arxiv.org/pdf/2509.06754.pdf)|null|
@@ -941,13 +941,13 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-07**|**If generative AI is the answer, what is the question?**|Ambuj Tewari et.al.|[2509.06120](http://arxiv.org/pdf/2509.06120.pdf)|null|
 |**2025-09-07**|**The Thermodynamic Limit of Extreme First-Passage Times**|Talia Baravi et.al.|[2509.06098](http://arxiv.org/pdf/2509.06098.pdf)|null|
 |**2025-09-07**|**Home-made Diffusion Model from Scratch to Hatch**|Shih-Ying Yeh et.al.|[2509.06068](http://arxiv.org/pdf/2509.06068.pdf)|null|
-|**2025-09-07**|**BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models**|Yuming Li et.al.|[2509.06040](http://arxiv.org/pdf/2509.06040.pdf)|null|
+|**2025-09-09**|**BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models**|Yuming Li et.al.|[2509.06040](http://arxiv.org/pdf/2509.06040.pdf)|null|
 |**2025-09-07**|**DreamAudio: Customized Text-to-Audio Generation with Diffusion Models**|Yi Yuan et.al.|[2509.06027](http://arxiv.org/pdf/2509.06027.pdf)|null|
 |**2025-09-07**|**The Gross-Pitaewsky equation with time and space dependent coefficients**|Federico Lai et.al.|[2509.06001](http://arxiv.org/pdf/2509.06001.pdf)|null|
 |**2025-09-07**|**Multi-Strategy Guided Diffusion via Sparse Masking Temporal Reweighting Distribution Correction**|Zekun Zhou et.al.|[2509.05992](http://arxiv.org/pdf/2509.05992.pdf)|null|
 |**2025-09-07**|**Simulation of Solar Surface Flux Transport Constrained by Magnetic Power Spectra. I. Flux Transport Parameter**|Yukun Luo et.al.|[2509.05989](http://arxiv.org/pdf/2509.05989.pdf)|null|
 |**2025-09-07**|**Imagining Alternatives: Towards High-Resolution 3D Counterfactual Medical Image Generation via Language Guidance**|Mohamed Mohamed et.al.|[2509.05978](http://arxiv.org/pdf/2509.05978.pdf)|null|
-|**2025-09-07**|**Coefficients-Preserving Sampling for Reinforcement Learning with Flow Matching**|Feng Wang et.al.|[2509.05952](http://arxiv.org/pdf/2509.05952.pdf)|null|
+|**2025-09-09**|**Coefficients-Preserving Sampling for Reinforcement Learning with Flow Matching**|Feng Wang et.al.|[2509.05952](http://arxiv.org/pdf/2509.05952.pdf)|null|
 |**2025-09-06**|**Transformer-based Topology Optimization**|Aaron Lutheran et.al.|[2509.05800](http://arxiv.org/pdf/2509.05800.pdf)|null|
 |**2025-09-06**|**Hybrid Fourier Neural Operator-Plasma Fluid Model for Fast and Accurate Multiscale Simulations of High Power Microwave Breakdown**|Kalp Pandya et.al.|[2509.05799](http://arxiv.org/pdf/2509.05799.pdf)|null|
 |**2025-09-06**|**Discrete-Time Quantum Random Walk for Epidemiological Modeling**|Sayan Manna et.al.|[2509.05795](http://arxiv.org/pdf/2509.05795.pdf)|null|
@@ -963,7 +963,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-05**|**Chemotaxis Models with Nonlinear/Porous Medium Diffusion, Consumption, and Logistic source on $\mathbb{R}^N$ : I. Global Solvability and Boundedness**|Zulaihat Hassan et.al.|[2509.05494](http://arxiv.org/pdf/2509.05494.pdf)|null|
 |**2025-09-05**|**From Image Generation to Infrastructure Design: a Multi-agent Pipeline for Street Design Generation**|Chenguang Wang et.al.|[2509.05469](http://arxiv.org/pdf/2509.05469.pdf)|null|
 |**2025-09-05**|**Newton to Einstein: Axiom-Based Discovery via Game Design**|Pingchuan Ma et.al.|[2509.05448](http://arxiv.org/pdf/2509.05448.pdf)|null|
-|**2025-09-05**|**The MeerKAT Galaxy Cluster Legacy Survey - II. Catalogue of the diffuse radio emission in MeerKAT-GCLS clusters**|Konstantinos Kolokythas et.al.|[2509.05442](http://arxiv.org/pdf/2509.05442.pdf)|null|
+|**2025-09-05**|**The MeerKAT Galaxy Cluster Legacy Survey -- II. Catalogue of the diffuse radio emission in MeerKAT-GCLS clusters**|Konstantinos Kolokythas et.al.|[2509.05442](http://arxiv.org/pdf/2509.05442.pdf)|null|
 |**2025-09-05**|**Diffusioosmosis of electrolyte solutions in uniformly charged channels**|Evgeny S. Asmolov et.al.|[2509.05387](http://arxiv.org/pdf/2509.05387.pdf)|null|
 |**2025-09-05**|**Spin-transport characteristics in a Si-based spin metal-oxide-semiconductor field-effect transistor (spin MOSFET): Bias dependence of the spin polarization in Si and magnetoresistance in spin-valve signals**|Shoichi Sato et.al.|[2509.05384](http://arxiv.org/pdf/2509.05384.pdf)|null|
 |**2025-09-05**|**Extreme Negative Polarisation of New Interstellar Comet 3I/ATLAS**|Zuri Gray et.al.|[2509.05181](http://arxiv.org/pdf/2509.05181.pdf)|null|
