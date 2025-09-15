@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.09.14
+Updated on 2025.09.15
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -24,7 +24,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-11**|**DualTrack: Sensorless 3D Ultrasound needs Local and Global Context**|Paul F. R. Wilson et.al.|[2509.09530](http://arxiv.org/pdf/2509.09530.pdf)|null|
 |**2025-09-11**|**SMapper: A Multi-Modal Data Acquisition Platform for SLAM Benchmarking**|Pedro Miguel Bastos Soares et.al.|[2509.09509](http://arxiv.org/pdf/2509.09509.pdf)|null|
 |**2025-09-11**|**Resource-Efficient Glioma Segmentation on Sub-Saharan MRI**|Freedmore Sidume et.al.|[2509.09469](http://arxiv.org/pdf/2509.09469.pdf)|null|
-|**2025-09-11**|**OmniEVA: Embodied Versatile Planner via Task-Adaptive 3D-Grounded and Embodiment-aware Reasoning**|Yuecheng Liu et.al.|[2509.09332](http://arxiv.org/pdf/2509.09332.pdf)|null|
+|**2025-09-12**|**OmniEVA: Embodied Versatile Planner via Task-Adaptive 3D-Grounded and Embodiment-aware Reasoning**|Yuecheng Liu et.al.|[2509.09332](http://arxiv.org/pdf/2509.09332.pdf)|null|
 |**2025-09-11**|**Unified Start, Personalized End: Progressive Pruning for Efficient 3D Medical Image Segmentation**|Linhao Li et.al.|[2509.09267](http://arxiv.org/pdf/2509.09267.pdf)|null|
 |**2025-09-11**|**Virtual staining for 3D X-ray histology of bone implants**|Sarah C. Irvine et.al.|[2509.09235](http://arxiv.org/pdf/2509.09235.pdf)|null|
 |**2025-09-11**|**Medverse: A Universal Model for Full-Resolution 3D Medical Image Segmentation, Transformation and Enhancement**|Jiesi Hu et.al.|[2509.09232](http://arxiv.org/pdf/2509.09232.pdf)|null|
@@ -91,7 +91,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-08**|**A Statistical 3D Stomach Shape Model for Anatomical Analysis**|Erez Posner et.al.|[2509.06464](http://arxiv.org/pdf/2509.06464.pdf)|null|
 |**2025-09-08**|**Cross3DReg: Towards a Large-scale Real-world Cross-source Point Cloud Registration Benchmark**|Zongyi Xu et.al.|[2509.06456](http://arxiv.org/pdf/2509.06456.pdf)|null|
 |**2025-09-08**|**Real-time Photorealistic Mapping for Situational Awareness in Robot Teleoperation**|Ian Page et.al.|[2509.06433](http://arxiv.org/pdf/2509.06433.pdf)|null|
-|**2025-09-08**|**Musculoskeletal simulation of limb movement biomechanics in Drosophila melanogaster**|Pembe Gizem Özdil et.al.|[2509.06426](http://arxiv.org/pdf/2509.06426.pdf)|null|
+|**2025-09-11**|**Musculoskeletal simulation of limb movement biomechanics in Drosophila melanogaster**|Pembe Gizem Özdil et.al.|[2509.06426](http://arxiv.org/pdf/2509.06426.pdf)|null|
 |**2025-09-08**|**3DOF+Quantization: 3DGS quantization for large scenes with limited Degrees of Freedom**|Matthieu Gendrin et.al.|[2509.06400](http://arxiv.org/pdf/2509.06400.pdf)|null|
 |**2025-09-08**|**Towards scalable organ level 3D plant segmentation: Bridging the data algorithm computing gap**|Ruiming Du et.al.|[2509.06329](http://arxiv.org/pdf/2509.06329.pdf)|null|
 |**2025-09-08**|**Spatial Reasoning with Vision-Language Models in Ego-Centric Multi-View Scenes**|Mohsen Gholami et.al.|[2509.06266](http://arxiv.org/pdf/2509.06266.pdf)|null|
@@ -957,7 +957,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-11**|**FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning Dataset and Comprehensive Benchmark**|Rongyao Fang et.al.|[2509.09680](http://arxiv.org/pdf/2509.09680.pdf)|null|
 |**2025-09-11**|**Locality in Image Diffusion Models Emerges from Data Statistics**|Artem Lukoianov et.al.|[2509.09672](http://arxiv.org/pdf/2509.09672.pdf)|null|
 |**2025-09-11**|**Geometric Neural Distance Fields for Learning Human Motion Priors**|Zhengdi Yu et.al.|[2509.09667](http://arxiv.org/pdf/2509.09667.pdf)|null|
-|**2025-09-11**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/pdf/2509.09631.pdf)|null|
+|**2025-09-12**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/pdf/2509.09631.pdf)|null|
 |**2025-09-11**|**I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection**|Zhenguang Liu et.al.|[2509.09630](http://arxiv.org/pdf/2509.09630.pdf)|null|
 |**2025-09-11**|**Mechanistic Learning with Guided Diffusion Models to Predict Spatio-Temporal Brain Tumor Growth**|Daria Laslo et.al.|[2509.09610](http://arxiv.org/pdf/2509.09610.pdf)|null|
 |**2025-09-11**|**Constraints on Ultra-heavy DM from TeV-PeV gamma-ray diffuse measurements**|Manuel Rocamora et.al.|[2509.09609](http://arxiv.org/pdf/2509.09609.pdf)|null|
