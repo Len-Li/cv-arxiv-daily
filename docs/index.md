@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.09.17
+Updated on 2025.09.18
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -36,7 +36,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-15**|**Artist-Created Mesh Generation from Raw Observation**|Yao He et.al.|[2509.12501](http://arxiv.org/pdf/2509.12501.pdf)|null|
 |**2025-09-15**|**Towards Foundational Models for Single-Chip Radar**|Tianshu Huang et.al.|[2509.12482](http://arxiv.org/pdf/2509.12482.pdf)|null|
 |**2025-09-15**|**Neural 3D Object Reconstruction with Small-Scale Unmanned Aerial Vehicles**|Àlmos Veres-Vitàlyos et.al.|[2509.12458](http://arxiv.org/pdf/2509.12458.pdf)|null|
-|**2025-09-15**|**Deep learning for 3D point cloud processing - from approaches, tasks to its implications on urban and environmental applications**|Zhenxin Zhang et.al.|[2509.12452](http://arxiv.org/pdf/2509.12452.pdf)|null|
+|**2025-09-15**|**Deep learning for 3D point cloud processing -- from approaches, tasks to its implications on urban and environmental applications**|Zhenxin Zhang et.al.|[2509.12452](http://arxiv.org/pdf/2509.12452.pdf)|null|
 |**2025-09-15**|**DYNAMO: Dependency-Aware Deep Learning Framework for Articulated Assembly Motion Prediction**|Mayank Patel et.al.|[2509.12430](http://arxiv.org/pdf/2509.12430.pdf)|null|
 |**2025-09-15**|**An integrated process for design and control of lunar robotics using AI and simulation**|Daniel Lindmark et.al.|[2509.12367](http://arxiv.org/pdf/2509.12367.pdf)|null|
 |**2025-09-15**|**3D Human Pose and Shape Estimation from LiDAR Point Clouds: A Review**|Salma Galaaoui et.al.|[2509.12197](http://arxiv.org/pdf/2509.12197.pdf)|null|
@@ -1036,15 +1036,15 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-16**|**Runaway electron interactions with whistler waves in tokamak plasmas: energy-dependent transport scaling**|Yashika Ghai et.al.|[2509.13271](http://arxiv.org/pdf/2509.13271.pdf)|null|
 |**2025-09-16**|**Beyond Private or Public: Large Language Models as Quasi-Public Goods in the AI Economy**|Yukun Zhang et.al.|[2509.13265](http://arxiv.org/pdf/2509.13265.pdf)|null|
 |**2025-09-16**|**Geometry, Energy and Sensitivity in Stochastic Proton Dynamics**|Veronika Chronholm et.al.|[2509.13223](http://arxiv.org/pdf/2509.13223.pdf)|null|
-|**2025-09-16**|**The Gamma Expansion of the Level Two Large Deviation Rate Functional for Reversible Diffusion Processes**|Claudio Landim et.al.|[2509.13222](http://arxiv.org/pdf/2509.13222.pdf)|null|
+|**2025-09-17**|**The Gamma Expansion of the Level Two Large Deviation Rate Functional for Reversible Diffusion Processes**|Claudio Landim et.al.|[2509.13222](http://arxiv.org/pdf/2509.13222.pdf)|null|
 |**2025-09-16**|**End4: End-to-end Denoising Diffusion for Diffusion-Based Inpainting Detection**|Fei Wang et.al.|[2509.13214](http://arxiv.org/pdf/2509.13214.pdf)|null|
 |**2025-09-16**|**Global existence and decay of small solutions in a viscous half Klein-Gordon equation**|Louis Garénaux et.al.|[2509.13188](http://arxiv.org/pdf/2509.13188.pdf)|null|
 |**2025-09-16**|**PDE-Based Bayesian Hierarchical Modeling for Event Spread, with Application to COVID-19 Infection**|Mengqi Cen et.al.|[2509.13174](http://arxiv.org/pdf/2509.13174.pdf)|null|
-|**2025-09-16**|**TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving**|Jiawei Wang et.al.|[2509.13164](http://arxiv.org/pdf/2509.13164.pdf)|null|
+|**2025-09-17**|**TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving**|Jiawei Wang et.al.|[2509.13164](http://arxiv.org/pdf/2509.13164.pdf)|null|
 |**2025-09-16**|**Enhancing Video Large Language Models with Structured Multi-Video Collaborative Reasoning (early version)**|Zhihao He et.al.|[2509.13161](http://arxiv.org/pdf/2509.13161.pdf)|null|
 |**2025-09-16**|**MSDNet: Efficient 4D Radar Super-Resolution via Multi-Stage Distillation**|Minqing Huang et.al.|[2509.13149](http://arxiv.org/pdf/2509.13149.pdf)|null|
 |**2025-09-16**|**Discovering Mathematical Equations with Diffusion Language Model**|Xiaoxu Han et.al.|[2509.13136](http://arxiv.org/pdf/2509.13136.pdf)|null|
-|**2025-09-16**|**Quantifying CO2 Distribution at the Air-Water Interface - Spatiotemporally Resolved Measurements Using Tunable Diode Laser Spectroscopy**|Dongfang Zhao et.al.|[2509.13113](http://arxiv.org/pdf/2509.13113.pdf)|null|
+|**2025-09-16**|**Quantifying CO2 Distribution at the Air-Water Interface -- Spatiotemporally Resolved Measurements Using Tunable Diode Laser Spectroscopy**|Dongfang Zhao et.al.|[2509.13113](http://arxiv.org/pdf/2509.13113.pdf)|null|
 |**2025-09-16**|**Quantitative 3D Morphology of Cellular H2/O2/N2 Flames on a Porous-Plug Burner: Spatially Resolved Measurements of Temperature and OH Radical**|Zeyu Yan et.al.|[2509.13106](http://arxiv.org/pdf/2509.13106.pdf)|null|
 |**2025-09-16**|**MIA-EPT: Membership Inference Attack via Error Prediction for Tabular Data**|Eyal German et.al.|[2509.13046](http://arxiv.org/pdf/2509.13046.pdf)|null|
 |**2025-09-16**|**ReTrack: Data Unlearning in Diffusion Models through Redirecting the Denoising Trajectory**|Qitan Shi et.al.|[2509.13007](http://arxiv.org/pdf/2509.13007.pdf)|null|
@@ -1060,7 +1060,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-16**|**Benchmarking thermostat algorithms in molecular dynamics simulations of a binary Lennard-Jones glass-former model**|Kumpei Shiraishi et.al.|[2509.12837](http://arxiv.org/pdf/2509.12837.pdf)|null|
 |**2025-09-16**|**Pressure dependent structure of neat liquid methanol, CH3OH: molecular dynamics simulations with various united atom type potentials**|Imre Bakó et.al.|[2509.12834](http://arxiv.org/pdf/2509.12834.pdf)|null|
 |**2025-09-16**|**A Lightweight Pipeline for Noisy Speech Voice Cloning and Accurate Lip Sync Synthesis**|Javeria Amir et.al.|[2509.12831](http://arxiv.org/pdf/2509.12831.pdf)|null|
-|**2025-09-16**|**DiffHash: Text-Guided Targeted Attack via Diffusion Models against Deep Hashing Image Retrieval**|Zechao Liu et.al.|[2509.12824](http://arxiv.org/pdf/2509.12824.pdf)|null|
+|**2025-09-17**|**DiffHash: Text-Guided Targeted Attack via Diffusion Models against Deep Hashing Image Retrieval**|Zechao Liu et.al.|[2509.12824](http://arxiv.org/pdf/2509.12824.pdf)|null|
 |**2025-09-16**|**A Pressure-Based Diffusion Model for Influence Maximization on Social Networks**|Curt Stutsman et.al.|[2509.12822](http://arxiv.org/pdf/2509.12822.pdf)|null|
 |**2025-09-16**|**A Statistical Benchmark for Diffusion Posterior Sampling Algorithms**|Martin Zach et.al.|[2509.12821](http://arxiv.org/pdf/2509.12821.pdf)|null|
 |**2025-09-16**|**Double Helix Diffusion for Cross-Domain Anomaly Image Generation**|Linchun Wu et.al.|[2509.12787](http://arxiv.org/pdf/2509.12787.pdf)|null|
@@ -1113,7 +1113,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-15**|**Modes of Mechanical Guidance of Adhesion-Independent Cell Migration**|Hanna Luise Gertack et.al.|[2509.11801](http://arxiv.org/pdf/2509.11801.pdf)|null|
 |**2025-09-15**|**Dense gas properties and star formation in M 82**|Fei Li et.al.|[2509.11770](http://arxiv.org/pdf/2509.11770.pdf)|null|
 |**2025-09-15**|**Igniting VLMs toward the Embodied Space**|Andy Zhai et.al.|[2509.11766](http://arxiv.org/pdf/2509.11766.pdf)|null|
-|**2025-09-15**|**Removal Attack and Defense on AI-generated Content Latent-based Watermarking**|De Zhang Lee et.al.|[2509.11745](http://arxiv.org/pdf/2509.11745.pdf)|null|
+|**2025-09-17**|**Removal Attack and Defense on AI-generated Content Latent-based Watermarking**|De Zhang Lee et.al.|[2509.11745](http://arxiv.org/pdf/2509.11745.pdf)|null|
 |**2025-09-15**|**DRAG: Data Reconstruction Attack using Guided Diffusion**|Wa-Kin Lei et.al.|[2509.11724](http://arxiv.org/pdf/2509.11724.pdf)|null|
 |**2025-09-15**|**Controlled growth of polar altermagnets via chemical vapor transport**|Hiraka Haruhiro et.al.|[2509.11716](http://arxiv.org/pdf/2509.11716.pdf)|null|
 |**2025-09-15**|**Lie symmetry analysis and similarity reductions for the tempered-fractional Keller Segel system**|Ghorbanali Haghighatdoost et.al.|[2509.11690](http://arxiv.org/pdf/2509.11690.pdf)|null|
@@ -3253,7 +3253,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-16**|**Road Obstacle Video Segmentation**|Shyam Nandan Rai et.al.|[2509.13181](http://arxiv.org/pdf/2509.13181.pdf)|null|
-|**2025-09-16**|**TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving**|Jiawei Wang et.al.|[2509.13164](http://arxiv.org/pdf/2509.13164.pdf)|null|
+|**2025-09-17**|**TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving**|Jiawei Wang et.al.|[2509.13164](http://arxiv.org/pdf/2509.13164.pdf)|null|
 |**2025-09-16**|**An Uncertainty-Weighted Decision Transformer for Navigation in Dense, Complex Driving Scenarios**|Zhihao Zhang et.al.|[2509.13132](http://arxiv.org/pdf/2509.13132.pdf)|null|
 |**2025-09-16**|**Weakly and Self-Supervised Class-Agnostic Motion Prediction for Autonomous Driving**|Ruibo Li et.al.|[2509.13116](http://arxiv.org/pdf/2509.13116.pdf)|null|
 |**2025-09-16**|**4DRadar-GS: Self-Supervised Dynamic Driving Scene Reconstruction with 4D Radar**|Xiao Tang et.al.|[2509.12931](http://arxiv.org/pdf/2509.12931.pdf)|null|
@@ -3261,13 +3261,13 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-16**|**Maps for Autonomous Driving: Full-process Survey and Frontiers**|Pengxin Chen et.al.|[2509.12632](http://arxiv.org/pdf/2509.12632.pdf)|null|
 |**2025-09-16**|**DisorientLiDAR: Physical Attacks on LiDAR-based Localization**|Yizhen Lao et.al.|[2509.12595](http://arxiv.org/pdf/2509.12595.pdf)|null|
 |**2025-08-26**|**UrgenGo: Urgency-Aware Transparent GPU Kernel Launching for Autonomous Driving**|Hanqi Zhu et.al.|[2509.12207](http://arxiv.org/pdf/2509.12207.pdf)|null|
-|**2025-09-15**|**Embodied Navigation Foundation Model**|Jiazhao Zhang et.al.|[2509.12129](http://arxiv.org/pdf/2509.12129.pdf)|null|
+|**2025-09-16**|**Embodied Navigation Foundation Model**|Jiazhao Zhang et.al.|[2509.12129](http://arxiv.org/pdf/2509.12129.pdf)|null|
 |**2025-09-15**|**Probabilistic Robustness Analysis in High Dimensional Space: Application to Semantic Segmentation Network**|Navid Hashemi et.al.|[2509.11838](http://arxiv.org/pdf/2509.11838.pdf)|null|
 |**2025-09-14**|**SAMP: Spatial Anchor-based Motion Policy for Collision-Aware Robotic Manipulators**|Kai Chen et.al.|[2509.11185](http://arxiv.org/pdf/2509.11185.pdf)|null|
 |**2025-09-14**|**SPHERE: Semantic-PHysical Engaged REpresentation for 3D Semantic Scene Completion**|Zhiwen Yang et.al.|[2509.11171](http://arxiv.org/pdf/2509.11171.pdf)|null|
 |**2025-09-13**|**Point-Plane Projections for Accurate LiDAR Semantic Segmentation in Small Data Scenarios**|Simone Mosco et.al.|[2509.10841](http://arxiv.org/pdf/2509.10841.pdf)|null|
 |**2025-09-11**|**Large Foundation Models for Trajectory Prediction in Autonomous Driving: A Comprehensive Survey**|Wei Dai et.al.|[2509.10570](http://arxiv.org/pdf/2509.10570.pdf)|null|
-|**2025-09-12**|**DECAMP: Towards Scene-Consistent Multi-Agent Motion Prediction with Disentangled Context-Aware Pre-Training**|Jianxin Shi et.al.|[2509.10426](http://arxiv.org/pdf/2509.10426.pdf)|null|
+|**2025-09-17**|**DECAMP: Towards Scene-Consistent Multi-Agent Motion Prediction with Disentangled Context-Aware Pre-Training**|Jianxin Shi et.al.|[2509.10426](http://arxiv.org/pdf/2509.10426.pdf)|null|
 |**2025-09-12**|**Multimodal SAM-adapter for Semantic Segmentation**|Iacopo Curti et.al.|[2509.10408](http://arxiv.org/pdf/2509.10408.pdf)|null|
 |**2025-09-12**|**CaR1: A Multi-Modal Baseline for BEV Vehicle Segmentation via Camera-Radar Fusion**|Santiago Montiel-Marín et.al.|[2509.10139](http://arxiv.org/pdf/2509.10139.pdf)|null|
 |**2025-09-12**|**BEVTraj: Map-Free End-to-End Trajectory Prediction in Bird's-Eye View with Deformable Attention and Sparse Goal Proposals**|Minsang Kong et.al.|[2509.10080](http://arxiv.org/pdf/2509.10080.pdf)|null|
@@ -3574,7 +3574,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-12**|**STL-Based Motion Planning and Uncertainty-Aware Risk Analysis for Human-Robot Collaboration with a Multi-Rotor Aerial Vehicle**|Giuseppe Silano et.al.|[2509.10692](http://arxiv.org/pdf/2509.10692.pdf)|null|
 |**2025-09-11**|**Large Foundation Models for Trajectory Prediction in Autonomous Driving: A Comprehensive Survey**|Wei Dai et.al.|[2509.10570](http://arxiv.org/pdf/2509.10570.pdf)|null|
 |**2025-09-12**|**Coordinated Motion Planning of a Wearable Multi-Limb System for Enhanced Human-Robot Interaction**|Chaerim Moon et.al.|[2509.10444](http://arxiv.org/pdf/2509.10444.pdf)|null|
-|**2025-09-12**|**DECAMP: Towards Scene-Consistent Multi-Agent Motion Prediction with Disentangled Context-Aware Pre-Training**|Jianxin Shi et.al.|[2509.10426](http://arxiv.org/pdf/2509.10426.pdf)|null|
+|**2025-09-17**|**DECAMP: Towards Scene-Consistent Multi-Agent Motion Prediction with Disentangled Context-Aware Pre-Training**|Jianxin Shi et.al.|[2509.10426](http://arxiv.org/pdf/2509.10426.pdf)|null|
 |**2025-09-12**|**HHI-Assist: A Dataset and Benchmark of Human-Human Interaction in Physical Assistance Scenario**|Saeed Saadatnejad et.al.|[2509.10096](http://arxiv.org/pdf/2509.10096.pdf)|null|
 |**2025-09-12**|**BEVTraj: Map-Free End-to-End Trajectory Prediction in Bird's-Eye View with Deformable Attention and Sparse Goal Proposals**|Minsang Kong et.al.|[2509.10080](http://arxiv.org/pdf/2509.10080.pdf)|null|
 |**2025-09-11**|**BagIt! An Adaptive Dual-Arm Manipulation of Fabric Bags for Object Bagging**|Peng Zhou et.al.|[2509.09484](http://arxiv.org/pdf/2509.09484.pdf)|null|
@@ -3604,7 +3604,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-01**|**MoTo: A Zero-shot Plug-in Interaction-aware Navigation for General Mobile Manipulation**|Zhenyu Wu et.al.|[2509.01658](http://arxiv.org/pdf/2509.01658.pdf)|null|
 |**2025-09-01**|**A Hybrid Input based Deep Reinforcement Learning for Lane Change Decision-Making of Autonomous Vehicle**|Ziteng Gao et.al.|[2509.01611](http://arxiv.org/pdf/2509.01611.pdf)|null|
 |**2025-09-01**|**Metamorphic Testing of Multimodal Human Trajectory Prediction**|Helge Spieker et.al.|[2509.01294](http://arxiv.org/pdf/2509.01294.pdf)|null|
-|**2025-09-01**|**A Reactive Grasping Framework for Multi-DoF Grippers via Task Space Velocity Fields and Joint Space QP**|Yonghyeon Lee et.al.|[2509.01044](http://arxiv.org/pdf/2509.01044.pdf)|null|
+|**2025-09-17**|**Hierarchical Reactive Grasping via Task-Space Velocity Fields and Joint-Space Quadratic Programming**|Yonghyeon Lee et.al.|[2509.01044](http://arxiv.org/pdf/2509.01044.pdf)|null|
 |**2025-08-31**|**One-Step Model Predictive Path Integral for Manipulator Motion Planning Using Configuration Space Distance Fields**|Yulin Li et.al.|[2509.00836](http://arxiv.org/pdf/2509.00836.pdf)|null|
 |**2025-09-06**|**An Effective Trajectory Planning and an Optimized Path Planning for a 6-Degree-of-Freedom Robot Manipulator**|Takumu Okazaki et.al.|[2509.00828](http://arxiv.org/pdf/2509.00828.pdf)|null|
 |**2025-08-30**|**Vehicle-in-Virtual-Environment (VVE) Method for Developing and Evaluating VRU Safety of Connected and Autonomous Driving with Focus on Bicyclist Safety**|Haochong Chen et.al.|[2509.00624](http://arxiv.org/pdf/2509.00624.pdf)|null|
@@ -3627,7 +3627,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-27**|**Tree-Based Grafting Approach for Bidirectional Motion Planning with Local Subsets Optimization**|Liding Zhang et.al.|[2508.19776](http://arxiv.org/pdf/2508.19776.pdf)|null|
 |**2025-08-27**|**Elliptical K-Nearest Neighbors -- Path Optimization via Coulomb's Law and Invalid Vertices in C-space Obstacles**|Liding Zhang et.al.|[2508.19771](http://arxiv.org/pdf/2508.19771.pdf)|null|
 |**2025-08-27**|**Autonomous Aerial Manipulation at Arbitrary Pose in SE(3) with Robust Control and Whole-body Planning**|Dongjae Lee et.al.|[2508.19608](http://arxiv.org/pdf/2508.19608.pdf)|null|
-|**2025-08-25**|**Mining the Long Tail: A Comparative Study of Data-Centric Criticality Metrics for Robust Offline Reinforcement Learning in Autonomous Motion Planning**|Antonio Guillen-Perez et.al.|[2508.18397](http://arxiv.org/pdf/2508.18397.pdf)|null|
+|**2025-09-16**|**Mining the Long Tail: A Comparative Study of Data-Centric Criticality Metrics for Robust Offline Reinforcement Learning in Autonomous Motion Planning**|Antonio Guillen-Perez et.al.|[2508.18397](http://arxiv.org/pdf/2508.18397.pdf)|null|
 |**2025-08-26**|**FlowVLA: Thinking in Motion with a Visual Chain of Thought**|Zhide Zhong et.al.|[2508.18269](http://arxiv.org/pdf/2508.18269.pdf)|null|
 |**2025-08-25**|**Adaptive Output Steps: FlexiSteps Network for Dynamic Trajectory Prediction**|Yunxiang Liu et.al.|[2508.17797](http://arxiv.org/pdf/2508.17797.pdf)|null|
 |**2025-08-23**|**LLM-based Human-like Traffic Simulation for Self-driving Tests**|Wendi Li et.al.|[2508.16962](http://arxiv.org/pdf/2508.16962.pdf)|null|
