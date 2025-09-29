@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.09.28
+Updated on 2025.09.29
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -32,7 +32,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-25**|**ARMesh: Autoregressive Mesh Generation via Next-Level-of-Detail Prediction**|Jiabao Lei et.al.|[2509.20824](http://arxiv.org/pdf/2509.20824.pdf)|null|
 |**2025-09-25**|**MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM**|Yuxuan Zhou et.al.|[2509.20757](http://arxiv.org/pdf/2509.20757.pdf)|null|
 |**2025-09-25**|**FreeInsert: Personalized Object Insertion with Geometric and Style Control**|Yuhong Zhang et.al.|[2509.20756](http://arxiv.org/pdf/2509.20756.pdf)|null|
-|**2025-09-25**|**SeamCrafte: Enhancing Mesh Seam Generation for Artist UV Unwrapping via Reinforcement Learning**|Duoteng Xu et.al.|[2509.20725](http://arxiv.org/pdf/2509.20725.pdf)|null|
+|**2025-09-26**|**SeamCrafter: Enhancing Mesh Seam Generation for Artist UV Unwrapping via Reinforcement Learning**|Duoteng Xu et.al.|[2509.20725](http://arxiv.org/pdf/2509.20725.pdf)|null|
 |**2025-09-24**|**Reflect3r: Single-View 3D Stereo Reconstruction Aided by Mirror Reflections**|Jing Wu et.al.|[2509.20607](http://arxiv.org/pdf/2509.20607.pdf)|null|
 |**2025-09-24**|**Large Pre-Trained Models for Bimanual Manipulation in 3D**|Hanna Yurchyk et.al.|[2509.20579](http://arxiv.org/pdf/2509.20579.pdf)|null|
 |**2025-09-24**|**MELEGROS: Monolithic Elephant-inspired Gripper with Optical Sensors**|Petr Trunin et.al.|[2509.20510](http://arxiv.org/pdf/2509.20510.pdf)|null|
@@ -40,7 +40,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-23**|**SGAligner++: Cross-Modal Language-Aided 3D Scene Graph Alignment**|Binod Singh et.al.|[2509.20401](http://arxiv.org/pdf/2509.20401.pdf)|null|
 |**2025-09-23**|**SeHDR: Single-Exposure HDR Novel View Synthesis via 3D Gaussian Bracketing**|Yiyu Li et.al.|[2509.20400](http://arxiv.org/pdf/2509.20400.pdf)|null|
 |**2025-09-24**|**PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation**|Chen Wang et.al.|[2509.20358](http://arxiv.org/pdf/2509.20358.pdf)|null|
-|**2025-09-24**|**mindmap: Spatial Memory in Deep Feature Maps for 3D Action Policies**|Remo Steiner et.al.|[2509.20297](http://arxiv.org/pdf/2509.20297.pdf)|null|
+|**2025-09-26**|**mindmap: Spatial Memory in Deep Feature Maps for 3D Action Policies**|Remo Steiner et.al.|[2509.20297](http://arxiv.org/pdf/2509.20297.pdf)|null|
 |**2025-09-24**|**4D Driving Scene Generation With Stereo Forcing**|Hao Lu et.al.|[2509.20251](http://arxiv.org/pdf/2509.20251.pdf)|null|
 |**2025-09-24**|**An Anisotropic Cross-View Texture Transfer with Multi-Reference Non-Local Attention for CT Slice Interpolation**|Kwang-Hyun Uhm et.al.|[2509.20242](http://arxiv.org/pdf/2509.20242.pdf)|null|
 |**2025-09-24**|**PU-Gaussian: Point Cloud Upsampling using 3D Gaussian Representation**|Mahmoud Khater et.al.|[2509.20207](http://arxiv.org/pdf/2509.20207.pdf)|null|
@@ -1239,7 +1239,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-25**|**Two ADI compact difference methods for variable-exponent diffusion wave equations**|Hao Zhang et.al.|[2509.21316](http://arxiv.org/pdf/2509.21316.pdf)|null|
 |**2025-09-25**|**NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics**|Yu Yuan et.al.|[2509.21309](http://arxiv.org/pdf/2509.21309.pdf)|null|
 |**2025-09-25**|**Einstein@Home Searches for Gamma-ray Pulsars in the Inner Galaxy**|C. J. Clark et.al.|[2509.21307](http://arxiv.org/pdf/2509.21307.pdf)|null|
-|**2025-09-25**|**Outflow-cloud interaction as the possible origin of the peculiar radio emission in the tidal disruption event AT2018cqh**|Lei Yang et.al.|[2509.21299](http://arxiv.org/pdf/2509.21299.pdf)|null|
+|**2025-09-26**|**Outflow-cloud interaction as the possible origin of the peculiar radio emission in the tidal disruption event AT2018cqh**|Lei Yang et.al.|[2509.21299](http://arxiv.org/pdf/2509.21299.pdf)|null|
 |**2025-09-25**|**Does FLUX Already Know How to Perform Physically Plausible Image Composition?**|Shilin Lu et.al.|[2509.21278](http://arxiv.org/pdf/2509.21278.pdf)|null|
 |**2025-09-25**|**Dense Semantic Matching with VGGT Prior**|Songlin Yang et.al.|[2509.21263](http://arxiv.org/pdf/2509.21263.pdf)|null|
 |**2025-09-25**|**Un-Doubling Diffusion: LLM-guided Disambiguation of Homonym Duplication**|Evgeny Kaskov et.al.|[2509.21262](http://arxiv.org/pdf/2509.21262.pdf)|null|
@@ -1258,7 +1258,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-25**|**Graphical Willmore Problems with Low-Regularity Boundary and Dirichlet Data**|Boris Gulyak et.al.|[2509.21018](http://arxiv.org/pdf/2509.21018.pdf)|null|
 |**2025-09-25**|**Unbiased Parameter Estimation of Partially Observed Diffusions using Diffusion Bridges**|Miguel Alvarez et.al.|[2509.21015](http://arxiv.org/pdf/2509.21015.pdf)|null|
 |**2025-09-25**|**A Single Neuron Works: Precise Concept Erasure in Text-to-Image Diffusion Models**|Qinqin He et.al.|[2509.21008](http://arxiv.org/pdf/2509.21008.pdf)|null|
-|**2025-09-25**|**TF-Restormer: Complex Spectral Prediction for Speech Restoration**|Ui-Hyeop Shin et.al.|[2509.21003](http://arxiv.org/pdf/2509.21003.pdf)|null|
+|**2025-09-26**|**TF-Restormer: Complex Spectral Prediction for Speech Restoration**|Ui-Hyeop Shin et.al.|[2509.21003](http://arxiv.org/pdf/2509.21003.pdf)|null|
 |**2025-09-25**|**High energy gammas and neutrinos from the Sun, Jupiter and Earth**|Pablo de la Torre et.al.|[2509.20970](http://arxiv.org/pdf/2509.20970.pdf)|null|
 |**2025-09-25**|**Flow Matching in the Low-Noise Regime: Pathologies and a Contrastive Remedy**|Weili Zeng et.al.|[2509.20952](http://arxiv.org/pdf/2509.20952.pdf)|null|
 |**2025-09-25**|**SMC-X: A Distributed Scalable Monte Carlo Simulation Method for Chemically Complex Alloys**|Xianglin Liu et.al.|[2509.20949](http://arxiv.org/pdf/2509.20949.pdf)|null|
@@ -1299,10 +1299,10 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-24**|**pop-cosmos: Star formation over 12 Gyr from generative modelling of a deep infrared-selected galaxy catalogue**|Sinan Deger et.al.|[2509.20430](http://arxiv.org/pdf/2509.20430.pdf)|null|
 |**2025-09-24**|**Seedream 4.0: Toward Next-generation Multimodal Image Generation**|Team Seedream et.al.|[2509.20427](http://arxiv.org/pdf/2509.20427.pdf)|null|
 |**2025-09-24**|**Adversarial Defense in Cybersecurity: A Systematic Review of GANs for Threat Detection and Mitigation**|Tharcisse Ndayipfukamiye et.al.|[2509.20411](http://arxiv.org/pdf/2509.20411.pdf)|null|
-|**2025-09-24**|**EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning**|Xuan Ju et.al.|[2509.20360](http://arxiv.org/pdf/2509.20360.pdf)|null|
+|**2025-09-25**|**EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning**|Xuan Ju et.al.|[2509.20360](http://arxiv.org/pdf/2509.20360.pdf)|null|
 |**2025-09-24**|**PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation**|Chen Wang et.al.|[2509.20358](http://arxiv.org/pdf/2509.20358.pdf)|null|
-|**2025-09-24**|**mindmap: Spatial Memory in Deep Feature Maps for 3D Action Policies**|Remo Steiner et.al.|[2509.20297](http://arxiv.org/pdf/2509.20297.pdf)|null|
-|**2025-09-24**|**FAST: Foreground-aware Diffusion with Accelerated Sampling Trajectory for Segmentation-oriented Anomaly Synthesis**|Xichen Xu et.al.|[2509.20295](http://arxiv.org/pdf/2509.20295.pdf)|null|
+|**2025-09-26**|**mindmap: Spatial Memory in Deep Feature Maps for 3D Action Policies**|Remo Steiner et.al.|[2509.20297](http://arxiv.org/pdf/2509.20297.pdf)|null|
+|**2025-09-26**|**FAST: Foreground-aware Diffusion with Accelerated Sampling Trajectory for Segmentation-oriented Anomaly Synthesis**|Xichen Xu et.al.|[2509.20295](http://arxiv.org/pdf/2509.20295.pdf)|null|
 |**2025-09-24**|**Biologically Plausible Learning via Bidirectional Spike-Based Distillation**|Changze Lv et.al.|[2509.20284](http://arxiv.org/pdf/2509.20284.pdf)|null|
 |**2025-09-24**|**On Brinkman flows with curvature-induced phase separation in binary mixtures**|Pierluigi Colli et.al.|[2509.20282](http://arxiv.org/pdf/2509.20282.pdf)|null|
 |**2025-09-24**|**Turing instability and 2-D pattern formation in reaction-diffusion systems derived from kinetic theory**|Stefano Boccelli et.al.|[2509.20268](http://arxiv.org/pdf/2509.20268.pdf)|null|
@@ -1321,7 +1321,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-25**|**From Text to Talk: Audio-Language Model Needs Non-Autoregressive Joint Training**|Tianqiao Liu et.al.|[2509.20072](http://arxiv.org/pdf/2509.20072.pdf)|null|
 |**2025-09-24**|**Resistive switching behaviors in vertically aligned MoS $_2$ films with Cu, Ag, and Au electrodes**|Shuei-De Huang et.al.|[2509.20061](http://arxiv.org/pdf/2509.20061.pdf)|null|
 |**2025-09-24**|**Discrete Diffusion for Generative Modeling of Text-Aligned Speech Tokens**|Pin-Jui Ku et.al.|[2509.20060](http://arxiv.org/pdf/2509.20060.pdf)|null|
-|**2025-09-24**|**Diffusion-Augmented Contrastive Learning: A Noise-Robust Encoder for Biosignal Representations**|Rami Zewail et.al.|[2509.20048](http://arxiv.org/pdf/2509.20048.pdf)|null|
+|**2025-09-25**|**Diffusion-Augmented Contrastive Learning: A Noise-Robust Encoder for Biosignal Representations**|Rami Zewail et.al.|[2509.20048](http://arxiv.org/pdf/2509.20048.pdf)|null|
 |**2025-09-24**|**The role of photospheric magnetic flux diffusion in initiation of solar eruptions**|Xinkai Bian et.al.|[2509.20040](http://arxiv.org/pdf/2509.20040.pdf)|null|
 |**2025-09-24**|**Development of a time calibration system for the KLM upgrade in the Belle II experiment**|Ziyu Liu et.al.|[2509.20029](http://arxiv.org/pdf/2509.20029.pdf)|null|
 |**2025-09-24**|**Generative Adversarial Networks Applied for Privacy Preservation in Biometric-Based Authentication and Identification**|Lubos Mjachky et.al.|[2509.20024](http://arxiv.org/pdf/2509.20024.pdf)|null|
