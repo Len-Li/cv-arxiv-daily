@@ -1,4 +1,4 @@
-Updated on 2025.09.29
+Updated on 2025.09.30
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -1255,7 +1255,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978](http://arxiv.org/pdf/2507.07978.pdf)|null|
 |**2025-07-10**|**RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection**|Yongyang Zhou et.al.|[2507.07733](http://arxiv.org/pdf/2507.07733.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250929>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250930>back to top</a>)</p>
 
 ## Diffusion
 
@@ -3737,7 +3737,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/pdf/2507.20987.pdf)|null|
 |**2025-07-28**|**Adapting Vehicle Detectors for Aerial Imagery to Unseen Domains with Weak Supervision**|Xiao Fang et.al.|[2507.20976](http://arxiv.org/pdf/2507.20976.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250929>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250930>back to top</a>)</p>
 
 ## Industry
 
@@ -3759,7 +3759,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-23**|**Beyond Backpropagation: Exploring Innovative Algorithms for Energy-Efficient Deep Neural Network Training**|Przemysław Spyra et.al.|[2509.19063](http://arxiv.org/pdf/2509.19063.pdf)|null|
 |**2025-09-23**|**3D Blocking for Matrix-free Smoothers in 2D Variable-Viscosity Stokes Equations with Applications to Geodynamics**|Marcel Ferrari et.al.|[2509.19061](http://arxiv.org/pdf/2509.19061.pdf)|null|
 |**2025-09-23**|**Confidential LLM Inference: Performance and Cost Across CPU and GPU TEEs**|Marcin Chrapek et.al.|[2509.18886](http://arxiv.org/pdf/2509.18886.pdf)|null|
-|**2025-09-24**|**APRIL: Active Partial Rollouts in Reinforcement Learning to Tame Long-tail Generation**|Yuzhen Zhou et.al.|[2509.18521](http://arxiv.org/pdf/2509.18521.pdf)|null|
+|**2025-09-26**|**APRIL: Active Partial Rollouts in Reinforcement Learning to Tame Long-tail Generation**|Yuzhen Zhou et.al.|[2509.18521](http://arxiv.org/pdf/2509.18521.pdf)|null|
 |**2025-09-22**|**RL-augmented Adaptive Model Predictive Control for Bipedal Locomotion over Challenging Terrain**|Junnosuke Kamohara et.al.|[2509.18466](http://arxiv.org/pdf/2509.18466.pdf)|null|
 |**2025-09-22**|**Robotic Skill Diversification via Active Mutation of Reward Functions in Reinforcement Learning During a Liquid Pouring Task**|Jannick van Buuren et.al.|[2509.18463](http://arxiv.org/pdf/2509.18463.pdf)|null|
 |**2025-09-19**|**TinyEcoWeedNet: Edge Efficient Real-Time Aerial Agricultural Weed Detection**|Omar H. Khater et.al.|[2509.18193](http://arxiv.org/pdf/2509.18193.pdf)|null|
@@ -4088,7 +4088,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-04-19**|**M $^2$ BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation**|Enze Xie et.al.|[2204.05088](http://arxiv.org/pdf/2204.05088.pdf)|null|
 |**2022-04-06**|**AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis**|Zhiqin Chen et.al.|[2204.03105](http://arxiv.org/pdf/2204.03105.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250929>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250930>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -4473,7 +4473,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-14**|**RCG: Safety-Critical Scenario Generation for Robust Autonomous Driving via Real-World Crash Grounding**|Benjamin Stoler et.al.|[2507.10749](http://arxiv.org/pdf/2507.10749.pdf)|null|
 |**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/pdf/2507.10500.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250929>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250930>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -4749,5 +4749,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-06-20**|**Judo: A User-Friendly Open-Source Package for Sampling-Based Model Predictive Control**|Albert H. Li et.al.|[2506.17184](http://arxiv.org/pdf/2506.17184.pdf)|null|
 |**2025-07-11**|**Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms**|Aditya Bhatt et.al.|[2506.16710](http://arxiv.org/pdf/2506.16710.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20250929>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250930>back to top</a>)</p>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.09.29
+Updated on 2025.09.30
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -3758,7 +3758,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-23**|**Beyond Backpropagation: Exploring Innovative Algorithms for Energy-Efficient Deep Neural Network Training**|Przemysław Spyra et.al.|[2509.19063](http://arxiv.org/pdf/2509.19063.pdf)|null|
 |**2025-09-23**|**3D Blocking for Matrix-free Smoothers in 2D Variable-Viscosity Stokes Equations with Applications to Geodynamics**|Marcel Ferrari et.al.|[2509.19061](http://arxiv.org/pdf/2509.19061.pdf)|null|
 |**2025-09-23**|**Confidential LLM Inference: Performance and Cost Across CPU and GPU TEEs**|Marcin Chrapek et.al.|[2509.18886](http://arxiv.org/pdf/2509.18886.pdf)|null|
-|**2025-09-24**|**APRIL: Active Partial Rollouts in Reinforcement Learning to Tame Long-tail Generation**|Yuzhen Zhou et.al.|[2509.18521](http://arxiv.org/pdf/2509.18521.pdf)|null|
+|**2025-09-26**|**APRIL: Active Partial Rollouts in Reinforcement Learning to Tame Long-tail Generation**|Yuzhen Zhou et.al.|[2509.18521](http://arxiv.org/pdf/2509.18521.pdf)|null|
 |**2025-09-22**|**RL-augmented Adaptive Model Predictive Control for Bipedal Locomotion over Challenging Terrain**|Junnosuke Kamohara et.al.|[2509.18466](http://arxiv.org/pdf/2509.18466.pdf)|null|
 |**2025-09-22**|**Robotic Skill Diversification via Active Mutation of Reward Functions in Reinforcement Learning During a Liquid Pouring Task**|Jannick van Buuren et.al.|[2509.18463](http://arxiv.org/pdf/2509.18463.pdf)|null|
 |**2025-09-19**|**TinyEcoWeedNet: Edge Efficient Real-Time Aerial Agricultural Weed Detection**|Omar H. Khater et.al.|[2509.18193](http://arxiv.org/pdf/2509.18193.pdf)|null|
