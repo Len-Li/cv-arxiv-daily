@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.09.30
+Updated on 2025.10.01
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -1360,7 +1360,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-29**|**PanoWorld-X: Generating Explorable Panoramic Worlds via Sphere-Aware Video Diffusion**|Yuyang Yin et.al.|[2509.24997](http://arxiv.org/pdf/2509.24997.pdf)|null|
 |**2025-09-29**|**Path Diffuser: Diffusion Model for Data-Driven Traffic Simulator**|Da Saem Lee et.al.|[2509.24995](http://arxiv.org/pdf/2509.24995.pdf)|null|
 |**2025-09-29**|**SDPose: Exploiting Diffusion Priors for Out-of-Domain and Robust Pose Estimation**|Shuang Liang et.al.|[2509.24980](http://arxiv.org/pdf/2509.24980.pdf)|null|
-|**2025-09-29**|**Wan-Alpha: High-Quality Text-to-Video Generation with Alpha Channel**|Haotian Dong et.al.|[2509.24979](http://arxiv.org/pdf/2509.24979.pdf)|null|
+|**2025-09-30**|**Wan-Alpha: High-Quality Text-to-Video Generation with Alpha Channel**|Haotian Dong et.al.|[2509.24979](http://arxiv.org/pdf/2509.24979.pdf)|null|
 |**2025-09-29**|**DiffTester: Accelerating Unit Test Generation for Diffusion LLMs via Repetitive Pattern**|Lekang Yang et.al.|[2509.24975](http://arxiv.org/pdf/2509.24975.pdf)|null|
 |**2025-09-29**|**Double Descent as a Lens for Sample Efficiency in Autoregressive vs. Discrete Diffusion Models**|Ahmad Fraij et.al.|[2509.24974](http://arxiv.org/pdf/2509.24974.pdf)|null|
 |**2025-09-29**|**VIVALDy: A Hybrid Generative Reduced-Order Model for Turbulent Flows, Applied to Vortex-Induced Vibrations**|Niccolò Tonioni et.al.|[2509.24965](http://arxiv.org/pdf/2509.24965.pdf)|null|
@@ -1394,7 +1394,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-29**|**The influence of solute induced memory on interface migration**|Chad W. Sinclair et.al.|[2509.24668](http://arxiv.org/pdf/2509.24668.pdf)|null|
 |**2025-09-29**|**Learning Object-Centric Representations Based on Slots in Real World Scenarios**|Adil Kaan Akan et.al.|[2509.24652](http://arxiv.org/pdf/2509.24652.pdf)|null|
 |**2025-09-29**|**VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning**|Yixuan Zhou et.al.|[2509.24650](http://arxiv.org/pdf/2509.24650.pdf)|null|
-|**2025-09-29**|**RIFLE: Removal of Image Flicker-Banding via Latent Diffusion Enhancement**|Zhu et.al.|[2509.24644](http://arxiv.org/pdf/2509.24644.pdf)|null|
+|**2025-09-30**|**RIFLE: Removal of Image Flicker-Banding via Latent Diffusion Enhancement**|Libo Zhu et.al.|[2509.24644](http://arxiv.org/pdf/2509.24644.pdf)|null|
 |**2025-09-29**|**PoseDiff: A Unified Diffusion Model Bridging Robot Pose Estimation and Video-to-Action Control**|Haozhuo Zhang et.al.|[2509.24591](http://arxiv.org/pdf/2509.24591.pdf)|null|
 |**2025-09-29**|**SAIP: A Plug-and-Play Scale-adaptive Module in Diffusion-based Inverse Problems**|Lingyu Wang et.al.|[2509.24580](http://arxiv.org/pdf/2509.24580.pdf)|null|
 |**2025-09-29**|**U-DiT Policy: U-shaped Diffusion Transformers for Robotic Manipulation**|Linzhi Wu et.al.|[2509.24579](http://arxiv.org/pdf/2509.24579.pdf)|null|
@@ -1432,7 +1432,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-29**|**Non-Invasive Detection of PROState Cancer with Novel Time-Dependent Diffusion MRI and AI-Enhanced Quantitative Radiological Interpretation: PROS-TD-AI**|Baltasar Ramos et.al.|[2509.24227](http://arxiv.org/pdf/2509.24227.pdf)|null|
 |**2025-09-29**|**Semantic Editing with Coupled Stochastic Differential Equations**|Jianxin Zhang et.al.|[2509.24223](http://arxiv.org/pdf/2509.24223.pdf)|null|
 |**2025-09-29**|**The role of the solid-melt interface in accelerating the self-catalyzed growth kinetics of III-V semiconductors**|Zhucong Xi et.al.|[2509.24206](http://arxiv.org/pdf/2509.24206.pdf)|null|
-|**2025-09-29**|**UniVid: The Open-Source Unified Video Model**|Jiabin Luo et.al.|[2509.24200](http://arxiv.org/pdf/2509.24200.pdf)|null|
+|**2025-09-30**|**UniVid: The Open-Source Unified Video Model**|Jiabin Luo et.al.|[2509.24200](http://arxiv.org/pdf/2509.24200.pdf)|null|
 |**2025-09-29**|**An Efficient 3D Latent Diffusion Model for T1-contrast Enhanced MRI Generation**|Zach Eidex et.al.|[2509.24194](http://arxiv.org/pdf/2509.24194.pdf)|null|
 |**2025-09-29**|**Simulating Post-Neoadjuvant Chemotherapy Breast Cancer MRI via Diffusion Model with Prompt Tuning**|Jonghun Kim et.al.|[2509.24185](http://arxiv.org/pdf/2509.24185.pdf)|null|
 |**2025-09-29**|**Tumor Synthesis conditioned on Radiomics**|Jonghun Kim et.al.|[2509.24182](http://arxiv.org/pdf/2509.24182.pdf)|null|
@@ -4001,7 +4001,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-02**|**AutoDrive-R $^2$ : Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving**|Zhenlong Yuan et.al.|[2509.01944](http://arxiv.org/pdf/2509.01944.pdf)|null|
 |**2025-09-01**|**PointSlice: Accurate and Efficient Slice-Based Representation for 3D Object Detection from Point Clouds**|Liu Qifeng et.al.|[2509.01487](http://arxiv.org/pdf/2509.01487.pdf)|null|
 |**2025-09-01**|**LiquidGEMM: Hardware-Efficient W4A8 GEMM Kernel for High-Performance LLM Serving**|Huanqi Hu et.al.|[2509.01229](http://arxiv.org/pdf/2509.01229.pdf)|null|
-|**2025-09-29**|**Metis: Training Large Language Models with Advanced Low-Bit Quantization**|Hengjie Cao et.al.|[2509.00404](http://arxiv.org/pdf/2509.00404.pdf)|null|
+|**2025-09-30**|**Metis: Training LLMs with FP4 Quantization**|Hengjie Cao et.al.|[2509.00404](http://arxiv.org/pdf/2509.00404.pdf)|null|
 |**2025-08-27**|**More than Carbon: Cradle-to-Grave environmental impacts of GenAI training on the Nvidia A100 GPU**|Sophia Falk et.al.|[2509.00093](http://arxiv.org/pdf/2509.00093.pdf)|null|
 |**2025-08-29**|**FLORA: Efficient Synthetic Data Generation for Object Detection in Low-Data Regimes via finetuning Flux LoRA**|Alvaro Patricio et.al.|[2508.21712](http://arxiv.org/pdf/2508.21712.pdf)|null|
 |**2025-09-01**|**$Δ$ -Motif: Subgraph Isomorphism at Scale via Data-Centric Parallelism**|Yulun Wang et.al.|[2508.21287](http://arxiv.org/pdf/2508.21287.pdf)|null|
