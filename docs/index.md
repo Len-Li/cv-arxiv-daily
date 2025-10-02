@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.10.01
+Updated on 2025.10.02
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -33,7 +33,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-30**|**PFDepth: Heterogeneous Pinhole-Fisheye Joint Depth Estimation via Distortion-aware Gaussian-Splatted Volumetric Fusion**|Zhiwei Zhang et.al.|[2509.26008](http://arxiv.org/pdf/2509.26008.pdf)|null|
 |**2025-09-30**|**Towards Human Engagement with Realistic AI Combat Pilots**|Ardian Selmonaj et.al.|[2509.26002](http://arxiv.org/pdf/2509.26002.pdf)|null|
 |**2025-09-30**|**PinPoint3D: Fine-Grained 3D Part Segmentation from a Few Clicks**|Bojun Zhang et.al.|[2509.25970](http://arxiv.org/pdf/2509.25970.pdf)|null|
-|**2025-09-30**|**A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI**|Arvind Murari Vepa et.al.|[2509.25889](http://arxiv.org/pdf/2509.25889.pdf)|null|
+|**2025-10-01**|**A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI**|Arvind Murari Vepa et.al.|[2509.25889](http://arxiv.org/pdf/2509.25889.pdf)|null|
 |**2025-09-30**|**Vector sketch animation generation with differentialable motion trajectories**|Xinding Zhu et.al.|[2509.25857](http://arxiv.org/pdf/2509.25857.pdf)|null|
 |**2025-09-30**|**IPDRecon: Image-Plane Geometric Decoding for View-Invariant Indoor Scene Reconstruction**|Mingyang Li et.al.|[2509.25744](http://arxiv.org/pdf/2509.25744.pdf)|null|
 |**2025-09-30**|**Dragging with Geometry: From Pixels to Geometry-Guided Image Editing**|Xinyu Pu et.al.|[2509.25740](http://arxiv.org/pdf/2509.25740.pdf)|null|
@@ -45,7 +45,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-29**|**Robust Visual Localization in Compute-Constrained Environments by Salient Edge Rendering and Weighted Hamming Similarity**|Tu-Hoa Pham et.al.|[2509.25520](http://arxiv.org/pdf/2509.25520.pdf)|null|
 |**2025-09-29**|**DepthLM: Metric Depth From Vision Language Models**|Zhipeng Cai et.al.|[2509.25413](http://arxiv.org/pdf/2509.25413.pdf)|null|
 |**2025-09-29**|**Computational Design and Single-Wire Sensing of 3D Printed Objects with Integrated Capacitive Touchpoints**|S. Sandra Bae et.al.|[2509.25387](http://arxiv.org/pdf/2509.25387.pdf)|null|
-|**2025-09-29**|**Editing Physiological Signals in Videos Using Latent Representations**|Tianwen Zhou et.al.|[2509.25348](http://arxiv.org/pdf/2509.25348.pdf)|null|
+|**2025-10-01**|**Editing Physiological Signals in Videos Using Latent Representations**|Tianwen Zhou et.al.|[2509.25348](http://arxiv.org/pdf/2509.25348.pdf)|null|
 |**2025-09-29**|**VGGT-X: When VGGT Meets Dense Novel View Synthesis**|Yang Liu et.al.|[2509.25191](http://arxiv.org/pdf/2509.25191.pdf)|null|
 |**2025-09-29**|**Visual Jigsaw Post-Training Improves MLLMs**|Penghao Wu et.al.|[2509.25190](http://arxiv.org/pdf/2509.25190.pdf)|null|
 |**2025-09-29**|**PAD3R: Pose-Aware Dynamic 3D Reconstruction from Casual Videos**|Ting-Hsuan Liao et.al.|[2509.25183](http://arxiv.org/pdf/2509.25183.pdf)|null|
@@ -70,7 +70,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-29**|**BFSM: 3D Bidirectional Face-Skull Morphable Model**|Zidu Wang et.al.|[2509.24577](http://arxiv.org/pdf/2509.24577.pdf)|null|
 |**2025-09-29**|**CORE-3D: Context-aware Open-vocabulary Retrieval by Embeddings in 3D**|Mohamad Amin Mirzaei et.al.|[2509.24528](http://arxiv.org/pdf/2509.24528.pdf)|null|
 |**2025-09-29**|**NeoWorld: Neural Simulation of Explorable Virtual Worlds via Progressive 3D Unfolding**|Yanpeng Zhao et.al.|[2509.24441](http://arxiv.org/pdf/2509.24441.pdf)|null|
-|**2025-09-29**|**Proxy-GS: Efficient 3D Gaussian Splatting via Proxy Mesh**|Yuanyuan Gao et.al.|[2509.24421](http://arxiv.org/pdf/2509.24421.pdf)|null|
+|**2025-10-01**|**Proxy-GS: Efficient 3D Gaussian Splatting via Proxy Mesh**|Yuanyuan Gao et.al.|[2509.24421](http://arxiv.org/pdf/2509.24421.pdf)|null|
 |**2025-09-29**|**RapidMV: Leveraging Spatio-Angular Representations for Efficient and Consistent Text-to-Multi-View Synthesis**|Seungwook Kim et.al.|[2509.24410](http://arxiv.org/pdf/2509.24410.pdf)|null|
 |**2025-09-29**|**Vid-LLM: A Compact Video-based 3D Multimodal LLM with Reconstruction-Reasoning Synergy**|Haijier Chen et.al.|[2509.24385](http://arxiv.org/pdf/2509.24385.pdf)|null|
 |**2025-09-29**|**DINOReg: Strong Point Cloud Registration with Vision Foundation Model**|Congjia Chen et.al.|[2509.24370](http://arxiv.org/pdf/2509.24370.pdf)|null|
@@ -1387,7 +1387,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-30**|**dParallel: Learnable Parallel Decoding for dLLMs**|Zigeng Chen et.al.|[2509.26488](http://arxiv.org/pdf/2509.26488.pdf)|null|
 |**2025-09-30**|**Closures of moment expansion of anisotropic active Brownian particles**|Timothée Gautry et.al.|[2509.26453](http://arxiv.org/pdf/2509.26453.pdf)|null|
 |**2025-09-30**|**Post-Training Quantization via Residual Truncation and Zero Suppression for Diffusion Models**|Donghoon Kim et.al.|[2509.26436](http://arxiv.org/pdf/2509.26436.pdf)|null|
-|**2025-09-30**|**AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size**|Guanxi Lu et.al.|[2509.26432](http://arxiv.org/pdf/2509.26432.pdf)|null|
+|**2025-10-01**|**AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size**|Guanxi Lu et.al.|[2509.26432](http://arxiv.org/pdf/2509.26432.pdf)|null|
 |**2025-09-30**|**MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation**|Chenhui Zhu et.al.|[2509.26391](http://arxiv.org/pdf/2509.26391.pdf)|null|
 |**2025-09-30**|**The Effective Reactivity for Capturing Brownian Motion by Partially Reactive Patches on a Spherical Surface**|Denis S. Grebenkov et.al.|[2509.26381](http://arxiv.org/pdf/2509.26381.pdf)|null|
 |**2025-09-30**|**Go with Your Gut: Scaling Confidence for Autoregressive Image Generation**|Harold Haodong Chen et.al.|[2509.26376](http://arxiv.org/pdf/2509.26376.pdf)|null|
@@ -1405,7 +1405,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-30**|**Human-MME: A Holistic Evaluation Benchmark for Human-Centric Multimodal Large Language Models**|Yuansen Liu et.al.|[2509.26165](http://arxiv.org/pdf/2509.26165.pdf)|null|
 |**2025-09-30**|**Towards Continual Expansion of Data Coverage: Automatic Text-guided Edge-case Synthesis**|Kyeongryeol Go et.al.|[2509.26158](http://arxiv.org/pdf/2509.26158.pdf)|null|
 |**2025-09-30**|**EchoGen: Generating Visual Echoes in Any Scene via Feed-Forward Subject-Driven Auto-Regressive Model**|Ruixiao Dong et.al.|[2509.26127](http://arxiv.org/pdf/2509.26127.pdf)|null|
-|**2025-09-30**|**Tracer diffusion coefficients in a sheared granular gas. Exact results**|David González Méndez et.al.|[2509.26115](http://arxiv.org/pdf/2509.26115.pdf)|null|
+|**2025-10-01**|**Tracer diffusion coefficients in a sheared granular gas. Exact results**|David González Méndez et.al.|[2509.26115](http://arxiv.org/pdf/2509.26115.pdf)|null|
 |**2025-09-30**|**EVODiff: Entropy-aware Variance Optimized Diffusion Inference**|Shigui Li et.al.|[2509.26096](http://arxiv.org/pdf/2509.26096.pdf)|null|
 |**2025-09-30**|**The diffusion-driven orthorhombic to tetragonal transition in YBa $_2$Cu$_3$O$_7$ derived with a machine learning interatomic potential**|Davide Gambino et.al.|[2509.26095](http://arxiv.org/pdf/2509.26095.pdf)|null|
 |**2025-09-30**|**Fading to Grow: Growing Preference Ratios via Preference Fading Discrete Diffusion for Recommendation**|Guoqing Hu et.al.|[2509.26063](http://arxiv.org/pdf/2509.26063.pdf)|null|
@@ -1419,7 +1419,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-30**|**CO3: Contrasting Concepts Compose Better**|Debottam Dutta et.al.|[2509.25940](http://arxiv.org/pdf/2509.25940.pdf)|null|
 |**2025-09-30**|**Bringing Emerging Architectures to Sequence Labeling in NLP**|Ana Ezquerro et.al.|[2509.25918](http://arxiv.org/pdf/2509.25918.pdf)|null|
 |**2025-09-30**|**LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models**|Guolei Huang et.al.|[2509.25896](http://arxiv.org/pdf/2509.25896.pdf)|null|
-|**2025-09-30**|**A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI**|Arvind Murari Vepa et.al.|[2509.25889](http://arxiv.org/pdf/2509.25889.pdf)|null|
+|**2025-10-01**|**A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI**|Arvind Murari Vepa et.al.|[2509.25889](http://arxiv.org/pdf/2509.25889.pdf)|null|
 |**2025-09-30**|**Kinetics of the photochromic effect in oxygen-containing rare-earth hydrides**|Dmitrii Moldarev et.al.|[2509.25887](http://arxiv.org/pdf/2509.25887.pdf)|null|
 |**2025-09-30**|**Training-Free Reward-Guided Image Editing via Trajectory Optimal Control**|Jinho Chang et.al.|[2509.25845](http://arxiv.org/pdf/2509.25845.pdf)|null|
 |**2025-09-30**|**HiStyle: Hierarchical Style Embedding Predictor for Text-Prompt-Guided Controllable Speech Synthesis**|Ziyu Zhang et.al.|[2509.25842](http://arxiv.org/pdf/2509.25842.pdf)|null|
@@ -1467,7 +1467,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-29**|**Guided Diffusion for the Discovery of New Superconductors**|Pawan Prakash et.al.|[2509.25186](http://arxiv.org/pdf/2509.25186.pdf)|null|
 |**2025-09-29**|**DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder**|Junyu Chen et.al.|[2509.25182](http://arxiv.org/pdf/2509.25182.pdf)|null|
 |**2025-09-29**|**A bound-preserving multinumerics scheme for steady-state convection-diffusion equations**|Maurice S. Fabien et.al.|[2509.25181](http://arxiv.org/pdf/2509.25181.pdf)|null|
-|**2025-09-29**|**DC-Gen: Post-Training Diffusion Acceleration with Deeply Compressed Latent Space**|Wenkun He et.al.|[2509.25180](http://arxiv.org/pdf/2509.25180.pdf)|null|
+|**2025-10-01**|**DC-Gen: Post-Training Diffusion Acceleration with Deeply Compressed Latent Space**|Wenkun He et.al.|[2509.25180](http://arxiv.org/pdf/2509.25180.pdf)|null|
 |**2025-09-29**|**GHOST: Hallucination-Inducing Image Generation for Multimodal LLMs**|Aryan Yazdan Parast et.al.|[2509.25178](http://arxiv.org/pdf/2509.25178.pdf)|null|
 |**2025-09-29**|**Personalized Vision via Visual In-Context Learning**|Yuxin Jiang et.al.|[2509.25172](http://arxiv.org/pdf/2509.25172.pdf)|null|
 |**2025-09-29**|**TR2-D2: Tree Search Guided Trajectory-Aware Fine-Tuning for Discrete Diffusion**|Sophia Tang et.al.|[2509.25171](http://arxiv.org/pdf/2509.25171.pdf)|null|
@@ -4061,7 +4061,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-30**|**SAIL: SRAM-Accelerated LLM Inference System with Lookup-Table-based GEMV**|Jingyao Zhang et.al.|[2509.25853](http://arxiv.org/pdf/2509.25853.pdf)|null|
 |**2025-09-24**|**AMLA: MUL by ADD in FlashAttention Rescaling**|Qichen Liao et.al.|[2509.25224](http://arxiv.org/pdf/2509.25224.pdf)|null|
 |**2025-09-29**|**DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder**|Junyu Chen et.al.|[2509.25182](http://arxiv.org/pdf/2509.25182.pdf)|null|
-|**2025-09-29**|**DC-Gen: Post-Training Diffusion Acceleration with Deeply Compressed Latent Space**|Wenkun He et.al.|[2509.25180](http://arxiv.org/pdf/2509.25180.pdf)|null|
+|**2025-10-01**|**DC-Gen: Post-Training Diffusion Acceleration with Deeply Compressed Latent Space**|Wenkun He et.al.|[2509.25180](http://arxiv.org/pdf/2509.25180.pdf)|null|
 |**2025-09-30**|**YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection**|Ranjan Sapkota et.al.|[2509.25164](http://arxiv.org/pdf/2509.25164.pdf)|null|
 |**2025-09-29**|**Pretraining Large Language Models with NVFP4**|NVIDIA et.al.|[2509.25149](http://arxiv.org/pdf/2509.25149.pdf)|null|
 |**2025-09-29**|**ThermalGen: Style-Disentangled Flow-Based Generative Models for RGB-to-Thermal Image Translation**|Jiuhong Xiao et.al.|[2509.24878](http://arxiv.org/pdf/2509.24878.pdf)|null|
