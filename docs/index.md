@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.10.02
+Updated on 2025.10.03
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -43,7 +43,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-29**|**Online Mapping for Autonomous Driving: Addressing Sensor Generalization and Dynamic Map Updates in Campus Environments**|Zihan Zhang et.al.|[2509.25542](http://arxiv.org/pdf/2509.25542.pdf)|null|
 |**2025-09-29**|**LLM-RG: Referential Grounding in Outdoor Scenarios using Large Language Models**|Pranav Saxena et.al.|[2509.25528](http://arxiv.org/pdf/2509.25528.pdf)|null|
 |**2025-09-29**|**Robust Visual Localization in Compute-Constrained Environments by Salient Edge Rendering and Weighted Hamming Similarity**|Tu-Hoa Pham et.al.|[2509.25520](http://arxiv.org/pdf/2509.25520.pdf)|null|
-|**2025-09-29**|**DepthLM: Metric Depth From Vision Language Models**|Zhipeng Cai et.al.|[2509.25413](http://arxiv.org/pdf/2509.25413.pdf)|null|
+|**2025-10-01**|**DepthLM: Metric Depth From Vision Language Models**|Zhipeng Cai et.al.|[2509.25413](http://arxiv.org/pdf/2509.25413.pdf)|null|
 |**2025-09-29**|**Computational Design and Single-Wire Sensing of 3D Printed Objects with Integrated Capacitive Touchpoints**|S. Sandra Bae et.al.|[2509.25387](http://arxiv.org/pdf/2509.25387.pdf)|null|
 |**2025-10-01**|**Editing Physiological Signals in Videos Using Latent Representations**|Tianwen Zhou et.al.|[2509.25348](http://arxiv.org/pdf/2509.25348.pdf)|null|
 |**2025-09-29**|**VGGT-X: When VGGT Meets Dense Novel View Synthesis**|Yang Liu et.al.|[2509.25191](http://arxiv.org/pdf/2509.25191.pdf)|null|
@@ -1412,18 +1412,18 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-30**|**Initial traces and solvability of the fast diffusion equation with power-type nonlinearity**|Kazuhiro Ishige et.al.|[2509.26054](http://arxiv.org/pdf/2509.26054.pdf)|null|
 |**2025-09-30**|**PatchVSR: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution**|Shian Du et.al.|[2509.26025](http://arxiv.org/pdf/2509.26025.pdf)|null|
 |**2025-09-30**|**New Fourth-Order Grayscale Indicator-Based Telegraph Diffusion Model for Image Despeckling**|Rajendra K. Ray et.al.|[2509.26010](http://arxiv.org/pdf/2509.26010.pdf)|null|
-|**2025-09-30**|**VRWKV-Editor: Reducing quadratic complexity in transformer-based video editing**|Abdelilah Aitrouga et.al.|[2509.25998](http://arxiv.org/pdf/2509.25998.pdf)|null|
+|**2025-10-02**|**VRWKV-Editor: Reducing quadratic complexity in transformer-based video editing**|Abdelilah Aitrouga et.al.|[2509.25998](http://arxiv.org/pdf/2509.25998.pdf)|null|
 |**2025-09-30**|**Exact Solutions to the Quantum Schrödinger Bridge Problem**|Mykola Bordyuh et.al.|[2509.25980](http://arxiv.org/pdf/2509.25980.pdf)|null|
 |**2025-09-30**|**Weak-strong uniqueness for general cross-diffusion systems with volume filling**|Maria Heitzinger et.al.|[2509.25978](http://arxiv.org/pdf/2509.25978.pdf)|null|
 |**2025-09-30**|**Data-Free Continual Learning of Server Models in Model-Heterogeneous Federated learning**|Xiao Zhang et.al.|[2509.25977](http://arxiv.org/pdf/2509.25977.pdf)|null|
 |**2025-09-30**|**CO3: Contrasting Concepts Compose Better**|Debottam Dutta et.al.|[2509.25940](http://arxiv.org/pdf/2509.25940.pdf)|null|
 |**2025-09-30**|**Bringing Emerging Architectures to Sequence Labeling in NLP**|Ana Ezquerro et.al.|[2509.25918](http://arxiv.org/pdf/2509.25918.pdf)|null|
-|**2025-09-30**|**LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models**|Guolei Huang et.al.|[2509.25896](http://arxiv.org/pdf/2509.25896.pdf)|null|
+|**2025-10-01**|**LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models**|Guolei Huang et.al.|[2509.25896](http://arxiv.org/pdf/2509.25896.pdf)|null|
 |**2025-10-01**|**A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI**|Arvind Murari Vepa et.al.|[2509.25889](http://arxiv.org/pdf/2509.25889.pdf)|null|
 |**2025-09-30**|**Kinetics of the photochromic effect in oxygen-containing rare-earth hydrides**|Dmitrii Moldarev et.al.|[2509.25887](http://arxiv.org/pdf/2509.25887.pdf)|null|
 |**2025-09-30**|**Training-Free Reward-Guided Image Editing via Trajectory Optimal Control**|Jinho Chang et.al.|[2509.25845](http://arxiv.org/pdf/2509.25845.pdf)|null|
 |**2025-09-30**|**HiStyle: Hierarchical Style Embedding Predictor for Text-Prompt-Guided Controllable Speech Synthesis**|Ziyu Zhang et.al.|[2509.25842](http://arxiv.org/pdf/2509.25842.pdf)|null|
-|**2025-09-30**|**Act to See, See to Act: Diffusion-Driven Perception-Action Interplay for Adaptive Policies**|Jing Wang et.al.|[2509.25822](http://arxiv.org/pdf/2509.25822.pdf)|null|
+|**2025-10-01**|**Act to See, See to Act: Diffusion-Driven Perception-Action Interplay for Adaptive Policies**|Jing Wang et.al.|[2509.25822](http://arxiv.org/pdf/2509.25822.pdf)|null|
 |**2025-09-30**|**Pre-equilibrium charm quark dynamics and their impact on D-Meson observables**|Manu Kurian et.al.|[2509.25806](http://arxiv.org/pdf/2509.25806.pdf)|null|
 |**2025-09-30**|**Numerical approximations to invariant measures of hybrid stochastic differential equations with superlinear coefficients via the backward Euler-Maruyama method**|Wei Liu et.al.|[2509.25799](http://arxiv.org/pdf/2509.25799.pdf)|null|
 |**2025-09-30**|**PUREVQ-GAN: Defending Data Poisoning Attacks through Vector-Quantized Bottlenecks**|Alexander Branch et.al.|[2509.25792](http://arxiv.org/pdf/2509.25792.pdf)|null|
