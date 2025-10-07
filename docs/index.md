@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.10.06
+Updated on 2025.10.07
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -1520,7 +1520,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-10-02**|**A probabilistic representation for the gradient in a linear parabolic PDE with Neumann boundary condition**|Abdelatif Benchérif Madani et.al.|[2510.01898](http://arxiv.org/pdf/2510.01898.pdf)|null|
 |**2025-10-02**|**Multi-marginal temporal Schrödinger Bridge Matching for video generation from unpaired data**|Thomas Gravier et.al.|[2510.01894](http://arxiv.org/pdf/2510.01894.pdf)|null|
 |**2025-10-02**|**Fisher information and trajectorial interpretation to the Itô--Langevin relative entropy dissipation**|Jiaming Chen et.al.|[2510.01870](http://arxiv.org/pdf/2510.01870.pdf)|null|
-|**2025-10-02**|**NGGAN: Noise Generation GAN Based on the Practical Measurement Dataset for Narrowband Powerline Communications**|Ying-Ren Chien et.al.|[2510.01850](http://arxiv.org/pdf/2510.01850.pdf)|null|
+|**2025-10-04**|**NGGAN: Noise Generation GAN Based on the Practical Measurement Dataset for Narrowband Powerline Communications**|Ying-Ren Chien et.al.|[2510.01850](http://arxiv.org/pdf/2510.01850.pdf)|null|
 |**2025-10-02**|**Non-Gaussian Rotational Diffusion and Swing Motion of Dumbbell Probes in Two Dimensional Colloids**|Jeongmin Kim et.al.|[2510.01847](http://arxiv.org/pdf/2510.01847.pdf)|null|
 |**2025-10-02**|**Leveraging Prior Knowledge of Diffusion Model for Person Search**|Giyeol Kim et.al.|[2510.01841](http://arxiv.org/pdf/2510.01841.pdf)|null|
 |**2025-10-02**|**Representation and Integration by Parts Formulas for Affine Processes**|Arturo Kohatsu-Higa et.al.|[2510.01839](http://arxiv.org/pdf/2510.01839.pdf)|null|
@@ -4691,7 +4691,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-25**|**MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases**|Ziang Luo et.al.|[2509.20843](http://arxiv.org/pdf/2509.20843.pdf)|null|
 |**2025-09-25**|**DAC-LoRA: Dynamic Adversarial Curriculum for Efficient and Robust Few-Shot Adaptation**|Ved Umrajkar et.al.|[2509.20792](http://arxiv.org/pdf/2509.20792.pdf)|null|
 |**2025-09-29**|**MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM**|Yuxuan Zhou et.al.|[2509.20757](http://arxiv.org/pdf/2509.20757.pdf)|null|
-|**2025-09-25**|**Cyber Racing Coach: A Haptic Shared Control Framework for Teaching Advanced Driving Skills**|Congkai Shen et.al.|[2509.20653](http://arxiv.org/pdf/2509.20653.pdf)|null|
+|**2025-10-04**|**Cyber Racing Coach: A Haptic Shared Control Framework for Teaching Advanced Driving Skills**|Congkai Shen et.al.|[2509.20653](http://arxiv.org/pdf/2509.20653.pdf)|null|
 |**2025-09-26**|**AnchDrive: Bootstrapping Diffusion Policies with Hybrid Trajectory Anchors for End-to-End Driving**|Jinhao Chai et.al.|[2509.20253](http://arxiv.org/pdf/2509.20253.pdf)|null|
 |**2025-09-24**|**Universal Camouflage Attack on Vision-Language Models for Autonomous Driving**|Dehong Kong et.al.|[2509.20196](http://arxiv.org/pdf/2509.20196.pdf)|null|
 |**2025-09-24**|**Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving**|Pengxiang Li et.al.|[2509.20109](http://arxiv.org/pdf/2509.20109.pdf)|null|
