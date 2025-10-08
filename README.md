@@ -1,4 +1,4 @@
-Updated on 2025.10.07
+Updated on 2025.10.08
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -1456,7 +1456,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978](http://arxiv.org/pdf/2507.07978.pdf)|null|
 |**2025-07-10**|**RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection**|Yongyang Zhou et.al.|[2507.07733](http://arxiv.org/pdf/2507.07733.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251008>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1534,7 +1534,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-10-05**|**Self Speculative Decoding for Diffusion Large Language Models**|Yifeng Gao et.al.|[2510.04147](http://arxiv.org/pdf/2510.04147.pdf)|null|
 |**2025-10-05**|**Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models**|Minseo Kim et.al.|[2510.04146](http://arxiv.org/pdf/2510.04146.pdf)|null|
 |**2025-10-05**|**Joint Learning of Pose Regression and Denoising Diffusion with Score Scaling Sampling for Category-level 6D Pose Estimation**|Seunghyun Lee et.al.|[2510.04125](http://arxiv.org/pdf/2510.04125.pdf)|null|
-|**2025-10-05**|**Harnessing LLM for Noise-Robust Cognitive Diagnosis in Web-Based Intelligent Education Systems**|Guixian Zhang et.al.|[2510.04093](http://arxiv.org/pdf/2510.04093.pdf)|null|
+|**2025-10-07**|**Harnessing LLM for Noise-Robust Cognitive Diagnosis in Web-Based Intelligent Education Systems**|Guixian Zhang et.al.|[2510.04093](http://arxiv.org/pdf/2510.04093.pdf)|null|
 |**2025-10-05**|**What Makes Diffusion Language Models Super Data Learners?**|Zitian Gao et.al.|[2510.04071](http://arxiv.org/pdf/2510.04071.pdf)|null|
 |**2025-10-05**|**Diffusion Low Rank Hybrid Reconstruction for Sparse View Medical Imaging**|Zongyin Deng et.al.|[2510.04069](http://arxiv.org/pdf/2510.04069.pdf)|null|
 |**2025-10-05**|**Approaching the scaling limit of transport through lattices with dephasing**|Subhajit Sarkar et.al.|[2510.04062](http://arxiv.org/pdf/2510.04062.pdf)|null|
@@ -4397,7 +4397,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/pdf/2507.20987.pdf)|null|
 |**2025-07-28**|**Adapting Vehicle Detectors for Aerial Imagery to Unseen Domains with Weak Supervision**|Xiao Fang et.al.|[2507.20976](http://arxiv.org/pdf/2507.20976.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251008>back to top</a>)</p>
 
 ## Industry
 
@@ -4792,7 +4792,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-04-19**|**M $^2$ BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation**|Enze Xie et.al.|[2204.05088](http://arxiv.org/pdf/2204.05088.pdf)|null|
 |**2022-04-06**|**AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis**|Zhiqin Chen et.al.|[2204.03105](http://arxiv.org/pdf/2204.03105.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251008>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -4838,7 +4838,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-27**|**Preventing Robotic Jailbreaking via Multimodal Domain Adaptation**|Francesco Marchiori et.al.|[2509.23281](http://arxiv.org/pdf/2509.23281.pdf)|null|
 |**2025-09-26**|**Persistent Autoregressive Mapping with Traffic Rules for Autonomous Driving**|Shiyi Liang et.al.|[2509.22756](http://arxiv.org/pdf/2509.22756.pdf)|null|
 |**2025-09-26**|**Self-driving cars: Are we there yet?**|Merve Atasever et.al.|[2509.22754](http://arxiv.org/pdf/2509.22754.pdf)|null|
-|**2025-09-19**|**Robust Object Detection for Autonomous Driving via Curriculum-Guided Group Relative Policy Optimization**|Xu Jia et.al.|[2509.22688](http://arxiv.org/pdf/2509.22688.pdf)|null|
+|**2025-10-07**|**Robust Object Detection for Autonomous Driving via Curriculum-Guided Group Relative Policy Optimization**|Xu Jia et.al.|[2509.22688](http://arxiv.org/pdf/2509.22688.pdf)|null|
 |**2025-10-03**|**An Intention-driven Lane Change Framework Considering Heterogeneous Dynamic Cooperation in Mixed-traffic Environment**|Xiaoyun Qiu et.al.|[2509.22550](http://arxiv.org/pdf/2509.22550.pdf)|null|
 |**2025-09-26**|**EfficientDepth: A Fast and Detail-Preserving Monocular Depth Estimation Model**|Andrii Litvynchuk et.al.|[2509.22527](http://arxiv.org/pdf/2509.22527.pdf)|null|
 |**2025-09-29**|**A Multi-Modality Evaluation of the Reality Gap in Autonomous Driving Systems**|Stefano Carlo Lambertenghi et.al.|[2509.22379](http://arxiv.org/pdf/2509.22379.pdf)|null|
@@ -5218,7 +5218,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-14**|**RCG: Safety-Critical Scenario Generation for Robust Autonomous Driving via Real-World Crash Grounding**|Benjamin Stoler et.al.|[2507.10749](http://arxiv.org/pdf/2507.10749.pdf)|null|
 |**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/pdf/2507.10500.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251008>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -5540,5 +5540,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-06-20**|**Judo: A User-Friendly Open-Source Package for Sampling-Based Model Predictive Control**|Albert H. Li et.al.|[2506.17184](http://arxiv.org/pdf/2506.17184.pdf)|null|
 |**2025-07-11**|**Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms**|Aditya Bhatt et.al.|[2506.16710](http://arxiv.org/pdf/2506.16710.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251008>back to top</a>)</p>
 

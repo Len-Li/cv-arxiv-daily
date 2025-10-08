@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.10.07
+Updated on 2025.10.08
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -1535,7 +1535,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-10-05**|**Self Speculative Decoding for Diffusion Large Language Models**|Yifeng Gao et.al.|[2510.04147](http://arxiv.org/pdf/2510.04147.pdf)|null|
 |**2025-10-05**|**Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models**|Minseo Kim et.al.|[2510.04146](http://arxiv.org/pdf/2510.04146.pdf)|null|
 |**2025-10-05**|**Joint Learning of Pose Regression and Denoising Diffusion with Score Scaling Sampling for Category-level 6D Pose Estimation**|Seunghyun Lee et.al.|[2510.04125](http://arxiv.org/pdf/2510.04125.pdf)|null|
-|**2025-10-05**|**Harnessing LLM for Noise-Robust Cognitive Diagnosis in Web-Based Intelligent Education Systems**|Guixian Zhang et.al.|[2510.04093](http://arxiv.org/pdf/2510.04093.pdf)|null|
+|**2025-10-07**|**Harnessing LLM for Noise-Robust Cognitive Diagnosis in Web-Based Intelligent Education Systems**|Guixian Zhang et.al.|[2510.04093](http://arxiv.org/pdf/2510.04093.pdf)|null|
 |**2025-10-05**|**What Makes Diffusion Language Models Super Data Learners?**|Zitian Gao et.al.|[2510.04071](http://arxiv.org/pdf/2510.04071.pdf)|null|
 |**2025-10-05**|**Diffusion Low Rank Hybrid Reconstruction for Sparse View Medical Imaging**|Zongyin Deng et.al.|[2510.04069](http://arxiv.org/pdf/2510.04069.pdf)|null|
 |**2025-10-05**|**Approaching the scaling limit of transport through lattices with dephasing**|Subhajit Sarkar et.al.|[2510.04062](http://arxiv.org/pdf/2510.04062.pdf)|null|
@@ -4835,7 +4835,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-27**|**Preventing Robotic Jailbreaking via Multimodal Domain Adaptation**|Francesco Marchiori et.al.|[2509.23281](http://arxiv.org/pdf/2509.23281.pdf)|null|
 |**2025-09-26**|**Persistent Autoregressive Mapping with Traffic Rules for Autonomous Driving**|Shiyi Liang et.al.|[2509.22756](http://arxiv.org/pdf/2509.22756.pdf)|null|
 |**2025-09-26**|**Self-driving cars: Are we there yet?**|Merve Atasever et.al.|[2509.22754](http://arxiv.org/pdf/2509.22754.pdf)|null|
-|**2025-09-19**|**Robust Object Detection for Autonomous Driving via Curriculum-Guided Group Relative Policy Optimization**|Xu Jia et.al.|[2509.22688](http://arxiv.org/pdf/2509.22688.pdf)|null|
+|**2025-10-07**|**Robust Object Detection for Autonomous Driving via Curriculum-Guided Group Relative Policy Optimization**|Xu Jia et.al.|[2509.22688](http://arxiv.org/pdf/2509.22688.pdf)|null|
 |**2025-10-03**|**An Intention-driven Lane Change Framework Considering Heterogeneous Dynamic Cooperation in Mixed-traffic Environment**|Xiaoyun Qiu et.al.|[2509.22550](http://arxiv.org/pdf/2509.22550.pdf)|null|
 |**2025-09-26**|**EfficientDepth: A Fast and Detail-Preserving Monocular Depth Estimation Model**|Andrii Litvynchuk et.al.|[2509.22527](http://arxiv.org/pdf/2509.22527.pdf)|null|
 |**2025-09-29**|**A Multi-Modality Evaluation of the Reality Gap in Autonomous Driving Systems**|Stefano Carlo Lambertenghi et.al.|[2509.22379](http://arxiv.org/pdf/2509.22379.pdf)|null|
