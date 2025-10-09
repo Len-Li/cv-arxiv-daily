@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.10.08
+Updated on 2025.10.09
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -41,7 +41,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-10-06**|**Did you just see that? Arbitrary view synthesis for egocentric replay of operating room workflows from ambient sensors**|Han Zhang et.al.|[2510.04802](http://arxiv.org/pdf/2510.04802.pdf)|null|
 |**2025-10-06**|**A Comparative Study of Vision Transformers and CNNs for Few-Shot Rigid Transformation and Fundamental Matrix Estimation**|Alon Kaya et.al.|[2510.04794](http://arxiv.org/pdf/2510.04794.pdf)|null|
 |**2025-10-06**|**Hands-Free Heritage: Automated 3D Scanning for Cultural Heritage Digitization**|Javed Ahmad et.al.|[2510.04781](http://arxiv.org/pdf/2510.04781.pdf)|null|
-|**2025-10-06**|**Progressive Gaussian Transformer with Anisotropy-aware Sampling for Open Vocabulary Occupancy Prediction**|Chi Yan et.al.|[2510.04759](http://arxiv.org/pdf/2510.04759.pdf)|null|
+|**2025-10-08**|**Progressive Gaussian Transformer with Anisotropy-aware Sampling for Open Vocabulary Occupancy Prediction**|Chi Yan et.al.|[2510.04759](http://arxiv.org/pdf/2510.04759.pdf)|null|
 |**2025-10-06**|**Object-Centric Representation Learning for Enhanced 3D Scene Graph Prediction**|KunHo Heo et.al.|[2510.04714](http://arxiv.org/pdf/2510.04714.pdf)|null|
 |**2025-10-06**|**Label-Efficient Cross-Modality Generalization for Liver Segmentation in Multi-Phase MRI**|Quang-Khai Bui-Tran et.al.|[2510.04705](http://arxiv.org/pdf/2510.04705.pdf)|null|
 |**2025-10-06**|**Bio-Inspired Robotic Houbara: From Development to Field Deployment for Behavioral Studies**|Lyes Saad Saoud et.al.|[2510.04692](http://arxiv.org/pdf/2510.04692.pdf)|null|
@@ -63,12 +63,12 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-10-04**|**PoseGaze-AHP: A Knowledge-Based 3D Dataset for AI-Driven Ocular and Postural Diagnosis**|Saja Al-Dabet et.al.|[2510.03873](http://arxiv.org/pdf/2510.03873.pdf)|null|
 |**2025-10-04**|**Efficiency vs. Efficacy: Assessing the Compression Ratio-Dice Score Relationship through a Simple Benchmarking Framework for Cerebrovascular 3D Segmentation**|Shimaa Elbana et.al.|[2510.03769](http://arxiv.org/pdf/2510.03769.pdf)|null|
 |**2025-10-03**|**SketchPlan: Diffusion Based Drone Planning From Human Sketches**|Sixten Norelius et.al.|[2510.03545](http://arxiv.org/pdf/2510.03545.pdf)|null|
-|**2025-10-03**|**Platonic Transformers: A Solid Choice For Equivariance**|Mohammad Mohaiminul Islam et.al.|[2510.03511](http://arxiv.org/pdf/2510.03511.pdf)|null|
+|**2025-10-08**|**Platonic Transformers: A Solid Choice For Equivariance**|Mohammad Mohaiminul Islam et.al.|[2510.03511](http://arxiv.org/pdf/2510.03511.pdf)|null|
 |**2025-10-03**|**Digital-Twin Evaluation for Proactive Human-Robot Collision Avoidance via Prediction-Guided A-RRT***|Vadivelan Murugesan et.al.|[2510.03496](http://arxiv.org/pdf/2510.03496.pdf)|null|
 |**2025-10-03**|**Spatial-ViLT: Enhancing Visual Spatial Reasoning through Multi-Task Learning**|Chashi Mahiul Islam et.al.|[2510.03441](http://arxiv.org/pdf/2510.03441.pdf)|null|
 |**2025-10-03**|**Style Brush: Guided Style Transfer for 3D Objects**|Áron Samuel Kovács et.al.|[2510.03433](http://arxiv.org/pdf/2510.03433.pdf)|null|
 |**2025-10-03**|**Real-time nonlinear inversion of magnetic resonance elastography with operator learning**|Juampablo E. Heras Rivera et.al.|[2510.03372](http://arxiv.org/pdf/2510.03372.pdf)|null|
-|**2025-10-03**|**Unified Unsupervised Anomaly Detection via Matching Cost Filtering**|Zhe Zhang et.al.|[2510.03363](http://arxiv.org/pdf/2510.03363.pdf)|null|
+|**2025-10-08**|**Unified Unsupervised Anomaly Detection via Matching Cost Filtering**|Zhe Zhang et.al.|[2510.03363](http://arxiv.org/pdf/2510.03363.pdf)|null|
 |**2025-10-02**|**Sonar Image Datasets: A Comprehensive Survey of Resources, Challenges, and Applications**|Larissa S. Gomes et.al.|[2510.03353](http://arxiv.org/pdf/2510.03353.pdf)|null|
 |**2025-10-02**|**Visual Odometry with Transformers**|Vlardimir Yugay et.al.|[2510.03348](http://arxiv.org/pdf/2510.03348.pdf)|null|
 |**2025-09-30**|**Universal Beta Splatting**|Rong Liu et.al.|[2510.03312](http://arxiv.org/pdf/2510.03312.pdf)|null|
@@ -1490,7 +1490,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-10-07**|**Complete Synchronization and Pattern Selection through Amplitude Dynamics and Diffusion in Heterogeneous Oscillatory Media**|Nicolas Thomé et.al.|[2510.06083](http://arxiv.org/pdf/2510.06083.pdf)|null|
 |**2025-10-07**|**Mechanistic-statistical inference of mosquito dynamics from mark-release-recapture data**|Nga Nguyen et.al.|[2510.06080](http://arxiv.org/pdf/2510.06080.pdf)|null|
 |**2025-10-07**|**Controllable Audio-Visual Viewpoint Generation from 360° Spatial Information**|Christian Marinoni et.al.|[2510.06060](http://arxiv.org/pdf/2510.06060.pdf)|null|
-|**2025-10-07**|**Edit-Based Flow Matching for Temporal Point Processes**|David Lüdke et.al.|[2510.06050](http://arxiv.org/pdf/2510.06050.pdf)|null|
+|**2025-10-08**|**Edit-Based Flow Matching for Temporal Point Processes**|David Lüdke et.al.|[2510.06050](http://arxiv.org/pdf/2510.06050.pdf)|null|
 |**2025-10-07**|**The gamma-ray emission from Radio Galaxies and their contribution to the Isotropic Gamma-Ray Background**|A. Circiello et.al.|[2510.06047](http://arxiv.org/pdf/2510.06047.pdf)|null|
 |**2025-10-07**|**Emergent Directedness in Social Contagion**|Fabian Tschofenig et.al.|[2510.06012](http://arxiv.org/pdf/2510.06012.pdf)|null|
 |**2025-10-07**|**ECTSpeech: Enhancing Efficient Speech Synthesis via Easy Consistency Tuning**|Tao Zhu et.al.|[2510.05984](http://arxiv.org/pdf/2510.05984.pdf)|null|
@@ -4875,7 +4875,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-10-07**|**Precise and Efficient Collision Prediction under Uncertainty in Autonomous Driving**|Marc Kaufeld et.al.|[2510.05729](http://arxiv.org/pdf/2510.05729.pdf)|null|
 |**2025-10-07**|**HoloScene: Simulation-Ready Interactive 3D Worlds from a Single Video**|Hongchi Xia et.al.|[2510.05560](http://arxiv.org/pdf/2510.05560.pdf)|null|
 |**2025-10-06**|**Comparative Analysis of YOLOv5, Faster R-CNN, SSD, and RetinaNet for Motorbike Detection in Kigali Autonomous Driving Context**|Ngeyen Yinkfu et.al.|[2510.04912](http://arxiv.org/pdf/2510.04912.pdf)|null|
-|**2025-10-06**|**Progressive Gaussian Transformer with Anisotropy-aware Sampling for Open Vocabulary Occupancy Prediction**|Chi Yan et.al.|[2510.04759](http://arxiv.org/pdf/2510.04759.pdf)|null|
+|**2025-10-08**|**Progressive Gaussian Transformer with Anisotropy-aware Sampling for Open Vocabulary Occupancy Prediction**|Chi Yan et.al.|[2510.04759](http://arxiv.org/pdf/2510.04759.pdf)|null|
 |**2025-10-05**|**Diffusion^2: Dual Diffusion Model with Uncertainty-Aware Adaptive Noise for Momentary Trajectory Prediction**|Yuhao Luo et.al.|[2510.04365](http://arxiv.org/pdf/2510.04365.pdf)|null|
 |**2025-10-04**|**From Filters to VLMs: Benchmarking Defogging Methods through Object Detection and Segmentation Performance**|Ardalan Aryashad et.al.|[2510.03906](http://arxiv.org/pdf/2510.03906.pdf)|null|
 |**2025-10-04**|**Referring Expression Comprehension for Small Objects**|Kanoko Goto et.al.|[2510.03701](http://arxiv.org/pdf/2510.03701.pdf)|null|
