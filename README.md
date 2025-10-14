@@ -1,4 +1,4 @@
-Updated on 2025.10.13
+Updated on 2025.10.14
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -54,7 +54,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-10-09**|**XYZCylinder: Feedforward Reconstruction for Driving Scenes Based on A Unified Cylinder Lifting Method**|Haochen Yu et.al.|[2510.07856](http://arxiv.org/pdf/2510.07856.pdf)|null|
 |**2025-10-09**|**AlignGS: Aligning Geometry and Semantics for Robust Indoor Reconstruction from Sparse Views**|Yijie Gao et.al.|[2510.07839](http://arxiv.org/pdf/2510.07839.pdf)|null|
 |**2025-10-09**|**PrismGS: Physically-Grounded Anti-Aliasing for High-Fidelity Large-Scale 3D Gaussian Splatting**|Houqiang Zhong et.al.|[2510.07830](http://arxiv.org/pdf/2510.07830.pdf)|null|
-|**2025-10-09**|**MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions**|Kaen Kogashi et.al.|[2510.07828](http://arxiv.org/pdf/2510.07828.pdf)|null|
+|**2025-10-11**|**MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions**|Kaen Kogashi et.al.|[2510.07828](http://arxiv.org/pdf/2510.07828.pdf)|null|
 |**2025-10-09**|**Demystifying Deep Learning-based Brain Tumor Segmentation with 3D UNets and Explainable AI (XAI): A Comparative Analysis**|Ming Jie Ong et.al.|[2510.07785](http://arxiv.org/pdf/2510.07785.pdf)|null|
 |**2025-10-09**|**DEGS: Deformable Event-based 3D Gaussian Splatting from RGB and Event Stream**|Junhao He et.al.|[2510.07752](http://arxiv.org/pdf/2510.07752.pdf)|null|
 |**2025-10-09**|**ComGS: Efficient 3D Object-Scene Composition via Surface Octahedral Probes**|Jian Gao et.al.|[2510.07729](http://arxiv.org/pdf/2510.07729.pdf)|null|
@@ -101,7 +101,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-10-06**|**AD-NODE: Adaptive Dynamics Learning with Neural ODEs for Mobile Robots Control**|Shao-Yi Yu et.al.|[2510.05443](http://arxiv.org/pdf/2510.05443.pdf)|null|
 |**2025-10-06**|**Active Semantic Perception**|Huayi Tang et.al.|[2510.05430](http://arxiv.org/pdf/2510.05430.pdf)|null|
 |**2025-10-06**|**SegMASt3R: Geometry Grounded Segment Matching**|Rohit Jayanti et.al.|[2510.05051](http://arxiv.org/pdf/2510.05051.pdf)|null|
-|**2025-10-06**|**Efficient Navigation in Unknown Indoor Environments with Vision-Language Models**|D. Schwartz et.al.|[2510.04991](http://arxiv.org/pdf/2510.04991.pdf)|null|
+|**2025-10-11**|**Efficient Navigation in Unknown Indoor Environments with Vision-Language Models**|D. Schwartz et.al.|[2510.04991](http://arxiv.org/pdf/2510.04991.pdf)|null|
 |**2025-10-06**|**Bidirectional Mammogram View Translation with Column-Aware and Implicit 3D Conditional Diffusion**|Xin Li et.al.|[2510.04947](http://arxiv.org/pdf/2510.04947.pdf)|null|
 |**2025-10-06**|**From Actions to Kinesics: Extracting Human Psychological States through Bodily Movements**|Cheyu Lin et.al.|[2510.04844](http://arxiv.org/pdf/2510.04844.pdf)|null|
 |**2025-10-06**|**Detailed Aerial Mapping of Photovoltaic Power Plants Through Semantically Significant Keypoints**|Viktor Kozák et.al.|[2510.04840](http://arxiv.org/pdf/2510.04840.pdf)|null|
@@ -1543,7 +1543,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978](http://arxiv.org/pdf/2507.07978.pdf)|null|
 |**2025-07-10**|**RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection**|Yongyang Zhou et.al.|[2507.07733](http://arxiv.org/pdf/2507.07733.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251014>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1610,7 +1610,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-10-09**|**Who Said Neural Networks Aren't Linear?**|Nimrod Berman et.al.|[2510.08570](http://arxiv.org/pdf/2510.08570.pdf)|null|
 |**2025-10-09**|**NovaFlow: Zero-Shot Manipulation via Actionable Flow from Generated Videos**|Hongyu Li et.al.|[2510.08568](http://arxiv.org/pdf/2510.08568.pdf)|null|
 |**2025-10-09**|**ResAD: Normalized Residual Trajectory Modeling for End-to-End Autonomous Driving**|Zhiyu Zheng et.al.|[2510.08562](http://arxiv.org/pdf/2510.08562.pdf)|null|
-|**2025-10-09**|**MultiCOIN: Multi-Modal COntrollable Video INbetweening**|Maham Tanveer et.al.|[2510.08561](http://arxiv.org/pdf/2510.08561.pdf)|null|
+|**2025-10-11**|**MultiCOIN: Multi-Modal COntrollable Video INbetweening**|Maham Tanveer et.al.|[2510.08561](http://arxiv.org/pdf/2510.08561.pdf)|null|
 |**2025-10-09**|**Classical to Quantum Diffusive Transport in Atomically Thin Semiconductors Capped with High-k Dielectric**|Jaroslaw Pawlowski et.al.|[2510.08557](http://arxiv.org/pdf/2510.08557.pdf)|null|
 |**2025-10-09**|**VideoCanvas: Unified Video Completion from Arbitrary Spatiotemporal Patches via In-Context Conditioning**|Minghong Cai et.al.|[2510.08555](http://arxiv.org/pdf/2510.08555.pdf)|null|
 |**2025-10-09**|**Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization**|Kevin Rojas et.al.|[2510.08554](http://arxiv.org/pdf/2510.08554.pdf)|null|
@@ -4733,7 +4733,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/pdf/2507.20987.pdf)|null|
 |**2025-07-28**|**Adapting Vehicle Detectors for Aerial Imagery to Unseen Domains with Weak Supervision**|Xiao Fang et.al.|[2507.20976](http://arxiv.org/pdf/2507.20976.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251014>back to top</a>)</p>
 
 ## Industry
 
@@ -5139,7 +5139,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-04-19**|**M $^2$ BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation**|Enze Xie et.al.|[2204.05088](http://arxiv.org/pdf/2204.05088.pdf)|null|
 |**2022-04-06**|**AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis**|Zhiqin Chen et.al.|[2204.03105](http://arxiv.org/pdf/2204.03105.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251014>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -5591,7 +5591,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-14**|**RCG: Safety-Critical Scenario Generation for Robust Autonomous Driving via Real-World Crash Grounding**|Benjamin Stoler et.al.|[2507.10749](http://arxiv.org/pdf/2507.10749.pdf)|null|
 |**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/pdf/2507.10500.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251014>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -5689,7 +5689,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-09-14**|**Embodied Intelligence in Disassembly: Multimodal Perception Cross-validation and Continual Learning in Neuro-Symbolic TAMP**|Ziwen He et.al.|[2509.11270](http://arxiv.org/pdf/2509.11270.pdf)|null|
 |**2025-09-14**|**SAMP: Spatial Anchor-based Motion Policy for Collision-Aware Robotic Manipulators**|Kai Chen et.al.|[2509.11185](http://arxiv.org/pdf/2509.11185.pdf)|null|
 |**2025-09-14**|**End-to-End Visual Autonomous Parking via Control-Aided Attention**|Chao Chen et.al.|[2509.11090](http://arxiv.org/pdf/2509.11090.pdf)|null|
-|**2025-09-28**|**Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following**|Hanjing Ye et.al.|[2509.10796](http://arxiv.org/pdf/2509.10796.pdf)|null|
+|**2025-10-11**|**Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following**|Hanjing Ye et.al.|[2509.10796](http://arxiv.org/pdf/2509.10796.pdf)|null|
 |**2025-09-12**|**STL-Based Motion Planning and Uncertainty-Aware Risk Analysis for Human-Robot Collaboration with a Multi-Rotor Aerial Vehicle**|Giuseppe Silano et.al.|[2509.10692](http://arxiv.org/pdf/2509.10692.pdf)|null|
 |**2025-09-11**|**Large Foundation Models for Trajectory Prediction in Autonomous Driving: A Comprehensive Survey**|Wei Dai et.al.|[2509.10570](http://arxiv.org/pdf/2509.10570.pdf)|null|
 |**2025-09-12**|**Coordinated Motion Planning of a Wearable Multi-Limb System for Enhanced Human-Robot Interaction**|Chaerim Moon et.al.|[2509.10444](http://arxiv.org/pdf/2509.10444.pdf)|null|
@@ -5923,5 +5923,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-06-20**|**Judo: A User-Friendly Open-Source Package for Sampling-Based Model Predictive Control**|Albert H. Li et.al.|[2506.17184](http://arxiv.org/pdf/2506.17184.pdf)|null|
 |**2025-07-11**|**Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms**|Aditya Bhatt et.al.|[2506.16710](http://arxiv.org/pdf/2506.16710.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251014>back to top</a>)</p>
 
