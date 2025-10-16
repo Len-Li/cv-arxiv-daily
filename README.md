@@ -1,4 +1,4 @@
-Updated on 2025.10.15
+Updated on 2025.10.16
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -17,7 +17,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-10-14**|**Uncertainty Matters in Dynamic Gaussian Splatting for Monocular 4D Reconstruction**|Fengzhi Guo et.al.|[2510.12768](http://arxiv.org/pdf/2510.12768.pdf)|null|
 |**2025-10-14**|**PET Head Motion Estimation Using Supervised Deep Learning with Attention**|Zhuotong Cai et.al.|[2510.12758](http://arxiv.org/pdf/2510.12758.pdf)|null|
 |**2025-10-14**|**E-MoFlow: Learning Egomotion and Optical Flow from Event Data via Implicit Regularization**|Wenpu Li et.al.|[2510.12753](http://arxiv.org/pdf/2510.12753.pdf)|null|
-|**2025-10-14**|**MCOP: Multi-UAV Collaborative Occupancy Prediction**|Zefu Lin et.al.|[2510.12679](http://arxiv.org/pdf/2510.12679.pdf)|null|
+|**2025-10-15**|**MCOP: Multi-UAV Collaborative Occupancy Prediction**|Zefu Lin et.al.|[2510.12679](http://arxiv.org/pdf/2510.12679.pdf)|null|
 |**2025-10-14**|**MMOT: The First Challenging Benchmark for Drone-based Multispectral Multi-Object Tracking**|Tianhao Li et.al.|[2510.12565](http://arxiv.org/pdf/2510.12565.pdf)|null|
 |**2025-10-14**|**Voronoi-Assisted Diffusion for Computing Unsigned Distance Fields from Unoriented Points**|Jiayi Kong et.al.|[2510.12524](http://arxiv.org/pdf/2510.12524.pdf)|null|
 |**2025-10-14**|**BSGS: Bi-stage 3D Gaussian Splatting for Camera Motion Deblurring**|An Zhao et.al.|[2510.12493](http://arxiv.org/pdf/2510.12493.pdf)|null|
@@ -1627,7 +1627,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978](http://arxiv.org/pdf/2507.07978.pdf)|null|
 |**2025-07-10**|**RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection**|Yongyang Zhou et.al.|[2507.07733](http://arxiv.org/pdf/2507.07733.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251016>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1654,7 +1654,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-10-14**|**Voronoi-Assisted Diffusion for Computing Unsigned Distance Fields from Unoriented Points**|Jiayi Kong et.al.|[2510.12524](http://arxiv.org/pdf/2510.12524.pdf)|null|
 |**2025-10-14**|**Mitigating the Noise Shift for Denoising Generative Models via Noise Awareness Guidance**|Jincheng Zhong et.al.|[2510.12497](http://arxiv.org/pdf/2510.12497.pdf)|null|
 |**2025-10-14**|**Time-Correlated Video Bridge Matching**|Viacheslav Vasilev et.al.|[2510.12453](http://arxiv.org/pdf/2510.12453.pdf)|null|
-|**2025-10-14**|**The value of storage in electricity distribution: The role of storage**|Dirk Lauinger et.al.|[2510.12435](http://arxiv.org/pdf/2510.12435.pdf)|null|
+|**2025-10-15**|**The value of storage in electricity distribution: The role of markets**|Dirk Lauinger et.al.|[2510.12435](http://arxiv.org/pdf/2510.12435.pdf)|null|
 |**2025-10-14**|**Targeted Pooled Latent-Space Steganalysis Applied to Generative Steganography, with a Fix**|Etienne Levecque et.al.|[2510.12414](http://arxiv.org/pdf/2510.12414.pdf)|null|
 |**2025-10-14**|**Improving Generative Behavior Cloning via Self-Guidance and Adaptive Chunking**|Junhyuk So et.al.|[2510.12392](http://arxiv.org/pdf/2510.12392.pdf)|null|
 |**2025-10-14**|**Scene Coordinate Reconstruction Priors**|Wenjing Bian et.al.|[2510.12387](http://arxiv.org/pdf/2510.12387.pdf)|null|
@@ -1693,7 +1693,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-10-14**|**VIDMP3: Video Editing by Representing Motion with Pose and Position Priors**|Sandeep Mishra et.al.|[2510.12069](http://arxiv.org/pdf/2510.12069.pdf)|null|
 |**2025-10-14**|**Your VAR Model is Secretly an Efficient and Explainable Generative Classifier**|Yi-Chung Chen et.al.|[2510.12060](http://arxiv.org/pdf/2510.12060.pdf)|null|
 |**2025-10-14**|**Quantification of Electrolyte Degradation in Lithium-ion Batteries with Neutron Imaging Techniques**|Yonggang Hu et.al.|[2510.12055](http://arxiv.org/pdf/2510.12055.pdf)|null|
-|**2025-10-14**|**Improving Text-to-Image Generation with Input-Side Inference-Time Scaling**|Ruibo Chen et.al.|[2510.12041](http://arxiv.org/pdf/2510.12041.pdf)|null|
+|**2025-10-15**|**Improving Text-to-Image Generation with Input-Side Inference-Time Scaling**|Ruibo Chen et.al.|[2510.12041](http://arxiv.org/pdf/2510.12041.pdf)|null|
 |**2025-10-13**|**Asking Clarifying Questions for Preference Elicitation With Large Language Models**|Ali Montazeralghaem et.al.|[2510.12015](http://arxiv.org/pdf/2510.12015.pdf)|null|
 |**2025-10-13**|**UALM: Unified Audio Language Model for Understanding, Generation and Reasoning**|Jinchuan Tian et.al.|[2510.12000](http://arxiv.org/pdf/2510.12000.pdf)|null|
 |**2025-10-13**|**Impact of Cosmic Ray Acceleration on the Early Evolution of Bow Shocks around Massive Runaway Stars**|Keito Watanabe et.al.|[2510.11988](http://arxiv.org/pdf/2510.11988.pdf)|null|
@@ -4991,7 +4991,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/pdf/2507.20987.pdf)|null|
 |**2025-07-28**|**Adapting Vehicle Detectors for Aerial Imagery to Unseen Domains with Weak Supervision**|Xiao Fang et.al.|[2507.20976](http://arxiv.org/pdf/2507.20976.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251016>back to top</a>)</p>
 
 ## Industry
 
@@ -5410,7 +5410,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-04-19**|**M $^2$ BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation**|Enze Xie et.al.|[2204.05088](http://arxiv.org/pdf/2204.05088.pdf)|null|
 |**2022-04-06**|**AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis**|Zhiqin Chen et.al.|[2204.03105](http://arxiv.org/pdf/2204.03105.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251016>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -5883,7 +5883,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-14**|**RCG: Safety-Critical Scenario Generation for Robust Autonomous Driving via Real-World Crash Grounding**|Benjamin Stoler et.al.|[2507.10749](http://arxiv.org/pdf/2507.10749.pdf)|null|
 |**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/pdf/2507.10500.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251016>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -6228,5 +6228,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-06-20**|**Judo: A User-Friendly Open-Source Package for Sampling-Based Model Predictive Control**|Albert H. Li et.al.|[2506.17184](http://arxiv.org/pdf/2506.17184.pdf)|null|
 |**2025-07-11**|**Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms**|Aditya Bhatt et.al.|[2506.16710](http://arxiv.org/pdf/2506.16710.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251016>back to top</a>)</p>
 
