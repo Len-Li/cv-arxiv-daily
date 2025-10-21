@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.10.20
+Updated on 2025.10.21
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -1772,7 +1772,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-10-16**|**DialectGen: Benchmarking and Improving Dialect Robustness in Multimodal Generation**|Yu Zhou et.al.|[2510.14949](http://arxiv.org/pdf/2510.14949.pdf)|null|
 |**2025-10-16**|**3D Scene Prompting for Scene-Consistent Camera-Controllable Video Generation**|JoungBin Lee et.al.|[2510.14945](http://arxiv.org/pdf/2510.14945.pdf)|null|
 |**2025-10-16**|**X-ray panorama of the SS433/W50 complex by SRG/eROSITA**|Rashid Sunyaev et.al.|[2510.14938](http://arxiv.org/pdf/2510.14938.pdf)|null|
-|**2025-10-16**|**VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tunin**|Binghao Huang et.al.|[2510.14930](http://arxiv.org/pdf/2510.14930.pdf)|null|
+|**2025-10-18**|**VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tuning**|Binghao Huang et.al.|[2510.14930](http://arxiv.org/pdf/2510.14930.pdf)|null|
 |**2025-10-16**|**Finite element methods for electroneutral multicomponent electrolyte flows**|Aaron Baier-Reinio et.al.|[2510.14923](http://arxiv.org/pdf/2510.14923.pdf)|null|
 |**2025-10-16**|**ScaleWeaver: Weaving Efficient Controllable T2I Generation with Multi-Scale Reference Attention**|Keli Liu et.al.|[2510.14882](http://arxiv.org/pdf/2510.14882.pdf)|null|
 |**2025-10-16**|**TOUCH: Text-guided Controllable Generation of Free-Form Hand-Object Interactions**|Guangyi Han et.al.|[2510.14874](http://arxiv.org/pdf/2510.14874.pdf)|null|
@@ -1793,7 +1793,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-10-16**|**GOPLA: Generalizable Object Placement Learning via Synthetic Augmentation of Human Arrangement**|Yao Zhong et.al.|[2510.14627](http://arxiv.org/pdf/2510.14627.pdf)|null|
 |**2025-10-16**|**Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models**|Edward Sandra et.al.|[2510.14615](http://arxiv.org/pdf/2510.14615.pdf)|null|
 |**2025-10-16**|**Modeling Diffusion and Permeation Across the Stratum Corneum Lipid Barrier**|Rinto Thomas et.al.|[2510.14606](http://arxiv.org/pdf/2510.14606.pdf)|null|
-|**2025-10-16**|**STANCE: Motion Coherent Video Generation Via Sparse-to-Dense Anchored Encoding**|Zhifei Chen et.al.|[2510.14588](http://arxiv.org/pdf/2510.14588.pdf)|null|
+|**2025-10-19**|**STANCE: Motion Coherent Video Generation Via Sparse-to-Dense Anchored Encoding**|Zhifei Chen et.al.|[2510.14588](http://arxiv.org/pdf/2510.14588.pdf)|null|
 |**2025-10-16**|**Consistent text-to-image generation via scene de-contextualization**|Song Tang et.al.|[2510.14553](http://arxiv.org/pdf/2510.14553.pdf)|null|
 |**2025-10-16**|**Revisiting electron-capture decay for Galactic cosmic-ray data**|M. Borchiellini et.al.|[2510.14544](http://arxiv.org/pdf/2510.14544.pdf)|null|
 |**2025-10-16**|**Exploring Image Representation with Decoupled Classical Visual Descriptors**|Chenyuan Qu et.al.|[2510.14536](http://arxiv.org/pdf/2510.14536.pdf)|null|
