@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.11.03
+Updated on 2025.11.04
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -1991,7 +1991,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-10-30**|**A Critical Examination of the PAH Hypothesis**|Alan T. Tokunaga et.al.|[2510.26970](http://arxiv.org/pdf/2510.26970.pdf)|null|
 |**2025-10-30**|**Ultra-High Dose-Rates, the FLASH Effect, and Hydrogen Peroxide Yields: Do Experiments and Simulations Really Disagree?**|Marc Benjamin Hahn et.al.|[2510.26928](http://arxiv.org/pdf/2510.26928.pdf)|null|
 |**2025-10-30**|**Can galactic magnetic fields diffuse into the voids?**|Oindrila Ghosh et.al.|[2510.26918](http://arxiv.org/pdf/2510.26918.pdf)|null|
-|**2025-10-30**|**Generative diffusion modeling protocols for improving the Kikuchi pattern indexing in electron back-scatter diffraction**|Meghraj Prajapata et.al.|[2510.26907](http://arxiv.org/pdf/2510.26907.pdf)|null|
+|**2025-10-30**|**Generative diffusion modeling protocols for improving the Kikuchi pattern indexing in electron back-scatter diffraction**|Meghraj Prajapat et.al.|[2510.26907](http://arxiv.org/pdf/2510.26907.pdf)|null|
 |**2025-10-30**|**Enhancing Neural Network Backflow**|Kieran Loehr et.al.|[2510.26906](http://arxiv.org/pdf/2510.26906.pdf)|null|
 |**2025-10-30**|**Superdiffusion and anomalous fluctuations in chiral integrable dynamics**|Cristiano Muzzi et.al.|[2510.26897](http://arxiv.org/pdf/2510.26897.pdf)|null|
 |**2025-10-30**|**BI-DCGAN: A Theoretically Grounded Bayesian Framework for Efficient and Diverse GANs**|Mahsa Valizadeh et.al.|[2510.26892](http://arxiv.org/pdf/2510.26892.pdf)|null|
