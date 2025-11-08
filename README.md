@@ -1,4 +1,4 @@
-Updated on 2025.11.07
+Updated on 2025.11.08
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -13,6 +13,25 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-06**|**Cambrian-S: Towards Spatial Supersensing in Video**|Shusheng Yang et.al.|[2511.04670](http://arxiv.org/pdf/2511.04670.pdf)|null|
+|**2025-11-06**|**SIMS-V: Simulated Instruction-Tuning for Spatial Video Understanding**|Ellis Brown et.al.|[2511.04668](http://arxiv.org/pdf/2511.04668.pdf)|null|
+|**2025-11-06**|**Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions**|Kaifeng Zhang et.al.|[2511.04665](http://arxiv.org/pdf/2511.04665.pdf)|null|
+|**2025-11-06**|**UniSplat: Unified Spatio-Temporal Fusion via 3D Latent Scaffolds for Dynamic Driving Scene Reconstruction**|Chen Shi et.al.|[2511.04595](http://arxiv.org/pdf/2511.04595.pdf)|null|
+|**2025-11-06**|**$μ$ NeuFMT: Optical-Property-Adaptive Fluorescence Molecular Tomography via Implicit Neural Representation**|Shihan Zhao et.al.|[2511.04510](http://arxiv.org/pdf/2511.04510.pdf)|null|
+|**2025-11-06**|**BoRe-Depth: Self-supervised Monocular Depth Estimation with Boundary Refinement for Embedded Systems**|Chang Liu et.al.|[2511.04388](http://arxiv.org/pdf/2511.04388.pdf)|null|
+|**2025-11-06**|**ForeRobo: Unlocking Infinite Simulation Data for 3D Goal-driven Robotic Manipulation**|Dexin wang et.al.|[2511.04381](http://arxiv.org/pdf/2511.04381.pdf)|null|
+|**2025-11-06**|**Evaluating the Impact of Weather-Induced Sensor Occlusion on BEVFusion for 3D Object Detection**|Sanjay Kumar et.al.|[2511.04347](http://arxiv.org/pdf/2511.04347.pdf)|null|
+|**2025-11-06**|**Submanifold Sparse Convolutional Networks for Automated 3D Segmentation of Kidneys and Kidney Tumours in Computed Tomography**|Saúl Alonso-Monsalve et.al.|[2511.04334](http://arxiv.org/pdf/2511.04334.pdf)|null|
+|**2025-11-06**|**FastGS: Training 3D Gaussian Splatting in 100 Seconds**|Shiwei Ren et.al.|[2511.04283](http://arxiv.org/pdf/2511.04283.pdf)|null|
+|**2025-11-06**|**GraspView: Active Perception Scoring and Best-View Optimization for Robotic Grasping in Cluttered Environments**|Shenglin Wang et.al.|[2511.04199](http://arxiv.org/pdf/2511.04199.pdf)|null|
+|**2025-11-06**|**When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation**|Nishchal Sapkota et.al.|[2511.04084](http://arxiv.org/pdf/2511.04084.pdf)|null|
+|**2025-11-06**|**Near-Lossless 3D Voxel Representation Free from Iso-surface**|Yihao Luo et.al.|[2511.04029](http://arxiv.org/pdf/2511.04029.pdf)|null|
+|**2025-11-06**|**CaRF: Enhancing Multi-View Consistency in Referring 3D Gaussian Splatting Segmentation**|Yuwen Tao et.al.|[2511.03992](http://arxiv.org/pdf/2511.03992.pdf)|null|
+|**2025-11-06**|**Simple 3D Pose Features Support Human and Machine Social Scene Understanding**|Wenshuo Qin et.al.|[2511.03988](http://arxiv.org/pdf/2511.03988.pdf)|null|
+|**2025-11-06**|**Room Envelopes: A Synthetic Dataset for Indoor Layout Reconstruction from Images**|Sam Bahrami et.al.|[2511.03970](http://arxiv.org/pdf/2511.03970.pdf)|null|
+|**2025-11-06**|**A Linear Fractional Transformation Model and Calibration Method for Light Field Camera**|Zhong Chen et.al.|[2511.03962](http://arxiv.org/pdf/2511.03962.pdf)|null|
+|**2025-11-06**|**Improving Multi-View Reconstruction via Texture-Guided Gaussian-Mesh Joint Optimization**|Zhejia Cai et.al.|[2511.03950](http://arxiv.org/pdf/2511.03950.pdf)|null|
+|**2025-11-05**|**Shape Deformation Networks for Automated Aortic Valve Finite Element Meshing from 3D CT Images**|Linchen Qian et.al.|[2511.03890](http://arxiv.org/pdf/2511.03890.pdf)|null|
 |**2025-11-05**|**A Lightweight 3D-CNN for Event-Based Human Action Recognition with Privacy-Preserving Potential**|Mehdi Sefidgar Dilmaghani et.al.|[2511.03665](http://arxiv.org/pdf/2511.03665.pdf)|null|
 |**2025-11-05**|**Human Mesh Modeling for Anny Body**|Romain Brégier et.al.|[2511.03589](http://arxiv.org/pdf/2511.03589.pdf)|null|
 |**2025-11-05**|**OneOcc: Semantic Occupancy Prediction for Legged Robots with a Single Panoramic Camera**|Hao Shi et.al.|[2511.03571](http://arxiv.org/pdf/2511.03571.pdf)|null|
@@ -1996,12 +2015,52 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978](http://arxiv.org/pdf/2507.07978.pdf)|null|
 |**2025-07-10**|**RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection**|Yongyang Zhou et.al.|[2507.07733](http://arxiv.org/pdf/2507.07733.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251108>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-06**|**InfinityStar: Unified Spacetime AutoRegressive Modeling for Visual Generation**|Jinlai Liu et.al.|[2511.04675](http://arxiv.org/pdf/2511.04675.pdf)|null|
+|**2025-11-06**|**X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations**|Maximus A. Pace et.al.|[2511.04671](http://arxiv.org/pdf/2511.04671.pdf)|null|
+|**2025-11-06**|**Intermittency in Collisionless Large-Amplitude Turbulence**|Ryan Golant et.al.|[2511.04663](http://arxiv.org/pdf/2511.04663.pdf)|null|
+|**2025-11-06**|**Nowcast3D: Reliable precipitation nowcasting via gray-box learning**|Huaguan Chen et.al.|[2511.04659](http://arxiv.org/pdf/2511.04659.pdf)|null|
+|**2025-11-06**|**Optimal Inference Schedules for Masked Diffusion Models**|Sitan Chen et.al.|[2511.04647](http://arxiv.org/pdf/2511.04647.pdf)|null|
+|**2025-11-06**|**Efficient probabilistic surrogate modeling techniques for partially-observed large-scale dynamical systems**|Hans Harder et.al.|[2511.04641](http://arxiv.org/pdf/2511.04641.pdf)|null|
+|**2025-11-06**|**PromptSep: Generative Audio Separation via Multimodal Prompting**|Yutong Wen et.al.|[2511.04623](http://arxiv.org/pdf/2511.04623.pdf)|null|
+|**2025-11-06**|**Building Trust in Virtual Immunohistochemistry: Automated Assessment of Image Quality**|Tushar Kataria et.al.|[2511.04615](http://arxiv.org/pdf/2511.04615.pdf)|null|
+|**2025-11-06**|**Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm**|Jingqi Tong et.al.|[2511.04570](http://arxiv.org/pdf/2511.04570.pdf)|null|
+|**2025-11-06**|**Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment**|Tao Lin et.al.|[2511.04555](http://arxiv.org/pdf/2511.04555.pdf)|null|
+|**2025-11-06**|**Microservices Is Dying, A New Method for Module Division Based on Universal Interfaces**|Qing Wang et.al.|[2511.04548](http://arxiv.org/pdf/2511.04548.pdf)|null|
+|**2025-11-06**|**Unified Generative Latent Representation for Functional Brain Graphs**|Subati Abulikemu et.al.|[2511.04539](http://arxiv.org/pdf/2511.04539.pdf)|null|
+|**2025-11-06**|**THEval. Evaluation Framework for Talking Head Video Generation**|Nabyl Quignon et.al.|[2511.04520](http://arxiv.org/pdf/2511.04520.pdf)|null|
+|**2025-11-06**|**Launch-Day Diffusion: Tracking Hacker News Impact on GitHub Stars for AI Tools**|Obada Kraishan et.al.|[2511.04453](http://arxiv.org/pdf/2511.04453.pdf)|null|
+|**2025-11-06**|**First order statistic of afterpulsing and crosstalk events in SiPMs**|Sergey Vinogradov et.al.|[2511.04443](http://arxiv.org/pdf/2511.04443.pdf)|null|
+|**2025-11-06**|**A Natural Stochastic SIS Model, Analysis of Moments and Comparison of Different Perturbation Techniques**|Berk Tan Perçin et.al.|[2511.04415](http://arxiv.org/pdf/2511.04415.pdf)|null|
+|**2025-11-06**|**Lecture notes on Quantum Diffusion and Random Matrix Theory**|Felipe Hernández et.al.|[2511.04380](http://arxiv.org/pdf/2511.04380.pdf)|null|
+|**2025-11-06**|**MusRec: Zero-Shot Text-to-Music Editing via Rectified Flow and Diffusion Transformers**|Ali Boudaghi et.al.|[2511.04376](http://arxiv.org/pdf/2511.04376.pdf)|null|
+|**2025-11-06**|**RISE-T2V: Rephrasing and Injecting Semantics with LLM for Expansive Text-to-Video Generation**|Xiangjun Zhang et.al.|[2511.04317](http://arxiv.org/pdf/2511.04317.pdf)|null|
+|**2025-11-06**|**Novel Numerical Methods for Accurate Space Thermal Analysis: Enforcing View Factors and Modeling Diffuse Reflectivity**|Bernat Frangi et.al.|[2511.04277](http://arxiv.org/pdf/2511.04277.pdf)|null|
+|**2025-11-06**|**Quantum time-marching algorithms for solving linear transport problems including boundary conditions**|Sergio Bengoechea et.al.|[2511.04271](http://arxiv.org/pdf/2511.04271.pdf)|null|
+|**2025-11-06**|**Proto-LeakNet: Towards Signal-Leak Aware Attribution in Synthetic Human Face Imagery**|Claudio Giusti et.al.|[2511.04260](http://arxiv.org/pdf/2511.04260.pdf)|null|
+|**2025-11-06**|**Learning to Land Anywhere: Transferable Generative Models for Aircraft Trajectories**|Olav Finne Praesteng Larsen et.al.|[2511.04155](http://arxiv.org/pdf/2511.04155.pdf)|null|
+|**2025-11-06**|**Text to Sketch Generation with Multi-Styles**|Tengjie Li et.al.|[2511.04123](http://arxiv.org/pdf/2511.04123.pdf)|null|
+|**2025-11-06**|**Tortoise and Hare Guidance: Accelerating Diffusion Model Inference with Multirate Integration**|Yunghee Lee et.al.|[2511.04117](http://arxiv.org/pdf/2511.04117.pdf)|null|
+|**2025-11-06**|**SpatialLock: Precise Spatial Control in Text-to-Image Synthesis**|Biao Liu et.al.|[2511.04112](http://arxiv.org/pdf/2511.04112.pdf)|null|
+|**2025-11-06**|**Sub-exponential Growth in Online Word Usage: A Piecewise Power-Law Model**|Hayafumi Watanabe et.al.|[2511.04106](http://arxiv.org/pdf/2511.04106.pdf)|null|
+|**2025-11-06**|**A simulation that recapitulates the dynamics of PER-directed colloidal assembly**|Cheng-Hung Chou et.al.|[2511.04102](http://arxiv.org/pdf/2511.04102.pdf)|null|
+|**2025-11-06**|**Ultra-Diffuse, Ultra-Different: Observed vs. Simulated Ultra-Diffuse Galaxies Live in Fundamentally Different Halos**|Jonah S. Gannon et.al.|[2511.04006](http://arxiv.org/pdf/2511.04006.pdf)|null|
+|**2025-11-06**|**PhysCorr: Dual-Reward DPO for Physics-Constrained Text-to-Video Generation with Automated Preference Selection**|Peiyao Wang et.al.|[2511.03997](http://arxiv.org/pdf/2511.03997.pdf)|null|
+|**2025-11-06**|**Multiscale Astrocyte Network Calcium Dynamics for Biologically Plausible Intelligence in Anomaly Detection**|Berk Iskar et.al.|[2511.03993](http://arxiv.org/pdf/2511.03993.pdf)|null|
+|**2025-11-05**|**Upgrade of Super-Kamiokande with Gadolinium**|Yusuke Koshio et.al.|[2511.03921](http://arxiv.org/pdf/2511.03921.pdf)|null|
+|**2025-11-05**|**Evolutionary Optimization Trumps Adam Optimization on Embedding Space Exploration**|Domício Pereira Neto et.al.|[2511.03913](http://arxiv.org/pdf/2511.03913.pdf)|null|
+|**2025-11-05**|**Energy-dependent SEP Fe/O abundances during the May 2024 superstorm**|G. D. Muro et.al.|[2511.03905](http://arxiv.org/pdf/2511.03905.pdf)|null|
+|**2025-11-05**|**DeepFixel: Crossing white matter fiber identification through spherical convolutional neural networks**|Adam M. Saunders et.al.|[2511.03893](http://arxiv.org/pdf/2511.03893.pdf)|null|
+|**2025-11-05**|**Diffusion Dynamics in Biofilms with Time-Varying Channels**|Yanahan Paramalingam et.al.|[2511.03856](http://arxiv.org/pdf/2511.03856.pdf)|null|
+|**2025-11-05**|**From Static to Dynamic: Enhancing Offline-to-Online Reinforcement Learning via Energy-Guided Diffusion Stratification**|Lipeng Zu et.al.|[2511.03828](http://arxiv.org/pdf/2511.03828.pdf)|null|
+|**2025-11-05**|**Adaptive Geometric Regression for High-Dimensional Structured Data**|Pawel Gajer et.al.|[2511.03817](http://arxiv.org/pdf/2511.03817.pdf)|null|
+|**2025-11-05**|**Bifidelity Karhunen-Loève Expansion Surrogate with Active Learning for Random Fields**|Aniket Jivani et.al.|[2511.03756](http://arxiv.org/pdf/2511.03756.pdf)|null|
+|**2025-11-04**|**Attention-based ROI Discovery in 3D Tissue Images**|Hossein Fathollahian et.al.|[2511.03751](http://arxiv.org/pdf/2511.03751.pdf)|null|
 |**2025-11-05**|**SHIELD: Securing Healthcare IoT with Efficient Machine Learning Techniques for Anomaly Detection**|Mahek Desai et.al.|[2511.03661](http://arxiv.org/pdf/2511.03661.pdf)|null|
 |**2025-11-05**|**Exchange controls coarsening of surface condensates**|Riccardo Rossetto et.al.|[2511.03619](http://arxiv.org/pdf/2511.03619.pdf)|null|
 |**2025-11-05**|**The Converse Madelung Question**|Jonathan R Dunkley et.al.|[2511.03552](http://arxiv.org/pdf/2511.03552.pdf)|null|
@@ -6227,12 +6286,18 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/pdf/2507.20987.pdf)|null|
 |**2025-07-28**|**Adapting Vehicle Detectors for Aerial Imagery to Unseen Domains with Weak Supervision**|Xiao Fang et.al.|[2507.20976](http://arxiv.org/pdf/2507.20976.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251108>back to top</a>)</p>
 
 ## Industry
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-06**|**BoRe-Depth: Self-supervised Monocular Depth Estimation with Boundary Refinement for Embedded Systems**|Chang Liu et.al.|[2511.04388](http://arxiv.org/pdf/2511.04388.pdf)|null|
+|**2025-11-06**|**Block Rotation is All You Need for MXFP4 Quantization**|Yuantian Shao et.al.|[2511.04214](http://arxiv.org/pdf/2511.04214.pdf)|null|
+|**2025-11-06**|**PICNIC: Silicon Photonic Interconnected Chiplets with Computational Network and In-memory Computing for LLM Inference Acceleration**|Yue Jiet Chong et.al.|[2511.04036](http://arxiv.org/pdf/2511.04036.pdf)|null|
+|**2025-11-06**|**LogHD: Robust Compression of Hyperdimensional Classifiers via Logarithmic Class-Axis Reduction**|Sanggeon Yun et.al.|[2511.03938](http://arxiv.org/pdf/2511.03938.pdf)|null|
+|**2025-11-06**|**NVIDIA Nemotron Nano V2 VL**|NVIDIA et.al.|[2511.03929](http://arxiv.org/pdf/2511.03929.pdf)|null|
+|**2025-11-05**|**DecoHD: Decomposed Hyperdimensional Classification under Extreme Memory Budgets**|Sanggeon Yun et.al.|[2511.03911](http://arxiv.org/pdf/2511.03911.pdf)|null|
 |**2025-11-05**|**Open Source State-Of-the-Art Solution for Romanian Speech Recognition**|Gabriel Pirlogeanu et.al.|[2511.03361](http://arxiv.org/pdf/2511.03361.pdf)|null|
 |**2025-11-05**|**Modeling Headway in Heterogeneous and Mixed Traffic Flow: A Statistical Distribution Based on a General Exponential Function**|Natchaphon Leungbootnak et.al.|[2511.03154](http://arxiv.org/pdf/2511.03154.pdf)|null|
 |**2025-11-04**|**Implementing Multi-GPU Scientific Computing Miniapps Across Performance Portable Frameworks**|Johansell Villalobos et.al.|[2511.02655](http://arxiv.org/pdf/2511.02655.pdf)|null|
@@ -6704,12 +6769,14 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2022-04-19**|**M $^2$ BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation**|Enze Xie et.al.|[2204.05088](http://arxiv.org/pdf/2204.05088.pdf)|null|
 |**2022-04-06**|**AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis**|Zhiqin Chen et.al.|[2204.03105](http://arxiv.org/pdf/2204.03105.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251108>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-06**|**SAFe-Copilot: Unified Shared Autonomy Framework**|Phat Nguyen et.al.|[2511.04664](http://arxiv.org/pdf/2511.04664.pdf)|null|
+|**2025-11-06**|**UniSplat: Unified Spatio-Temporal Fusion via 3D Latent Scaffolds for Dynamic Driving Scene Reconstruction**|Chen Shi et.al.|[2511.04595](http://arxiv.org/pdf/2511.04595.pdf)|null|
 |**2025-11-04**|**Comprehensive Assessment of LiDAR Evaluation Metrics: A Comparative Study Using Simulated and Real Data**|Syed Mostaquim Ali et.al.|[2511.02994](http://arxiv.org/pdf/2511.02994.pdf)|null|
 |**2025-11-04**|**Keeping it Local, Tiny and Real: Automated Report Generation on Edge Computing Devices for Mechatronic-Based Cognitive Systems**|Nicolas Schuler et.al.|[2511.02507](http://arxiv.org/pdf/2511.02507.pdf)|null|
 |**2025-11-04**|**3D Point Cloud Object Detection on Edge Devices for Split Computing**|Taisuke Noguchi et.al.|[2511.02293](http://arxiv.org/pdf/2511.02293.pdf)|null|
@@ -7251,7 +7318,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-07-14**|**RCG: Safety-Critical Scenario Generation for Robust Autonomous Driving via Real-World Crash Grounding**|Benjamin Stoler et.al.|[2507.10749](http://arxiv.org/pdf/2507.10749.pdf)|null|
 |**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/pdf/2507.10500.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251108>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -7635,5 +7702,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-06-20**|**Judo: A User-Friendly Open-Source Package for Sampling-Based Model Predictive Control**|Albert H. Li et.al.|[2506.17184](http://arxiv.org/pdf/2506.17184.pdf)|null|
 |**2025-07-11**|**Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms**|Aditya Bhatt et.al.|[2506.16710](http://arxiv.org/pdf/2506.16710.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251108>back to top</a>)</p>
 
