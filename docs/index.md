@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.11.13
+Updated on 2025.11.14
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -7084,6 +7084,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2014-12-30**|**FollowMe: Efficient Online Min-Cost Flow Tracking with Bounded Memory and Computation**|Philip Lenz et.al.|[1407.6251](http://arxiv.org/pdf/1407.6251.pdf)|null|
 |**2014-06-17**|**Human-Machine CRFs for Identifying Bottlenecks in Holistic Scene Understanding**|Roozbeh Mottaghi et.al.|[1406.3906](http://arxiv.org/pdf/1406.3906.pdf)|null|
 |**2014-06-10**|**Detect What You Can: Detecting and Representing Objects using Holistic Models and Body Parts**|Xianjie Chen et.al.|[1406.2031](http://arxiv.org/pdf/1406.2031.pdf)|null|
+|**2012-07-02**|**Efficient Structured Prediction with Latent Variables for General Graphical Models**|Alexander Schwing et.al.|[1206.6436](http://arxiv.org/pdf/1206.6436.pdf)|null|
 |**2012-06-18**|**Multi-View Learning in the Presence of View Disagreement**|C. Christoudias et.al.|[1206.3242](http://arxiv.org/pdf/1206.3242.pdf)|null|
 |**2012-04-09**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-10**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
