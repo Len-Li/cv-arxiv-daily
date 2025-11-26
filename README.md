@@ -1,4 +1,4 @@
-Updated on 2025.11.25
+Updated on 2025.11.26
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -2524,7 +2524,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2021-03-15**|**Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs**|Xingang Pan et.al.|[2011.00844](http://arxiv.org/pdf/2011.00844.pdf)|null|
 |**2018-04-02**|**Extreme 3D Face Reconstruction: Seeing Through Occlusions**|Anh Tuan Tran et.al.|[1712.05083](http://arxiv.org/pdf/1712.05083.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251126>back to top</a>)</p>
 
 ## Diffusion
 
@@ -7732,7 +7732,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-05-12**|**MagicVideo: Efficient Video Generation With Latent Diffusion Models**|Daquan Zhou et.al.|[2211.11018](http://arxiv.org/pdf/2211.11018.pdf)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/pdf/2210.02303.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251126>back to top</a>)</p>
 
 ## Industry
 
@@ -8351,7 +8351,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2012-04-09**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-10**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251126>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -9142,7 +9142,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/pdf/1704.02532.pdf)|null|
 |**2016-06-24**|**Find your Way by Observing the Sun and Other Semantic Cues**|Wei-Chiu Ma et.al.|[1606.07415](http://arxiv.org/pdf/1606.07415.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251126>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -9173,7 +9173,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-11-22**|**Plan-X: Instruct Video Generation via Semantic Planning**|Lun Huang et.al.|[2511.17986](http://arxiv.org/pdf/2511.17986.pdf)|null|
 |**2025-11-22**|**V2X-RECT: An Efficient V2X Trajectory Prediction Framework via Redundant Interaction Filtering and Tracking Error Correction**|Xiangyan Kong et.al.|[2511.17941](http://arxiv.org/pdf/2511.17941.pdf)|null|
 |**2025-11-21**|**Show Me: Unifying Instructional Image and Video Generation with Diffusion Models**|Yujiang Pu et.al.|[2511.17839](http://arxiv.org/pdf/2511.17839.pdf)|null|
-|**2025-11-21**|**SM $^2$ ITH: Safe Mobile Manipulation with Interactive Human Prediction via Task-Hierarchical Bilevel Model Predictive Control**|Francesco D'Orazio et.al.|[2511.17798](http://arxiv.org/pdf/2511.17798.pdf)|null|
+|**2025-11-21**|**SM2ITH: Safe Mobile Manipulation with Interactive Human Prediction via Task-Hierarchical Bilevel Model Predictive Control**|Francesco D'Orazio et.al.|[2511.17798](http://arxiv.org/pdf/2511.17798.pdf)|null|
 |**2025-11-21**|**Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?**|Dingrui Wang et.al.|[2511.17792](http://arxiv.org/pdf/2511.17792.pdf)|null|
 |**2025-11-21**|**See, Plan, Cut: MPC-Based Autonomous Volumetric Robotic Laser Surgery with OCT Guidance**|Ravi Prakash et.al.|[2511.17777](http://arxiv.org/pdf/2511.17777.pdf)|null|
 |**2025-11-21**|**The Potential and Limitations of Vision-Language Models for Human Motion Understanding: A Case Study in Data-Driven Stroke Rehabilitation**|Victor Li et.al.|[2511.17727](http://arxiv.org/pdf/2511.17727.pdf)|null|
@@ -9796,5 +9796,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2016-06-08**|**Goal Set Inverse Optimal Control and Iterative Re-planning for Predicting Human Reaching Motions in Shared Workspaces**|Jim Mainprice et.al.|[1606.02111](http://arxiv.org/pdf/1606.02111.pdf)|null|
 |**2016-01-26**|**Sampling-based Algorithms for Optimal Motion Planning Using Closed-loop Prediction**|Oktay Arslan et.al.|[1601.06326](http://arxiv.org/pdf/1601.06326.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251126>back to top</a>)</p>
 

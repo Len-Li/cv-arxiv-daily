@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.11.25
+Updated on 2025.11.26
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -9168,7 +9168,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-11-22**|**Plan-X: Instruct Video Generation via Semantic Planning**|Lun Huang et.al.|[2511.17986](http://arxiv.org/pdf/2511.17986.pdf)|null|
 |**2025-11-22**|**V2X-RECT: An Efficient V2X Trajectory Prediction Framework via Redundant Interaction Filtering and Tracking Error Correction**|Xiangyan Kong et.al.|[2511.17941](http://arxiv.org/pdf/2511.17941.pdf)|null|
 |**2025-11-21**|**Show Me: Unifying Instructional Image and Video Generation with Diffusion Models**|Yujiang Pu et.al.|[2511.17839](http://arxiv.org/pdf/2511.17839.pdf)|null|
-|**2025-11-21**|**SM $^2$ ITH: Safe Mobile Manipulation with Interactive Human Prediction via Task-Hierarchical Bilevel Model Predictive Control**|Francesco D'Orazio et.al.|[2511.17798](http://arxiv.org/pdf/2511.17798.pdf)|null|
+|**2025-11-21**|**SM2ITH: Safe Mobile Manipulation with Interactive Human Prediction via Task-Hierarchical Bilevel Model Predictive Control**|Francesco D'Orazio et.al.|[2511.17798](http://arxiv.org/pdf/2511.17798.pdf)|null|
 |**2025-11-21**|**Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?**|Dingrui Wang et.al.|[2511.17792](http://arxiv.org/pdf/2511.17792.pdf)|null|
 |**2025-11-21**|**See, Plan, Cut: MPC-Based Autonomous Volumetric Robotic Laser Surgery with OCT Guidance**|Ravi Prakash et.al.|[2511.17777](http://arxiv.org/pdf/2511.17777.pdf)|null|
 |**2025-11-21**|**The Potential and Limitations of Vision-Language Models for Human Motion Understanding: A Case Study in Data-Driven Stroke Rehabilitation**|Victor Li et.al.|[2511.17727](http://arxiv.org/pdf/2511.17727.pdf)|null|
