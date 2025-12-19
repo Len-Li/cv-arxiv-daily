@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.12.18
+Updated on 2025.12.19
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
