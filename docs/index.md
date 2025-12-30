@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2025.12.29
+Updated on 2025.12.30
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -26,7 +26,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-12-25**|**TrackTeller: Temporal Multimodal 3D Grounding for Behavior-Dependent Object References**|Jiahong Yu et.al.|[2512.21641](http://arxiv.org/pdf/2512.21641.pdf)|null|
 |**2025-12-25**|**SymDrive: Realistic and Controllable Driving Simulator via Symmetric Auto-regressive Online Restoration**|Zhiyuan Liu et.al.|[2512.21618](http://arxiv.org/pdf/2512.21618.pdf)|null|
 |**2025-12-25**|**GaussianEM: Model compositional and conformational heterogeneity using 3D Gaussians**|Bintao He et.al.|[2512.21599](http://arxiv.org/pdf/2512.21599.pdf)|null|
-|**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tum et.al.|[2512.21573](http://arxiv.org/pdf/2512.21573.pdf)|null|
+|**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tu et.al.|[2512.21573](http://arxiv.org/pdf/2512.21573.pdf)|null|
 |**2025-12-25**|**MuS-Polar3D: A Benchmark Dataset for Computational Polarimetric 3D Imaging under Multi-Scattering Conditions**|Puyun Wang et.al.|[2512.21513](http://arxiv.org/pdf/2512.21513.pdf)|null|
 |**2025-12-24**|**GriDiT: Factorized Grid-Based Diffusion for Efficient Long Image Sequence Generation**|Snehal Singh Tomar et.al.|[2512.21276](http://arxiv.org/pdf/2512.21276.pdf)|null|
 |**2025-12-24**|**ACD: Direct Conditional Control for Video Diffusion Models via Attention Supervision**|Weiqi Li et.al.|[2512.21268](http://arxiv.org/pdf/2512.21268.pdf)|null|

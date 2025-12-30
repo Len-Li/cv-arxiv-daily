@@ -1,4 +1,4 @@
-Updated on 2025.12.29
+Updated on 2025.12.30
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -23,7 +23,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-12-25**|**TrackTeller: Temporal Multimodal 3D Grounding for Behavior-Dependent Object References**|Jiahong Yu et.al.|[2512.21641](http://arxiv.org/pdf/2512.21641.pdf)|null|
 |**2025-12-25**|**SymDrive: Realistic and Controllable Driving Simulator via Symmetric Auto-regressive Online Restoration**|Zhiyuan Liu et.al.|[2512.21618](http://arxiv.org/pdf/2512.21618.pdf)|null|
 |**2025-12-25**|**GaussianEM: Model compositional and conformational heterogeneity using 3D Gaussians**|Bintao He et.al.|[2512.21599](http://arxiv.org/pdf/2512.21599.pdf)|null|
-|**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tum et.al.|[2512.21573](http://arxiv.org/pdf/2512.21573.pdf)|null|
+|**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tu et.al.|[2512.21573](http://arxiv.org/pdf/2512.21573.pdf)|null|
 |**2025-12-25**|**MuS-Polar3D: A Benchmark Dataset for Computational Polarimetric 3D Imaging under Multi-Scattering Conditions**|Puyun Wang et.al.|[2512.21513](http://arxiv.org/pdf/2512.21513.pdf)|null|
 |**2025-12-24**|**GriDiT: Factorized Grid-Based Diffusion for Efficient Long Image Sequence Generation**|Snehal Singh Tomar et.al.|[2512.21276](http://arxiv.org/pdf/2512.21276.pdf)|null|
 |**2025-12-24**|**ACD: Direct Conditional Control for Video Diffusion Models via Attention Supervision**|Weiqi Li et.al.|[2512.21268](http://arxiv.org/pdf/2512.21268.pdf)|null|
@@ -3238,7 +3238,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2021-03-15**|**Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs**|Xingang Pan et.al.|[2011.00844](http://arxiv.org/pdf/2011.00844.pdf)|null|
 |**2018-04-02**|**Extreme 3D Face Reconstruction: Seeing Through Occlusions**|Anh Tuan Tran et.al.|[1712.05083](http://arxiv.org/pdf/1712.05083.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251230>back to top</a>)</p>
 
 ## Diffusion
 
@@ -10232,7 +10232,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2023-05-12**|**MagicVideo: Efficient Video Generation With Latent Diffusion Models**|Daquan Zhou et.al.|[2211.11018](http://arxiv.org/pdf/2211.11018.pdf)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/pdf/2210.02303.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251230>back to top</a>)</p>
 
 ## Industry
 
@@ -10965,7 +10965,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2012-04-09**|**Continuous Markov Random Fields for Robust Stereo Estimation**|Koichiro Yamaguchi et.al.|[1204.1393](http://arxiv.org/pdf/1204.1393.pdf)|null|
 |**2012-07-10**|**Approximated Structured Prediction for Learning Large Scale Graphical Models**|Tamir Hazan et.al.|[1006.2899](http://arxiv.org/pdf/1006.2899.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251230>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -11938,7 +11938,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/pdf/1704.02532.pdf)|null|
 |**2016-06-24**|**Find your Way by Observing the Sun and Other Semantic Cues**|Wei-Chiu Ma et.al.|[1606.07415](http://arxiv.org/pdf/1606.07415.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251230>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -12743,5 +12743,5 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2016-06-08**|**Goal Set Inverse Optimal Control and Iterative Re-planning for Predicting Human Reaching Motions in Shared Workspaces**|Jim Mainprice et.al.|[1606.02111](http://arxiv.org/pdf/1606.02111.pdf)|null|
 |**2016-01-26**|**Sampling-based Algorithms for Optimal Motion Planning Using Closed-loop Prediction**|Oktay Arslan et.al.|[1601.06326](http://arxiv.org/pdf/1601.06326.pdf)|null|
 
-<p align=right>(<a href=#Updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251230>back to top</a>)</p>
 
