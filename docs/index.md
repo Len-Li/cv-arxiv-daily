@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2026.01.02
+Updated on 2026.01.03
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -3367,7 +3367,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-12-30**|**Physically-Grounded Manifold Projection with Foundation Priors for Metal Artifact Reduction in Dental CBCT**|Zhi Li et.al.|[2512.24260](http://arxiv.org/pdf/2512.24260.pdf)|null|
 |**2025-12-30**|**Mirage: One-Step Video Diffusion for Photorealistic and Coherent Asset Editing in Driving Scenes**|Shuyun Wang et.al.|[2512.24227](http://arxiv.org/pdf/2512.24227.pdf)|null|
 |**2025-12-30**|**CorGi: Contribution-Guided Block-Wise Interval Caching for Training-Free Acceleration of Diffusion Transformers**|Yonglak Son et.al.|[2512.24195](http://arxiv.org/pdf/2512.24195.pdf)|null|
-|**2025-12-30**|**SeedProteo: Accurate De Novo All-Atom Design of Protein Binders**|Qu Wei et.al.|[2512.24192](http://arxiv.org/pdf/2512.24192.pdf)|null|
+|**2025-12-30**|**SeedProteo: Accurate De Novo All-Atom Design of Protein Binders**|Wei Qu et.al.|[2512.24192](http://arxiv.org/pdf/2512.24192.pdf)|null|
 |**2025-12-30**|**The effect of germanium sublayer on the native corrosion of ultrathin copper films**|Vladimir A. Vdovin et.al.|[2512.24180](http://arxiv.org/pdf/2512.24180.pdf)|null|
 |**2025-12-30**|**Guiding a Diffusion Transformer with the Internal Dynamics of Itself**|Xingyu Zhou et.al.|[2512.24176](http://arxiv.org/pdf/2512.24176.pdf)|null|
 |**2025-12-30**|**DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models**|Zefeng He et.al.|[2512.24165](http://arxiv.org/pdf/2512.24165.pdf)|null|
