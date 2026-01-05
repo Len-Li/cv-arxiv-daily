@@ -27,6 +27,12 @@ keywords:
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
     "Diffusion":
         filters: ["GAN", "diffusion", "diffusion model", "controlnet", "controllable generation", "image generation", "video diffusion", "video generation", "Text-to-Video", "text to image"]
+    "Robotics":
+        filters: ["Robotics", 'embodied ai', 'robotics manipulation', 'robot learning', 'humanoid', 'sim2real', 'vla', 'Vision-Language-Action', ]
+        categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
+    "Robotics Industry":
+        filters: ["NVIDIA", "Boston Dynamics", "Tesla", "Google DeepMind Robotics", "Agibot", 'Figure AI', 'physical intelligence']
+        categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
     "Industry":
         filters: ["NVIDIA", "Waymo", "DJI", 'Waabi', 'Raquel Urtasun', 'Sanja Fidler']
     "Autonomous Driving":
