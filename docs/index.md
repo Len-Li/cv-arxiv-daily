@@ -16,6 +16,41 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**Joint Semantic and Rendering Enhancements in 3D Gaussian Modeling with Anisotropic Local Encoding**|Jingming He et.al.|[2601.02339](http://arxiv.org/pdf/2601.02339.pdf)|null|
+|**2026-01-05**|**InfiniteVGGT: Visual Geometry Grounded Transformer for Endless Streams**|Shuai Yuan et.al.|[2601.02281](http://arxiv.org/pdf/2601.02281.pdf)|null|
+|**2026-01-05**|**Efficient Unrolled Networks for Large-Scale 3D Inverse Problems**|Romain Vo et.al.|[2601.02141](http://arxiv.org/pdf/2601.02141.pdf)|null|
+|**2026-01-05**|**Car Drag Coefficient Prediction from 3D Point Clouds Using a Slice-Based Surrogate Model**|Utkarsh Singh et.al.|[2601.02112](http://arxiv.org/pdf/2601.02112.pdf)|null|
+|**2026-01-05**|**MagicFight: Personalized Martial Arts Combat Video Generation**|Jiancheng Huang et.al.|[2601.02107](http://arxiv.org/pdf/2601.02107.pdf)|null|
+|**2026-01-05**|**HeadLighter: Disentangling Illumination in Generative 3D Gaussian Heads via Lightstage Captures**|Yating Wang et.al.|[2601.02103](http://arxiv.org/pdf/2601.02103.pdf)|null|
+|**2026-01-05**|**360-GeoGS: Geometrically Consistent Feed-Forward 3D Gaussian Splatting Reconstruction for 360 Images**|Jiaqi Yao et.al.|[2601.02102](http://arxiv.org/pdf/2601.02102.pdf)|null|
+|**2026-01-05**|**InpaintHuman: Reconstructing Occluded Humans with Multi-Scale UV Mapping and Identity-Preserving Diffusion Inpainting**|Jinlong Fan et.al.|[2601.02098](http://arxiv.org/pdf/2601.02098.pdf)|null|
+|**2026-01-05**|**Leveraging 2D-VLM for Label-Free 3D Segmentation in Large-Scale Outdoor Scene Understanding**|Toshihiko Nishimura et.al.|[2601.02029](http://arxiv.org/pdf/2601.02029.pdf)|null|
+|**2026-01-05**|**MotionAdapter: Video Motion Transfer via Content-Aware Attention Customization**|Zhexin Zhang et.al.|[2601.01955](http://arxiv.org/pdf/2601.01955.pdf)|null|
+|**2026-01-05**|**ESGaussianFace: Emotional and Stylized Audio-Driven Facial Animation via 3D Gaussian Splatting**|Chuhang Ma et.al.|[2601.01847](http://arxiv.org/pdf/2601.01847.pdf)|null|
+|**2026-01-05**|**MANGO:Natural Multi-speaker 3D Talking Head Generation via 2D-Lifted Enhancement**|Lei Zhu et.al.|[2601.01749](http://arxiv.org/pdf/2601.01749.pdf)|null|
+|**2026-01-05**|**Point-SRA: Self-Representation Alignment for 3D Representation Learning**|Lintong Wei et.al.|[2601.01746](http://arxiv.org/pdf/2601.01746.pdf)|null|
+|**2026-01-04**|**Learnability-Driven Submodular Optimization for Active Roadside 3D Detection**|Ruiyu Mao et.al.|[2601.01695](http://arxiv.org/pdf/2601.01695.pdf)|null|
+|**2026-01-04**|**FALCON: Few-Shot Adversarial Learning for Cross-Domain Medical Image Segmentation**|Abdur R. Fayjie et.al.|[2601.01687](http://arxiv.org/pdf/2601.01687.pdf)|null|
+|**2026-01-04**|**LabelAny3D: Label Any Object 3D in the Wild**|Jin Yao et.al.|[2601.01676](http://arxiv.org/pdf/2601.01676.pdf)|null|
+|**2026-01-04**|**Animated 3DGS Avatars in Diverse Scenes with Consistent Lighting and Shadows**|Aymen Mir et.al.|[2601.01660](http://arxiv.org/pdf/2601.01660.pdf)|null|
+|**2026-01-04**|**Rethinking Multimodal Few-Shot 3D Point Cloud Segmentation: From Fused Refinement to Decoupled Arbitration**|Wentao Bian et.al.|[2601.01456](http://arxiv.org/pdf/2601.01456.pdf)|null|
+|**2026-01-04**|**EdgeNeRF: Edge-Guided Regularization for Neural Radiance Fields from Sparse Views**|Weiqi Yu et.al.|[2601.01431](http://arxiv.org/pdf/2601.01431.pdf)|null|
+|**2026-01-04**|**ParkGaussian: Surround-view 3D Gaussian Splatting for Autonomous Parking**|Xiaobao Wei et.al.|[2601.01386](http://arxiv.org/pdf/2601.01386.pdf)|null|
+|**2026-01-04**|**Unsupervised SE(3) Disentanglement for in situ Macromolecular Morphology Identification from Cryo-Electron Tomography**|Mostofa Rafid Uddin et.al.|[2601.01364](http://arxiv.org/pdf/2601.01364.pdf)|null|
+|**2026-01-03**|**PyBatchRender: A Python Library for Batched 3D Rendering at Up to One Million FPS**|Evgenii Rudakov et.al.|[2601.01288](http://arxiv.org/pdf/2601.01288.pdf)|null|
+|**2026-01-03**|**UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass**|Mengfei Li et.al.|[2601.01222](http://arxiv.org/pdf/2601.01222.pdf)|null|
+|**2026-01-03**|**Real-Time LiDAR Point Cloud Densification for Low-Latency Spatial Data Transmission**|Kazuhiko Murasaki et.al.|[2601.01210](http://arxiv.org/pdf/2601.01210.pdf)|null|
+|**2026-01-03**|**XStreamVGGT: Extremely Memory-Efficient Streaming Vision Geometry Grounded Transformer with KV Cache Compression**|Zunhai Su et.al.|[2601.01204](http://arxiv.org/pdf/2601.01204.pdf)|null|
+|**2026-01-03**|**VISO: Robust Underwater Visual-Inertial-Sonar SLAM with Photometric Rendering for Dense 3D Reconstruction**|Shu Pan et.al.|[2601.01144](http://arxiv.org/pdf/2601.01144.pdf)|null|
+|**2026-01-03**|**Flow Equivariant World Models: Memory for Partially Observed Dynamic Environments**|Hansen Jin Lillemark et.al.|[2601.01075](http://arxiv.org/pdf/2601.01075.pdf)|null|
+|**2026-01-03**|**Mono3DV: Monocular 3D Object Detection with 3D-Aware Bipartite Matching and Variational Query DeNoising**|Kiet Dang Vu et.al.|[2601.01036](http://arxiv.org/pdf/2601.01036.pdf)|null|
+|**2026-01-02**|**Scale-aware Adaptive Supervised Network with Limited Medical Annotations**|Zihan Li et.al.|[2601.01005](http://arxiv.org/pdf/2601.01005.pdf)|null|
+|**2026-01-02**|**UnrealPose: Leveraging Game Engine Kinematics for Large-Scale Synthetic Human Pose Data**|Joshua Kawaguchi et.al.|[2601.00991](http://arxiv.org/pdf/2601.00991.pdf)|null|
+|**2026-01-04**|**ShadowGS: Shadow-Aware 3D Gaussian Splatting for Satellite Imagery**|Feng Luo et.al.|[2601.00939](http://arxiv.org/pdf/2601.00939.pdf)|null|
+|**2026-01-02**|**Analyzing the Shopping Journey: Computing Shelf Browsing Visits in a Physical Retail Store**|Luis Yoichi Morales et.al.|[2601.00928](http://arxiv.org/pdf/2601.00928.pdf)|null|
+|**2026-01-01**|**Application of deep learning techniques in non-contrast computed tomography pulmonary angiogram for pulmonary embolism diagnosis**|I-Hsien Ting et.al.|[2601.00925](http://arxiv.org/pdf/2601.00925.pdf)|null|
+|**2026-01-01**|**Clean-GS: Semantic Mask-Guided Pruning for 3D Gaussian Splatting**|Subhankar Mishra et.al.|[2601.00913](http://arxiv.org/pdf/2601.00913.pdf)|null|
+|**2025-12-31**|**Placenta Accreta Spectrum Detection using Multimodal Deep Learning**|Sumaiya Ali et.al.|[2601.00907](http://arxiv.org/pdf/2601.00907.pdf)|null|
 |**2026-01-02**|**AdaGaR: Adaptive Gabor Representation for Dynamic Scene Reconstruction**|Jiewen Chan et.al.|[2601.00796](http://arxiv.org/pdf/2601.00796.pdf)|null|
 |**2026-01-02**|**Spatiotemporal Detection and Uncertainty Visualization of Atmospheric Blocking Events**|Mingzhe Li et.al.|[2601.00775](http://arxiv.org/pdf/2601.00775.pdf)|null|
 |**2026-01-02**|**Unified Primitive Proxies for Structured Shape Completion**|Zhaiyu Chen et.al.|[2601.00759](http://arxiv.org/pdf/2601.00759.pdf)|null|
@@ -3336,6 +3371,106 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors**|Kaede Shiohara et.al.|[2601.02359](http://arxiv.org/pdf/2601.02359.pdf)|null|
+|**2026-01-05**|**VINO: A Unified Visual Generator with Interleaved OmniModal Context**|Junyi Chen et.al.|[2601.02358](http://arxiv.org/pdf/2601.02358.pdf)|null|
+|**2026-01-05**|**Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes**|Jing Tan et.al.|[2601.02356](http://arxiv.org/pdf/2601.02356.pdf)|null|
+|**2026-01-05**|**Figuring Out Gas & Galaxies in Enzo (FOGGIE). XV. Examining the Spatial and Kinematic Relationship between Circumgalactic Mg II and O VI**|Mackenzie Ticoras et.al.|[2601.02348](http://arxiv.org/pdf/2601.02348.pdf)|null|
+|**2026-01-05**|**A bottom-up approach to fluctuating hydrodynamics: Coarse-graining of stochastic lattice gases and the Dean-Kawasaki equation**|Soumyabrata Saha et.al.|[2601.02319](http://arxiv.org/pdf/2601.02319.pdf)|null|
+|**2026-01-05**|**DiffProxy: Multi-View Human Mesh Recovery via Diffusion-Generated Dense Proxies**|Renke Wang et.al.|[2601.02267](http://arxiv.org/pdf/2601.02267.pdf)|null|
+|**2026-01-05**|**VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation**|Shikun Sun et.al.|[2601.02256](http://arxiv.org/pdf/2601.02256.pdf)|null|
+|**2026-01-05**|**VIBE: Visual Instruction Based Editor**|Grigorii Alekseenko et.al.|[2601.02242](http://arxiv.org/pdf/2601.02242.pdf)|null|
+|**2026-01-05**|**CD4LM: Consistency Distillation and aDaptive Decoding for Diffusion Language Models**|Yihao Liang et.al.|[2601.02236](http://arxiv.org/pdf/2601.02236.pdf)|null|
+|**2026-01-05**|**FMVP: Masked Flow Matching for Adversarial Video Purification**|Duoxun Tang et.al.|[2601.02228](http://arxiv.org/pdf/2601.02228.pdf)|null|
+|**2026-01-05**|**Beam-Brainstorm: A Generative Site-Specific Beamforming Approach**|Zihao Zhou et.al.|[2601.02219](http://arxiv.org/pdf/2601.02219.pdf)|null|
+|**2026-01-05**|**Unraveling MMDiT Blocks: Training-free Analysis and Enhancement of Text-conditioned Diffusion**|Binglei Li et.al.|[2601.02211](http://arxiv.org/pdf/2601.02211.pdf)|null|
+|**2026-01-05**|**NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation**|Huichao Zhang et.al.|[2601.02204](http://arxiv.org/pdf/2601.02204.pdf)|null|
+|**2026-01-05**|**Density-based topology optimization for turbulent fluid flow using the standard k-epsilon RANS model with wall-functions imposed through an implicit wall penalty formulation**|Amirhossein Bayat et.al.|[2601.02202](http://arxiv.org/pdf/2601.02202.pdf)|null|
+|**2026-01-05**|**Simulation of Radiation Chemistry by a One-Shot Hybrid Continuum / Monte Carlo Method**|Charlie Fynn Perkins et.al.|[2601.02132](http://arxiv.org/pdf/2601.02132.pdf)|null|
+|**2026-01-05**|**SingingBot: An Avatar-Driven System for Robotic Face Singing Performance**|Zhuoxiong Xu et.al.|[2601.02125](http://arxiv.org/pdf/2601.02125.pdf)|null|
+|**2026-01-05**|**MagicFight: Personalized Martial Arts Combat Video Generation**|Jiancheng Huang et.al.|[2601.02107](http://arxiv.org/pdf/2601.02107.pdf)|null|
+|**2026-01-05**|**InpaintHuman: Reconstructing Occluded Humans with Multi-Scale UV Mapping and Identity-Preserving Diffusion Inpainting**|Jinlong Fan et.al.|[2601.02098](http://arxiv.org/pdf/2601.02098.pdf)|null|
+|**2026-01-05**|**Horizon Activation Mapping for Neural Networks in Time Series Forecasting**|Hans Krupakar et.al.|[2601.02094](http://arxiv.org/pdf/2601.02094.pdf)|null|
+|**2026-01-05**|**Deferred Commitment Decoding for Diffusion Language Models with Confidence-Aware Sliding Windows**|Yingte Shu et.al.|[2601.02076](http://arxiv.org/pdf/2601.02076.pdf)|null|
+|**2026-01-05**|**Photo-induced non-thermal lattice disorder in aluminium thin-film**|Fernando Rodriguez Diaz et.al.|[2601.02055](http://arxiv.org/pdf/2601.02055.pdf)|null|
+|**2026-01-05**|**Explore the Ideology of Deep Learning in ENSO Forecasts**|Yanhai Gan et.al.|[2601.02050](http://arxiv.org/pdf/2601.02050.pdf)|null|
+|**2026-01-05**|**Agentic Retoucher for Text-To-Image Generation**|Shaocheng Shen et.al.|[2601.02046](http://arxiv.org/pdf/2601.02046.pdf)|null|
+|**2026-01-05**|**EyeLiveMetrics: Real-time Analysis of Online Reading with Eye Tracking**|Daniel Hienert et.al.|[2601.02044](http://arxiv.org/pdf/2601.02044.pdf)|null|
+|**2026-01-05**|**Renormalisation for Reaction-Diffusion Systems with Non-Local Interactions**|Chris D Greenman et.al.|[2601.02040](http://arxiv.org/pdf/2601.02040.pdf)|null|
+|**2026-01-05**|**AlignVTOFF: Texture-Spatial Feature Alignment for High-Fidelity Virtual Try-Off**|Yihan Zhu et.al.|[2601.02038](http://arxiv.org/pdf/2601.02038.pdf)|null|
+|**2026-01-05**|**GDRO: Group-level Reward Post-training Suitable for Diffusion Models**|Yiyang Wang et.al.|[2601.02036](http://arxiv.org/pdf/2601.02036.pdf)|null|
+|**2026-01-05**|**Coexistence of close packed structures in large substrate-free Ar-Kr clusters according to THEED data**|O. G. Danylchenko et.al.|[2601.02030](http://arxiv.org/pdf/2601.02030.pdf)|null|
+|**2026-01-05**|**Prior Diffusiveness and Regret in the Linear-Gaussian Bandit**|Yifan Zhu et.al.|[2601.02022](http://arxiv.org/pdf/2601.02022.pdf)|null|
+|**2026-01-05**|**Towards Any-Quality Image Segmentation via Generative and Adaptive Latent Space Enhancement**|Guangqian Guo et.al.|[2601.02018](http://arxiv.org/pdf/2601.02018.pdf)|null|
+|**2026-01-05**|**Proton Acceleration by Collisionless Shocks in Supermassive Black Hole Coronae: Implications for High-Energy Neutrinos**|Minh Nhat Ly et.al.|[2601.01999](http://arxiv.org/pdf/2601.01999.pdf)|null|
+|**2026-01-05**|**Unveiling Fiber Networks and Core Formation in the DR21 South Filament**|Kai Yang et.al.|[2601.01974](http://arxiv.org/pdf/2601.01974.pdf)|null|
+|**2026-01-05**|**Forget Less by Learning Together through Concept Consolidation**|Arjun Ramesh Kaushik et.al.|[2601.01963](http://arxiv.org/pdf/2601.01963.pdf)|null|
+|**2026-01-05**|**Score-based diffusion models for accurate crystal-structure inpainting and reconstruction of hydrogen positions**|Timo Reents et.al.|[2601.01959](http://arxiv.org/pdf/2601.01959.pdf)|null|
+|**2026-01-05**|**MotionAdapter: Video Motion Transfer via Content-Aware Attention Customization**|Zhexin Zhang et.al.|[2601.01955](http://arxiv.org/pdf/2601.01955.pdf)|null|
+|**2026-01-05**|**Learning Diffusion Policy from Primitive Skills for Robot Manipulation**|Zhihao Gu et.al.|[2601.01948](http://arxiv.org/pdf/2601.01948.pdf)|null|
+|**2026-01-05**|**Toward Thermodynamic Reservoir Computing: Exploring SHA-256 ASICs as Potential Physical Substrates**|Francisco Angulo de Lafuente et.al.|[2601.01916](http://arxiv.org/pdf/2601.01916.pdf)|null|
+|**2026-01-05**|**Learning Action Hierarchies via Hybrid Geometric Diffusion**|Arjun Ramesh Kaushik et.al.|[2601.01914](http://arxiv.org/pdf/2601.01914.pdf)|null|
+|**2026-01-05**|**Dense granular rheology from fluctuations**|Benjamin M. Alessio et.al.|[2601.01907](http://arxiv.org/pdf/2601.01907.pdf)|null|
+|**2026-01-05**|**An explicit scheme for stochastic Allen-Cahn equations with space-time white noise near the sharp interface limit**|Yingsong Jiang et.al.|[2601.01894](http://arxiv.org/pdf/2601.01894.pdf)|null|
+|**2026-01-05**|**Forget Less by Learning from Parents Through Hierarchical Relationships**|Arjun Ramesh Kaushik et.al.|[2601.01892](http://arxiv.org/pdf/2601.01892.pdf)|null|
+|**2026-01-05**|**Approximation for stochastic time-space fractional cable equations driven by rough noise**|Jiawei He et.al.|[2601.01889](http://arxiv.org/pdf/2601.01889.pdf)|null|
+|**2026-01-05**|**Measurement of Photocarrier Mean Free Path via Speckled Laser Pump -- Transient Fourier Microscopy Probe**|Zuni Luo et.al.|[2601.01884](http://arxiv.org/pdf/2601.01884.pdf)|null|
+|**2026-01-05**|**Fixed-Size Dynamic Scale-Free Networks: Modeling, Stationarity, and Resilience**|Yichao Yao et.al.|[2601.01882](http://arxiv.org/pdf/2601.01882.pdf)|null|
+|**2026-01-05**|**Self-Similar Solutions and Global Existence for Nonlinear Reaction-Diffusion Systems in Industrial Ammonia Synthesis**|Jamshid Khasanov et.al.|[2601.01799](http://arxiv.org/pdf/2601.01799.pdf)|null|
+|**2026-01-05**|**MANGO:Natural Multi-speaker 3D Talking Head Generation via 2D-Lifted Enhancement**|Lei Zhu et.al.|[2601.01749](http://arxiv.org/pdf/2601.01749.pdf)|null|
+|**2026-01-05**|**The global Gan--Gross--Prasad conjecture for Fourier--Jacobi periods on unitary groups III: Proof of the main theorems**|Paul Boisseau et.al.|[2601.01738](http://arxiv.org/pdf/2601.01738.pdf)|null|
+|**2026-01-05**|**Accelerating evaporative cooling of a strongly interacting Fermi gas by tilting the optical trap with a magnetic field gradient**|Bolong Jiao et.al.|[2601.01732](http://arxiv.org/pdf/2601.01732.pdf)|null|
+|**2026-01-05**|**A generalized Scharfetter-Gummel scheme for nonlocal cross-diffusion systems**|Ansgar Jüngel et.al.|[2601.01731](http://arxiv.org/pdf/2601.01731.pdf)|null|
+|**2026-01-05**|**The global Gan--Gross--Prasad conjecture for Fourier--Jacobi periods on unitary groups II: Comparison of the relative trace formulae**|Paul Boisseau et.al.|[2601.01727](http://arxiv.org/pdf/2601.01727.pdf)|null|
+|**2026-01-05**|**Charge Hopping Dynamics along a Disordered Chain in Quantum Environments: Comparative Study of Different Rate Kernels**|Seogjoo J. Jang et.al.|[2601.01724](http://arxiv.org/pdf/2601.01724.pdf)|null|
+|**2026-01-04**|**DiMEx: Breaking the Cold Start Barrier in Data-Free Model Extraction via Latent Diffusion Priors**|Yash Thesia et.al.|[2601.01688](http://arxiv.org/pdf/2601.01688.pdf)|null|
+|**2026-01-04**|**An Ingestible Light Source for Deep Photoacoustic Imaging**|David C. Garrett et.al.|[2601.01667](http://arxiv.org/pdf/2601.01667.pdf)|null|
+|**2026-01-04**|**Length-Aware Adversarial Training for Variable-Length Trajectories: Digital Twins for Mall Shopper Paths**|He Sun et.al.|[2601.01663](http://arxiv.org/pdf/2601.01663.pdf)|null|
+|**2026-01-04**|**Gaussian fluctuating Generally covariant diffusion**|Giorgio Torrieri et.al.|[2601.01656](http://arxiv.org/pdf/2601.01656.pdf)|null|
+|**2026-01-04**|**Guiding Token-Sparse Diffusion Models**|Felix Krause et.al.|[2601.01608](http://arxiv.org/pdf/2601.01608.pdf)|null|
+|**2026-01-04**|**Atomic structure and formation mechanism of a newly discovered charge density wave in the m=2 monophosphate tungsten bronze**|Arianna Minelli et.al.|[2601.01606](http://arxiv.org/pdf/2601.01606.pdf)|null|
+|**2026-01-04**|**Variance-Reduced Diffusion Sampling via Conditional Score Expectation Identity**|Alois Duston et.al.|[2601.01594](http://arxiv.org/pdf/2601.01594.pdf)|null|
+|**2026-01-04**|**Renewal theory for Brownian motion with stochastically gated targets**|Paul C Bressloff et.al.|[2601.01588](http://arxiv.org/pdf/2601.01588.pdf)|null|
+|**2026-01-04**|**A Unified Equilibrated Flux Recovery Framework with Robust A Posteriori Error Estimation**|Cuiyu He et.al.|[2601.01585](http://arxiv.org/pdf/2601.01585.pdf)|null|
+|**2026-01-04**|**MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning**|Chunyu Qiang et.al.|[2601.01568](http://arxiv.org/pdf/2601.01568.pdf)|null|
+|**2026-01-04**|**A Universal Model for the Resting Potential in Nanofluidic Systems**|Ramadan Abu-Rjal et.al.|[2601.01536](http://arxiv.org/pdf/2601.01536.pdf)|null|
+|**2026-01-04**|**Improving Flexible Image Tokenizers for Autoregressive Image Generation**|Zixuan Fu et.al.|[2601.01535](http://arxiv.org/pdf/2601.01535.pdf)|null|
+|**2026-01-04**|**Diffuse neutrino flux from relativistic reconnection in AGN coronae**|D. Karavola et.al.|[2601.01533](http://arxiv.org/pdf/2601.01533.pdf)|null|
+|**2026-01-04**|**DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving**|Yang Zhou et.al.|[2601.01528](http://arxiv.org/pdf/2601.01528.pdf)|null|
+|**2026-01-04**|**DiffKD-DCIS: Predicting Upgrade of Ductal Carcinoma In Situ with Diffusion Augmentation and Knowledge Distillation**|Tao Li et.al.|[2601.01507](http://arxiv.org/pdf/2601.01507.pdf)|null|
+|**2026-01-04**|**Scalar mixing in non-Markovian homogeneous isotropic synthetic turbulence**|Pratyush S. Awasthi et.al.|[2601.01494](http://arxiv.org/pdf/2601.01494.pdf)|null|
+|**2026-01-04**|**DeepInv: A Novel Self-supervised Learning Approach for Fast and Accurate Diffusion Inversion**|Ziyue Zhang et.al.|[2601.01487](http://arxiv.org/pdf/2601.01487.pdf)|null|
+|**2026-01-04**|**Multi-Subspace Multi-Modal Modeling for Diffusion Models: Estimation, Convergence and Mixture of Experts**|Ruofeng Yang et.al.|[2601.01475](http://arxiv.org/pdf/2601.01475.pdf)|null|
+|**2026-01-04**|**Convergence Analysis of PINNs for Fractional Diffusion Equations in Bounded Domains**|Elie Abdo et.al.|[2601.01462](http://arxiv.org/pdf/2601.01462.pdf)|null|
+|**2026-01-04**|**Domain Adaptation of Carotid Ultrasound Images using Generative Adversarial Network**|Mohd Usama et.al.|[2601.01460](http://arxiv.org/pdf/2601.01460.pdf)|null|
+|**2026-01-04**|**Fragmentation-coagulation processes with advection or diffusion in space**|Jacek Banasiak et.al.|[2601.01453](http://arxiv.org/pdf/2601.01453.pdf)|null|
+|**2026-01-04**|**Adaptive Diffusion-based Augmentation for Recommendation**|Na Li et.al.|[2601.01448](http://arxiv.org/pdf/2601.01448.pdf)|null|
+|**2026-01-04**|**Fully Coupled Multiphysics Modelling of Fracture Behaviour in Silicon Particles During Lithiation Delithiation Using the Phase Field Method**|Jie Yang et.al.|[2601.01443](http://arxiv.org/pdf/2601.01443.pdf)|null|
+|**2026-01-04**|**Image Synthesis Using Spintronic Deep Convolutional Generative Adversarial Network**|Saumya Gupta et.al.|[2601.01441](http://arxiv.org/pdf/2601.01441.pdf)|null|
+|**2026-01-04**|**DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer**|Xu Guo et.al.|[2601.01425](http://arxiv.org/pdf/2601.01425.pdf)|null|
+|**2026-01-04**|**Chimera States in Wheel Networks**|Ashwathi Poolamanna et.al.|[2601.01411](http://arxiv.org/pdf/2601.01411.pdf)|null|
+|**2026-01-04**|**A refined model of secondary photon emission from heavy WIMP annihilations in the Galactic Centre**|Rajat Shinde et.al.|[2601.01397](http://arxiv.org/pdf/2601.01397.pdf)|null|
+|**2026-01-04**|**Simulating diffusion and disorder-induced localization in random walks and transmission lines**|Jake S. Bobowski et.al.|[2601.01381](http://arxiv.org/pdf/2601.01381.pdf)|null|
+|**2026-01-04**|**Poisson Centralisers and Polynomial Superintegrability for Magnetic Geodesic Flows on Reductive Homogeneous Spaces**|Kai Jiang et.al.|[2601.01369](http://arxiv.org/pdf/2601.01369.pdf)|null|
+|**2026-01-04**|**Causal discovery for linear causal model with correlated noise: an Adversarial Learning Approach**|Mujin Zhou et.al.|[2601.01368](http://arxiv.org/pdf/2601.01368.pdf)|null|
+|**2026-01-04**|**Advanced Machine Learning Approaches for Enhancing Person Re-Identification Performance**|Dang H. Pham et.al.|[2601.01356](http://arxiv.org/pdf/2601.01356.pdf)|null|
+|**2026-01-04**|**Slot-ID: Identity-Preserving Video Generation from Reference Videos via Slot-Based Temporal Identity Encoding**|Yixuan Lai et.al.|[2601.01352](http://arxiv.org/pdf/2601.01352.pdf)|null|
+|**2026-01-04**|**HyperNetWalk: A Unified Framework for Personalized and Population-Level Cancer Driver Gene Identification via Multi-Network Hypergraph Diffusion**|Xueqing Xu et.al.|[2601.01337](http://arxiv.org/pdf/2601.01337.pdf)|null|
+|**2026-01-04**|**Evidence for a two-dimensional quantum glass state at high temperatures**|Aleksey Lunkin et.al.|[2601.01309](http://arxiv.org/pdf/2601.01309.pdf)|null|
+|**2026-01-03**|**Diffusion Timbre Transfer Via Mutual Information Guided Inpainting**|Ching Ho Lee et.al.|[2601.01294](http://arxiv.org/pdf/2601.01294.pdf)|null|
+|**2026-01-03**|**Cellular Automata: From Structural Principles to Transport and Correlation Methods**|Mihir Metkar et.al.|[2601.01278](http://arxiv.org/pdf/2601.01278.pdf)|null|
+|**2026-01-03**|**Stochastic Thermodynamics of Associative Memory**|Spencer Rooke et.al.|[2601.01253](http://arxiv.org/pdf/2601.01253.pdf)|null|
+|**2026-01-03**|**Improved Object-Centric Diffusion Learning with Registers and Contrastive Alignment**|Bac Nguyen et.al.|[2601.01224](http://arxiv.org/pdf/2601.01224.pdf)|null|
+|**2026-01-03**|**On the Structure of the Optimal Detector for Sub-THz Multi-Hop Relays with Unknown Prior: Over-the-Air Diffusion**|Ozgur Ercetin et.al.|[2601.01194](http://arxiv.org/pdf/2601.01194.pdf)|null|
+|**2026-01-03**|**Comparative Evaluation of VAE, GAN, and SMOTE for Tor Detection in Encrypted Network Traffic**|Saravanan A et.al.|[2601.01183](http://arxiv.org/pdf/2601.01183.pdf)|null|
+|**2026-01-03**|**YODA: Yet Another One-step Diffusion-based Video Compressor**|Xingchen Li et.al.|[2601.01141](http://arxiv.org/pdf/2601.01141.pdf)|null|
+|**2026-01-03**|**Exploring the formation mechanisms of tidal structures in globular clusters of extragalactic origin**|Shouzhi Wang et.al.|[2601.01110](http://arxiv.org/pdf/2601.01110.pdf)|null|
+|**2026-01-03**|**NADD: Amplifying Noise for Effective Diffusion-based Adversarial Purification**|David D. Nguyen et.al.|[2601.01109](http://arxiv.org/pdf/2601.01109.pdf)|null|
+|**2026-01-03**|**Neural Networks on Symmetric Spaces of Noncompact Type**|Xuan Son Nguyen et.al.|[2601.01097](http://arxiv.org/pdf/2601.01097.pdf)|null|
+|**2026-01-03**|**Luminark: Training-free, Probabilistically-Certified Watermarking for General Vision Generative Models**|Jiayi Xu et.al.|[2601.01085](http://arxiv.org/pdf/2601.01085.pdf)|null|
+|**2026-01-03**|**Flow Equivariant World Models: Memory for Partially Observed Dynamic Environments**|Hansen Jin Lillemark et.al.|[2601.01075](http://arxiv.org/pdf/2601.01075.pdf)|null|
+|**2026-01-03**|**Out-of-Band Power Side-Channel Detection for Semiconductor Supply Chain Integrity at Scale**|Rajiv Thummala et.al.|[2601.01054](http://arxiv.org/pdf/2601.01054.pdf)|null|
+|**2026-01-03**|**EgoGrasp: World-Space Hand-Object Interaction Estimation from Egocentric Videos**|Hongming Fu et.al.|[2601.01050](http://arxiv.org/pdf/2601.01050.pdf)|null|
+|**2026-01-03**|**Coarse-Grained Kullback--Leibler Control of Diffusion-Based Generative AI**|Tatsuaki Tsuruyama et.al.|[2601.01045](http://arxiv.org/pdf/2601.01045.pdf)|null|
 |**2026-01-02**|**Categorical Reparameterization with Denoising Diffusion models**|Samson Gourevitch et.al.|[2601.00781](http://arxiv.org/pdf/2601.00781.pdf)|null|
 |**2026-01-02**|**Investigating the Viability of Employing Multi-modal Large Language Models in the Context of Audio Deepfake Detection**|Akanksha Chuchra et.al.|[2601.00777](http://arxiv.org/pdf/2601.00777.pdf)|null|
 |**2026-01-02**|**Continuous time asymptotic representations for adaptive experiments**|Karun Adusumilli et.al.|[2601.00739](http://arxiv.org/pdf/2601.00739.pdf)|null|
@@ -10544,6 +10679,11 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**VIBE: Visual Instruction Based Editor**|Grigorii Alekseenko et.al.|[2601.02242](http://arxiv.org/pdf/2601.02242.pdf)|null|
+|**2026-01-04**|**VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data**|Snehal s. Dikhale et.al.|[2601.01675](http://arxiv.org/pdf/2601.01675.pdf)|null|
+|**2026-01-03**|**Warp-Cortex: An Asynchronous, Memory-Efficient Architecture for Million-Agent Cognitive Scaling on Consumer Hardware**|Jorge L. Ruiz Williams et.al.|[2601.01298](http://arxiv.org/pdf/2601.01298.pdf)|null|
+|**2026-01-03**|**Cross-Layer Attentive Feature Upsampling for Low-latency Semantic Segmentation**|Tianheng Cheng et.al.|[2601.01167](http://arxiv.org/pdf/2601.01167.pdf)|null|
+|**2025-12-29**|**Temporal Attack Pattern Detection in Multi-Agent AI Workflows: An Open Framework for Training Trace-Based Security Models**|Ron F. Del Rosario et.al.|[2601.00848](http://arxiv.org/pdf/2601.00848.pdf)|null|
 |**2026-01-02**|**Pixel-to-4D: Camera-Controlled Image-to-Video Generation with Dynamic 3D Gaussians**|Melonie de Almeida et.al.|[2601.00678](http://arxiv.org/pdf/2601.00678.pdf)|null|
 |**2026-01-01**|**Efficient Prediction of Dense Visual Embeddings via Distillation and RGB-D Transformers**|Söhnke Benedikt Fischedick et.al.|[2601.00359](http://arxiv.org/pdf/2601.00359.pdf)|null|
 |**2025-12-31**|**CTMap: LLM-Enabled Connectivity-Aware Path Planning in Millimeter-Wave Digital Twin Networks**|Md Salik Parwez et.al.|[2601.00110](http://arxiv.org/pdf/2601.00110.pdf)|null|
@@ -11288,8 +11428,16 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**VIT-Ped: Visionary Intention Transformer for Pedestrian Behavior Analysis**|Aly R. Elkammar et.al.|[2601.01989](http://arxiv.org/pdf/2601.01989.pdf)|null|
+|**2026-01-05**|**AlignDrive: Aligned Lateral-Longitudinal Planning for End-to-End Autonomous Driving**|Yanhao Wu et.al.|[2601.01762](http://arxiv.org/pdf/2601.01762.pdf)|null|
+|**2026-01-04**|**LabelAny3D: Label Any Object 3D in the Wild**|Jin Yao et.al.|[2601.01676](http://arxiv.org/pdf/2601.01676.pdf)|null|
+|**2026-01-04**|**HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller**|Tran Tien Dat et.al.|[2601.01577](http://arxiv.org/pdf/2601.01577.pdf)|null|
+|**2026-01-04**|**DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving**|Yang Zhou et.al.|[2601.01528](http://arxiv.org/pdf/2601.01528.pdf)|null|
+|**2026-01-04**|**ParkGaussian: Surround-view 3D Gaussian Splatting for Autonomous Parking**|Xiaobao Wei et.al.|[2601.01386](http://arxiv.org/pdf/2601.01386.pdf)|null|
+|**2025-12-31**|**Dichotomous Diffusion Policy Optimization**|Ruiming Liang et.al.|[2601.00898](http://arxiv.org/pdf/2601.00898.pdf)|null|
 |**2025-12-31**|**Semi-Supervised Diversity-Aware Domain Adaptation for 3D Object detection**|Bartłomiej Olber et.al.|[2512.24922](http://arxiv.org/pdf/2512.24922.pdf)|null|
-|**2025-12-31**|**LSRE: Latent Semantic Rule Encoding for Real-Time Semantic Risk Detection in Autonomous Driving**|Qian Cheng et.al.|[2512.24712](http://arxiv.org/pdf/2512.24712.pdf)|null|
+|**2026-01-04**|**LSRE: Latent Semantic Rule Encoding for Real-Time Semantic Risk Detection in Autonomous Driving**|Qian Cheng et.al.|[2512.24712](http://arxiv.org/pdf/2512.24712.pdf)|null|
+|**2026-01-05**|**Foundation models on the bridge: Semantic hazard detection and safety maneuvers for maritime autonomy with vision-language models**|Kim Alexander Christensen et.al.|[2512.24470](http://arxiv.org/pdf/2512.24470.pdf)|null|
 |**2025-12-30**|**Counterfactual VLA: Self-Reflective Vision-Language-Action Model with Adaptive Reasoning**|Zhenghao "Mark" Peng et.al.|[2512.24426](http://arxiv.org/pdf/2512.24426.pdf)|null|
 |**2025-12-30**|**Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems**|Song Wang et.al.|[2512.24385](http://arxiv.org/pdf/2512.24385.pdf)|null|
 |**2025-12-30**|**Spatial-aware Vision Language Model for Autonomous Driving**|Weijie Wei et.al.|[2512.24331](http://arxiv.org/pdf/2512.24331.pdf)|null|
@@ -11342,7 +11490,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-12-18**|**DVGT: Driving Visual Geometry Transformer**|Sicheng Zuo et.al.|[2512.16919](http://arxiv.org/pdf/2512.16919.pdf)|null|
 |**2025-12-18**|**SceneDiff: A Benchmark and Method for Multiview Object Change Detection**|Yuqun Wu et.al.|[2512.16908](http://arxiv.org/pdf/2512.16908.pdf)|null|
 |**2025-12-30**|**PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies**|Arhan Jain et.al.|[2512.16881](http://arxiv.org/pdf/2512.16881.pdf)|null|
-|**2025-12-18**|**Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future**|Tianshuai Hu et.al.|[2512.16760](http://arxiv.org/pdf/2512.16760.pdf)|null|
+|**2026-01-04**|**Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future**|Tianshuai Hu et.al.|[2512.16760](http://arxiv.org/pdf/2512.16760.pdf)|null|
 |**2025-12-18**|**Guiding Perception-Reasoning Closer to Human in Blind Image Quality Assessment**|Yuan Li et.al.|[2512.16484](http://arxiv.org/pdf/2512.16484.pdf)|null|
 |**2025-12-18**|**Autoencoder-based Denoising Defense against Adversarial Attacks on Object Detection**|Min Geun Song et.al.|[2512.16123](http://arxiv.org/pdf/2512.16123.pdf)|null|
 |**2025-12-18**|**Driving in Corner Case: A Real-World Adversarial Closed-Loop Evaluation Platform for End-to-End Autonomous Driving**|Jiaheng Geng et.al.|[2512.16055](http://arxiv.org/pdf/2512.16055.pdf)|null|
@@ -12281,6 +12429,9 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-04**|**EscherVerse: An Open World Benchmark and Dataset for Teleo-Spatial Intelligence with Physical-Dynamic and Intent-Driven Understanding**|Tianjun Gu et.al.|[2601.01547](http://arxiv.org/pdf/2601.01547.pdf)|null|
+|**2026-01-03**|**EduSim-LLM: An Educational Platform Integrating Large Language Models and Robotic Simulation for Beginners**|Shenqi Lu et.al.|[2601.01196](http://arxiv.org/pdf/2601.01196.pdf)|null|
+|**2026-01-03**|**Latent Space Reinforcement Learning for Multi-Robot Exploration**|Sriram Rajasekar et.al.|[2601.01139](http://arxiv.org/pdf/2601.01139.pdf)|null|
 |**2026-01-02**|**DynaDrag: Dynamic Drag-Style Image Editing by Motion Prediction**|Jiacheng Sui et.al.|[2601.00542](http://arxiv.org/pdf/2601.00542.pdf)|null|
 |**2025-12-31**|**Reinforcement learning with timed constraints for robotics motion planning**|Zhaoan Wang et.al.|[2601.00087](http://arxiv.org/pdf/2601.00087.pdf)|null|
 |**2025-12-31**|**Hybrid Motion Planning with Deep Reinforcement Learning for Mobile Robot Navigation**|Yury Kolomeytsev et.al.|[2512.24651](http://arxiv.org/pdf/2512.24651.pdf)|null|
@@ -13094,6 +13245,59 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**CycleVLA: Proactive Self-Correcting Vision-Language-Action Models via Subtask Backtracking and Minimum Bayes Risk Decoding**|Chenyang Ma et.al.|[2601.02295](http://arxiv.org/pdf/2601.02295.pdf)|null|
+|**2026-01-05**|**Differential Barometric Altimetry for Submeter Vertical Localization and Floor Recognition Indoors**|Yuhang Zhang et.al.|[2601.02184](http://arxiv.org/pdf/2601.02184.pdf)|null|
+|**2026-01-05**|**SingingBot: An Avatar-Driven System for Robotic Face Singing Performance**|Zhuoxiong Xu et.al.|[2601.02125](http://arxiv.org/pdf/2601.02125.pdf)|null|
+|**2026-01-05**|**360-GeoGS: Geometrically Consistent Feed-Forward 3D Gaussian Splatting Reconstruction for 360 Images**|Jiaqi Yao et.al.|[2601.02102](http://arxiv.org/pdf/2601.02102.pdf)|null|
+|**2026-01-05**|**Vision-Based Early Fault Diagnosis and Self-Recovery for Strawberry Harvesting Robots**|Meili Sun et.al.|[2601.02085](http://arxiv.org/pdf/2601.02085.pdf)|null|
+|**2026-01-05**|**Realistic adversarial scenario generation via human-like pedestrian model for autonomous vehicle control parameter optimisation**|Yueyang Wang et.al.|[2601.02082](http://arxiv.org/pdf/2601.02082.pdf)|null|
+|**2026-01-05**|**Genie Sim 3.0 : A High-Fidelity Comprehensive Simulation Platform for Humanoid Robot**|Chenghao Yin et.al.|[2601.02078](http://arxiv.org/pdf/2601.02078.pdf)|null|
+|**2026-01-05**|**Agentic Retoucher for Text-To-Image Generation**|Shaocheng Shen et.al.|[2601.02046](http://arxiv.org/pdf/2601.02046.pdf)|null|
+|**2026-01-05**|**Adapting Depth Anything to Adverse Imaging Conditions with Events**|Shihan Peng et.al.|[2601.02020](http://arxiv.org/pdf/2601.02020.pdf)|null|
+|**2026-01-05**|**VIT-Ped: Visionary Intention Transformer for Pedestrian Behavior Analysis**|Aly R. Elkammar et.al.|[2601.01989](http://arxiv.org/pdf/2601.01989.pdf)|null|
+|**2026-01-05**|**Deep Robust Koopman Learning from Noisy Data**|Aditya Singh et.al.|[2601.01971](http://arxiv.org/pdf/2601.01971.pdf)|null|
+|**2026-01-05**|**What you reward is what you learn: Comparing rewards for online speech policy optimization in public HRI**|Sichao Song et.al.|[2601.01969](http://arxiv.org/pdf/2601.01969.pdf)|null|
+|**2026-01-05**|**Learning Diffusion Policy from Primitive Skills for Robot Manipulation**|Zhihao Gu et.al.|[2601.01948](http://arxiv.org/pdf/2601.01948.pdf)|null|
+|**2026-01-05**|**From Metrics to Meaning: Insights from a Mixed-Methods Field Experiment on Retail Robot Deployment**|Sichao Song et.al.|[2601.01946](http://arxiv.org/pdf/2601.01946.pdf)|null|
+|**2026-01-05**|**CausalNav: A Long-term Embodied Navigation System for Autonomous Mobile Robots in Dynamic Outdoor Scenarios**|Hongbo Duan et.al.|[2601.01872](http://arxiv.org/pdf/2601.01872.pdf)|null|
+|**2026-01-05**|**DisCo-FLoc: Using Dual-Level Visual-Geometric Contrasts to Disambiguate Depth-Aware Visual Floorplan Localization**|Shiyong Meng et.al.|[2601.01822](http://arxiv.org/pdf/2601.01822.pdf)|null|
+|**2026-01-05**|**AlignDrive: Aligned Lateral-Longitudinal Planning for End-to-End Autonomous Driving**|Yanhao Wu et.al.|[2601.01762](http://arxiv.org/pdf/2601.01762.pdf)|null|
+|**2026-01-05**|**Simulations and Advancements in MRI-Guided Power-Driven Ferric Tools for Wireless Therapeutic Interventions**|Wenhui Chu et.al.|[2601.01726](http://arxiv.org/pdf/2601.01726.pdf)|null|
+|**2026-01-05**|**Explicit World Models for Reliable Human-Robot Collaboration**|Kenneth Kwok et.al.|[2601.01705](http://arxiv.org/pdf/2601.01705.pdf)|null|
+|**2026-01-05**|**Real-Time Lane Detection via Efficient Feature Alignment and Covariance Optimization for Low-Power Embedded Systems**|Yian Liu et.al.|[2601.01696](http://arxiv.org/pdf/2601.01696.pdf)|null|
+|**2026-01-04**|**LabelAny3D: Label Any Object 3D in the Wild**|Jin Yao et.al.|[2601.01676](http://arxiv.org/pdf/2601.01676.pdf)|null|
+|**2026-01-04**|**VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data**|Snehal s. Dikhale et.al.|[2601.01675](http://arxiv.org/pdf/2601.01675.pdf)|null|
+|**2026-01-04**|**DemoBot: Efficient Learning of Bimanual Manipulation with Dexterous Hands From Third-Person Human Videos**|Yucheng Xu et.al.|[2601.01651](http://arxiv.org/pdf/2601.01651.pdf)|null|
+|**2026-01-04**|**Action-Sketcher: From Reasoning to Action via Visual Sketches for Long-Horizon Robotic Manipulation**|Huajie Tan et.al.|[2601.01618](http://arxiv.org/pdf/2601.01618.pdf)|null|
+|**2026-01-04**|**HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller**|Tran Tien Dat et.al.|[2601.01577](http://arxiv.org/pdf/2601.01577.pdf)|null|
+|**2026-01-04**|**AIMS: An Adaptive Integration of Multi-Sensor Measurements for Quadrupedal Robot Localization**|Yujian Qiu et.al.|[2601.01561](http://arxiv.org/pdf/2601.01561.pdf)|null|
+|**2026-01-04**|**Sim2Real SAR Image Restoration: Metadata-Driven Models for Joint Despeckling and Sidelobes Reduction**|Antoine De Paepe et.al.|[2601.01541](http://arxiv.org/pdf/2601.01541.pdf)|null|
+|**2026-01-04**|**DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving**|Yang Zhou et.al.|[2601.01528](http://arxiv.org/pdf/2601.01528.pdf)|null|
+|**2026-01-04**|**A Novel Deep Learning Method for Segmenting the Left Ventricle in Cardiac Cine MRI**|Wenhui Chu et.al.|[2601.01512](http://arxiv.org/pdf/2601.01512.pdf)|null|
+|**2026-01-04**|**Online Estimation and Manipulation of Articulated Objects**|Russell Buchanan et.al.|[2601.01438](http://arxiv.org/pdf/2601.01438.pdf)|null|
+|**2026-01-04**|**Sampling Strategy Design for Model Predictive Path Integral Control on Legged Robot Locomotion**|Chuyuan Tao et.al.|[2601.01409](http://arxiv.org/pdf/2601.01409.pdf)|null|
+|**2026-01-03**|**PyBatchRender: A Python Library for Batched 3D Rendering at Up to One Million FPS**|Evgenii Rudakov et.al.|[2601.01288](http://arxiv.org/pdf/2601.01288.pdf)|null|
+|**2026-01-03**|**SAHA: Supervised Autonomous HArvester for selective forest thinning**|Fang Nan et.al.|[2601.01282](http://arxiv.org/pdf/2601.01282.pdf)|null|
+|**2026-01-03**|**Bridging Language Gaps: Utilizing Interactive Robots to Teach Cantonese in Real-Life Contexts for Newly-Arrived Children**|Ka-Yan Fung et.al.|[2601.01234](http://arxiv.org/pdf/2601.01234.pdf)|null|
+|**2026-01-03**|**LiveBo: Empowering Non-Chinese Speaking Students through AI-Driven Real-Life Scenarios in Cantonese**|Ka Yan Fung et.al.|[2601.01227](http://arxiv.org/pdf/2601.01227.pdf)|null|
+|**2026-01-03**|**MotiBo: The Impact of Interactive Digital Storytelling Robots on Student Motivation through Self-Determination Theory**|Ka Yan Fung et.al.|[2601.01218](http://arxiv.org/pdf/2601.01218.pdf)|null|
+|**2026-01-03**|**Real-Time LiDAR Point Cloud Densification for Low-Latency Spatial Data Transmission**|Kazuhiko Murasaki et.al.|[2601.01210](http://arxiv.org/pdf/2601.01210.pdf)|null|
+|**2026-01-03**|**EduSim-LLM: An Educational Platform Integrating Large Language Models and Robotic Simulation for Beginners**|Shenqi Lu et.al.|[2601.01196](http://arxiv.org/pdf/2601.01196.pdf)|null|
+|**2026-01-03**|**DST-Calib: A Dual-Path, Self-Supervised, Target-Free LiDAR-Camera Extrinsic Calibration Network**|Zhiwei Huang et.al.|[2601.01188](http://arxiv.org/pdf/2601.01188.pdf)|null|
+|**2026-01-03**|**ORION: Option-Regularized Deep Reinforcement Learning for Cooperative Multi-Agent Online Navigation**|Zhang Shizhe et.al.|[2601.01155](http://arxiv.org/pdf/2601.01155.pdf)|null|
+|**2026-01-03**|**VISO: Robust Underwater Visual-Inertial-Sonar SLAM with Photometric Rendering for Dense 3D Reconstruction**|Shu Pan et.al.|[2601.01144](http://arxiv.org/pdf/2601.01144.pdf)|null|
+|**2026-01-03**|**Latent Space Reinforcement Learning for Multi-Robot Exploration**|Sriram Rajasekar et.al.|[2601.01139](http://arxiv.org/pdf/2601.01139.pdf)|null|
+|**2026-01-03**|**Towards reliable subsea object recovery: a simulation study of an auv with a suction-actuated end effector**|Michele Grimaldi et.al.|[2601.01106](http://arxiv.org/pdf/2601.01106.pdf)|null|
+|**2026-01-03**|**Scalable Data-Driven Reachability Analysis and Control via Koopman Operators with Conformal Coverage Guarantees**|Devesh Nath et.al.|[2601.01076](http://arxiv.org/pdf/2601.01076.pdf)|null|
+|**2026-01-03**|**Topological Mapping and Navigation using a Monocular Camera based on AnyLoc**|Wenzheng Zhang et.al.|[2601.01067](http://arxiv.org/pdf/2601.01067.pdf)|null|
+|**2026-01-02**|**Contractive Diffusion Policies: Robust Action Diffusion via Contractive Score-Based Sampling with Differential Equations**|Amin Abyaneh et.al.|[2601.01003](http://arxiv.org/pdf/2601.01003.pdf)|null|
+|**2026-01-02**|**DVGBench: Implicit-to-Explicit Visual Grounding Benchmark in UAV Imagery with Large Vision-Language Models**|Yue Zhou et.al.|[2601.00998](http://arxiv.org/pdf/2601.00998.pdf)|null|
+|**2026-01-02**|**Simulations of MRI Guided and Powered Ferric Applicators for Tetherless Delivery of Therapeutic Interventions**|Wenhui Chu et.al.|[2601.00981](http://arxiv.org/pdf/2601.00981.pdf)|null|
+|**2026-01-02**|**From Perception to Symbolic Task Planning: Vision-Language Guided Human-Robot Collaborative Structured Assembly**|Yanyi Chen et.al.|[2601.00978](http://arxiv.org/pdf/2601.00978.pdf)|null|
+|**2026-01-02**|**Value Vision-Language-Action Planning & Search**|Ali Salamatian et.al.|[2601.00969](http://arxiv.org/pdf/2601.00969.pdf)|null|
+|**2026-01-02**|**Learning to Segment Liquids in Real-world Images**|Jonas Li et.al.|[2601.00940](http://arxiv.org/pdf/2601.00940.pdf)|null|
+|**2026-01-02**|**Analyzing the Shopping Journey: Computing Shelf Browsing Visits in a Physical Retail Store**|Luis Yoichi Morales et.al.|[2601.00928](http://arxiv.org/pdf/2601.00928.pdf)|null|
+|**2025-12-31**|**Dichotomous Diffusion Policy Optimization**|Ruiming Liang et.al.|[2601.00898](http://arxiv.org/pdf/2601.00898.pdf)|null|
 |**2026-01-02**|**Calling for Backup: How Children Navigate Successive Robot Communication Failures**|Maria Teresa Parreira et.al.|[2601.00754](http://arxiv.org/pdf/2601.00754.pdf)|null|
 |**2026-01-02**|**DefVINS: Visual-Inertial Odometry for Deformable Scenes**|Samuel Cerezo et.al.|[2601.00702](http://arxiv.org/pdf/2601.00702.pdf)|null|
 |**2026-01-02**|**Bayesian Inverse Games with High-Dimensional Multi-Modal Observations**|Yash Jain et.al.|[2601.00696](http://arxiv.org/pdf/2601.00696.pdf)|null|
@@ -13116,7 +13320,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2026-01-01**|**CropNeRF: A Neural Radiance Field-Based Framework for Crop Counting**|Md Ahmed Al Muzaddid et.al.|[2601.00207](http://arxiv.org/pdf/2601.00207.pdf)|null|
 |**2026-01-01**|**SLEI3D: Simultaneous Exploration and Inspection via Heterogeneous Fleets under Limited Communication**|Junfeng Chen et.al.|[2601.00163](http://arxiv.org/pdf/2601.00163.pdf)|null|
 |**2026-01-01**|**Focal-RegionFace: Generating Fine-Grained Multi-attribute Descriptions for Arbitrarily Selected Face Focal Regions**|Kaiwen Zheng et.al.|[2601.00156](http://arxiv.org/pdf/2601.00156.pdf)|null|
-|**2025-12-31**|**Compositional Diffusion with Guided search for Long-Horizon Planning**|Utkarsh A Mishra et.al.|[2601.00126](http://arxiv.org/pdf/2601.00126.pdf)|null|
+|**2026-01-05**|**Compositional Diffusion with Guided Search for Long-Horizon Planning**|Utkarsh A Mishra et.al.|[2601.00126](http://arxiv.org/pdf/2601.00126.pdf)|null|
 |**2025-12-31**|**GRL-SNAM: Geometric Reinforcement Learning with Path Differential Hamiltonians for Simultaneous Navigation and Mapping in Unknown Environments**|Aditya Sai Ellendula et.al.|[2601.00116](http://arxiv.org/pdf/2601.00116.pdf)|null|
 |**2025-12-31**|**Reinforcement learning with timed constraints for robotics motion planning**|Zhaoan Wang et.al.|[2601.00087](http://arxiv.org/pdf/2601.00087.pdf)|null|
 |**2025-12-31**|**SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time**|Zhening Huang et.al.|[2512.25075](http://arxiv.org/pdf/2512.25075.pdf)|null|
@@ -13131,7 +13335,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-12-31**|**Explaining Why Things Go Where They Go: Interpretable Constructs of Human Organizational Preferences**|Emmanuel Fashae et.al.|[2512.24829](http://arxiv.org/pdf/2512.24829.pdf)|null|
 |**2025-12-31**|**Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow**|Karthik Dharmarajan et.al.|[2512.24766](http://arxiv.org/pdf/2512.24766.pdf)|null|
 |**2025-12-31**|**Control of Microrobots with Reinforcement Learning under On-Device Compute Constraints**|Yichen Liu et.al.|[2512.24740](http://arxiv.org/pdf/2512.24740.pdf)|null|
-|**2025-12-31**|**LSRE: Latent Semantic Rule Encoding for Real-Time Semantic Risk Detection in Autonomous Driving**|Qian Cheng et.al.|[2512.24712](http://arxiv.org/pdf/2512.24712.pdf)|null|
+|**2026-01-04**|**LSRE: Latent Semantic Rule Encoding for Real-Time Semantic Risk Detection in Autonomous Driving**|Qian Cheng et.al.|[2512.24712](http://arxiv.org/pdf/2512.24712.pdf)|null|
 |**2025-12-31**|**Dynamic Policy Learning for Legged Robot with Simplified Model Pretraining and Model Homotopy Transfer**|Dongyun Kang et.al.|[2512.24698](http://arxiv.org/pdf/2512.24698.pdf)|null|
 |**2025-12-31**|**CREPES-X: Hierarchical Bearing-Distance-Inertial Direct Cooperative Relative Pose Estimation System**|Zhehan Li et.al.|[2512.24688](http://arxiv.org/pdf/2512.24688.pdf)|null|
 |**2025-12-31**|**ReSPIRe: Informative and Reusable Belief Tree Search for Robot Probabilistic Search and Tracking in Unknown Environments**|Kangjie Zhou et.al.|[2512.24680](http://arxiv.org/pdf/2512.24680.pdf)|null|
@@ -13199,6 +13403,9 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**VIBE: Visual Instruction Based Editor**|Grigorii Alekseenko et.al.|[2601.02242](http://arxiv.org/pdf/2601.02242.pdf)|null|
+|**2026-01-04**|**VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data**|Snehal s. Dikhale et.al.|[2601.01675](http://arxiv.org/pdf/2601.01675.pdf)|null|
+|**2026-01-03**|**Cross-Layer Attentive Feature Upsampling for Low-latency Semantic Segmentation**|Tianheng Cheng et.al.|[2601.01167](http://arxiv.org/pdf/2601.01167.pdf)|null|
 |**2026-01-01**|**Efficient Prediction of Dense Visual Embeddings via Distillation and RGB-D Transformers**|Söhnke Benedikt Fischedick et.al.|[2601.00359](http://arxiv.org/pdf/2601.00359.pdf)|null|
 |**2025-12-23**|**LiteFusion: Taming 3D Object Detectors from Vision-Based to Multi-Modal with Minimal Adaptation**|Xiangxuan Ren et.al.|[2512.20217](http://arxiv.org/pdf/2512.20217.pdf)|null|
 |**2025-12-17**|**Exploring Deep-to-Shallow Transformable Neural Networks for Intelligent Embedded Systems**|Xiangzhong Luo et.al.|[2512.19731](http://arxiv.org/pdf/2512.19731.pdf)|null|
