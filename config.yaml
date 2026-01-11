@@ -6,6 +6,8 @@ show_authors: True
 show_links: True
 show_badge: False
 max_results: 100
+max_pages: 5  # Number of API pages to query (pagination)
+max_visible: 100  # Maximum papers to show before expand button
 
 publish_readme: True
 publish_gitpage: True

@@ -141,92 +141,82 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
   
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic,query="slam", max_results=100, max_pages=5):
     """
     @param topic: str
     @param query: str
+    @param max_results: int, max results per API call
+    @param max_pages: int, max number of API calls (pagination)
     @return paper_with_code: dict
     """
     # output 
     content = dict() 
     content_to_web = dict()
 
-    client = arxiv.Client()  # 创建客户端实例
-
-    search_engine = arxiv.Search(
-        query = query,
-        max_results = max_results,
-        sort_by = arxiv.SortCriterion.SubmittedDate
-    )
-
-    for result in client.results(search_engine):
-
-        paper_id            = result.get_short_id()
-        paper_title         = result.title
-        paper_url           = result.entry_id
-        code_url            = base_url + paper_id #TODO
-        paper_abstract      = result.summary.replace("\n"," ")
-        paper_authors       = get_authors(result.authors)
-        paper_first_author  = get_authors(result.authors,first_author = True)
-        primary_category    = result.primary_category
-        publish_time        = result.published.date()
-        update_time         = result.updated.date()
-        comments            = result.comment
-        # import ipdb; ipdb.set_trace()
+    client = arxiv.Client()
+    
+    total_results = 0
+    for page in range(max_pages):
+        search_engine = arxiv.Search(
+            query = query,
+            max_results = max_results,
+            start = page * max_results,
+            sort_by = arxiv.SortCriterion.SubmittedDate
+        )
         
+        results_count = 0
+        for result in client.results(search_engine):
+            results_count += 1
+            paper_id            = result.get_short_id()
+            paper_title         = result.title
+            paper_url           = result.entry_id
+            code_url            = base_url + paper_id
+            paper_abstract      = result.summary.replace("\n"," ")
+            paper_authors       = get_authors(result.authors)
+            paper_first_author  = get_authors(result.authors,first_author = True)
+            primary_category    = result.primary_category
+            publish_time        = result.published.date()
+            update_time         = result.updated.date()
+            comments            = result.comment
+            
+            logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
-        logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
+            ver_pos = paper_id.find('v')
+            if ver_pos == -1:
+                paper_key = paper_id
+            else:
+                paper_key = paper_id[0:ver_pos]    
+            paper_url = arxiv_url + 'pdf/' + paper_key + '.pdf'
+            
+            try:
+                repo_url = None
 
-        # eg: 2108.09112v1 -> 2108.09112
-        ver_pos = paper_id.find('v')
-        if ver_pos == -1:
-            paper_key = paper_id
-        else:
-            paper_key = paper_id[0:ver_pos]    
-        paper_url = arxiv_url + 'pdf/' + paper_key + '.pdf'
-        # paper_url = arxiv_url + 'abs/' + paper_key
-        # print(paper_url)
+                if repo_url is not None:
+                    content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
+                           update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
+                    content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
+                           update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
+                else:
+                    content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                           update_time,paper_title,paper_first_author,paper_key,paper_url)
+                    content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+                           update_time,paper_title,paper_first_author,paper_url,paper_url)
+
+                comments = None
+                if comments != None:
+                    content_to_web[paper_key] += f", {comments}\n"
+                else:
+                    content_to_web[paper_key] += f"\n"
+
+            except Exception as e:
+                logging.error(f"exception: {e} with id: {paper_key}")
         
-        try:
-            # source code link   
-            # import ipdb; ipdb.set_trace()
-
-            repo_url = None
-
-            # r = requests.get(code_url).json()
-            # if "official" in r and r["official"]:
-            #     repo_url = r["official"]["url"]
-
-
-            # TODO: not found, two more chances  
-            # else: 
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
-
-
-
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
-            else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
-
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
-
-        except Exception as e:
-            logging.error(f"exception: {e} with id: {paper_key}")
-
+        total_results += results_count
+        
+        # If we got fewer results than requested, no more pages available
+        if results_count < max_results:
+            break
+    
     data = {topic:content}
     data_web = {topic:content_to_web}
     return data,data_web 
@@ -317,10 +307,12 @@ def json_to_md(filename,md_filename,
                use_title = True, 
                use_tc = True,
                show_badge = True,
-               use_b2t = True):
+               use_b2t = True,
+               max_visible = 100):
     """
     @param filename: str
     @param md_filename: str
+    @param max_visible: int, maximum papers to show before expand button
     @return None
     """
     def pretty_math(s:str) -> str:
@@ -416,14 +408,27 @@ def json_to_md(filename,md_filename,
 
             # sort papers by date
             day_content = sort_papers(day_content)
-        
-            for _,v in day_content.items():
-                # import ipdb; ipdb.set_trace()
-                
-                if v is not None:
-                    f.write(pretty_math(v)) # make latex pretty
-
-            f.write(f"\n")
+            
+            papers_list = list(day_content.items())
+            visible_count = min(max_visible, len(papers_list))
+            
+            # Write visible papers
+            for idx, (paper_id, paper_content) in enumerate(papers_list[:visible_count]):
+                if paper_content is not None:
+                    f.write(pretty_math(paper_content))
+            
+            # Add expand button and hidden papers if there are more
+            if len(papers_list) > visible_count:
+                keyword_slug = keyword.replace(' ', '-').replace('.', '')
+                expand_id = f"expand-{keyword_slug}-{len(papers_list)}"
+                f.write(f"<details><summary>Show {len(papers_list) - visible_count} more papers...</summary>\n")
+                f.write("\n")
+                for paper_id, paper_content in papers_list[visible_count:]:
+                    if paper_content is not None:
+                        f.write(pretty_math(paper_content))
+                f.write("</details>\n\n")
+            else:
+                f.write("\n")
             
             #Add: back to top
             if use_b2t:
@@ -459,19 +464,22 @@ def demo(**config):
     
     keywords = config['kv']
     max_results = config['max_results']
+    max_pages = config.get('max_pages', 5)
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
 
     b_update = config['update_paper_links']
+    max_visible = config.get('max_visible', 100)
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
             data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results)
+                                            max_results = max_results,
+                                            max_pages = max_pages)
             data_collector.append(data)
             data_collector_web.append(data_web)
             print("\n")
@@ -502,7 +510,7 @@ def demo(**config):
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False)
+            use_tc=False, use_b2t=False, max_visible=max_visible)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
