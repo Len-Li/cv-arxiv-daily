@@ -11,6 +11,9 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 - [Industry](#industry)
 - [Autonomous Driving](#autonomous-driving)
 - [Traffic Simulation](#traffic-simulation)
+- [Robotics](#robotics)
+- [Robotics Industry](#robotics-industry)
+
 
 ## 3D
 
