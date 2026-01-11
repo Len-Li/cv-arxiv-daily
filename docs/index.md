@@ -6,14 +6,6 @@ Updated on 2026.01.11
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
-- [3D](#3d)
-- [Diffusion](#diffusion)
-- [Industry](#industry)
-- [Autonomous Driving](#autonomous-driving)
-- [Traffic Simulation](#traffic-simulation)
-- [Robotics](#robotics)
-- [Robotics Industry](#robotics-industry)
-
 
 ## 3D
 
@@ -13881,3 +13873,190 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |**2025-08-20**|**Snap-Snap: Taking Two Images to Reconstruct 3D Human Gaussians in Milliseconds**|Jia Lu et.al.|[2508.14892](http://arxiv.org/pdf/2508.14892.pdf)|null|
 |**2025-08-19**|**The 9th AI City Challenge**|Zheng Tang et.al.|[2508.13564](http://arxiv.org/pdf/2508.13564.pdf)|null|
 
+  
+<script>  
+// �Զ�����Ŀ¼  
+document.addEventListener('DOMContentLoaded', function() {  
+    // ��ȡ����h2���⣨section���⣩  
+    const headings = document.querySelectorAll('h2');  
+  
+    if (headings.length === 0) return;  
+  
+    // ����Ŀ¼����  
+    const tocContainer = document.createElement('div');  
+    tocContainer.className = 'auto-toc';  
+    tocContainer.innerHTML = '<h3>Ŀ¼</h3><ul></ul>';  
+    const ul = tocContainer.querySelector('ul');  
+  
+    // ��������h2����  
+    headings.forEach(heading => {  
+        // ����"Updated on"�ȷ�section����  
+        if (heading.textContent.includes('Updated on') || heading.textContent.includes('This page')) {  
+            return;  
+        }  
+  
+        const li = document.createElement('li');  
+        const a = document.createElement('a');  
+  
+        // ��ȡ�����ı�������ê��  
+        const text = heading.textContent;  
+        const anchor = text.toLowerCase().replace(/\s+/g, '-').replace(/[\w-]/g, '');  
+  
+        // Ϊ��������id  
+        heading.id = anchor;  
+  
+        // ��������  
+        a.textContent = text;  
+        a.href = '#' + anchor;  
+  
+        li.appendChild(a);  
+        ul.appendChild(li);  
+    });  
+  
+    // ��Ŀ¼���뵽ҳ�涥�����ڸ�������֮��  
+    const paragraphs = document.querySelectorAll('p');  
+    for (let p of paragraphs) {  
+        if (p.textContent.includes('Updated on')) {  
+            if (p.nextSibling) {  
+                p.parentNode.insertBefore(tocContainer, p.nextSibling);  
+            } else {  
+                document.body.appendChild(tocContainer);  
+            }  
+            break;  
+        }  
+    }  
+  
+    // ����Ŀ¼��ʽ  
+    const style = document.createElement('style');  
+    style.textContent = `  
+        .auto-toc {  
+            background: #f5f5f5;  
+            border: 1px solid #ddd;  
+            border-radius: 8px;  
+            padding: 15px 20px;  
+            margin: 20px 0;  
+            max-width: 800px;  
+        }  
+        .auto-toc h3 {  
+            margin-top: 0;  
+            margin-bottom: 10px;  
+            color: #333;  
+            font-size: 16px;  
+        }  
+        .auto-toc ul {  
+            list-style: none;  
+            padding: 0;  
+            margin: 0;  
+            display: flex;  
+            flex-wrap: wrap;  
+            gap: 10px;  
+        }  
+        .auto-toc li {  
+            margin: 0;  
+        }  
+        .auto-toc a {  
+            display: inline-block;  
+            padding: 6px 12px;  
+            background: #fff;  
+            border: 1px solid #ddd;  
+            border-radius: 4px;  
+            color: #0366d6;  
+            text-decoration: none;  
+            font-size: 14px;  
+            transition: all 0.2s ease;  
+        }  
+        .auto-toc a:hover {  
+            background: #0366d6;  
+            color: #fff;  
+            border-color: #0366d6;  
+        }  
+    `;  
+    document.head.appendChild(style);
+
+    // 添加展开/收起功能
+    const headings = document.querySelectorAll('h2');
+    headings.forEach(heading => {
+        // 跳过"Updated on"等非section标题
+        if (heading.textContent.includes('Updated on') || heading.textContent.includes('This page')) {
+            return;
+        }
+
+        // 找到该section后面的表格
+        let nextElement = heading.nextElementSibling;
+        let table = null;
+        while (nextElement) {
+            if (nextElement.tagName === 'TABLE') {
+                table = nextElement;
+                break;
+            }
+            nextElement = nextElement.nextElementSibling;
+        }
+
+        if (!table) return;
+
+        // 获取表格的所有行（包括表头）
+        const rows = table.querySelectorAll('tr');
+        const headerRow = rows[0]; // 第一行是表头
+        const dataRows = Array.from(rows).slice(1); // 剩余的是数据行
+
+        // 如果数据行超过100，则隐藏多余的行
+        if (dataRows.length > 100) {
+            const hiddenRows = dataRows.slice(100);
+            hiddenRows.forEach(row => {
+                row.style.display = 'none';
+            });
+
+            // 创建展开按钮
+            const expandButton = document.createElement('button');
+            expandButton.className = 'expand-button';
+            expandButton.textContent = '展开';
+            expandButton.setAttribute('data-expanded', 'false');
+
+            // 插入按钮到表格后面
+            table.parentNode.insertBefore(expandButton, table.nextSibling);
+
+            // 添加点击事件
+            expandButton.addEventListener('click', function() {
+                const isExpanded = this.getAttribute('data-expanded') === 'true';
+                
+                if (isExpanded) {
+                    // 收起：隐藏第100行之后的所有行
+                    hiddenRows.forEach(row => {
+                        row.style.display = 'none';
+                    });
+                    this.textContent = '展开';
+                    this.setAttribute('data-expanded', 'false');
+                } else {
+                    // 展开：显示所有隐藏的行
+                    hiddenRows.forEach(row => {
+                        row.style.display = '';
+                    });
+                    this.textContent = '收起';
+                    this.setAttribute('data-expanded', 'true');
+                }
+            });
+        }
+    });
+
+    // 添加展开按钮样式
+    const expandStyle = document.createElement('style');
+    expandStyle.textContent = `
+        .expand-button {
+            display: block;
+            margin: 15px 0;
+            padding: 8px 20px;
+            background: #0366d6;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background 0.2s ease;
+        }
+        .expand-button:hover {
+            background: #0255b3;
+        }
+    `;
+    document.head.appendChild(expandStyle);
+});
+</script>
