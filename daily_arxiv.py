@@ -192,12 +192,12 @@ def get_daily_papers(topic,query="slam", max_results=100, max_pages=5):
                 repo_url = None
 
                 if repo_url is not None:
-                    content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
+                    content[paper_key] = "**{}**	**{}**	{} et.al.	[{}]({})	**[link]({})**\n".format(
                            update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
                     content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
                            update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
                 else:
-                    content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                    content[paper_key] = "**{}**	**{}**	{} et.al.	[{}]({})	null\n".format(
                            update_time,paper_title,paper_first_author,paper_key,paper_url)
                     content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
                            update_time,paper_title,paper_first_author,paper_url,paper_url)
@@ -401,7 +401,8 @@ def json_to_md(filename,md_filename,
 
             if use_title == True :
                 if to_web == False:
-                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                    f.write("Publish Date\tTitle\tAuthors\tPDF\tCode\n")
+                    f.write("---\t---\t---\t---\t---\n")
                 else:
                     f.write("| Publish Date | Title | Authors | PDF | Code |\n")
                     f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
@@ -419,10 +420,15 @@ def json_to_md(filename,md_filename,
             
             # Add expand button and hidden papers if there are more
             if len(papers_list) > visible_count:
-                keyword_slug = keyword.replace(' ', '-').replace('.', '')
-                expand_id = f"expand-{keyword_slug}-{len(papers_list)}"
                 f.write(f"<details><summary>Show {len(papers_list) - visible_count} more papers...</summary>\n")
-                f.write("\n")
+                # Write hidden papers inside the details tag with proper table format
+                if use_title == True:
+                    if to_web == False:
+                        f.write("Publish Date\tTitle\tAuthors\tPDF\tCode\n")
+                        f.write("---\t---\t---\t---\t---\n")
+                    else:
+                        f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                        f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
                 for paper_id, paper_content in papers_list[visible_count:]:
                     if paper_content is not None:
                         f.write(pretty_math(paper_content))

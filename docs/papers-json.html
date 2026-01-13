@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Arxiv Daily - 论文列表</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            padding: 40px 20px;
+            color: white;
+            margin-bottom: 30px;
+        }
+        
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        header a {
+            color: #fff;
+            text-decoration: underline;
+        }
+        
+        .search-box {
+            max-width: 600px;
+            margin: 0 auto 30px;
+            display: flex;
+            gap: 10px;
+        }
+        
+        .search-box input {
+            flex: 1;
+            padding: 15px 20px;
+            border: none;
+            border-radius: 30px;
+            font-size: 16px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+        
+        .search-box button {
+            padding: 15px 30px;
+            background: #fff;
+            border: none;
+            border-radius: 30px;
+            cursor: pointer;
+            font-size: 16px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+        
+        .category-nav {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 30px;
+        }
+        
+        .category-nav button {
+            padding: 10px 20px;
+            background: rgba(255,255,255,0.2);
+            border: 2px solid rgba(255,255,255,0.5);
+            color: white;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+        
+        .category-nav button:hover,
+        .category-nav button.active {
+            background: rgba(255,255,255,0.9);
+            color: #667eea;
+        }
+        
+        .category-section {
+            background: white;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        
+        .category-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px 30px;
+            font-size: 1.5em;
+            font-weight: bold;
+        }
+        
+        .papers-table {
+            width: 100%;
+            border-collapse: collapse;
+            overflow-x: auto;
+        }
+        
+        .papers-table th {
+            background: #f8f9fa;
+            padding: 15px 20px;
+            text-align: left;
+            font-weight: 600;
+            color: #333;
+            border-bottom: 2px solid #e9ecef;
+            white-space: nowrap;
+        }
+        
+        .papers-table td {
+            padding: 15px 20px;
+            border-bottom: 1px solid #e9ecef;
+            vertical-align: top;
+        }
+        
+        .papers-table tr:hover {
+            background: #f8f9fa;
+        }
+        
+        .papers-table .date {
+            white-space: nowrap;
+            color: #666;
+            font-size: 0.9em;
+        }
+        
+        .papers-table .title {
+            font-weight: 500;
+            color: #333;
+            max-width: 400px;
+        }
+        
+        .papers-table .authors {
+            color: #666;
+            font-size: 0.9em;
+            max-width: 250px;
+        }
+        
+        .papers-table .links {
+            white-space: nowrap;
+        }
+        
+        .papers-table .links a {
+            display: inline-block;
+            padding: 5px 15px;
+            margin-right: 5px;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            border-radius: 20px;
+            font-size: 0.85em;
+            transition: background 0.3s;
+        }
+        
+        .papers-table .links a:hover {
+            background: #764ba2;
+        }
+        
+        .papers-table .links a.code {
+            background: #28a745;
+        }
+        
+        .papers-table .links a.code:hover {
+            background: #218838;
+        }
+        
+        .stats {
+            text-align: center;
+            color: white;
+            margin-bottom: 20px;
+            font-size: 0.9em;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 50px;
+            color: white;
+            font-size: 1.2em;
+        }
+        
+        .error {
+            text-align: center;
+            padding: 50px;
+            color: #ff6b6b;
+            background: white;
+            border-radius: 15px;
+            margin: 20px;
+        }
+        
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 1.8em;
+            }
+            
+            .category-nav {
+                gap: 5px;
+            }
+            
+            .category-nav button {
+                padding: 8px 15px;
+                font-size: 12px;
+            }
+            
+            .papers-table th,
+            .papers-table td {
+                padding: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 CV Arxiv Daily</h1>
+            <p>计算机视觉领域最新论文汇总 | 由 <a href="https://len-li.github.io/" target="_blank">Leheng Li</a> 整理维护</p>
+            <p style="font-size: 0.9em; margin-top: 10px;">数据来源: <a href="https://github.com/Len-Li/cv-arxiv-daily" target="_blank">GitHub</a></p>
+        </header>
+        
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="搜索论文标题、作者或关键词...">
+            <button onclick="searchPapers()">🔍 搜索</button>
+        </div>
+        
+        <div class="category-nav" id="categoryNav"></div>
+        
+        <div class="stats" id="stats">正在加载数据...</div>
+        
+        <div id="content">
+            <div class="loading">正在加载论文数据...</div>
+        </div>
+    </div>
+
+    <script>
+        let allPapers = [];
+        let currentCategory = 'all';
+        let categoryNames = {};
+
+        // 解析论文行数据
+        function parsePaperLine(line) {
+            const paper = { hasCode: false };
+            
+            // 提取日期
+            const dateMatch = line.match(/\*\*(\d{4}-\d{2}-\d{2})\*\*/);
+            if (dateMatch) {
+                paper.date = dateMatch[1];
+            }
+            
+            // 提取标题
+            const titleMatch = line.match(/\*\*([^*]+)\*\*/g);
+            if (titleMatch && titleMatch.length >= 2) {
+                paper.title = titleMatch[1].replace(/\*\*/g, '');
+            }
+            
+            // 提取作者
+            const authorsMatch = line.match(/\*\*(?:.+?)\*\*\|([^|]+)\|/);
+            if (authorsMatch) {
+                paper.authors = authorsMatch[1].trim();
+            }
+            
+            // 提取PDF链接和ID
+            const pdfMatch = line.match(/\[([^\]]+)\]\((http:\/\/arxiv\.org\/pdf\/([^\)]+)\.pdf)\)/);
+            if (pdfMatch) {
+                paper.pdfLink = pdfMatch[2];
+                paper.pdfId = pdfMatch[3];
+            }
+            
+            // 检查是否有代码
+            if (line.includes('http') && !line.includes('arxiv.org/pdf') && !line.includes('null')) {
+                const codeMatch = line.match(/\[([^\]]+)\]\(([^)]+)\)/g);
+                if (codeMatch && codeMatch.length > 1) {
+                    paper.hasCode = true;
+                }
+            }
+            
+            return paper;
+        }
+
+        // 加载JSON数据
+        async function loadPapers() {
+            const contentDiv = document.getElementById('content');
+            const statsDiv = document.getElementById('stats');
+            
+            try {
+                const response = await fetch('cv-arxiv-daily.json');
+                if (!response.ok) {
+                    throw new Error('无法加载JSON数据');
+                }
+                
+                const data = await response.json();
+                
+                // 收集所有论文
+                allPapers = [];
+                categoryNames = {};
+                
+                for (const [category, papers] of Object.entries(data)) {
+                    // 存储类别名称映射
+                    categoryNames[category.toLowerCase()] = category;
+                    
+                    for (const [paperId, line] of Object.entries(papers)) {
+                        const paper = parsePaperLine(line);
+                        if (paper.date && paper.title) {
+                            paper.category = category;
+                            allPapers.push(paper);
+                        }
+                    }
+                }
+                
+                // 按日期排序
+                allPapers.sort((a, b) => new Date(b.date) - new Date(a.date));
+                
+                // 生成类别导航
+                generateCategoryNav(Object.keys(data));
+                
+                // 显示统计
+                statsDiv.textContent = `共 ${allPapers.length} 篇论文 | ${Object.keys(data).length} 个分类`;
+                
+                // 显示所有论文
+                displayPapers(allPapers);
+                
+            } catch (error) {
+                console.error('加载失败:', error);
+                contentDiv.innerHTML = `
+                    <div class="error">
+                        <p>⚠️ 无法加载论文数据</p>
+                        <p style="font-size: 0.9em; margin-top: 10px;">
+                            错误信息: ${error.message}<br>
+                            请确保cv-arxiv-daily.json文件存在且可访问。
+                        </p>
+                    </div>
+                `;
+            }
+        }
+
+        // 生成类别导航
+        function generateCategoryNav(categories) {
+            const nav = document.getElementById('categoryNav');
+            let html = `<button class="active" onclick="filterByCategory('all', this)">全部</button>`;
+            
+            categories.forEach(cat => {
+                html += `<button onclick="filterByCategory('${cat}', this)">${cat}</button>`;
+            });
+            
+            nav.innerHTML = html;
+        }
+
+        // 按类别筛选
+        function filterByCategory(category, btn) {
+            currentCategory = category;
+            
+            // 更新导航状态
+            document.querySelectorAll('.category-nav button').forEach(b => {
+                b.classList.remove('active');
+            });
+            btn.classList.add('active');
+            
+            let filtered = allPapers;
+            
+            if (category !== 'all') {
+                filtered = allPapers.filter(paper => paper.category === category);
+            }
+            
+            displayPapers(filtered);
+            
+            // 更新统计
+            const statsDiv = document.getElementById('stats');
+            statsDiv.textContent = `共 ${filtered.length} 篇论文`;
+        }
+
+        // 搜索论文
+        function searchPapers() {
+            const query = document.getElementById('searchInput').value.toLowerCase().trim();
+            
+            if (!query) {
+                filterByCategory(currentCategory, document.querySelector('.category-nav button.active'));
+                return;
+            }
+            
+            const filtered = allPapers.filter(paper => {
+                return (paper.title && paper.title.toLowerCase().includes(query)) ||
+                       (paper.authors && paper.authors.toLowerCase().includes(query)) ||
+                       (paper.pdfId && paper.pdfId.toLowerCase().includes(query)) ||
+                       (paper.category && paper.category.toLowerCase().includes(query));
+            });
+            
+            displayPapers(filtered);
+            
+            // 更新统计
+            const statsDiv = document.getElementById('stats');
+            statsDiv.textContent = `搜索 "${query}" 找到 ${filtered.length} 篇论文`;
+        }
+
+        // 监听搜索框回车
+        document.getElementById('searchInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                searchPapers();
+            }
+        });
+
+        // 显示论文列表
+        function displayPapers(papers) {
+            const contentDiv = document.getElementById('content');
+            
+            if (papers.length === 0) {
+                contentDiv.innerHTML = '<div class="error">未找到匹配的论文</div>';
+                return;
+            }
+            
+            // 按日期分组
+            const groupedPapers = {};
+            papers.forEach(paper => {
+                if (!groupedPapers[paper.date]) {
+                    groupedPapers[paper.date] = [];
+                }
+                groupedPapers[paper.date].push(paper);
+            });
+            
+            let html = '';
+            
+            for (const [date, datePapers] of Object.entries(groupedPapers)) {
+                html += `
+                    <div class="category-section">
+                        <div class="category-header">📅 ${date}</div>
+                        <table class="papers-table">
+                            <thead>
+                                <tr>
+                                    <th>标题</th>
+                                    <th>作者</th>
+                                    <th>分类</th>
+                                    <th>链接</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                ${datePapers.map(paper => `
+                                    <tr>
+                                        <td class="title">${paper.title || ''}</td>
+                                        <td class="authors">${paper.authors || ''}</td>
+                                        <td><span style="background:#e9ecef;padding:3px 10px;border-radius:10px;font-size:0.85em;">${paper.category || ''}</span></td>
+                                        <td class="links">
+                                            <a href="${paper.pdfLink || '#'}" target="_blank">PDF</a>
+                                            ${paper.hasCode ? '<a href="#" class="code" target="_blank">Code</a>' : ''}
+                                        </td>
+                                    </tr>
+                                `).join('')}
+                            </tbody>
+                        </table>
+                    </div>
+                `;
+            }
+            
+            contentDiv.innerHTML = html;
+        }
+
+        // 页面加载时获取数据
+        document.addEventListener('DOMContentLoaded', loadPapers);
+    </script>
+</body>
+</html>
