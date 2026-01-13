@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CV Arxiv Daily - 论文列表</title>
+    <title>CV Arxiv Daily - Paper List</title>
     <style>
         * {
             margin: 0;
@@ -212,12 +212,37 @@
             padding: 12px 16px;
             border-bottom: 1px solid #f0f0f0;
             vertical-align: top;
-            font-size: 0.9375rem;
+            font-size: 1rem;
+        }
+        
+        .papers-table tbody tr {
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        
+        .papers-table tbody tr td {
+            position: relative;
+        }
+        
+        .papers-table tbody tr td::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 0;
+        }
+        
+        .papers-table tbody tr td > * {
+            position: relative;
+            z-index: 1;
         }
         
         .papers-table tr:hover {
             background: #fafafa;
         }
+        
         
         .papers-table .title {
             font-weight: 500;
@@ -226,11 +251,23 @@
             line-height: 1.5;
         }
         
+        .papers-table .title a {
+            color: inherit;
+            text-decoration: none;
+            transition: color 0.2s, text-decoration 0.2s;
+        }
+        
+        .papers-table .title a:hover {
+            color: #1976d2;
+            text-decoration: underline;
+        }
+        
         .papers-table .authors {
             color: #666;
             font-size: 0.875rem;
-            max-width: 250px;
+            max-width: 90px;
             line-height: 1.5;
+            text-align: left;
         }
         
         .papers-table .links {
@@ -330,21 +367,21 @@
     <div class="container">
         <header>
             <h1>📚 CV Arxiv Daily</h1>
-            <p>计算机视觉领域最新论文汇总 | 由 <a href="https://len-li.github.io/" target="_blank">Leheng Li</a> 整理维护</p>
-            <p style="font-size: 0.875rem; margin-top: 8px; color: #999;">数据来源: <a href="https://github.com/Len-Li/cv-arxiv-daily" target="_blank">GitHub</a></p>
+            <p>Latest papers in Computer Vision | Maintained by <a href="https://len-li.github.io/" target="_blank">Leheng Li</a></p>
+            <p style="font-size: 0.875rem; margin-top: 8px; color: #999;">Data Source: <a href="https://github.com/Len-Li/cv-arxiv-daily" target="_blank">GitHub</a></p>
         </header>
         
         <div class="search-box">
-            <input type="text" id="searchInput" placeholder="搜索论文标题、作者或关键词...">
-            <button onclick="searchPapers()">🔍 搜索</button>
+            <input type="text" id="searchInput" placeholder="Search paper titles, authors, or keywords...">
+            <button onclick="searchPapers()">🔍 Search</button>
         </div>
         
         <div class="category-nav" id="categoryNav"></div>
         
-        <div class="stats" id="stats">正在加载数据...</div>
+        <div class="stats" id="stats">Loading data...</div>
         
         <div id="content">
-            <div class="loading">正在加载论文数据...</div>
+            <div class="loading">Loading paper data...</div>
         </div>
     </div>
 
@@ -353,36 +390,36 @@
         let currentCategory = 'all';
         let categoryNames = {};
 
-        // 解析论文行数据
+        // Parse paper line data
         function parsePaperLine(line) {
             const paper = { hasCode: false };
             
-            // 提取日期
+            // Extract date
             const dateMatch = line.match(/\*\*(\d{4}-\d{2}-\d{2})\*\*/);
             if (dateMatch) {
                 paper.date = dateMatch[1];
             }
             
-            // 提取标题
+            // Extract title
             const titleMatch = line.match(/\*\*([^*]+)\*\*/g);
             if (titleMatch && titleMatch.length >= 2) {
                 paper.title = titleMatch[1].replace(/\*\*/g, '');
             }
             
-            // 提取作者 - 格式: |**日期**|**标题**|作者|[ID]...
+            // Extract authors - Format: |**date**|**title**|authors|[ID]...
             const parts = line.split('|');
             if (parts.length > 3) {
                 paper.authors = parts[3].trim();
             }
             
-            // 提取PDF链接和ID
+            // Extract PDF link and ID
             const pdfMatch = line.match(/\[([^\]]+)\]\((http:\/\/arxiv\.org\/pdf\/([^\)]+)\.pdf)\)/);
             if (pdfMatch) {
                 paper.pdfLink = pdfMatch[2];
                 paper.pdfId = pdfMatch[3];
             }
             
-            // 检查是否有代码
+            // Check if code exists
             if (line.includes('http') && !line.includes('arxiv.org/pdf') && !line.includes('null')) {
                 const codeMatch = line.match(/\[([^\]]+)\]\(([^)]+)\)/g);
                 if (codeMatch && codeMatch.length > 1) {
@@ -393,7 +430,7 @@
             return paper;
         }
 
-        // 加载JSON数据
+        // Load JSON data
         async function loadPapers() {
             const contentDiv = document.getElementById('content');
             const statsDiv = document.getElementById('stats');
@@ -401,17 +438,17 @@
             try {
                 const response = await fetch('cv-arxiv-daily.json');
                 if (!response.ok) {
-                    throw new Error('无法加载JSON数据');
+                    throw new Error('Unable to load JSON data');
                 }
                 
                 const data = await response.json();
                 
-                // 收集所有论文
+                // Collect all papers
                 allPapers = [];
                 categoryNames = {};
                 
                 for (const [category, papers] of Object.entries(data)) {
-                    // 存储类别名称映射
+                    // Store category name mapping
                     categoryNames[category.toLowerCase()] = category;
                     
                     for (const [paperId, line] of Object.entries(papers)) {
@@ -423,36 +460,36 @@
                     }
                 }
                 
-                // 按日期排序
+                // Sort by date
                 allPapers.sort((a, b) => new Date(b.date) - new Date(a.date));
                 
-                // 生成类别导航
+                // Generate category navigation
                 generateCategoryNav(Object.keys(data));
                 
-                // 显示统计
-                statsDiv.textContent = `共 ${allPapers.length} 篇论文 | ${Object.keys(data).length} 个分类`;
+                // Display statistics
+                statsDiv.textContent = `${allPapers.length} papers | ${Object.keys(data).length} categories`;
                 
-                // 显示所有论文
+                // Display all papers
                 displayPapers(allPapers);
                 
             } catch (error) {
-                console.error('加载失败:', error);
+                console.error('Loading failed:', error);
                 contentDiv.innerHTML = `
                     <div class="error">
-                        <p>⚠️ 无法加载论文数据</p>
+                        <p>⚠️ Unable to load paper data</p>
                         <p style="font-size: 0.875rem; margin-top: 8px;">
-                            错误信息: ${error.message}<br>
-                            请确保cv-arxiv-daily.json文件存在且可访问。
+                            Error message: ${error.message}<br>
+                            Please ensure cv-arxiv-daily.json file exists and is accessible.
                         </p>
                     </div>
                 `;
             }
         }
 
-        // 生成类别导航
+        // Generate category navigation
         function generateCategoryNav(categories) {
             const nav = document.getElementById('categoryNav');
-            let html = `<button class="active" onclick="filterByCategory('all', this)">全部</button>`;
+            let html = `<button class="active" onclick="filterByCategory('all', this)">All</button>`;
             
             categories.forEach(cat => {
                 html += `<button onclick="filterByCategory('${cat}', this)">${cat}</button>`;
@@ -461,11 +498,11 @@
             nav.innerHTML = html;
         }
 
-        // 按类别筛选
+        // Filter by category
         function filterByCategory(category, btn) {
             currentCategory = category;
             
-            // 更新导航状态
+            // Update navigation status
             document.querySelectorAll('.category-nav button').forEach(b => {
                 b.classList.remove('active');
             });
@@ -479,17 +516,17 @@
             
             displayPapers(filtered);
             
-            // 更新统计
+            // Update statistics
             const statsDiv = document.getElementById('stats');
             if (category === 'all') {
                 const categoryCount = new Set(filtered.map(p => p.category)).size;
-                statsDiv.textContent = `共 ${filtered.length} 篇论文 | ${categoryCount} 个分类`;
+                statsDiv.textContent = `${filtered.length} papers | ${categoryCount} categories`;
             } else {
-                statsDiv.textContent = `${category} - 共 ${filtered.length} 篇论文`;
+                statsDiv.textContent = `${category} - ${filtered.length} papers`;
             }
         }
 
-        // 搜索论文
+        // Search papers
         function searchPapers() {
             const query = document.getElementById('searchInput').value.toLowerCase().trim();
             
@@ -507,38 +544,38 @@
             
             displayPapers(filtered);
             
-            // 更新统计
+            // Update statistics
             const statsDiv = document.getElementById('stats');
-            statsDiv.textContent = `搜索 "${query}" 找到 ${filtered.length} 篇论文`;
+            statsDiv.textContent = `Found ${filtered.length} papers for "${query}"`;
         }
 
-        // 监听搜索框回车
+        // Listen for search box Enter key
         document.getElementById('searchInput').addEventListener('keypress', function(e) {
             if (e.key === 'Enter') {
                 searchPapers();
             }
         });
 
-        // 显示论文列表
+        // Display paper list
         function displayPapers(papers) {
             const contentDiv = document.getElementById('content');
             
             if (papers.length === 0) {
-                contentDiv.innerHTML = '<div class="error">未找到匹配的论文</div>';
+                contentDiv.innerHTML = '<div class="error">No matching papers found</div>';
                 return;
             }
             
-            // 按类别分组
+            // Group by category
             const groupedPapers = {};
             papers.forEach(paper => {
-                const category = paper.category || '未分类';
+                const category = paper.category || 'Uncategorized';
                 if (!groupedPapers[category]) {
                     groupedPapers[category] = [];
                 }
                 groupedPapers[category].push(paper);
             });
             
-            // 对每个类别内的论文按日期排序（最新的在前）
+            // Sort papers within each category by date (newest first)
             for (const category in groupedPapers) {
                 groupedPapers[category].sort((a, b) => new Date(b.date) - new Date(a.date));
             }
@@ -550,17 +587,18 @@
                 const displayCount = Math.min(100, totalCount);
                 const hasMore = totalCount > 100;
                 const displayPapers = categoryPapers.slice(0, displayCount);
-                const remainingPapers = categoryPapers.slice(displayCount);
+                const currentDisplayCount = displayCount;
                 
                 const sectionId = `category-${category.replace(/\s+/g, '-')}`;
                 const expandId = `expand-${category.replace(/\s+/g, '-')}`;
+                const dataCategory = category;
                 
                 html += `
                     <div class="category-section">
                         <div class="category-header" onclick="toggleCategory('${expandId}', '${sectionId}')">
                             <div>
                                 📂 ${category}
-                                <span class="category-info">(${totalCount} 篇)</span>
+                                <span class="category-info">(${totalCount} papers)</span>
                             </div>
                             <span class="expand-icon" id="${expandId}">▼</span>
                         </div>
@@ -568,21 +606,21 @@
                             <table class="papers-table">
                                 <thead>
                                     <tr>
-                                        <th>标题</th>
-                                        <th>作者</th>
-                                        <th>日期</th>
-                                        <th>链接</th>
+                                        <th>Authors</th>
+                                        <th>Date</th>
+                                        <th>Title</th>
+                                        <th>Links</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     ${displayPapers.map(paper => `
-                                        <tr>
-                                            <td class="title">${paper.title || ''}</td>
+                                        <tr onclick="openPdf('${paper.pdfId}')">
                                             <td class="authors">${paper.authors || ''}</td>
-                                            <td style="white-space: nowrap; color: #999; font-size: 0.875rem;">${paper.date || ''}</td>
+                                            <td style="white-space: nowrap; color: #999; font-size: 0.875rem; font-weight: 700; width: 120px;">${paper.date || ''}</td>
+                                            <td class="title"><a href="http://arxiv.org/pdf/${paper.pdfId}.pdf" target="_blank" onclick="event.stopPropagation()">${paper.title || ''}</a></td>
                                             <td class="links">
-                                                <a href="http://arxiv.org/pdf/${paper.pdfId}.pdf" target="_blank">PDF</a>
-                                                ${paper.hasCode ? '<a href="#" class="code" target="_blank">Code</a>' : ''}
+                                                <a href="http://arxiv.org/pdf/${paper.pdfId}.pdf" target="_blank" onclick="event.stopPropagation()">PDF</a>
+                                                ${paper.hasCode ? '<a href="#" class="code" target="_blank" onclick="event.stopPropagation()">Code</a>' : ''}
                                             </td>
                                         </tr>
                                     `).join('')}
@@ -590,8 +628,8 @@
                             </table>
                             ${hasMore ? `
                                 <div style="padding: 16px 24px; text-align: center; background: #fafafa; border-top: 1px solid #e0e0e0;">
-                                    <button onclick="expandCategory('${sectionId}', '${expandId}')" style="padding: 8px 16px; background: #1976d2; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: 500;">
-                                        展开剩余 ${totalCount - displayCount} 篇论文
+                                    <button onclick="expandMorePapers('${sectionId}', '${expandId}', '${dataCategory}', ${currentDisplayCount}, ${totalCount})" style="padding: 8px 16px; background: #1976d2; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: 500;">
+                                        Load More (${totalCount - currentDisplayCount} remaining)
                                     </button>
                                 </div>
                             ` : ''}
@@ -603,7 +641,7 @@
             contentDiv.innerHTML = html;
         }
         
-        // 切换类别展开/收起
+        // Toggle category expand/collapse
         function toggleCategory(expandId, sectionId) {
             const expandIcon = document.getElementById(expandId);
             const container = document.getElementById(sectionId);
@@ -612,47 +650,58 @@
             container.classList.toggle('collapsed');
         }
         
-        // 展开所有论文
-        function expandCategory(sectionId, expandId) {
+        // Open PDF
+        function openPdf(pdfId) {
+            if (pdfId) {
+                window.open(`http://arxiv.org/pdf/${pdfId}.pdf`, '_blank');
+            }
+        }
+        
+        // Expand more papers (100 at a time)
+        function expandMorePapers(sectionId, expandId, categoryName, currentCount, totalCount) {
             const container = document.getElementById(sectionId);
-            const expandIcon = document.getElementById(expandId);
             
-            // 获取该类别的所有论文
-            const categorySection = container.parentElement;
-            const categoryHeader = categorySection.querySelector('.category-header');
-            const categoryText = categoryHeader.textContent.trim();
-            const categoryName = categoryText.split('(')[0].trim().replace('📂 ', '');
-            
-            // 找到该类别在 allPapers 中的所有论文
+            // Find all papers for this category in allPapers
             const allCategoryPapers = allPapers.filter(p => p.category === categoryName);
             allCategoryPapers.sort((a, b) => new Date(b.date) - new Date(a.date));
             
-            // 重新生成表格内容
-            const table = container.querySelector('.papers-table');
-            const tbody = table.querySelector('tbody');
+            // Calculate new display count
+            const newDisplayCount = Math.min(currentCount + 100, totalCount);
+            const newPapers = allCategoryPapers.slice(currentCount, newDisplayCount);
             
-            const allRows = allCategoryPapers.map(paper => `
-                <tr>
-                    <td class="title">${paper.title || ''}</td>
+            // Generate HTML for new papers
+            const newRows = newPapers.map(paper => `
+                <tr onclick="openPdf('${paper.pdfId}')">
                     <td class="authors">${paper.authors || ''}</td>
-                    <td style="white-space: nowrap; color: #999; font-size: 0.875rem;">${paper.date || ''}</td>
+                    <td style="white-space: nowrap; color: #999; font-size: 0.875rem; font-weight: 700; width: 120px;">${paper.date || ''}</td>
+                    <td class="title"><a href="http://arxiv.org/pdf/${paper.pdfId}.pdf" target="_blank" onclick="event.stopPropagation()">${paper.title || ''}</a></td>
                     <td class="links">
-                        <a href="http://arxiv.org/pdf/${paper.pdfId}.pdf" target="_blank">PDF</a>
-                        ${paper.hasCode ? '<a href="#" class="code" target="_blank">Code</a>' : ''}
+                        <a href="http://arxiv.org/pdf/${paper.pdfId}.pdf" target="_blank" onclick="event.stopPropagation()">PDF</a>
+                        ${paper.hasCode ? '<a href="#" class="code" target="_blank" onclick="event.stopPropagation()">Code</a>' : ''}
                     </td>
                 </tr>
             `).join('');
             
-            tbody.innerHTML = allRows;
+            // Add to table
+            const table = container.querySelector('.papers-table');
+            const tbody = table.querySelector('tbody');
+            tbody.insertAdjacentHTML('beforeend', newRows);
             
-            // 移除展开按钮
+            // Update or remove expand button
             const expandButton = container.querySelector('button');
             if (expandButton) {
-                expandButton.parentElement.remove();
+                if (newDisplayCount >= totalCount) {
+                    // All papers displayed, remove button
+                    expandButton.parentElement.remove();
+                } else {
+                    // Update button text and parameters
+                    expandButton.textContent = `Load More (${totalCount - newDisplayCount} remaining)`;
+                    expandButton.setAttribute('onclick', `expandMorePapers('${sectionId}', '${expandId}', '${categoryName}', ${newDisplayCount}, ${totalCount})`);
+                }
             }
         }
 
-        // 页面加载时获取数据
+        // Load data when page loads
         document.addEventListener('DOMContentLoaded', loadPapers);
     </script>
 </body>
