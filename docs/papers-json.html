@@ -13,148 +13,224 @@
         
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: #fafafa;
             min-height: 100vh;
-            padding: 20px;
+            padding: 16px;
+            color: #212121;
         }
         
         .container {
-            max-width: 1400px;
+            max-width: 1200px;
             margin: 0 auto;
         }
         
         header {
             text-align: center;
-            padding: 40px 20px;
-            color: white;
-            margin-bottom: 30px;
+            padding: 32px 16px;
+            margin-bottom: 24px;
         }
         
         header h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            font-size: 2.125rem;
+            font-weight: 500;
+            margin-bottom: 8px;
+            color: #212121;
+            letter-spacing: -0.5px;
         }
         
         header p {
-            font-size: 1.1em;
-            opacity: 0.9;
+            font-size: 0.9375rem;
+            color: #666;
+            line-height: 1.6;
         }
         
         header a {
-            color: #fff;
+            color: #1976d2;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        
+        header a:hover {
+            color: #1565c0;
             text-decoration: underline;
         }
         
         .search-box {
             max-width: 600px;
-            margin: 0 auto 30px;
+            margin: 0 auto 24px;
             display: flex;
-            gap: 10px;
+            gap: 8px;
         }
         
         .search-box input {
             flex: 1;
-            padding: 15px 20px;
-            border: none;
-            border-radius: 30px;
-            font-size: 16px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            padding: 12px 16px;
+            border: 1px solid #e0e0e0;
+            border-radius: 4px;
+            font-size: 0.9375rem;
+            background: white;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+        
+        .search-box input:focus {
+            outline: none;
+            border-color: #1976d2;
+            box-shadow: 0 0 0 3px rgba(25, 118, 210, 0.1);
         }
         
         .search-box button {
-            padding: 15px 30px;
-            background: #fff;
+            padding: 12px 24px;
+            background: #1976d2;
+            color: white;
             border: none;
-            border-radius: 30px;
+            border-radius: 4px;
             cursor: pointer;
-            font-size: 16px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            font-size: 0.9375rem;
+            font-weight: 500;
+            transition: background 0.2s, box-shadow 0.2s;
+        }
+        
+        .search-box button:hover {
+            background: #1565c0;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        
+        .search-box button:active {
+            background: #0d47a1;
         }
         
         .category-nav {
             display: flex;
             flex-wrap: wrap;
             justify-content: center;
-            gap: 10px;
-            margin-bottom: 30px;
+            gap: 8px;
+            margin-bottom: 24px;
         }
         
         .category-nav button {
-            padding: 10px 20px;
-            background: rgba(255,255,255,0.2);
-            border: 2px solid rgba(255,255,255,0.5);
-            color: white;
-            border-radius: 25px;
+            padding: 8px 16px;
+            background: white;
+            border: 1px solid #e0e0e0;
+            color: #212121;
+            border-radius: 4px;
             cursor: pointer;
-            font-size: 14px;
-            transition: all 0.3s;
+            font-size: 0.875rem;
+            font-weight: 500;
+            transition: all 0.2s;
         }
         
-        .category-nav button:hover,
+        .category-nav button:hover {
+            background: #f5f5f5;
+            border-color: #bdbdbd;
+        }
+        
         .category-nav button.active {
-            background: rgba(255,255,255,0.9);
-            color: #667eea;
+            background: #1976d2;
+            color: white;
+            border-color: #1976d2;
         }
         
         .category-section {
             background: white;
-            border-radius: 15px;
-            margin-bottom: 30px;
+            border-radius: 4px;
+            margin-bottom: 16px;
             overflow: hidden;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            transition: box-shadow 0.2s;
+        }
+        
+        .category-section:hover {
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
         }
         
         .category-header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 20px 30px;
-            font-size: 1.5em;
-            font-weight: bold;
+            background: #f5f5f5;
+            color: #212121;
+            padding: 16px 24px;
+            font-size: 1rem;
+            font-weight: 500;
+            border-bottom: 1px solid #e0e0e0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            user-select: none;
+        }
+        
+        .category-header:hover {
+            background: #eeeeee;
+        }
+        
+        .expand-icon {
+            display: inline-block;
+            width: 24px;
+            height: 24px;
+            text-align: center;
+            line-height: 24px;
+            transition: transform 0.3s;
+        }
+        
+        .expand-icon.collapsed {
+            transform: rotate(-90deg);
+        }
+        
+        .papers-container {
+            max-height: none;
+            overflow: visible;
+            transition: max-height 0.3s ease-out;
+        }
+        
+        .papers-container.collapsed {
+            max-height: 0;
+            overflow: hidden;
+        }
+        
+        .category-info {
+            font-size: 0.875rem;
+            color: #666;
+            margin-left: 8px;
         }
         
         .papers-table {
             width: 100%;
             border-collapse: collapse;
-            overflow-x: auto;
         }
         
         .papers-table th {
-            background: #f8f9fa;
-            padding: 15px 20px;
+            background: #fafafa;
+            padding: 12px 16px;
             text-align: left;
-            font-weight: 600;
-            color: #333;
-            border-bottom: 2px solid #e9ecef;
-            white-space: nowrap;
+            font-weight: 500;
+            color: #666;
+            border-bottom: 1px solid #e0e0e0;
+            font-size: 0.8125rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
         
         .papers-table td {
-            padding: 15px 20px;
-            border-bottom: 1px solid #e9ecef;
+            padding: 12px 16px;
+            border-bottom: 1px solid #f0f0f0;
             vertical-align: top;
+            font-size: 0.9375rem;
         }
         
         .papers-table tr:hover {
-            background: #f8f9fa;
-        }
-        
-        .papers-table .date {
-            white-space: nowrap;
-            color: #666;
-            font-size: 0.9em;
+            background: #fafafa;
         }
         
         .papers-table .title {
             font-weight: 500;
-            color: #333;
+            color: #212121;
             max-width: 400px;
+            line-height: 1.5;
         }
         
         .papers-table .authors {
             color: #666;
-            font-size: 0.9em;
+            font-size: 0.875rem;
             max-width: 250px;
+            line-height: 1.5;
         }
         
         .papers-table .links {
@@ -163,68 +239,89 @@
         
         .papers-table .links a {
             display: inline-block;
-            padding: 5px 15px;
-            margin-right: 5px;
-            background: #667eea;
+            padding: 6px 12px;
+            margin-right: 4px;
+            background: #1976d2;
             color: white;
             text-decoration: none;
-            border-radius: 20px;
-            font-size: 0.85em;
-            transition: background 0.3s;
+            border-radius: 4px;
+            font-size: 0.8125rem;
+            font-weight: 500;
+            transition: background 0.2s;
         }
         
         .papers-table .links a:hover {
-            background: #764ba2;
+            background: #1565c0;
         }
         
         .papers-table .links a.code {
-            background: #28a745;
+            background: #388e3c;
         }
         
         .papers-table .links a.code:hover {
-            background: #218838;
+            background: #2e7d32;
+        }
+        
+        .category-badge {
+            display: inline-block;
+            background: #e3f2fd;
+            color: #1976d2;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.8125rem;
+            font-weight: 500;
         }
         
         .stats {
             text-align: center;
-            color: white;
-            margin-bottom: 20px;
-            font-size: 0.9em;
+            color: #666;
+            margin-bottom: 16px;
+            font-size: 0.9375rem;
         }
         
         .loading {
             text-align: center;
-            padding: 50px;
-            color: white;
-            font-size: 1.2em;
+            padding: 48px 16px;
+            color: #666;
+            font-size: 1rem;
         }
         
         .error {
             text-align: center;
-            padding: 50px;
-            color: #ff6b6b;
+            padding: 48px 16px;
+            color: #d32f2f;
             background: white;
-            border-radius: 15px;
-            margin: 20px;
+            border-radius: 4px;
+            margin: 16px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
         
         @media (max-width: 768px) {
             header h1 {
-                font-size: 1.8em;
+                font-size: 1.5rem;
             }
             
             .category-nav {
-                gap: 5px;
+                gap: 4px;
             }
             
             .category-nav button {
-                padding: 8px 15px;
-                font-size: 12px;
+                padding: 6px 12px;
+                font-size: 0.8125rem;
             }
             
             .papers-table th,
             .papers-table td {
-                padding: 10px;
+                padding: 8px 12px;
+                font-size: 0.875rem;
+            }
+            
+            .papers-table .title {
+                max-width: 200px;
+            }
+            
+            .papers-table .authors {
+                max-width: 150px;
             }
         }
     </style>
@@ -234,7 +331,7 @@
         <header>
             <h1>📚 CV Arxiv Daily</h1>
             <p>计算机视觉领域最新论文汇总 | 由 <a href="https://len-li.github.io/" target="_blank">Leheng Li</a> 整理维护</p>
-            <p style="font-size: 0.9em; margin-top: 10px;">数据来源: <a href="https://github.com/Len-Li/cv-arxiv-daily" target="_blank">GitHub</a></p>
+            <p style="font-size: 0.875rem; margin-top: 8px; color: #999;">数据来源: <a href="https://github.com/Len-Li/cv-arxiv-daily" target="_blank">GitHub</a></p>
         </header>
         
         <div class="search-box">
@@ -272,10 +369,10 @@
                 paper.title = titleMatch[1].replace(/\*\*/g, '');
             }
             
-            // 提取作者
-            const authorsMatch = line.match(/\*\*(?:.+?)\*\*\|([^|]+)\|/);
-            if (authorsMatch) {
-                paper.authors = authorsMatch[1].trim();
+            // 提取作者 - 格式: |**日期**|**标题**|作者|[ID]...
+            const parts = line.split('|');
+            if (parts.length > 3) {
+                paper.authors = parts[3].trim();
             }
             
             // 提取PDF链接和ID
@@ -343,7 +440,7 @@
                 contentDiv.innerHTML = `
                     <div class="error">
                         <p>⚠️ 无法加载论文数据</p>
-                        <p style="font-size: 0.9em; margin-top: 10px;">
+                        <p style="font-size: 0.875rem; margin-top: 8px;">
                             错误信息: ${error.message}<br>
                             请确保cv-arxiv-daily.json文件存在且可访问。
                         </p>
@@ -384,7 +481,12 @@
             
             // 更新统计
             const statsDiv = document.getElementById('stats');
-            statsDiv.textContent = `共 ${filtered.length} 篇论文`;
+            if (category === 'all') {
+                const categoryCount = new Set(filtered.map(p => p.category)).size;
+                statsDiv.textContent = `共 ${filtered.length} 篇论文 | ${categoryCount} 个分类`;
+            } else {
+                statsDiv.textContent = `${category} - 共 ${filtered.length} 篇论文`;
+            }
         }
 
         // 搜索论文
@@ -426,49 +528,128 @@
                 return;
             }
             
-            // 按日期分组
+            // 按类别分组
             const groupedPapers = {};
             papers.forEach(paper => {
-                if (!groupedPapers[paper.date]) {
-                    groupedPapers[paper.date] = [];
+                const category = paper.category || '未分类';
+                if (!groupedPapers[category]) {
+                    groupedPapers[category] = [];
                 }
-                groupedPapers[paper.date].push(paper);
+                groupedPapers[category].push(paper);
             });
+            
+            // 对每个类别内的论文按日期排序（最新的在前）
+            for (const category in groupedPapers) {
+                groupedPapers[category].sort((a, b) => new Date(b.date) - new Date(a.date));
+            }
             
             let html = '';
             
-            for (const [date, datePapers] of Object.entries(groupedPapers)) {
+            for (const [category, categoryPapers] of Object.entries(groupedPapers)) {
+                const totalCount = categoryPapers.length;
+                const displayCount = Math.min(100, totalCount);
+                const hasMore = totalCount > 100;
+                const displayPapers = categoryPapers.slice(0, displayCount);
+                const remainingPapers = categoryPapers.slice(displayCount);
+                
+                const sectionId = `category-${category.replace(/\s+/g, '-')}`;
+                const expandId = `expand-${category.replace(/\s+/g, '-')}`;
+                
                 html += `
                     <div class="category-section">
-                        <div class="category-header">📅 ${date}</div>
-                        <table class="papers-table">
-                            <thead>
-                                <tr>
-                                    <th>标题</th>
-                                    <th>作者</th>
-                                    <th>分类</th>
-                                    <th>链接</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                ${datePapers.map(paper => `
+                        <div class="category-header" onclick="toggleCategory('${expandId}', '${sectionId}')">
+                            <div>
+                                📂 ${category}
+                                <span class="category-info">(${totalCount} 篇)</span>
+                            </div>
+                            <span class="expand-icon" id="${expandId}">▼</span>
+                        </div>
+                        <div class="papers-container" id="${sectionId}">
+                            <table class="papers-table">
+                                <thead>
                                     <tr>
-                                        <td class="title">${paper.title || ''}</td>
-                                        <td class="authors">${paper.authors || ''}</td>
-                                        <td><span style="background:#e9ecef;padding:3px 10px;border-radius:10px;font-size:0.85em;">${paper.category || ''}</span></td>
-                                        <td class="links">
-                                            <a href="${paper.pdfLink || '#'}" target="_blank">PDF</a>
-                                            ${paper.hasCode ? '<a href="#" class="code" target="_blank">Code</a>' : ''}
-                                        </td>
+                                        <th>标题</th>
+                                        <th>作者</th>
+                                        <th>日期</th>
+                                        <th>链接</th>
                                     </tr>
-                                `).join('')}
-                            </tbody>
-                        </table>
+                                </thead>
+                                <tbody>
+                                    ${displayPapers.map(paper => `
+                                        <tr>
+                                            <td class="title">${paper.title || ''}</td>
+                                            <td class="authors">${paper.authors || ''}</td>
+                                            <td style="white-space: nowrap; color: #999; font-size: 0.875rem;">${paper.date || ''}</td>
+                                            <td class="links">
+                                                <a href="http://arxiv.org/pdf/${paper.pdfId}.pdf" target="_blank">PDF</a>
+                                                ${paper.hasCode ? '<a href="#" class="code" target="_blank">Code</a>' : ''}
+                                            </td>
+                                        </tr>
+                                    `).join('')}
+                                </tbody>
+                            </table>
+                            ${hasMore ? `
+                                <div style="padding: 16px 24px; text-align: center; background: #fafafa; border-top: 1px solid #e0e0e0;">
+                                    <button onclick="expandCategory('${sectionId}', '${expandId}')" style="padding: 8px 16px; background: #1976d2; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: 500;">
+                                        展开剩余 ${totalCount - displayCount} 篇论文
+                                    </button>
+                                </div>
+                            ` : ''}
+                        </div>
                     </div>
                 `;
             }
             
             contentDiv.innerHTML = html;
+        }
+        
+        // 切换类别展开/收起
+        function toggleCategory(expandId, sectionId) {
+            const expandIcon = document.getElementById(expandId);
+            const container = document.getElementById(sectionId);
+            
+            expandIcon.classList.toggle('collapsed');
+            container.classList.toggle('collapsed');
+        }
+        
+        // 展开所有论文
+        function expandCategory(sectionId, expandId) {
+            const container = document.getElementById(sectionId);
+            const expandIcon = document.getElementById(expandId);
+            
+            // 获取该类别的所有论文
+            const categorySection = container.parentElement;
+            const categoryHeader = categorySection.querySelector('.category-header');
+            const categoryText = categoryHeader.textContent.trim();
+            const categoryName = categoryText.split('(')[0].trim().replace('📂 ', '');
+            
+            // 找到该类别在 allPapers 中的所有论文
+            const allCategoryPapers = allPapers.filter(p => p.category === categoryName);
+            allCategoryPapers.sort((a, b) => new Date(b.date) - new Date(a.date));
+            
+            // 重新生成表格内容
+            const table = container.querySelector('.papers-table');
+            const tbody = table.querySelector('tbody');
+            
+            const allRows = allCategoryPapers.map(paper => `
+                <tr>
+                    <td class="title">${paper.title || ''}</td>
+                    <td class="authors">${paper.authors || ''}</td>
+                    <td style="white-space: nowrap; color: #999; font-size: 0.875rem;">${paper.date || ''}</td>
+                    <td class="links">
+                        <a href="http://arxiv.org/pdf/${paper.pdfId}.pdf" target="_blank">PDF</a>
+                        ${paper.hasCode ? '<a href="#" class="code" target="_blank">Code</a>' : ''}
+                    </td>
+                </tr>
+            `).join('');
+            
+            tbody.innerHTML = allRows;
+            
+            // 移除展开按钮
+            const expandButton = container.querySelector('button');
+            if (expandButton) {
+                expandButton.parentElement.remove();
+            }
         }
 
         // 页面加载时获取数据
