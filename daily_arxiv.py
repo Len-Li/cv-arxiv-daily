@@ -192,12 +192,12 @@ def get_daily_papers(topic,query="slam", max_results=100, max_pages=5):
                 repo_url = None
 
                 if repo_url is not None:
-                    content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
+                    content[paper_key] = "**{}**	**{}**	{} et.al.	[{}]({})	**[link]({})**\n".format(
                            update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
                     content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
                            update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
                 else:
-                    content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                    content[paper_key] = "**{}**	**{}**	{} et.al.	[{}]({})	null\n".format(
                            update_time,paper_title,paper_first_author,paper_key,paper_url)
                     content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
                            update_time,paper_title,paper_first_author,paper_url,paper_url)
@@ -303,14 +303,16 @@ def update_json_file(filename,data_dict):
     
 def json_to_md(filename,md_filename,
                task = '',
-               to_web = False,
-               use_title = True,
+               to_web = False, 
+               use_title = True, 
                use_tc = True,
                show_badge = True,
-               use_b2t = True):
+               use_b2t = True,
+               max_visible = 100):
     """
     @param filename: str
     @param md_filename: str
+    @param max_visible: int, maximum papers to show before expand button
     @return None
     """
     def pretty_math(s:str) -> str:
@@ -374,8 +376,6 @@ def json_to_md(filename,md_filename,
             f.write("- [Industry](#industry)\n")
             f.write("- [Autonomous Driving](#autonomous-driving)\n")
             f.write("- [Traffic Simulation](#traffic-simulation)\n\n")
-            f.write("- [Robotics](#robotics)\n\n")
-            f.write("- [Robotics Industry](#robotics-industry)\n\n")
 
 
         #Add: table of contents
@@ -401,7 +401,8 @@ def json_to_md(filename,md_filename,
 
             if use_title == True :
                 if to_web == False:
-                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                    f.write("Publish Date\tTitle\tAuthors\tPDF\tCode\n")
+                    f.write("---\t---\t---\t---\t---\n")
                 else:
                     f.write("| Publish Date | Title | Authors | PDF | Code |\n")
                     f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
@@ -410,13 +411,30 @@ def json_to_md(filename,md_filename,
             day_content = sort_papers(day_content)
             
             papers_list = list(day_content.items())
+            visible_count = min(max_visible, len(papers_list))
             
-            # Write all papers
-            for idx, (paper_id, paper_content) in enumerate(papers_list):
+            # Write visible papers
+            for idx, (paper_id, paper_content) in enumerate(papers_list[:visible_count]):
                 if paper_content is not None:
                     f.write(pretty_math(paper_content))
             
-            f.write("\n")
+            # Add expand button and hidden papers if there are more
+            if len(papers_list) > visible_count:
+                f.write(f"<details><summary>Show {len(papers_list) - visible_count} more papers...</summary>\n")
+                # Write hidden papers inside the details tag with proper table format
+                if use_title == True:
+                    if to_web == False:
+                        f.write("Publish Date\tTitle\tAuthors\tPDF\tCode\n")
+                        f.write("---\t---\t---\t---\t---\n")
+                    else:
+                        f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                        f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+                for paper_id, paper_content in papers_list[visible_count:]:
+                    if paper_content is not None:
+                        f.write(pretty_math(paper_content))
+                f.write("</details>\n\n")
+            else:
+                f.write("\n")
             
             #Add: back to top
             if use_b2t:
@@ -459,6 +477,7 @@ def demo(**config):
     show_badge = config['show_badge']
 
     b_update = config['update_paper_links']
+    max_visible = config.get('max_visible', 100)
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
@@ -483,8 +502,8 @@ def demo(**config):
             # update json data
             update_json_file(json_file,data_collector)
         # json data to markdown
-        json_to_md(json_file, md_file, task='Update Readme', \
-            show_badge=show_badge)
+        json_to_md(json_file,md_file, task ='Update Readme', \
+            show_badge = show_badge)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -495,9 +514,9 @@ def demo(**config):
             update_paper_links(json_file)
         else:    
             update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, task='Update GitPage', \
-            to_web=True, show_badge=show_badge, \
-            use_tc=False, use_b2t=False)
+        json_to_md(json_file, md_file, task ='Update GitPage', \
+            to_web = True, show_badge = show_badge, \
+            use_tc=False, use_b2t=False, max_visible=max_visible)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
@@ -508,8 +527,8 @@ def demo(**config):
             update_paper_links(json_file)
         else:    
             update_json_file(json_file, data_collector_web)
-        json_to_md(json_file, md_file, task='Update Wechat', \
-            to_web=False, use_title=False, show_badge=show_badge)
+        json_to_md(json_file, md_file, task ='Update Wechat', \
+            to_web=False, use_title= False, show_badge = show_badge)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
