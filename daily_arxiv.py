@@ -231,15 +231,29 @@ def get_daily_papers(topic,query="slam", max_results=100, max_pages=5):
 
 def update_paper_links(filename):
     '''
-    weekly update paper links in json file 
+    weekly update paper links in json file
     '''
     def parse_arxiv_string(s):
-        parts = s.split("|")
-        date = parts[1].strip()
-        title = parts[2].strip()
-        authors = parts[3].strip()
-        arxiv_id = parts[4].strip()
-        code = parts[5].strip()
+        # Parse the format: **date**	**title**	author et.al.	[id](url)	code
+        parts = s.split("\t")
+        if len(parts) < 5:
+            # Fallback for old format with |
+            parts = s.split("|")
+            date = parts[1].strip() if len(parts) > 1 else ""
+            title = parts[2].strip() if len(parts) > 2 else ""
+            authors = parts[3].strip() if len(parts) > 3 else ""
+            arxiv_id = parts[4].strip() if len(parts) > 4 else ""
+            code = parts[5].strip() if len(parts) > 5 else ""
+        else:
+            # New format with tabs
+            date = parts[0].strip().replace("**", "")
+            title = parts[1].strip().replace("**", "")
+            authors = parts[2].strip()
+            # Extract arxiv_id from [id](url) format
+            arxiv_match = re.search(r'\[([^\]]+)\]', parts[3])
+            arxiv_id = arxiv_match.group(1) if arxiv_match else ""
+            code = parts[4].strip()
+        
         arxiv_id = re.sub(r'v\d+', '', arxiv_id)
         return date,title,authors,arxiv_id,code
 
@@ -250,7 +264,7 @@ def update_paper_links(filename):
         else:
             m = json.loads(content)
             
-        json_data = m.copy() 
+        json_data = m.copy()
 
         for keywords,v in json_data.items():
             logging.info(f'keywords = {keywords}')
@@ -259,11 +273,11 @@ def update_paper_links(filename):
 
                 update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
 
-                contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url)
+                contents = "**{}**\t**{}**\t{} et.al.\t[{}]({})\t{}\n".format(update_time,paper_title,paper_first_author,paper_url.split('/')[-1].replace('.pdf',''),paper_url,code_url)
                 json_data[keywords][paper_id] = str(contents)
                 logging.info(f'paper_id = {paper_id}, contents = {contents}')
                 
-                valid_link = False if '|null|' in contents else True
+                valid_link = False if 'null' in contents else True
                 if valid_link:
                     continue
                 try:
@@ -273,7 +287,7 @@ def update_paper_links(filename):
                     if "official" in r and r["official"]:
                         repo_url = r["official"]["url"]
                         if repo_url is not None:
-                            new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
+                            new_cont = contents.replace('null',f'**[link]({repo_url})**')
                             logging.info(f'ID = {paper_id}, contents = {new_cont}')
                             json_data[keywords][paper_id] = str(new_cont)
 
