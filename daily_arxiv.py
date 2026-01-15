@@ -160,12 +160,11 @@ def get_daily_papers(topic,query="slam", max_results=100, max_pages=5):
         search_engine = arxiv.Search(
             query = query,
             max_results = max_results,
-            start = page * max_results,
             sort_by = arxiv.SortCriterion.SubmittedDate
         )
         
         results_count = 0
-        for result in client.results(search_engine):
+        for result in client.results(search_engine, offset=page * max_results):
             results_count += 1
             paper_id            = result.get_short_id()
             paper_title         = result.title
@@ -190,6 +189,16 @@ def get_daily_papers(topic,query="slam", max_results=100, max_pages=5):
             
             try:
                 repo_url = None
+                # Try to get code link from paperswithcode API
+                try:
+                    code_url = base_url + paper_id
+                    r = requests.get(code_url, timeout=5)
+                    if r.status_code == 200:
+                        r_json = r.json()
+                        if "official" in r_json and r_json["official"]:
+                            repo_url = r_json["official"]["url"]
+                except Exception as e:
+                    logging.warning(f"Failed to fetch code link for {paper_id}: {e}")
 
                 if repo_url is not None:
                     content[paper_key] = "**{}**	**{}**	{} et.al.	[{}]({})	**[link]({})**\n".format(
@@ -202,8 +211,7 @@ def get_daily_papers(topic,query="slam", max_results=100, max_pages=5):
                     content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
                            update_time,paper_title,paper_first_author,paper_url,paper_url)
 
-                comments = None
-                if comments != None:
+                if comments is not None:
                     content_to_web[paper_key] += f", {comments}\n"
                 else:
                     content_to_web[paper_key] += f"\n"
