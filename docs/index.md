@@ -16,93 +16,111 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-**2026-01-15**	**CoMoVi: Co-Generation of 3D Human Motions and Realistic Videos**	Chengfeng Zhao et.al. et.al.	[2601.10632](2601.10632)	null
-**2026-01-15**	**RSATalker: Realistic Socially-Aware Talking Head Generation for Multi-Turn Conversation**	Peng Chen et.al. et.al.	[2601.10606](2601.10606)	null
-**2026-01-15**	**DeepUrban: Interaction-Aware Trajectory Prediction and Planning for Automated Driving by Aerial Imagery**	Constantin Selzer et.al. et.al.	[2601.10554](2601.10554)	null
-**2026-01-15**	**SVII-3D: Advancing Roadside Infrastructure Inventory with Decimeter-level 3D Localization and Comprehension from Sparse Street Imagery**	Chong Liu et.al. et.al.	[2601.10535](2601.10535)	null
-**2026-01-15**	**Beyond Inpainting: Unleash 3D Understanding for Precise Camera-Controlled Video Generation**	Dong-Yu Chen et.al. et.al.	[2601.10214](2601.10214)	null
-**2026-01-15**	**Terrain-Adaptive Mobile 3D Printing with Hierarchical Control**	Shuangshan Nors Li et.al. et.al.	[2601.10208](2601.10208)	null
-**2026-01-15**	**ELITE: Efficient Gaussian Head Avatar from a Monocular Video via Learned Initialization and TEst-time Generative Adaptation**	Kim Youwang et.al. et.al.	[2601.10200](2601.10200)	null
-**2026-01-15**	**RAG-3DSG: Enhancing 3D Scene Graphs with Re-Shot Guided Retrieval-Augmented Generation**	Yue Chang et.al. et.al.	[2601.10168](2601.10168)	null
-**2026-01-15**	**CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems in Dynamic and Unknown Environments**	Xintong Zhang et.al. et.al.	[2601.10116](2601.10116)	null
-**2026-01-15**	**Thinking Like Van Gogh: Structure-Aware Style Transfer via Flow-Guided 3D Gaussian Splatting**	Zhendong Wang et.al. et.al.	[2601.10075](2601.10075)	null
-**2026-01-15**	**EditEmoTalk: Controllable Speech-Driven 3D Facial Animation with Continuous Expression Editing**	Diqiong Jiang et.al. et.al.	[2601.10000](2601.10000)	null
-**2026-01-14**	**SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping**	Ruopeng Huang et.al. et.al.	[2601.09920](2601.09920)	null
-**2026-01-14**	**MedVL-SAM2: A unified 3D medical vision-language model for multimodal reasoning and prompt-driven segmentation**	Yang Xing et.al. et.al.	[2601.09879](2601.09879)	null
-**2026-01-14**	**LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving**	Carlo Sgaravatti et.al. et.al.	[2601.09812](2601.09812)	null
-**2026-01-14**	**COMPOSE: Hypergraph Cover Optimization for Multi-view 3D Human Pose Estimation**	Tony Danjun Wang et.al. et.al.	[2601.09698](2601.09698)	null
-**2026-01-14**	**Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering**	Jieying Chen et.al. et.al.	[2601.09697](2601.09697)	null
-**2026-01-14**	**SCE-SLAM: Scale-Consistent Monocular SLAM via Scene Coordinate Embeddings**	Yuchen Wu et.al. et.al.	[2601.09665](2601.09665)	null
-**2026-01-14**	**Self-Supervised Animal Identification for Long Videos**	Xuyang Fang et.al. et.al.	[2601.09663](2601.09663)	null
-**2026-01-14**	**Iterative Differential Entropy Minimization (IDEM) method for fine rigid pairwise 3D Point Cloud Registration: A Focus on the Metric**	Emmanuele Barberi et.al. et.al.	[2601.09601](2601.09601)	null
-**2026-01-14**	**Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping**	Jiajun Sun et.al. et.al.	[2601.09578](2601.09578)	null
-**2026-01-14**	**OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding**	Sheng-Yu Huang et.al. et.al.	[2601.09575](2601.09575)	null
-**2026-01-14**	**V-DPM: 4D Video Reconstruction with Dynamic Point Maps**	Edgar Sucar et.al. et.al.	[2601.09499](2601.09499)	null
-**2026-01-14**	**Variable Basis Mapping for Real-Time Volumetric Visualization**	Qibiao Li et.al. et.al.	[2601.09417](2601.09417)	null
-**2026-01-14**	**TIDI-GS: Floater Suppression in 3D Gaussian Splatting for Enhanced Indoor Scene Fidelity**	Sooyeun Yang et.al. et.al.	[2601.09291](2601.09291)	null
-**2026-01-14**	**GaussianFluent: Gaussian Simulation for Dynamic Scenes with Mixed Materials**	Bei Huang et.al. et.al.	[2601.09265](2601.09265)	null
-**2026-01-14**	**A $^2$ TG: Adaptive Anisotropic Textured Gaussians for Efficient 3D Scene Representation**	Sheng-Chi Hsu et.al. et.al.	[2601.09243](2601.09243)	null
-**2026-01-14**	**Affostruction: 3D Affordance Grounding with Generative Reconstruction**	Chunghyun Park et.al. et.al.	[2601.09211](2601.09211)	null
-**2026-01-14**	**From Performance to Practice: Knowledge-Distilled Segmentator for On-Premises Clinical Workflows**	Qizhen Lan et.al. et.al.	[2601.09191](2601.09191)	null
-**2026-01-14**	**CEI: A Unified Interface for Cross-Embodiment Visuomotor Policy Learning in 3D Space**	Tong Wu et.al. et.al.	[2601.09163](2601.09163)	null
-**2026-01-14**	**POWDR: Pathology-preserving Outpainting with Wavelet Diffusion for 3D MRI**	Fei Tan et.al. et.al.	[2601.09044](2601.09044)	null
-**2026-01-13**	**Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation**	Xuetao Li et.al. et.al.	[2601.09031](2601.09031)	null
-**2026-01-13**	**GOUHFI 2.0: A Next-Generation Toolbox for Brain Segmentation and Cortex Parcellation at Ultra-High Field MRI**	Marc-Antoine Fortin et.al. et.al.	[2601.09006](2601.09006)	null
-**2026-01-11**	**Residual Cross-Modal Fusion Networks for Audio-Visual Navigation**	Yi Wang et.al. et.al.	[2601.08868](2601.08868)	null
-**2026-01-13**	**3AM: Segment Anything with Geometric Consistency in Videos**	Yang-Che Sun et.al. et.al.	[2601.08831](2601.08831)	null
-**2026-01-13**	**Reasoning Matters for 3D Visual Grounding**	Hsiang-Wei Huang et.al. et.al.	[2601.08811](2601.08811)	null
-**2026-01-13**	**Region of interest detection for efficient aortic segmentation**	Loris Giordano et.al. et.al.	[2601.08683](2601.08683)	null
-**2026-01-13**	**TRACE: Reconstruction-Based Anomaly Detection in Ensemble and Time-Dependent Simulations**	Hamid Gadirov et.al. et.al.	[2601.08659](2601.08659)	null
-**2026-01-13**	**REVNET: Rotation-Equivariant Point Cloud Completion via Vector Neuron Anchor Transformer**	Zhifan Ni et.al. et.al.	[2601.08558](2601.08558)	null
-**2026-01-13**	**Deep Learning Based Facial Retargeting Using Local Patches**	Yeonsoo Choi et.al. et.al.	[2601.08429](2601.08429)	null
-**2026-01-15**	**SPARK: Scalable Real-Time Point Cloud Aggregation with Multi-View Self-Calibration**	Chentian Sun et.al. et.al.	[2601.08414](2601.08414)	null
-**2026-01-13**	**Source-Free Domain Adaptation for Geospatial Point Cloud Semantic Segmentation**	Yuan Gao et.al. et.al.	[2601.08375](2601.08375)	null
-**2026-01-13**	**ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation**	Zhenyang Liu et.al. et.al.	[2601.08325](2601.08325)	null
-**2026-01-13**	**ReCo-KD: Region- and Context-Aware Knowledge Distillation for Efficient 3D Medical Image Segmentation**	Qizhen Lan et.al. et.al.	[2601.08301](2601.08301)	null
-**2026-01-13**	**FSAG: Enhancing Human-to-Dexterous-Hand Finger-Specific Affordance Grounding via Diffusion Models**	Yifan Han et.al. et.al.	[2601.08246](2601.08246)	null
-**2026-01-13**	**Second-order Gaussian directional derivative representations for image high-resolution corner detection**	Dongbo Xie et.al. et.al.	[2601.08182](2601.08182)	null
-**2026-01-13**	**Instruction-Driven 3D Facial Expression Generation and Transition**	Anh H. Vo et.al. et.al.	[2601.08179](2601.08179)	null
-**2026-01-13**	**CogniMap3D: Cognitive 3D Mapping and Rapid Retrieval**	Feiran Wang et.al. et.al.	[2601.08175](2601.08175)	null
-**2026-01-13**	**Towards Cross-Platform Generalization: Domain Adaptive 3D Detection with Augmentation and Pseudo-Labeling**	Xiyan Feng et.al. et.al.	[2601.08174](2601.08174)	null
-**2026-01-13**	**A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profiles**	Takuya Kato et.al. et.al.	[2601.08143](2601.08143)	null
-**2026-01-12**	**Fiducial Exoskeletons: Image-Centric Robot State Estimation**	Cameron Smith et.al. et.al.	[2601.08034](2601.08034)	null
-**2026-01-12**	**3DGS-Drag: Dragging Gaussians for Intuitive Point-Based 3D Editing**	Jiahua Dong et.al. et.al.	[2601.07963](2601.07963)	null
-**2026-01-10**	**HOSC: A Periodic Activation with Saturation Control for High-Fidelity Implicit Neural Representations**	Michal Jan Wlodarczyk et.al. et.al.	[2601.07870](2601.07870)	null
+**2026-01-16**	**ShapeR: Robust Conditional 3D Shape Generation from Casual Captures**	Yawar Siddiqui et.al.	[2601.11514](http://arxiv.org/pdf/2601.11514.pdf)	null
+**2026-01-16**	**ReScene4D: Temporally Consistent Semantic Instance Segmentation of Evolving Indoor 3D Scenes**	Emily Steiner et.al.	[2601.11508](http://arxiv.org/pdf/2601.11508.pdf)	null
+**2026-01-16**	**Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps**	Xiangjun Gao et.al.	[2601.11442](http://arxiv.org/pdf/2601.11442.pdf)	null
+**2026-01-16**	**SUG-Occ: An Explicit Semantics and Uncertainty Guided Sparse Learning Framework for Real-Time 3D Occupancy Prediction**	Hanlin Wu et.al.	[2601.11396](http://arxiv.org/pdf/2601.11396.pdf)	null
+**2026-01-16**	**X-Distill: Cross-Architecture Vision Distillation for Visuomotor Learning**	Maanping Shao et.al.	[2601.11269](http://arxiv.org/pdf/2601.11269.pdf)	null
+**2026-01-16**	**Skill-Aware Diffusion for Generalizable Robotic Manipulation**	Aoshen Huang et.al.	[2601.11266](http://arxiv.org/pdf/2601.11266.pdf)	null
+**2026-01-16**	**ATATA: One Algorithm to Align Them All**	Boyi Pang et.al.	[2601.11194](http://arxiv.org/pdf/2601.11194.pdf)	null
+**2026-01-16**	**Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning**	Shaofeng Yin et.al.	[2601.11109](http://arxiv.org/pdf/2601.11109.pdf)	null
+**2026-01-16**	**Graph Smoothing for Enhanced Local Geometry Learning in Point Cloud Analysis**	Shangbo Yuan et.al.	[2601.11102](http://arxiv.org/pdf/2601.11102.pdf)	null
+**2026-01-16**	**IDDR-NGP: Incorporating Detectors for Distractor Removal with Instant Neural Radiance Field**	Xianliang Huang et.al.	[2601.11030](http://arxiv.org/pdf/2601.11030.pdf)	null
+**2026-01-16**	**Where to Touch, How to Contact: Hierarchical RL-MPC Framework for Geometry-Aware Long-Horizon Dexterous Manipulation**	Zhixian Xie et.al.	[2601.10930](http://arxiv.org/pdf/2601.10930.pdf)	null
+**2026-01-15**	**Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation**	Chongcong Jiang et.al.	[2601.10880](http://arxiv.org/pdf/2601.10880.pdf)	null
+**2026-01-15**	**Effects of Different Attention Mechanisms Applied on 3D Models in Video Classification**	Mohammad Rasras et.al.	[2601.10854](http://arxiv.org/pdf/2601.10854.pdf)	null
+**2026-01-15**	**A Unified 3D Object Perception Framework for Real-Time Outside-In Multi-Camera Systems**	Yizhou Wang et.al.	[2601.10819](http://arxiv.org/pdf/2601.10819.pdf)	null
+**2026-01-15**	**SurfSLAM: Sim-to-Real Underwater Stereo Reconstruction For Real-Time SLAM**	Onur Bagoren et.al.	[2601.10814](http://arxiv.org/pdf/2601.10814.pdf)	null
+**2026-01-15**	**CoMoVi: Co-Generation of 3D Human Motions and Realistic Videos**	Chengfeng Zhao et.al.	[2601.10632](http://arxiv.org/pdf/2601.10632.pdf)	null
+**2026-01-15**	**RSATalker: Realistic Socially-Aware Talking Head Generation for Multi-Turn Conversation**	Peng Chen et.al.	[2601.10606](http://arxiv.org/pdf/2601.10606.pdf)	null
+**2026-01-15**	**DeepUrban: Interaction-Aware Trajectory Prediction and Planning for Automated Driving by Aerial Imagery**	Constantin Selzer et.al.	[2601.10554](http://arxiv.org/pdf/2601.10554.pdf)	null
+**2026-01-15**	**SVII-3D: Advancing Roadside Infrastructure Inventory with Decimeter-level 3D Localization and Comprehension from Sparse Street Imagery**	Chong Liu et.al.	[2601.10535](http://arxiv.org/pdf/2601.10535.pdf)	null
+**2026-01-15**	**Beyond Inpainting: Unleash 3D Understanding for Precise Camera-Controlled Video Generation**	Dong-Yu Chen et.al.	[2601.10214](http://arxiv.org/pdf/2601.10214.pdf)	null
+**2026-01-15**	**Terrain-Adaptive Mobile 3D Printing with Hierarchical Control**	Shuangshan Nors Li et.al.	[2601.10208](http://arxiv.org/pdf/2601.10208.pdf)	null
+**2026-01-15**	**ELITE: Efficient Gaussian Head Avatar from a Monocular Video via Learned Initialization and TEst-time Generative Adaptation**	Kim Youwang et.al.	[2601.10200](http://arxiv.org/pdf/2601.10200.pdf)	null
+**2026-01-15**	**RAG-3DSG: Enhancing 3D Scene Graphs with Re-Shot Guided Retrieval-Augmented Generation**	Yue Chang et.al.	[2601.10168](http://arxiv.org/pdf/2601.10168.pdf)	null
+**2026-01-15**	**CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems in Dynamic and Unknown Environments**	Xintong Zhang et.al.	[2601.10116](http://arxiv.org/pdf/2601.10116.pdf)	null
+**2026-01-15**	**Thinking Like Van Gogh: Structure-Aware Style Transfer via Flow-Guided 3D Gaussian Splatting**	Zhendong Wang et.al.	[2601.10075](http://arxiv.org/pdf/2601.10075.pdf)	null
+**2026-01-15**	**EditEmoTalk: Controllable Speech-Driven 3D Facial Animation with Continuous Expression Editing**	Diqiong Jiang et.al.	[2601.10000](http://arxiv.org/pdf/2601.10000.pdf)	null
+**2026-01-14**	**SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping**	Ruopeng Huang et.al.	[2601.09920](http://arxiv.org/pdf/2601.09920.pdf)	null
+**2026-01-14**	**MedVL-SAM2: A unified 3D medical vision-language model for multimodal reasoning and prompt-driven segmentation**	Yang Xing et.al.	[2601.09879](http://arxiv.org/pdf/2601.09879.pdf)	null
+**2026-01-14**	**LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving**	Carlo Sgaravatti et.al.	[2601.09812](http://arxiv.org/pdf/2601.09812.pdf)	null
+**2026-01-14**	**COMPOSE: Hypergraph Cover Optimization for Multi-view 3D Human Pose Estimation**	Tony Danjun Wang et.al.	[2601.09698](http://arxiv.org/pdf/2601.09698.pdf)	null
+**2026-01-14**	**Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering**	Jieying Chen et.al.	[2601.09697](http://arxiv.org/pdf/2601.09697.pdf)	null
+**2026-01-14**	**SCE-SLAM: Scale-Consistent Monocular SLAM via Scene Coordinate Embeddings**	Yuchen Wu et.al.	[2601.09665](http://arxiv.org/pdf/2601.09665.pdf)	null
+**2026-01-14**	**Self-Supervised Animal Identification for Long Videos**	Xuyang Fang et.al.	[2601.09663](http://arxiv.org/pdf/2601.09663.pdf)	null
+**2026-01-14**	**Iterative Differential Entropy Minimization (IDEM) method for fine rigid pairwise 3D Point Cloud Registration: A Focus on the Metric**	Emmanuele Barberi et.al.	[2601.09601](http://arxiv.org/pdf/2601.09601.pdf)	null
+**2026-01-14**	**Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping**	Jiajun Sun et.al.	[2601.09578](http://arxiv.org/pdf/2601.09578.pdf)	null
+**2026-01-14**	**OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding**	Sheng-Yu Huang et.al.	[2601.09575](http://arxiv.org/pdf/2601.09575.pdf)	null
+**2026-01-14**	**V-DPM: 4D Video Reconstruction with Dynamic Point Maps**	Edgar Sucar et.al.	[2601.09499](http://arxiv.org/pdf/2601.09499.pdf)	null
+**2026-01-14**	**Variable Basis Mapping for Real-Time Volumetric Visualization**	Qibiao Li et.al.	[2601.09417](http://arxiv.org/pdf/2601.09417.pdf)	null
+**2026-01-14**	**TIDI-GS: Floater Suppression in 3D Gaussian Splatting for Enhanced Indoor Scene Fidelity**	Sooyeun Yang et.al.	[2601.09291](http://arxiv.org/pdf/2601.09291.pdf)	null
+**2026-01-14**	**GaussianFluent: Gaussian Simulation for Dynamic Scenes with Mixed Materials**	Bei Huang et.al.	[2601.09265](http://arxiv.org/pdf/2601.09265.pdf)	null
+**2026-01-14**	**A $^2$ TG: Adaptive Anisotropic Textured Gaussians for Efficient 3D Scene Representation**	Sheng-Chi Hsu et.al.	[2601.09243](http://arxiv.org/pdf/2601.09243.pdf)	null
+**2026-01-14**	**Affostruction: 3D Affordance Grounding with Generative Reconstruction**	Chunghyun Park et.al.	[2601.09211](http://arxiv.org/pdf/2601.09211.pdf)	null
+**2026-01-14**	**From Performance to Practice: Knowledge-Distilled Segmentator for On-Premises Clinical Workflows**	Qizhen Lan et.al.	[2601.09191](http://arxiv.org/pdf/2601.09191.pdf)	null
+**2026-01-14**	**CEI: A Unified Interface for Cross-Embodiment Visuomotor Policy Learning in 3D Space**	Tong Wu et.al.	[2601.09163](http://arxiv.org/pdf/2601.09163.pdf)	null
+**2026-01-14**	**POWDR: Pathology-preserving Outpainting with Wavelet Diffusion for 3D MRI**	Fei Tan et.al.	[2601.09044](http://arxiv.org/pdf/2601.09044.pdf)	null
+**2026-01-13**	**Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation**	Xuetao Li et.al.	[2601.09031](http://arxiv.org/pdf/2601.09031.pdf)	null
+**2026-01-13**	**GOUHFI 2.0: A Next-Generation Toolbox for Brain Segmentation and Cortex Parcellation at Ultra-High Field MRI**	Marc-Antoine Fortin et.al.	[2601.09006](http://arxiv.org/pdf/2601.09006.pdf)	null
+**2026-01-11**	**Residual Cross-Modal Fusion Networks for Audio-Visual Navigation**	Yi Wang et.al.	[2601.08868](http://arxiv.org/pdf/2601.08868.pdf)	null
+**2026-01-13**	**3AM: Segment Anything with Geometric Consistency in Videos**	Yang-Che Sun et.al.	[2601.08831](http://arxiv.org/pdf/2601.08831.pdf)	null
+**2026-01-13**	**Reasoning Matters for 3D Visual Grounding**	Hsiang-Wei Huang et.al.	[2601.08811](http://arxiv.org/pdf/2601.08811.pdf)	null
+**2026-01-13**	**Region of interest detection for efficient aortic segmentation**	Loris Giordano et.al.	[2601.08683](http://arxiv.org/pdf/2601.08683.pdf)	null
+**2026-01-13**	**TRACE: Reconstruction-Based Anomaly Detection in Ensemble and Time-Dependent Simulations**	Hamid Gadirov et.al.	[2601.08659](http://arxiv.org/pdf/2601.08659.pdf)	null
+**2026-01-13**	**REVNET: Rotation-Equivariant Point Cloud Completion via Vector Neuron Anchor Transformer**	Zhifan Ni et.al.	[2601.08558](http://arxiv.org/pdf/2601.08558.pdf)	null
+**2026-01-13**	**Deep Learning Based Facial Retargeting Using Local Patches**	Yeonsoo Choi et.al.	[2601.08429](http://arxiv.org/pdf/2601.08429.pdf)	null
+**2026-01-15**	**SPARK: Scalable Real-Time Point Cloud Aggregation with Multi-View Self-Calibration**	Chentian Sun et.al.	[2601.08414](http://arxiv.org/pdf/2601.08414.pdf)	null
+**2026-01-13**	**Source-Free Domain Adaptation for Geospatial Point Cloud Semantic Segmentation**	Yuan Gao et.al.	[2601.08375](http://arxiv.org/pdf/2601.08375.pdf)	null
+**2026-01-13**	**ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation**	Zhenyang Liu et.al.	[2601.08325](http://arxiv.org/pdf/2601.08325.pdf)	null
+**2026-01-13**	**ReCo-KD: Region- and Context-Aware Knowledge Distillation for Efficient 3D Medical Image Segmentation**	Qizhen Lan et.al.	[2601.08301](http://arxiv.org/pdf/2601.08301.pdf)	null
+**2026-01-13**	**FSAG: Enhancing Human-to-Dexterous-Hand Finger-Specific Affordance Grounding via Diffusion Models**	Yifan Han et.al.	[2601.08246](http://arxiv.org/pdf/2601.08246.pdf)	null
+**2026-01-13**	**Second-order Gaussian directional derivative representations for image high-resolution corner detection**	Dongbo Xie et.al.	[2601.08182](http://arxiv.org/pdf/2601.08182.pdf)	null
+**2026-01-13**	**Instruction-Driven 3D Facial Expression Generation and Transition**	Anh H. Vo et.al.	[2601.08179](http://arxiv.org/pdf/2601.08179.pdf)	null
+**2026-01-13**	**CogniMap3D: Cognitive 3D Mapping and Rapid Retrieval**	Feiran Wang et.al.	[2601.08175](http://arxiv.org/pdf/2601.08175.pdf)	null
+**2026-01-13**	**Towards Cross-Platform Generalization: Domain Adaptive 3D Detection with Augmentation and Pseudo-Labeling**	Xiyan Feng et.al.	[2601.08174](http://arxiv.org/pdf/2601.08174.pdf)	null
+**2026-01-13**	**A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profiles**	Takuya Kato et.al.	[2601.08143](http://arxiv.org/pdf/2601.08143.pdf)	null
+**2026-01-12**	**Fiducial Exoskeletons: Image-Centric Robot State Estimation**	Cameron Smith et.al.	[2601.08034](http://arxiv.org/pdf/2601.08034.pdf)	null
+**2026-01-12**	**3DGS-Drag: Dragging Gaussians for Intuitive Point-Based 3D Editing**	Jiahua Dong et.al.	[2601.07963](http://arxiv.org/pdf/2601.07963.pdf)	null
+**2026-01-10**	**HOSC: A Periodic Activation with Saturation Control for High-Fidelity Implicit Neural Representations**	Michal Jan Wlodarczyk et.al.	[2601.07870](http://arxiv.org/pdf/2601.07870.pdf)	null
 **2026-01-09**	**An Empirical Study on Knowledge Transfer under Domain and Label Shifts in 3D LiDAR Point Clouds**	Subeen Lee et.al. et.al.	[2601.07855](2601.07855)	null
-**2026-01-15**	**Smooth Operator: Smooth Verifiable Reward Activates Spatial Reasoning Ability of Vision-Language Model**	Siwen Jiao et.al. et.al.	[2601.07695](2601.07695)	null
-**2026-01-12**	**Leveraging 3D Representation Alignment and RGB Pretrained Priors for LiDAR Scene Generation**	Nicolas Sereyjol-Garros et.al. et.al.	[2601.07692](2601.07692)	null
-**2026-01-12**	**StdGEN++: A Comprehensive System for Semantic-Decomposed 3D Character Generation**	Yuze He et.al. et.al.	[2601.07660](2601.07660)	null
-**2026-01-12**	**FlyCo: Foundation Model-Empowered Drones for Autonomous 3D Structure Scanning in Open-World Environments**	Chen Feng et.al. et.al.	[2601.07558](2601.07558)	null
-**2026-01-13**	**ViewMorpher3D: A 3D-aware Diffusion Framework for Multi-Camera Novel View Synthesis in Autonomous Driving**	Farhad G. Zanjani et.al. et.al.	[2601.07540](2601.07540)	null
-**2026-01-12**	**Fast Multi-Stack Slice-to-Volume Reconstruction via Multi-Scale Unrolled Optimization**	Margherita Firenze et.al. et.al.	[2601.07519](2601.07519)	null
-**2026-01-12**	**Mon3tr: Monocular 3D Telepresence with Pre-built Gaussian Avatars as Amortization**	Fangyu Lin et.al. et.al.	[2601.07518](2601.07518)	null
-**2026-01-12**	**Anatomy Aware Cascade Network: Bridging Epistemic Uncertainty and Geometric Manifold for 3D Tooth Segmentation**	Bing Yu et.al. et.al.	[2601.07499](2601.07499)	null
-**2026-01-12**	**R3-RECON: Radiance-Field-Free Active Reconstruction via Renderability**	Xiaofeng Jin et.al. et.al.	[2601.07484](2601.07484)	null
-**2026-01-12**	**Learning Dynamic Collaborative Network for Semi-supervised 3D Vessel Segmentation**	Jiao Xu et.al. et.al.	[2601.07377](2601.07377)	null
-**2026-01-12**	**OSCAR: Open-Set CAD Retrieval from a Language Prompt and a Single Image**	Tessa Pulli et.al. et.al.	[2601.07333](2601.07333)	null
-**2026-01-12**	**HERE: Hierarchical Active Exploration of Radiance Field with Epistemic Uncertainty Minimization**	Taekbeom Lee et.al. et.al.	[2601.07242](2601.07242)	null
-**2026-01-12**	**SceneNAT: Masked Generative Modeling for Language-Guided Indoor Scene Synthesis**	Jeongjun Choi et.al. et.al.	[2601.07218](2601.07218)	null
-**2026-01-12**	**SIRR-LMM: Single-image Reflection Removal via Large Multimodal Model**	Yu Guo et.al. et.al.	[2601.07209](2601.07209)	null
-**2026-01-12**	**SC-MII: Infrastructure LiDAR-based 3D Object Detection on Edge Devices for Split Computing with Multiple Intermediate Outputs Integration**	Taisuke Noguchi et.al. et.al.	[2601.07119](2601.07119)	null
-**2026-01-15**	**3D Wavelet-Based Structural Priors for Controlled Diffusion in Whole-Body Low-Dose PET Denoising**	Peiyuan Jing et.al. et.al.	[2601.07093](2601.07093)	null
-**2026-01-11**	**Explainable Deep Radiogenomic Molecular Imaging for MGMT Methylation Prediction in Glioblastoma**	Hasan M Jamil et.al. et.al.	[2601.07035](2601.07035)	null
-**2026-01-11**	**Observability-Enhanced Target Motion Estimation via Bearing-Box: Theory and MAV Applications**	Yin Zhang et.al. et.al.	[2601.06887](2601.06887)	null
-**2026-01-13**	**MVGGT: Multimodal Visual Geometry Grounded Transformer for Multiview 3D Referring Expression Segmentation**	Changli Wu et.al. et.al.	[2601.06874](2601.06874)	null
-**2026-01-11**	**PRISM: Color-Stratified Point Cloud Sampling**	Hansol Lim et.al. et.al.	[2601.06839](2601.06839)	null
-**2026-01-11**	**SARA: Scene-Aware Reconstruction Accelerator**	Jee Won Lee et.al. et.al.	[2601.06831](2601.06831)	null
-**2026-01-11**	**USFetal: Tools for Fetal Brain Ultrasound Compounding**	Mohammad Khateri et.al. et.al.	[2601.06726](2601.06726)	null
-**2026-01-10**	**Towards Egocentric 3D Hand Pose Estimation in Unseen Domains**	Wiktor Mucha et.al. et.al.	[2601.06537](2601.06537)	null
-**2026-01-10**	**3D CoCa v2: Contrastive Learners with Test-Time Search for Generalizable Spatial Intelligence**	Hao Tang et.al. et.al.	[2601.06496](2601.06496)	null
-**2026-01-10**	**Learning Domain Agnostic Latent Embeddings of 3D Faces for Zero-shot Animal Expression Transfer**	Yue Wang et.al. et.al.	[2601.06484](2601.06484)	null
-**2026-01-10**	**On the Adversarial Robustness of 3D Large Vision-Language Models**	Chao Liu et.al. et.al.	[2601.06464](2601.06464)	null
-**2026-01-10**	**Semantic Enrichment of CAD-Based Industrial Environments via Scene Graphs for Simulation and Reasoning**	Nathan Pascal Walus et.al. et.al.	[2601.06415](2601.06415)	null
-**2026-01-10**	**GlobalPaint: Spatiotemporal Coherent Video Outpainting with Global Feature Guidance**	Yueming Pan et.al. et.al.	[2601.06413](2601.06413)	null
-**2026-01-10**	**RigMo: Unifying Rig and Motion Learning for Generative Animation**	Hao Zhang et.al. et.al.	[2601.06378](2601.06378)	null
-**2026-01-09**	**NAS-GS: Noise-Aware Sonar Gaussian Splatting**	Shida Xu et.al. et.al.	[2601.06285](2601.06285)	null
-**2026-01-09**	**A survey of facial recognition techniques**	Aya Kaysan Bahjat et.al. et.al.	[2601.06239](2601.06239)	null
+**2026-01-15**	**Smooth Operator: Smooth Verifiable Reward Activates Spatial Reasoning Ability of Vision-Language Model**	Siwen Jiao et.al.	[2601.07695](http://arxiv.org/pdf/2601.07695.pdf)	null
+**2026-01-12**	**Leveraging 3D Representation Alignment and RGB Pretrained Priors for LiDAR Scene Generation**	Nicolas Sereyjol-Garros et.al.	[2601.07692](http://arxiv.org/pdf/2601.07692.pdf)	null
+**2026-01-12**	**StdGEN++: A Comprehensive System for Semantic-Decomposed 3D Character Generation**	Yuze He et.al.	[2601.07660](http://arxiv.org/pdf/2601.07660.pdf)	null
+**2026-01-12**	**FlyCo: Foundation Model-Empowered Drones for Autonomous 3D Structure Scanning in Open-World Environments**	Chen Feng et.al.	[2601.07558](http://arxiv.org/pdf/2601.07558.pdf)	null
+**2026-01-13**	**ViewMorpher3D: A 3D-aware Diffusion Framework for Multi-Camera Novel View Synthesis in Autonomous Driving**	Farhad G. Zanjani et.al.	[2601.07540](http://arxiv.org/pdf/2601.07540.pdf)	null
+**2026-01-12**	**Fast Multi-Stack Slice-to-Volume Reconstruction via Multi-Scale Unrolled Optimization**	Margherita Firenze et.al.	[2601.07519](http://arxiv.org/pdf/2601.07519.pdf)	null
+**2026-01-12**	**Mon3tr: Monocular 3D Telepresence with Pre-built Gaussian Avatars as Amortization**	Fangyu Lin et.al.	[2601.07518](http://arxiv.org/pdf/2601.07518.pdf)	null
+**2026-01-12**	**Anatomy Aware Cascade Network: Bridging Epistemic Uncertainty and Geometric Manifold for 3D Tooth Segmentation**	Bing Yu et.al.	[2601.07499](http://arxiv.org/pdf/2601.07499.pdf)	null
+**2026-01-12**	**R3-RECON: Radiance-Field-Free Active Reconstruction via Renderability**	Xiaofeng Jin et.al.	[2601.07484](http://arxiv.org/pdf/2601.07484.pdf)	null
+**2026-01-12**	**Learning Dynamic Collaborative Network for Semi-supervised 3D Vessel Segmentation**	Jiao Xu et.al.	[2601.07377](http://arxiv.org/pdf/2601.07377.pdf)	null
+**2026-01-12**	**OSCAR: Open-Set CAD Retrieval from a Language Prompt and a Single Image**	Tessa Pulli et.al.	[2601.07333](http://arxiv.org/pdf/2601.07333.pdf)	null
+**2026-01-12**	**HERE: Hierarchical Active Exploration of Radiance Field with Epistemic Uncertainty Minimization**	Taekbeom Lee et.al.	[2601.07242](http://arxiv.org/pdf/2601.07242.pdf)	null
+**2026-01-12**	**SceneNAT: Masked Generative Modeling for Language-Guided Indoor Scene Synthesis**	Jeongjun Choi et.al.	[2601.07218](http://arxiv.org/pdf/2601.07218.pdf)	null
+**2026-01-12**	**SIRR-LMM: Single-image Reflection Removal via Large Multimodal Model**	Yu Guo et.al.	[2601.07209](http://arxiv.org/pdf/2601.07209.pdf)	null
+**2026-01-12**	**SC-MII: Infrastructure LiDAR-based 3D Object Detection on Edge Devices for Split Computing with Multiple Intermediate Outputs Integration**	Taisuke Noguchi et.al.	[2601.07119](http://arxiv.org/pdf/2601.07119.pdf)	null
+**2026-01-15**	**3D Wavelet-Based Structural Priors for Controlled Diffusion in Whole-Body Low-Dose PET Denoising**	Peiyuan Jing et.al.	[2601.07093](http://arxiv.org/pdf/2601.07093.pdf)	null
+**2026-01-11**	**Explainable Deep Radiogenomic Molecular Imaging for MGMT Methylation Prediction in Glioblastoma**	Hasan M Jamil et.al.	[2601.07035](http://arxiv.org/pdf/2601.07035.pdf)	null
+**2026-01-11**	**Observability-Enhanced Target Motion Estimation via Bearing-Box: Theory and MAV Applications**	Yin Zhang et.al.	[2601.06887](http://arxiv.org/pdf/2601.06887.pdf)	null
+**2026-01-13**	**MVGGT: Multimodal Visual Geometry Grounded Transformer for Multiview 3D Referring Expression Segmentation**	Changli Wu et.al.	[2601.06874](http://arxiv.org/pdf/2601.06874.pdf)	null
+**2026-01-11**	**PRISM: Color-Stratified Point Cloud Sampling**	Hansol Lim et.al.	[2601.06839](http://arxiv.org/pdf/2601.06839.pdf)	null
+**2026-01-11**	**SARA: Scene-Aware Reconstruction Accelerator**	Jee Won Lee et.al.	[2601.06831](http://arxiv.org/pdf/2601.06831.pdf)	null
+**2026-01-11**	**USFetal: Tools for Fetal Brain Ultrasound Compounding**	Mohammad Khateri et.al.	[2601.06726](http://arxiv.org/pdf/2601.06726.pdf)	null
+**2026-01-10**	**Towards Egocentric 3D Hand Pose Estimation in Unseen Domains**	Wiktor Mucha et.al.	[2601.06537](http://arxiv.org/pdf/2601.06537.pdf)	null
+**2026-01-10**	**3D CoCa v2: Contrastive Learners with Test-Time Search for Generalizable Spatial Intelligence**	Hao Tang et.al.	[2601.06496](http://arxiv.org/pdf/2601.06496.pdf)	null
+**2026-01-10**	**Learning Domain Agnostic Latent Embeddings of 3D Faces for Zero-shot Animal Expression Transfer**	Yue Wang et.al.	[2601.06484](http://arxiv.org/pdf/2601.06484.pdf)	null
+**2026-01-10**	**On the Adversarial Robustness of 3D Large Vision-Language Models**	Chao Liu et.al.	[2601.06464](http://arxiv.org/pdf/2601.06464.pdf)	null
+**2026-01-10**	**Semantic Enrichment of CAD-Based Industrial Environments via Scene Graphs for Simulation and Reasoning**	Nathan Pascal Walus et.al.	[2601.06415](http://arxiv.org/pdf/2601.06415.pdf)	null
+**2026-01-10**	**GlobalPaint: Spatiotemporal Coherent Video Outpainting with Global Feature Guidance**	Yueming Pan et.al.	[2601.06413](http://arxiv.org/pdf/2601.06413.pdf)	null
+**2026-01-10**	**RigMo: Unifying Rig and Motion Learning for Generative Animation**	Hao Zhang et.al.	[2601.06378](http://arxiv.org/pdf/2601.06378.pdf)	null
+**2026-01-09**	**NAS-GS: Noise-Aware Sonar Gaussian Splatting**	Shida Xu et.al.	[2601.06285](http://arxiv.org/pdf/2601.06285.pdf)	null
+**2026-01-09**	**A survey of facial recognition techniques**	Aya Kaysan Bahjat et.al.	[2601.06239](http://arxiv.org/pdf/2601.06239.pdf)	null
 **2026-01-08**	**Akasha 2: Hamiltonian State Space Duality and Visual-Language Joint Embedding Predictive Architectur**	Yani Meziani et.al. et.al.	[2601.06212](2601.06212)	null
-**2026-01-14**	**VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction**	Longbin Ji et.al. et.al.	[2601.05966](2601.05966)	null
-**2026-01-09**	**Bidirectional Channel-selective Semantic Interaction for Semi-Supervised Medical Segmentation**	Kaiwen Huang et.al. et.al.	[2601.05855](2601.05855)	null
+<details><summary>Show 3433 more papers...</summary>
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+**2026-01-14**	**VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction**	Longbin Ji et.al.	[2601.05966](http://arxiv.org/pdf/2601.05966.pdf)	null
+**2026-01-09**	**Bidirectional Channel-selective Semantic Interaction for Semi-Supervised Medical Segmentation**	Kaiwen Huang et.al.	[2601.05855](http://arxiv.org/pdf/2601.05855.pdf)	null
 **2026-01-09**	**LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting**	Yinghan Xu et.al. et.al.	[2601.05853](2601.05853)	null
 **2026-01-09**	**Kidney Cancer Detection Using 3D-Based Latent Diffusion Models**	Jen Dusseljee et.al. et.al.	[2601.05852](2601.05852)	null
 **2026-01-09**	**GeoSurDepth: Spatial Geometry-Consistent Self-Supervised Depth Estimation for Surround-View Cameras**	Weimin Liu et.al. et.al.	[2601.05839](2601.05839)	null
@@ -116,9 +134,6 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 **2026-01-09**	**GS-DMSR: Dynamic Sensitive Multi-scale Manifold Enhancement for Accelerated High-Quality 3D Gaussian Splatting**	Nengbo Lu et.al. et.al.	[2601.05584](2601.05584)	null
 **2026-01-09**	**Orient Anything V2: Unifying Orientation and Rotation Understanding**	Zehan Wang et.al. et.al.	[2601.05573](2601.05573)	null
 **2026-01-09**	**GaussianSwap: Animatable Video Face Swapping with 3D Gaussian Splatting**	Xuan Cheng et.al. et.al.	[2601.05511](2601.05511)	null
-<details><summary>Show 3418 more papers...</summary>
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 **2026-01-09**	**TOSC: Task-Oriented Shape Completion for Open-World Dexterous Grasp Generation from Partial Point Clouds**	Weishang Wu et.al. et.al.	[2601.05499](2601.05499)	null
 **2026-01-12**	**Sketch&Patch++: Efficient Structure-Aware 3D Gaussian Representation**	Yuang Shi et.al. et.al.	[2601.05394](2601.05394)	null
 **2026-01-08**	**MOSAIC-GS: Monocular Scene Reconstruction via Advanced Initialization for Complex Dynamic Environments**	Svitlana Morkva et.al. et.al.	[2601.05368](2601.05368)	null
@@ -3543,61 +3558,109 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-**2026-01-15**	**Alterbute: Editing Intrinsic Attributes of Objects in Images**	Tal Reiss et.al. et.al.	[2601.10714](2601.10714)	null
-**2026-01-15**	**High-accuracy and dimension-free sampling with diffusions**	Khashayar Gatmiry et.al. et.al.	[2601.10708](2601.10708)	null
-**2026-01-15**	**CoMoVi: Co-Generation of 3D Human Motions and Realistic Videos**	Chengfeng Zhao et.al. et.al.	[2601.10632](2601.10632)	null
-**2026-01-15**	**Comparison of viscosity solutions for a class of non-linear PDEs on the space of finite nonnegative measures**	Ibrahim Ekren et.al. et.al.	[2601.10586](2601.10586)	null
-**2026-01-15**	**Hydrodynamic Limit with a Weierstrass-type result**	Gabriel S. Nahum et.al. et.al.	[2601.10568](2601.10568)	null
-**2026-01-15**	**Inference-time Physics Alignment of Video Generative Models with Latent World Models**	Jianhao Yuan et.al. et.al.	[2601.10553](2601.10553)	null
-**2026-01-15**	**HeartMuLa: A Family of Open Sourced Music Foundation Models**	Dongchao Yang et.al. et.al.	[2601.10547](2601.10547)	null
-**2026-01-15**	**Smoothness of martingale observables and generalized Feynman-Kac formulas**	Alex Karrila et.al. et.al.	[2601.10539](2601.10539)	null
-**2026-01-15**	**A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Doubao 1.8, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5**	Xingjun Ma et.al. et.al.	[2601.10527](2601.10527)	null
-**2026-01-15**	**Mesh Denoising**	Constantin Vaillant Tenzer et.al. et.al.	[2601.10487](2601.10487)	null
-**2026-01-15**	**Optimal error estimates for a discontinuous Galerkin method on curved boundaries with polygonal meshes**	Adérito Araújo et.al. et.al.	[2601.10474](2601.10474)	null
-**2026-01-15**	**Analysis and Experimental Demonstration of Amplitude Amplification for Combinatorial Optimization**	Daniel Koch et.al. et.al.	[2601.10473](2601.10473)	null
-**2026-01-15**	**Chasing Opportunity: Spillovers and Drivers of U.S. State Population Growth**	Sebastian Kripfganz et.al. et.al.	[2601.10444](2601.10444)	null
-**2026-01-15**	**Discrete Feynman-Kac Correctors**	Mohsin Hasan et.al. et.al.	[2601.10403](2601.10403)	null
-**2026-01-15**	**Towards Efficient Low-rate Image Compression with Frequency-aware Diffusion Prior Refinement**	Yichong Xia et.al. et.al.	[2601.10373](2601.10373)	null
-**2026-01-15**	**Self-supervised restoration of singing voice degraded by pitch shifting using shallow diffusion**	Yunyi Liu et.al. et.al.	[2601.10345](2601.10345)	null
-**2026-01-15**	**Computer Generation of Disordered Networks with Targeted Structural Properties**	Florin Hemmann et.al. et.al.	[2601.10333](2601.10333)	null
-**2026-01-15**	**Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders**	Siqi Kou et.al. et.al.	[2601.10332](2601.10332)	null
-**2026-01-15**	**On gradient stability in nonlinear PDE models and inference in interacting particle systems**	Aurélien Castre et.al. et.al.	[2601.10326](2601.10326)	null
-**2026-01-15**	**ROMA: Real-time Omni-Multimodal Assistant with Interactive Streaming Understanding**	Xueyun Tian et.al. et.al.	[2601.10323](2601.10323)	null
-**2026-01-15**	**Quantum Monte Carlo study of systems interacting via long-range interactions mediated by a cavity**	Marta Domínguez-Navarro et.al. et.al.	[2601.10301](2601.10301)	null
-**2026-01-15**	**Attend to what I say: Highlighting relevant content on slides**	Megha Mariam K M et.al. et.al.	[2601.10244](2601.10244)	null
-**2026-01-15**	**Beyond Inpainting: Unleash 3D Understanding for Precise Camera-Controlled Video Generation**	Dong-Yu Chen et.al. et.al.	[2601.10214](2601.10214)	null
-**2026-01-15**	**BeamCKMDiff: Beam-Aware Channel Knowledge Map Construction via Diffusion Transformer**	Le Zhao et.al. et.al.	[2601.10207](2601.10207)	null
-**2026-01-15**	**ELITE: Efficient Gaussian Head Avatar from a Monocular Video via Learned Initialization and TEst-time Generative Adaptation**	Kim Youwang et.al. et.al.	[2601.10200](2601.10200)	null
-**2026-01-15**	**Characteristics of drift effects in the quasi-geostrophic equation arising from nonlinear symmetry**	Masakazu Yamamoto et.al. et.al.	[2601.10185](2601.10185)	null
-**2026-01-15**	**Effect of hole pitch reduction on electron transport and diffusion: A comparative simulation study of Triple GEM detectors**	Rajiv Gupta et.al. et.al.	[2601.10139](2601.10139)	null
-**2026-01-15**	**A volume penalization method for solving conjugate scalar transport with interfacial jump conditions**	Ming Liu et.al. et.al.	[2601.10134](2601.10134)	null
-**2026-01-15**	**FlowAct-R1: Towards Interactive Humanoid Video Generation**	Lizhen Wang et.al. et.al.	[2601.10103](2601.10103)	null
-**2026-01-15**	**Using rapid rotators as tracers of multiplicity statistics as a function of stellar density**	Priyanka Cingirikonda et.al. et.al.	[2601.10099](2601.10099)	null
-**2026-01-15**	**Multilingual-To-Multimodal (M2M): Unlocking New Languages with Monolingual Text**	Piyush Singh Pasi et.al. et.al.	[2601.10096](2601.10096)	null
-**2026-01-15**	**Sharp propagation of chaos in Rényi divergence**	Matthew S. Zhang et.al. et.al.	[2601.10076](2601.10076)	null
-**2026-01-15**	**CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation**	Chengzhuo Tong et.al. et.al.	[2601.10061](2601.10061)	null
-**2026-01-15**	**Disentangled Concept Representation for Text-to-image Person Re-identification**	Giyeol Kim et.al. et.al.	[2601.10053](2601.10053)	null
-**2026-01-15**	**Resistive Memory based Efficient Machine Unlearning and Continual Learning**	Ning Lin et.al. et.al.	[2601.10037](2601.10037)	null
-**2026-01-15**	**Rotational Memory Function of SPC/E water**	Dilipkumar N. Asthagiri et.al. et.al.	[2601.10022](2601.10022)	null
-**2026-01-15**	**A Control Theoretic Approach to Decentralized AI Economy Stabilization via Dynamic Buyback-and-Burn Mechanisms**	Zehua Cheng et.al. et.al.	[2601.09961](2601.09961)	null
-**2026-01-14**	**Diffusion-based Frameworks for Unsupervised Speech Enhancement**	Jean-Eudes Ayilo et.al. et.al.	[2601.09931](2601.09931)	null
-**2026-01-14**	**A model for water transport in the membrane and an impedance spectroscopy study of the effect of relative humidity on PEM fuel cell parameters**	Andrei Kulikovsky et.al. et.al.	[2601.09915](2601.09915)	null
-**2026-01-14**	**It Takes Two to Make a Thing Go Right: Boosting Current in Coupled Motors**	Geyao Gu et.al. et.al.	[2601.09907](2601.09907)	null
-**2026-01-14**	**The Algorithmic Gaze: An Audit and Ethnography of the LAION-Aesthetics Predictor Model**	Jordan Taylor et.al. et.al.	[2601.09896](2601.09896)	null
-**2026-01-14**	**Multiple Andreev Reflection Effects in Asymmetric STM Josephson Junctions**	Wan-Ting Liao et.al. et.al.	[2601.09889](2601.09889)	null
-**2026-01-14**	**Learning about Treatment Effects with Prior Studies: A Bayesian Model Averaging Approach**	Frederico Finan et.al. et.al.	[2601.09888](2601.09888)	null
-**2026-01-14**	**An efficient probabilistic scheme for the exit time probability of $α$ -stable Lévy process**	Minglei Yang et.al. et.al.	[2601.09882](2601.09882)	null
-**2026-01-14**	**Transition Matching Distillation for Fast Video Generation**	Weili Nie et.al. et.al.	[2601.09881](2601.09881)	null
-**2026-01-14**	**Development of a glow-discharge ion-trap instrument for measuring effective radiative-association rate coefficients**	Darya Kisuryna et.al. et.al.	[2601.09862](2601.09862)	null
-**2026-01-14**	**Barrier-crossing and energy relaxation dynamics of non-Markovian inertial systems connected via analytical Green-Fokker-Planck approach**	Roland R. Netz et.al. et.al.	[2601.09861](2601.09861)	null
-**2026-01-14**	**ViSIL: Unified Evaluation of Information Loss in Multimodal Video Captioning**	Po-han Li et.al. et.al.	[2601.09851](2601.09851)	null
-**2026-01-14**	**Wavefront Engineering for Scintillation-Based Imaging**	Joshua Chen et.al. et.al.	[2601.09830](2601.09830)	null
-**2026-01-14**	**NanoSD: Edge Efficient Foundation Model for Real Time Image Restoration**	Subhajit Sanyal et.al. et.al.	[2601.09823](2601.09823)	null
-**2026-01-14**	**Diffusion-Driven Deceptive Patches: Adversarial Manipulation and Forensic Detection in Facial Identity Verification**	Shahrzad Sayyafzadeh et.al. et.al.	[2601.09806](2601.09806)	null
-**2026-01-14**	**The Cosmic Neutrino Background is within Reach of Future Neutrino Telescopes**	Gonzalo Herrera et.al. et.al.	[2601.09790](2601.09790)	null
-**2026-01-14**	**TimeSAE: Sparse Decoding for Faithful Explanations of Black-Box Time Series Models**	Khalid Oublal et.al. et.al.	[2601.09776](2601.09776)	null
-**2026-01-14**	**Evaluating GAN-LSTM for Smart Meter Anomaly Detection in Power Systems**	Fahimeh Orvati Nia et.al. et.al.	[2601.09701](2601.09701)	null
-**2026-01-14**	**Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering**	Jieying Chen et.al. et.al.	[2601.09697](2601.09697)	null
+**2026-01-16**	**UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation**	Ruiheng Zhang et.al.	[2601.11522](http://arxiv.org/pdf/2601.11522.pdf)	null
+**2026-01-16**	**Halide diffusion in mixed-halide perovskites and heterojunctions**	Viren Tyagi et.al.	[2601.11503](http://arxiv.org/pdf/2601.11503.pdf)	null
+**2026-01-16**	**When Are Two Scores Better Than One? Investigating Ensembles of Diffusion Models**	Raphaël Razafindralambo et.al.	[2601.11444](http://arxiv.org/pdf/2601.11444.pdf)	null
+**2026-01-16**	**GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance**	Francisco Giral et.al.	[2601.11440](http://arxiv.org/pdf/2601.11440.pdf)	null
+**2026-01-16**	**An Epidemiological Modeling Take on Religion Dynamics**	Bilge Taskin et.al.	[2601.11436](http://arxiv.org/pdf/2601.11436.pdf)	null
+**2026-01-16**	**Stein's method for the matrix normal distribution**	Robert E. Gaunt et.al.	[2601.11422](http://arxiv.org/pdf/2601.11422.pdf)	null
+**2026-01-16**	**Solving the Fisher nonlinear differential equations via Physics-Informed Neural Networks: A Comprehensive Retraining Study and Comparative Analysis with the Finite Difference Method**	Ahmed Aberqi et.al.	[2601.11406](http://arxiv.org/pdf/2601.11406.pdf)	null
+**2026-01-16**	**Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning**	Ahmed Rashwan et.al.	[2601.11401](http://arxiv.org/pdf/2601.11401.pdf)	null
+**2026-01-16**	**Optimal Abatement Schedules for Excess Carbon Emissions Towards a Net-Zero Target**	Hansjoerg Albrecher et.al.	[2601.11348](http://arxiv.org/pdf/2601.11348.pdf)	null
+**2026-01-16**	**Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models**	Chuanyue Yu et.al.	[2601.11342](http://arxiv.org/pdf/2601.11342.pdf)	null
+**2026-01-16**	**Walk based Laplacians for Modeling Diffusion on Complex Networks**	Francesca Arrigo et.al.	[2601.11338](http://arxiv.org/pdf/2601.11338.pdf)	null
+**2026-01-16**	**Extragalactic planetary nebulae -- tracers of kinematics and stellar populations out to 100 Mpc**	Johanna Hartke et.al.	[2601.11324](http://arxiv.org/pdf/2601.11324.pdf)	null
+**2026-01-16**	**Non-equilibrium geometric forces steer spiral waves on folded surfaces**	Varun Venkatesh et.al.	[2601.11321](http://arxiv.org/pdf/2601.11321.pdf)	null
+**2026-01-16**	**Controlled epitaxy of room-temperature quantum emitters in gallium nitride**	Katie M. Eggleton et.al.	[2601.11309](http://arxiv.org/pdf/2601.11309.pdf)	null
+**2026-01-16**	**Controlled Interacting Branching Diffusion Processes: A Viscosity Approach**	Antonio Ocello et.al.	[2601.11294](http://arxiv.org/pdf/2601.11294.pdf)	null
+**2026-01-16**	**X-Distill: Cross-Architecture Vision Distillation for Visuomotor Learning**	Maanping Shao et.al.	[2601.11269](http://arxiv.org/pdf/2601.11269.pdf)	null
+**2026-01-16**	**Skill-Aware Diffusion for Generalizable Robotic Manipulation**	Aoshen Huang et.al.	[2601.11266](http://arxiv.org/pdf/2601.11266.pdf)	null
+**2026-01-16**	**Image-Text Knowledge Modeling for Unsupervised Multi-Scenario Person Re-Identification**	Zhiqi Pang et.al.	[2601.11243](http://arxiv.org/pdf/2601.11243.pdf)	null
+**2026-01-16**	**Ergodic pairs for fractional Hamilton-Jacobi equations on bounded domains: large solutions**	Alexander Quaas et.al.	[2601.11241](http://arxiv.org/pdf/2601.11241.pdf)	null
+**2026-01-16**	**T $^\star$ : Progressive Block Scaling for MDM Through Trajectory Aware RL**	Hanchen Xia et.al.	[2601.11214](http://arxiv.org/pdf/2601.11214.pdf)	null
+**2026-01-16**	**VidLeaks: Membership Inference Attacks Against Text-to-Video Models**	Li Wang et.al.	[2601.11210](http://arxiv.org/pdf/2601.11210.pdf)	null
+**2026-01-16**	**DFT modelling of stacking faults in hexagonal and cubic GaN**	Zijie Wang et.al.	[2601.11206](http://arxiv.org/pdf/2601.11206.pdf)	null
+**2026-01-16**	**Little Red Dots as Hidden Neutrino Sources**	Riku Kuze et.al.	[2601.11203](http://arxiv.org/pdf/2601.11203.pdf)	null
+**2026-01-16**	**ATATA: One Algorithm to Align Them All**	Boyi Pang et.al.	[2601.11194](http://arxiv.org/pdf/2601.11194.pdf)	null
+**2026-01-16**	**Mesoscale Modelling of Confined Split-Hopkinson Pressure Bar Tests on Concrete: Effects of Internal Damage and Strain Rates**	Qingchen Liu et.al.	[2601.11176](http://arxiv.org/pdf/2601.11176.pdf)	null
+**2026-01-16**	**An efficient solver based on low-rank approximation and Neumann matrix series for unsteady diffusion-type partial differential equations with random coefficients**	Yujun Zhu et.al.	[2601.11152](http://arxiv.org/pdf/2601.11152.pdf)	null
+**2026-01-16**	**Simple Models, Rich Representations: Visual Decoding from Primate Intracortical Neural Signals**	Matteo Ciferri et.al.	[2601.11108](http://arxiv.org/pdf/2601.11108.pdf)	null
+**2026-01-16**	**ALMA Polarization Study of the Magnetic Fields in Two Massive Clumps in the 20 km s $^{-1}$ Cloud of the Central Molecular Zone**	Yuhua Liu et.al.	[2601.11098](http://arxiv.org/pdf/2601.11098.pdf)	null
+**2026-01-16**	**PhysRVG: Physics-Aware Unified Reinforcement Learning for Video Generative Models**	Qiyuan Zhang et.al.	[2601.11087](http://arxiv.org/pdf/2601.11087.pdf)	null
+**2026-01-16**	**Generation of Chest CT pulmonary Nodule Images by Latent Diffusion Models using the LIDC-IDRI Dataset**	Kaito Urata et.al.	[2601.11085](http://arxiv.org/pdf/2601.11085.pdf)	null
+**2026-01-16**	**Investigating Pulsar Wind Nebula DA 495: Insights from LHAASO and Multi-Wavelength Observations**	The LHAASO Collaboration et.al.	[2601.11071](http://arxiv.org/pdf/2601.11071.pdf)	null
+**2026-01-16**	**M3DDM+: An improved video outpainting by a modified masking strategy**	Takuya Murakawa et.al.	[2601.11048](http://arxiv.org/pdf/2601.11048.pdf)	null
+**2026-01-16**	**SonicBench: Dissecting the Physical Perception Bottleneck in Large Audio Language Models**	Yirong Sun et.al.	[2601.11039](http://arxiv.org/pdf/2601.11039.pdf)	null
+**2026-01-16**	**Implicit Nucleation and Competitive Dynamics of Electrogenerated Hydrogen Nanobubbles**	Nima Shakourifar et.al.	[2601.11034](http://arxiv.org/pdf/2601.11034.pdf)	null
+**2026-01-16**	**The Optimal Control Problem of Stochastic Differential System with Extended Mixed Delays and Applications**	Xinpo Li et.al.	[2601.10990](http://arxiv.org/pdf/2601.10990.pdf)	null
+**2026-01-16**	**How To Use Thermal Dust Continuum Emission To Measure The Physical Properties Of Dusty Astrophysical Objects**	Yancy L. Shirley et.al.	[2601.10989](http://arxiv.org/pdf/2601.10989.pdf)	null
+**2026-01-16**	**A model order reduction based adaptive parareal method for time-dependent partial differential equations**	Xiaoying Dai et.al.	[2601.10981](http://arxiv.org/pdf/2601.10981.pdf)	null
+**2026-01-16**	**A Non-compact Positivity-Preserving Scheme for Parabolic PDE via Conditional Expectation**	Haoran Xu et.al.	[2601.10977](http://arxiv.org/pdf/2601.10977.pdf)	null
+**2026-01-16**	**Steering Language Models Before They Speak: Logit-Level Interventions**	Hyeseon An et.al.	[2601.10960](http://arxiv.org/pdf/2601.10960.pdf)	null
+**2026-01-16**	**Are Universal Potentials Ready for Alkali-Ion Battery Kinetics?**	Xingyu Guo et.al.	[2601.10938](http://arxiv.org/pdf/2601.10938.pdf)	null
+**2026-01-16**	**Self-learned representation-guided latent diffusion model for breast cancer classification in deep ultraviolet whole surface images**	Pouya Afshin et.al.	[2601.10917](http://arxiv.org/pdf/2601.10917.pdf)	null
+**2026-01-15**	**Realistic Curriculum Reinforcement Learning for Autonomous and Sustainable Marine Vessel Navigation**	Zhang Xiaocai et.al.	[2601.10911](http://arxiv.org/pdf/2601.10911.pdf)	null
+**2026-01-15**	**FrankenMotion: Part-level Human Motion Generation and Composition**	Chuqiao Li et.al.	[2601.10909](http://arxiv.org/pdf/2601.10909.pdf)	null
+**2026-01-15**	**Is open robotics innovation a threat to international peace and security?**	Ludovic Righetti et.al.	[2601.10877](http://arxiv.org/pdf/2601.10877.pdf)	null
+**2026-01-15**	**Future Optical Flow Prediction Improves Robot Control & Video Generation**	Kanchana Ranasinghe et.al.	[2601.10781](http://arxiv.org/pdf/2601.10781.pdf)	null
+**2026-01-15**	**Alterbute: Editing Intrinsic Attributes of Objects in Images**	Tal Reiss et.al.	[2601.10714](http://arxiv.org/pdf/2601.10714.pdf)	null
+**2026-01-15**	**High-accuracy and dimension-free sampling with diffusions**	Khashayar Gatmiry et.al.	[2601.10708](http://arxiv.org/pdf/2601.10708.pdf)	null
+**2026-01-15**	**CoMoVi: Co-Generation of 3D Human Motions and Realistic Videos**	Chengfeng Zhao et.al.	[2601.10632](http://arxiv.org/pdf/2601.10632.pdf)	null
+**2026-01-15**	**Comparison of viscosity solutions for a class of non-linear PDEs on the space of finite nonnegative measures**	Ibrahim Ekren et.al.	[2601.10586](http://arxiv.org/pdf/2601.10586.pdf)	null
+**2026-01-15**	**Hydrodynamic Limit with a Weierstrass-type result**	Gabriel S. Nahum et.al.	[2601.10568](http://arxiv.org/pdf/2601.10568.pdf)	null
+**2026-01-15**	**Inference-time Physics Alignment of Video Generative Models with Latent World Models**	Jianhao Yuan et.al.	[2601.10553](http://arxiv.org/pdf/2601.10553.pdf)	null
+**2026-01-15**	**HeartMuLa: A Family of Open Sourced Music Foundation Models**	Dongchao Yang et.al.	[2601.10547](http://arxiv.org/pdf/2601.10547.pdf)	null
+**2026-01-15**	**Smoothness of martingale observables and generalized Feynman-Kac formulas**	Alex Karrila et.al.	[2601.10539](http://arxiv.org/pdf/2601.10539.pdf)	null
+**2026-01-16**	**A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5**	Xingjun Ma et.al.	[2601.10527](http://arxiv.org/pdf/2601.10527.pdf)	null
+**2026-01-15**	**Mesh Denoising**	Constantin Vaillant Tenzer et.al.	[2601.10487](http://arxiv.org/pdf/2601.10487.pdf)	null
+**2026-01-15**	**Optimal error estimates for a discontinuous Galerkin method on curved boundaries with polygonal meshes**	Adérito Araújo et.al.	[2601.10474](http://arxiv.org/pdf/2601.10474.pdf)	null
+**2026-01-15**	**Analysis and Experimental Demonstration of Amplitude Amplification for Combinatorial Optimization**	Daniel Koch et.al.	[2601.10473](http://arxiv.org/pdf/2601.10473.pdf)	null
+**2026-01-15**	**Chasing Opportunity: Spillovers and Drivers of U.S. State Population Growth**	Sebastian Kripfganz et.al.	[2601.10444](http://arxiv.org/pdf/2601.10444.pdf)	null
+**2026-01-15**	**Discrete Feynman-Kac Correctors**	Mohsin Hasan et.al.	[2601.10403](http://arxiv.org/pdf/2601.10403.pdf)	null
+**2026-01-15**	**Towards Efficient Low-rate Image Compression with Frequency-aware Diffusion Prior Refinement**	Yichong Xia et.al.	[2601.10373](http://arxiv.org/pdf/2601.10373.pdf)	null
+**2026-01-15**	**Self-supervised restoration of singing voice degraded by pitch shifting using shallow diffusion**	Yunyi Liu et.al.	[2601.10345](http://arxiv.org/pdf/2601.10345.pdf)	null
+**2026-01-15**	**Computer Generation of Disordered Networks with Targeted Structural Properties**	Florin Hemmann et.al.	[2601.10333](http://arxiv.org/pdf/2601.10333.pdf)	null
+**2026-01-15**	**Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders**	Siqi Kou et.al.	[2601.10332](http://arxiv.org/pdf/2601.10332.pdf)	null
+**2026-01-15**	**On gradient stability in nonlinear PDE models and inference in interacting particle systems**	Aurélien Castre et.al.	[2601.10326](http://arxiv.org/pdf/2601.10326.pdf)	null
+**2026-01-15**	**ROMA: Real-time Omni-Multimodal Assistant with Interactive Streaming Understanding**	Xueyun Tian et.al.	[2601.10323](http://arxiv.org/pdf/2601.10323.pdf)	null
+**2026-01-15**	**Quantum Monte Carlo study of systems interacting via long-range interactions mediated by a cavity**	Marta Domínguez-Navarro et.al.	[2601.10301](http://arxiv.org/pdf/2601.10301.pdf)	null
+**2026-01-15**	**Attend to what I say: Highlighting relevant content on slides**	Megha Mariam K M et.al.	[2601.10244](http://arxiv.org/pdf/2601.10244.pdf)	null
+**2026-01-15**	**Beyond Inpainting: Unleash 3D Understanding for Precise Camera-Controlled Video Generation**	Dong-Yu Chen et.al.	[2601.10214](http://arxiv.org/pdf/2601.10214.pdf)	null
+**2026-01-15**	**BeamCKMDiff: Beam-Aware Channel Knowledge Map Construction via Diffusion Transformer**	Le Zhao et.al.	[2601.10207](http://arxiv.org/pdf/2601.10207.pdf)	null
+**2026-01-15**	**ELITE: Efficient Gaussian Head Avatar from a Monocular Video via Learned Initialization and TEst-time Generative Adaptation**	Kim Youwang et.al.	[2601.10200](http://arxiv.org/pdf/2601.10200.pdf)	null
+**2026-01-15**	**Characteristics of drift effects in the quasi-geostrophic equation arising from nonlinear symmetry**	Masakazu Yamamoto et.al.	[2601.10185](http://arxiv.org/pdf/2601.10185.pdf)	null
+**2026-01-15**	**Effect of hole pitch reduction on electron transport and diffusion: A comparative simulation study of Triple GEM detectors**	Rajiv Gupta et.al.	[2601.10139](http://arxiv.org/pdf/2601.10139.pdf)	null
+**2026-01-15**	**A volume penalization method for solving conjugate scalar transport with interfacial jump conditions**	Ming Liu et.al.	[2601.10134](http://arxiv.org/pdf/2601.10134.pdf)	null
+**2026-01-15**	**FlowAct-R1: Towards Interactive Humanoid Video Generation**	Lizhen Wang et.al.	[2601.10103](http://arxiv.org/pdf/2601.10103.pdf)	null
+**2026-01-15**	**Using rapid rotators as tracers of multiplicity statistics as a function of stellar density**	Priyanka Cingirikonda et.al.	[2601.10099](http://arxiv.org/pdf/2601.10099.pdf)	null
+**2026-01-15**	**Multilingual-To-Multimodal (M2M): Unlocking New Languages with Monolingual Text**	Piyush Singh Pasi et.al.	[2601.10096](http://arxiv.org/pdf/2601.10096.pdf)	null
+**2026-01-15**	**Sharp propagation of chaos in Rényi divergence**	Matthew S. Zhang et.al.	[2601.10076](http://arxiv.org/pdf/2601.10076.pdf)	null
+**2026-01-15**	**CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation**	Chengzhuo Tong et.al.	[2601.10061](http://arxiv.org/pdf/2601.10061.pdf)	null
+**2026-01-15**	**Disentangled Concept Representation for Text-to-image Person Re-identification**	Giyeol Kim et.al.	[2601.10053](http://arxiv.org/pdf/2601.10053.pdf)	null
+**2026-01-15**	**Resistive Memory based Efficient Machine Unlearning and Continual Learning**	Ning Lin et.al.	[2601.10037](http://arxiv.org/pdf/2601.10037.pdf)	null
+**2026-01-15**	**Rotational Memory Function of SPC/E water**	Dilipkumar N. Asthagiri et.al.	[2601.10022](http://arxiv.org/pdf/2601.10022.pdf)	null
+**2026-01-15**	**A Control Theoretic Approach to Decentralized AI Economy Stabilization via Dynamic Buyback-and-Burn Mechanisms**	Zehua Cheng et.al.	[2601.09961](http://arxiv.org/pdf/2601.09961.pdf)	null
+**2026-01-14**	**Diffusion-based Frameworks for Unsupervised Speech Enhancement**	Jean-Eudes Ayilo et.al.	[2601.09931](http://arxiv.org/pdf/2601.09931.pdf)	null
+**2026-01-14**	**A model for water transport in the membrane and an impedance spectroscopy study of the effect of relative humidity on PEM fuel cell parameters**	Andrei Kulikovsky et.al.	[2601.09915](http://arxiv.org/pdf/2601.09915.pdf)	null
+**2026-01-14**	**It Takes Two to Make a Thing Go Right: Boosting Current in Coupled Motors**	Geyao Gu et.al.	[2601.09907](http://arxiv.org/pdf/2601.09907.pdf)	null
+**2026-01-14**	**The Algorithmic Gaze: An Audit and Ethnography of the LAION-Aesthetics Predictor Model**	Jordan Taylor et.al.	[2601.09896](http://arxiv.org/pdf/2601.09896.pdf)	null
+**2026-01-14**	**Multiple Andreev Reflection Effects in Asymmetric STM Josephson Junctions**	Wan-Ting Liao et.al.	[2601.09889](http://arxiv.org/pdf/2601.09889.pdf)	null
+**2026-01-14**	**Learning about Treatment Effects with Prior Studies: A Bayesian Model Averaging Approach**	Frederico Finan et.al.	[2601.09888](http://arxiv.org/pdf/2601.09888.pdf)	null
+**2026-01-14**	**An efficient probabilistic scheme for the exit time probability of $α$ -stable Lévy process**	Minglei Yang et.al.	[2601.09882](http://arxiv.org/pdf/2601.09882.pdf)	null
+**2026-01-14**	**Transition Matching Distillation for Fast Video Generation**	Weili Nie et.al.	[2601.09881](http://arxiv.org/pdf/2601.09881.pdf)	null
+**2026-01-14**	**Development of a glow-discharge ion-trap instrument for measuring effective radiative-association rate coefficients**	Darya Kisuryna et.al.	[2601.09862](http://arxiv.org/pdf/2601.09862.pdf)	null
+**2026-01-14**	**Barrier-crossing and energy relaxation dynamics of non-Markovian inertial systems connected via analytical Green-Fokker-Planck approach**	Roland R. Netz et.al.	[2601.09861](http://arxiv.org/pdf/2601.09861.pdf)	null
+**2026-01-14**	**ViSIL: Unified Evaluation of Information Loss in Multimodal Video Captioning**	Po-han Li et.al.	[2601.09851](http://arxiv.org/pdf/2601.09851.pdf)	null
+**2026-01-14**	**Wavefront Engineering for Scintillation-Based Imaging**	Joshua Chen et.al.	[2601.09830](http://arxiv.org/pdf/2601.09830.pdf)	null
+**2026-01-16**	**NanoSD: Edge Efficient Foundation Model for Real Time Image Restoration**	Subhajit Sanyal et.al.	[2601.09823](http://arxiv.org/pdf/2601.09823.pdf)	null
+**2026-01-14**	**Diffusion-Driven Deceptive Patches: Adversarial Manipulation and Forensic Detection in Facial Identity Verification**	Shahrzad Sayyafzadeh et.al.	[2601.09806](http://arxiv.org/pdf/2601.09806.pdf)	null
+**2026-01-14**	**The Cosmic Neutrino Background is within Reach of Future Neutrino Telescopes**	Gonzalo Herrera et.al.	[2601.09790](http://arxiv.org/pdf/2601.09790.pdf)	null
+**2026-01-14**	**TimeSAE: Sparse Decoding for Faithful Explanations of Black-Box Time Series Models**	Khalid Oublal et.al.	[2601.09776](http://arxiv.org/pdf/2601.09776.pdf)	null
+**2026-01-14**	**Evaluating GAN-LSTM for Smart Meter Anomaly Detection in Power Systems**	Fahimeh Orvati Nia et.al.	[2601.09701](http://arxiv.org/pdf/2601.09701.pdf)	null
+**2026-01-14**	**Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering**	Jieying Chen et.al.	[2601.09697](http://arxiv.org/pdf/2601.09697.pdf)	null
+<details><summary>Show 7577 more papers...</summary>
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 **2026-01-14**	**Explaining oscillatory behavior in convection-diffusion discretization**	Constantin Bacuta et.al. et.al.	[2601.09657](2601.09657)	null
 **2026-01-14**	**Identifying Models Behind Text-to-Image Leaderboards**	Ali Naseh et.al. et.al.	[2601.09647](2601.09647)	null
 **2026-01-14**	**Long-Term Average Impulse and Singular Control of a Growth Model with Two Revenue Sources**	K. L. Helmes et.al. et.al.	[2601.09646](2601.09646)	null
@@ -3643,9 +3706,6 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 **2026-01-13**	**Evidence of sloshing-driven mini-halo formation in the cool-core cluster RXCJ1558.3-1410**	Vishal S. Kale et.al. et.al.	[2601.08757](2601.08757)	null
 **2026-01-13**	**Spatial Context Improves the Integration of Text with Remote Sensing for Mapping Environmental Variables**	Valerie Zermatten et.al. et.al.	[2601.08750](2601.08750)	null
 **2026-01-13**	**Stochastic search with space-dependent diffusivity**	Hwai-Ray Tung et.al. et.al.	[2601.08740](2601.08740)	null
-<details><summary>Show 7532 more papers...</summary>
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 **2026-01-13**	**ISLA: A U-Net for MRI-based acute ischemic stroke lesion segmentation with deep supervision, attention, domain adaptation, and ensemble learning**	Vincent Roca et.al. et.al.	[2601.08732](2601.08732)	null
 **2026-01-13**	**Superadditivity of Krylov Complexity for Tensor Products**	Jeff Murugan et.al. et.al.	[2601.08723](2601.08723)	null
 **2026-01-13**	**Soft Partition-based KAPI-ELM for Multi-Scale PDEs**	Vikas Dwivedi et.al. et.al.	[2601.08719](2601.08719)	null
@@ -11184,111 +11244,112 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-**2026-01-15**	**Parallelizing the Variational Quantum Eigensolver: From JIT Compilation to Multi-GPU Scaling**	Rylan Malarchick et.al. et.al.	[2601.09951](2601.09951)	null
-**2026-01-14**	**SCE-SLAM: Scale-Consistent Monocular SLAM via Scene Coordinate Embeddings**	Yuchen Wu et.al. et.al.	[2601.09665](2601.09665)	null
-**2026-01-14**	**Private LLM Inference on Consumer Blackwell GPUs: A Practical Guide for Cost-Effective Local Deployment in SMEs**	Jonathan Knoop et.al. et.al.	[2601.09527](2601.09527)	null
-**2026-01-13**	**Comprehensive Machine Learning Benchmarking for Fringe Projection Profilometry with Photorealistic Synthetic Data**	Anush Lakshman S et.al. et.al.	[2601.08900](2601.08900)	null
-**2026-01-13**	**Motion Attribution for Video Generation**	Xindi Wu et.al. et.al.	[2601.08828](2601.08828)	null
-**2026-01-13**	**Memory DisOrder: Memory Re-orderings as a Timerless Side-channel**	Sean Siddens et.al. et.al.	[2601.08770](2601.08770)	null
-**2026-01-13**	**ZeroDVFS: Zero-Shot LLM-Guided Core and Frequency Allocation for Embedded Platforms**	Mohammad Pivezhandi et.al. et.al.	[2601.08166](2601.08166)	null
-**2026-01-12**	**Hierarchical Precision and Recursion for Accelerating Symmetric Linear Solves on MXUs**	Vicki Carrica et.al. et.al.	[2601.08082](2601.08082)	null
-**2026-01-14**	**Accelerating Density Fitting with Adaptive-precision and 8-bit Integer on AI Accelerators**	Hua Huang et.al. et.al.	[2601.08077](2601.08077)	null
-**2026-01-12**	**KVzap: Fast, Adaptive, and Faithful KV Cache Pruning**	Simon Jegou et.al. et.al.	[2601.07891](2601.07891)	null
-**2026-01-09**	**An Empirical Study on Knowledge Transfer under Domain and Label Shifts in 3D LiDAR Point Clouds**	Subeen Lee et.al. et.al.	[2601.07855](2601.07855)	null
-**2026-01-06**	**Edge-AI Perception Node for Cooperative Road-Safety Enforcement and Connected-Vehicle Integration**	Shree Charran R et.al. et.al.	[2601.07845](2601.07845)	null
-**2026-01-12**	**Peformance Isolation for Inference Processes in Edge GPU Systems**	Juan José Martín et.al. et.al.	[2601.07600](2601.07600)	null
-**2026-01-12**	**The Need for a Socially-Grounded Persona Framework for User Simulation**	Pranav Narayanan Venkit et.al. et.al.	[2601.07110](2601.07110)	null
-**2026-01-10**	**HiDVFS: A Hierarchical Multi-Agent DVFS Scheduler for OpenMP DAG Workloads**	Mohammad Pivezhandi et.al. et.al.	[2601.06425](2601.06425)	null
-**2026-01-10**	**ReAct: Reflection Attack Mitigation For Asymmetric Routing**	David Hay et.al. et.al.	[2601.06367](2601.06367)	null
-**2026-01-09**	**Federated Learning and Class Imbalances**	Siqi Zhu et.al. et.al.	[2601.06348](2601.06348)	null
-**2026-01-05**	**A Review of Online Diffusion Policy RL Algorithms for Scalable Robotic Control**	Wonhyeok Choi et.al. et.al.	[2601.06133](2601.06133)	null
-**2026-01-09**	**Categorical Foundations for CuTe Layouts**	Jack Carlisle et.al. et.al.	[2601.05972](2601.05972)	null
-**2026-01-09**	**EvoQRE: Modeling Bounded Rationality in Safety-Critical Traffic Simulation via Evolutionary Quantal Response Equilibrium**	Phu-Hoa Pham et.al. et.al.	[2601.05653](2601.05653)	null
-**2026-01-08**	**PRISM: Protocol Refinement through Intelligent Simulation Modeling**	Brian Hsu et.al. et.al.	[2601.05356](2601.05356)	null
-**2026-01-08**	**GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization**	Shih-Yang Liu et.al. et.al.	[2601.05242](2601.05242)	null
-**2026-01-08**	**Decentralized Privacy-Preserving Federal Learning of Computer Vision Models on Edge Devices**	Damian Harenčák et.al. et.al.	[2601.04912](2601.04912)	null
-**2026-01-07**	**Implementation of Tensor Network Simulation TN-Sim under NWQ-Sim**	Aaron C. Hoyt et.al. et.al.	[2601.04422](2601.04422)	null
-**2026-01-07**	**3D-Agent:Tri-Modal Multi-Agent Collaboration for Scalable 3D Object Annotation**	Jusheng Zhang et.al. et.al.	[2601.04404](2601.04404)	null
-**2026-01-06**	**Green MLOps: Closed-Loop, Energy-Aware Inference with NVIDIA Triton, FastAPI, and Bio-Inspired Thresholding**	Mustapha Hamdi et.al. et.al.	[2601.04250](2601.04250)	null
-**2026-01-07**	**Robust Physics Discovery from Highly Corrupted Data: A PINN Framework Applied to the Nonlinear Schrödinger Equation**	Pietro de Oliveira Esteves et.al. et.al.	[2601.04176](2601.04176)	null
-**2026-01-07**	**Iterative Matrix Product State Simulation for Scalable Grover's Algorithm**	Mei Ian Sam et.al. et.al.	[2601.03832](2601.03832)	null
-**2026-01-07**	**GPU-Accelerated Cholesky Factorization of Block Tridiagonal Matrices**	Roland Schwan et.al. et.al.	[2601.03754](2601.03754)	null
-**2026-01-06**	**FROST-Drive: Scalable and Efficient End-to-End Driving with a Frozen Vision Encoder**	Zeyu Dong et.al. et.al.	[2601.03460](2601.03460)	null
-**2026-01-05**	**Lightweight Transformer Architectures for Edge Devices in Real-Time Applications**	Hema Hariharan Samson et.al. et.al.	[2601.03290](2601.03290)	null
-**2026-01-06**	**Validating Generalist Robots with Situation Calculus and STL Falsification**	Changwen Li et.al. et.al.	[2601.03038](2601.03038)	null
-**2026-01-06**	**Reinforcement Learning for Follow-the-Leader Robotic Endoscopic Navigation via Synthetic Data**	Sicong Gao et.al. et.al.	[2601.02798](2601.02798)	null
-**2026-01-05**	**GPU-Accelerated Energy-Conserving Methods for the Hyperbolized Serre-Green-Naghdi Equations in 2D**	Collin Wittenstein et.al. et.al.	[2601.02540](2601.02540)	null
-**2026-01-05**	**Green LLM Techniques in Action: How Effective Are Existing Techniques for Improving the Energy Efficiency of LLM-Based Applications in Industry?**	Pelin Rabia Kuran et.al. et.al.	[2601.02512](2601.02512)	null
-**2026-01-05**	**VIBE: Visual Instruction Based Editor**	Grigorii Alekseenko et.al. et.al.	[2601.02242](2601.02242)	null
-**2026-01-04**	**VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data**	Snehal s. Dikhale et.al. et.al.	[2601.01675](2601.01675)	null
-**2026-01-03**	**Warp-Cortex: An Asynchronous, Memory-Efficient Architecture for Million-Agent Cognitive Scaling on Consumer Hardware**	Jorge L. Ruiz Williams et.al. et.al.	[2601.01298](2601.01298)	null
-**2026-01-03**	**Cross-Layer Attentive Feature Upsampling for Low-latency Semantic Segmentation**	Tianheng Cheng et.al. et.al.	[2601.01167](2601.01167)	null
-**2025-12-29**	**Temporal Attack Pattern Detection in Multi-Agent AI Workflows: An Open Framework for Training Trace-Based Security Models**	Ron F. Del Rosario et.al. et.al.	[2601.00848](2601.00848)	null
-**2026-01-02**	**Pixel-to-4D: Camera-Controlled Image-to-Video Generation with Dynamic 3D Gaussians**	Melonie de Almeida et.al. et.al.	[2601.00678](2601.00678)	null
-**2026-01-01**	**Efficient Prediction of Dense Visual Embeddings via Distillation and RGB-D Transformers**	Söhnke Benedikt Fischedick et.al. et.al.	[2601.00359](2601.00359)	null
-**2025-12-31**	**CTMap: LLM-Enabled Connectivity-Aware Path Planning in Millimeter-Wave Digital Twin Networks**	Md Salik Parwez et.al. et.al.	[2601.00110](2601.00110)	null
-**2025-12-31**	**Scalable Stellar Parameter Inference Using Python-based LASP: From CPU Optimization to GPU Acceleration**	Jun-Chao Liang et.al. et.al.	[2512.24840](2512.24840)	null
-**2025-12-31**	**FPGA Co-Design for Efficient N:M Sparse and Quantized Model Inference**	Fen-Yu Hsieh et.al. et.al.	[2512.24713](2512.24713)	null
-**2025-12-30**	**KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta**	Gang Liao et.al. et.al.	[2512.23236](2512.23236)	null
-**2025-12-29**	**GeoTeacher: Geometry-Guided Semi-Supervised 3D Object Detection**	Jingyu Li et.al. et.al.	[2512.23147](2512.23147)	null
-**2025-12-28**	**TYTAN: Taylor-series based Non-Linear Activation Engine for Deep Learning Accelerators**	Soham Pramanik et.al. et.al.	[2512.23062](2512.23062)	null
-**2025-12-28**	**Viability and Performance of a Private LLM Server for SMBs: A Benchmark Analysis of Qwen3-30B on Consumer-Grade Hardware**	Alex Khalil et.al. et.al.	[2512.23029](2512.23029)	null
-**2025-12-27**	**SCPainter: A Unified Framework for Realistic 3D Asset Insertion and Novel View Synthesis**	Paul Dobre et.al. et.al.	[2512.22706](2512.22706)	null
-**2025-12-27**	**Modality Inflation: Energy Characterization and Optimization Opportunities for MLLM Inference**	Mona Moghadampanah et.al. et.al.	[2512.22695](2512.22695)	null
-**2025-12-22**	**SPUMA: a minimally invasive approach to the GPU porting of OPENFOAM**	Simone Bnà et.al. et.al.	[2512.22215](2512.22215)	null
-**2025-12-15**	**GPU Kernel Optimization Beyond Full Builds: An LLM Framework with Minimal Executable Programs**	Ruifan Chu et.al. et.al.	[2512.22147](2512.22147)	null
-**2025-12-26**	**LIME:Accelerating Collaborative Lossless LLM Inference on Memory-Constrained Edge Devices**	Mingyu Sun et.al. et.al.	[2512.21835](2512.21835)	null
-**2025-12-25**	**GaDE -- GPU-acceleration of time-dependent Dirac Equation for exascale**	Johanne Elise Vembe et.al. et.al.	[2512.21697](2512.21697)	null
-**2026-01-07**	**NEMO-4-PAYPAL: Leveraging NVIDIA's Nemo Framework for empowering PayPal's Commerce Agent**	Sudhanshu Garg et.al. et.al.	[2512.21578](2512.21578)	null
-**2025-12-30**	**Mixed Precision General Alternating-Direction Implicit Method for Solving Large Sparse Linear Systems**	Jifeng Ge et.al. et.al.	[2512.21164](2512.21164)	null
-**2025-12-24**	**SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation**	Xiaoyu Mo et.al. et.al.	[2512.21133](2512.21133)	null
-**2025-12-24**	**Memory-Efficient Acceleration of Block Low-Rank Foundation Models on Resource Constrained GPUs**	Pierre Abillama et.al. et.al.	[2512.20861](2512.20861)	null
-**2025-12-24**	**NVIDIA Nemotron 3: Efficient and Open Intelligence**	NVIDIA et.al. et.al.	[2512.20856](2512.20856)	null
-**2025-12-23**	**Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning**	NVIDIA et.al. et.al.	[2512.20848](2512.20848)	null
-**2025-12-23**	**LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving**	Long Nguyen et.al. et.al.	[2512.20563](2512.20563)	null
-**2025-12-24**	**GeoTransolver: Learning Physics on Irregular Domains Using Multi-scale Geometry Aware Physics Attention Transformer**	Corey Adams et.al. et.al.	[2512.20399](2512.20399)	null
-**2025-12-23**	**LiteFusion: Taming 3D Object Detectors from Vision-Based to Multi-Modal with Minimal Adaptation**	Xiangxuan Ren et.al. et.al.	[2512.20217](2512.20217)	null
-**2025-12-23**	**Optimistic TEE-Rollups: A Hybrid Architecture for Scalable and Verifiable Generative AI Inference on Blockchain**	Aaron Chan et.al. et.al.	[2512.20176](2512.20176)	null
-**2025-12-22**	**UCCL-EP: Portable Expert-Parallel Communication**	Ziming Mao et.al. et.al.	[2512.19849](2512.19849)	null
-**2025-12-17**	**Exploring Deep-to-Shallow Transformable Neural Networks for Intelligent Embedded Systems**	Xiangzhong Luo et.al. et.al.	[2512.19731](2512.19731)	null
-**2025-12-17**	**Tiny, On-Device Decision Makers with the MiniConv Library**	Carlos Purves et.al. et.al.	[2512.19726](2512.19726)	null
-**2025-12-21**	**Commercial Vehicle Braking Optimization: A Robust SIFT-Trajectory Approach**	Zhe Li et.al. et.al.	[2512.18597](2512.18597)	null
-**2025-12-20**	**Systematic Benchmarking of SUMO Against Data-Driven Traffic Simulators**	Erdao Liang et.al. et.al.	[2512.18537](2512.18537)	null
-**2025-12-19**	**Optimal Software Pipelining and Warp Specialization for Tensor Core GPUs**	Rupanshu Soi et.al. et.al.	[2512.18134](2512.18134)	null
+**2026-01-15**	**A Unified 3D Object Perception Framework for Real-Time Outside-In Multi-Camera Systems**	Yizhou Wang et.al.	[2601.10819](http://arxiv.org/pdf/2601.10819.pdf)	null
+**2026-01-15**	**Parallelizing the Variational Quantum Eigensolver: From JIT Compilation to Multi-GPU Scaling**	Rylan Malarchick et.al.	[2601.09951](http://arxiv.org/pdf/2601.09951.pdf)	null
+**2026-01-14**	**SCE-SLAM: Scale-Consistent Monocular SLAM via Scene Coordinate Embeddings**	Yuchen Wu et.al.	[2601.09665](http://arxiv.org/pdf/2601.09665.pdf)	null
+**2026-01-14**	**Private LLM Inference on Consumer Blackwell GPUs: A Practical Guide for Cost-Effective Local Deployment in SMEs**	Jonathan Knoop et.al.	[2601.09527](http://arxiv.org/pdf/2601.09527.pdf)	null
+**2026-01-13**	**Comprehensive Machine Learning Benchmarking for Fringe Projection Profilometry with Photorealistic Synthetic Data**	Anush Lakshman S et.al.	[2601.08900](http://arxiv.org/pdf/2601.08900.pdf)	null
+**2026-01-13**	**Motion Attribution for Video Generation**	Xindi Wu et.al.	[2601.08828](http://arxiv.org/pdf/2601.08828.pdf)	null
+**2026-01-13**	**Memory DisOrder: Memory Re-orderings as a Timerless Side-channel**	Sean Siddens et.al.	[2601.08770](http://arxiv.org/pdf/2601.08770.pdf)	null
+**2026-01-13**	**ZeroDVFS: Zero-Shot LLM-Guided Core and Frequency Allocation for Embedded Platforms**	Mohammad Pivezhandi et.al.	[2601.08166](http://arxiv.org/pdf/2601.08166.pdf)	null
+**2026-01-12**	**Hierarchical Precision and Recursion for Accelerating Symmetric Linear Solves on MXUs**	Vicki Carrica et.al.	[2601.08082](http://arxiv.org/pdf/2601.08082.pdf)	null
+**2026-01-14**	**Accelerating Density Fitting with Adaptive-precision and 8-bit Integer on AI Accelerators**	Hua Huang et.al.	[2601.08077](http://arxiv.org/pdf/2601.08077.pdf)	null
+**2026-01-12**	**KVzap: Fast, Adaptive, and Faithful KV Cache Pruning**	Simon Jegou et.al.	[2601.07891](http://arxiv.org/pdf/2601.07891.pdf)	null
+**2026-01-09**	**An Empirical Study on Knowledge Transfer under Domain and Label Shifts in 3D LiDAR Point Clouds**	Subeen Lee et.al.	[2601.07855](http://arxiv.org/pdf/2601.07855.pdf)	null
+**2026-01-06**	**Edge-AI Perception Node for Cooperative Road-Safety Enforcement and Connected-Vehicle Integration**	Shree Charran R et.al.	[2601.07845](http://arxiv.org/pdf/2601.07845.pdf)	null
+**2026-01-12**	**Peformance Isolation for Inference Processes in Edge GPU Systems**	Juan José Martín et.al.	[2601.07600](http://arxiv.org/pdf/2601.07600.pdf)	null
+**2026-01-12**	**The Need for a Socially-Grounded Persona Framework for User Simulation**	Pranav Narayanan Venkit et.al.	[2601.07110](http://arxiv.org/pdf/2601.07110.pdf)	null
+**2026-01-10**	**HiDVFS: A Hierarchical Multi-Agent DVFS Scheduler for OpenMP DAG Workloads**	Mohammad Pivezhandi et.al.	[2601.06425](http://arxiv.org/pdf/2601.06425.pdf)	null
+**2026-01-10**	**ReAct: Reflection Attack Mitigation For Asymmetric Routing**	David Hay et.al.	[2601.06367](http://arxiv.org/pdf/2601.06367.pdf)	null
+**2026-01-09**	**Federated Learning and Class Imbalances**	Siqi Zhu et.al.	[2601.06348](http://arxiv.org/pdf/2601.06348.pdf)	null
+**2026-01-05**	**A Review of Online Diffusion Policy RL Algorithms for Scalable Robotic Control**	Wonhyeok Choi et.al.	[2601.06133](http://arxiv.org/pdf/2601.06133.pdf)	null
+**2026-01-09**	**Categorical Foundations for CuTe Layouts**	Jack Carlisle et.al.	[2601.05972](http://arxiv.org/pdf/2601.05972.pdf)	null
+**2026-01-09**	**EvoQRE: Modeling Bounded Rationality in Safety-Critical Traffic Simulation via Evolutionary Quantal Response Equilibrium**	Phu-Hoa Pham et.al.	[2601.05653](http://arxiv.org/pdf/2601.05653.pdf)	null
+**2026-01-08**	**PRISM: Protocol Refinement through Intelligent Simulation Modeling**	Brian Hsu et.al.	[2601.05356](http://arxiv.org/pdf/2601.05356.pdf)	null
+**2026-01-08**	**GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization**	Shih-Yang Liu et.al.	[2601.05242](http://arxiv.org/pdf/2601.05242.pdf)	null
+**2026-01-08**	**Decentralized Privacy-Preserving Federal Learning of Computer Vision Models on Edge Devices**	Damian Harenčák et.al.	[2601.04912](http://arxiv.org/pdf/2601.04912.pdf)	null
+**2026-01-07**	**Implementation of Tensor Network Simulation TN-Sim under NWQ-Sim**	Aaron C. Hoyt et.al.	[2601.04422](http://arxiv.org/pdf/2601.04422.pdf)	null
+**2026-01-07**	**3D-Agent:Tri-Modal Multi-Agent Collaboration for Scalable 3D Object Annotation**	Jusheng Zhang et.al.	[2601.04404](http://arxiv.org/pdf/2601.04404.pdf)	null
+**2026-01-06**	**Green MLOps: Closed-Loop, Energy-Aware Inference with NVIDIA Triton, FastAPI, and Bio-Inspired Thresholding**	Mustapha Hamdi et.al.	[2601.04250](http://arxiv.org/pdf/2601.04250.pdf)	null
+**2026-01-07**	**Robust Physics Discovery from Highly Corrupted Data: A PINN Framework Applied to the Nonlinear Schrödinger Equation**	Pietro de Oliveira Esteves et.al.	[2601.04176](http://arxiv.org/pdf/2601.04176.pdf)	null
+**2026-01-07**	**Iterative Matrix Product State Simulation for Scalable Grover's Algorithm**	Mei Ian Sam et.al.	[2601.03832](http://arxiv.org/pdf/2601.03832.pdf)	null
+**2026-01-07**	**GPU-Accelerated Cholesky Factorization of Block Tridiagonal Matrices**	Roland Schwan et.al.	[2601.03754](http://arxiv.org/pdf/2601.03754.pdf)	null
+**2026-01-06**	**FROST-Drive: Scalable and Efficient End-to-End Driving with a Frozen Vision Encoder**	Zeyu Dong et.al.	[2601.03460](http://arxiv.org/pdf/2601.03460.pdf)	null
+**2026-01-05**	**Lightweight Transformer Architectures for Edge Devices in Real-Time Applications**	Hema Hariharan Samson et.al.	[2601.03290](http://arxiv.org/pdf/2601.03290.pdf)	null
+**2026-01-06**	**Validating Generalist Robots with Situation Calculus and STL Falsification**	Changwen Li et.al.	[2601.03038](http://arxiv.org/pdf/2601.03038.pdf)	null
+**2026-01-06**	**Reinforcement Learning for Follow-the-Leader Robotic Endoscopic Navigation via Synthetic Data**	Sicong Gao et.al.	[2601.02798](http://arxiv.org/pdf/2601.02798.pdf)	null
+**2026-01-05**	**GPU-Accelerated Energy-Conserving Methods for the Hyperbolized Serre-Green-Naghdi Equations in 2D**	Collin Wittenstein et.al.	[2601.02540](http://arxiv.org/pdf/2601.02540.pdf)	null
+**2026-01-05**	**Green LLM Techniques in Action: How Effective Are Existing Techniques for Improving the Energy Efficiency of LLM-Based Applications in Industry?**	Pelin Rabia Kuran et.al.	[2601.02512](http://arxiv.org/pdf/2601.02512.pdf)	null
+**2026-01-05**	**VIBE: Visual Instruction Based Editor**	Grigorii Alekseenko et.al.	[2601.02242](http://arxiv.org/pdf/2601.02242.pdf)	null
+**2026-01-04**	**VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data**	Snehal s. Dikhale et.al.	[2601.01675](http://arxiv.org/pdf/2601.01675.pdf)	null
+**2026-01-03**	**Warp-Cortex: An Asynchronous, Memory-Efficient Architecture for Million-Agent Cognitive Scaling on Consumer Hardware**	Jorge L. Ruiz Williams et.al.	[2601.01298](http://arxiv.org/pdf/2601.01298.pdf)	null
+**2026-01-03**	**Cross-Layer Attentive Feature Upsampling for Low-latency Semantic Segmentation**	Tianheng Cheng et.al.	[2601.01167](http://arxiv.org/pdf/2601.01167.pdf)	null
+**2025-12-29**	**Temporal Attack Pattern Detection in Multi-Agent AI Workflows: An Open Framework for Training Trace-Based Security Models**	Ron F. Del Rosario et.al.	[2601.00848](http://arxiv.org/pdf/2601.00848.pdf)	null
+**2026-01-02**	**Pixel-to-4D: Camera-Controlled Image-to-Video Generation with Dynamic 3D Gaussians**	Melonie de Almeida et.al.	[2601.00678](http://arxiv.org/pdf/2601.00678.pdf)	null
+**2026-01-01**	**Efficient Prediction of Dense Visual Embeddings via Distillation and RGB-D Transformers**	Söhnke Benedikt Fischedick et.al.	[2601.00359](http://arxiv.org/pdf/2601.00359.pdf)	null
+**2025-12-31**	**CTMap: LLM-Enabled Connectivity-Aware Path Planning in Millimeter-Wave Digital Twin Networks**	Md Salik Parwez et.al.	[2601.00110](http://arxiv.org/pdf/2601.00110.pdf)	null
+**2025-12-31**	**Scalable Stellar Parameter Inference Using Python-based LASP: From CPU Optimization to GPU Acceleration**	Jun-Chao Liang et.al.	[2512.24840](http://arxiv.org/pdf/2512.24840.pdf)	null
+**2025-12-31**	**FPGA Co-Design for Efficient N:M Sparse and Quantized Model Inference**	Fen-Yu Hsieh et.al.	[2512.24713](http://arxiv.org/pdf/2512.24713.pdf)	null
+**2025-12-30**	**KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta**	Gang Liao et.al.	[2512.23236](http://arxiv.org/pdf/2512.23236.pdf)	null
+**2025-12-29**	**GeoTeacher: Geometry-Guided Semi-Supervised 3D Object Detection**	Jingyu Li et.al.	[2512.23147](http://arxiv.org/pdf/2512.23147.pdf)	null
+**2025-12-28**	**TYTAN: Taylor-series based Non-Linear Activation Engine for Deep Learning Accelerators**	Soham Pramanik et.al.	[2512.23062](http://arxiv.org/pdf/2512.23062.pdf)	null
+**2025-12-28**	**Viability and Performance of a Private LLM Server for SMBs: A Benchmark Analysis of Qwen3-30B on Consumer-Grade Hardware**	Alex Khalil et.al.	[2512.23029](http://arxiv.org/pdf/2512.23029.pdf)	null
+**2025-12-27**	**SCPainter: A Unified Framework for Realistic 3D Asset Insertion and Novel View Synthesis**	Paul Dobre et.al.	[2512.22706](http://arxiv.org/pdf/2512.22706.pdf)	null
+**2025-12-27**	**Modality Inflation: Energy Characterization and Optimization Opportunities for MLLM Inference**	Mona Moghadampanah et.al.	[2512.22695](http://arxiv.org/pdf/2512.22695.pdf)	null
+**2025-12-22**	**SPUMA: a minimally invasive approach to the GPU porting of OPENFOAM**	Simone Bnà et.al.	[2512.22215](http://arxiv.org/pdf/2512.22215.pdf)	null
+**2025-12-15**	**GPU Kernel Optimization Beyond Full Builds: An LLM Framework with Minimal Executable Programs**	Ruifan Chu et.al.	[2512.22147](http://arxiv.org/pdf/2512.22147.pdf)	null
+**2025-12-26**	**LIME:Accelerating Collaborative Lossless LLM Inference on Memory-Constrained Edge Devices**	Mingyu Sun et.al.	[2512.21835](http://arxiv.org/pdf/2512.21835.pdf)	null
+**2025-12-25**	**GaDE -- GPU-acceleration of time-dependent Dirac Equation for exascale**	Johanne Elise Vembe et.al.	[2512.21697](http://arxiv.org/pdf/2512.21697.pdf)	null
+**2026-01-07**	**NEMO-4-PAYPAL: Leveraging NVIDIA's Nemo Framework for empowering PayPal's Commerce Agent**	Sudhanshu Garg et.al.	[2512.21578](http://arxiv.org/pdf/2512.21578.pdf)	null
+**2025-12-30**	**Mixed Precision General Alternating-Direction Implicit Method for Solving Large Sparse Linear Systems**	Jifeng Ge et.al.	[2512.21164](http://arxiv.org/pdf/2512.21164.pdf)	null
+**2025-12-24**	**SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation**	Xiaoyu Mo et.al.	[2512.21133](http://arxiv.org/pdf/2512.21133.pdf)	null
+**2025-12-24**	**Memory-Efficient Acceleration of Block Low-Rank Foundation Models on Resource Constrained GPUs**	Pierre Abillama et.al.	[2512.20861](http://arxiv.org/pdf/2512.20861.pdf)	null
+**2025-12-24**	**NVIDIA Nemotron 3: Efficient and Open Intelligence**	NVIDIA et.al.	[2512.20856](http://arxiv.org/pdf/2512.20856.pdf)	null
+**2025-12-23**	**Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning**	NVIDIA et.al.	[2512.20848](http://arxiv.org/pdf/2512.20848.pdf)	null
+**2025-12-23**	**LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving**	Long Nguyen et.al.	[2512.20563](http://arxiv.org/pdf/2512.20563.pdf)	null
+**2025-12-24**	**GeoTransolver: Learning Physics on Irregular Domains Using Multi-scale Geometry Aware Physics Attention Transformer**	Corey Adams et.al.	[2512.20399](http://arxiv.org/pdf/2512.20399.pdf)	null
+**2025-12-23**	**LiteFusion: Taming 3D Object Detectors from Vision-Based to Multi-Modal with Minimal Adaptation**	Xiangxuan Ren et.al.	[2512.20217](http://arxiv.org/pdf/2512.20217.pdf)	null
+**2025-12-23**	**Optimistic TEE-Rollups: A Hybrid Architecture for Scalable and Verifiable Generative AI Inference on Blockchain**	Aaron Chan et.al.	[2512.20176](http://arxiv.org/pdf/2512.20176.pdf)	null
+**2025-12-22**	**UCCL-EP: Portable Expert-Parallel Communication**	Ziming Mao et.al.	[2512.19849](http://arxiv.org/pdf/2512.19849.pdf)	null
+**2025-12-17**	**Exploring Deep-to-Shallow Transformable Neural Networks for Intelligent Embedded Systems**	Xiangzhong Luo et.al.	[2512.19731](http://arxiv.org/pdf/2512.19731.pdf)	null
+**2025-12-17**	**Tiny, On-Device Decision Makers with the MiniConv Library**	Carlos Purves et.al.	[2512.19726](http://arxiv.org/pdf/2512.19726.pdf)	null
+**2025-12-21**	**Commercial Vehicle Braking Optimization: A Robust SIFT-Trajectory Approach**	Zhe Li et.al.	[2512.18597](http://arxiv.org/pdf/2512.18597.pdf)	null
+**2025-12-20**	**Systematic Benchmarking of SUMO Against Data-Driven Traffic Simulators**	Erdao Liang et.al.	[2512.18537](http://arxiv.org/pdf/2512.18537.pdf)	null
+**2025-12-19**	**Optimal Software Pipelining and Warp Specialization for Tensor Core GPUs**	Rupanshu Soi et.al.	[2512.18134](http://arxiv.org/pdf/2512.18134.pdf)	null
 ****2025-12-09****	****CytoDINO: Risk-Aware and Biologically-Informed Adaptation of DINOv3 for Bone Marrow Cytomorphology****	Aziz Muminov et.al. et.al.	[2512.17930)]([2512.17930](http://arxiv.org/pdf/2512.17930.pdf))	null
-**2025-12-19**	**RadarGen: Automotive Radar Point Cloud Generation from Cameras**	Tomer Borreda et.al. et.al.	[2512.17897](2512.17897)	null
-**2025-12-23**	**Learning Safe Autonomous Driving Policies Using Predictive Safety Representations**	Mahesh Keswani et.al. et.al.	[2512.17586](2512.17586)	null
-**2025-12-19**	**When De-noising Hurts: A Systematic Study of Speech Enhancement Effects on Modern Medical ASR Systems**	Sujal Chondhekar et.al. et.al.	[2512.17562](2512.17562)	null
-**2026-01-14**	**Taming the Memory Footprint Crisis: System Design for Production Diffusion LLM Serving**	Jiakun Fan et.al. et.al.	[2512.17077](2512.17077)	null
-**2025-12-18**	**DVGT: Driving Visual Geometry Transformer**	Sicheng Zuo et.al. et.al.	[2512.16919](2512.16919)	null
-**2025-12-18**	**DenseBEV: Transforming BEV Grid Cells into 3D Objects**	Marius Dähling et.al. et.al.	[2512.16818](2512.16818)	null
-**2025-12-18**	**An Online Fragmentation-Aware Scheduler for Managing GPU-Sharing Workloads on Multi-Instance GPUs**	Hsu-Tzu Ting et.al. et.al.	[2512.16099](2512.16099)	null
+**2025-12-19**	**RadarGen: Automotive Radar Point Cloud Generation from Cameras**	Tomer Borreda et.al.	[2512.17897](http://arxiv.org/pdf/2512.17897.pdf)	null
+**2025-12-23**	**Learning Safe Autonomous Driving Policies Using Predictive Safety Representations**	Mahesh Keswani et.al.	[2512.17586](http://arxiv.org/pdf/2512.17586.pdf)	null
+**2025-12-19**	**When De-noising Hurts: A Systematic Study of Speech Enhancement Effects on Modern Medical ASR Systems**	Sujal Chondhekar et.al.	[2512.17562](http://arxiv.org/pdf/2512.17562.pdf)	null
+**2026-01-14**	**Taming the Memory Footprint Crisis: System Design for Production Diffusion LLM Serving**	Jiakun Fan et.al.	[2512.17077](http://arxiv.org/pdf/2512.17077.pdf)	null
+**2025-12-18**	**DVGT: Driving Visual Geometry Transformer**	Sicheng Zuo et.al.	[2512.16919](http://arxiv.org/pdf/2512.16919.pdf)	null
+**2025-12-18**	**DenseBEV: Transforming BEV Grid Cells into 3D Objects**	Marius Dähling et.al.	[2512.16818](http://arxiv.org/pdf/2512.16818.pdf)	null
+**2025-12-18**	**An Online Fragmentation-Aware Scheduler for Managing GPU-Sharing Workloads on Multi-Instance GPUs**	Hsu-Tzu Ting et.al.	[2512.16099](http://arxiv.org/pdf/2512.16099.pdf)	null
 ****2025-12-10****	****SHARe-KAN: Holographic Vector Quantization for Memory-Bound Inference****	Jeff Smith et.al. et.al.	[2512.15742)]([2512.15742](http://arxiv.org/pdf/2512.15742.pdf))	null
-**2025-12-17**	**ERIENet: An Efficient RAW Image Enhancement Network under Low-Light Environment**	Jianan Wang et.al. et.al.	[2512.15186](2512.15186)	null
-**2025-12-17**	**Adaptive Weighted Genetic Algorithm-Optimized SVR for Robust Long-Term Forecasting of Global Stock Indices for investment decisions**	Mohit Beniwal et.al. et.al.	[2512.15113](2512.15113)	null
-**2025-12-17**	**BEV-Patch-PF: Particle Filtering with BEV-Aerial Feature Matching for Off-Road Geo-Localization**	Dongmyeong Lee et.al. et.al.	[2512.15111](2512.15111)	null
-**2025-12-17**	**Uni-Parser Technical Report**	Xi Fang et.al. et.al.	[2512.15098](2512.15098)	null
-**2026-01-11**	**PADE: A Predictor-Free Sparse Attention Accelerator via Unified Execution and Stage Fusion**	Huizheng Wang et.al. et.al.	[2512.14322](2512.14322)	null
-**2025-12-16**	**CLAIM: Camera-LiDAR Alignment with Intensity and Monodepth**	Zhuo Zhang et.al. et.al.	[2512.14001](2512.14001)	null
-**2025-12-15**	**Generative AI for Video Translation: A Scalable Architecture for Multilingual Video Conferencing**	Amirkia Rafiei Oskooei et.al. et.al.	[2512.13904](2512.13904)	null
-**2025-12-31**	**OPTIMA: Optimal One-shot Pruning for LLMs via Quadratic Programming Reconstruction**	Mohammad Mozaffari et.al. et.al.	[2512.13886](2512.13886)	null
-**2025-12-15**	**Privacy-Enhancing Infant Cry Classification with Federated Transformers and Denoising Regularization**	Geofrey Owino et.al. et.al.	[2512.13880](2512.13880)	null
-**2025-12-15**	**Design in Tiles: Automating GEMM Deployment on Tile-Based Many-PE Accelerators**	Aofeng Shen et.al. et.al.	[2512.13638](2512.13638)	null
-**2025-12-15**	**Preconditioning Techniques for Hybridizable Discontinuous Galerkin Discretizations on GPU Architectures**	Andrew Welter et.al. et.al.	[2512.13619](2512.13619)	null
-**2025-12-15**	**Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models**	Boxin Wang et.al. et.al.	[2512.13607](2512.13607)	null
-**2025-12-15**	**astroCAMP: A Community Benchmark and Co-Design Framework for Sustainable SKA-Scale Radio Imaging**	Denisa-Andreea Constantinescu et.al. et.al.	[2512.13591](2512.13591)	null
-**2025-12-15**	**Quantigence: A Multi-Agent AI Framework for Quantum Security Research**	Abdulmalik Alquwayfili et.al. et.al.	[2512.12989](2512.12989)	null
-**2025-12-15**	**FlashFuser: Expanding the Scale of Kernel Fusion for Compute-Intensive Operators via Inter-Core Connection**	Ziyu Huang et.al. et.al.	[2512.12949](2512.12949)	null
-**2025-12-18**	**Adaptive Edge-Cloud Inference for Speech-to-Action Systems Using ASR and Large Language Models**	Mohammad Jalili Torkamani et.al. et.al.	[2512.12769](2512.12769)	null
-**2025-12-16**	**Semantic-Drive: Democratizing Long-Tail Data Curation via Open-Vocabulary Grounding and Neuro-Symbolic VLM Consensus**	Antonio Guillen-Perez et.al. et.al.	[2512.12012](2512.12012)	null
+**2025-12-17**	**ERIENet: An Efficient RAW Image Enhancement Network under Low-Light Environment**	Jianan Wang et.al.	[2512.15186](http://arxiv.org/pdf/2512.15186.pdf)	null
+**2025-12-17**	**Adaptive Weighted Genetic Algorithm-Optimized SVR for Robust Long-Term Forecasting of Global Stock Indices for investment decisions**	Mohit Beniwal et.al.	[2512.15113](http://arxiv.org/pdf/2512.15113.pdf)	null
+**2025-12-17**	**BEV-Patch-PF: Particle Filtering with BEV-Aerial Feature Matching for Off-Road Geo-Localization**	Dongmyeong Lee et.al.	[2512.15111](http://arxiv.org/pdf/2512.15111.pdf)	null
+**2025-12-17**	**Uni-Parser Technical Report**	Xi Fang et.al.	[2512.15098](http://arxiv.org/pdf/2512.15098.pdf)	null
+**2026-01-11**	**PADE: A Predictor-Free Sparse Attention Accelerator via Unified Execution and Stage Fusion**	Huizheng Wang et.al.	[2512.14322](http://arxiv.org/pdf/2512.14322.pdf)	null
+**2025-12-16**	**CLAIM: Camera-LiDAR Alignment with Intensity and Monodepth**	Zhuo Zhang et.al.	[2512.14001](http://arxiv.org/pdf/2512.14001.pdf)	null
+**2025-12-15**	**Generative AI for Video Translation: A Scalable Architecture for Multilingual Video Conferencing**	Amirkia Rafiei Oskooei et.al.	[2512.13904](http://arxiv.org/pdf/2512.13904.pdf)	null
+**2025-12-31**	**OPTIMA: Optimal One-shot Pruning for LLMs via Quadratic Programming Reconstruction**	Mohammad Mozaffari et.al.	[2512.13886](http://arxiv.org/pdf/2512.13886.pdf)	null
+**2025-12-15**	**Privacy-Enhancing Infant Cry Classification with Federated Transformers and Denoising Regularization**	Geofrey Owino et.al.	[2512.13880](http://arxiv.org/pdf/2512.13880.pdf)	null
+**2025-12-15**	**Design in Tiles: Automating GEMM Deployment on Tile-Based Many-PE Accelerators**	Aofeng Shen et.al.	[2512.13638](http://arxiv.org/pdf/2512.13638.pdf)	null
+**2025-12-15**	**Preconditioning Techniques for Hybridizable Discontinuous Galerkin Discretizations on GPU Architectures**	Andrew Welter et.al.	[2512.13619](http://arxiv.org/pdf/2512.13619.pdf)	null
+**2025-12-15**	**Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models**	Boxin Wang et.al.	[2512.13607](http://arxiv.org/pdf/2512.13607.pdf)	null
+**2025-12-15**	**astroCAMP: A Community Benchmark and Co-Design Framework for Sustainable SKA-Scale Radio Imaging**	Denisa-Andreea Constantinescu et.al.	[2512.13591](http://arxiv.org/pdf/2512.13591.pdf)	null
+**2025-12-15**	**Quantigence: A Multi-Agent AI Framework for Quantum Security Research**	Abdulmalik Alquwayfili et.al.	[2512.12989](http://arxiv.org/pdf/2512.12989.pdf)	null
+**2025-12-15**	**FlashFuser: Expanding the Scale of Kernel Fusion for Compute-Intensive Operators via Inter-Core Connection**	Ziyu Huang et.al.	[2512.12949](http://arxiv.org/pdf/2512.12949.pdf)	null
+**2025-12-18**	**Adaptive Edge-Cloud Inference for Speech-to-Action Systems Using ASR and Large Language Models**	Mohammad Jalili Torkamani et.al.	[2512.12769](http://arxiv.org/pdf/2512.12769.pdf)	null
+**2025-12-16**	**Semantic-Drive: Democratizing Long-Tail Data Curation via Open-Vocabulary Grounding and Neuro-Symbolic VLM Consensus**	Antonio Guillen-Perez et.al.	[2512.12012](http://arxiv.org/pdf/2512.12012.pdf)	null
 **2025-12-12**	**TransBridge: Boost 3D Object Detection by Scene-Level Completion with Transformer Decoder**	Qinghao Meng et.al. et.al.	[2512.11926](2512.11926)	null
-**2025-12-12**	**HPRMAT: A high-performance R-matrix solver with GPU acceleration for coupled-channel problems in nuclear physics**	Jin Lei et.al. et.al.	[2512.11590](2512.11590)	null
-**2025-12-12**	**DOS: Distilling Observable Softmaps of Zipfian Prototypes for Self-Supervised Point Representation**	Mohamed Abdelsamad et.al. et.al.	[2512.11465](2512.11465)	null
-<details><summary>Show 679 more papers...</summary>
+**2025-12-12**	**HPRMAT: A high-performance R-matrix solver with GPU acceleration for coupled-channel problems in nuclear physics**	Jin Lei et.al.	[2512.11590](http://arxiv.org/pdf/2512.11590.pdf)	null
+<details><summary>Show 680 more papers...</summary>
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-**2025-12-15**	**YawDD+: Frame-level Annotations for Accurate Yawn Prediction**	Ahmed Mujtaba et.al. et.al.	[2512.11446](2512.11446)	null
-**2025-12-12**	**A Scalable Multi-GPU Framework for Encrypted Large-Model Inference**	Siddharth Jayashankar et.al. et.al.	[2512.11269](2512.11269)	null
+**2025-12-12**	**DOS: Distilling Observable Softmaps of Zipfian Prototypes for Self-Supervised Point Representation**	Mohamed Abdelsamad et.al.	[2512.11465](http://arxiv.org/pdf/2512.11465.pdf)	null
+**2025-12-15**	**YawDD+: Frame-level Annotations for Accurate Yawn Prediction**	Ahmed Mujtaba et.al.	[2512.11446](http://arxiv.org/pdf/2512.11446.pdf)	null
+**2025-12-12**	**A Scalable Multi-GPU Framework for Encrypted Large-Model Inference**	Siddharth Jayashankar et.al.	[2512.11269](http://arxiv.org/pdf/2512.11269.pdf)	null
 **2025-12-11**	**CSI-Based User Positioning, Channel Charting, and Device Classification with an NVIDIA 5G Testbed**	Reinhard Wiesmayr et.al. et.al.	[2512.10809](2512.10809)	null
 ****2025-12-11****	****K-Track: Kalman-Enhanced Tracking for Accelerating Deep Point Trackers on Edge Devices****	Bishoy Galoaa et.al. et.al.	[2512.10628)]([2512.10628](http://arxiv.org/pdf/2512.10628.pdf))	null
 ****2025-12-11****	****Disentangled and Distilled Encoder for Out-of-Distribution Reasoning with Rademacher Guarantees****	Zahra Rahiminasab et.al. et.al.	[2512.10522)]([2512.10522](http://arxiv.org/pdf/2512.10522.pdf))	null
@@ -11972,109 +12033,113 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-**2026-01-15**	**See Less, Drive Better: Generalizable End-to-End Autonomous Driving via Foundation Models Stochastic Patch Selection**	Amir Mallak et.al. et.al.	[2601.10707](2601.10707)	null
-**2026-01-15**	**DeepUrban: Interaction-Aware Trajectory Prediction and Planning for Automated Driving by Aerial Imagery**	Constantin Selzer et.al. et.al.	[2601.10554](2601.10554)	null
-**2026-01-15**	**BikeActions: An Open Platform and Benchmark for Cyclist-Centric VRU Action Recognition**	Max A. Buettner et.al. et.al.	[2601.10521](2601.10521)	null
-**2026-01-15**	**SatMap: Revisiting Satellite Maps as Prior for Online HD Map Construction**	Kanak Mazumder et.al. et.al.	[2601.10512](2601.10512)	null
-**2026-01-15**	**V-Zero: Self-Improving Multimodal Reasoning with Zero Annotation**	Han Wang et.al. et.al.	[2601.10094](2601.10094)	null
-**2026-01-15**	**OT-Drive: Out-of-Distribution Off-Road Traversable Area Segmentation via Optimal Transport**	Zhihua Zhao et.al. et.al.	[2601.09952](2601.09952)	null
-**2026-01-14**	**LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving**	Carlo Sgaravatti et.al. et.al.	[2601.09812](2601.09812)	null
-**2026-01-08**	**Formal Safety Guarantees for Autonomous Vehicles using Barrier Certificates**	Oumaima Barhoumi et.al. et.al.	[2601.09740](2601.09740)	null
-**2026-01-14**	**MAD: Motion Appearance Decoupling for efficient Driving World Models**	Ahmad Rahimi et.al. et.al.	[2601.09452](2601.09452)	null
-**2026-01-14**	**Data Scaling for Navigation in Unknown Environments**	Lauri Suomela et.al. et.al.	[2601.09444](2601.09444)	null
-**2026-01-14**	**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**	Xuemei Yao et.al. et.al.	[2601.09377](2601.09377)	null
-**2026-01-13**	**SoC: Semantic Orthogonal Calibration for Test-Time Prompt Tuning**	Leo Fillioux et.al. et.al.	[2601.08617](2601.08617)	null
-**2026-01-14**	**Large Multimodal Models for Embodied Intelligent Driving: The Next Frontier in Self-Driving?**	Long Zhang et.al. et.al.	[2601.08434](2601.08434)	null
-**2026-01-15**	**Semantic Misalignment in Vision-Language Models under Perceptual Degradation**	Guo Cheng et.al. et.al.	[2601.08355](2601.08355)	null
-**2026-01-09**	**An Empirical Study on Knowledge Transfer under Domain and Label Shifts in 3D LiDAR Point Clouds**	Subeen Lee et.al. et.al.	[2601.07855](2601.07855)	null
-**2026-01-12**	**Hiking in the Wild: A Scalable Perceptive Parkour Framework for Humanoids**	Shaoting Zhu et.al. et.al.	[2601.07718](2601.07718)	null
-**2026-01-12**	**Deep Whole-body Parkour**	Ziwen Zhuang et.al. et.al.	[2601.07701](2601.07701)	null
-**2026-01-12**	**Leveraging 3D Representation Alignment and RGB Pretrained Priors for LiDAR Scene Generation**	Nicolas Sereyjol-Garros et.al. et.al.	[2601.07692](2601.07692)	null
-**2026-01-13**	**ViewMorpher3D: A 3D-aware Diffusion Framework for Multi-Camera Novel View Synthesis in Autonomous Driving**	Farhad G. Zanjani et.al. et.al.	[2601.07540](2601.07540)	null
-**2026-01-12**	**Task Prototype-Based Knowledge Retrieval for Multi-Task Learning from Partially Annotated Data**	Youngmin Oh et.al. et.al.	[2601.07474](2601.07474)	null
-**2026-01-12**	**SC-MII: Infrastructure LiDAR-based 3D Object Detection on Edge Devices for Split Computing with Multiple Intermediate Outputs Integration**	Taisuke Noguchi et.al. et.al.	[2601.07119](2601.07119)	null
-**2026-01-11**	**Efficient Visual Question Answering Pipeline for Autonomous Driving via Scene Region Compression**	Yuliang Cai et.al. et.al.	[2601.07092](2601.07092)	null
-**2026-01-10**	**SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning**	Chenxu Dang et.al. et.al.	[2601.06474](2601.06474)	null
-**2026-01-10**	**WHU-PCPR: A cross-platform heterogeneous point cloud dataset for place recognition in complex urban scenes**	Xianghong Zou et.al. et.al.	[2601.06442](2601.06442)	null
-**2026-01-09**	**GeoSurDepth: Spatial Geometry-Consistent Self-Supervised Depth Estimation for Surround-View Cameras**	Weimin Liu et.al. et.al.	[2601.05839](2601.05839)	null
-**2026-01-09**	**Modular Autonomy with Conversational Interaction: An LLM-driven Framework for Decision Making in Autonomous Driving**	Marvin Seegert et.al. et.al.	[2601.05806](2601.05806)	null
-**2026-01-12**	**SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving**	Jingyu Li et.al. et.al.	[2601.05640](2601.05640)	null
-**2026-01-09**	**LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**	Chengen Xie et.al. et.al.	[2601.05611](2601.05611)	null
-**2026-01-08**	**PRISM: Protocol Refinement through Intelligent Simulation Modeling**	Brian Hsu et.al. et.al.	[2601.05356](2601.05356)	null
-**2026-01-08**	**UniLiPs: Unified LiDAR Pseudo-Labeling with Geometry-Grounded Dynamic Scene Decomposition**	Filippo Ghilotti et.al. et.al.	[2601.05105](2601.05105)	null
-**2026-01-08**	**Driving on Registers**	Ellington Kirby et.al. et.al.	[2601.05083](2601.05083)	null
-**2026-01-08**	**SparseLaneSTP: Leveraging Spatio-Temporal Priors with Sparse Transformers for 3D Lane Detection**	Maximilian Pittner et.al. et.al.	[2601.04968](2601.04968)	null
-**2026-01-08**	**Detection of Deployment Operational Deviations for Safety and Security of AI-Enabled Human-Centric Cyber Physical Systems**	Bernard Ngabonziza et.al. et.al.	[2601.04605](2601.04605)	null
-**2026-01-07**	**UniDrive-WM: Unified Understanding, Planning and Generation World Model For Autonomous Driving**	Zhexiao Xiong et.al. et.al.	[2601.04453](2601.04453)	null
-**2026-01-07**	**3D-Agent:Tri-Modal Multi-Agent Collaboration for Scalable 3D Object Annotation**	Jusheng Zhang et.al. et.al.	[2601.04404](2601.04404)	null
-**2026-01-07**	**Correcting Autonomous Driving Object Detection Misclassifications with Automated Commonsense Reasoning**	Keegan Kimbrell et.al. et.al.	[2601.04271](2601.04271)	null
-**2026-01-07**	**Towards Safe Autonomous Driving: A Real-Time Motion Planning Algorithm on Embedded Hardware**	Korbinian Moller et.al. et.al.	[2601.03904](2601.03904)	null
-**2026-01-12**	**A Vision-Language-Action Model with Visual Prompt for OFF-Road Autonomous Driving**	Liangdong Zhang et.al. et.al.	[2601.03519](2601.03519)	null
-**2026-01-06**	**FROST-Drive: Scalable and Efficient End-to-End Driving with a Frozen Vision Encoder**	Zeyu Dong et.al. et.al.	[2601.03460](2601.03460)	null
-**2026-01-06**	**Text-Guided Layer Fusion Mitigates Hallucination in Multimodal LLMs**	Chenchen Lin et.al. et.al.	[2601.03100](2601.03100)	null
-**2026-01-06**	**Towards Efficient 3D Object Detection for Vehicle-Infrastructure Collaboration via Risk-Intent Selection**	Li Wang et.al. et.al.	[2601.03001](2601.03001)	null
-**2026-01-07**	**HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps**	Xuchang Zhong et.al. et.al.	[2601.02730](2601.02730)	null
-**2026-01-05**	**VIT-Ped: Visionary Intention Transformer for Pedestrian Behavior Analysis**	Aly R. Elkammar et.al. et.al.	[2601.01989](2601.01989)	null
-**2026-01-05**	**AlignDrive: Aligned Lateral-Longitudinal Planning for End-to-End Autonomous Driving**	Yanhao Wu et.al. et.al.	[2601.01762](2601.01762)	null
-**2026-01-04**	**LabelAny3D: Label Any Object 3D in the Wild**	Jin Yao et.al. et.al.	[2601.01676](2601.01676)	null
-**2026-01-04**	**HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller**	Tran Tien Dat et.al. et.al.	[2601.01577](2601.01577)	null
-**2026-01-04**	**DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving**	Yang Zhou et.al. et.al.	[2601.01528](2601.01528)	null
-**2026-01-04**	**ParkGaussian: Surround-view 3D Gaussian Splatting for Autonomous Parking**	Xiaobao Wei et.al. et.al.	[2601.01386](2601.01386)	null
-**2025-12-31**	**Dichotomous Diffusion Policy Optimization**	Ruiming Liang et.al. et.al.	[2601.00898](2601.00898)	null
-**2025-12-31**	**Semi-Supervised Diversity-Aware Domain Adaptation for 3D Object detection**	Bartłomiej Olber et.al. et.al.	[2512.24922](2512.24922)	null
-**2026-01-04**	**LSRE: Latent Semantic Rule Encoding for Real-Time Semantic Risk Detection in Autonomous Driving**	Qian Cheng et.al. et.al.	[2512.24712](2512.24712)	null
-**2026-01-05**	**Foundation models on the bridge: Semantic hazard detection and safety maneuvers for maritime autonomy with vision-language models**	Kim Alexander Christensen et.al. et.al.	[2512.24470](2512.24470)	null
-**2025-12-30**	**Counterfactual VLA: Self-Reflective Vision-Language-Action Model with Adaptive Reasoning**	Zhenghao "Mark" Peng et.al. et.al.	[2512.24426](2512.24426)	null
-**2026-01-08**	**Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems**	Song Wang et.al. et.al.	[2512.24385](2512.24385)	null
-**2025-12-30**	**Spatial-aware Vision Language Model for Autonomous Driving**	Weijie Wei et.al. et.al.	[2512.24331](2512.24331)	null
-**2025-12-30**	**MambaSeg: Harnessing Mamba for Accurate and Efficient Image-Event Semantic Segmentation**	Fuqiang Gu et.al. et.al.	[2512.24243](2512.24243)	null
-**2025-12-30**	**Mirage: One-Step Video Diffusion for Photorealistic and Coherent Asset Editing in Driving Scenes**	Shuyun Wang et.al. et.al.	[2512.24227](2512.24227)	null
-**2025-12-30**	**Guided Diffusion-based Generation of Adversarial Objects for Real-World Monocular Depth Estimation Attacks**	Yongtao Chen et.al. et.al.	[2512.24111](2512.24111)	null
-**2025-12-30**	**DriveExplorer: Images-Only Decoupled 4D Reconstruction with Progressive Restoration for Driving View Extrapolation**	Yuang Jia et.al. et.al.	[2512.23983](2512.23983)	null
-**2025-12-29**	**Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception**	Xiaoyu Li et.al. et.al.	[2512.23635](2512.23635)	null
-**2025-12-29**	**A Kalman Filter-Based Disturbance Observer for Steer-by-Wire Systems**	Nikolai Beving et.al. et.al.	[2512.23593](2512.23593)	null
-**2025-12-29**	**Unsupervised Learning for Detection of Rare Driving Scenarios**	Dat Le et.al. et.al.	[2512.23585](2512.23585)	null
-**2025-12-29**	**Assessing behaviour coverage in a multi-agent system simulation for autonomous vehicle testing**	Manuel Franco-Vivo et.al. et.al.	[2512.23445](2512.23445)	null
-**2025-12-31**	**DriveLaW:Unifying Planning and Video Generation in a Latent Driving World**	Tianze Xia et.al. et.al.	[2512.23421](2512.23421)	null
-**2025-12-29**	**A Human-Oriented Cooperative Driving Approach: Integrating Driving Intention, State, and Conflict**	Qin Wang et.al. et.al.	[2512.23220](2512.23220)	null
-**2025-12-29**	**AVOID: The Adverse Visual Conditions Dataset with Obstacles for Driving Scene Understanding**	Jongoh Jeong et.al. et.al.	[2512.23215](2512.23215)	null
-**2025-12-29**	**Exploring Syn-to-Real Domain Adaptation for Military Target Detection**	Jongoh Jeong et.al. et.al.	[2512.23208](2512.23208)	null
-**2026-01-15**	**Wavelet-based Multi-View Fusion of 4D Radar Tensor and Camera for Robust 3D Object Detection**	Runwei Guan et.al. et.al.	[2512.22972](2512.22972)	null
-**2025-12-31**	**ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving**	Qihang Peng et.al. et.al.	[2512.22939](2512.22939)	null
-**2025-12-28**	**A Minimal Solver for Relative Pose Estimation with Unknown Focal Length from Two Affine Correspondences**	Zhenbao Yu et.al. et.al.	[2512.22833](2512.22833)	null
-**2025-12-27**	**SCPainter: A Unified Framework for Realistic 3D Asset Insertion and Novel View Synthesis**	Paul Dobre et.al. et.al.	[2512.22706](2512.22706)	null
-**2025-12-27**	**SCAFusion: A Multimodal 3D Detection Framework for Small Object Detection in Lunar Surface Exploration**	Xin Chen et.al. et.al.	[2512.22503](2512.22503)	null
-**2025-12-26**	**Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models**	Zongmin Zhang et.al. et.al.	[2512.22046](2512.22046)	null
-**2025-12-26**	**RT-Focuser: A Real-Time Lightweight Model for Edge-side Image Deblurring**	Zhuoyu Wu et.al. et.al.	[2512.21975](2512.21975)	null
-**2025-12-26**	**End-to-End 3D Spatiotemporal Perception with Multimodal Fusion and V2X Collaboration**	Zhenwei Yang et.al. et.al.	[2512.21831](2512.21831)	null
-**2025-12-25**	**SymDrive: Realistic and Controllable Driving Simulator via Symmetric Auto-regressive Online Restoration**	Zhiyuan Liu et.al. et.al.	[2512.21618](2512.21618)	null
-**2025-12-24**	**SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation**	Xiaoyu Mo et.al. et.al.	[2512.21133](2512.21133)	null
-**2025-12-24**	**Early warning signals for loss of control**	Jasper J. van Beers et.al. et.al.	[2512.20868](2512.20868)	null
-**2025-12-25**	**Learning to Sense for Driving: Joint Optics-Sensor-Model Co-Design for Semantic Segmentation**	Reeshad Khan et.al. et.al.	[2512.20815](2512.20815)	null
-**2025-12-23**	**OccuFly: A 3D Vision Benchmark for Semantic Scene Completion from the Aerial Perspective**	Markus Gross et.al. et.al.	[2512.20770](2512.20770)	null
-**2025-12-23**	**LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving**	Long Nguyen et.al. et.al.	[2512.20563](2512.20563)	null
-**2025-12-23**	**KnowVal: A Knowledge-Augmented and Value-Guided Autonomous Driving System**	Zhongyu Xia et.al. et.al.	[2512.20299](2512.20299)	null
-**2025-12-23**	**UrbanV2X: A Multisensory Vehicle-Infrastructure Dataset for Cooperative Navigation in Urban Areas**	Qijun Qin et.al. et.al.	[2512.20224](2512.20224)	null
-**2025-12-23**	**LiDARDraft: Generating LiDAR Point Cloud from Versatile Inputs**	Haiyun Wei et.al. et.al.	[2512.20105](2512.20105)	null
-**2025-12-22**	**Vehicle-centric Perception via Multimodal Structured Pre-training**	Wentao Wu et.al. et.al.	[2512.19934](2512.19934)	null
-**2025-12-22**	**Are All Data Necessary? Efficient Data Pruning for Large-scale Autonomous Driving Dataset via Trajectory Entropy Maximization**	Zhaoyang Liu et.al. et.al.	[2512.19270](2512.19270)	null
-**2025-12-22**	**AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction**	Ruikai Li et.al. et.al.	[2512.19150](2512.19150)	null
-**2025-12-22**	**WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving**	Pengxuan Yang et.al. et.al.	[2512.19133](2512.19133)	null
-**2025-12-22**	**VOIC: Visible-Occluded Decoupling for Monocular 3D Semantic Scene Completion**	Zaidao Han et.al. et.al.	[2512.18954](2512.18954)	null
-**2025-12-21**	**CrashChat: A Multimodal Large Language Model for Multitask Traffic Crash Video Analysis**	Kaidi Liang et.al. et.al.	[2512.18878](2512.18878)	null
-**2025-12-27**	**InDRiVE: Reward-Free World-Model Pretraining for Autonomous Driving via Latent Disagreement**	Feeza Khan Khanzada et.al. et.al.	[2512.18850](2512.18850)	null
-**2025-12-21**	**CauTraj: A Causal-Knowledge-Guided Framework for Lane-Changing Trajectory Planning of Autonomous Vehicles**	Cailin Lei et.al. et.al.	[2512.18703](2512.18703)	null
-**2025-12-21**	**Offline Reinforcement Learning for End-to-End Autonomous Driving**	Chihiro Noguchi et.al. et.al.	[2512.18662](2512.18662)	null
-**2025-12-20**	**Systematic Benchmarking of SUMO Against Data-Driven Traffic Simulators**	Erdao Liang et.al. et.al.	[2512.18537](2512.18537)	null
-**2025-12-20**	**LLaViDA: A Large Language Vision Driving Assistant for Explicit Reasoning and Enhanced Trajectory Planning**	Yudong Liu et.al. et.al.	[2512.18211](2512.18211)	null
-**2025-12-19**	**Uncertainty-Gated Region-Level Retrieval for Robust Semantic Segmentation**	Shreshth Rajan et.al. et.al.	[2512.18082](2512.18082)	null
+**2026-01-16**	**Generative Scenario Rollouts for End-to-End Autonomous Driving**	Rajeev Yasarla et.al.	[2601.11475](http://arxiv.org/pdf/2601.11475.pdf)	null
+**2026-01-16**	**SUG-Occ: An Explicit Semantics and Uncertainty Guided Sparse Learning Framework for Real-Time 3D Occupancy Prediction**	Hanlin Wu et.al.	[2601.11396](http://arxiv.org/pdf/2601.11396.pdf)	null
+**2026-01-15**	**FrankenMotion: Part-level Human Motion Generation and Composition**	Chuqiao Li et.al.	[2601.10909](http://arxiv.org/pdf/2601.10909.pdf)	null
+**2026-01-15**	**A Unified 3D Object Perception Framework for Real-Time Outside-In Multi-Camera Systems**	Yizhou Wang et.al.	[2601.10819](http://arxiv.org/pdf/2601.10819.pdf)	null
+**2026-01-15**	**See Less, Drive Better: Generalizable End-to-End Autonomous Driving via Foundation Models Stochastic Patch Selection**	Amir Mallak et.al.	[2601.10707](http://arxiv.org/pdf/2601.10707.pdf)	null
+**2026-01-15**	**DeepUrban: Interaction-Aware Trajectory Prediction and Planning for Automated Driving by Aerial Imagery**	Constantin Selzer et.al.	[2601.10554](http://arxiv.org/pdf/2601.10554.pdf)	null
+**2026-01-15**	**BikeActions: An Open Platform and Benchmark for Cyclist-Centric VRU Action Recognition**	Max A. Buettner et.al.	[2601.10521](http://arxiv.org/pdf/2601.10521.pdf)	null
+**2026-01-15**	**SatMap: Revisiting Satellite Maps as Prior for Online HD Map Construction**	Kanak Mazumder et.al.	[2601.10512](http://arxiv.org/pdf/2601.10512.pdf)	null
+**2026-01-15**	**V-Zero: Self-Improving Multimodal Reasoning with Zero Annotation**	Han Wang et.al.	[2601.10094](http://arxiv.org/pdf/2601.10094.pdf)	null
+**2026-01-15**	**OT-Drive: Out-of-Distribution Off-Road Traversable Area Segmentation via Optimal Transport**	Zhihua Zhao et.al.	[2601.09952](http://arxiv.org/pdf/2601.09952.pdf)	null
+**2026-01-14**	**LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving**	Carlo Sgaravatti et.al.	[2601.09812](http://arxiv.org/pdf/2601.09812.pdf)	null
+**2026-01-08**	**Formal Safety Guarantees for Autonomous Vehicles using Barrier Certificates**	Oumaima Barhoumi et.al.	[2601.09740](http://arxiv.org/pdf/2601.09740.pdf)	null
+**2026-01-14**	**MAD: Motion Appearance Decoupling for efficient Driving World Models**	Ahmad Rahimi et.al.	[2601.09452](http://arxiv.org/pdf/2601.09452.pdf)	null
+**2026-01-14**	**Data Scaling for Navigation in Unknown Environments**	Lauri Suomela et.al.	[2601.09444](http://arxiv.org/pdf/2601.09444.pdf)	null
+**2026-01-14**	**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**	Xuemei Yao et.al.	[2601.09377](http://arxiv.org/pdf/2601.09377.pdf)	null
+**2026-01-13**	**SoC: Semantic Orthogonal Calibration for Test-Time Prompt Tuning**	Leo Fillioux et.al.	[2601.08617](http://arxiv.org/pdf/2601.08617.pdf)	null
+**2026-01-14**	**Large Multimodal Models for Embodied Intelligent Driving: The Next Frontier in Self-Driving?**	Long Zhang et.al.	[2601.08434](http://arxiv.org/pdf/2601.08434.pdf)	null
+**2026-01-15**	**Semantic Misalignment in Vision-Language Models under Perceptual Degradation**	Guo Cheng et.al.	[2601.08355](http://arxiv.org/pdf/2601.08355.pdf)	null
+**2026-01-09**	**An Empirical Study on Knowledge Transfer under Domain and Label Shifts in 3D LiDAR Point Clouds**	Subeen Lee et.al.	[2601.07855](http://arxiv.org/pdf/2601.07855.pdf)	null
+**2026-01-12**	**Hiking in the Wild: A Scalable Perceptive Parkour Framework for Humanoids**	Shaoting Zhu et.al.	[2601.07718](http://arxiv.org/pdf/2601.07718.pdf)	null
+**2026-01-12**	**Deep Whole-body Parkour**	Ziwen Zhuang et.al.	[2601.07701](http://arxiv.org/pdf/2601.07701.pdf)	null
+**2026-01-12**	**Leveraging 3D Representation Alignment and RGB Pretrained Priors for LiDAR Scene Generation**	Nicolas Sereyjol-Garros et.al.	[2601.07692](http://arxiv.org/pdf/2601.07692.pdf)	null
+**2026-01-13**	**ViewMorpher3D: A 3D-aware Diffusion Framework for Multi-Camera Novel View Synthesis in Autonomous Driving**	Farhad G. Zanjani et.al.	[2601.07540](http://arxiv.org/pdf/2601.07540.pdf)	null
+**2026-01-12**	**Task Prototype-Based Knowledge Retrieval for Multi-Task Learning from Partially Annotated Data**	Youngmin Oh et.al.	[2601.07474](http://arxiv.org/pdf/2601.07474.pdf)	null
+**2026-01-12**	**SC-MII: Infrastructure LiDAR-based 3D Object Detection on Edge Devices for Split Computing with Multiple Intermediate Outputs Integration**	Taisuke Noguchi et.al.	[2601.07119](http://arxiv.org/pdf/2601.07119.pdf)	null
+**2026-01-11**	**Efficient Visual Question Answering Pipeline for Autonomous Driving via Scene Region Compression**	Yuliang Cai et.al.	[2601.07092](http://arxiv.org/pdf/2601.07092.pdf)	null
+**2026-01-10**	**SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning**	Chenxu Dang et.al.	[2601.06474](http://arxiv.org/pdf/2601.06474.pdf)	null
+**2026-01-10**	**WHU-PCPR: A cross-platform heterogeneous point cloud dataset for place recognition in complex urban scenes**	Xianghong Zou et.al.	[2601.06442](http://arxiv.org/pdf/2601.06442.pdf)	null
+**2026-01-09**	**GeoSurDepth: Spatial Geometry-Consistent Self-Supervised Depth Estimation for Surround-View Cameras**	Weimin Liu et.al.	[2601.05839](http://arxiv.org/pdf/2601.05839.pdf)	null
+**2026-01-09**	**Modular Autonomy with Conversational Interaction: An LLM-driven Framework for Decision Making in Autonomous Driving**	Marvin Seegert et.al.	[2601.05806](http://arxiv.org/pdf/2601.05806.pdf)	null
+**2026-01-12**	**SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving**	Jingyu Li et.al.	[2601.05640](http://arxiv.org/pdf/2601.05640.pdf)	null
+**2026-01-09**	**LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**	Chengen Xie et.al.	[2601.05611](http://arxiv.org/pdf/2601.05611.pdf)	null
+**2026-01-08**	**PRISM: Protocol Refinement through Intelligent Simulation Modeling**	Brian Hsu et.al.	[2601.05356](http://arxiv.org/pdf/2601.05356.pdf)	null
+**2026-01-08**	**UniLiPs: Unified LiDAR Pseudo-Labeling with Geometry-Grounded Dynamic Scene Decomposition**	Filippo Ghilotti et.al.	[2601.05105](http://arxiv.org/pdf/2601.05105.pdf)	null
+**2026-01-08**	**Driving on Registers**	Ellington Kirby et.al.	[2601.05083](http://arxiv.org/pdf/2601.05083.pdf)	null
+**2026-01-08**	**SparseLaneSTP: Leveraging Spatio-Temporal Priors with Sparse Transformers for 3D Lane Detection**	Maximilian Pittner et.al.	[2601.04968](http://arxiv.org/pdf/2601.04968.pdf)	null
+**2026-01-08**	**Detection of Deployment Operational Deviations for Safety and Security of AI-Enabled Human-Centric Cyber Physical Systems**	Bernard Ngabonziza et.al.	[2601.04605](http://arxiv.org/pdf/2601.04605.pdf)	null
+**2026-01-07**	**UniDrive-WM: Unified Understanding, Planning and Generation World Model For Autonomous Driving**	Zhexiao Xiong et.al.	[2601.04453](http://arxiv.org/pdf/2601.04453.pdf)	null
+**2026-01-07**	**3D-Agent:Tri-Modal Multi-Agent Collaboration for Scalable 3D Object Annotation**	Jusheng Zhang et.al.	[2601.04404](http://arxiv.org/pdf/2601.04404.pdf)	null
+**2026-01-07**	**Correcting Autonomous Driving Object Detection Misclassifications with Automated Commonsense Reasoning**	Keegan Kimbrell et.al.	[2601.04271](http://arxiv.org/pdf/2601.04271.pdf)	null
+**2026-01-07**	**Towards Safe Autonomous Driving: A Real-Time Motion Planning Algorithm on Embedded Hardware**	Korbinian Moller et.al.	[2601.03904](http://arxiv.org/pdf/2601.03904.pdf)	null
+**2026-01-12**	**A Vision-Language-Action Model with Visual Prompt for OFF-Road Autonomous Driving**	Liangdong Zhang et.al.	[2601.03519](http://arxiv.org/pdf/2601.03519.pdf)	null
+**2026-01-06**	**FROST-Drive: Scalable and Efficient End-to-End Driving with a Frozen Vision Encoder**	Zeyu Dong et.al.	[2601.03460](http://arxiv.org/pdf/2601.03460.pdf)	null
+**2026-01-06**	**Text-Guided Layer Fusion Mitigates Hallucination in Multimodal LLMs**	Chenchen Lin et.al.	[2601.03100](http://arxiv.org/pdf/2601.03100.pdf)	null
+**2026-01-06**	**Towards Efficient 3D Object Detection for Vehicle-Infrastructure Collaboration via Risk-Intent Selection**	Li Wang et.al.	[2601.03001](http://arxiv.org/pdf/2601.03001.pdf)	null
+**2026-01-07**	**HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps**	Xuchang Zhong et.al.	[2601.02730](http://arxiv.org/pdf/2601.02730.pdf)	null
+**2026-01-05**	**VIT-Ped: Visionary Intention Transformer for Pedestrian Behavior Analysis**	Aly R. Elkammar et.al.	[2601.01989](http://arxiv.org/pdf/2601.01989.pdf)	null
+**2026-01-05**	**AlignDrive: Aligned Lateral-Longitudinal Planning for End-to-End Autonomous Driving**	Yanhao Wu et.al.	[2601.01762](http://arxiv.org/pdf/2601.01762.pdf)	null
+**2026-01-04**	**LabelAny3D: Label Any Object 3D in the Wild**	Jin Yao et.al.	[2601.01676](http://arxiv.org/pdf/2601.01676.pdf)	null
+**2026-01-04**	**HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller**	Tran Tien Dat et.al.	[2601.01577](http://arxiv.org/pdf/2601.01577.pdf)	null
+**2026-01-04**	**DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving**	Yang Zhou et.al.	[2601.01528](http://arxiv.org/pdf/2601.01528.pdf)	null
+**2026-01-04**	**ParkGaussian: Surround-view 3D Gaussian Splatting for Autonomous Parking**	Xiaobao Wei et.al.	[2601.01386](http://arxiv.org/pdf/2601.01386.pdf)	null
+**2025-12-31**	**Dichotomous Diffusion Policy Optimization**	Ruiming Liang et.al.	[2601.00898](http://arxiv.org/pdf/2601.00898.pdf)	null
+**2025-12-31**	**Semi-Supervised Diversity-Aware Domain Adaptation for 3D Object detection**	Bartłomiej Olber et.al.	[2512.24922](http://arxiv.org/pdf/2512.24922.pdf)	null
+**2026-01-04**	**LSRE: Latent Semantic Rule Encoding for Real-Time Semantic Risk Detection in Autonomous Driving**	Qian Cheng et.al.	[2512.24712](http://arxiv.org/pdf/2512.24712.pdf)	null
+**2026-01-05**	**Foundation models on the bridge: Semantic hazard detection and safety maneuvers for maritime autonomy with vision-language models**	Kim Alexander Christensen et.al.	[2512.24470](http://arxiv.org/pdf/2512.24470.pdf)	null
+**2025-12-30**	**Counterfactual VLA: Self-Reflective Vision-Language-Action Model with Adaptive Reasoning**	Zhenghao "Mark" Peng et.al.	[2512.24426](http://arxiv.org/pdf/2512.24426.pdf)	null
+**2026-01-08**	**Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems**	Song Wang et.al.	[2512.24385](http://arxiv.org/pdf/2512.24385.pdf)	null
+**2025-12-30**	**Spatial-aware Vision Language Model for Autonomous Driving**	Weijie Wei et.al.	[2512.24331](http://arxiv.org/pdf/2512.24331.pdf)	null
+**2025-12-30**	**MambaSeg: Harnessing Mamba for Accurate and Efficient Image-Event Semantic Segmentation**	Fuqiang Gu et.al.	[2512.24243](http://arxiv.org/pdf/2512.24243.pdf)	null
+**2025-12-30**	**Mirage: One-Step Video Diffusion for Photorealistic and Coherent Asset Editing in Driving Scenes**	Shuyun Wang et.al.	[2512.24227](http://arxiv.org/pdf/2512.24227.pdf)	null
+**2025-12-30**	**Guided Diffusion-based Generation of Adversarial Objects for Real-World Monocular Depth Estimation Attacks**	Yongtao Chen et.al.	[2512.24111](http://arxiv.org/pdf/2512.24111.pdf)	null
+**2025-12-30**	**DriveExplorer: Images-Only Decoupled 4D Reconstruction with Progressive Restoration for Driving View Extrapolation**	Yuang Jia et.al.	[2512.23983](http://arxiv.org/pdf/2512.23983.pdf)	null
+**2025-12-29**	**Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception**	Xiaoyu Li et.al.	[2512.23635](http://arxiv.org/pdf/2512.23635.pdf)	null
+**2025-12-29**	**A Kalman Filter-Based Disturbance Observer for Steer-by-Wire Systems**	Nikolai Beving et.al.	[2512.23593](http://arxiv.org/pdf/2512.23593.pdf)	null
+**2025-12-29**	**Unsupervised Learning for Detection of Rare Driving Scenarios**	Dat Le et.al.	[2512.23585](http://arxiv.org/pdf/2512.23585.pdf)	null
+**2025-12-29**	**Assessing behaviour coverage in a multi-agent system simulation for autonomous vehicle testing**	Manuel Franco-Vivo et.al.	[2512.23445](http://arxiv.org/pdf/2512.23445.pdf)	null
+**2025-12-31**	**DriveLaW:Unifying Planning and Video Generation in a Latent Driving World**	Tianze Xia et.al.	[2512.23421](http://arxiv.org/pdf/2512.23421.pdf)	null
+**2025-12-29**	**A Human-Oriented Cooperative Driving Approach: Integrating Driving Intention, State, and Conflict**	Qin Wang et.al.	[2512.23220](http://arxiv.org/pdf/2512.23220.pdf)	null
+**2025-12-29**	**AVOID: The Adverse Visual Conditions Dataset with Obstacles for Driving Scene Understanding**	Jongoh Jeong et.al.	[2512.23215](http://arxiv.org/pdf/2512.23215.pdf)	null
+**2025-12-29**	**Exploring Syn-to-Real Domain Adaptation for Military Target Detection**	Jongoh Jeong et.al.	[2512.23208](http://arxiv.org/pdf/2512.23208.pdf)	null
+**2026-01-15**	**Wavelet-based Multi-View Fusion of 4D Radar Tensor and Camera for Robust 3D Object Detection**	Runwei Guan et.al.	[2512.22972](http://arxiv.org/pdf/2512.22972.pdf)	null
+**2025-12-31**	**ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving**	Qihang Peng et.al.	[2512.22939](http://arxiv.org/pdf/2512.22939.pdf)	null
+**2025-12-28**	**A Minimal Solver for Relative Pose Estimation with Unknown Focal Length from Two Affine Correspondences**	Zhenbao Yu et.al.	[2512.22833](http://arxiv.org/pdf/2512.22833.pdf)	null
+**2025-12-27**	**SCPainter: A Unified Framework for Realistic 3D Asset Insertion and Novel View Synthesis**	Paul Dobre et.al.	[2512.22706](http://arxiv.org/pdf/2512.22706.pdf)	null
+**2025-12-27**	**SCAFusion: A Multimodal 3D Detection Framework for Small Object Detection in Lunar Surface Exploration**	Xin Chen et.al.	[2512.22503](http://arxiv.org/pdf/2512.22503.pdf)	null
+**2025-12-26**	**Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models**	Zongmin Zhang et.al.	[2512.22046](http://arxiv.org/pdf/2512.22046.pdf)	null
+**2025-12-26**	**RT-Focuser: A Real-Time Lightweight Model for Edge-side Image Deblurring**	Zhuoyu Wu et.al.	[2512.21975](http://arxiv.org/pdf/2512.21975.pdf)	null
+**2025-12-26**	**End-to-End 3D Spatiotemporal Perception with Multimodal Fusion and V2X Collaboration**	Zhenwei Yang et.al.	[2512.21831](http://arxiv.org/pdf/2512.21831.pdf)	null
+**2025-12-25**	**SymDrive: Realistic and Controllable Driving Simulator via Symmetric Auto-regressive Online Restoration**	Zhiyuan Liu et.al.	[2512.21618](http://arxiv.org/pdf/2512.21618.pdf)	null
+**2025-12-24**	**SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation**	Xiaoyu Mo et.al.	[2512.21133](http://arxiv.org/pdf/2512.21133.pdf)	null
+**2025-12-24**	**Early warning signals for loss of control**	Jasper J. van Beers et.al.	[2512.20868](http://arxiv.org/pdf/2512.20868.pdf)	null
+**2025-12-25**	**Learning to Sense for Driving: Joint Optics-Sensor-Model Co-Design for Semantic Segmentation**	Reeshad Khan et.al.	[2512.20815](http://arxiv.org/pdf/2512.20815.pdf)	null
+**2025-12-23**	**OccuFly: A 3D Vision Benchmark for Semantic Scene Completion from the Aerial Perspective**	Markus Gross et.al.	[2512.20770](http://arxiv.org/pdf/2512.20770.pdf)	null
+**2025-12-23**	**LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving**	Long Nguyen et.al.	[2512.20563](http://arxiv.org/pdf/2512.20563.pdf)	null
+**2025-12-23**	**KnowVal: A Knowledge-Augmented and Value-Guided Autonomous Driving System**	Zhongyu Xia et.al.	[2512.20299](http://arxiv.org/pdf/2512.20299.pdf)	null
+**2025-12-23**	**UrbanV2X: A Multisensory Vehicle-Infrastructure Dataset for Cooperative Navigation in Urban Areas**	Qijun Qin et.al.	[2512.20224](http://arxiv.org/pdf/2512.20224.pdf)	null
+**2025-12-23**	**LiDARDraft: Generating LiDAR Point Cloud from Versatile Inputs**	Haiyun Wei et.al.	[2512.20105](http://arxiv.org/pdf/2512.20105.pdf)	null
+**2025-12-22**	**Vehicle-centric Perception via Multimodal Structured Pre-training**	Wentao Wu et.al.	[2512.19934](http://arxiv.org/pdf/2512.19934.pdf)	null
+**2025-12-22**	**Are All Data Necessary? Efficient Data Pruning for Large-scale Autonomous Driving Dataset via Trajectory Entropy Maximization**	Zhaoyang Liu et.al.	[2512.19270](http://arxiv.org/pdf/2512.19270.pdf)	null
+**2025-12-22**	**AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction**	Ruikai Li et.al.	[2512.19150](http://arxiv.org/pdf/2512.19150.pdf)	null
+**2025-12-22**	**WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving**	Pengxuan Yang et.al.	[2512.19133](http://arxiv.org/pdf/2512.19133.pdf)	null
+**2025-12-22**	**VOIC: Visible-Occluded Decoupling for Monocular 3D Semantic Scene Completion**	Zaidao Han et.al.	[2512.18954](http://arxiv.org/pdf/2512.18954.pdf)	null
+**2025-12-21**	**CrashChat: A Multimodal Large Language Model for Multitask Traffic Crash Video Analysis**	Kaidi Liang et.al.	[2512.18878](http://arxiv.org/pdf/2512.18878.pdf)	null
+**2025-12-27**	**InDRiVE: Reward-Free World-Model Pretraining for Autonomous Driving via Latent Disagreement**	Feeza Khan Khanzada et.al.	[2512.18850](http://arxiv.org/pdf/2512.18850.pdf)	null
+**2025-12-21**	**CauTraj: A Causal-Knowledge-Guided Framework for Lane-Changing Trajectory Planning of Autonomous Vehicles**	Cailin Lei et.al.	[2512.18703](http://arxiv.org/pdf/2512.18703.pdf)	null
+**2025-12-21**	**Offline Reinforcement Learning for End-to-End Autonomous Driving**	Chihiro Noguchi et.al.	[2512.18662](http://arxiv.org/pdf/2512.18662.pdf)	null
+**2025-12-20**	**Systematic Benchmarking of SUMO Against Data-Driven Traffic Simulators**	Erdao Liang et.al.	[2512.18537](http://arxiv.org/pdf/2512.18537.pdf)	null
+**2025-12-20**	**LLaViDA: A Large Language Vision Driving Assistant for Explicit Reasoning and Enhanced Trajectory Planning**	Yudong Liu et.al.	[2512.18211](http://arxiv.org/pdf/2512.18211.pdf)	null
+**2025-12-19**	**Uncertainty-Gated Region-Level Retrieval for Robust Semantic Segmentation**	Shreshth Rajan et.al.	[2512.18082](http://arxiv.org/pdf/2512.18082.pdf)	null
+<details><summary>Show 942 more papers...</summary>
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 **2025-12-19**	**StereoMV2D: A Sparse Temporal Stereo-Enhanced Framework for Robust Multi-View 3D Object Detection**	Di Wu et.al. et.al.	[2512.17620](2512.17620)	null
 **2025-12-23**	**Learning Safe Autonomous Driving Policies Using Predictive Safety Representations**	Mahesh Keswani et.al. et.al.	[2512.17586](2512.17586)	null
 **2025-12-22**	**TakeAD: Preference-based Post-optimization for End-to-end Autonomous Driving with Expert Takeover Data**	Deqing Liu et.al. et.al.	[2512.17370](2512.17370)	null
 **2025-12-25**	**Design and Research of a Self-Propelled Pipeline Robot Based on Force Analysis and Dynamic Simulation**	Yan Gao et.al. et.al.	[2512.17212](2512.17212)	null
-<details><summary>Show 938 more papers...</summary>
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 **2025-12-19**	**Globally Optimal Solution to the Generalized Relative Pose Estimation Problem using Affine Correspondences**	Zhenbao Yu et.al. et.al.	[2512.17188](2512.17188)	null
 **2025-12-18**	**DVGT: Driving Visual Geometry Transformer**	Sicheng Zuo et.al. et.al.	[2512.16919](2512.16919)	null
 **2025-12-18**	**SceneDiff: A Benchmark and Method for Multiview Object Change Detection**	Yuqun Wu et.al. et.al.	[2512.16908](2512.16908)	null
@@ -13019,93 +13084,95 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-**2026-01-15**	**DeepUrban: Interaction-Aware Trajectory Prediction and Planning for Automated Driving by Aerial Imagery**	Constantin Selzer et.al. et.al.	[2601.10554](2601.10554)	null
-**2026-01-15**	**Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control**	Yifan Xue et.al. et.al.	[2601.10233](2601.10233)	null
-**2026-01-14**	**How Human Motion Prediction Quality Shapes Social Robot Navigation Performance in Constrained Spaces**	Andrew Stratton et.al. et.al.	[2601.09856](2601.09856)	null
-**2026-01-14**	**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**	Xuemei Yao et.al. et.al.	[2601.09377](2601.09377)	null
-**2026-01-14**	**Feedback-Based Mobile Robot Navigation in 3-D Environments Using Artificial Potential Functions Technical Report**	Ro'i Lang et.al. et.al.	[2601.09318](2601.09318)	null
-**2026-01-09**	**EvoQRE: Modeling Bounded Rationality in Safety-Critical Traffic Simulation via Evolutionary Quantal Response Equilibrium**	Phu-Hoa Pham et.al. et.al.	[2601.05653](2601.05653)	null
-**2026-01-09**	**LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**	Chengen Xie et.al. et.al.	[2601.05611](2601.05611)	null
-**2026-01-07**	**Towards Safe Autonomous Driving: A Real-Time Motion Planning Algorithm on Embedded Hardware**	Korbinian Moller et.al. et.al.	[2601.03904](2601.03904)	null
-**2026-01-07**	**Locomotion Beyond Feet**	Tae Hoon Yang et.al. et.al.	[2601.03607](2601.03607)	null
-**2026-01-07**	**Semantic Belief-State World Model for 3D Human Motion Prediction**	Sarim Chaudhry et.al. et.al.	[2601.03517](2601.03517)	null
-**2026-01-06**	**A High-Fidelity Digital Twin for Robotic Manipulation Based on 3D Gaussian Splatting**	Ziyang Sun et.al. et.al.	[2601.03200](2601.03200)	null
-**2026-01-04**	**EscherVerse: An Open World Benchmark and Dataset for Teleo-Spatial Intelligence with Physical-Dynamic and Intent-Driven Understanding**	Tianjun Gu et.al. et.al.	[2601.01547](2601.01547)	null
-**2026-01-03**	**EduSim-LLM: An Educational Platform Integrating Large Language Models and Robotic Simulation for Beginners**	Shenqi Lu et.al. et.al.	[2601.01196](2601.01196)	null
-**2026-01-03**	**Latent Space Reinforcement Learning for Multi-Robot Exploration**	Sriram Rajasekar et.al. et.al.	[2601.01139](2601.01139)	null
-**2026-01-02**	**DynaDrag: Dynamic Drag-Style Image Editing by Motion Prediction**	Jiacheng Sui et.al. et.al.	[2601.00542](2601.00542)	null
-**2025-12-31**	**Reinforcement learning with timed constraints for robotics motion planning**	Zhaoan Wang et.al. et.al.	[2601.00087](2601.00087)	null
-**2025-12-31**	**Hybrid Motion Planning with Deep Reinforcement Learning for Mobile Robot Navigation**	Yury Kolomeytsev et.al. et.al.	[2512.24651](2512.24651)	null
-**2025-12-30**	**Local Path Optimization in The Latent Space Using Learned Distance Gradient**	Jiawei Zhang et.al. et.al.	[2512.24272](2512.24272)	null
-**2025-12-30**	**Think Before You Move: Latent Motion Reasoning for Text-to-Motion Generation**	Yijie Qian et.al. et.al.	[2512.24100](2512.24100)	null
-**2025-12-30**	**A multimodal Transformer for InSAR-based ground deformation forecasting with cross-site generalization across Europe**	Wendong Yao et.al. et.al.	[2512.23906](2512.23906)	null
-**2025-12-31**	**DriveLaW:Unifying Planning and Video Generation in a Latent Driving World**	Tianze Xia et.al. et.al.	[2512.23421](2512.23421)	null
-**2025-12-29**	**Towards the Automation in the Space Station: Feasibility Study and Ground Tests of a Multi-Limbed Intra-Vehicular Robot**	Seiko Piotr Yamaguchi et.al. et.al.	[2512.23153](2512.23153)	null
-**2025-12-27**	**Autoregressive Flow Matching for Motion Prediction**	Johnathan Xie et.al. et.al.	[2512.22688](2512.22688)	null
-**2025-12-27**	**ParaMaP: Parallel Mapping and Collision-free Motion Planning for Reactive Robot Manipulation**	Xuewei Zhang et.al. et.al.	[2512.22575](2512.22575)	null
-**2025-12-25**	**Spatiotemporal-Untrammelled Mixture of Experts for Multi-Person Motion Prediction**	Zheng Yin et.al. et.al.	[2512.21707](2512.21707)	null
-**2025-12-24**	**SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation**	Xiaoyu Mo et.al. et.al.	[2512.21133](2512.21133)	null
-**2025-12-23**	**YCB-Handovers Dataset: Analyzing Object Weight Impact on Human Handovers to Adapt Robotic Handover Motion**	Parag Khanna et.al. et.al.	[2512.20847](2512.20847)	null
+**2026-01-15**	**Future Optical Flow Prediction Improves Robot Control & Video Generation**	Kanchana Ranasinghe et.al.	[2601.10781](http://arxiv.org/pdf/2601.10781.pdf)	null
+**2025-12-22**	**Collaborative Continuum Robots: A Survey**	Xinyu Li et.al.	[2601.10721](http://arxiv.org/pdf/2601.10721.pdf)	null
+**2026-01-15**	**DeepUrban: Interaction-Aware Trajectory Prediction and Planning for Automated Driving by Aerial Imagery**	Constantin Selzer et.al.	[2601.10554](http://arxiv.org/pdf/2601.10554.pdf)	null
+**2026-01-15**	**Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control**	Yifan Xue et.al.	[2601.10233](http://arxiv.org/pdf/2601.10233.pdf)	null
+**2026-01-14**	**How Human Motion Prediction Quality Shapes Social Robot Navigation Performance in Constrained Spaces**	Andrew Stratton et.al.	[2601.09856](http://arxiv.org/pdf/2601.09856.pdf)	null
+**2026-01-14**	**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**	Xuemei Yao et.al.	[2601.09377](http://arxiv.org/pdf/2601.09377.pdf)	null
+**2026-01-14**	**Feedback-Based Mobile Robot Navigation in 3-D Environments Using Artificial Potential Functions Technical Report**	Ro'i Lang et.al.	[2601.09318](http://arxiv.org/pdf/2601.09318.pdf)	null
+**2026-01-09**	**EvoQRE: Modeling Bounded Rationality in Safety-Critical Traffic Simulation via Evolutionary Quantal Response Equilibrium**	Phu-Hoa Pham et.al.	[2601.05653](http://arxiv.org/pdf/2601.05653.pdf)	null
+**2026-01-09**	**LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**	Chengen Xie et.al.	[2601.05611](http://arxiv.org/pdf/2601.05611.pdf)	null
+**2026-01-07**	**Towards Safe Autonomous Driving: A Real-Time Motion Planning Algorithm on Embedded Hardware**	Korbinian Moller et.al.	[2601.03904](http://arxiv.org/pdf/2601.03904.pdf)	null
+**2026-01-07**	**Locomotion Beyond Feet**	Tae Hoon Yang et.al.	[2601.03607](http://arxiv.org/pdf/2601.03607.pdf)	null
+**2026-01-07**	**Semantic Belief-State World Model for 3D Human Motion Prediction**	Sarim Chaudhry et.al.	[2601.03517](http://arxiv.org/pdf/2601.03517.pdf)	null
+**2026-01-06**	**A High-Fidelity Digital Twin for Robotic Manipulation Based on 3D Gaussian Splatting**	Ziyang Sun et.al.	[2601.03200](http://arxiv.org/pdf/2601.03200.pdf)	null
+**2026-01-04**	**EscherVerse: An Open World Benchmark and Dataset for Teleo-Spatial Intelligence with Physical-Dynamic and Intent-Driven Understanding**	Tianjun Gu et.al.	[2601.01547](http://arxiv.org/pdf/2601.01547.pdf)	null
+**2026-01-03**	**EduSim-LLM: An Educational Platform Integrating Large Language Models and Robotic Simulation for Beginners**	Shenqi Lu et.al.	[2601.01196](http://arxiv.org/pdf/2601.01196.pdf)	null
+**2026-01-03**	**Latent Space Reinforcement Learning for Multi-Robot Exploration**	Sriram Rajasekar et.al.	[2601.01139](http://arxiv.org/pdf/2601.01139.pdf)	null
+**2026-01-02**	**DynaDrag: Dynamic Drag-Style Image Editing by Motion Prediction**	Jiacheng Sui et.al.	[2601.00542](http://arxiv.org/pdf/2601.00542.pdf)	null
+**2025-12-31**	**Reinforcement learning with timed constraints for robotics motion planning**	Zhaoan Wang et.al.	[2601.00087](http://arxiv.org/pdf/2601.00087.pdf)	null
+**2025-12-31**	**Hybrid Motion Planning with Deep Reinforcement Learning for Mobile Robot Navigation**	Yury Kolomeytsev et.al.	[2512.24651](http://arxiv.org/pdf/2512.24651.pdf)	null
+**2025-12-30**	**Local Path Optimization in The Latent Space Using Learned Distance Gradient**	Jiawei Zhang et.al.	[2512.24272](http://arxiv.org/pdf/2512.24272.pdf)	null
+**2025-12-30**	**Think Before You Move: Latent Motion Reasoning for Text-to-Motion Generation**	Yijie Qian et.al.	[2512.24100](http://arxiv.org/pdf/2512.24100.pdf)	null
+**2025-12-30**	**A multimodal Transformer for InSAR-based ground deformation forecasting with cross-site generalization across Europe**	Wendong Yao et.al.	[2512.23906](http://arxiv.org/pdf/2512.23906.pdf)	null
+**2025-12-31**	**DriveLaW:Unifying Planning and Video Generation in a Latent Driving World**	Tianze Xia et.al.	[2512.23421](http://arxiv.org/pdf/2512.23421.pdf)	null
+**2025-12-29**	**Towards the Automation in the Space Station: Feasibility Study and Ground Tests of a Multi-Limbed Intra-Vehicular Robot**	Seiko Piotr Yamaguchi et.al.	[2512.23153](http://arxiv.org/pdf/2512.23153.pdf)	null
+**2025-12-27**	**Autoregressive Flow Matching for Motion Prediction**	Johnathan Xie et.al.	[2512.22688](http://arxiv.org/pdf/2512.22688.pdf)	null
+**2025-12-27**	**ParaMaP: Parallel Mapping and Collision-free Motion Planning for Reactive Robot Manipulation**	Xuewei Zhang et.al.	[2512.22575](http://arxiv.org/pdf/2512.22575.pdf)	null
+**2025-12-25**	**Spatiotemporal-Untrammelled Mixture of Experts for Multi-Person Motion Prediction**	Zheng Yin et.al.	[2512.21707](http://arxiv.org/pdf/2512.21707.pdf)	null
+**2025-12-24**	**SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation**	Xiaoyu Mo et.al.	[2512.21133](http://arxiv.org/pdf/2512.21133.pdf)	null
+**2025-12-23**	**YCB-Handovers Dataset: Analyzing Object Weight Impact on Human Handovers to Adapt Robotic Handover Motion**	Parag Khanna et.al.	[2512.20847](http://arxiv.org/pdf/2512.20847.pdf)	null
 ****2025-12-29****	****Contingency Model-based Control (CMC) for Communicationless Cooperative Collision Avoidance in Robot Swarms****	Georg Schildbach et.al. et.al.	[2512.20391)]([2512.20391](http://arxiv.org/pdf/2512.20391.pdf))	null
-**2025-12-22**	**Results of the 2024 CommonRoad Motion Planning Competition for Autonomous Vehicles**	Yanliang Huang et.al. et.al.	[2512.19564](2512.19564)	null
-**2025-12-21**	**CauTraj: A Causal-Knowledge-Guided Framework for Lane-Changing Trajectory Planning of Autonomous Vehicles**	Cailin Lei et.al. et.al.	[2512.18703](2512.18703)	null
-**2025-12-20**	**Systematic Benchmarking of SUMO Against Data-Driven Traffic Simulators**	Erdao Liang et.al. et.al.	[2512.18537](2512.18537)	null
-**2025-12-20**	**LLaViDA: A Large Language Vision Driving Assistant for Explicit Reasoning and Enhanced Trajectory Planning**	Yudong Liu et.al. et.al.	[2512.18211](2512.18211)	null
-**2025-12-19**	**AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning**	Ran Gong et.al. et.al.	[2512.17853](2512.17853)	null
-**2025-12-22**	**Predictive Modeling of Maritime Radar Data Using Transformer Architecture**	Bjorna Qesaraku et.al. et.al.	[2512.17098](2512.17098)	null
-**2025-12-18**	**Lang2Manip: A Tool for LLM-Based Symbolic-to-Geometric Planning for Manipulation**	Muhayy Ud Din et.al. et.al.	[2512.17062](2512.17062)	null
-**2025-12-30**	**Flowing from Reasoning to Motion: Learning 3D Hand Trajectory Prediction from Egocentric Human Interaction Videos**	Mingfei Chen et.al. et.al.	[2512.16907](2512.16907)	null
-**2025-12-18**	**ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning**	Zihan Zhou et.al. et.al.	[2512.16861](2512.16861)	null
-**2025-12-18**	**A Task-Driven, Planner-in-the-Loop Computational Design Framework for Modular Manipulators**	Maolin Lei et.al. et.al.	[2512.16069](2512.16069)	null
-**2025-12-16**	**CoLD Fusion: A Real-time Capable Spline-based Fusion Algorithm for Collective Lane Detection**	Jörg Gamerdinger et.al. et.al.	[2512.14355](2512.14355)	null
-**2025-12-16**	**Vector Prism: Animating Vector Graphics by Stratifying Semantic Structure**	Jooyeol Yun et.al. et.al.	[2512.14336](2512.14336)	null
-**2025-12-16**	**Interactive Motion Planning for Human-Robot Collaboration Based on Human-Centric Configuration Space Ergonomic Field**	Chenzui Li et.al. et.al.	[2512.14111](2512.14111)	null
-**2025-12-15**	**PrediFlow: A Flow-Based Prediction-Refinement Framework for Real-Time Human Motion Prediction in Human-Robot Collaboration**	Sibo Tian et.al. et.al.	[2512.13903](2512.13903)	null
-**2025-12-15**	**Multi-Robot Motion Planning from Vision and Language using Heat-Inspired Diffusion**	Jebeom Chae et.al. et.al.	[2512.13090](2512.13090)	null
-**2025-12-14**	**HMPCC: Human-Aware Model Predictive Coverage Control**	Mattia Catellani et.al. et.al.	[2512.12717](2512.12717)	null
-**2025-12-13**	**Unifying Quadrotor Motion Planning and Control by Chaining Different Fidelity Models**	Rudolf Reiter et.al. et.al.	[2512.12427](2512.12427)	null
-**2025-12-13**	**Measuring What Matters: Scenario-Driven Evaluation for Trajectory Predictors in Autonomous Driving**	Longchao Da et.al. et.al.	[2512.12211](2512.12211)	null
-**2025-12-12**	**A Review of Learning-Based Motion Planning: Toward a Data-Driven Optimal Control Approach**	Jia Hu et.al. et.al.	[2512.11944](2512.11944)	null
-**2025-12-06**	**WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving**	Mingwang Xu et.al. et.al.	[2512.11872](2512.11872)	null
-**2025-12-03**	**Car-following Models and Congestion Control with Followerstopper on a Ring-Road under Known Delay -- Examining Limit Cycle**	Trevor McClain et.al. et.al.	[2512.11842](2512.11842)	null
-**2025-12-12**	**Cross-Entropy Optimization of Physically Grounded Task and Motion Plans**	Andreu Matoses Gimenez et.al. et.al.	[2512.11571](2512.11571)	null
-**2025-12-12**	**FutureX: Enhance End-to-End Autonomous Driving via Latent Chain-of-Thought World Model**	Hongbin Lin et.al. et.al.	[2512.11226](2512.11226)	null
-**2025-12-11**	**Motion Planning for Safe Landing of a Human-Piloted Parafoil**	Maximillian Fainkich et.al. et.al.	[2512.10595](2512.10595)	null
-**2025-12-10**	**Fast Functionally Redundant Inverse Kinematics for Robotic Toolpath Optimisation in Manufacturing Tasks**	Andrew Razjigaev et.al. et.al.	[2512.10116](2512.10116)	null
-**2025-12-10**	**An Automated Tip-and-Cue Framework for Optimized Satellite Tasking and Visual Intelligence**	Gil Weissman et.al. et.al.	[2512.09670](2512.09670)	null
-**2025-12-10**	**FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds**	Marco Pegoraro et.al. et.al.	[2512.09423](2512.09423)	null
-**2025-12-10**	**Mind to Hand: Purposeful Robotic Control via Embodied Reasoning**	Peijun Tang et.al. et.al.	[2512.08580](2512.08580)	null
-**2025-12-09**	**High-Performance Dual-Arm Task and Motion Planning for Tabletop Rearrangement**	Duo Zhang et.al. et.al.	[2512.08206](2512.08206)	null
-**2025-12-07**	**A Hetero-Associative Sequential Memory Model Utilizing Neuromorphic Signals: Validated on a Mobile Manipulator**	Runcong Wang et.al. et.al.	[2512.07032](2512.07032)	null
-**2025-12-09**	**db-LaCAM: Fast and Scalable Multi-Robot Kinodynamic Motion Planning with Discontinuity-Bounded Search and Lightweight MAPF**	Akmaral Moldagalieva et.al. et.al.	[2512.06796](2512.06796)	null
-**2025-12-05**	**Multi-Modal Zero-Shot Prediction of Color Trajectories in Food Drying**	Shichen Li et.al. et.al.	[2512.06190](2512.06190)	null
-**2025-12-11**	**WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving**	Yifang Xu et.al. et.al.	[2512.06112](2512.06112)	null
+**2025-12-22**	**Results of the 2024 CommonRoad Motion Planning Competition for Autonomous Vehicles**	Yanliang Huang et.al.	[2512.19564](http://arxiv.org/pdf/2512.19564.pdf)	null
+**2025-12-21**	**CauTraj: A Causal-Knowledge-Guided Framework for Lane-Changing Trajectory Planning of Autonomous Vehicles**	Cailin Lei et.al.	[2512.18703](http://arxiv.org/pdf/2512.18703.pdf)	null
+**2025-12-20**	**Systematic Benchmarking of SUMO Against Data-Driven Traffic Simulators**	Erdao Liang et.al.	[2512.18537](http://arxiv.org/pdf/2512.18537.pdf)	null
+**2025-12-20**	**LLaViDA: A Large Language Vision Driving Assistant for Explicit Reasoning and Enhanced Trajectory Planning**	Yudong Liu et.al.	[2512.18211](http://arxiv.org/pdf/2512.18211.pdf)	null
+**2025-12-19**	**AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning**	Ran Gong et.al.	[2512.17853](http://arxiv.org/pdf/2512.17853.pdf)	null
+**2025-12-22**	**Predictive Modeling of Maritime Radar Data Using Transformer Architecture**	Bjorna Qesaraku et.al.	[2512.17098](http://arxiv.org/pdf/2512.17098.pdf)	null
+**2025-12-18**	**Lang2Manip: A Tool for LLM-Based Symbolic-to-Geometric Planning for Manipulation**	Muhayy Ud Din et.al.	[2512.17062](http://arxiv.org/pdf/2512.17062.pdf)	null
+**2025-12-30**	**Flowing from Reasoning to Motion: Learning 3D Hand Trajectory Prediction from Egocentric Human Interaction Videos**	Mingfei Chen et.al.	[2512.16907](http://arxiv.org/pdf/2512.16907.pdf)	null
+**2025-12-18**	**ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning**	Zihan Zhou et.al.	[2512.16861](http://arxiv.org/pdf/2512.16861.pdf)	null
+**2025-12-18**	**A Task-Driven, Planner-in-the-Loop Computational Design Framework for Modular Manipulators**	Maolin Lei et.al.	[2512.16069](http://arxiv.org/pdf/2512.16069.pdf)	null
+**2025-12-16**	**CoLD Fusion: A Real-time Capable Spline-based Fusion Algorithm for Collective Lane Detection**	Jörg Gamerdinger et.al.	[2512.14355](http://arxiv.org/pdf/2512.14355.pdf)	null
+**2025-12-16**	**Vector Prism: Animating Vector Graphics by Stratifying Semantic Structure**	Jooyeol Yun et.al.	[2512.14336](http://arxiv.org/pdf/2512.14336.pdf)	null
+**2025-12-16**	**Interactive Motion Planning for Human-Robot Collaboration Based on Human-Centric Configuration Space Ergonomic Field**	Chenzui Li et.al.	[2512.14111](http://arxiv.org/pdf/2512.14111.pdf)	null
+**2025-12-15**	**PrediFlow: A Flow-Based Prediction-Refinement Framework for Real-Time Human Motion Prediction in Human-Robot Collaboration**	Sibo Tian et.al.	[2512.13903](http://arxiv.org/pdf/2512.13903.pdf)	null
+**2025-12-15**	**Multi-Robot Motion Planning from Vision and Language using Heat-Inspired Diffusion**	Jebeom Chae et.al.	[2512.13090](http://arxiv.org/pdf/2512.13090.pdf)	null
+**2025-12-14**	**HMPCC: Human-Aware Model Predictive Coverage Control**	Mattia Catellani et.al.	[2512.12717](http://arxiv.org/pdf/2512.12717.pdf)	null
+**2025-12-13**	**Unifying Quadrotor Motion Planning and Control by Chaining Different Fidelity Models**	Rudolf Reiter et.al.	[2512.12427](http://arxiv.org/pdf/2512.12427.pdf)	null
+**2025-12-13**	**Measuring What Matters: Scenario-Driven Evaluation for Trajectory Predictors in Autonomous Driving**	Longchao Da et.al.	[2512.12211](http://arxiv.org/pdf/2512.12211.pdf)	null
+**2025-12-12**	**A Review of Learning-Based Motion Planning: Toward a Data-Driven Optimal Control Approach**	Jia Hu et.al.	[2512.11944](http://arxiv.org/pdf/2512.11944.pdf)	null
+**2025-12-06**	**WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving**	Mingwang Xu et.al.	[2512.11872](http://arxiv.org/pdf/2512.11872.pdf)	null
+**2025-12-03**	**Car-following Models and Congestion Control with Followerstopper on a Ring-Road under Known Delay -- Examining Limit Cycle**	Trevor McClain et.al.	[2512.11842](http://arxiv.org/pdf/2512.11842.pdf)	null
+**2025-12-12**	**Cross-Entropy Optimization of Physically Grounded Task and Motion Plans**	Andreu Matoses Gimenez et.al.	[2512.11571](http://arxiv.org/pdf/2512.11571.pdf)	null
+**2025-12-12**	**FutureX: Enhance End-to-End Autonomous Driving via Latent Chain-of-Thought World Model**	Hongbin Lin et.al.	[2512.11226](http://arxiv.org/pdf/2512.11226.pdf)	null
+**2025-12-11**	**Motion Planning for Safe Landing of a Human-Piloted Parafoil**	Maximillian Fainkich et.al.	[2512.10595](http://arxiv.org/pdf/2512.10595.pdf)	null
+**2025-12-10**	**Fast Functionally Redundant Inverse Kinematics for Robotic Toolpath Optimisation in Manufacturing Tasks**	Andrew Razjigaev et.al.	[2512.10116](http://arxiv.org/pdf/2512.10116.pdf)	null
+**2025-12-10**	**An Automated Tip-and-Cue Framework for Optimized Satellite Tasking and Visual Intelligence**	Gil Weissman et.al.	[2512.09670](http://arxiv.org/pdf/2512.09670.pdf)	null
+**2025-12-10**	**FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds**	Marco Pegoraro et.al.	[2512.09423](http://arxiv.org/pdf/2512.09423.pdf)	null
+**2025-12-10**	**Mind to Hand: Purposeful Robotic Control via Embodied Reasoning**	Peijun Tang et.al.	[2512.08580](http://arxiv.org/pdf/2512.08580.pdf)	null
+**2025-12-09**	**High-Performance Dual-Arm Task and Motion Planning for Tabletop Rearrangement**	Duo Zhang et.al.	[2512.08206](http://arxiv.org/pdf/2512.08206.pdf)	null
+**2025-12-07**	**A Hetero-Associative Sequential Memory Model Utilizing Neuromorphic Signals: Validated on a Mobile Manipulator**	Runcong Wang et.al.	[2512.07032](http://arxiv.org/pdf/2512.07032.pdf)	null
+**2025-12-09**	**db-LaCAM: Fast and Scalable Multi-Robot Kinodynamic Motion Planning with Discontinuity-Bounded Search and Lightweight MAPF**	Akmaral Moldagalieva et.al.	[2512.06796](http://arxiv.org/pdf/2512.06796.pdf)	null
+**2025-12-05**	**Multi-Modal Zero-Shot Prediction of Color Trajectories in Food Drying**	Shichen Li et.al.	[2512.06190](http://arxiv.org/pdf/2512.06190.pdf)	null
+**2025-12-11**	**WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving**	Yifang Xu et.al.	[2512.06112](http://arxiv.org/pdf/2512.06112.pdf)	null
 ****2025-12-05****	****Training-Time Action Conditioning for Efficient Real-Time Chunking****	Kevin Black et.al. et.al.	[2512.05964)]([2512.05964](http://arxiv.org/pdf/2512.05964.pdf))	null
 ****2025-12-05****	****Toward Efficient and Robust Behavior Models for Multi-Agent Driving Simulation****	Fabian Konstantinidis et.al. et.al.	[2512.05812)]([2512.05812](http://arxiv.org/pdf/2512.05812.pdf))	null
 ****2025-12-05****	****Bayesian Active Inference for Intelligent UAV Anti-Jamming and Adaptive Trajectory Planning****	Ali Krayani et.al. et.al.	[2512.05711)]([2512.05711](http://arxiv.org/pdf/2512.05711.pdf))	null
-**2025-12-05**	**Scenario-aware Uncertainty Quantification for Trajectory Prediction with Statistical Guarantees**	Yiming Shu et.al. et.al.	[2512.05682](2512.05682)	null
-**2025-12-04**	**XR-DT: Extended Reality-Enhanced Digital Twin for Agentic Mobile Robots**	Tianyi Wang et.al. et.al.	[2512.05270](2512.05270)	null
+**2025-12-05**	**Scenario-aware Uncertainty Quantification for Trajectory Prediction with Statistical Guarantees**	Yiming Shu et.al.	[2512.05682](http://arxiv.org/pdf/2512.05682.pdf)	null
+**2025-12-04**	**XR-DT: Extended Reality-Enhanced Digital Twin for Agentic Mobile Robots**	Tianyi Wang et.al.	[2512.05270](http://arxiv.org/pdf/2512.05270.pdf)	null
 ****2025-12-04****	****TV2TV: A Unified Framework for Interleaved Language and Video Generation****	Xiaochuang Han et.al. et.al.	[2512.05103)]([2512.05103](http://arxiv.org/pdf/2512.05103.pdf))	null
-**2025-12-04**	**Contact-Implicit Modeling and Simulation of a Snake Robot on Compliant and Granular Terrain**	Haroon Hublikar et.al. et.al.	[2512.05008](2512.05008)	null
+**2025-12-04**	**Contact-Implicit Modeling and Simulation of a Snake Robot on Compliant and Granular Terrain**	Haroon Hublikar et.al.	[2512.05008](http://arxiv.org/pdf/2512.05008.pdf)	null
 ****2025-12-04****	****Back to Basics: Motion Representation Matters for Human Motion Generation Using Diffusion Model****	Yuduo Jin et.al. et.al.	[2512.04499)]([2512.04499](http://arxiv.org/pdf/2512.04499.pdf))	null
 ****2025-12-04****	****DeRA: Decoupled Representation Alignment for Video Tokenization****	Pengbo Guo et.al. et.al.	[2512.04483)]([2512.04483](http://arxiv.org/pdf/2512.04483.pdf))	null
-**2025-12-04**	**Vision-Language-Action Models for Selective Robotic Disassembly: A Case Study on Critical Component Extraction from Desktops**	Chang Liu et.al. et.al.	[2512.04446](2512.04446)	null
+**2025-12-04**	**Vision-Language-Action Models for Selective Robotic Disassembly: A Case Study on Critical Component Extraction from Desktops**	Chang Liu et.al.	[2512.04446](http://arxiv.org/pdf/2512.04446.pdf)	null
 ****2025-12-04****	****MindDrive: An All-in-One Framework Bridging World Models and Vision-Language Model for End-to-End Autonomous Driving****	Bin Sun et.al. et.al.	[2512.04441)]([2512.04441](http://arxiv.org/pdf/2512.04441.pdf))	null
 ****2025-12-04****	****FMA-Net++: Motion- and Exposure-Aware Real-World Joint Video Super-Resolution and Deblurring****	Geunhyuk Youk et.al. et.al.	[2512.04390)]([2512.04390](http://arxiv.org/pdf/2512.04390.pdf))	null
-**2025-12-03**	**Gamma-from-Mono: Road-Relative, Metric, Self-Supervised Monocular Geometry for Vehicular Applications**	Gasser Elazab et.al. et.al.	[2512.04303](2512.04303)	null
+**2025-12-03**	**Gamma-from-Mono: Road-Relative, Metric, Self-Supervised Monocular Geometry for Vehicular Applications**	Gasser Elazab et.al.	[2512.04303](http://arxiv.org/pdf/2512.04303.pdf)	null
 ****2025-12-03****	****Inference-time Stochastic Refinement of GRU-Normalizing Flow for Real-time Video Motion Transfer****	Tasmiah Haque et.al. et.al.	[2512.04282)]([2512.04282](http://arxiv.org/pdf/2512.04282.pdf))	null
-**2025-12-03**	**Driving is a Game: Combining Planning and Prediction with Bayesian Iterative Best Response**	Aron Distelzweig et.al. et.al.	[2512.03936](2512.03936)	null
-**2025-12-03**	**MPCFormer: A physics-informed data-driven approach for explainable socially-aware autonomous driving**	Jia Hu et.al. et.al.	[2512.03795](2512.03795)	null
-**2025-12-03**	**Safety Reinforced Model Predictive Control (SRMPC): Improving MPC with Reinforcement Learning for Motion Planning in Autonomous Driving**	Johannes Fischer et.al. et.al.	[2512.03774](2512.03774)	null
+**2025-12-03**	**Driving is a Game: Combining Planning and Prediction with Bayesian Iterative Best Response**	Aron Distelzweig et.al.	[2512.03936](http://arxiv.org/pdf/2512.03936.pdf)	null
+**2025-12-03**	**MPCFormer: A physics-informed data-driven approach for explainable socially-aware autonomous driving**	Jia Hu et.al.	[2512.03795](http://arxiv.org/pdf/2512.03795.pdf)	null
+**2025-12-03**	**Safety Reinforced Model Predictive Control (SRMPC): Improving MPC with Reinforcement Learning for Motion Planning in Autonomous Driving**	Johannes Fischer et.al.	[2512.03774](http://arxiv.org/pdf/2512.03774.pdf)	null
 ****2025-12-03****	****Bayesian Optimization for Automatic Tuning of Torque-Level Nonlinear Model Predictive Control****	Gabriele Fadini et.al. et.al.	[2512.03772)]([2512.03772](http://arxiv.org/pdf/2512.03772.pdf))	null
-**2025-12-03**	**Prediction-Driven Motion Planning: Route Integration Strategies in Attention-Based Prediction Models**	Marlon Steiner et.al. et.al.	[2512.03756](2512.03756)	null
-**2025-12-03**	**ContactRL: Safe Reinforcement Learning based Motion Planning for Contact based Human Robot Collaboration**	Sundas Rafat Mulkana et.al. et.al.	[2512.03707](2512.03707)	null
+**2025-12-03**	**Prediction-Driven Motion Planning: Route Integration Strategies in Attention-Based Prediction Models**	Marlon Steiner et.al.	[2512.03756](http://arxiv.org/pdf/2512.03756.pdf)	null
+**2025-12-03**	**ContactRL: Safe Reinforcement Learning based Motion Planning for Contact based Human Robot Collaboration**	Sundas Rafat Mulkana et.al.	[2512.03707](http://arxiv.org/pdf/2512.03707.pdf)	null
 ****2025-12-03****	****A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection****	Shahid Ansari et.al. et.al.	[2512.03684)]([2512.03684](http://arxiv.org/pdf/2512.03684.pdf))	null
-**2025-12-03**	**Multimodal Control of Manipulators: Coupling Kinematics and Vision for Self-Driving Laboratory Operations**	Shifa Sulaiman et.al. et.al.	[2512.03630](2512.03630)	null
-**2025-12-08**	**LAMP: Language-Assisted Motion Planning for Controllable Video Generation**	Muhammed Burak Kizil et.al. et.al.	[2512.03619](2512.03619)	null
+**2025-12-03**	**Multimodal Control of Manipulators: Coupling Kinematics and Vision for Self-Driving Laboratory Operations**	Shifa Sulaiman et.al.	[2512.03630](http://arxiv.org/pdf/2512.03630.pdf)	null
+**2025-12-08**	**LAMP: Language-Assisted Motion Planning for Controllable Video Generation**	Muhammed Burak Kizil et.al.	[2512.03619](http://arxiv.org/pdf/2512.03619.pdf)	null
 ****2025-12-03****	****RoboScape-R: Unified Reward-Observation World Models for Generalizable Robotics Training via RL****	Yinzhou Tang et.al. et.al.	[2512.03556)]([2512.03556](http://arxiv.org/pdf/2512.03556.pdf))	null
 ****2025-12-03****	****GeoVideo: Introducing Geometric Regularization into Video Generation Model****	Yunpeng Bai et.al. et.al.	[2512.03453)]([2512.03453](http://arxiv.org/pdf/2512.03453.pdf))	null
-**2025-12-03**	**PerFACT: Motion Policy with LLM-Powered Dataset Synthesis and Fusion Action-Chunking Transformers**	Davood Soleymanzadeh et.al. et.al.	[2512.03444](2512.03444)	null
+**2025-12-03**	**PerFACT: Motion Policy with LLM-Powered Dataset Synthesis and Fusion Action-Chunking Transformers**	Davood Soleymanzadeh et.al.	[2512.03444](http://arxiv.org/pdf/2512.03444.pdf)	null
 ****2025-12-03****	****ProtoEFNet: Dynamic Prototype Learning for Inherently Interpretable Ejection Fraction Estimation in Echocardiography****	Yeganeh Ghamary et.al. et.al.	[2512.03339)]([2512.03339](http://arxiv.org/pdf/2512.03339.pdf))	null
 ****2025-12-02****	****Flux4D: Flow-based Unsupervised 4D Reconstruction****	Jingkang Wang et.al. et.al.	[2512.03210)]([2512.03210](http://arxiv.org/pdf/2512.03210.pdf))	null
 ****2025-12-02****	****DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes using Unposed Images****	Xiaoxue Chen et.al. et.al.	[2512.03004)]([2512.03004](http://arxiv.org/pdf/2512.03004.pdf))	null
@@ -13113,26 +13180,26 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 ****2025-12-03****	****SwarmDiffusion: End-To-End Traversability-Guided Diffusion for Embodiment-Agnostic Navigation of Heterogeneous Robots****	Iana Zhura et.al. et.al.	[2512.02851)]([2512.02851](http://arxiv.org/pdf/2512.02851.pdf))	null
 ****2025-12-02****	****ReVSeg: Incentivizing the Reasoning Chain for Video Segmentation with Reinforcement Learning****	Yifan Li et.al. et.al.	[2512.02835)]([2512.02835](http://arxiv.org/pdf/2512.02835.pdf))	null
 ****2025-12-02****	****Rethinking Surgical Smoke: A Smoke-Type-Aware Laparoscopic Video Desmoking Method and Dataset****	Qifan Liang et.al. et.al.	[2512.02780)]([2512.02780](http://arxiv.org/pdf/2512.02780.pdf))	null
-**2025-12-02**	**CogDrive: Cognition-Driven Multimodal Prediction-Planning Fusion for Safe Autonomy**	Heye Huang et.al. et.al.	[2512.02777](2512.02777)	null
+**2025-12-02**	**CogDrive: Cognition-Driven Multimodal Prediction-Planning Fusion for Safe Autonomy**	Heye Huang et.al.	[2512.02777](http://arxiv.org/pdf/2512.02777.pdf)	null
 ****2025-12-02****	****Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models****	Xinyue Ai et.al. et.al.	[2512.02636)]([2512.02636](http://arxiv.org/pdf/2512.02636.pdf))	null
 ****2025-12-02****	****SAM2Grasp: Resolve Multi-modal Grasping via Prompt-conditioned Temporal Action Prediction****	Shengkai Wu et.al. et.al.	[2512.02609)]([2512.02609](http://arxiv.org/pdf/2512.02609.pdf))	null
 ****2025-12-02****	****YingVideo-MV: Music-Driven Multi-Stage Video Generation****	Jiahui Chen et.al. et.al.	[2512.02492)]([2512.02492](http://arxiv.org/pdf/2512.02492.pdf))	null
-****2025-12-03****	****Does Hearing Help Seeing? Investigating Audio-Video Joint Denoising for Video Generation****	Jianzong Wu et.al. et.al.	[2512.02457)]([2512.02457](http://arxiv.org/pdf/2512.02457.pdf))	null
-****2025-12-02****	****On-the-fly Feedback SfM: Online Explore-and-Exploit UAV Photogrammetry with Incremental Mesh Quality-Aware Indicator and Predictive Path Planning****	Liyuan Lou et.al. et.al.	[2512.02375)]([2512.02375](http://arxiv.org/pdf/2512.02375.pdf))	null
-<details><summary>Show 722 more papers...</summary>
+<details><summary>Show 724 more papers...</summary>
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-**2025-12-02**	**Multi-Domain Enhanced Map-Free Trajectory Prediction with Selective Attention**	Wenyi Xiong et.al. et.al.	[2512.02368](2512.02368)	null
+****2025-12-03****	****Does Hearing Help Seeing? Investigating Audio-Video Joint Denoising for Video Generation****	Jianzong Wu et.al. et.al.	[2512.02457)]([2512.02457](http://arxiv.org/pdf/2512.02457.pdf))	null
+****2025-12-02****	****On-the-fly Feedback SfM: Online Explore-and-Exploit UAV Photogrammetry with Incremental Mesh Quality-Aware Indicator and Predictive Path Planning****	Liyuan Lou et.al. et.al.	[2512.02375)]([2512.02375](http://arxiv.org/pdf/2512.02375.pdf))	null
+**2025-12-02**	**Multi-Domain Enhanced Map-Free Trajectory Prediction with Selective Attention**	Wenyi Xiong et.al.	[2512.02368](http://arxiv.org/pdf/2512.02368.pdf)	null
 ****2025-12-02****	****On the Convergence of Density-Based Predictive Control for Multi-Agent Non-Uniform Area Coverage****	Sungjun Seo et.al. et.al.	[2512.02367)]([2512.02367](http://arxiv.org/pdf/2512.02367.pdf))	null
 ****2025-12-02****	****TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction****	Fengyi Zhang et.al. et.al.	[2512.02341)]([2512.02341](http://arxiv.org/pdf/2512.02341.pdf))	null
 ****2025-12-01****	****EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI****	Jianlei Chang et.al. et.al.	[2512.02020)]([2512.02020](http://arxiv.org/pdf/2512.02020.pdf))	null
-**2025-12-01**	**RoaD: Rollouts as Demonstrations for Closed-Loop Supervised Fine-Tuning of Autonomous Driving Policies**	Guillermo Garcia-Cobo et.al. et.al.	[2512.01993](2512.01993)	null
+**2025-12-01**	**RoaD: Rollouts as Demonstrations for Closed-Loop Supervised Fine-Tuning of Autonomous Driving Policies**	Guillermo Garcia-Cobo et.al.	[2512.01993](http://arxiv.org/pdf/2512.01993.pdf)	null
 ****2025-12-01****	****GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment****	Haoyang He et.al. et.al.	[2512.01952)]([2512.01952](http://arxiv.org/pdf/2512.01952.pdf))	null
-**2025-12-01**	**Physical ID-Transfer Attacks against Multi-Object Tracking via Adversarial Trajectory**	Chenyi Wang et.al. et.al.	[2512.01934](2512.01934)	null
+**2025-12-01**	**Physical ID-Transfer Attacks against Multi-Object Tracking via Adversarial Trajectory**	Chenyi Wang et.al.	[2512.01934](http://arxiv.org/pdf/2512.01934.pdf)	null
 ****2025-12-01****	****StreamGaze: Gaze-Guided Temporal Reasoning and Proactive Understanding in Streaming Videos****	Daeun Lee et.al. et.al.	[2512.01707)]([2512.01707](http://arxiv.org/pdf/2512.01707.pdf))	null
 ****2025-12-01****	****Dynamic Log-Gaussian Process Control Barrier Function for Safe Robotic Navigation in Dynamic Environments****	Xin Yin et.al. et.al.	[2512.01668)]([2512.01668](http://arxiv.org/pdf/2512.01668.pdf))	null
-**2025-12-09**	**CourtMotion: Learning Event-Driven Motion Representations from Skeletal Data for Basketball**	Omer Sela et.al. et.al.	[2512.01478](2512.01478)	null
-**2025-12-01**	**Modality-Augmented Fine-Tuning of Foundation Robot Policies for Cross-Embodiment Manipulation on GR1 and G1**	Junsung Park et.al. et.al.	[2512.01358](2512.01358)	null
+**2025-12-09**	**CourtMotion: Learning Event-Driven Motion Representations from Skeletal Data for Basketball**	Omer Sela et.al.	[2512.01478](http://arxiv.org/pdf/2512.01478.pdf)	null
+**2025-12-01**	**Modality-Augmented Fine-Tuning of Foundation Robot Policies for Cross-Embodiment Manipulation on GR1 and G1**	Junsung Park et.al.	[2512.01358](http://arxiv.org/pdf/2512.01358.pdf)	null
 ****2025-12-01****	****InternVideo-Next: Towards General Video Foundation Models without Video-Text Supervision****	Chenting Wang et.al. et.al.	[2512.01342)]([2512.01342](http://arxiv.org/pdf/2512.01342.pdf))	null
 ****2025-12-01****	****DPAC: Distribution-Preserving Adversarial Control for Diffusion Sampling****	Han-Jin Lee et.al. et.al.	[2512.01153)]([2512.01153](http://arxiv.org/pdf/2512.01153.pdf))	null
 ****2025-11-30****	****Weakly Supervised Continuous Micro-Expression Intensity Estimation Using Temporal Deep Neural Network****	Riyadh Mohammed Almushrafy et.al. et.al.	[2512.01145)]([2512.01145](http://arxiv.org/pdf/2512.01145.pdf))	null
@@ -13140,19 +13207,19 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 ****2025-11-30****	****Estimation of Kinematic Motion from Dashcam Footage****	Evelyn Zhang et.al. et.al.	[2512.01104)]([2512.01104](http://arxiv.org/pdf/2512.01104.pdf))	null
 ****2025-11-30****	****FOM-Nav: Frontier-Object Maps for Object Goal Navigation****	Thomas Chabal et.al. et.al.	[2512.01009)]([2512.01009](http://arxiv.org/pdf/2512.01009.pdf))	null
 ****2025-11-30****	****Efficient and Scalable Monocular Human-Object Interaction Motion Reconstruction****	Boran Wen et.al. et.al.	[2512.00960)]([2512.00960](http://arxiv.org/pdf/2512.00960.pdf))	null
-**2025-11-30**	**Constant-Time Motion Planning with Manipulation Behaviors**	Nayesha Gandotra et.al. et.al.	[2512.00939](2512.00939)	null
+**2025-11-30**	**Constant-Time Motion Planning with Manipulation Behaviors**	Nayesha Gandotra et.al.	[2512.00939](http://arxiv.org/pdf/2512.00939.pdf)	null
 ****2025-11-30****	****Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound****	Jiahua Wang et.al. et.al.	[2512.00883)]([2512.00883](http://arxiv.org/pdf/2512.00883.pdf))	null
 ****2025-11-30****	****TrajDiff: End-to-end Autonomous Driving without Perception Annotation****	Xingtai Gui et.al. et.al.	[2512.00723)]([2512.00723](http://arxiv.org/pdf/2512.00723.pdf))	null
 ****2025-11-30****	****CAR-Net: A Cascade Refinement Network for Rotational Motion Deblurring under Angle Information Uncertainty****	Ka Chung Lai et.al. et.al.	[2512.00700)]([2512.00700](http://arxiv.org/pdf/2512.00700.pdf))	null
 ****2025-11-29****	****Sample-Efficient Expert Query Control in Active Imitation Learning via Conformal Prediction****	Arad Firouzkouhi et.al. et.al.	[2512.00453)]([2512.00453](http://arxiv.org/pdf/2512.00453.pdf))	null
 ****2025-11-29****	****FR-TTS: Test-Time Scaling for NTP-based Image Generation with Effective Filling-based Reward Signal****	Hang Xu et.al. et.al.	[2512.00438)]([2512.00438](http://arxiv.org/pdf/2512.00438.pdf))	null
-**2025-11-29**	**DPNet: Doppler LiDAR Motion Planning for Highly-Dynamic Environments**	Wei Zuo et.al. et.al.	[2512.00375](2512.00375)	null
+**2025-11-29**	**DPNet: Doppler LiDAR Motion Planning for Highly-Dynamic Environments**	Wei Zuo et.al.	[2512.00375](http://arxiv.org/pdf/2512.00375.pdf)	null
 ****2025-11-29****	****Towards aligned body representations in vision models****	Andrey Gizdov et.al. et.al.	[2512.00365)]([2512.00365](http://arxiv.org/pdf/2512.00365.pdf))	null
-**2025-11-29**	**SMamDiff: Spatial Mamba for Stochastic Human Motion Prediction**	Junqiao Fan et.al. et.al.	[2512.00355](2512.00355)	null
-**2025-11-29**	**mmPred: Radar-based Human Motion Prediction in the Dark**	Junqiao Fan et.al. et.al.	[2512.00345](2512.00345)	null
+**2025-11-29**	**SMamDiff: Spatial Mamba for Stochastic Human Motion Prediction**	Junqiao Fan et.al.	[2512.00355](http://arxiv.org/pdf/2512.00355.pdf)	null
+**2025-11-29**	**mmPred: Radar-based Human Motion Prediction in the Dark**	Junqiao Fan et.al.	[2512.00345](http://arxiv.org/pdf/2512.00345.pdf)	null
 ****2025-11-29****	****Relightable Holoported Characters: Capturing and Relighting Dynamic Human Performance from Sparse Views****	Kunwar Maheep Singh et.al. et.al.	[2512.00255)]([2512.00255](http://arxiv.org/pdf/2512.00255.pdf))	null
 ****2025-11-02****	****XFlowMP: Task-Conditioned Motion Fields for Generative Robot Planning with Schrodinger Bridges****	Khang Nguyen et.al. et.al.	[2512.00022)]([2512.00022](http://arxiv.org/pdf/2512.00022.pdf))	null
-**2025-11-28**	**From CAD to POMDP: Probabilistic Planning for Robotic Disassembly of End-of-Life Products**	Jan Baumgärtner et.al. et.al.	[2511.23407](2511.23407)	null
+**2025-11-28**	**From CAD to POMDP: Probabilistic Planning for Robotic Disassembly of End-of-Life Products**	Jan Baumgärtner et.al.	[2511.23407](http://arxiv.org/pdf/2511.23407.pdf)	null
 ****2025-11-28****	****Incorporating Ephemeral Traffic Waves in A Data-Driven Framework for Microsimulation in CARLA****	Alex Richardson et.al. et.al.	[2511.23236)]([2511.23236](http://arxiv.org/pdf/2511.23236.pdf))	null
 ****2025-11-28****	****Field-programmable dynamics in a soft magnetic actuator enabling true random number generation and reservoir computing****	Eduardo Sergio Oliveros-Mata et.al. et.al.	[2511.23215)]([2511.23215](http://arxiv.org/pdf/2511.23215.pdf))	null
 ****2025-11-28****	****LatBot: Distilling Universal Latent Actions for Vision-Language-Action Models****	Zuolei Li et.al. et.al.	[2511.23034)]([2511.23034](http://arxiv.org/pdf/2511.23034.pdf))	null
@@ -13161,8 +13228,8 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 ****2025-11-28****	****Threat-Aware UAV Dodging of Human-Thrown Projectiles with an RGB-D Camera****	Yuying Zhang et.al. et.al.	[2511.22847)]([2511.22847](http://arxiv.org/pdf/2511.22847.pdf))	null
 ****2025-11-28****	****Safe Autonomous Lane Changing: Planning with Dynamic Risk Fields and Time-Varying Convex Space Generation****	Zhen Tian et.al. et.al.	[2511.22829)]([2511.22829](http://arxiv.org/pdf/2511.22829.pdf))	null
 ****2025-11-27****	****CoT4AD: A Vision-Language-Action Model with Explicit Chain-of-Thought Reasoning for Autonomous Driving****	Zhaohui Wang et.al. et.al.	[2511.22532)]([2511.22532](http://arxiv.org/pdf/2511.22532.pdf))	null
-**2025-11-27**	**UAV-MM3D: A Large-Scale Synthetic Benchmark for 3D Perception of Unmanned Aerial Vehicles with Multi-Modal Data**	Longkun Zou et.al. et.al.	[2511.22404](2511.22404)	null
-**2025-11-27**	**MTR-VP: Towards End-to-End Trajectory Planning through Context-Driven Image Encoding and Multiple Trajectory Prediction**	Maitrayee Keskar et.al. et.al.	[2511.22181](2511.22181)	null
+**2025-11-27**	**UAV-MM3D: A Large-Scale Synthetic Benchmark for 3D Perception of Unmanned Aerial Vehicles with Multi-Modal Data**	Longkun Zou et.al.	[2511.22404](http://arxiv.org/pdf/2511.22404.pdf)	null
+**2025-11-27**	**MTR-VP: Towards End-to-End Trajectory Planning through Context-Driven Image Encoding and Multiple Trajectory Prediction**	Maitrayee Keskar et.al.	[2511.22181](http://arxiv.org/pdf/2511.22181.pdf)	null
 ****2025-11-27****	****SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model****	Jiayuan Du et.al. et.al.	[2511.22039)]([2511.22039](http://arxiv.org/pdf/2511.22039.pdf))	null
 ****2025-11-26****	****UniArt: Unified 3D Representation for Generating 3D Articulated Objects with Open-Set Articulation****	Bu Jin et.al. et.al.	[2511.21887)]([2511.21887](http://arxiv.org/pdf/2511.21887.pdf))	null
 ****2025-11-26****	****TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos****	Seungjae Lee et.al. et.al.	[2511.21690)]([2511.21690](http://arxiv.org/pdf/2511.21690.pdf))	null
@@ -13171,17 +13238,17 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 ****2025-11-26****	****Inversion-Free Style Transfer with Dual Rectified Flows****	Yingying Deng et.al. et.al.	[2511.20986)]([2511.20986](http://arxiv.org/pdf/2511.20986.pdf))	null
 ****2025-11-25****	****DeeAD: Dynamic Early Exit of Vision-Language Action for Efficient Autonomous Driving****	Haibo HU et.al. et.al.	[2511.20720)]([2511.20720](http://arxiv.org/pdf/2511.20720.pdf))	null
 ****2025-11-25****	****Evaluating the Performance of Deep Learning Models in Whole-body Dynamic 3D Posture Prediction During Load-reaching Activities****	Seyede Niloofar Hosseini et.al. et.al.	[2511.20615)]([2511.20615](http://arxiv.org/pdf/2511.20615.pdf))	null
-**2025-11-25**	**Safe and Stable Neural Network Dynamical Systems for Robot Motion Planning**	Allen Emmanuel Binny et.al. et.al.	[2511.20593](2511.20593)	null
+**2025-11-25**	**Safe and Stable Neural Network Dynamical Systems for Robot Motion Planning**	Allen Emmanuel Binny et.al.	[2511.20593](http://arxiv.org/pdf/2511.20593.pdf)	null
 ****2025-11-25****	****Metric, inertially aligned monocular state estimation via kinetodynamic priors****	Jiaxin Liu et.al. et.al.	[2511.20496)]([2511.20496](http://arxiv.org/pdf/2511.20496.pdf))	null
-**2025-12-22**	**BRIC: Bridging Kinematic Plans and Physical Control at Test Time**	Dohun Lim et.al. et.al.	[2511.20431](2511.20431)	null
+**2025-12-22**	**BRIC: Bridging Kinematic Plans and Physical Control at Test Time**	Dohun Lim et.al.	[2511.20431](http://arxiv.org/pdf/2511.20431.pdf)	null
 ****2025-11-25****	****FREE: Uncertainty-Aware Autoregression for Parallel Diffusion Transformers****	Xinwan Wen et.al. et.al.	[2511.20390)]([2511.20390](http://arxiv.org/pdf/2511.20390.pdf))	null
 ****2025-12-01****	****3D Motion Perception of Binocular Vision Target with PID-CNN****	Jiazhao Shi et.al. et.al.	[2511.20332)]([2511.20332](http://arxiv.org/pdf/2511.20332.pdf))	null
 ****2025-11-25****	****How Robot Kinematics Influence Human Performance in Virtual Robot-to-Human Handover Tasks****	Róisín Keenan et.al. et.al.	[2511.20299)]([2511.20299](http://arxiv.org/pdf/2511.20299.pdf))	null
 ****2025-11-25****	****Back to the Feature: Explaining Video Classifiers with Video Counterfactual Explanations****	Chao Wang et.al. et.al.	[2511.20295)]([2511.20295](http://arxiv.org/pdf/2511.20295.pdf))	null
 ****2025-11-25****	****Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes****	Dong Wang et.al. et.al.	[2511.20292)]([2511.20292](http://arxiv.org/pdf/2511.20292.pdf))	null
 ****2025-11-27****	****SKEL-CF: Coarse-to-Fine Biomechanical Skeleton and Surface Mesh Recovery****	Da Li et.al. et.al.	[2511.20157)]([2511.20157](http://arxiv.org/pdf/2511.20157.pdf))	null
-**2025-11-25**	**Map-World: Masked Action planning and Path-Integral World Model for Autonomous Driving**	Bin Hu et.al. et.al.	[2511.20156](2511.20156)	null
-**2025-11-25**	**Alzheimers Disease Progression Prediction Based on Manifold Mapping of Irregularly Sampled Longitudinal Data**	Xin Hong et.al. et.al.	[2511.20154](2511.20154)	null
+**2025-11-25**	**Map-World: Masked Action planning and Path-Integral World Model for Autonomous Driving**	Bin Hu et.al.	[2511.20156](http://arxiv.org/pdf/2511.20156.pdf)	null
+**2025-11-25**	**Alzheimers Disease Progression Prediction Based on Manifold Mapping of Irregularly Sampled Longitudinal Data**	Xin Hong et.al.	[2511.20154](http://arxiv.org/pdf/2511.20154.pdf)	null
 ****2025-11-25****	****WPT: World-to-Policy Transfer via Online World Model Distillation****	Guangfeng Jiang et.al. et.al.	[2511.20095)]([2511.20095](http://arxiv.org/pdf/2511.20095.pdf))	null
 ****2025-11-25****	****Active3D: Active High-Fidelity 3D Reconstruction via Hierarchical Uncertainty Quantification****	Yan Li et.al. et.al.	[2511.20050)]([2511.20050](http://arxiv.org/pdf/2511.20050.pdf))	null
 ****2025-11-25****	****ACIT: Attention-Guided Cross-Modal Interaction Transformer for Pedestrian Crossing Intention Prediction****	Yuanzhe Li et.al. et.al.	[2511.20020)]([2511.20020](http://arxiv.org/pdf/2511.20020.pdf))	null
@@ -13190,8 +13257,8 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 ****2025-11-25****	****Redefining Radar Segmentation: Simultaneous Static-Moving Segmentation and Ego-Motion Estimation using Radar Point Clouds****	Simin Zhu et.al. et.al.	[2511.20003)]([2511.20003](http://arxiv.org/pdf/2511.20003.pdf))	null
 ****2025-11-25****	****GazeProphetV2: Head-Movement-Based Gaze Prediction Enabling Efficient Foveated Rendering on Mobile VR****	Farhaan Ebadulla et.al. et.al.	[2511.19988)]([2511.19988](http://arxiv.org/pdf/2511.19988.pdf))	null
 ****2025-11-25****	****CoC-VLA: Delving into Adversarial Domain Transfer for Explainable Autonomous Driving via Chain-of-Causality Visual-Language-Action Model****	Dapeng Zhang et.al. et.al.	[2511.19914)]([2511.19914](http://arxiv.org/pdf/2511.19914.pdf))	null
-**2025-11-30**	**GigaWorld-0: World Models as Data Engine to Empower Embodied AI**	GigaWorld Team et.al. et.al.	[2511.19861](2511.19861)	null
-**2025-11-25**	**Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual Chain-of-Thought for Robotic Action Generation**	Xiangkai Ma et.al. et.al.	[2511.19859](2511.19859)	null
+**2025-11-30**	**GigaWorld-0: World Models as Data Engine to Empower Embodied AI**	GigaWorld Team et.al.	[2511.19861](http://arxiv.org/pdf/2511.19861.pdf)	null
+**2025-11-25**	**Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual Chain-of-Thought for Robotic Action Generation**	Xiangkai Ma et.al.	[2511.19859](http://arxiv.org/pdf/2511.19859.pdf)	null
 ****2025-11-24****	****Whole-Body Inverse Dynamics MPC for Legged Loco-Manipulation****	Lukas Molnar et.al. et.al.	[2511.19709)]([2511.19709](http://arxiv.org/pdf/2511.19709.pdf))	null
 ****2025-11-24****	****Fara-7B: An Efficient Agentic Model for Computer Use****	Ahmed Awadallah et.al. et.al.	[2511.19663)]([2511.19663](http://arxiv.org/pdf/2511.19663.pdf))	null
 ****2025-11-26****	****Development of a Testbed for Autonomous Vehicles: Integrating MPC Control with Monocular Camera Lane Detection****	Shantanu Rahman et.al. et.al.	[2511.19655)]([2511.19655](http://arxiv.org/pdf/2511.19655.pdf))	null
@@ -13202,26 +13269,26 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 ****2025-11-24****	****Autonomous Docking of Multi-Rotor UAVs on Blimps under the Influence of Wind Gusts****	Pascal Goldschmid et.al. et.al.	[2511.19135)]([2511.19135](http://arxiv.org/pdf/2511.19135.pdf))	null
 ****2025-11-24****	****HABIT: Human Action Benchmark for Interactive Traffic in CARLA****	Mohan Ramesh et.al. et.al.	[2511.19109)]([2511.19109](http://arxiv.org/pdf/2511.19109.pdf))	null
 ****2025-11-24****	****VeCoR - Velocity Contrastive Regularization for Flow Matching****	Zong-Wei Hong et.al. et.al.	[2511.18942)]([2511.18942](http://arxiv.org/pdf/2511.18942.pdf))	null
-**2025-11-24**	**GContextFormer: A global context-aware hybrid multi-head attention approach with scaled additive aggregation for multimodal trajectory prediction**	Yuzhi Chen et.al. et.al.	[2511.18874](2511.18874)	null
+**2025-11-24**	**GContextFormer: A global context-aware hybrid multi-head attention approach with scaled additive aggregation for multimodal trajectory prediction**	Yuzhi Chen et.al.	[2511.18874](http://arxiv.org/pdf/2511.18874.pdf)	null
 ****2025-11-24****	****AutoOdom: Learning Auto-regressive Proprioceptive Odometry for Legged Locomotion****	Changsheng Luo et.al. et.al.	[2511.18857)]([2511.18857](http://arxiv.org/pdf/2511.18857.pdf))	null
 ****2025-11-24****	****Robust Long-term Test-Time Adaptation for 3D Human Pose Estimation through Motion Discretization****	Yilin Wen et.al. et.al.	[2511.18851)]([2511.18851](http://arxiv.org/pdf/2511.18851.pdf))	null
 ****2025-11-24****	****Neural B-Frame Coding: Tackling Domain Shift Issues with Lightweight Online Motion Resolution Adaptation****	Sang NguyenQuang et.al. et.al.	[2511.18724)]([2511.18724](http://arxiv.org/pdf/2511.18724.pdf))	null
 ****2025-11-24****	****AIRHILT: A Human-in-the-Loop Testbed for Multimodal Conflict Detection in Aviation****	Omar Garib et.al. et.al.	[2511.18718)]([2511.18718](http://arxiv.org/pdf/2511.18718.pdf))	null
-**2025-11-24**	**Asynchronous Distributed Multi-Robot Motion Planning Under Imperfect Communication**	Ardalan Tajbakhsh et.al. et.al.	[2511.18703](2511.18703)	null
-**2025-11-23**	**An Analysis of Constraint-Based Multi-Agent Pathfinding Algorithms**	Hannah Lee et.al. et.al.	[2511.18604](2511.18604)	null
+**2025-11-24**	**Asynchronous Distributed Multi-Robot Motion Planning Under Imperfect Communication**	Ardalan Tajbakhsh et.al.	[2511.18703](http://arxiv.org/pdf/2511.18703.pdf)	null
+**2025-11-23**	**An Analysis of Constraint-Based Multi-Agent Pathfinding Algorithms**	Hannah Lee et.al.	[2511.18604](http://arxiv.org/pdf/2511.18604.pdf)	null
 ****2025-11-23****	****C3Po: Cross-View Cross-Modality Correspondence by Pointmap Prediction****	Kuan Wei Huang et.al. et.al.	[2511.18559)]([2511.18559](http://arxiv.org/pdf/2511.18559.pdf))	null
 ****2025-11-23****	****Gaze Beyond the Frame: Forecasting Egocentric 3D Visual Span****	Heeseung Yun et.al. et.al.	[2511.18470)]([2511.18470](http://arxiv.org/pdf/2511.18470.pdf))	null
 ****2025-11-23****	****Coherent Multi-Agent Trajectory Forecasting in Team Sports with CausalTraj****	Wei Zhen Teoh et.al. et.al.	[2511.18248)]([2511.18248](http://arxiv.org/pdf/2511.18248.pdf))	null
 ****2025-11-23****	****Dreaming Falcon: Physics-Informed Model-Based Reinforcement Learning for Quadcopters****	Eashan Vytla et.al. et.al.	[2511.18243)]([2511.18243](http://arxiv.org/pdf/2511.18243.pdf))	null
 ****2025-11-23****	****EgoVITA: Learning to Plan and Verify for Egocentric Video Reasoning****	Yogesh Kulkarni et.al. et.al.	[2511.18242)]([2511.18242](http://arxiv.org/pdf/2511.18242.pdf))	null
 ****2025-11-22****	****EgoControl: Controllable Egocentric Video Generation via 3D Full-Body Poses****	Enrico Pallotta et.al. et.al.	[2511.18173)]([2511.18173](http://arxiv.org/pdf/2511.18173.pdf))	null
-**2025-11-22**	**Time-aware Motion Planning in Dynamic Environments with Conformal Prediction**	Kaier Liang et.al. et.al.	[2511.18170](2511.18170)	null
+**2025-11-22**	**Time-aware Motion Planning in Dynamic Environments with Conformal Prediction**	Kaier Liang et.al.	[2511.18170](http://arxiv.org/pdf/2511.18170.pdf)	null
 ****2025-11-22****	****SFHand: A Streaming Framework for Language-guided 3D Hand Forecasting and Embodied Manipulation****	Ruicong Liu et.al. et.al.	[2511.18127)]([2511.18127](http://arxiv.org/pdf/2511.18127.pdf))	null
 ****2025-11-22****	****Anti-Jamming based on Null-Steering Antennas and Intelligent UAV Swarm Behavior****	Miguel Lourenço et.al. et.al.	[2511.18086)]([2511.18086](http://arxiv.org/pdf/2511.18086.pdf))	null
 ****2025-11-22****	****Plan-X: Instruct Video Generation via Semantic Planning****	Lun Huang et.al. et.al.	[2511.17986)]([2511.17986](http://arxiv.org/pdf/2511.17986.pdf))	null
-**2025-11-22**	**V2X-RECT: An Efficient V2X Trajectory Prediction Framework via Redundant Interaction Filtering and Tracking Error Correction**	Xiangyan Kong et.al. et.al.	[2511.17941](2511.17941)	null
+**2025-11-22**	**V2X-RECT: An Efficient V2X Trajectory Prediction Framework via Redundant Interaction Filtering and Tracking Error Correction**	Xiangyan Kong et.al.	[2511.17941](http://arxiv.org/pdf/2511.17941.pdf)	null
 ****2025-11-21****	****Show Me: Unifying Instructional Image and Video Generation with Diffusion Models****	Yujiang Pu et.al. et.al.	[2511.17839)]([2511.17839](http://arxiv.org/pdf/2511.17839.pdf))	null
-**2025-11-21**	**SM2ITH: Safe Mobile Manipulation with Interactive Human Prediction via Task-Hierarchical Bilevel Model Predictive Control**	Francesco D'Orazio et.al. et.al.	[2511.17798](2511.17798)	null
+**2025-11-21**	**SM2ITH: Safe Mobile Manipulation with Interactive Human Prediction via Task-Hierarchical Bilevel Model Predictive Control**	Francesco D'Orazio et.al.	[2511.17798](http://arxiv.org/pdf/2511.17798.pdf)	null
 ****2025-11-21****	****Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?****	Dingrui Wang et.al. et.al.	[2511.17792)]([2511.17792](http://arxiv.org/pdf/2511.17792.pdf))	null
 ****2025-11-21****	****See, Plan, Cut: MPC-Based Autonomous Volumetric Robotic Laser Surgery with OCT Guidance****	Ravi Prakash et.al. et.al.	[2511.17777)]([2511.17777](http://arxiv.org/pdf/2511.17777.pdf))	null
 ****2025-11-21****	****The Potential and Limitations of Vision-Language Models for Human Motion Understanding: A Case Study in Data-Driven Stroke Rehabilitation****	Victor Li et.al. et.al.	[2511.17727)]([2511.17727](http://arxiv.org/pdf/2511.17727.pdf))	null
@@ -13850,82 +13917,111 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-**2026-01-15**	**See Less, Drive Better: Generalizable End-to-End Autonomous Driving via Foundation Models Stochastic Patch Selection**	Amir Mallak et.al. et.al.	[2601.10707](2601.10707)	null
-**2026-01-15**	**BikeActions: An Open Platform and Benchmark for Cyclist-Centric VRU Action Recognition**	Max A. Buettner et.al. et.al.	[2601.10521](2601.10521)	null
-**2026-01-15**	**SurgGoal: Rethinking Surgical Planning Evaluation via Goal-Satisfiability**	Ruochen Li et.al. et.al.	[2601.10455](2601.10455)	null
-**2026-01-15**	**Online identification of nonlinear time-varying systems with uncertain information**	He Ren et.al. et.al.	[2601.10379](2601.10379)	null
-**2026-01-15**	**FastStair: Learning to Run Up Stairs with Humanoid Robots**	Yan Liu et.al. et.al.	[2601.10365](2601.10365)	null
-**2026-01-15**	**CHORAL: Traversal-Aware Planning for Safe and Efficient Heterogeneous Multi-Robot Routing**	David Morilla-Cabello et.al. et.al.	[2601.10340](2601.10340)	null
-**2026-01-15**	**The impact of tactile sensor configurations on grasp learning efficiency -- a comparative evaluation in simulation**	Eszter Birtalan et.al. et.al.	[2601.10268](2601.10268)	null
-**2026-01-15**	**Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control**	Yifan Xue et.al. et.al.	[2601.10233](2601.10233)	null
-**2026-01-15**	**A Unified Framework for Kinematic Simulation of Rigid Foldable Structures**	Dongwook Kwak et.al. et.al.	[2601.10225](2601.10225)	null
-**2026-01-15**	**Terrain-Adaptive Mobile 3D Printing with Hierarchical Control**	Shuangshan Nors Li et.al. et.al.	[2601.10208](2601.10208)	null
-**2026-01-15**	**RAG-3DSG: Enhancing 3D Scene Graphs with Re-Shot Guided Retrieval-Augmented Generation**	Yue Chang et.al. et.al.	[2601.10168](2601.10168)	null
-**2026-01-15**	**CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems in Dynamic and Unknown Environments**	Xintong Zhang et.al. et.al.	[2601.10116](2601.10116)	null
-**2026-01-15**	**FlowAct-R1: Towards Interactive Humanoid Video Generation**	Lizhen Wang et.al. et.al.	[2601.10103](2601.10103)	null
-**2026-01-15**	**UEOF: A Benchmark Dataset for Underwater Event-Based Optical Flow**	Nick Truong et.al. et.al.	[2601.10054](2601.10054)	null
-**2026-01-15**	**In-the-Wild Compliant Manipulation with UMI-FT**	Hojung Choi et.al. et.al.	[2601.09988](2601.09988)	null
-**2026-01-15**	**The Spatial Blindspot of Vision-Language Models**	Nahid Alam et.al. et.al.	[2601.09954](2601.09954)	null
-**2026-01-15**	**OT-Drive: Out-of-Distribution Off-Road Traversable Area Segmentation via Optimal Transport**	Zhihua Zhao et.al. et.al.	[2601.09952](2601.09952)	null
-**2026-01-14**	**SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping**	Ruopeng Huang et.al. et.al.	[2601.09920](2601.09920)	null
-**2026-01-14**	**How Human Motion Prediction Quality Shapes Social Robot Navigation Performance in Constrained Spaces**	Andrew Stratton et.al. et.al.	[2601.09856](2601.09856)	null
-**2026-01-14**	**Interprofessional and Agile Development of Mobirobot: A Socially Assistive Robot for Pediatric Therapy Across Clinical and Therapeutic Settings**	Leonie Dyck et.al. et.al.	[2601.09838](2601.09838)	null
-**2026-01-14**	**LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving**	Carlo Sgaravatti et.al. et.al.	[2601.09812](2601.09812)	null
-**2026-01-13**	**Heterogeneous computing platform for real-time robotics**	Jakub Fil et.al. et.al.	[2601.09755](2601.09755)	null
-**2026-01-14**	**Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning**	Chi-Pin Huang et.al. et.al.	[2601.09708](2601.09708)	null
-**2026-01-14**	**COMPOSE: Hypergraph Cover Optimization for Multi-view 3D Human Pose Estimation**	Tony Danjun Wang et.al. et.al.	[2601.09698](2601.09698)	null
-**2026-01-14**	**Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering**	Jieying Chen et.al. et.al.	[2601.09697](2601.09697)	null
-**2026-01-14**	**AquaFeat+: an Underwater Vision Learning-based Enhancement Method for Object Detection, Classification, and Tracking**	Emanuel da Costa Silva et.al. et.al.	[2601.09652](2601.09652)	null
-**2026-01-14**	**Sim2real Image Translation Enables Viewpoint-Robust Policies from Fixed-Camera Datasets**	Jeremiah Coholich et.al. et.al.	[2601.09605](2601.09605)	null
-**2026-01-14**	**Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping**	Jiajun Sun et.al. et.al.	[2601.09578](2601.09578)	null
-**2026-01-14**	**Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations**	Wei-Jin Huang et.al. et.al.	[2601.09518](2601.09518)	null
-**2026-01-14**	**CLARE: Continual Learning for Vision-Language-Action Models via Autonomous Adapter Routing and Expansion**	Ralf Römer et.al. et.al.	[2601.09512](2601.09512)	null
-**2026-01-14**	**Data Scaling for Navigation in Unknown Environments**	Lauri Suomela et.al. et.al.	[2601.09444](2601.09444)	null
-**2026-01-14**	**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**	Xuemei Yao et.al. et.al.	[2601.09377](2601.09377)	null
-**2026-01-14**	**Feedback-Based Mobile Robot Navigation in 3-D Environments Using Artificial Potential Functions Technical Report**	Ro'i Lang et.al. et.al.	[2601.09318](2601.09318)	null
-**2026-01-14**	**GaussianFluent: Gaussian Simulation for Dynamic Scenes with Mixed Materials**	Bei Huang et.al. et.al.	[2601.09265](2601.09265)	null
-**2026-01-14**	**Hybrid guided variational autoencoder for visual place recognition**	Ni Wang et.al. et.al.	[2601.09248](2601.09248)	null
-**2026-01-14**	**Online Trajectory Optimization for Arbitrary-Shaped Mobile Robots via Polynomial Separating Hypersurfaces**	Shuoye Li et.al. et.al.	[2601.09231](2601.09231)	null
-**2026-01-14**	**CLIDD: Cross-Layer Independent Deformable Description for Efficient and Discriminative Local Feature Representation**	Haodi Yao et.al. et.al.	[2601.09230](2601.09230)	null
-**2026-01-14**	**Vision-Conditioned Variational Bayesian Last Layer Dynamics Models**	Paul Brunzema et.al. et.al.	[2601.09178](2601.09178)	null
-**2026-01-14**	**CEI: A Unified Interface for Cross-Embodiment Visuomotor Policy Learning in 3D Space**	Tong Wu et.al. et.al.	[2601.09163](2601.09163)	null
-**2026-01-14**	**Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning**	Yang Li et.al. et.al.	[2601.09111](2601.09111)	null
-**2026-01-14**	**Vision Foundation Models for Domain Generalisable Cross-View Localisation in Planetary Ground-Aerial Robotic Teams**	Lachlan Holden et.al. et.al.	[2601.09107](2601.09107)	null
-**2026-01-14**	**Design Methodology of Hydraulically-driven Soft Robotic Gripper for a Large and Heavy Object**	Ko Yamamoto et.al. et.al.	[2601.09104](2601.09104)	null
-**2026-01-13**	**Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation**	Xuetao Li et.al. et.al.	[2601.09031](2601.09031)	null
-**2026-01-13**	**Fairness risk and its privacy-enabled solution in AI-driven robotic applications**	Le Liu et.al. et.al.	[2601.08953](2601.08953)	null
+**2026-01-16**	**Generative Scenario Rollouts for End-to-End Autonomous Driving**	Rajeev Yasarla et.al.	[2601.11475](http://arxiv.org/pdf/2601.11475.pdf)	null
+**2026-01-16**	**Learning Semantic-Geometric Task Graph-Representations from Human Demonstrations**	Franziska Herbert et.al.	[2601.11460](http://arxiv.org/pdf/2601.11460.pdf)	null
+**2026-01-16**	**Learning-Based Shrinking Disturbance-Invariant Tubes for State- and Input-Dependent Uncertainty**	Abdelrahman Ramadan et.al.	[2601.11426](http://arxiv.org/pdf/2601.11426.pdf)	null
+**2026-01-16**	**The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents**	Ziyu Wang et.al.	[2601.11421](http://arxiv.org/pdf/2601.11421.pdf)	null
+**2026-01-16**	**ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models**	Linqing Zhong et.al.	[2601.11404](http://arxiv.org/pdf/2601.11404.pdf)	null
+**2026-01-16**	**The Mini Wheelbot Dataset: High-Fidelity Data for Robot Learning**	Henrik Hose et.al.	[2601.11394](http://arxiv.org/pdf/2601.11394.pdf)	null
+**2026-01-16**	**Distributed Control Barrier Functions for Safe Multi-Vehicle Navigation in Heterogeneous USV Fleets**	Tyler Paine et.al.	[2601.11335](http://arxiv.org/pdf/2601.11335.pdf)	null
+**2026-01-16**	**X-Distill: Cross-Architecture Vision Distillation for Visuomotor Learning**	Maanping Shao et.al.	[2601.11269](http://arxiv.org/pdf/2601.11269.pdf)	null
+**2026-01-16**	**Skill-Aware Diffusion for Generalizable Robotic Manipulation**	Aoshen Huang et.al.	[2601.11266](http://arxiv.org/pdf/2601.11266.pdf)	null
+**2026-01-16**	**VLAgents: A Policy Server for Efficient VLA Inference**	Tobias Jülg et.al.	[2601.11250](http://arxiv.org/pdf/2601.11250.pdf)	null
+**2026-01-16**	**Adaptive Monitoring of Stochastic Fire Front Processes via Information-seeking Predictive Control**	Savvas Papaioannou et.al.	[2601.11231](http://arxiv.org/pdf/2601.11231.pdf)	null
+**2026-01-16**	**Learning Quadrupedal Locomotion for a Heavy Hydraulic Robot Using an Actuator Model**	Minho Lee et.al.	[2601.11143](http://arxiv.org/pdf/2601.11143.pdf)	null
+**2026-01-16**	**Visual Marker Search for Autonomous Drone Landing in Diverse Urban Environments**	Jiaohong Yao et.al.	[2601.11078](http://arxiv.org/pdf/2601.11078.pdf)	null
+**2026-01-16**	**A3D: Adaptive Affordance Assembly with Dual-Arm Manipulation**	Jiaqi Liang et.al.	[2601.11076](http://arxiv.org/pdf/2601.11076.pdf)	null
+**2026-01-16**	**H-AIM: Orchestrating LLMs, PDDL, and Behavior Trees for Hierarchical Multi-Robot Planning**	Haishan Zeng et.al.	[2601.11063](http://arxiv.org/pdf/2601.11063.pdf)	null
+**2026-01-16**	**Haptic Light-Emitting Diodes: Miniature, Luminous Tactile Actuators**	Max Linnander et.al.	[2601.11043](http://arxiv.org/pdf/2601.11043.pdf)	null
+**2026-01-16**	**Crane Lowering Guidance Using a Attachable Camera Module for Driver Vision Support**	HyoJae Kang et.al.	[2601.11026](http://arxiv.org/pdf/2601.11026.pdf)	null
+**2026-01-16**	**Where to Touch, How to Contact: Hierarchical RL-MPC Framework for Geometry-Aware Long-Horizon Dexterous Manipulation**	Zhixian Xie et.al.	[2601.10930](http://arxiv.org/pdf/2601.10930.pdf)	null
+**2026-01-15**	**Is open robotics innovation a threat to international peace and security?**	Ludovic Righetti et.al.	[2601.10877](http://arxiv.org/pdf/2601.10877.pdf)	null
+**2026-01-15**	**Can Vision-Language Models Understand Construction Workers? An Exploratory Study**	Hieu Bui et.al.	[2601.10835](http://arxiv.org/pdf/2601.10835.pdf)	null
+**2026-01-15**	**IMU-based Real-Time Crutch Gait Phase and Step Detections in Lower-Limb Exoskeletons**	Anis R. Shakkour et.al.	[2601.10832](http://arxiv.org/pdf/2601.10832.pdf)	null
+**2026-01-15**	**Approximately Optimal Global Planning for Contact-Rich SE(2) Manipulation on a Graph of Reachable Sets**	Simin Liu et.al.	[2601.10827](http://arxiv.org/pdf/2601.10827.pdf)	null
+**2026-01-15**	**A Unified 3D Object Perception Framework for Real-Time Outside-In Multi-Camera Systems**	Yizhou Wang et.al.	[2601.10819](http://arxiv.org/pdf/2601.10819.pdf)	null
+**2026-01-15**	**SurfSLAM: Sim-to-Real Underwater Stereo Reconstruction For Real-Time SLAM**	Onur Bagoren et.al.	[2601.10814](http://arxiv.org/pdf/2601.10814.pdf)	null
+**2026-01-15**	**Bidirectional Human-Robot Communication for Physical Human-Robot Interaction**	Junxiang Wang et.al.	[2601.10796](http://arxiv.org/pdf/2601.10796.pdf)	null
+**2026-01-15**	**Future Optical Flow Prediction Improves Robot Control & Video Generation**	Kanchana Ranasinghe et.al.	[2601.10781](http://arxiv.org/pdf/2601.10781.pdf)	null
+**2026-01-15**	**See Less, Drive Better: Generalizable End-to-End Autonomous Driving via Foundation Models Stochastic Patch Selection**	Amir Mallak et.al.	[2601.10707](http://arxiv.org/pdf/2601.10707.pdf)	null
+**2026-01-15**	**BikeActions: An Open Platform and Benchmark for Cyclist-Centric VRU Action Recognition**	Max A. Buettner et.al.	[2601.10521](http://arxiv.org/pdf/2601.10521.pdf)	null
+**2026-01-15**	**SurgGoal: Rethinking Surgical Planning Evaluation via Goal-Satisfiability**	Ruochen Li et.al.	[2601.10455](http://arxiv.org/pdf/2601.10455.pdf)	null
+**2026-01-15**	**Online identification of nonlinear time-varying systems with uncertain information**	He Ren et.al.	[2601.10379](http://arxiv.org/pdf/2601.10379.pdf)	null
+**2026-01-15**	**FastStair: Learning to Run Up Stairs with Humanoid Robots**	Yan Liu et.al.	[2601.10365](http://arxiv.org/pdf/2601.10365.pdf)	null
+**2026-01-15**	**CHORAL: Traversal-Aware Planning for Safe and Efficient Heterogeneous Multi-Robot Routing**	David Morilla-Cabello et.al.	[2601.10340](http://arxiv.org/pdf/2601.10340.pdf)	null
+**2026-01-15**	**The impact of tactile sensor configurations on grasp learning efficiency -- a comparative evaluation in simulation**	Eszter Birtalan et.al.	[2601.10268](http://arxiv.org/pdf/2601.10268.pdf)	null
+**2026-01-15**	**Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control**	Yifan Xue et.al.	[2601.10233](http://arxiv.org/pdf/2601.10233.pdf)	null
+**2026-01-15**	**A Unified Framework for Kinematic Simulation of Rigid Foldable Structures**	Dongwook Kwak et.al.	[2601.10225](http://arxiv.org/pdf/2601.10225.pdf)	null
+**2026-01-15**	**Terrain-Adaptive Mobile 3D Printing with Hierarchical Control**	Shuangshan Nors Li et.al.	[2601.10208](http://arxiv.org/pdf/2601.10208.pdf)	null
+**2026-01-15**	**RAG-3DSG: Enhancing 3D Scene Graphs with Re-Shot Guided Retrieval-Augmented Generation**	Yue Chang et.al.	[2601.10168](http://arxiv.org/pdf/2601.10168.pdf)	null
+**2026-01-15**	**CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems in Dynamic and Unknown Environments**	Xintong Zhang et.al.	[2601.10116](http://arxiv.org/pdf/2601.10116.pdf)	null
+**2026-01-15**	**FlowAct-R1: Towards Interactive Humanoid Video Generation**	Lizhen Wang et.al.	[2601.10103](http://arxiv.org/pdf/2601.10103.pdf)	null
+**2026-01-15**	**UEOF: A Benchmark Dataset for Underwater Event-Based Optical Flow**	Nick Truong et.al.	[2601.10054](http://arxiv.org/pdf/2601.10054.pdf)	null
+**2026-01-15**	**In-the-Wild Compliant Manipulation with UMI-FT**	Hojung Choi et.al.	[2601.09988](http://arxiv.org/pdf/2601.09988.pdf)	null
+**2026-01-15**	**The Spatial Blindspot of Vision-Language Models**	Nahid Alam et.al.	[2601.09954](http://arxiv.org/pdf/2601.09954.pdf)	null
+**2026-01-15**	**OT-Drive: Out-of-Distribution Off-Road Traversable Area Segmentation via Optimal Transport**	Zhihua Zhao et.al.	[2601.09952](http://arxiv.org/pdf/2601.09952.pdf)	null
+**2026-01-14**	**SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping**	Ruopeng Huang et.al.	[2601.09920](http://arxiv.org/pdf/2601.09920.pdf)	null
+**2026-01-14**	**How Human Motion Prediction Quality Shapes Social Robot Navigation Performance in Constrained Spaces**	Andrew Stratton et.al.	[2601.09856](http://arxiv.org/pdf/2601.09856.pdf)	null
+**2026-01-14**	**Interprofessional and Agile Development of Mobirobot: A Socially Assistive Robot for Pediatric Therapy Across Clinical and Therapeutic Settings**	Leonie Dyck et.al.	[2601.09838](http://arxiv.org/pdf/2601.09838.pdf)	null
+**2026-01-14**	**LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving**	Carlo Sgaravatti et.al.	[2601.09812](http://arxiv.org/pdf/2601.09812.pdf)	null
+**2026-01-13**	**Heterogeneous computing platform for real-time robotics**	Jakub Fil et.al.	[2601.09755](http://arxiv.org/pdf/2601.09755.pdf)	null
+**2026-01-14**	**Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning**	Chi-Pin Huang et.al.	[2601.09708](http://arxiv.org/pdf/2601.09708.pdf)	null
+**2026-01-14**	**COMPOSE: Hypergraph Cover Optimization for Multi-view 3D Human Pose Estimation**	Tony Danjun Wang et.al.	[2601.09698](http://arxiv.org/pdf/2601.09698.pdf)	null
+**2026-01-14**	**Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering**	Jieying Chen et.al.	[2601.09697](http://arxiv.org/pdf/2601.09697.pdf)	null
+**2026-01-14**	**AquaFeat+: an Underwater Vision Learning-based Enhancement Method for Object Detection, Classification, and Tracking**	Emanuel da Costa Silva et.al.	[2601.09652](http://arxiv.org/pdf/2601.09652.pdf)	null
+**2026-01-14**	**Sim2real Image Translation Enables Viewpoint-Robust Policies from Fixed-Camera Datasets**	Jeremiah Coholich et.al.	[2601.09605](http://arxiv.org/pdf/2601.09605.pdf)	null
+**2026-01-14**	**Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping**	Jiajun Sun et.al.	[2601.09578](http://arxiv.org/pdf/2601.09578.pdf)	null
+**2026-01-14**	**Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations**	Wei-Jin Huang et.al.	[2601.09518](http://arxiv.org/pdf/2601.09518.pdf)	null
+**2026-01-14**	**CLARE: Continual Learning for Vision-Language-Action Models via Autonomous Adapter Routing and Expansion**	Ralf Römer et.al.	[2601.09512](http://arxiv.org/pdf/2601.09512.pdf)	null
+**2026-01-14**	**Data Scaling for Navigation in Unknown Environments**	Lauri Suomela et.al.	[2601.09444](http://arxiv.org/pdf/2601.09444.pdf)	null
+**2026-01-14**	**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**	Xuemei Yao et.al.	[2601.09377](http://arxiv.org/pdf/2601.09377.pdf)	null
+**2026-01-14**	**Feedback-Based Mobile Robot Navigation in 3-D Environments Using Artificial Potential Functions Technical Report**	Ro'i Lang et.al.	[2601.09318](http://arxiv.org/pdf/2601.09318.pdf)	null
+**2026-01-14**	**GaussianFluent: Gaussian Simulation for Dynamic Scenes with Mixed Materials**	Bei Huang et.al.	[2601.09265](http://arxiv.org/pdf/2601.09265.pdf)	null
+**2026-01-14**	**Hybrid guided variational autoencoder for visual place recognition**	Ni Wang et.al.	[2601.09248](http://arxiv.org/pdf/2601.09248.pdf)	null
+**2026-01-14**	**Online Trajectory Optimization for Arbitrary-Shaped Mobile Robots via Polynomial Separating Hypersurfaces**	Shuoye Li et.al.	[2601.09231](http://arxiv.org/pdf/2601.09231.pdf)	null
+**2026-01-14**	**CLIDD: Cross-Layer Independent Deformable Description for Efficient and Discriminative Local Feature Representation**	Haodi Yao et.al.	[2601.09230](http://arxiv.org/pdf/2601.09230.pdf)	null
+**2026-01-16**	**Vision-Conditioned Variational Bayesian Last Layer Dynamics Models**	Paul Brunzema et.al.	[2601.09178](http://arxiv.org/pdf/2601.09178.pdf)	null
+**2026-01-14**	**CEI: A Unified Interface for Cross-Embodiment Visuomotor Policy Learning in 3D Space**	Tong Wu et.al.	[2601.09163](http://arxiv.org/pdf/2601.09163.pdf)	null
+**2026-01-14**	**Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning**	Yang Li et.al.	[2601.09111](http://arxiv.org/pdf/2601.09111.pdf)	null
+**2026-01-14**	**Vision Foundation Models for Domain Generalisable Cross-View Localisation in Planetary Ground-Aerial Robotic Teams**	Lachlan Holden et.al.	[2601.09107](http://arxiv.org/pdf/2601.09107.pdf)	null
+**2026-01-14**	**Design Methodology of Hydraulically-driven Soft Robotic Gripper for a Large and Heavy Object**	Ko Yamamoto et.al.	[2601.09104](http://arxiv.org/pdf/2601.09104.pdf)	null
+**2026-01-13**	**Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation**	Xuetao Li et.al.	[2601.09031](http://arxiv.org/pdf/2601.09031.pdf)	null
+**2026-01-13**	**Fairness risk and its privacy-enabled solution in AI-driven robotic applications**	Le Liu et.al.	[2601.08953](http://arxiv.org/pdf/2601.08953.pdf)	null
 **2026-01-12**	**The Semantic Lifecycle in Embodied AI: Acquisition, Representation and Storage via Foundation Models**	Shuai Chen et.al. et.al.	[2601.08876](2601.08876)	null
 **2026-01-11**	**Residual Cross-Modal Fusion Networks for Audio-Visual Navigation**	Yi Wang et.al. et.al.	[2601.08868](2601.08868)	null
-**2026-01-13**	**Motion Attribution for Video Generation**	Xindi Wu et.al. et.al.	[2601.08828](2601.08828)	null
-**2026-01-13**	**Older Adults' Preferences for Feedback Cadence from an Exercise Coach Robot**	Roshni Kaushik et.al. et.al.	[2601.08819](2601.08819)	null
-**2026-01-13**	**Reasoning Matters for 3D Visual Grounding**	Hsiang-Wei Huang et.al. et.al.	[2601.08811](2601.08811)	null
-**2026-01-13**	**Real-Time Localization Framework for Autonomous Basketball Robots**	Naren Medarametla et.al. et.al.	[2601.08713](2601.08713)	null
-**2026-01-13**	**A Hybrid Model-based and Data-based Approach Developed for a Prosthetic Hand Wrist**	Shifa Sulaiman et.al. et.al.	[2601.08711](2601.08711)	null
-**2026-01-13**	**VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory**	Shaoan Wang et.al. et.al.	[2601.08665](2601.08665)	null
-**2026-01-13**	**QP-Based Control of an Underactuated Aerial Manipulator under Constraints**	Nesserine Laribi et.al. et.al.	[2601.08523](2601.08523)	null
-**2026-01-13**	**Keyframe-based Dense Mapping with the Graph of View-Dependent Local Maps**	Krzysztof Zielinski et.al. et.al.	[2601.08520](2601.08520)	null
-**2026-01-13**	**Simplifying ROS2 controllers with a modular architecture for robot-agnostic reference generation**	Davide Risi et.al. et.al.	[2601.08514](2601.08514)	null
-**2026-01-13**	**AUV Trajectory Learning for Underwater Acoustic Energy Transfer and Age Minimization**	Mohamed Afouene Melki et.al. et.al.	[2601.08491](2601.08491)	null
-**2026-01-13**	**AME-2: Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding**	Chong Zhang et.al. et.al.	[2601.08485](2601.08485)	null
-**2026-01-13**	**Real2Sim based on Active Perception with automatically VLM-generated Behavior Trees**	Alessandro Adami et.al. et.al.	[2601.08454](2601.08454)	null
-**2026-01-14**	**Large Multimodal Models for Embodied Intelligent Driving: The Next Frontier in Self-Driving?**	Long Zhang et.al. et.al.	[2601.08434](2601.08434)	null
-**2026-01-13**	**Teaching Robots Like Dogs: Learning Agile Navigation from Luring, Gesture, and Speech**	Taerim Yoon et.al. et.al.	[2601.08422](2601.08422)	null
-**2026-01-15**	**SPARK: Scalable Real-Time Point Cloud Aggregation with Multi-View Self-Calibration**	Chentian Sun et.al. et.al.	[2601.08414](2601.08414)	null
-**2026-01-13**	**Edge-Optimized Multimodal Learning for UAV Video Understanding via BLIP-2**	Yizhan Feng et.al. et.al.	[2601.08408](2601.08408)	null
-**2026-01-13**	**Large Language Models to Enhance Multi-task Drone Operations in Simulated Environments**	Yizhan Feng et.al. et.al.	[2601.08405](2601.08405)	null
-**2026-01-15**	**Semantic Misalignment in Vision-Language Models under Perceptual Degradation**	Guo Cheng et.al. et.al.	[2601.08355](2601.08355)	null
-**2026-01-13**	**Safe Heterogeneous Multi-Agent RL with Communication Regularization for Coordinated Target Acquisition**	Gabriele Calzolari et.al. et.al.	[2601.08327](2601.08327)	null
-**2026-01-13**	**ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation**	Zhenyang Liu et.al. et.al.	[2601.08325](2601.08325)	null
-**2026-01-13**	**Spiking Neural-Invariant Kalman Fusion for Accurate Localization Using Low-Cost IMUs**	Yaohua Liu et.al. et.al.	[2601.08248](2601.08248)	null
-**2026-01-13**	**FSAG: Enhancing Human-to-Dexterous-Hand Finger-Specific Affordance Grounding via Diffusion Models**	Yifan Han et.al. et.al.	[2601.08246](2601.08246)	null
-**2026-01-13**	**A brain-inspired information fusion method for enhancing robot GPS outages navigation**	Yaohua Liu et.al. et.al.	[2601.08244](2601.08244)	null
-**2026-01-13**	**MobiDiary: Autoregressive Action Captioning with Wearable Devices and Wireless Signals**	Fei Deng et.al. et.al.	[2601.08204](2601.08204)	null
-**2026-01-13**	**Robust Subpixel Localization of Diagonal Markers in Large-Scale Navigation via Multi-Layer Screening and Adaptive Matching**	Jing Tao et.al. et.al.	[2601.08161](2601.08161)	null
-**2026-01-13**	**A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profiles**	Takuya Kato et.al. et.al.	[2601.08143](2601.08143)	null
-**2026-01-13**	**Efficient Incremental SLAM via Information-Guided and Selective Optimization**	Reza Arablouei et.al. et.al.	[2601.08110](2601.08110)	null
-**2026-01-12**	**The embodied brain: Bridging the brain, body, and behavior with neuromechanical digital twins**	Sibo Wang-Chen et.al. et.al.	[2601.08056](2601.08056)	null
-**2026-01-12**	**μDopplerTag: CNN-Based Drone Recognition via Cooperative Micro-Doppler Tagging**	O. Yerushalimov et.al. et.al.	[2601.08042](2601.08042)	null
-**2026-01-12**	**Fiducial Exoskeletons: Image-Centric Robot State Estimation**	Cameron Smith et.al. et.al.	[2601.08034](2601.08034)	null
+**2026-01-13**	**Motion Attribution for Video Generation**	Xindi Wu et.al.	[2601.08828](http://arxiv.org/pdf/2601.08828.pdf)	null
+**2026-01-13**	**Older Adults' Preferences for Feedback Cadence from an Exercise Coach Robot**	Roshni Kaushik et.al.	[2601.08819](http://arxiv.org/pdf/2601.08819.pdf)	null
+**2026-01-13**	**Reasoning Matters for 3D Visual Grounding**	Hsiang-Wei Huang et.al.	[2601.08811](http://arxiv.org/pdf/2601.08811.pdf)	null
+**2026-01-13**	**Real-Time Localization Framework for Autonomous Basketball Robots**	Naren Medarametla et.al.	[2601.08713](http://arxiv.org/pdf/2601.08713.pdf)	null
+**2026-01-13**	**A Hybrid Model-based and Data-based Approach Developed for a Prosthetic Hand Wrist**	Shifa Sulaiman et.al.	[2601.08711](http://arxiv.org/pdf/2601.08711.pdf)	null
+**2026-01-13**	**VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory**	Shaoan Wang et.al.	[2601.08665](http://arxiv.org/pdf/2601.08665.pdf)	null
+**2026-01-13**	**QP-Based Control of an Underactuated Aerial Manipulator under Constraints**	Nesserine Laribi et.al.	[2601.08523](http://arxiv.org/pdf/2601.08523.pdf)	null
+**2026-01-13**	**Keyframe-based Dense Mapping with the Graph of View-Dependent Local Maps**	Krzysztof Zielinski et.al.	[2601.08520](http://arxiv.org/pdf/2601.08520.pdf)	null
+**2026-01-13**	**Simplifying ROS2 controllers with a modular architecture for robot-agnostic reference generation**	Davide Risi et.al.	[2601.08514](http://arxiv.org/pdf/2601.08514.pdf)	null
+**2026-01-13**	**AUV Trajectory Learning for Underwater Acoustic Energy Transfer and Age Minimization**	Mohamed Afouene Melki et.al.	[2601.08491](http://arxiv.org/pdf/2601.08491.pdf)	null
+**2026-01-13**	**AME-2: Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding**	Chong Zhang et.al.	[2601.08485](http://arxiv.org/pdf/2601.08485.pdf)	null
+**2026-01-13**	**Real2Sim based on Active Perception with automatically VLM-generated Behavior Trees**	Alessandro Adami et.al.	[2601.08454](http://arxiv.org/pdf/2601.08454.pdf)	null
+**2026-01-14**	**Large Multimodal Models for Embodied Intelligent Driving: The Next Frontier in Self-Driving?**	Long Zhang et.al.	[2601.08434](http://arxiv.org/pdf/2601.08434.pdf)	null
+**2026-01-13**	**Teaching Robots Like Dogs: Learning Agile Navigation from Luring, Gesture, and Speech**	Taerim Yoon et.al.	[2601.08422](http://arxiv.org/pdf/2601.08422.pdf)	null
+**2026-01-15**	**SPARK: Scalable Real-Time Point Cloud Aggregation with Multi-View Self-Calibration**	Chentian Sun et.al.	[2601.08414](http://arxiv.org/pdf/2601.08414.pdf)	null
+**2026-01-13**	**Edge-Optimized Multimodal Learning for UAV Video Understanding via BLIP-2**	Yizhan Feng et.al.	[2601.08408](http://arxiv.org/pdf/2601.08408.pdf)	null
+**2026-01-13**	**Large Language Models to Enhance Multi-task Drone Operations in Simulated Environments**	Yizhan Feng et.al.	[2601.08405](http://arxiv.org/pdf/2601.08405.pdf)	null
+**2026-01-15**	**Semantic Misalignment in Vision-Language Models under Perceptual Degradation**	Guo Cheng et.al.	[2601.08355](http://arxiv.org/pdf/2601.08355.pdf)	null
+**2026-01-13**	**Safe Heterogeneous Multi-Agent RL with Communication Regularization for Coordinated Target Acquisition**	Gabriele Calzolari et.al.	[2601.08327](http://arxiv.org/pdf/2601.08327.pdf)	null
+**2026-01-13**	**ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation**	Zhenyang Liu et.al.	[2601.08325](http://arxiv.org/pdf/2601.08325.pdf)	null
+**2026-01-13**	**Spiking Neural-Invariant Kalman Fusion for Accurate Localization Using Low-Cost IMUs**	Yaohua Liu et.al.	[2601.08248](http://arxiv.org/pdf/2601.08248.pdf)	null
+**2026-01-13**	**FSAG: Enhancing Human-to-Dexterous-Hand Finger-Specific Affordance Grounding via Diffusion Models**	Yifan Han et.al.	[2601.08246](http://arxiv.org/pdf/2601.08246.pdf)	null
+**2026-01-13**	**A brain-inspired information fusion method for enhancing robot GPS outages navigation**	Yaohua Liu et.al.	[2601.08244](http://arxiv.org/pdf/2601.08244.pdf)	null
+**2026-01-13**	**MobiDiary: Autoregressive Action Captioning with Wearable Devices and Wireless Signals**	Fei Deng et.al.	[2601.08204](http://arxiv.org/pdf/2601.08204.pdf)	null
+**2026-01-13**	**Robust Subpixel Localization of Diagonal Markers in Large-Scale Navigation via Multi-Layer Screening and Adaptive Matching**	Jing Tao et.al.	[2601.08161](http://arxiv.org/pdf/2601.08161.pdf)	null
+**2026-01-13**	**A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profiles**	Takuya Kato et.al.	[2601.08143](http://arxiv.org/pdf/2601.08143.pdf)	null
+**2026-01-13**	**Efficient Incremental SLAM via Information-Guided and Selective Optimization**	Reza Arablouei et.al.	[2601.08110](http://arxiv.org/pdf/2601.08110.pdf)	null
+**2026-01-12**	**The embodied brain: Bridging the brain, body, and behavior with neuromechanical digital twins**	Sibo Wang-Chen et.al.	[2601.08056](http://arxiv.org/pdf/2601.08056.pdf)	null
+<details><summary>Show 294 more papers...</summary>
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+**2026-01-12**	**μDopplerTag: CNN-Based Drone Recognition via Cooperative Micro-Doppler Tagging**	O. Yerushalimov et.al.	[2601.08042](http://arxiv.org/pdf/2601.08042.pdf)	null
+**2026-01-12**	**Fiducial Exoskeletons: Image-Centric Robot State Estimation**	Cameron Smith et.al.	[2601.08034](http://arxiv.org/pdf/2601.08034.pdf)	null
 **2026-01-12**	**Contact-aware Path Planning for Autonomous Neuroendovascular Navigation**	Aabha Tamhankar et.al. et.al.	[2601.07945](2601.07945)	null
 **2026-01-12**	**Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions**	Zhiting Mei et.al. et.al.	[2601.07823](2601.07823)	null
 **2026-01-12**	**Failure-Aware RL: Reliable Offline-to-Online Reinforcement Learning with Self-Recovery for Real-World Manipulation**	Huanyu Li et.al. et.al.	[2601.07821](2601.07821)	null
@@ -13950,9 +14046,6 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 **2026-01-12**	**Heterogeneous Multi-Expert Reinforcement Learning for Long-Horizon Multi-Goal Tasks in Autonomous Forklifts**	Yun Chen et.al. et.al.	[2601.07304](2601.07304)	null
 **2026-01-12**	**AdaMorph: Unified Motion Retargeting via Embodiment-Aware Adaptive Transformers**	Haoyu Zhang et.al. et.al.	[2601.07284](2601.07284)	null
 **2026-01-12**	**Robust maximum hands-off optimal control: existence, maximum principle, and $L^{0}$-$L^1$ equivalence**	Siddhartha Ganguly et.al. et.al.	[2601.07256](2601.07256)	null
-<details><summary>Show 268 more papers...</summary>
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 **2026-01-12**	**HERE: Hierarchical Active Exploration of Radiance Field with Epistemic Uncertainty Minimization**	Taekbeom Lee et.al. et.al.	[2601.07242](2601.07242)	null
 **2026-01-12**	**PROTEA: Securing Robot Task Planning and Execution**	Zainab Altaweel et.al. et.al.	[2601.07186](2601.07186)	null
 **2026-01-12**	**TranSC: Hardware-Aware Design of Transcendental Functions Using Stochastic Logic**	Mehran Moghadam et.al. et.al.	[2601.07172](2601.07172)	null
@@ -14227,109 +14320,110 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-**2026-01-13**	**Comprehensive Machine Learning Benchmarking for Fringe Projection Profilometry with Photorealistic Synthetic Data**	Anush Lakshman S et.al. et.al.	[2601.08900](2601.08900)	null
-**2026-01-06**	**Edge-AI Perception Node for Cooperative Road-Safety Enforcement and Connected-Vehicle Integration**	Shree Charran R et.al. et.al.	[2601.07845](2601.07845)	null
-**2026-01-05**	**A Review of Online Diffusion Policy RL Algorithms for Scalable Robotic Control**	Wonhyeok Choi et.al. et.al.	[2601.06133](2601.06133)	null
-**2026-01-08**	**PRISM: Protocol Refinement through Intelligent Simulation Modeling**	Brian Hsu et.al. et.al.	[2601.05356](2601.05356)	null
-**2026-01-08**	**Plenoptic Video Generation**	Xiao Fu et.al. et.al.	[2601.05239](2601.05239)	null
-**2026-01-08**	**Decentralized Privacy-Preserving Federal Learning of Computer Vision Models on Edge Devices**	Damian Harenčák et.al. et.al.	[2601.04912](2601.04912)	null
-**2026-01-07**	**3D-Agent:Tri-Modal Multi-Agent Collaboration for Scalable 3D Object Annotation**	Jusheng Zhang et.al. et.al.	[2601.04404](2601.04404)	null
-**2026-01-06**	**Validating Generalist Robots with Situation Calculus and STL Falsification**	Changwen Li et.al. et.al.	[2601.03038](2601.03038)	null
-**2026-01-06**	**Reinforcement Learning for Follow-the-Leader Robotic Endoscopic Navigation via Synthetic Data**	Sicong Gao et.al. et.al.	[2601.02798](2601.02798)	null
-**2026-01-05**	**InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation**	Junhao Cai et.al. et.al.	[2601.02456](2601.02456)	null
-**2026-01-05**	**VIBE: Visual Instruction Based Editor**	Grigorii Alekseenko et.al. et.al.	[2601.02242](2601.02242)	null
-**2026-01-04**	**VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data**	Snehal s. Dikhale et.al. et.al.	[2601.01675](2601.01675)	null
-**2026-01-03**	**Cross-Layer Attentive Feature Upsampling for Low-latency Semantic Segmentation**	Tianheng Cheng et.al. et.al.	[2601.01167](2601.01167)	null
-**2026-01-01**	**Efficient Prediction of Dense Visual Embeddings via Distillation and RGB-D Transformers**	Söhnke Benedikt Fischedick et.al. et.al.	[2601.00359](2601.00359)	null
-**2025-12-23**	**LiteFusion: Taming 3D Object Detectors from Vision-Based to Multi-Modal with Minimal Adaptation**	Xiangxuan Ren et.al. et.al.	[2512.20217](2512.20217)	null
-**2025-12-17**	**Exploring Deep-to-Shallow Transformable Neural Networks for Intelligent Embedded Systems**	Xiangzhong Luo et.al. et.al.	[2512.19731](2512.19731)	null
-**2025-12-21**	**Commercial Vehicle Braking Optimization: A Robust SIFT-Trajectory Approach**	Zhe Li et.al. et.al.	[2512.18597](2512.18597)	null
-**2025-12-09**	**CytoDINO: Risk-Aware and Biologically-Informed Adaptation of DINOv3 for Bone Marrow Cytomorphology**	Aziz Muminov et.al. et.al.	[2512.17930](2512.17930)	null
-**2025-12-18**	**PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence**	Xiaopeng Lin et.al. et.al.	[2512.16793](2512.16793)	null
-**2025-12-17**	**ERIENet: An Efficient RAW Image Enhancement Network under Low-Light Environment**	Jianan Wang et.al. et.al.	[2512.15186](2512.15186)	null
-**2025-12-17**	**BEV-Patch-PF: Particle Filtering with BEV-Aerial Feature Matching for Off-Road Geo-Localization**	Dongmyeong Lee et.al. et.al.	[2512.15111](2512.15111)	null
-**2025-12-17**	**Uni-Parser Technical Report**	Xi Fang et.al. et.al.	[2512.15098](2512.15098)	null
-**2025-12-15**	**Generative AI for Video Translation: A Scalable Architecture for Multilingual Video Conferencing**	Amirkia Rafiei Oskooei et.al. et.al.	[2512.13904](2512.13904)	null
-**2025-12-16**	**Semantic-Drive: Democratizing Long-Tail Data Curation via Open-Vocabulary Grounding and Neuro-Symbolic VLM Consensus**	Antonio Guillen-Perez et.al. et.al.	[2512.12012](2512.12012)	null
-**2025-10-31**	**Benchmarking Tesla's Traffic Light and Stop Sign Control: Field Dataset and Behavior Insights**	Zheng Li et.al. et.al.	[2512.11802](2512.11802)	null
-**2025-12-15**	**YawDD+: Frame-level Annotations for Accurate Yawn Prediction**	Ahmed Mujtaba et.al. et.al.	[2512.11446](2512.11446)	null
-**2025-12-15**	**WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control**	Haoran Jiang et.al. et.al.	[2512.11047](2512.11047)	null
-**2025-12-11**	**K-Track: Kalman-Enhanced Tracking for Accelerating Deep Point Trackers on Edge Devices**	Bishoy Galoaa et.al. et.al.	[2512.10628](2512.10628)	null
-**2025-12-10**	**FastPose-ViT: A Vision Transformer for Real-Time Spacecraft Pose Estimation**	Pierre Ancey et.al. et.al.	[2512.09792](2512.09792)	null
-**2025-12-11**	**Development and Testing for Perception Based Autonomous Landing of a Long-Range QuadPlane**	Ashik E Rasul et.al. et.al.	[2512.09343](2512.09343)	null
-**2025-12-10**	**A Distributed Framework for Privacy-Enhanced Vision Transformers on the Edge**	Zihao Ding et.al. et.al.	[2512.09309](2512.09309)	null
-**2025-12-09**	**FastBEV++: Fast by Algorithm, Deployable by Design**	Yuanpeng Chen et.al. et.al.	[2512.08237](2512.08237)	null
-**2025-12-03**	**Fast and Flexible Robustness Certificates for Semantic Segmentation**	Thomas Massena et.al. et.al.	[2512.06010](2512.06010)	null
-**2025-12-05**	**An Integrated System for WEEE Sorting Employing X-ray Imaging, AI-based Object Detection and Segmentation, and Delta Robot Manipulation**	Panagiotis Giannikos et.al. et.al.	[2512.05599](2512.05599)	null
-**2025-12-04**	**SDG-Track: A Heterogeneous Observer-Follower Framework for High-Resolution UAV Tracking on Embedded Platforms**	Jiawen Wen et.al. et.al.	[2512.04883](2512.04883)	null
-**2025-12-03**	**Autonomous Reinforcement Learning Robot Control with Intel's Loihi 2 Neuromorphic Hardware**	Kenneth Stewart et.al. et.al.	[2512.03911](2512.03911)	null
-**2025-12-03**	**Crossing the Sim2Real Gap Between Simulation and Ground Testing to Space Deployment of Autonomous Free-flyer Control**	Kenneth Stewart et.al. et.al.	[2512.03736](2512.03736)	null
-**2025-12-03**	**Autonomous Planning In-space Assembly Reinforcement-learning free-flYer (APIARY) International Space Station Astrobee Testing**	Samantha Chapin et.al. et.al.	[2512.03729](2512.03729)	null
-**2025-12-02**	**G-SHARP: Gaussian Surgical Hardware Accelerated Real-time Pipeline**	Vishwesh Nath et.al. et.al.	[2512.02482](2512.02482)	null
-**2025-12-01**	**SpriteHand: Real-Time Versatile Hand-Object Interaction with Autoregressive Video Generation**	Zisu Li et.al. et.al.	[2512.01960](2512.01960)	null
-**2025-11-28**	**DiskChunGS: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management**	Casimir Feldmann et.al. et.al.	[2511.23030](2511.23030)	null
-**2025-11-26**	**VGGTFace: Topologically Consistent Facial Geometry Reconstruction in the Wild**	Xin Ming et.al. et.al.	[2511.20366](2511.20366)	null
-**2025-11-21**	**Energy Scaling Laws for Diffusion Models: Quantifying Compute and Carbon Emissions in Image Generation**	Aniketh Iyengar et.al. et.al.	[2511.17031](2511.17031)	null
-**2025-11-19**	**$π^{*}_{0.6}$ : a VLA That Learns From Experience**	Physical Intelligence et.al. et.al.	[2511.14759](2511.14759)	null
-**2025-11-24**	**InstantViR: Real-Time Video Inverse Problem Solver with Distilled Diffusion Prior**	Weimin Bai et.al. et.al.	[2511.14208](2511.14208)	null
-**2025-11-18**	**RTS-Mono: A Real-Time Self-Supervised Monocular Depth Estimation Method for Real-World Deployment**	Zeyu Cheng et.al. et.al.	[2511.14107](2511.14107)	null
-**2025-11-15**	**Enhancing Road Safety Through Multi-Camera Image Segmentation with Post-Encroachment Time Analysis**	Shounak Ray Chaudhuri et.al. et.al.	[2511.12018](2511.12018)	null
-**2025-11-14**	**Advancing Annotat3D with Harpia: A CUDA-Accelerated Library For Large-Scale Volumetric Data Segmentation**	Camila Machado de Araujo et.al. et.al.	[2511.11890](2511.11890)	null
-**2025-11-14**	**6D Strawberry Pose Estimation: Real-time and Edge AI Solutions Using Purely Synthetic Training Data**	Saptarshi Neil Sinha et.al. et.al.	[2511.11307](2511.11307)	null
-**2025-11-10**	**YoNoSplat: You Only Need One Model for Feedforward 3D Gaussian Splatting**	Botao Ye et.al. et.al.	[2511.07321](2511.07321)	null
-**2025-11-06**	**Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning**	NVIDIA et.al. et.al.	[2511.04831](2511.04831)	null
-**2025-11-06**	**BoRe-Depth: Self-supervised Monocular Depth Estimation with Boundary Refinement for Embedded Systems**	Chang Liu et.al. et.al.	[2511.04388](2511.04388)	null
-**2025-11-07**	**NVIDIA Nemotron Nano V2 VL**	NVIDIA et.al. et.al.	[2511.03929](2511.03929)	null
-**2025-11-01**	**Transfer Learning for Onboard Cloud Segmentation in Thermal Earth Observation: From Landsat to a CubeSat Constellation**	Niklas Wölki et.al. et.al.	[2511.00357](2511.00357)	null
-**2025-10-30**	**Real-DRL: Teach and Learn in Reality**	Yanbing Mao et.al. et.al.	[2511.00112](2511.00112)	null
-**2026-01-07**	**Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail**	NVIDIA et.al. et.al.	[2511.00088](2511.00088)	null
-**2025-10-28**	**World Simulation with Video Foundation Models for Physical AI**	NVIDIA et.al. et.al.	[2511.00062](2511.00062)	null
-**2025-10-27**	**Benchmarking Federated Learning Frameworks for Medical Imaging Deployment: A Comparative Study of NVIDIA FLARE, Flower, and Owkin Substra**	Riya Gupta et.al. et.al.	[2511.00037](2511.00037)	null
-**2025-10-30**	**Heterogeneous Robot Collaboration in Unstructured Environments with Grounded Generative Intelligence**	Zachary Ravichandran et.al. et.al.	[2510.26915](2510.26915)	null
-**2025-10-30**	**Towards Reinforcement Learning Based Log Loading Automation**	Ilya Kurinov et.al. et.al.	[2510.26363](2510.26363)	null
-**2025-10-31**	**DINO-YOLO: Self-Supervised Pre-training for Data-Efficient Object Detection in Civil Engineering Applications**	Malaisree P et.al. et.al.	[2510.25140](2510.25140)	null
-**2026-01-08**	**MobileGeo: Exploring Hierarchical Knowledge Distillation for Resource-Efficient Cross-view Drone Geo-Localization**	Jian Sun et.al. et.al.	[2510.22582](2510.22582)	null
-**2025-12-04**	**GigaBrain-0: A World Model-Powered Vision-Language-Action Model**	GigaBrain Team et.al. et.al.	[2510.19430](2510.19430)	null
-**2025-10-18**	**DIV-Nav: Open-Vocabulary Spatial Relationships for Multi-Object Navigation**	Jesús Ortega-Peimbert et.al. et.al.	[2510.16518](2510.16518)	null
-**2025-10-18**	**Cerberus: Real-Time Video Anomaly Detection via Cascaded Vision-Language Models**	Yue Zheng et.al. et.al.	[2510.16290](2510.16290)	null
-**2025-10-17**	**CuSfM: CUDA-Accelerated Structure-from-Motion**	Jingrui Yu et.al. et.al.	[2510.15271](2510.15271)	null
-**2025-10-16**	**EdgeNavMamba: Mamba Optimized Object Detection for Energy Efficient Edge Devices**	Romina Aalishah et.al. et.al.	[2510.14946](2510.14946)	null
-**2025-10-16**	**BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU**	Junyi Wu et.al. et.al.	[2510.14564](2510.14564)	null
-**2025-10-15**	**Adaptive Obstacle-Aware Task Assignment and Planning for Heterogeneous Robot Teaming**	Nan Li et.al. et.al.	[2510.14063](2510.14063)	null
-**2025-10-15**	**Accelerated Feature Detectors for Visual SLAM: A Comparative Study of FPGA vs GPU**	Ruiqi Ye et.al. et.al.	[2510.13546](2510.13546)	null
-**2025-10-15**	**Real-Time Crowd Counting for Embedded Systems with Lightweight Architecture**	Zhiyuan Zhao et.al. et.al.	[2510.13250](2510.13250)	null
-**2025-10-14**	**T(R,O) Grasp: Efficient Graph Diffusion of Robot-Object Spatial Transformation for Cross-Embodiment Dexterous Grasping**	Xin Fei et.al. et.al.	[2510.12724](2510.12724)	null
-**2025-10-14**	**PolygMap: A Perceptive Locomotion Framework for Humanoid Robot Stair Climbing**	Bingquan Li et.al. et.al.	[2510.12346](2510.12346)	null
-**2025-10-14**	**The Impact of Synthetic Data on Object Detection Model Performance: A Comparative Analysis with Real-World Data**	Muammer Bay et.al. et.al.	[2510.12208](2510.12208)	null
-**2025-10-13**	**SCOOP'D: Learning Mixed-Liquid-Solid Scooping via Sim2Real Generative Policy**	Kuanning Wang et.al. et.al.	[2510.11566](2510.11566)	null
-**2025-10-15**	**A Faster and More Reliable Middleware for Autonomous Driving Systems**	Yuankai He et.al. et.al.	[2510.11448](2510.11448)	null
-**2025-10-12**	**Real2USD: Scene Representations in Universal Scene Description Language**	Christopher D. Hsu et.al. et.al.	[2510.10778](2510.10778)	null
-**2025-10-10**	**StreamingVLM: Real-Time Understanding for Infinite Video Streams**	Ruyi Xu et.al. et.al.	[2510.09608](2510.09608)	null
-**2025-10-10**	**Online Video Depth Anything: Temporally-Consistent Depth Prediction with Low Memory Consumption**	Johann-Friedrich Feiden et.al. et.al.	[2510.09182](2510.09182)	null
-**2025-10-06**	**Bio-Inspired Robotic Houbara: From Development to Field Deployment for Behavioral Studies**	Lyes Saad Saoud et.al. et.al.	[2510.04692](2510.04692)	null
-**2025-10-06**	**Fast Witness Persistence for MRI Volumes via Hybrid Landmarking**	Jorge Leonardo Ruiz Williams et.al. et.al.	[2510.04553](2510.04553)	null
-**2025-09-29**	**Convolutional Neural Nets vs Vision Transformers: A SpaceNet Case Study with Balanced vs Imbalanced Regimes**	Akshar Gothi et.al. et.al.	[2510.03297](2510.03297)	null
-**2025-10-02**	**Paving the Way Towards Kinematic Assessment Using Monocular Video: A Preclinical Benchmark of State-of-the-Art Deep-Learning-Based 3D Human Pose Estimators Against Inertial Sensors in Daily Living Activities**	Mario Medrano-Paredes et.al. et.al.	[2510.02264](2510.02264)	null
-**2025-10-01**	**A Deep Learning Pipeline for Epilepsy Genomic Analysis Using GPT-2 XL and NVIDIA H100**	Muhammad Omer Latif et.al. et.al.	[2510.00392](2510.00392)	null
-**2025-09-29**	**DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder**	Junyu Chen et.al. et.al.	[2509.25182](2509.25182)	null
-**2025-10-01**	**DC-Gen: Post-Training Diffusion Acceleration with Deeply Compressed Latent Space**	Wenkun He et.al. et.al.	[2509.25180](2509.25180)	null
-**2026-01-14**	**YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection**	Ranjan Sapkota et.al. et.al.	[2509.25164](2509.25164)	null
-**2025-09-28**	**FastViDAR: Real-Time Omnidirectional Depth Estimation via Alternative Hierarchical Attention**	Hangtian Zhao et.al. et.al.	[2509.23733](2509.23733)	null
-**2025-09-18**	**VIRTUS-FPP: Virtual Sensor Modeling for Fringe Projection Profilometry in NVIDIA Isaac Sim**	Adam Haroon et.al. et.al.	[2509.22685](2509.22685)	null
-**2025-10-13**	**LongLive: Real-time Interactive Long Video Generation**	Shuai Yang et.al. et.al.	[2509.22622](2509.22622)	null
-**2025-09-24**	**Action-Informed Estimation and Planning: Clearing Clutter on Staircases via Quadrupedal Pedipulation**	Prasanna Sriganesh et.al. et.al.	[2509.20516](2509.20516)	null
-**2025-11-03**	**A Comprehensive Evaluation of YOLO-based Deer Detection Performance on Edge Devices**	Bishal Adhikari et.al. et.al.	[2509.20318](2509.20318)	null
-**2025-09-22**	**RL-augmented Adaptive Model Predictive Control for Bipedal Locomotion over Challenging Terrain**	Junnosuke Kamohara et.al. et.al.	[2509.18466](2509.18466)	null
-**2025-09-22**	**Robotic Skill Diversification via Active Mutation of Reward Functions in Reinforcement Learning During a Liquid Pouring Task**	Jannick van Buuren et.al. et.al.	[2509.18463](2509.18463)	null
-**2025-09-19**	**TinyEcoWeedNet: Edge Efficient Real-Time Aerial Agricultural Weed Detection**	Omar H. Khater et.al. et.al.	[2509.18193](2509.18193)	null
-**2025-09-22**	**AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization for Agile Mapless Drone Navigation**	Xin Chen et.al. et.al.	[2509.17340](2509.17340)	null
-**2025-09-18**	**Efficient 3D Perception on Embedded Systems via Interpolation-Free Tri-Plane Lifting and Volume Fusion**	Sibaek Lee et.al. et.al.	[2509.14641](2509.14641)	null
-**2025-11-22**	**SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation**	Jiayi Pan et.al. et.al.	[2509.13848](2509.13848)	null
-**2025-09-16**	**Real-Time Detection and Tracking of Foreign Object Intrusions in Power Systems via Feature-Based Edge Intelligence**	Xinan Wang et.al. et.al.	[2509.13396](2509.13396)	null
-**2025-09-16**	**VEGA: Electric Vehicle Navigation Agent via Physics-Informed Neural Operator and Proximal Policy Optimization**	Hansol Lim et.al. et.al.	[2509.13386](2509.13386)	null
-<details><summary>Show 13 more papers...</summary>
+**2026-01-15**	**A Unified 3D Object Perception Framework for Real-Time Outside-In Multi-Camera Systems**	Yizhou Wang et.al.	[2601.10819](http://arxiv.org/pdf/2601.10819.pdf)	null
+**2026-01-13**	**Comprehensive Machine Learning Benchmarking for Fringe Projection Profilometry with Photorealistic Synthetic Data**	Anush Lakshman S et.al.	[2601.08900](http://arxiv.org/pdf/2601.08900.pdf)	null
+**2026-01-06**	**Edge-AI Perception Node for Cooperative Road-Safety Enforcement and Connected-Vehicle Integration**	Shree Charran R et.al.	[2601.07845](http://arxiv.org/pdf/2601.07845.pdf)	null
+**2026-01-05**	**A Review of Online Diffusion Policy RL Algorithms for Scalable Robotic Control**	Wonhyeok Choi et.al.	[2601.06133](http://arxiv.org/pdf/2601.06133.pdf)	null
+**2026-01-08**	**PRISM: Protocol Refinement through Intelligent Simulation Modeling**	Brian Hsu et.al.	[2601.05356](http://arxiv.org/pdf/2601.05356.pdf)	null
+**2026-01-08**	**Plenoptic Video Generation**	Xiao Fu et.al.	[2601.05239](http://arxiv.org/pdf/2601.05239.pdf)	null
+**2026-01-08**	**Decentralized Privacy-Preserving Federal Learning of Computer Vision Models on Edge Devices**	Damian Harenčák et.al.	[2601.04912](http://arxiv.org/pdf/2601.04912.pdf)	null
+**2026-01-07**	**3D-Agent:Tri-Modal Multi-Agent Collaboration for Scalable 3D Object Annotation**	Jusheng Zhang et.al.	[2601.04404](http://arxiv.org/pdf/2601.04404.pdf)	null
+**2026-01-06**	**Validating Generalist Robots with Situation Calculus and STL Falsification**	Changwen Li et.al.	[2601.03038](http://arxiv.org/pdf/2601.03038.pdf)	null
+**2026-01-06**	**Reinforcement Learning for Follow-the-Leader Robotic Endoscopic Navigation via Synthetic Data**	Sicong Gao et.al.	[2601.02798](http://arxiv.org/pdf/2601.02798.pdf)	null
+**2026-01-05**	**InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation**	Junhao Cai et.al.	[2601.02456](http://arxiv.org/pdf/2601.02456.pdf)	null
+**2026-01-05**	**VIBE: Visual Instruction Based Editor**	Grigorii Alekseenko et.al.	[2601.02242](http://arxiv.org/pdf/2601.02242.pdf)	null
+**2026-01-04**	**VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data**	Snehal s. Dikhale et.al.	[2601.01675](http://arxiv.org/pdf/2601.01675.pdf)	null
+**2026-01-03**	**Cross-Layer Attentive Feature Upsampling for Low-latency Semantic Segmentation**	Tianheng Cheng et.al.	[2601.01167](http://arxiv.org/pdf/2601.01167.pdf)	null
+**2026-01-01**	**Efficient Prediction of Dense Visual Embeddings via Distillation and RGB-D Transformers**	Söhnke Benedikt Fischedick et.al.	[2601.00359](http://arxiv.org/pdf/2601.00359.pdf)	null
+**2025-12-23**	**LiteFusion: Taming 3D Object Detectors from Vision-Based to Multi-Modal with Minimal Adaptation**	Xiangxuan Ren et.al.	[2512.20217](http://arxiv.org/pdf/2512.20217.pdf)	null
+**2025-12-17**	**Exploring Deep-to-Shallow Transformable Neural Networks for Intelligent Embedded Systems**	Xiangzhong Luo et.al.	[2512.19731](http://arxiv.org/pdf/2512.19731.pdf)	null
+**2025-12-21**	**Commercial Vehicle Braking Optimization: A Robust SIFT-Trajectory Approach**	Zhe Li et.al.	[2512.18597](http://arxiv.org/pdf/2512.18597.pdf)	null
+**2025-12-09**	**CytoDINO: Risk-Aware and Biologically-Informed Adaptation of DINOv3 for Bone Marrow Cytomorphology**	Aziz Muminov et.al.	[2512.17930](http://arxiv.org/pdf/2512.17930.pdf)	null
+**2025-12-18**	**PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence**	Xiaopeng Lin et.al.	[2512.16793](http://arxiv.org/pdf/2512.16793.pdf)	null
+**2025-12-17**	**ERIENet: An Efficient RAW Image Enhancement Network under Low-Light Environment**	Jianan Wang et.al.	[2512.15186](http://arxiv.org/pdf/2512.15186.pdf)	null
+**2025-12-17**	**BEV-Patch-PF: Particle Filtering with BEV-Aerial Feature Matching for Off-Road Geo-Localization**	Dongmyeong Lee et.al.	[2512.15111](http://arxiv.org/pdf/2512.15111.pdf)	null
+**2025-12-17**	**Uni-Parser Technical Report**	Xi Fang et.al.	[2512.15098](http://arxiv.org/pdf/2512.15098.pdf)	null
+**2025-12-15**	**Generative AI for Video Translation: A Scalable Architecture for Multilingual Video Conferencing**	Amirkia Rafiei Oskooei et.al.	[2512.13904](http://arxiv.org/pdf/2512.13904.pdf)	null
+**2025-12-16**	**Semantic-Drive: Democratizing Long-Tail Data Curation via Open-Vocabulary Grounding and Neuro-Symbolic VLM Consensus**	Antonio Guillen-Perez et.al.	[2512.12012](http://arxiv.org/pdf/2512.12012.pdf)	null
+**2025-10-31**	**Benchmarking Tesla's Traffic Light and Stop Sign Control: Field Dataset and Behavior Insights**	Zheng Li et.al.	[2512.11802](http://arxiv.org/pdf/2512.11802.pdf)	null
+**2025-12-15**	**YawDD+: Frame-level Annotations for Accurate Yawn Prediction**	Ahmed Mujtaba et.al.	[2512.11446](http://arxiv.org/pdf/2512.11446.pdf)	null
+**2025-12-15**	**WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control**	Haoran Jiang et.al.	[2512.11047](http://arxiv.org/pdf/2512.11047.pdf)	null
+**2025-12-11**	**K-Track: Kalman-Enhanced Tracking for Accelerating Deep Point Trackers on Edge Devices**	Bishoy Galoaa et.al.	[2512.10628](http://arxiv.org/pdf/2512.10628.pdf)	null
+**2025-12-10**	**FastPose-ViT: A Vision Transformer for Real-Time Spacecraft Pose Estimation**	Pierre Ancey et.al.	[2512.09792](http://arxiv.org/pdf/2512.09792.pdf)	null
+**2025-12-11**	**Development and Testing for Perception Based Autonomous Landing of a Long-Range QuadPlane**	Ashik E Rasul et.al.	[2512.09343](http://arxiv.org/pdf/2512.09343.pdf)	null
+**2025-12-10**	**A Distributed Framework for Privacy-Enhanced Vision Transformers on the Edge**	Zihao Ding et.al.	[2512.09309](http://arxiv.org/pdf/2512.09309.pdf)	null
+**2025-12-09**	**FastBEV++: Fast by Algorithm, Deployable by Design**	Yuanpeng Chen et.al.	[2512.08237](http://arxiv.org/pdf/2512.08237.pdf)	null
+**2025-12-03**	**Fast and Flexible Robustness Certificates for Semantic Segmentation**	Thomas Massena et.al.	[2512.06010](http://arxiv.org/pdf/2512.06010.pdf)	null
+**2025-12-05**	**An Integrated System for WEEE Sorting Employing X-ray Imaging, AI-based Object Detection and Segmentation, and Delta Robot Manipulation**	Panagiotis Giannikos et.al.	[2512.05599](http://arxiv.org/pdf/2512.05599.pdf)	null
+**2025-12-04**	**SDG-Track: A Heterogeneous Observer-Follower Framework for High-Resolution UAV Tracking on Embedded Platforms**	Jiawen Wen et.al.	[2512.04883](http://arxiv.org/pdf/2512.04883.pdf)	null
+**2025-12-03**	**Autonomous Reinforcement Learning Robot Control with Intel's Loihi 2 Neuromorphic Hardware**	Kenneth Stewart et.al.	[2512.03911](http://arxiv.org/pdf/2512.03911.pdf)	null
+**2025-12-03**	**Crossing the Sim2Real Gap Between Simulation and Ground Testing to Space Deployment of Autonomous Free-flyer Control**	Kenneth Stewart et.al.	[2512.03736](http://arxiv.org/pdf/2512.03736.pdf)	null
+**2025-12-03**	**Autonomous Planning In-space Assembly Reinforcement-learning free-flYer (APIARY) International Space Station Astrobee Testing**	Samantha Chapin et.al.	[2512.03729](http://arxiv.org/pdf/2512.03729.pdf)	null
+**2025-12-02**	**G-SHARP: Gaussian Surgical Hardware Accelerated Real-time Pipeline**	Vishwesh Nath et.al.	[2512.02482](http://arxiv.org/pdf/2512.02482.pdf)	null
+**2025-12-01**	**SpriteHand: Real-Time Versatile Hand-Object Interaction with Autoregressive Video Generation**	Zisu Li et.al.	[2512.01960](http://arxiv.org/pdf/2512.01960.pdf)	null
+**2025-11-28**	**DiskChunGS: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management**	Casimir Feldmann et.al.	[2511.23030](http://arxiv.org/pdf/2511.23030.pdf)	null
+**2025-11-26**	**VGGTFace: Topologically Consistent Facial Geometry Reconstruction in the Wild**	Xin Ming et.al.	[2511.20366](http://arxiv.org/pdf/2511.20366.pdf)	null
+**2025-11-21**	**Energy Scaling Laws for Diffusion Models: Quantifying Compute and Carbon Emissions in Image Generation**	Aniketh Iyengar et.al.	[2511.17031](http://arxiv.org/pdf/2511.17031.pdf)	null
+**2025-11-19**	**$π^{*}_{0.6}$ : a VLA That Learns From Experience**	Physical Intelligence et.al.	[2511.14759](http://arxiv.org/pdf/2511.14759.pdf)	null
+**2025-11-24**	**InstantViR: Real-Time Video Inverse Problem Solver with Distilled Diffusion Prior**	Weimin Bai et.al.	[2511.14208](http://arxiv.org/pdf/2511.14208.pdf)	null
+**2025-11-18**	**RTS-Mono: A Real-Time Self-Supervised Monocular Depth Estimation Method for Real-World Deployment**	Zeyu Cheng et.al.	[2511.14107](http://arxiv.org/pdf/2511.14107.pdf)	null
+**2025-11-15**	**Enhancing Road Safety Through Multi-Camera Image Segmentation with Post-Encroachment Time Analysis**	Shounak Ray Chaudhuri et.al.	[2511.12018](http://arxiv.org/pdf/2511.12018.pdf)	null
+**2025-11-14**	**Advancing Annotat3D with Harpia: A CUDA-Accelerated Library For Large-Scale Volumetric Data Segmentation**	Camila Machado de Araujo et.al.	[2511.11890](http://arxiv.org/pdf/2511.11890.pdf)	null
+**2025-11-14**	**6D Strawberry Pose Estimation: Real-time and Edge AI Solutions Using Purely Synthetic Training Data**	Saptarshi Neil Sinha et.al.	[2511.11307](http://arxiv.org/pdf/2511.11307.pdf)	null
+**2025-11-10**	**YoNoSplat: You Only Need One Model for Feedforward 3D Gaussian Splatting**	Botao Ye et.al.	[2511.07321](http://arxiv.org/pdf/2511.07321.pdf)	null
+**2025-11-06**	**Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning**	NVIDIA et.al.	[2511.04831](http://arxiv.org/pdf/2511.04831.pdf)	null
+**2025-11-06**	**BoRe-Depth: Self-supervised Monocular Depth Estimation with Boundary Refinement for Embedded Systems**	Chang Liu et.al.	[2511.04388](http://arxiv.org/pdf/2511.04388.pdf)	null
+**2025-11-07**	**NVIDIA Nemotron Nano V2 VL**	NVIDIA et.al.	[2511.03929](http://arxiv.org/pdf/2511.03929.pdf)	null
+**2025-11-01**	**Transfer Learning for Onboard Cloud Segmentation in Thermal Earth Observation: From Landsat to a CubeSat Constellation**	Niklas Wölki et.al.	[2511.00357](http://arxiv.org/pdf/2511.00357.pdf)	null
+**2025-10-30**	**Real-DRL: Teach and Learn in Reality**	Yanbing Mao et.al.	[2511.00112](http://arxiv.org/pdf/2511.00112.pdf)	null
+**2026-01-07**	**Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail**	NVIDIA et.al.	[2511.00088](http://arxiv.org/pdf/2511.00088.pdf)	null
+**2025-10-28**	**World Simulation with Video Foundation Models for Physical AI**	NVIDIA et.al.	[2511.00062](http://arxiv.org/pdf/2511.00062.pdf)	null
+**2025-10-27**	**Benchmarking Federated Learning Frameworks for Medical Imaging Deployment: A Comparative Study of NVIDIA FLARE, Flower, and Owkin Substra**	Riya Gupta et.al.	[2511.00037](http://arxiv.org/pdf/2511.00037.pdf)	null
+**2025-10-30**	**Heterogeneous Robot Collaboration in Unstructured Environments with Grounded Generative Intelligence**	Zachary Ravichandran et.al.	[2510.26915](http://arxiv.org/pdf/2510.26915.pdf)	null
+**2025-10-30**	**Towards Reinforcement Learning Based Log Loading Automation**	Ilya Kurinov et.al.	[2510.26363](http://arxiv.org/pdf/2510.26363.pdf)	null
+**2025-10-31**	**DINO-YOLO: Self-Supervised Pre-training for Data-Efficient Object Detection in Civil Engineering Applications**	Malaisree P et.al.	[2510.25140](http://arxiv.org/pdf/2510.25140.pdf)	null
+**2026-01-08**	**MobileGeo: Exploring Hierarchical Knowledge Distillation for Resource-Efficient Cross-view Drone Geo-Localization**	Jian Sun et.al.	[2510.22582](http://arxiv.org/pdf/2510.22582.pdf)	null
+**2025-12-04**	**GigaBrain-0: A World Model-Powered Vision-Language-Action Model**	GigaBrain Team et.al.	[2510.19430](http://arxiv.org/pdf/2510.19430.pdf)	null
+**2025-10-18**	**DIV-Nav: Open-Vocabulary Spatial Relationships for Multi-Object Navigation**	Jesús Ortega-Peimbert et.al.	[2510.16518](http://arxiv.org/pdf/2510.16518.pdf)	null
+**2025-10-18**	**Cerberus: Real-Time Video Anomaly Detection via Cascaded Vision-Language Models**	Yue Zheng et.al.	[2510.16290](http://arxiv.org/pdf/2510.16290.pdf)	null
+**2025-10-17**	**CuSfM: CUDA-Accelerated Structure-from-Motion**	Jingrui Yu et.al.	[2510.15271](http://arxiv.org/pdf/2510.15271.pdf)	null
+**2025-10-16**	**EdgeNavMamba: Mamba Optimized Object Detection for Energy Efficient Edge Devices**	Romina Aalishah et.al.	[2510.14946](http://arxiv.org/pdf/2510.14946.pdf)	null
+**2025-10-16**	**BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU**	Junyi Wu et.al.	[2510.14564](http://arxiv.org/pdf/2510.14564.pdf)	null
+**2025-10-15**	**Adaptive Obstacle-Aware Task Assignment and Planning for Heterogeneous Robot Teaming**	Nan Li et.al.	[2510.14063](http://arxiv.org/pdf/2510.14063.pdf)	null
+**2025-10-15**	**Accelerated Feature Detectors for Visual SLAM: A Comparative Study of FPGA vs GPU**	Ruiqi Ye et.al.	[2510.13546](http://arxiv.org/pdf/2510.13546.pdf)	null
+**2025-10-15**	**Real-Time Crowd Counting for Embedded Systems with Lightweight Architecture**	Zhiyuan Zhao et.al.	[2510.13250](http://arxiv.org/pdf/2510.13250.pdf)	null
+**2025-10-14**	**T(R,O) Grasp: Efficient Graph Diffusion of Robot-Object Spatial Transformation for Cross-Embodiment Dexterous Grasping**	Xin Fei et.al.	[2510.12724](http://arxiv.org/pdf/2510.12724.pdf)	null
+**2025-10-14**	**PolygMap: A Perceptive Locomotion Framework for Humanoid Robot Stair Climbing**	Bingquan Li et.al.	[2510.12346](http://arxiv.org/pdf/2510.12346.pdf)	null
+**2025-10-14**	**The Impact of Synthetic Data on Object Detection Model Performance: A Comparative Analysis with Real-World Data**	Muammer Bay et.al.	[2510.12208](http://arxiv.org/pdf/2510.12208.pdf)	null
+**2025-10-13**	**SCOOP'D: Learning Mixed-Liquid-Solid Scooping via Sim2Real Generative Policy**	Kuanning Wang et.al.	[2510.11566](http://arxiv.org/pdf/2510.11566.pdf)	null
+**2025-10-15**	**A Faster and More Reliable Middleware for Autonomous Driving Systems**	Yuankai He et.al.	[2510.11448](http://arxiv.org/pdf/2510.11448.pdf)	null
+**2025-10-12**	**Real2USD: Scene Representations in Universal Scene Description Language**	Christopher D. Hsu et.al.	[2510.10778](http://arxiv.org/pdf/2510.10778.pdf)	null
+**2025-10-10**	**StreamingVLM: Real-Time Understanding for Infinite Video Streams**	Ruyi Xu et.al.	[2510.09608](http://arxiv.org/pdf/2510.09608.pdf)	null
+**2025-10-10**	**Online Video Depth Anything: Temporally-Consistent Depth Prediction with Low Memory Consumption**	Johann-Friedrich Feiden et.al.	[2510.09182](http://arxiv.org/pdf/2510.09182.pdf)	null
+**2025-10-06**	**Bio-Inspired Robotic Houbara: From Development to Field Deployment for Behavioral Studies**	Lyes Saad Saoud et.al.	[2510.04692](http://arxiv.org/pdf/2510.04692.pdf)	null
+**2025-10-06**	**Fast Witness Persistence for MRI Volumes via Hybrid Landmarking**	Jorge Leonardo Ruiz Williams et.al.	[2510.04553](http://arxiv.org/pdf/2510.04553.pdf)	null
+**2025-09-29**	**Convolutional Neural Nets vs Vision Transformers: A SpaceNet Case Study with Balanced vs Imbalanced Regimes**	Akshar Gothi et.al.	[2510.03297](http://arxiv.org/pdf/2510.03297.pdf)	null
+**2025-10-02**	**Paving the Way Towards Kinematic Assessment Using Monocular Video: A Preclinical Benchmark of State-of-the-Art Deep-Learning-Based 3D Human Pose Estimators Against Inertial Sensors in Daily Living Activities**	Mario Medrano-Paredes et.al.	[2510.02264](http://arxiv.org/pdf/2510.02264.pdf)	null
+**2025-10-01**	**A Deep Learning Pipeline for Epilepsy Genomic Analysis Using GPT-2 XL and NVIDIA H100**	Muhammad Omer Latif et.al.	[2510.00392](http://arxiv.org/pdf/2510.00392.pdf)	null
+**2025-09-29**	**DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder**	Junyu Chen et.al.	[2509.25182](http://arxiv.org/pdf/2509.25182.pdf)	null
+**2025-10-01**	**DC-Gen: Post-Training Diffusion Acceleration with Deeply Compressed Latent Space**	Wenkun He et.al.	[2509.25180](http://arxiv.org/pdf/2509.25180.pdf)	null
+**2026-01-14**	**YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection**	Ranjan Sapkota et.al.	[2509.25164](http://arxiv.org/pdf/2509.25164.pdf)	null
+**2025-09-28**	**FastViDAR: Real-Time Omnidirectional Depth Estimation via Alternative Hierarchical Attention**	Hangtian Zhao et.al.	[2509.23733](http://arxiv.org/pdf/2509.23733.pdf)	null
+**2025-09-18**	**VIRTUS-FPP: Virtual Sensor Modeling for Fringe Projection Profilometry in NVIDIA Isaac Sim**	Adam Haroon et.al.	[2509.22685](http://arxiv.org/pdf/2509.22685.pdf)	null
+**2025-10-13**	**LongLive: Real-time Interactive Long Video Generation**	Shuai Yang et.al.	[2509.22622](http://arxiv.org/pdf/2509.22622.pdf)	null
+**2025-09-24**	**Action-Informed Estimation and Planning: Clearing Clutter on Staircases via Quadrupedal Pedipulation**	Prasanna Sriganesh et.al.	[2509.20516](http://arxiv.org/pdf/2509.20516.pdf)	null
+**2025-11-03**	**A Comprehensive Evaluation of YOLO-based Deer Detection Performance on Edge Devices**	Bishal Adhikari et.al.	[2509.20318](http://arxiv.org/pdf/2509.20318.pdf)	null
+**2025-09-22**	**RL-augmented Adaptive Model Predictive Control for Bipedal Locomotion over Challenging Terrain**	Junnosuke Kamohara et.al.	[2509.18466](http://arxiv.org/pdf/2509.18466.pdf)	null
+**2025-09-22**	**Robotic Skill Diversification via Active Mutation of Reward Functions in Reinforcement Learning During a Liquid Pouring Task**	Jannick van Buuren et.al.	[2509.18463](http://arxiv.org/pdf/2509.18463.pdf)	null
+**2025-09-19**	**TinyEcoWeedNet: Edge Efficient Real-Time Aerial Agricultural Weed Detection**	Omar H. Khater et.al.	[2509.18193](http://arxiv.org/pdf/2509.18193.pdf)	null
+**2025-09-22**	**AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization for Agile Mapless Drone Navigation**	Xin Chen et.al.	[2509.17340](http://arxiv.org/pdf/2509.17340.pdf)	null
+**2025-09-18**	**Efficient 3D Perception on Embedded Systems via Interpolation-Free Tri-Plane Lifting and Volume Fusion**	Sibaek Lee et.al.	[2509.14641](http://arxiv.org/pdf/2509.14641.pdf)	null
+**2025-11-22**	**SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation**	Jiayi Pan et.al.	[2509.13848](http://arxiv.org/pdf/2509.13848.pdf)	null
+**2025-09-16**	**Real-Time Detection and Tracking of Foreign Object Intrusions in Power Systems via Feature-Based Edge Intelligence**	Xinan Wang et.al.	[2509.13396](http://arxiv.org/pdf/2509.13396.pdf)	null
+<details><summary>Show 14 more papers...</summary>
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+**2025-09-16**	**VEGA: Electric Vehicle Navigation Agent via Physics-Informed Neural Operator and Proximal Policy Optimization**	Hansol Lim et.al. et.al.	[2509.13386](2509.13386)	null
 ****2025-09-15****	****Advanced Layout Analysis Models for Docling****	Nikolaos Livathinos et.al. et.al.	[2509.11720)]([2509.11720](http://arxiv.org/pdf/2509.11720.pdf))	null
 ****2025-09-09****	****Attribute-based Object Grounding and Robot Grasp Detection with Spatial Reasoning****	Houjian Yu et.al. et.al.	[2509.08126)]([2509.08126](http://arxiv.org/pdf/2509.08126.pdf))	null
 ****2025-09-06****	****SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning****	Hanzhen Wang et.al. et.al.	[2509.05614)]([2509.05614](http://arxiv.org/pdf/2509.05614.pdf))	null
