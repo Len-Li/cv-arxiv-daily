@@ -1,4 +1,4 @@
-Updated on 2026.02.01
+Updated on 2026.02.02
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -3760,7 +3760,7 @@ Publish Date	Title	Authors	PDF	Code
 **2018-04-02**	**Extreme 3D Face Reconstruction: Seeing Through Occlusions**	Anh Tuan Tran et.al. et.al. et.al.	[1712.05083)](1712.05083))	null
 </details>
 
-<p align=right>(<a href=#Updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260202>back to top</a>)</p>
 
 ## Diffusion
 
@@ -12052,7 +12052,7 @@ Publish Date	Title	Authors	PDF	Code
 **2022-10-06**	**Imagen Video: High Definition Video Generation with Diffusion Models**	Jonathan Ho et.al. et.al. et.al.	[2210.02303)](2210.02303))	null
 </details>
 
-<p align=right>(<a href=#Updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260202>back to top</a>)</p>
 
 ## Industry
 
@@ -12884,7 +12884,7 @@ Publish Date	Title	Authors	PDF	Code
 **2012-07-10**	**Approximated Structured Prediction for Learning Large Scale Graphical Models**	Tamir Hazan et.al. et.al. et.al.	[1006.2899)](1006.2899))	null
 </details>
 
-<p align=right>(<a href=#Updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260202>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -13969,7 +13969,7 @@ Publish Date	Title	Authors	PDF	Code
 **2016-06-24**	**Find your Way by Observing the Sun and Other Semantic Cues**	Wei-Chiu Ma et.al. et.al. et.al.	[1606.07415)](1606.07415))	null
 </details>
 
-<p align=right>(<a href=#Updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260202>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -14820,7 +14820,7 @@ Publish Date	Title	Authors	PDF	Code
 **2016-01-26**	**Sampling-based Algorithms for Optimal Motion Planning Using Closed-loop Prediction**	Oktay Arslan et.al. et.al. et.al.	[1601.06326)](1601.06326))	null
 </details>
 
-<p align=right>(<a href=#Updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260202>back to top</a>)</p>
 
 ## Robotics
 
@@ -15569,7 +15569,7 @@ Publish Date	Title	Authors	PDF	Code
 **2025-12-29**	**Breaking Symmetry-Induced Degeneracy in Multi-Agent Ergodic Coverage via Stochastic Spectral Control**	Kooktae Lee et.al. et.al. et.al.	[2512.23158)](2512.23158))	null
 </details>
 
-<p align=right>(<a href=#Updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260202>back to top</a>)</p>
 
 ## Robotics Industry
 
@@ -15701,5 +15701,5 @@ Publish Date	Title	Authors	PDF	Code
 **2025-08-19**	**The 9th AI City Challenge**	Zheng Tang et.al. et.al. et.al.	[2508.13564)](2508.13564))	null
 </details>
 
-<p align=right>(<a href=#Updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260202>back to top</a>)</p>
 
