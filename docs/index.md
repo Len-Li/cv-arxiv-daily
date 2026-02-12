@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2026.02.11
+Updated on 2026.02.12
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -12964,7 +12964,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 **2026-02-10**	**High-performance Vector-length Agnostic Quantum Circuit Simulations on ARM Processors**	Ruimin Shi et.al.	[2602.09604](http://arxiv.org/pdf/2602.09604.pdf)	null
 **2026-02-09**	**Zero Trust for Multi-RAT IoT: Trust Boundary Management in Heterogeneous Wireless Network Environments**	Jonathan Shelby et.al.	[2602.08989](http://arxiv.org/pdf/2602.08989.pdf)	null
 **2026-02-09**	**Modeling 3D Pedestrian-Vehicle Interactions for Vehicle-Conditioned Pose Forecasting**	Guangxun Zhu et.al.	[2602.08962](http://arxiv.org/pdf/2602.08962.pdf)	null
-**2026-02-10**	**karl. -- A Research Vehicle for Automated and Connected Driving**	Jean-Pierre Busch et.al.	[2602.08842](http://arxiv.org/pdf/2602.08842.pdf)	null
+**2026-02-10**	**karl. - A Research Vehicle for Automated and Connected Driving**	Jean-Pierre Busch et.al.	[2602.08842](http://arxiv.org/pdf/2602.08842.pdf)	null
 **2026-02-09**	**QUOKA: Query-Oriented KV Selection For Efficient LLM Prefill**	Dalton Jones et.al.	[2602.08722](http://arxiv.org/pdf/2602.08722.pdf)	null
 **2026-02-09**	**Near-Oracle KV Selection via Pre-hoc Sparsity for Long-Context Inference**	Yifei Gao et.al.	[2602.08329](http://arxiv.org/pdf/2602.08329.pdf)	null
 **2026-02-07**	**Vision and language: Novel Representations and Artificial intelligence for Driving Scene Safety Assessment and Autonomous Vehicle Planning**	Ross Greer et.al.	[2602.07680](http://arxiv.org/pdf/2602.07680.pdf)	null
@@ -15932,7 +15932,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 **2026-02-09**	**Modeling 3D Pedestrian-Vehicle Interactions for Vehicle-Conditioned Pose Forecasting**	Guangxun Zhu et.al.	[2602.08962](http://arxiv.org/pdf/2602.08962.pdf)	null
 **2026-02-10**	**Designing Multi-Robot Ground Video Sensemaking with Public Safety Professionals**	Puqi Zhou et.al.	[2602.08882](http://arxiv.org/pdf/2602.08882.pdf)	null
 **2026-02-09**	**Finite-Time Teleoperation of Euler-Lagrange Systems via Energy-Shaping**	Lazaro F. Torres et.al.	[2602.08845](http://arxiv.org/pdf/2602.08845.pdf)	null
-**2026-02-10**	**karl. -- A Research Vehicle for Automated and Connected Driving**	Jean-Pierre Busch et.al.	[2602.08842](http://arxiv.org/pdf/2602.08842.pdf)	null
+**2026-02-10**	**karl. - A Research Vehicle for Automated and Connected Driving**	Jean-Pierre Busch et.al.	[2602.08842](http://arxiv.org/pdf/2602.08842.pdf)	null
 **2026-02-09**	**Any-to-All MRI Synthesis: A Unified Foundation Model for Nasopharyngeal Carcinoma and Its Downstream Applications**	Yao Pu et.al.	[2602.08822](http://arxiv.org/pdf/2602.08822.pdf)	null
 **2026-02-09**	**Multi-Staged Framework for Safety Analysis of Offloaded Services in Distributed Intelligent Transportation Systems**	Robin Dehler et.al.	[2602.08821](http://arxiv.org/pdf/2602.08821.pdf)	null
 **2026-02-09**	**A Generic Service-Oriented Function Offloading Framework for Connected Automated Vehicles**	Robin Dehler et.al.	[2602.08799](http://arxiv.org/pdf/2602.08799.pdf)	null

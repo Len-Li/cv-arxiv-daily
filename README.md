@@ -1,4 +1,4 @@
-Updated on 2026.02.11
+Updated on 2026.02.12
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -4008,7 +4008,7 @@ Publish Date	Title	Authors	PDF	Code
 **2018-04-02**	**Extreme 3D Face Reconstruction: Seeing Through Occlusions**	Anh Tuan Tran et.al. et.al. et.al. et.al. et.al.	[1712.05083)](1712.05083))	null
 </details>
 
-<p align=right>(<a href=#Updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260212>back to top</a>)</p>
 
 ## Diffusion
 
@@ -12957,7 +12957,7 @@ Publish Date	Title	Authors	PDF	Code
 **2022-10-06**	**Imagen Video: High Definition Video Generation with Diffusion Models**	Jonathan Ho et.al. et.al. et.al. et.al. et.al.	[2210.02303)](2210.02303))	null
 </details>
 
-<p align=right>(<a href=#Updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260212>back to top</a>)</p>
 
 ## Industry
 
@@ -12967,7 +12967,7 @@ Publish Date	Title	Authors	PDF	Code
 **2026-02-10**	**High-performance Vector-length Agnostic Quantum Circuit Simulations on ARM Processors**	Ruimin Shi et.al.	[2602.09604](http://arxiv.org/pdf/2602.09604.pdf)	null
 **2026-02-09**	**Zero Trust for Multi-RAT IoT: Trust Boundary Management in Heterogeneous Wireless Network Environments**	Jonathan Shelby et.al.	[2602.08989](http://arxiv.org/pdf/2602.08989.pdf)	null
 **2026-02-09**	**Modeling 3D Pedestrian-Vehicle Interactions for Vehicle-Conditioned Pose Forecasting**	Guangxun Zhu et.al.	[2602.08962](http://arxiv.org/pdf/2602.08962.pdf)	null
-**2026-02-10**	**karl. -- A Research Vehicle for Automated and Connected Driving**	Jean-Pierre Busch et.al.	[2602.08842](http://arxiv.org/pdf/2602.08842.pdf)	null
+**2026-02-10**	**karl. - A Research Vehicle for Automated and Connected Driving**	Jean-Pierre Busch et.al.	[2602.08842](http://arxiv.org/pdf/2602.08842.pdf)	null
 **2026-02-09**	**QUOKA: Query-Oriented KV Selection For Efficient LLM Prefill**	Dalton Jones et.al.	[2602.08722](http://arxiv.org/pdf/2602.08722.pdf)	null
 **2026-02-09**	**Near-Oracle KV Selection via Pre-hoc Sparsity for Long-Context Inference**	Yifei Gao et.al.	[2602.08329](http://arxiv.org/pdf/2602.08329.pdf)	null
 **2026-02-07**	**Vision and language: Novel Representations and Artificial intelligence for Driving Scene Safety Assessment and Autonomous Vehicle Planning**	Ross Greer et.al.	[2602.07680](http://arxiv.org/pdf/2602.07680.pdf)	null
@@ -13823,7 +13823,7 @@ Publish Date	Title	Authors	PDF	Code
 **2012-07-10**	**Approximated Structured Prediction for Learning Large Scale Graphical Models**	Tamir Hazan et.al. et.al. et.al. et.al. et.al.	[1006.2899)](1006.2899))	null
 </details>
 
-<p align=right>(<a href=#Updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260212>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -14982,7 +14982,7 @@ Publish Date	Title	Authors	PDF	Code
 **2016-06-24**	**Find your Way by Observing the Sun and Other Semantic Cues**	Wei-Chiu Ma et.al. et.al. et.al. et.al. et.al.	[1606.07415)](1606.07415))	null
 </details>
 
-<p align=right>(<a href=#Updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260212>back to top</a>)</p>
 
 ## Traffic Simulation
 
@@ -15863,7 +15863,7 @@ Publish Date	Title	Authors	PDF	Code
 **2016-01-26**	**Sampling-based Algorithms for Optimal Motion Planning Using Closed-loop Prediction**	Oktay Arslan et.al. et.al. et.al. et.al. et.al.	[1601.06326)](1601.06326))	null
 </details>
 
-<p align=right>(<a href=#Updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260212>back to top</a>)</p>
 
 ## Robotics
 
@@ -15941,7 +15941,7 @@ Publish Date	Title	Authors	PDF	Code
 **2026-02-09**	**Modeling 3D Pedestrian-Vehicle Interactions for Vehicle-Conditioned Pose Forecasting**	Guangxun Zhu et.al.	[2602.08962](http://arxiv.org/pdf/2602.08962.pdf)	null
 **2026-02-10**	**Designing Multi-Robot Ground Video Sensemaking with Public Safety Professionals**	Puqi Zhou et.al.	[2602.08882](http://arxiv.org/pdf/2602.08882.pdf)	null
 **2026-02-09**	**Finite-Time Teleoperation of Euler-Lagrange Systems via Energy-Shaping**	Lazaro F. Torres et.al.	[2602.08845](http://arxiv.org/pdf/2602.08845.pdf)	null
-**2026-02-10**	**karl. -- A Research Vehicle for Automated and Connected Driving**	Jean-Pierre Busch et.al.	[2602.08842](http://arxiv.org/pdf/2602.08842.pdf)	null
+**2026-02-10**	**karl. - A Research Vehicle for Automated and Connected Driving**	Jean-Pierre Busch et.al.	[2602.08842](http://arxiv.org/pdf/2602.08842.pdf)	null
 **2026-02-09**	**Any-to-All MRI Synthesis: A Unified Foundation Model for Nasopharyngeal Carcinoma and Its Downstream Applications**	Yao Pu et.al.	[2602.08822](http://arxiv.org/pdf/2602.08822.pdf)	null
 **2026-02-09**	**Multi-Staged Framework for Safety Analysis of Offloaded Services in Distributed Intelligent Transportation Systems**	Robin Dehler et.al.	[2602.08821](http://arxiv.org/pdf/2602.08821.pdf)	null
 **2026-02-09**	**A Generic Service-Oriented Function Offloading Framework for Connected Automated Vehicles**	Robin Dehler et.al.	[2602.08799](http://arxiv.org/pdf/2602.08799.pdf)	null
@@ -17119,7 +17119,7 @@ Publish Date	Title	Authors	PDF	Code
 **2025-12-29**	**Breaking Symmetry-Induced Degeneracy in Multi-Agent Ergodic Coverage via Stochastic Spectral Control**	Kooktae Lee et.al. et.al. et.al. et.al. et.al.	[2512.23158)](2512.23158))	null
 </details>
 
-<p align=right>(<a href=#Updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260212>back to top</a>)</p>
 
 ## Robotics Industry
 
@@ -17260,5 +17260,5 @@ Publish Date	Title	Authors	PDF	Code
 **2025-08-19**	**The 9th AI City Challenge**	Zheng Tang et.al. et.al. et.al. et.al. et.al.	[2508.13564)](2508.13564))	null
 </details>
 
-<p align=right>(<a href=#Updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260212>back to top</a>)</p>
 
