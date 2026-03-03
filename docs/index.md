@@ -16,6 +16,70 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+**2026-03-02**	**From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories**	Mateus Karvat et.al.	[2603.02194](http://arxiv.org/pdf/2603.02194.pdf)	null
+**2026-03-02**	**Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation**	Divyanshu Daiya et.al.	[2603.02190](http://arxiv.org/pdf/2603.02190.pdf)	null
+**2026-03-02**	**3D Field of Junctions: A Noise-Robust, Training-Free Structural Prior for Volumetric Inverse Problems**	Namhoon Kim et.al.	[2603.02149](http://arxiv.org/pdf/2603.02149.pdf)	null
+**2026-03-02**	**OnlineX: Unified Online 3D Reconstruction and Understanding with Active-to-Stable State Evolution**	Chong Xia et.al.	[2603.02134](http://arxiv.org/pdf/2603.02134.pdf)	null
+**2026-03-02**	**SimRecon: SimReady Compositional Scene Reconstruction from Real Videos**	Chong Xia et.al.	[2603.02133](http://arxiv.org/pdf/2603.02133.pdf)	null
+**2026-03-02**	**Stereo-Inertial Poser: Towards Metric-Accurate Shape-Aware Motion Capture Using Sparse IMUs and a Single Stereo Camera**	Tutian Tang et.al.	[2603.02130](http://arxiv.org/pdf/2603.02130.pdf)	null
+**2026-03-02**	**LiftAvatar: Kinematic-Space Completion for Expression-Controlled 3D Gaussian Avatar Animation**	Hualiang Wei et.al.	[2603.02129](http://arxiv.org/pdf/2603.02129.pdf)	null
+**2026-03-02**	**A 3D mesh convolution-based autoencoder for geometry compression**	Germain Bregeon et.al.	[2603.02125](http://arxiv.org/pdf/2603.02125.pdf)	null
+**2026-03-02**	**WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories**	Yisu Zhang et.al.	[2603.02049](http://arxiv.org/pdf/2603.02049.pdf)	null
+**2026-03-02**	**Real-Time 3D Simulation of Heat-Induced Air Turbulence**	Wanqi Yuan et.al.	[2603.02048](http://arxiv.org/pdf/2603.02048.pdf)	null
+**2026-03-02**	**Learning to Read Where to Look: Disease-Aware Vision-Language Pretraining for 3D CT**	Simon Ging et.al.	[2603.02026](http://arxiv.org/pdf/2603.02026.pdf)	null
+**2026-03-02**	**MAP-Diff: Multi-Anchor Guided Diffusion for Progressive 3D Whole-Body Low-Dose PET Denoising**	Peiyuan Jing et.al.	[2603.02012](http://arxiv.org/pdf/2603.02012.pdf)	null
+**2026-03-02**	**Learning Vision-Based Omnidirectional Navigation: A Teacher-Student Approach Using Monocular Depth Estimation**	Jan Finke et.al.	[2603.01999](http://arxiv.org/pdf/2603.01999.pdf)	null
+**2026-03-02**	**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**	Yuechen Luo et.al.	[2603.01928](http://arxiv.org/pdf/2603.01928.pdf)	null
+**2026-03-02**	**Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones**	Ilenia Carboni et.al.	[2603.01850](http://arxiv.org/pdf/2603.01850.pdf)	null
+**2026-03-02**	**Affine Correspondences in Stereo Vision: Theory, Practice, and Limitations**	Levente Hajder et.al.	[2603.01836](http://arxiv.org/pdf/2603.01836.pdf)	null
+**2026-03-02**	**Preoperative-to-intraoperative Liver Registration for Laparoscopic Surgery via Latent-Grounded Correspondence Constraints**	Ruize Cui et.al.	[2603.01720](http://arxiv.org/pdf/2603.01720.pdf)	null
+**2026-03-02**	**Sparse View Distractor-Free Gaussian Splatting**	Yi Gu et.al.	[2603.01603](http://arxiv.org/pdf/2603.01603.pdf)	null
+**2026-03-02**	**Dehallu3D: Hallucination-Mitigated 3D Generation from Single Image via Cyclic View Consistency Refinement**	Xiwen Wang et.al.	[2603.01601](http://arxiv.org/pdf/2603.01601.pdf)	null
+**2026-03-02**	**Preference Score Distillation: Leveraging 2D Rewards to Align Text-to-3D Generation with Human Preference**	Jiaqi Leng et.al.	[2603.01594](http://arxiv.org/pdf/2603.01594.pdf)	null
+**2026-03-02**	**TopoMaskV3: 3D Mask Head with Dense Offset and Height Predictions for Road Topology Understanding**	Muhammet Esat Kalfaoglu et.al.	[2603.01558](http://arxiv.org/pdf/2603.01558.pdf)	null
+**2026-03-02**	**Pri4R: Learning World Dynamics for Vision-Language-Action Models with Privileged 4D Representation**	Jisoo Kim et.al.	[2603.01549](http://arxiv.org/pdf/2603.01549.pdf)	null
+**2026-03-02**	**FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation**	Hanxiao Wang et.al.	[2603.01515](http://arxiv.org/pdf/2603.01515.pdf)	null
+**2026-03-02**	**OMG-Avatar: One-shot Multi-LOD Gaussian Head Avatar**	Jianqiang Ren et.al.	[2603.01506](http://arxiv.org/pdf/2603.01506.pdf)	null
+**2026-03-02**	**WildCross: A Cross-Modal Large Scale Benchmark for Place Recognition and Metric Depth Estimation in Natural Environments**	Joshua Knights et.al.	[2603.01475](http://arxiv.org/pdf/2603.01475.pdf)	null
+**2026-03-02**	**TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity**	Xiao Cai et.al.	[2603.01371](http://arxiv.org/pdf/2603.01371.pdf)	null
+**2026-03-01**	**You Only Need One Stage: Novel-View Synthesis From A Single Blind Face Image**	Taoyue Wang et.al.	[2603.01328](http://arxiv.org/pdf/2603.01328.pdf)	null
+**2026-03-01**	**Monocular 3D Object Position Estimation with VLMs for Human-Robot Interaction**	Ari Wahl et.al.	[2603.01224](http://arxiv.org/pdf/2603.01224.pdf)	null
+**2026-03-01**	**CoSMo3D: Open-World Promptable 3D Semantic Part Segmentation through LLM-Guided Canonical Spatial Modeling**	Li Jin et.al.	[2603.01205](http://arxiv.org/pdf/2603.01205.pdf)	null
+**2026-03-01**	**RnG: A Unified Transformer for Complete 3D Modeling from Partial Observations**	Mochu Xiang et.al.	[2603.01194](http://arxiv.org/pdf/2603.01194.pdf)	null
+**2026-03-01**	**VP-Hype: A Hybrid Mamba-Transformer Framework with Visual-Textual Prompting for Hyperspectral Image Classification**	Abdellah Zakaria Sellam et.al.	[2603.01174](http://arxiv.org/pdf/2603.01174.pdf)	null
+**2026-03-01**	**ArtLLM: Generating Articulated Assets via 3D LLM**	Penghao Wang et.al.	[2603.01142](http://arxiv.org/pdf/2603.01142.pdf)	null
+**2026-03-01**	**A Deployable Bio-inspired Compliant Leg Design for Enhanced Leaping in Quadruped Robots**	Yiyang Chen et.al.	[2603.01128](http://arxiv.org/pdf/2603.01128.pdf)	null
+**2026-03-01**	**HeroGS: Hierarchical Guidance for Robust 3D Gaussian Splatting under Sparse Views**	Jiashu Li et.al.	[2603.01099](http://arxiv.org/pdf/2603.01099.pdf)	null
+**2026-03-01**	**Dr.Occ: Depth- and Region-Guided 3D Occupancy from Surround-View Cameras for Autonomous Driving**	Xubo Zhu et.al.	[2603.01007](http://arxiv.org/pdf/2603.01007.pdf)	null
+**2026-03-01**	**MLRecon: Robust Markerless Freehand 3D Ultrasound Reconstruction via Coarse-to-Fine Pose Estimation**	Yi Zhang et.al.	[2603.00990](http://arxiv.org/pdf/2603.00990.pdf)	null
+**2026-03-01**	**The Texture-Shape Dilemma: Boundary-Safe Synthetic Generation for 3D Medical Transformers**	Jiaqi Tang et.al.	[2603.00985](http://arxiv.org/pdf/2603.00985.pdf)	null
+**2026-03-01**	**Fake It Right: Injecting Anatomical Logic into Synthetic Supervised Pre-training for Medical Segmentation**	Jiaqi Tang et.al.	[2603.00979](http://arxiv.org/pdf/2603.00979.pdf)	null
+**2026-03-01**	**StegoNGP: 3D Cryptographic Steganography using Instant-NGP**	Wenxiang Jiang et.al.	[2603.00949](http://arxiv.org/pdf/2603.00949.pdf)	null
+**2026-03-01**	**VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection**	Yang Cao et.al.	[2603.00912](http://arxiv.org/pdf/2603.00912.pdf)	null
+**2026-03-01**	**UD-SfPNet: An Underwater Descattering Shape-from-Polarization Network for 3D Normal Reconstruction**	Puyun Wang et.al.	[2603.00908](http://arxiv.org/pdf/2603.00908.pdf)	null
+**2026-03-01**	**pySpatial: Generating 3D Visual Programs for Zero-Shot Spatial Reasoning**	Zhanpeng Luo et.al.	[2603.00905](http://arxiv.org/pdf/2603.00905.pdf)	null
+**2026-03-01**	**VEMamba: Efficient Isotropic Reconstruction of Volume Electron Microscopy with Axial-Lateral Consistent Mamba**	Longmi Gao et.al.	[2603.00887](http://arxiv.org/pdf/2603.00887.pdf)	null
+**2026-03-01**	**Solving a Nonlinear Blind Inverse Problem for Tagged MRI with Physics and Deep Generative Priors**	Zhangxing Bian et.al.	[2603.00882](http://arxiv.org/pdf/2603.00882.pdf)	null
+**2026-02-28**	**COMBAT: Conditional World Models for Behavioral Agent Training**	Anmol Agarwal et.al.	[2603.00825](http://arxiv.org/pdf/2603.00825.pdf)	null
+**2026-02-28**	**NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code**	Seemandhar Jain et.al.	[2603.00805](http://arxiv.org/pdf/2603.00805.pdf)	null
+**2026-02-28**	**TokenSplat: Token-aligned 3D Gaussian Splatting for Feed-forward Pose-free Reconstruction**	Yihui Li et.al.	[2603.00697](http://arxiv.org/pdf/2603.00697.pdf)	null
+**2026-02-28**	**SCOUT: Fast Spectral CT Imaging in Ultra LOw-data Regimes via PseUdo-label GeneraTion**	Guoquan Wei et.al.	[2603.00687](http://arxiv.org/pdf/2603.00687.pdf)	null
+**2026-02-28**	**Specializing Foundation Models via Mixture of Low-Rank Experts for Comprehensive Head CT Analysis**	Youngjin Yoo et.al.	[2603.00675](http://arxiv.org/pdf/2603.00675.pdf)	null
+**2026-02-28**	**Exploring 3D Dataset Pruning**	Xiaohan Zhao et.al.	[2603.00651](http://arxiv.org/pdf/2603.00651.pdf)	null
+**2026-02-28**	**Geometry OR Tracker: Universal Geometric Operating Room Tracking**	Yihua Shao et.al.	[2603.00560](http://arxiv.org/pdf/2603.00560.pdf)	null
+**2026-02-28**	**Multiple Inputs and Mixwd data for Alzheimer's Disease Classification Based on 3D Vision Transformer**	Juan A. Castro-Silva et.al.	[2603.00545](http://arxiv.org/pdf/2603.00545.pdf)	null
+**2026-02-28**	**Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation**	Zhen Zhou et.al.	[2603.00526](http://arxiv.org/pdf/2603.00526.pdf)	null
+**2026-02-28**	**MLLM-4D: Towards Visual-based Spatial-Temporal Intelligence**	Xingyilang Yin et.al.	[2603.00515](http://arxiv.org/pdf/2603.00515.pdf)	null
+**2026-02-28**	**Zero-Shot Robotic Manipulation via 3D Gaussian Splatting-Enhanced Multimodal Retrieval-Augmented Generation**	Zilong Xie et.al.	[2603.00500](http://arxiv.org/pdf/2603.00500.pdf)	null
+**2026-02-28**	**ArtiFixer: Enhancing and Extending 3D Reconstruction with Auto-Regressive Diffusion Models**	Riccardo de Lutio et.al.	[2603.00492](http://arxiv.org/pdf/2603.00492.pdf)	null
+**2026-02-28**	**U-VLM: Hierarchical Vision Language Modeling for Report Generation**	Pengcheng Shi et.al.	[2603.00479](http://arxiv.org/pdf/2603.00479.pdf)	null
+**2026-02-28**	**DreamWorld: Unified World Modeling in Video Generation**	Boming Tan et.al.	[2603.00466](http://arxiv.org/pdf/2603.00466.pdf)	null
+**2026-02-28**	**Improved Adversarial Diffusion Compression for Real-World Video Super-Resolution**	Bin Chen et.al.	[2603.00458](http://arxiv.org/pdf/2603.00458.pdf)	null
+**2026-02-28**	**Test-Driven Agentic Framework for Reliable Robot Controller**	Shivanshu Tripathi et.al.	[2603.00455](http://arxiv.org/pdf/2603.00455.pdf)	null
+**2026-02-28**	**SesaHand: Enhancing 3D Hand Reconstruction via Controllable Generation with Semantic and Structural Alignment**	Zhuoran Zhao et.al.	[2603.00443](http://arxiv.org/pdf/2603.00443.pdf)	null
+**2026-02-28**	**Mamba-CAD: State Space Model For 3D Computer-Aided Design Generative Modeling**	Xueyang Li et.al.	[2603.00439](http://arxiv.org/pdf/2603.00439.pdf)	null
+**2026-02-28**	**PointAlign: Feature-Level Alignment Regularization for 3D Vision-Language Models**	Yuanhao Su et.al.	[2603.00412](http://arxiv.org/pdf/2603.00412.pdf)	null
+**2026-02-28**	**SSR: Pushing the Limit of Spatial Intelligence with Structured Scene Reasoning**	Yi Zhang et.al.	[2603.00409](http://arxiv.org/pdf/2603.00409.pdf)	null
 **2026-02-27**	**UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images**	Junhwa Hur et.al.	[2602.24290](http://arxiv.org/pdf/2602.24290.pdf)	null
 **2026-02-27**	**GeoDiff4D: Geometry-Aware Diffusion for 4D Head Avatar Reconstruction**	Chao Xu et.al.	[2602.24161](http://arxiv.org/pdf/2602.24161.pdf)	null
 **2026-02-27**	**HumanOrbit: 3D Human Reconstruction as 360° Orbit Generation**	Keito Suzuki et.al.	[2602.24148](http://arxiv.org/pdf/2602.24148.pdf)	null
@@ -52,6 +116,9 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 **2026-02-26**	**SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation**	Vaibhav Agrawal et.al.	[2602.23359](http://arxiv.org/pdf/2602.23359.pdf)	null
 **2026-02-26**	**Skarimva: Skeleton-based Action Recognition is a Multi-view Application**	Daniel Bermuth et.al.	[2602.23231](http://arxiv.org/pdf/2602.23231.pdf)	null
 **2026-02-26**	**UniScale: Unified Scale-Aware 3D Reconstruction for Multi-View Understanding via Prior Injection for Robotic Perception**	Mohammad Mahdavian et.al.	[2602.23224](http://arxiv.org/pdf/2602.23224.pdf)	null
+<details><summary>Show 4281 more papers...</summary>
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 **2026-02-26**	**Phys-3D: Physics-Constrained Real-Time Crowd Tracking and Counting on Railway Platforms**	Bin Zeng et.al.	[2602.23177](http://arxiv.org/pdf/2602.23177.pdf)	null
 **2026-02-26**	**Latent Gaussian Splatting for 4D Panoptic Occupancy Tracking**	Maximilian Luz et.al.	[2602.23172](http://arxiv.org/pdf/2602.23172.pdf)	null
 **2026-02-26**	**Efficient Encoder-Free Fourier-based 3D Large Multimodal Model**	Guofeng Mei et.al.	[2602.23153](http://arxiv.org/pdf/2602.23153.pdf)	null
@@ -116,9 +183,6 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 **2026-02-24**	**Skullptor: High Fidelity 3D Head Reconstruction in Seconds with Multi-View Normal Prediction**	Noé Artru et.al.	[2602.21100](http://arxiv.org/pdf/2602.21100.pdf)	null
 **2026-02-24**	**From Perception to Action: An Interactive Benchmark for Vision Reasoning**	Yuhao Wu et.al.	[2602.21015](http://arxiv.org/pdf/2602.21015.pdf)	null
 **2026-02-24**	**UFO: Unifying Feed-Forward and Optimization-based Methods for Large Driving Scene Modeling**	Kaiyuan Tan et.al.	[2602.20943](http://arxiv.org/pdf/2602.20943.pdf)	null
-<details><summary>Show 4217 more papers...</summary>
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 **2026-02-24**	**Dropping Anchor and Spherical Harmonics for Sparse-view Gaussian Splatting**	Shuangkang Fang et.al. et.al.	[2602.20933](2602.20933)	null
 **2026-02-24**	**Computer-Aided Design of Rational Motions for 4R and 6R Spatial Mechanism Synthesis**	Daniel Huczala et.al. et.al.	[2602.20920](2602.20920)	null
 **2026-02-24**	**RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction**	Yangfan Zhao et.al. et.al.	[2602.20807](2602.20807)	null
@@ -4342,6 +4406,109 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+**2026-03-02**	**Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation**	Divyanshu Daiya et.al.	[2603.02190](http://arxiv.org/pdf/2603.02190.pdf)	null
+**2026-03-02**	**Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance**	Yiqi Lin et.al.	[2603.02175](http://arxiv.org/pdf/2603.02175.pdf)	null
+**2026-03-02**	**GeoDiT: Point-Conditioned Diffusion Transformer for Satellite Image Synthesis**	Srikumar Sastry et.al.	[2603.02172](http://arxiv.org/pdf/2603.02172.pdf)	null
+**2026-03-02**	**Anomalous Diffusion and Superdiffusion in Integrable Spin Chains via a Hard-Rod Gas Mapping**	Andrew Urilyon et.al.	[2603.02171](http://arxiv.org/pdf/2603.02171.pdf)	null
+**2026-03-02**	**$\mathrm{L}^p$ -based Sobolev theory on closed manifolds of minimal regularity: Scalar Elliptic Equations**	Gonzalo A. Benavides et.al.	[2603.02163](http://arxiv.org/pdf/2603.02163.pdf)	null
+**2026-03-02**	**Anisotropic Diffusion in Lyotropic Chromonic Liquid Crystal using Fluorescence Recovery After Photobleaching**	Kyu Hwan Choi et.al.	[2603.02147](http://arxiv.org/pdf/2603.02147.pdf)	null
+**2026-03-02**	**Turbulence generation and data assimilation in wall-bounded flows with a latent diffusion model**	Fabian Steinbrenner et.al.	[2603.02143](http://arxiv.org/pdf/2603.02143.pdf)	null
+**2026-03-02**	**Socio-Spatial Patterns of Suicide Mortality in the United States**	Kushagra Tiwari et.al.	[2603.02131](http://arxiv.org/pdf/2603.02131.pdf)	null
+**2026-03-02**	**LiftAvatar: Kinematic-Space Completion for Expression-Controlled 3D Gaussian Avatar Animation**	Hualiang Wei et.al.	[2603.02129](http://arxiv.org/pdf/2603.02129.pdf)	null
+**2026-03-02**	**OmniRet: Efficient and High-Fidelity Omni Modality Retrieval**	Chuong Huynh et.al.	[2603.02098](http://arxiv.org/pdf/2603.02098.pdf)	null
+**2026-03-02**	**Enhancing Phase Clustering in Nanomechanical Property Maps of Multiphase Materials Using Kernel-Averaged Mechanical Mismatch**	David Mercier et.al.	[2603.02090](http://arxiv.org/pdf/2603.02090.pdf)	null
+**2026-03-02**	**Boundary driven weakly asymmetric Blume-Capel model: Large deviations for mixed Dirichlet-Neumann boundary conditions**	Mustapha Mourragui et.al.	[2603.02053](http://arxiv.org/pdf/2603.02053.pdf)	null
+**2026-03-02**	**WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories**	Yisu Zhang et.al.	[2603.02049](http://arxiv.org/pdf/2603.02049.pdf)	null
+**2026-03-02**	**LAD-Drive: Bridging Language and Trajectory with Action-Aware Diffusion Transformers**	Fabian Schmidt et.al.	[2603.02035](http://arxiv.org/pdf/2603.02035.pdf)	null
+**2026-03-02**	**Latent attention on masked patches for flow reconstruction**	Ben Eze et.al.	[2603.02028](http://arxiv.org/pdf/2603.02028.pdf)	null
+**2026-03-02**	**Learning to Read Where to Look: Disease-Aware Vision-Language Pretraining for 3D CT**	Simon Ging et.al.	[2603.02026](http://arxiv.org/pdf/2603.02026.pdf)	null
+**2026-03-02**	**CausalWrap: Model-Agnostic Causal Constraint Wrappers for Tabular Synthetic Data**	Amir Asiaee et.al.	[2603.02015](http://arxiv.org/pdf/2603.02015.pdf)	null
+**2026-03-02**	**MAP-Diff: Multi-Anchor Guided Diffusion for Progressive 3D Whole-Body Low-Dose PET Denoising**	Peiyuan Jing et.al.	[2603.02012](http://arxiv.org/pdf/2603.02012.pdf)	null
+**2026-03-02**	**Mitigating topology biases in Graph Diffusion via Counterfactual Intervention**	Wendi Wang et.al.	[2603.02005](http://arxiv.org/pdf/2603.02005.pdf)	null
+**2026-03-02**	**ViTex: Visual Texture Control for Multi-Track Symbolic Music Generation via Discrete Diffusion Models**	Xiaoyu Yi et.al.	[2603.01984](http://arxiv.org/pdf/2603.01984.pdf)	null
+**2026-03-02**	**Large scale mapping of [CI] and the [CI]-to-CO transition in $ρ$ Ophiuchus molecular cloud**	Jifeng Xia et.al.	[2603.01955](http://arxiv.org/pdf/2603.01955.pdf)	null
+**2026-03-02**	**Closed-Loop Action Chunks with Dynamic Corrections for Training-Free Diffusion Policy**	Pengyuan Wu et.al.	[2603.01953](http://arxiv.org/pdf/2603.01953.pdf)	null
+**2026-03-02**	**Dream2Learn: Structured Generative Dreaming for Continual Learning**	Salvatore Calcagno et.al.	[2603.01935](http://arxiv.org/pdf/2603.01935.pdf)	null
+**2026-03-02**	**MealRec: Multi-granularity Sequential Modeling via Hierarchical Diffusion Models for Micro-Video Recommendation**	Xinxin Dong et.al.	[2603.01926](http://arxiv.org/pdf/2603.01926.pdf)	null
+**2026-03-02**	**A Vibrated Compacting Granular System: A DEM Light Scattering Comparison**	Linnea Heitmeier et.al.	[2603.01921](http://arxiv.org/pdf/2603.01921.pdf)	null
+**2026-03-02**	**Pathway to lowest-energy structures for the surface triple junction verified by machine learning**	Yuan Fang et.al.	[2603.01920](http://arxiv.org/pdf/2603.01920.pdf)	null
+**2026-03-02**	**Zero-shot Low-Field MRI Enhancement via Diffusion-Based Adaptive Contrast Transport**	Muyu Liu et.al.	[2603.01913](http://arxiv.org/pdf/2603.01913.pdf)	null
+**2026-03-02**	**Resolving Blind Inverse Problems under Dynamic Range Compression via Structured Forward Operator Modeling**	Muyu Liu et.al.	[2603.01890](http://arxiv.org/pdf/2603.01890.pdf)	null
+**2026-03-02**	**Constrained Particle Seeking: Solving Diffusion Inverse Problems with Just Forward Passes**	Hongkun Dou et.al.	[2603.01837](http://arxiv.org/pdf/2603.01837.pdf)	null
+**2026-03-02**	**Inverse problem for a multi-term time-fractional diffusion equation with the Caputo derivatives**	Ravshan Ashurov et.al.	[2603.01833](http://arxiv.org/pdf/2603.01833.pdf)	null
+**2026-03-02**	**Non-verbal Real-time Human-AI Interaction in Constrained Robotic Environments**	Dragos Costea et.al.	[2603.01804](http://arxiv.org/pdf/2603.01804.pdf)	null
+**2026-03-02**	**D3LM: A Discrete DNA Diffusion Language Model for Bidirectional DNA Understanding and Generation**	Zhao Yang et.al.	[2603.01780](http://arxiv.org/pdf/2603.01780.pdf)	null
+**2026-03-02**	**FreeAct: Freeing Activations for LLM Quantization**	Xiaohao Liu et.al.	[2603.01776](http://arxiv.org/pdf/2603.01776.pdf)	null
+**2026-03-02**	**Efficient Test-Time Optimization for Depth Completion via Low-Rank Decoder Adaptation**	Minseok Seo et.al.	[2603.01765](http://arxiv.org/pdf/2603.01765.pdf)	null
+**2026-03-02**	**StepVAR: Structure-Texture Guided Pruning for Visual Autoregressive Models**	Keli Liu et.al.	[2603.01757](http://arxiv.org/pdf/2603.01757.pdf)	null
+**2026-03-02**	**Multi-patient Inverse Estimation of Effective Membrane Diffusion Coefficients in Calcium-Citrate Hemodialysis**	Geoffrey Lacour et.al.	[2603.01729](http://arxiv.org/pdf/2603.01729.pdf)	null
+**2026-03-02**	**Numerical method for strongly variable-density flows at low Mach number: flame-sheet regularisation and a mass-flux immersed boundary method**	Matheus P. Severino et.al.	[2603.01727](http://arxiv.org/pdf/2603.01727.pdf)	null
+**2026-03-02**	**Changes in Manuscript Length, Research Team Size, and International Collaboration in the Post-2022 Period: Evidence from PLOS ONE**	Yossi Ben-Zion et.al.	[2603.01718](http://arxiv.org/pdf/2603.01718.pdf)	null
+**2026-03-02**	**MVR: Multi-view Video Reward Shaping for Reinforcement Learning**	Lirui Luo et.al.	[2603.01694](http://arxiv.org/pdf/2603.01694.pdf)	null
+**2026-03-02**	**CoopDiff: A Diffusion-Guided Approach for Cooperation under Corruptions**	Gong Chen et.al.	[2603.01688](http://arxiv.org/pdf/2603.01688.pdf)	null
+**2026-03-02**	**DiffusionXRay: A Diffusion and GAN-Based Approach for Enhancing Digitally Reconstructed Chest Radiographs**	Aryan Goyal et.al.	[2603.01686](http://arxiv.org/pdf/2603.01686.pdf)	null
+**2026-03-02**	**FastLightGen: Fast and Light Video Generation with Fewer Steps and Parameters**	Shao Shitong et.al.	[2603.01685](http://arxiv.org/pdf/2603.01685.pdf)	null
+**2026-03-02**	**A Diffusion-Driven Fine-Grained Nodule Synthesis Framework for Enhanced Lung Nodule Detection from Chest Radiographs**	Aryan Goyal et.al.	[2603.01659](http://arxiv.org/pdf/2603.01659.pdf)	null
+**2026-03-02**	**QCAgent: An agentic framework for quality-controllable pathology report generation from whole slide image**	Rundong Wang et.al.	[2603.01647](http://arxiv.org/pdf/2603.01647.pdf)	null
+**2026-03-02**	**Learning Structured Reasoning via Tractable Trajectory Control**	Po-Nien Kung et.al.	[2603.01641](http://arxiv.org/pdf/2603.01641.pdf)	null
+**2026-03-02**	**Adaptive Spectral Feature Forecasting for Diffusion Sampling Acceleration**	Jiaqi Han et.al.	[2603.01623](http://arxiv.org/pdf/2603.01623.pdf)	null
+**2026-03-02**	**Preference Score Distillation: Leveraging 2D Rewards to Align Text-to-3D Generation with Human Preference**	Jiaqi Leng et.al.	[2603.01594](http://arxiv.org/pdf/2603.01594.pdf)	null
+**2026-03-02**	**FAST-DIPS: Adjoint-Free Analytic Steps and Hard-Constrained Likelihood Correction for Diffusion-Prior Inverse Problems**	Minwoo Kim et.al.	[2603.01591](http://arxiv.org/pdf/2603.01591.pdf)	null
+**2026-03-02**	**Investigating Group Relative Policy Optimization for Diffusion Transformer based Text-to-Audio Generation**	Yi Gu et.al.	[2603.01565](http://arxiv.org/pdf/2603.01565.pdf)	null
+**2026-03-02**	**LFPO: Likelihood-Free Policy Optimization for Masked Diffusion Models**	Chenxing Wei et.al.	[2603.01563](http://arxiv.org/pdf/2603.01563.pdf)	null
+**2026-03-02**	**Percolation-driven $β$ -relaxation enables resonant acceleration of crystallization in amorphous phase-change materials**	Yu-Yao Liu et.al.	[2603.01559](http://arxiv.org/pdf/2603.01559.pdf)	null
+**2026-03-02**	**State-Action Inpainting Diffuser for Continuous Control with Delay**	Dongqi Han et.al.	[2603.01553](http://arxiv.org/pdf/2603.01553.pdf)	null
+**2026-03-02**	**Align-cDAE: Alzheimer's Disease Progression Modeling with Attention-Aligned Conditional Diffusion Auto-Encoder**	Ayantika Das et.al.	[2603.01552](http://arxiv.org/pdf/2603.01552.pdf)	null
+**2026-03-02**	**RA-Det: Towards Universal Detection of AI-Generated Images via Robustness Asymmetry**	Xinchang Wang et.al.	[2603.01544](http://arxiv.org/pdf/2603.01544.pdf)	null
+**2026-03-02**	**Benchmarking Semantic Segmentation Models via Appearance and Geometry Attribute Editing**	Zijin Yin et.al.	[2603.01535](http://arxiv.org/pdf/2603.01535.pdf)	null
+**2026-03-02**	**On the robustness of pullback attractors for a nonlocal reaction-diffusion equation under perturbation**	Rubén Caballero et.al.	[2603.01527](http://arxiv.org/pdf/2603.01527.pdf)	null
+**2026-03-02**	**FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation**	Hanxiao Wang et.al.	[2603.01515](http://arxiv.org/pdf/2603.01515.pdf)	null
+**2026-03-02**	**A hyperelastic theory for nonlinear hydrogel diffusiophoresis**	Chinmay Katke et.al.	[2603.01512](http://arxiv.org/pdf/2603.01512.pdf)	null
+**2026-03-02**	**Retrieval, Refinement, and Ranking for Text-to-Video Generation via Prompt Optimization and Test-Time Scaling**	Zillur Rahman et.al.	[2603.01509](http://arxiv.org/pdf/2603.01509.pdf)	null
+**2026-03-02**	**Regularized Diffusion-based Contract Model for Covert Semantic Entropy Control in LAENets**	Yansheng Liu et.al.	[2603.01478](http://arxiv.org/pdf/2603.01478.pdf)	null
+**2026-03-02**	**Mean-Flow based One-Step Vision-Language-Action**	Yang Chen et.al.	[2603.01469](http://arxiv.org/pdf/2603.01469.pdf)	null
+**2026-03-02**	**From Verbatim to Gist: Distilling Pyramidal Multimodal Memory via Semantic Information Bottleneck for Long-Horizon Video Agents**	Niu Lian et.al.	[2603.01455](http://arxiv.org/pdf/2603.01455.pdf)	null
+**2026-03-02**	**Autoregressive Synthesis of Sparse and Semi-Structured Mixed-Type Data**	Thomas Rückstieß et.al.	[2603.01444](http://arxiv.org/pdf/2603.01444.pdf)	null
+**2026-03-02**	**DOCFORGE-BENCH: A Comprehensive Benchmark for Document Forgery Detection and Analysis**	Zengqi Zhao et.al.	[2603.01433](http://arxiv.org/pdf/2603.01433.pdf)	null
+**2026-03-02**	**UniTalking: A Unified Audio-Video Framework for Talking Portrait Generation**	Hebeizi Li et.al.	[2603.01418](http://arxiv.org/pdf/2603.01418.pdf)	null
+**2026-03-02**	**DUEL: Exact Likelihood for Masked Diffusion via Deterministic Unmasking**	Gilad Turok et.al.	[2603.01367](http://arxiv.org/pdf/2603.01367.pdf)	null
+**2026-03-02**	**MetaState: Persistent Working Memory for Discrete Diffusion Language Models**	Kejing Xia et.al.	[2603.01331](http://arxiv.org/pdf/2603.01331.pdf)	null
+**2026-03-01**	**You Only Need One Stage: Novel-View Synthesis From A Single Blind Face Image**	Taoyue Wang et.al.	[2603.01328](http://arxiv.org/pdf/2603.01328.pdf)	null
+**2026-03-01**	**Linearization Principle: The Geometric Origin of Nonlinear Fokker-Planck Equations**	Hiroki Suyari et.al.	[2603.01278](http://arxiv.org/pdf/2603.01278.pdf)	null
+**2026-03-01**	**Cross-Modal Guidance for Fast Diffusion-Based Computed Tomography**	Timofey Efimov et.al.	[2603.01253](http://arxiv.org/pdf/2603.01253.pdf)	null
+**2026-03-01**	**Velocity Model Building and Editing with Guided Denoising Diffusion Implicit Models**	Francesco Brandolin et.al.	[2603.01231](http://arxiv.org/pdf/2603.01231.pdf)	null
+**2026-03-01**	**Reasoning or Rationalization? The Role of Justifications in Masked Diffusion Models for Fact Verification**	Jacob Devasier et.al.	[2603.01190](http://arxiv.org/pdf/2603.01190.pdf)	null
+**2026-03-01**	**TripleSumm: Adaptive Triple-Modality Fusion for Video Summarization**	Sumin Kim et.al.	[2603.01169](http://arxiv.org/pdf/2603.01169.pdf)	null
+**2026-03-01**	**Ultra slow sub-logarithmic diffusion of a sluggish random walker subject to resetting with memory**	Denis Boyer et.al.	[2603.01149](http://arxiv.org/pdf/2603.01149.pdf)	null
+**2026-03-01**	**Teacher-Guided Causal Interventions for Image Denoising: Orthogonal Content-Noise Disentanglement in Vision Transformers**	Kuai Jiang et.al.	[2603.01140](http://arxiv.org/pdf/2603.01140.pdf)	null
+**2026-03-01**	**FCN-LLM: Empower LLM for Brain Functional Connectivity Network Understanding via Graph-level Multi-task Instruction Tuning**	Xingcan Hu et.al.	[2603.01135](http://arxiv.org/pdf/2603.01135.pdf)	null
+**2026-03-01**	**GuiDINO: Rethinking Vision Foundation Model in Medical Image Segmentation**	Zhuonan Liang et.al.	[2603.01115](http://arxiv.org/pdf/2603.01115.pdf)	null
+**2026-03-01**	**Compact Task-Aligned Imitation Learning for Laboratory Automation**	Kanata Suzuki et.al.	[2603.01110](http://arxiv.org/pdf/2603.01110.pdf)	null
+**2026-03-01**	**A stochastic correlation extension of the Vasicek credit risk model**	Dhruv Bansal et.al.	[2603.01109](http://arxiv.org/pdf/2603.01109.pdf)	null
+**2026-03-01**	**Data-Efficient Brushstroke Generation with Diffusion Models for Oil Painting**	Dantong Qin et.al.	[2603.01103](http://arxiv.org/pdf/2603.01103.pdf)	null
+**2026-03-01**	**Unified Vision-Language Modeling via Concept Space Alignment**	Yifu Qiu et.al.	[2603.01096](http://arxiv.org/pdf/2603.01096.pdf)	null
+**2026-03-01**	**Kernel Methods for Stochastic Dynamical Systems with Application to Koopman Eigenfunctions: Feynman-Kac Representations and RKHS Approximation**	Boumediene Hamzi et.al.	[2603.01077](http://arxiv.org/pdf/2603.01077.pdf)	null
+**2026-03-01**	**Flow Matching-enabled Test-Time Refinement for Unsupervised Cardiac MR Registration**	Yunguan Fu et.al.	[2603.01073](http://arxiv.org/pdf/2603.01073.pdf)	null
+**2026-03-01**	**LLaDA-o: An Effective and Length-Adaptive Omni Diffusion Model**	Zebin You et.al.	[2603.01068](http://arxiv.org/pdf/2603.01068.pdf)	null
+**2026-03-01**	**An Open-Source Modular Benchmark for Diffusion-Based Motion Planning in Closed-Loop Autonomous Driving**	Yun Li et.al.	[2603.01023](http://arxiv.org/pdf/2603.01023.pdf)	null
+**2026-03-01**	**BadRSSD: Backdoor Attacks on Regularized Self-Supervised Diffusion Models**	Jiayao Wang et.al.	[2603.01019](http://arxiv.org/pdf/2603.01019.pdf)	null
+**2026-03-01**	**GeodesicNVS: Probability Density Geodesic Flow Matching for Novel View Synthesis**	Xuqin Wang et.al.	[2603.01010](http://arxiv.org/pdf/2603.01010.pdf)	null
+**2026-03-01**	**Let Your Image Move with Your Motion! -- Implicit Multi-Object Multi-Motion Transfer**	Yuze Li et.al.	[2603.01000](http://arxiv.org/pdf/2603.01000.pdf)	null
+**2026-03-01**	**Compensation-free Machine Unlearning in Text-to-Image Diffusion Models by Eliminating the Mutual Information**	Xinwen Cheng et.al.	[2603.00992](http://arxiv.org/pdf/2603.00992.pdf)	null
+**2026-03-01**	**EraseAnything++: Enabling Concept Erasure in Rectified Flow Transformers Leveraging Multi-Object Optimization**	Zhaoxin Fan et.al.	[2603.00978](http://arxiv.org/pdf/2603.00978.pdf)	null
+**2026-03-01**	**PreciseCache: Precise Feature Caching for Efficient and High-fidelity Video Generation**	Jiangshan Wang et.al.	[2603.00976](http://arxiv.org/pdf/2603.00976.pdf)	null
+**2026-03-01**	**Forgetting is Competition: Rethinking Unlearning as Representation Interference in Diffusion Models**	Ashutosh Ranjan et.al.	[2603.00975](http://arxiv.org/pdf/2603.00975.pdf)	null
+**2026-03-01**	**\textsc{Mobile-VTON}: High-Fidelity On-Device Virtual Try-On**	Zhenchen Wan et.al.	[2603.00947](http://arxiv.org/pdf/2603.00947.pdf)	null
+**2026-03-01**	**DRIFT: Diffusion-based Rule-Inferred For Trajectories**	Jinyang Zhao et.al.	[2603.00936](http://arxiv.org/pdf/2603.00936.pdf)	null
+**2026-03-01**	**DAM-VLA: A Dynamic Action Model-Based Vision-Language-Action Framework for Robot Manipulation**	Xiongfeng Peng et.al.	[2603.00926](http://arxiv.org/pdf/2603.00926.pdf)	null
+**2026-03-01**	**Improving Text-to-Image Generation with Intrinsic Self-Confidence Rewards**	Seungwook Kim et.al.	[2603.00918](http://arxiv.org/pdf/2603.00918.pdf)	null
+**2026-03-01**	**Probabilistic Learning and Generation in Deep Sequence Models**	Wenlong Chen et.al.	[2603.00888](http://arxiv.org/pdf/2603.00888.pdf)	null
+**2026-03-01**	**Active Flow Matching**	Yashvir S. Grewal et.al.	[2603.00877](http://arxiv.org/pdf/2603.00877.pdf)	null
+**2026-03-01**	**GeMi: A Graph-based, Multimodal Recommendation System for Narrative Scroll Paintings**	Haimonti Dutta et.al.	[2603.00854](http://arxiv.org/pdf/2603.00854.pdf)	null
+**2026-03-01**	**Covariant diffusion tensor for jet momentum broadening out of equilibrium**	Isabella Danhoni et.al.	[2603.00844](http://arxiv.org/pdf/2603.00844.pdf)	null
+<details><summary>Show 9787 more papers...</summary>
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 **2026-02-27**	**Mode Seeking meets Mean Seeking for Fast Long Video Generation**	Shengqu Cai et.al.	[2602.24289](http://arxiv.org/pdf/2602.24289.pdf)	null
 **2026-02-27**	**Anomalous hydrodynamic fluctuations in the quantum XXZ spin chain**	Takato Yoshimura et.al.	[2602.24242](http://arxiv.org/pdf/2602.24242.pdf)	null
 **2026-02-27**	**Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution**	Chengyan Deng et.al.	[2602.24240](http://arxiv.org/pdf/2602.24240.pdf)	null
@@ -4442,9 +4609,6 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 **2026-02-26**	**Denoising as Path Planning: Training-Free Acceleration of Diffusion Models with DPCache**	Bowen Cui et.al.	[2602.22654](http://arxiv.org/pdf/2602.22654.pdf)	null
 **2026-02-26**	**AHBid: An Adaptable Hierarchical Bidding Framework for Cross-Channel Advertising**	Xinxin Yang et.al.	[2602.22650](http://arxiv.org/pdf/2602.22650.pdf)	null
 **2026-02-26**	**Anchoring and Mixed-Norm Contractions in Averaging-Learning Dynamics**	Ionel Popescu et.al.	[2602.22627](http://arxiv.org/pdf/2602.22627.pdf)	null
-<details><summary>Show 9687 more papers...</summary>
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 **2026-02-26**	**Instruction-based Image Editing with Planning, Reasoning, and Generation**	Liya Ji et.al. et.al.	[2602.22624](2602.22624)	null
 **2026-02-26**	**DP-aware AdaLN-Zero: Taming Conditioning-Induced Heavy-Tailed Gradients in Differentially Private Diffusion**	Tao Huang et.al. et.al.	[2602.22610](2602.22610)	null
 **2026-02-26**	**BetterScene: 3D Scene Synthesis with Representation-Aligned Generative Model**	Yuci Han et.al. et.al.	[2602.22596](2602.22596)	null
@@ -14138,7 +14302,15 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-**2026-02-27**	**nvidia-pcm: A D-Bus-Driven Platform Configuration Manager for OpenBMC Environments**	Harinder Singh et.al.	[2602.24237](http://arxiv.org/pdf/2602.24237.pdf)	null
+**2026-03-02**	**Real-Time Thermal-Inertial Odometry on Embedded Hardware for High-Speed GPS-Denied Flight**	Austin Stone et.al.	[2603.02114](http://arxiv.org/pdf/2603.02114.pdf)	null
+**2026-03-02**	**Learning Vision-Based Omnidirectional Navigation: A Teacher-Student Approach Using Monocular Depth Estimation**	Jan Finke et.al.	[2603.01999](http://arxiv.org/pdf/2603.01999.pdf)	null
+**2026-03-02**	**TiledAttention: a CUDA Tile SDPA Kernel for PyTorch**	Taimur Khan et.al.	[2603.01960](http://arxiv.org/pdf/2603.01960.pdf)	null
+**2026-03-02**	**Non-verbal Real-time Human-AI Interaction in Constrained Robotic Environments**	Dragos Costea et.al.	[2603.01804](http://arxiv.org/pdf/2603.01804.pdf)	null
+**2026-03-01**	**Accelerating Multi-Scale Deformable Attention Using Near-Memory-Processing Architecture**	Huize Li et.al.	[2603.00959](http://arxiv.org/pdf/2603.00959.pdf)	null
+**2026-02-28**	**PM2Lat: Highly Accurate and Generalized Prediction of DNN Execution Latency on GPUs**	Truong-Thanh Le et.al.	[2603.00549](http://arxiv.org/pdf/2603.00549.pdf)	null
+**2026-02-28**	**A Stochastic Conservative Field Transfer Method for Black-box Multiscale and Multiphysics Coupling**	Abhiyan Paudel et.al.	[2603.00538](http://arxiv.org/pdf/2603.00538.pdf)	null
+**2026-02-28**	**Do We Need Tensor Cores for Stencil Computations?**	Qiqi Gu et.al.	[2603.00477](http://arxiv.org/pdf/2603.00477.pdf)	null
+**2026-03-02**	**nvidia-pcm: A D-Bus-Driven Platform Configuration Manager for OpenBMC Environments**	Harinder Singh et.al.	[2602.24237](http://arxiv.org/pdf/2602.24237.pdf)	null
 **2026-02-27**	**FocusTrack: One-Stage Focus-and-Suppress Framework for 3D Point Cloud Object Tracking**	Sifan Zhou et.al.	[2602.24133](http://arxiv.org/pdf/2602.24133.pdf)	null
 **2026-02-27**	**DiffusionHarmonizer: Bridging Neural Reconstruction and Photorealistic Simulation with Online Diffusion Enhancer**	Yuxuan Zhang et.al.	[2602.24096](http://arxiv.org/pdf/2602.24096.pdf)	null
 **2026-02-27**	**GPU-Native Approximate Nearest Neighbor Search with IVF-RaBitQ: Fast Index Build and Search**	Jifan Shi et.al.	[2602.23999](http://arxiv.org/pdf/2602.23999.pdf)	null
@@ -14177,7 +14349,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 **2026-02-12**	**LAMP: Implicit Language Map for Robot Navigation**	Sibaek Lee et.al.	[2602.11862](http://arxiv.org/pdf/2602.11862.pdf)	null
 **2026-02-12**	**WorldTree: Towards 4D Dynamic Worlds from Monocular Video using Tree-Chains**	Qisen Wang et.al.	[2602.11845](http://arxiv.org/pdf/2602.11845.pdf)	null
 **2026-02-13**	**PuYun-LDM: A Latent Diffusion Model for High-Resolution Ensemble Weather Forecasts**	Lianjun Wu et.al.	[2602.11807](http://arxiv.org/pdf/2602.11807.pdf)	null
-**2026-02-12**	**MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling**	MiniCPM Team et.al.	[2602.11761](http://arxiv.org/pdf/2602.11761.pdf)	null
+**2026-02-28**	**MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling**	MiniCPM Team et.al.	[2602.11761](http://arxiv.org/pdf/2602.11761.pdf)	null
 **2026-02-11**	**FastUSP: A Multi-Level Collaborative Acceleration Framework for Distributed Diffusion Model Inference**	Guandong Li et.al.	[2602.10940](http://arxiv.org/pdf/2602.10940.pdf)	null
 **2026-02-10**	**Hardware Co-Design Scaling Laws via Roofline Modelling for On-Device LLMs**	Luoyang Sun et.al.	[2602.10377](http://arxiv.org/pdf/2602.10377.pdf)	null
 **2026-02-14**	**Adaptive Time Step Flow Matching for Autonomous Driving Motion Planning**	Ananya Trivedi et.al.	[2602.10285](http://arxiv.org/pdf/2602.10285.pdf)	null
@@ -14230,6 +14402,9 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 **2026-01-26**	**Design and Evaluation of Next-Generation Cellular Networks through Digital and Physical Open and Programmable Platforms**	Davide Villa et.al.	[2601.19027](http://arxiv.org/pdf/2601.19027.pdf)	null
 **2026-02-16**	**AI-Driven Fuzzing for Vulnerability Assessment of 5G Traffic Steering Algorithms**	Seyed Bagher Hashemi Natanzi et.al.	[2601.18690](http://arxiv.org/pdf/2601.18690.pdf)	null
 **2026-01-26**	**Scaling up Privacy-Preserving ML: A CKKS Implementation of Llama-2-7B**	Jaiyoung Park et.al.	[2601.18511](http://arxiv.org/pdf/2601.18511.pdf)	null
+<details><summary>Show 806 more papers...</summary>
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 **2026-01-26**	**Cognitive Fusion of ZC Sequences and Time-Frequency Images for Out-of-Distribution Detection of Drone Signals**	Jie Li et.al.	[2601.18326](http://arxiv.org/pdf/2601.18326.pdf)	null
 **2026-01-26**	**Vision-Language-Model-Guided Differentiable Ray Tracing for Fast and Accurate Multi-Material RF Parameter Estimation**	Zerui Kang et.al.	[2601.18242](http://arxiv.org/pdf/2601.18242.pdf)	null
 **2026-01-26**	**LatentMoE: Toward Optimal Accuracy per FLOP and Parameter in Mixture of Experts**	Venmugil Elango et.al.	[2601.18089](http://arxiv.org/pdf/2601.18089.pdf)	null
@@ -14238,9 +14413,6 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 **2026-01-24**	**Full event interpretation with machine-learning-based particle-flow reconstruction in the CMS detector**	CMS Collaboration et.al.	[2601.17554](http://arxiv.org/pdf/2601.17554.pdf)	null
 **2026-01-29**	**AsterNav: Autonomous Aerial Robot Navigation In Darkness Using Passive Computation**	Deepak Singh et.al.	[2601.17550](http://arxiv.org/pdf/2601.17550.pdf)	null
 **2026-01-24**	**Evaluating Application Characteristics for GPU Portability Layer Selection**	Mohammad Atif et.al.	[2601.17526](http://arxiv.org/pdf/2601.17526.pdf)	null
-<details><summary>Show 798 more papers...</summary>
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 **2026-01-21**	**VibeTensor: System Software for Deep Learning, Fully Generated by AI Agents**	Bing Xu et.al. et.al.	[2601.16238](2601.16238)	null
 **2026-01-05**	**Domain Specific Specialization in Low-Resource Settings: The Efficacy of Offline Response-Based Knowledge Distillation in Large Language Models**	Erdem Aslan et.al. et.al. et.al. et.al.	[2601.16219](2601.16219)	null
 **2026-01-24**	**PAL*M: Property Attestation for Large Generative Models**	Prach Chantasantitam et.al.	[2601.16199](http://arxiv.org/pdf/2601.16199.pdf)	null
@@ -15045,6 +15217,25 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+**2026-03-02**	**Adaptive Confidence Regularization for Multimodal Failure Detection**	Moru Liu et.al.	[2603.02200](http://arxiv.org/pdf/2603.02200.pdf)	null
+**2026-03-02**	**LAD-Drive: Bridging Language and Trajectory with Action-Aware Diffusion Transformers**	Fabian Schmidt et.al.	[2603.02035](http://arxiv.org/pdf/2603.02035.pdf)	null
+**2026-03-02**	**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**	Yuechen Luo et.al.	[2603.01928](http://arxiv.org/pdf/2603.01928.pdf)	null
+**2026-03-02**	**Streaming Real-Time Trajectory Prediction Using Endpoint-Aware Modeling**	Alexander Prutsch et.al.	[2603.01864](http://arxiv.org/pdf/2603.01864.pdf)	null
+**2026-03-02**	**GroupEnsemble: Efficient Uncertainty Estimation for DETR-based Object Detection**	Yutong Yang et.al.	[2603.01847](http://arxiv.org/pdf/2603.01847.pdf)	null
+**2026-03-02**	**WhisperNet: A Scalable Solution for Bandwidth-Efficient Collaboration**	Gong Chen et.al.	[2603.01708](http://arxiv.org/pdf/2603.01708.pdf)	null
+**2026-03-02**	**DriveCombo: Benchmarking Compositional Traffic Rule Reasoning in Autonomous Driving**	Enhui Ma et.al.	[2603.01637](http://arxiv.org/pdf/2603.01637.pdf)	null
+**2026-03-02**	**Benchmarking Semantic Segmentation Models via Appearance and Geometry Attribute Editing**	Zijin Yin et.al.	[2603.01535](http://arxiv.org/pdf/2603.01535.pdf)	null
+**2026-03-02**	**VidDoS: Universal Denial-of-Service Attack on Video-based Large Language Models**	Duoxun Tang et.al.	[2603.01454](http://arxiv.org/pdf/2603.01454.pdf)	null
+**2026-03-02**	**Unifying Language-Action Understanding and Generation for Autonomous Driving**	Xinyang Wang et.al.	[2603.01441](http://arxiv.org/pdf/2603.01441.pdf)	null
+**2026-03-02**	**Perspective-Equivariant Fine-tuning for Multispectral Demosaicing without Ground Truth**	Andrew Wang et.al.	[2603.01332](http://arxiv.org/pdf/2603.01332.pdf)	null
+**2026-03-01**	**FoSS: Modeling Long Range Dependencies and Multimodal Uncertainty in Trajectory Prediction via Fourier State Space Integration**	Yizhou Huang et.al.	[2603.01284](http://arxiv.org/pdf/2603.01284.pdf)	null
+**2026-03-01**	**Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures**	Yuechen Luo et.al.	[2603.01063](http://arxiv.org/pdf/2603.01063.pdf)	null
+**2026-03-01**	**An Open-Source Modular Benchmark for Diffusion-Based Motion Planning in Closed-Loop Autonomous Driving**	Yun Li et.al.	[2603.01023](http://arxiv.org/pdf/2603.01023.pdf)	null
+**2026-03-01**	**Dr.Occ: Depth- and Region-Guided 3D Occupancy from Surround-View Cameras for Autonomous Driving**	Xubo Zhu et.al.	[2603.01007](http://arxiv.org/pdf/2603.01007.pdf)	null
+**2026-03-01**	**DriveCode: Domain Specific Numerical Encoding for LLM-Based Autonomous Driving**	Zhiye Wang et.al.	[2603.00919](http://arxiv.org/pdf/2603.00919.pdf)	null
+**2026-02-28**	**Wild-Drive: Off-Road Scene Captioning and Path Planning via Robust Multi-modal Routing and Efficient Large Language Model**	Zihang Wang et.al.	[2603.00694](http://arxiv.org/pdf/2603.00694.pdf)	null
+**2026-02-28**	**ReMoT: Reinforcement Learning with Motion Contrast Triplets**	Cong Wan et.al.	[2603.00461](http://arxiv.org/pdf/2603.00461.pdf)	null
+**2026-02-28**	**PointAlign: Feature-Level Alignment Regularization for 3D Vision-Language Models**	Yuanhao Su et.al.	[2603.00412](http://arxiv.org/pdf/2603.00412.pdf)	null
 **2026-02-27**	**DiffusionHarmonizer: Bridging Neural Reconstruction and Photorealistic Simulation with Online Diffusion Enhancer**	Yuxuan Zhang et.al.	[2602.24096](http://arxiv.org/pdf/2602.24096.pdf)	null
 **2026-02-27**	**TSC: Topology-Conditioned Stackelberg Coordination for Multi-Agent Reinforcement Learning in Interactive Driving**	Xiaotong Zhang et.al.	[2602.23896](http://arxiv.org/pdf/2602.23896.pdf)	null
 **2026-02-27**	**SelfOccFlow: Towards end-to-end self-supervised 3D Occupancy Flow prediction**	Xavier Timoneda et.al.	[2602.23894](http://arxiv.org/pdf/2602.23894.pdf)	null
@@ -15063,7 +15254,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 **2026-02-25**	**GFPL: Generative Federated Prototype Learning for Resource-Constrained and Data-Imbalanced Vision Task**	Shiwei Lu et.al.	[2602.21873](http://arxiv.org/pdf/2602.21873.pdf)	null
 **2026-02-25**	**SEF-MAP: Subspace-Decomposed Expert Fusion for Robust Multimodal HD Map Prediction**	Haoxiang Fu et.al.	[2602.21589](http://arxiv.org/pdf/2602.21589.pdf)	null
 **2026-02-25**	**Unified Unsupervised and Sparsely-Supervised 3D Object Detection by Semantic Pseudo-Labeling and Prototype Learning**	Yushen He et.al.	[2602.21484](http://arxiv.org/pdf/2602.21484.pdf)	null
-**2026-02-24**	**HorizonForge: Driving Scene Editing with Any Trajectories and Any Vehicles**	Yifan Wang et.al.	[2602.21333](http://arxiv.org/pdf/2602.21333.pdf)	null
+**2026-03-01**	**HorizonForge: Driving Scene Editing with Any Trajectories and Any Vehicles**	Yifan Wang et.al.	[2602.21333](http://arxiv.org/pdf/2602.21333.pdf)	null
 **2026-02-24**	**Uncertainty-Aware Diffusion Model for Multimodal Highway Trajectory Prediction via DDIM Sampling**	Marion Neumeier et.al.	[2602.21319](http://arxiv.org/pdf/2602.21319.pdf)	null
 **2026-02-25**	**NoRD: A Data-Efficient Vision-Language-Action Model that Drives without Reasoning**	Ishaan Rawal et.al.	[2602.21172](http://arxiv.org/pdf/2602.21172.pdf)	null
 **2026-02-24**	**A Robotic Testing Platform for Pipelined Discovery of Resilient Soft Actuators**	Ang Li et.al.	[2602.20963](http://arxiv.org/pdf/2602.20963.pdf)	null
@@ -15126,6 +15317,9 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 **2026-02-11**	**Interpretable Vision Transformers in Monocular Depth Estimation via SVDA**	Vasileios Arampatzakis et.al.	[2602.11005](http://arxiv.org/pdf/2602.11005.pdf)	null
 **2026-02-11**	**ResWorld: Temporal Residual World Model for End-to-End Autonomous Driving**	Jinqing Zhang et.al.	[2602.10884](http://arxiv.org/pdf/2602.10884.pdf)	null
 **2026-02-11**	**Viewpoint Recommendation for Point Cloud Labeling through Interaction Cost Modeling**	Yu Zhang et.al.	[2602.10871](http://arxiv.org/pdf/2602.10871.pdf)	null
+<details><summary>Show 1152 more papers...</summary>
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 **2026-02-11**	**From Steering to Pedalling: Do Autonomous Driving VLMs Generalize to Cyclist-Assistive Spatial Perception and Planning?**	Krishna Kanth Nakka et.al.	[2602.10771](http://arxiv.org/pdf/2602.10771.pdf)	null
 **2026-02-11**	**AurigaNet: A Real-Time Multi-Task Network for Enhanced Urban Driving Perception**	Kiarash Ghasemzadeh et.al.	[2602.10660](http://arxiv.org/pdf/2602.10660.pdf)	null
 **2026-02-14**	**Adaptive Time Step Flow Matching for Autonomous Driving Motion Planning**	Ananya Trivedi et.al.	[2602.10285](http://arxiv.org/pdf/2602.10285.pdf)	null
@@ -15145,9 +15339,6 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 **2026-02-09**	**Personalized Autonomous Driving via Optimal Control with Clearance Constraints from Questionnaires**	Yongjae Lim et.al.	[2602.08326](http://arxiv.org/pdf/2602.08326.pdf)	null
 **2026-02-09**	**Generating Adversarial Events: A Motion-Aware Point Cloud Framework**	Hongwei Ren et.al.	[2602.08230](http://arxiv.org/pdf/2602.08230.pdf)	null
 **2026-02-09**	**Self-Supervised Bootstrapping of Action-Predictive Embodied Reasoning**	Milan Ganai et.al.	[2602.08167](http://arxiv.org/pdf/2602.08167.pdf)	null
-<details><summary>Show 1133 more papers...</summary>
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 **2026-02-12**	**MambaFusion: Adaptive State-Space Fusion for Multimodal 3D Object Detection**	Venkatraman Narayanan et.al.	[2602.08126](http://arxiv.org/pdf/2602.08126.pdf)	null
 **2026-02-08**	**ForecastOcc: Vision-based Semantic Occupancy Forecasting**	Riya Mohan et.al.	[2602.08006](http://arxiv.org/pdf/2602.08006.pdf)	null
 **2026-02-08**	**Analyzing the Impact of Simulation Fidelity on the Evaluation of Autonomous Driving Motion Control**	Simon Sagmeister et.al. et.al.	[2602.07984](2602.07984)	null
@@ -16287,6 +16478,17 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+**2026-03-02**	**Event-Only Drone Trajectory Forecasting with RPM-Modulated Kalman Filtering**	Hari Prasanth S. M. et.al.	[2603.01997](http://arxiv.org/pdf/2603.01997.pdf)	null
+**2026-03-02**	**Streaming Real-Time Trajectory Prediction Using Endpoint-Aware Modeling**	Alexander Prutsch et.al.	[2603.01864](http://arxiv.org/pdf/2603.01864.pdf)	null
+**2026-03-02**	**Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones**	Ilenia Carboni et.al.	[2603.01850](http://arxiv.org/pdf/2603.01850.pdf)	null
+**2026-03-02**	**RoboGPU: Accelerating GPU Collision Detection for Robotics**	Lufei Liu et.al.	[2603.01517](http://arxiv.org/pdf/2603.01517.pdf)	null
+**2026-03-01**	**Information-Theoretic Framework for Self-Adapting Model Predictive Controllers**	Wael Hafez et.al.	[2603.01286](http://arxiv.org/pdf/2603.01286.pdf)	null
+**2026-03-01**	**FoSS: Modeling Long Range Dependencies and Multimodal Uncertainty in Trajectory Prediction via Fourier State Space Integration**	Yizhou Huang et.al.	[2603.01284](http://arxiv.org/pdf/2603.01284.pdf)	null
+**2026-03-01**	**Fast Confidence-Aware Human Prediction via Hardware-accelerated Bayesian Inference for Safe Robot Navigation**	Michael Lu et.al.	[2603.01122](http://arxiv.org/pdf/2603.01122.pdf)	null
+**2026-03-01**	**An Open-Source Modular Benchmark for Diffusion-Based Motion Planning in Closed-Loop Autonomous Driving**	Yun Li et.al.	[2603.01023](http://arxiv.org/pdf/2603.01023.pdf)	null
+**2026-03-01**	**DriveCode: Domain Specific Numerical Encoding for LLM-Based Autonomous Driving**	Zhiye Wang et.al.	[2603.00919](http://arxiv.org/pdf/2603.00919.pdf)	null
+**2026-03-01**	**Hippo: High-performance Interior-Point and Projection-based Solver for Generic Constrained Trajectory Optimization**	Haizhou Zhao et.al.	[2603.00871](http://arxiv.org/pdf/2603.00871.pdf)	null
+**2026-02-28**	**Validation of Space Robotics in Underwater Environments via Disturbance Robustness Equivalency**	Joris Verhagen et.al.	[2603.00628](http://arxiv.org/pdf/2603.00628.pdf)	null
 **2026-02-26**	**Considering Perspectives for Automated Driving Ethics: Collective Risk in Vehicular Motion Planning**	Leon Tolksdorf et.al.	[2602.22940](http://arxiv.org/pdf/2602.22940.pdf)	null
 **2026-02-26**	**Robust Human Trajectory Prediction via Self-Supervised Skeleton Representation Learning**	Taishu Arashima et.al.	[2602.22791](http://arxiv.org/pdf/2602.22791.pdf)	null
 **2026-02-25**	**Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos**	Matthew Strong et.al.	[2602.22091](http://arxiv.org/pdf/2602.22091.pdf)	null
@@ -16376,6 +16578,9 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 **2026-01-06**	**A High-Fidelity Digital Twin for Robotic Manipulation Based on 3D Gaussian Splatting**	Ziyang Sun et.al.	[2601.03200](http://arxiv.org/pdf/2601.03200.pdf)	null
 **2026-01-04**	**EscherVerse: An Open World Benchmark and Dataset for Teleo-Spatial Intelligence with Physical-Dynamic and Intent-Driven Understanding**	Tianjun Gu et.al.	[2601.01547](http://arxiv.org/pdf/2601.01547.pdf)	null
 **2026-01-03**	**EduSim-LLM: An Educational Platform Integrating Large Language Models and Robotic Simulation for Beginners**	Shenqi Lu et.al.	[2601.01196](http://arxiv.org/pdf/2601.01196.pdf)	null
+<details><summary>Show 809 more papers...</summary>
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 **2026-01-03**	**Latent Space Reinforcement Learning for Multi-Robot Exploration**	Sriram Rajasekar et.al.	[2601.01139](http://arxiv.org/pdf/2601.01139.pdf)	null
 **2026-01-02**	**DynaDrag: Dynamic Drag-Style Image Editing by Motion Prediction**	Jiacheng Sui et.al.	[2601.00542](http://arxiv.org/pdf/2601.00542.pdf)	null
 **2025-12-31**	**Reinforcement learning with timed constraints for robotics motion planning**	Zhaoan Wang et.al.	[2601.00087](http://arxiv.org/pdf/2601.00087.pdf)	null
@@ -16387,9 +16592,6 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 **2025-12-29**	**Towards the Automation in the Space Station: Feasibility Study and Ground Tests of a Multi-Limbed Intra-Vehicular Robot**	Seiko Piotr Yamaguchi et.al.	[2512.23153](http://arxiv.org/pdf/2512.23153.pdf)	null
 **2025-12-27**	**Autoregressive Flow Matching for Motion Prediction**	Johnathan Xie et.al.	[2512.22688](http://arxiv.org/pdf/2512.22688.pdf)	null
 **2025-12-27**	**ParaMaP: Parallel Mapping and Collision-free Motion Planning for Reactive Robot Manipulation**	Xuewei Zhang et.al.	[2512.22575](http://arxiv.org/pdf/2512.22575.pdf)	null
-<details><summary>Show 798 more papers...</summary>
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 **2025-12-25**	**Spatiotemporal-Untrammelled Mixture of Experts for Multi-Person Motion Prediction**	Zheng Yin et.al.	[2512.21707](http://arxiv.org/pdf/2512.21707.pdf)	null
 **2025-12-24**	**SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation**	Xiaoyu Mo et.al. et.al.	[2512.21133](2512.21133)	null
 **2025-12-23**	**YCB-Handovers Dataset: Analyzing Object Weight Impact on Human Handovers to Adapt Robotic Handover Motion**	Parag Khanna et.al. et.al.	[2512.20847](2512.20847)	null
@@ -17194,6 +17396,109 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+**2026-03-02**	**From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories**	Mateus Karvat et.al.	[2603.02194](http://arxiv.org/pdf/2603.02194.pdf)	null
+**2026-03-02**	**Rethinking Camera Choice: An Empirical Study on Fisheye Camera Properties in Robotic Manipulation**	Han Xue et.al.	[2603.02139](http://arxiv.org/pdf/2603.02139.pdf)	null
+**2026-03-02**	**OnlineX: Unified Online 3D Reconstruction and Understanding with Active-to-Stable State Evolution**	Chong Xia et.al.	[2603.02134](http://arxiv.org/pdf/2603.02134.pdf)	null
+**2026-03-02**	**Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons**	Anthony Liang et.al.	[2603.02115](http://arxiv.org/pdf/2603.02115.pdf)	null
+**2026-03-02**	**Real-Time Thermal-Inertial Odometry on Embedded Hardware for High-Speed GPS-Denied Flight**	Austin Stone et.al.	[2603.02114](http://arxiv.org/pdf/2603.02114.pdf)	null
+**2026-03-02**	**ACDC: Adaptive Curriculum Planning with Dynamic Contrastive Control for Goal-Conditioned Reinforcement Learning in Robotic Manipulation**	Xuerui Wang et.al.	[2603.02104](http://arxiv.org/pdf/2603.02104.pdf)	null
+**2026-03-02**	**$π$ -StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs**	Siting Wang et.al.	[2603.02083](http://arxiv.org/pdf/2603.02083.pdf)	null
+**2026-03-02**	**LAD-Drive: Bridging Language and Trajectory with Action-Aware Diffusion Transformers**	Fabian Schmidt et.al.	[2603.02035](http://arxiv.org/pdf/2603.02035.pdf)	null
+**2026-03-02**	**CHOP: Counterfactual Human Preference Labels Improve Obstacle Avoidance in Visuomotor Navigation Policies**	Gershom Seneviratne et.al.	[2603.02004](http://arxiv.org/pdf/2603.02004.pdf)	null
+**2026-03-02**	**Learning Vision-Based Omnidirectional Navigation: A Teacher-Student Approach Using Monocular Depth Estimation**	Jan Finke et.al.	[2603.01999](http://arxiv.org/pdf/2603.01999.pdf)	null
+**2026-03-02**	**Event-Only Drone Trajectory Forecasting with RPM-Modulated Kalman Filtering**	Hari Prasanth S. M. et.al.	[2603.01997](http://arxiv.org/pdf/2603.01997.pdf)	null
+**2026-03-02**	**From Transportation to Manipulation: Transforming Magnetic Levitation to Magnetic Robotics**	Lara Bergmann et.al.	[2603.01982](http://arxiv.org/pdf/2603.01982.pdf)	null
+**2026-03-02**	**Closed-Loop Action Chunks with Dynamic Corrections for Training-Free Diffusion Policy**	Pengyuan Wu et.al.	[2603.01953](http://arxiv.org/pdf/2603.01953.pdf)	null
+**2026-03-02**	**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**	Yuechen Luo et.al.	[2603.01928](http://arxiv.org/pdf/2603.01928.pdf)	null
+**2026-03-02**	**SaferPath: Hierarchical Visual Navigation with Learned Guidance and Safety-Constrained Control**	Lingjie Zhang et.al.	[2603.01898](http://arxiv.org/pdf/2603.01898.pdf)	null
+**2026-03-02**	**Streaming Real-Time Trajectory Prediction Using Endpoint-Aware Modeling**	Alexander Prutsch et.al.	[2603.01864](http://arxiv.org/pdf/2603.01864.pdf)	null
+**2026-03-02**	**Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones**	Ilenia Carboni et.al.	[2603.01850](http://arxiv.org/pdf/2603.01850.pdf)	null
+**2026-03-02**	**LEAR: Learning Edge-Aware Representations for Event-to-LiDAR Localization**	Kuangyi Chen et.al.	[2603.01839](http://arxiv.org/pdf/2603.01839.pdf)	null
+**2026-03-02**	**SSMG-Nav: Enhancing Lifelong Object Navigation with Semantic Skeleton Memory Graph**	Haochen Niu et.al.	[2603.01813](http://arxiv.org/pdf/2603.01813.pdf)	null
+**2026-03-02**	**Non-verbal Real-time Human-AI Interaction in Constrained Robotic Environments**	Dragos Costea et.al.	[2603.01804](http://arxiv.org/pdf/2603.01804.pdf)	null
+**2026-03-02**	**Neural Implicit Action Fields: From Discrete Waypoints to Continuous Functions for Vision-Language-Action Models**	Haoyun Liu et.al.	[2603.01766](http://arxiv.org/pdf/2603.01766.pdf)	null
+**2026-03-02**	**Shape-Interpretable Visual Self-Modeling Enables Geometry-Aware Continuum Robot Control**	Peng Yu et.al.	[2603.01751](http://arxiv.org/pdf/2603.01751.pdf)	null
+**2026-03-02**	**Rethinking Policy Diversity in Ensemble Policy Gradient in Large-Scale Reinforcement Learning**	Naoki Shitanda et.al.	[2603.01741](http://arxiv.org/pdf/2603.01741.pdf)	null
+**2026-03-02**	**A Safety-Aware Shared Autonomy Framework with BarrierIK Using Control Barrier Functions**	Berk Guler et.al.	[2603.01705](http://arxiv.org/pdf/2603.01705.pdf)	null
+**2026-03-02**	**TacMamba: A Tactile History Compression Adapter Bridging Fast Reflexes and Slow VLA Reasoning**	Zhenan Wang et.al.	[2603.01700](http://arxiv.org/pdf/2603.01700.pdf)	null
+**2026-03-02**	**MVR: Multi-view Video Reward Shaping for Reinforcement Learning**	Lirui Luo et.al.	[2603.01694](http://arxiv.org/pdf/2603.01694.pdf)	null
+**2026-03-02**	**B $^2$ F-Map: Crowd-sourced Mapping with Bayesian B-spline Fusion**	Yiping Xie et.al.	[2603.01673](http://arxiv.org/pdf/2603.01673.pdf)	null
+**2026-03-02**	**Learning Thermal-Aware Locomotion Policies for an Electrically-Actuated Quadruped Robot**	Letian Qian et.al.	[2603.01631](http://arxiv.org/pdf/2603.01631.pdf)	null
+**2026-03-02**	**KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models**	Zihao Zheng et.al.	[2603.01581](http://arxiv.org/pdf/2603.01581.pdf)	null
+**2026-03-02**	**(hu)Man vs. Machine: In the Future of Motorsport, can Autonomous Vehicles Compete?**	Armand Amaritei et.al.	[2603.01560](http://arxiv.org/pdf/2603.01560.pdf)	null
+**2026-03-02**	**Pri4R: Learning World Dynamics for Vision-Language-Action Models with Privileged 4D Representation**	Jisoo Kim et.al.	[2603.01549](http://arxiv.org/pdf/2603.01549.pdf)	null
+**2026-03-02**	**RoboGPU: Accelerating GPU Collision Detection for Robotics**	Lufei Liu et.al.	[2603.01517](http://arxiv.org/pdf/2603.01517.pdf)	null
+**2026-03-02**	**FATE: Closed-Loop Feasibility-Aware Task Generation with Active Repair for Physically Grounded Robotic Curricula**	Bingchuan Wei et.al.	[2603.01505](http://arxiv.org/pdf/2603.01505.pdf)	null
+**2026-03-02**	**Bimanual XR Specification of Relative and Absolute Assembly Hierarchies for Teleoperation**	Benjamin Yang et.al.	[2603.01495](http://arxiv.org/pdf/2603.01495.pdf)	null
+**2026-03-02**	**ATA: Bridging Implicit Reasoning with Attention-Guided and Action-Guided Inference for Vision-Language Action Models**	Cheng Yang et.al.	[2603.01490](http://arxiv.org/pdf/2603.01490.pdf)	null
+**2026-03-02**	**Towards Robot Skill Learning and Adaptation with Gaussian Processes**	A K M Nadimul Haque et.al.	[2603.01480](http://arxiv.org/pdf/2603.01480.pdf)	null
+**2026-03-02**	**Multimodal Adversarial Quality Policy for Safe Grasping**	Kunlin Xie Chenghao Li Haolan Zhang et.al.	[2603.01479](http://arxiv.org/pdf/2603.01479.pdf)	null
+**2026-03-02**	**SFCo-Nav: Efficient Zero-Shot Visual Language Navigation via Collaboration of Slow LLM and Fast Attributed Graph Alignment**	Chaoran Xiong et.al.	[2603.01477](http://arxiv.org/pdf/2603.01477.pdf)	null
+**2026-03-02**	**WildCross: A Cross-Modal Large Scale Benchmark for Place Recognition and Metric Depth Estimation in Natural Environments**	Joshua Knights et.al.	[2603.01475](http://arxiv.org/pdf/2603.01475.pdf)	null
+**2026-03-02**	**ROSER: Few-Shot Robotic Sequence Retrieval for Scalable Robot Learning**	Zillur Rahman et.al.	[2603.01474](http://arxiv.org/pdf/2603.01474.pdf)	null
+**2026-03-02**	**Mean-Flow based One-Step Vision-Language-Action**	Yang Chen et.al.	[2603.01469](http://arxiv.org/pdf/2603.01469.pdf)	null
+**2026-03-02**	**Non-Markovian Long-Horizon Robot Manipulation via Keyframe Chaining**	Yipeng Chen et.al.	[2603.01465](http://arxiv.org/pdf/2603.01465.pdf)	null
+**2026-03-02**	**Scaling Tasks, Not Samples: Mastering Humanoid Control through Multi-Task Model-Based Reinforcement Learning**	Shaohuai Liu et.al.	[2603.01452](http://arxiv.org/pdf/2603.01452.pdf)	null
+**2026-03-02**	**Unifying Language-Action Understanding and Generation for Autonomous Driving**	Xinyang Wang et.al.	[2603.01441](http://arxiv.org/pdf/2603.01441.pdf)	null
+**2026-03-02**	**PhysGraph: Physically-Grounded Graph-Transformer Policies for Bimanual Dexterous Hand-Tool-Object Manipulation**	Runfa Blark Li et.al.	[2603.01436](http://arxiv.org/pdf/2603.01436.pdf)	null
+**2026-03-02**	**Jailbreaking Embodied LLMs via Action-level Manipulation**	Xinyu Huang et.al.	[2603.01414](http://arxiv.org/pdf/2603.01414.pdf)	null
+**2026-03-02**	**D-GVIO: A Buffer-Driven and Efficient Decentralized GNSS-Visual-Inertial State Estimator for Multi-Agent Systems**	Yarong Luo et.al.	[2603.01404](http://arxiv.org/pdf/2603.01404.pdf)	null
+**2026-03-02**	**Align and Filter: Improving Performance in Asynchronous On-Policy RL**	Homayoun Honari et.al.	[2603.01365](http://arxiv.org/pdf/2603.01365.pdf)	null
+**2026-03-01**	**Hybrid TD3: Overestimation Bias Analysis and Stable Policy Optimization for Hybrid Action Space**	Thanh-Tuan Tran et.al.	[2603.01302](http://arxiv.org/pdf/2603.01302.pdf)	null
+**2026-03-01**	**Spherical Latent Motion Prior for Physics-Based Simulated Humanoid Control**	Jing Tan et.al.	[2603.01294](http://arxiv.org/pdf/2603.01294.pdf)	null
+**2026-03-01**	**Integrating LTL Constraints into PPO for Safe Reinforcement Learning**	Maifang Zhang et.al.	[2603.01292](http://arxiv.org/pdf/2603.01292.pdf)	null
+**2026-03-01**	**Information-Theoretic Framework for Self-Adapting Model Predictive Controllers**	Wael Hafez et.al.	[2603.01286](http://arxiv.org/pdf/2603.01286.pdf)	null
+**2026-03-01**	**Certifiable Estimation with Factor Graphs**	Zhexin Xu et.al.	[2603.01267](http://arxiv.org/pdf/2603.01267.pdf)	null
+**2026-03-01**	**RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design**	Tianxing Chen et.al.	[2603.01229](http://arxiv.org/pdf/2603.01229.pdf)	null
+**2026-03-01**	**Monocular 3D Object Position Estimation with VLMs for Human-Robot Interaction**	Ari Wahl et.al.	[2603.01224](http://arxiv.org/pdf/2603.01224.pdf)	null
+**2026-03-01**	**Agent-Based Simulation of Trust Development in Human-Robot Teams: An Empirically-Validated Framework**	Ravi Kalluri et.al.	[2603.01189](http://arxiv.org/pdf/2603.01189.pdf)	null
+**2026-03-01**	**riMESA: Consensus ADMM for Real-World Collaborative SLAM**	Daniel McGann et.al.	[2603.01178](http://arxiv.org/pdf/2603.01178.pdf)	null
+**2026-03-01**	**Path Integral Particle Filtering for Hybrid Systems via Saltation Matrices**	Karthik Shaji et.al.	[2603.01176](http://arxiv.org/pdf/2603.01176.pdf)	null
+**2026-03-01**	**RAG-RUSS: A Retrieval-Augmented Robotic Ultrasound for Autonomous Carotid Examination**	Dianye Huang et.al.	[2603.01153](http://arxiv.org/pdf/2603.01153.pdf)	null
+**2026-03-01**	**D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping**	Haozhe Lou et.al.	[2603.01151](http://arxiv.org/pdf/2603.01151.pdf)	null
+**2026-03-01**	**ArtLLM: Generating Articulated Assets via 3D LLM**	Penghao Wang et.al.	[2603.01142](http://arxiv.org/pdf/2603.01142.pdf)	null
+**2026-03-01**	**A Deployable Bio-inspired Compliant Leg Design for Enhanced Leaping in Quadruped Robots**	Yiyang Chen et.al.	[2603.01128](http://arxiv.org/pdf/2603.01128.pdf)	null
+**2026-03-01**	**Pro-HOI: Perceptive Root-guided Humanoid-Object Interaction**	Yuhang Lin et.al.	[2603.01126](http://arxiv.org/pdf/2603.01126.pdf)	null
+**2026-03-01**	**Fast Confidence-Aware Human Prediction via Hardware-accelerated Bayesian Inference for Safe Robot Navigation**	Michael Lu et.al.	[2603.01122](http://arxiv.org/pdf/2603.01122.pdf)	null
+**2026-03-01**	**From Dialogue to Execution: Mixture-of-Agents Assisted Interactive Planning for Behavior Tree-Based Long-Horizon Robot Execution**	Kanata Suzuki et.al.	[2603.01113](http://arxiv.org/pdf/2603.01113.pdf)	null
+**2026-03-01**	**Compact Task-Aligned Imitation Learning for Laboratory Automation**	Kanata Suzuki et.al.	[2603.01110](http://arxiv.org/pdf/2603.01110.pdf)	null
+**2026-03-01**	**GroundedSurg: A Multi-Procedure Benchmark for Language-Conditioned Surgical Tool Segmentation**	Tajamul Ashraf et.al.	[2603.01108](http://arxiv.org/pdf/2603.01108.pdf)	null
+**2026-03-01**	**Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures**	Yuechen Luo et.al.	[2603.01063](http://arxiv.org/pdf/2603.01063.pdf)	null
+**2026-03-01**	**SMR-Net:Robot Snap Detection Based on Multi-Scale Features and Self-Attention Network**	Kuanxu Hou et.al.	[2603.01036](http://arxiv.org/pdf/2603.01036.pdf)	null
+**2026-03-01**	**Vision-Language Feature Alignment for Road Anomaly Segmentation**	Zhuolin He et.al.	[2603.01029](http://arxiv.org/pdf/2603.01029.pdf)	null
+**2026-03-01**	**An Open-Source Modular Benchmark for Diffusion-Based Motion Planning in Closed-Loop Autonomous Driving**	Yun Li et.al.	[2603.01023](http://arxiv.org/pdf/2603.01023.pdf)	null
+**2026-03-01**	**MiniUGV $_2$ : A Compact UAV-Deployable Tracked Ground Vehicle with Manipulation Capabilities**	Durgakant Pushp et.al.	[2603.00972](http://arxiv.org/pdf/2603.00972.pdf)	null
+**2026-03-01**	**HierKick: Hierarchical Reinforcement Learning for Vision-Guided Soccer Robot Control**	Yizhi Chen et.al.	[2603.00948](http://arxiv.org/pdf/2603.00948.pdf)	null
+**2026-03-01**	**DRIFT: Diffusion-based Rule-Inferred For Trajectories**	Jinyang Zhao et.al.	[2603.00936](http://arxiv.org/pdf/2603.00936.pdf)	null
+**2026-03-01**	**DAM-VLA: A Dynamic Action Model-Based Vision-Language-Action Framework for Robot Manipulation**	Xiongfeng Peng et.al.	[2603.00926](http://arxiv.org/pdf/2603.00926.pdf)	null
+**2026-03-01**	**DriveCode: Domain Specific Numerical Encoding for LLM-Based Autonomous Driving**	Zhiye Wang et.al.	[2603.00919](http://arxiv.org/pdf/2603.00919.pdf)	null
+**2026-03-01**	**Minimalist Compliance Control**	Haochen Shi et.al.	[2603.00913](http://arxiv.org/pdf/2603.00913.pdf)	null
+**2026-03-01**	**pySpatial: Generating 3D Visual Programs for Zero-Shot Spatial Reasoning**	Zhanpeng Luo et.al.	[2603.00905](http://arxiv.org/pdf/2603.00905.pdf)	null
+**2026-03-01**	**A Novel Reconfigurable Dexterous Hand Based on Triple-Symmetric Bricard Parallel Mechanism**	Chunxu Tian et.al.	[2603.00892](http://arxiv.org/pdf/2603.00892.pdf)	null
+**2026-03-01**	**Hippo: High-performance Interior-Point and Projection-based Solver for Generic Constrained Trajectory Optimization**	Haizhou Zhao et.al.	[2603.00871](http://arxiv.org/pdf/2603.00871.pdf)	null
+**2026-02-28**	**Online Generation of Collision-Free Trajectories in Dynamic Environments**	Nermin Covic et.al.	[2603.00759](http://arxiv.org/pdf/2603.00759.pdf)	null
+**2026-02-28**	**UniHM: Unified Dexterous Hand Manipulation with Vision Language Model**	Zhenhao Zhang et.al.	[2603.00732](http://arxiv.org/pdf/2603.00732.pdf)	null
+**2026-02-28**	**Keyframe-Guided Structured Rewards for Reinforcement Learning in Long-Horizon Laboratory Robotics**	Yibo Qiu et.al.	[2603.00719](http://arxiv.org/pdf/2603.00719.pdf)	null
+**2026-02-28**	**Wild-Drive: Off-Road Scene Captioning and Path Planning via Robust Multi-modal Routing and Efficient Large Language Model**	Zihang Wang et.al.	[2603.00694](http://arxiv.org/pdf/2603.00694.pdf)	null
+**2026-02-28**	**Optimal Solutions for the Moving Target Vehicle Routing Problem via Branch-and-Price with Relaxed Continuity**	Anoop Bhat et.al.	[2603.00663](http://arxiv.org/pdf/2603.00663.pdf)	null
+**2026-02-28**	**Validation of Space Robotics in Underwater Environments via Disturbance Robustness Equivalency**	Joris Verhagen et.al.	[2603.00628](http://arxiv.org/pdf/2603.00628.pdf)	null
+**2026-02-28**	**TGM-VLA: Task-Guided Mixup for Sampling-Efficient and Robust Robotic Manipulation**	Fanqi Pu et.al.	[2603.00615](http://arxiv.org/pdf/2603.00615.pdf)	null
+**2026-02-28**	**I-Perceive: A Foundation Model for Active Perception with Language Instructions**	Yongxi Huang et.al.	[2603.00600](http://arxiv.org/pdf/2603.00600.pdf)	null
+**2026-02-28**	**AI-IO: An Aerodynamics-Inspired Real-Time Inertial Odometry for Quadrotors**	Jiahao Cui et.al.	[2603.00597](http://arxiv.org/pdf/2603.00597.pdf)	null
+**2026-02-28**	**LangGap: Diagnosing and Closing the Language Gap in Vision-Language-Action Models**	Yuchen Hou et.al.	[2603.00592](http://arxiv.org/pdf/2603.00592.pdf)	null
+**2026-02-28**	**Planning Method for Skill-Based Control of Robots Using a PLC as Skill Trigger**	Andreas Gaugenrieder et.al.	[2603.00555](http://arxiv.org/pdf/2603.00555.pdf)	null
+**2026-02-28**	**Optimal-Horizon Social Robot Navigation in Heterogeneous Crowds**	Jiamin Shi et.al.	[2603.00507](http://arxiv.org/pdf/2603.00507.pdf)	null
+**2026-02-28**	**Zero-Shot Robotic Manipulation via 3D Gaussian Splatting-Enhanced Multimodal Retrieval-Augmented Generation**	Zilong Xie et.al.	[2603.00500](http://arxiv.org/pdf/2603.00500.pdf)	null
+**2026-02-28**	**RAISE: Requirement-Adaptive Evolutionary Refinement for Training-Free Text-to-Image Alignment**	Liyao Jiang et.al.	[2603.00483](http://arxiv.org/pdf/2603.00483.pdf)	null
+**2026-02-28**	**ReMoT: Reinforcement Learning with Motion Contrast Triplets**	Cong Wan et.al.	[2603.00461](http://arxiv.org/pdf/2603.00461.pdf)	null
+**2026-02-28**	**Test-Driven Agentic Framework for Reliable Robot Controller**	Shivanshu Tripathi et.al.	[2603.00455](http://arxiv.org/pdf/2603.00455.pdf)	null
+**2026-02-28**	**HydroShear: Hydroelastic Shear Simulation for Tactile Sim-to-Real Reinforcement Learning**	An Dang et.al.	[2603.00446](http://arxiv.org/pdf/2603.00446.pdf)	null
+**2026-02-28**	**TMR-VLA:Vision-Language-Action Model for Magnetic Motion Control of Tri-leg Silicone-based Soft Robot**	Ruijie Tang et.al.	[2603.00420](http://arxiv.org/pdf/2603.00420.pdf)	null
+**2026-02-28**	**PointAlign: Feature-Level Alignment Regularization for 3D Vision-Language Models**	Yuanhao Su et.al.	[2603.00412](http://arxiv.org/pdf/2603.00412.pdf)	null
+**2026-02-27**	**Acoustic Sensing for Universal Jamming Grippers**	Lion Weber et.al.	[2603.00351](http://arxiv.org/pdf/2603.00351.pdf)	null
+<details><summary>Show 1894 more papers...</summary>
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 **2026-02-27**	**SafeGen-LLM: Enhancing Safety Generalization in Task Planning for Robotic Systems**	Jialiang Fan et.al.	[2602.24235](http://arxiv.org/pdf/2602.24235.pdf)	null
 **2026-02-27**	**Evaluating Accuracy of Vine Robot Shape Sensing with Distributed Inertial Measurement Units**	Alexis E. Laudenslager et.al.	[2602.24202](http://arxiv.org/pdf/2602.24202.pdf)	null
 **2026-02-27**	**How IMU Drift Influences Multi-Radar Inertial Odometry for Ground Robots in Subterranean Terrains**	Moumita Mukherjee et.al.	[2602.24192](http://arxiv.org/pdf/2602.24192.pdf)	null
@@ -17294,9 +17599,6 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 **2026-02-27**	**Parallel Continuous-Time Relative Localization with Augmented Clamped Non-Uniform B-Splines**	Jiadong Lu et.al.	[2602.22006](http://arxiv.org/pdf/2602.22006.pdf)	null
 **2026-02-25**	**Are Foundation Models the Route to Full-Stack Transfer in Robotics?**	Freek Stulp et.al.	[2602.22001](http://arxiv.org/pdf/2602.22001.pdf)	null
 **2026-02-25**	**PanoEnv: Exploring 3D Spatial Intelligence in Panoramic Environments with Reinforcement Learning**	Zekai Lin et.al.	[2602.21992](http://arxiv.org/pdf/2602.21992.pdf)	null
-<details><summary>Show 1794 more papers...</summary>
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 **2026-02-25**	**Humanizing Robot Gaze Shifts: A Framework for Natural Gaze Shifts in Humanoid Robots**	Jingchao Wei et.al. et.al.	[2602.21983](2602.21983)	null
 **2026-02-25**	**Dream-SLAM: Dreaming the Unseen for Active SLAM in Dynamic Environments**	Xiangqi Meng et.al. et.al.	[2602.21967](2602.21967)	null
 **2026-02-25**	**The Swarm Intelligence Freeway-Urban Trajectories (SWIFTraj) Dataset - Part II: A Graph-Based Approach for Trajectory Connection**	Xinkai Ji et.al. et.al.	[2602.21954](2602.21954)	null
@@ -19097,6 +19399,9 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+**2026-03-02**	**Real-Time Thermal-Inertial Odometry on Embedded Hardware for High-Speed GPS-Denied Flight**	Austin Stone et.al.	[2603.02114](http://arxiv.org/pdf/2603.02114.pdf)	null
+**2026-03-02**	**Learning Vision-Based Omnidirectional Navigation: A Teacher-Student Approach Using Monocular Depth Estimation**	Jan Finke et.al.	[2603.01999](http://arxiv.org/pdf/2603.01999.pdf)	null
+**2026-03-02**	**Non-verbal Real-time Human-AI Interaction in Constrained Robotic Environments**	Dragos Costea et.al.	[2603.01804](http://arxiv.org/pdf/2603.01804.pdf)	null
 **2026-02-26**	**LE-NeuS: Latency-Efficient Neuro-Symbolic Video Understanding via Adaptive Temporal Verification**	Shawn Liang et.al.	[2602.23553](http://arxiv.org/pdf/2602.23553.pdf)	null
 **2026-02-25**	**Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling**	Euisoo Jung et.al.	[2602.21760](http://arxiv.org/pdf/2602.21760.pdf)	null
 **2026-02-24**	**Pip-Stereo: Progressive Iterations Pruner for Iterative Optimization based Stereo Matching**	Jintu Zheng et.al.	[2602.20496](http://arxiv.org/pdf/2602.20496.pdf)	null
@@ -19194,12 +19499,12 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 **2025-10-31**	**DINO-YOLO: Self-Supervised Pre-training for Data-Efficient Object Detection in Civil Engineering Applications**	Malaisree P et.al.	[2510.25140](http://arxiv.org/pdf/2510.25140.pdf)	null
 **2026-01-08**	**MobileGeo: Exploring Hierarchical Knowledge Distillation for Resource-Efficient Cross-view Drone Geo-Localization**	Jian Sun et.al.	[2510.22582](http://arxiv.org/pdf/2510.22582.pdf)	null
 **2025-12-04**	**GigaBrain-0: A World Model-Powered Vision-Language-Action Model**	GigaBrain Team et.al.	[2510.19430](http://arxiv.org/pdf/2510.19430.pdf)	null
+<details><summary>Show 50 more papers...</summary>
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 **2025-10-18**	**DIV-Nav: Open-Vocabulary Spatial Relationships for Multi-Object Navigation**	Jesús Ortega-Peimbert et.al.	[2510.16518](http://arxiv.org/pdf/2510.16518.pdf)	null
 **2025-10-18**	**Cerberus: Real-Time Video Anomaly Detection via Cascaded Vision-Language Models**	Yue Zheng et.al.	[2510.16290](http://arxiv.org/pdf/2510.16290.pdf)	null
 **2025-10-17**	**CuSfM: CUDA-Accelerated Structure-from-Motion**	Jingrui Yu et.al.	[2510.15271](http://arxiv.org/pdf/2510.15271.pdf)	null
-<details><summary>Show 47 more papers...</summary>
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
 **2025-10-16**	**EdgeNavMamba: Mamba Optimized Object Detection for Energy Efficient Edge Devices**	Romina Aalishah et.al.	[2510.14946](http://arxiv.org/pdf/2510.14946.pdf)	null
 **2025-10-16**	**BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU**	Junyi Wu et.al. et.al.	[2510.14564](2510.14564)	null
 **2025-10-15**	**Adaptive Obstacle-Aware Task Assignment and Planning for Heterogeneous Robot Teaming**	Nan Li et.al. et.al.	[2510.14063](2510.14063)	null
