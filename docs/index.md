@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Updated on 2026.03.05
+Updated on 2026.03.06
 
 This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).
 
@@ -17629,7 +17629,7 @@ This page is maintained by [Leheng Li](https://len-li.github.io/) that contains 
 |:---------|:-----------------------|:---------|:------|:------|
 **2026-03-04**	**ManipulationNet: An Infrastructure for Benchmarking Real-World Robot Manipulation with Physical Skill Challenges and Embodied Multimodal Reasoning**	Yiting Chen et.al.	[2603.04363](http://arxiv.org/pdf/2603.04363.pdf)	null
 **2026-03-04**	**RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots**	Soroush Nasiriany et.al.	[2603.04356](http://arxiv.org/pdf/2603.04356.pdf)	null
-**2026-03-04**	**A Soft Robotic Demonstration in the Stratospher**	Codrin Tugui et.al.	[2603.04352](http://arxiv.org/pdf/2603.04352.pdf)	null
+**2026-03-04**	**A Soft Robotic Demonstration in the Stratosphere**	Codrin Tugui et.al.	[2603.04352](http://arxiv.org/pdf/2603.04352.pdf)	null
 **2026-03-04**	**Tendon Force Modeling for Sim2Real Transfer of Reinforcement Learning Policies for Tendon-Driven Robots**	Valentin Yuryev et.al.	[2603.04351](http://arxiv.org/pdf/2603.04351.pdf)	null
 **2026-03-04**	**Gaussian Mixture-Based Inverse Perception Contract for Uncertainty-Aware Robot Navigation**	Bingyao Du et.al.	[2603.04329](http://arxiv.org/pdf/2603.04329.pdf)	null
 **2026-03-04**	**Perception-Aware Time-Optimal Planning for Quadrotor Waypoint Flight**	Chao Qin et.al.	[2603.04305](http://arxiv.org/pdf/2603.04305.pdf)	null
