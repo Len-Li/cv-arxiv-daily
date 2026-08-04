@@ -1,46 +1,27 @@
-# TODO: add papers by configuration file
-base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Len-Li"
-repo_name: "cv-arxiv-daily"
-show_authors: True
-show_links: True
-show_badge: False
+# The only generated publication artifact. papers-json.html fetches this file.
+json_path: './docs/cv-arxiv-daily.json'
+
 max_results: 100
-max_pages: 5  # Number of API pages to query (pagination)
-max_visible: 100  # Maximum papers to show before expand button
+max_pages: 5  # Number of arXiv result pages to query per topic
 
-publish_readme: True
-publish_gitpage: True
-publish_wechat: False
-
-# file paths
-json_readme_path: './docs/cv-arxiv-daily.json'
-json_gitpage_path: './docs/cv-arxiv-daily-web.json'
-json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
-
-md_readme_path: 'README.md'
-md_gitpage_path: './docs/index.md'
-md_wechat_path: './docs/wechat.md'
-
-# keywords to search
 keywords:
     "3D":
         filters: ["3D", "NeRF", "neural radiance field", "3D Gaussian Splatting", "3D Reconstruction"]
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
     "Diffusion":
         filters: ["GAN", "diffusion", "diffusion model", "controlnet", "controllable generation", "image generation", "video diffusion", "video generation", "Text-to-Video", "text to image"]
+        categories: ["cat:cs.CV"]
     "Robotics":
-        filters: ["Robotics", 'embodied ai', 'robotics manipulation', 'robot learning', 'humanoid', 'sim2real', 'vla', 'Vision-Language-Action', ]
+        filters: ["Robotics", "embodied ai", "robotics manipulation", "robot learning", "humanoid", "sim2real", "vla", "Vision-Language-Action"]
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
     "Robotics Industry":
-        filters: ["NVIDIA", "Boston Dynamics", "Tesla", "Google DeepMind Robotics", "Agibot", 'Figure AI', 'physical intelligence']
+        filters: ["NVIDIA", "Boston Dynamics", "Tesla", "Google DeepMind Robotics", "Agibot", "Figure AI", "physical intelligence"]
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
     "Industry":
-        filters: ["NVIDIA", "Waymo", "DJI", 'Waabi', 'Raquel Urtasun', 'Sanja Fidler']
+        filters: ["NVIDIA", "Waymo", "DJI", "Waabi", "Raquel Urtasun", "Sanja Fidler"]
     "Autonomous Driving":
-        filters: ["Autonomous Driving", "Self-driving", "Shenlong Wang", 'Marco Pavone', 'Andreas Geiger', 'Hongyang Li', 'Yikang Li', 'Wei-Chiu Ma', 'Hang Zhao', 'Li Auto']
+        filters: ["Autonomous Driving", "Self-driving", "Shenlong Wang", "Marco Pavone", "Andreas Geiger", "Hongyang Li", "Yikang Li", "Wei-Chiu Ma", "Hang Zhao", "Li Auto"]
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
     "Traffic Simulation":
         filters: ["Traffic Simulation", "Motion Prediction", "Motion Planning", "Trajectory Prediction"]
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
-

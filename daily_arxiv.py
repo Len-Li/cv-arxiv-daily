@@ -1,564 +1,222 @@
+import argparse
+import json
+import logging
 import os
 import re
-import json
+import tempfile
+
 import arxiv
 import yaml
-import logging
-import argparse
-import datetime
-import requests
-
-logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
-                    datefmt='%m/%d/%Y %H:%M:%S',
-                    level=logging.INFO)
-
-base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
-github_url = "https://api.github.com/search/repositories"
-arxiv_url = "http://arxiv.org/"
 
 
-EXCAPE = '\"'
-QUOTA = '' # NO-USE
-OR = ' OR ' # TODO
+logging.basicConfig(
+    format='[%(asctime)s %(levelname)s] %(message)s',
+    datefmt='%m/%d/%Y %H:%M:%S',
+    level=logging.INFO,
+)
+
+ARXIV_PDF_URL = "https://arxiv.org/pdf/"
+
+OR = ' OR '
 AND = ' AND '
 ANDNOT = ' ANDNOT '
-LEFT = '('
-RIGHT = ')'
 
-def key_connecter(key_list:list) -> str:
-    ret = ''
-    for idx in range(0,len(key_list)):
-        words = key_list[idx]
-        if ':' in words:
-            prefix, words = words.split(':')
-            ret += prefix + ':'
-        if len(words.split()) > 1:
-            ret += (EXCAPE + words + EXCAPE)
+
+def quote_query_terms(terms):
+    quoted = []
+    for term in terms:
+        prefix, separator, value = term.partition(':')
+        if separator:
+            value = value.strip()
+            quoted.append(f"{prefix}:{value}" if ' ' not in value else f'{prefix}:"{value}"')
         else:
-            ret += (QUOTA + words + QUOTA)
-        if idx != len(key_list) - 1:
-            ret += OR
-    return ret
+            quoted.append(term if ' ' not in term else f'"{term}"')
+    return OR.join(quoted)
 
 
-# def load_config(config_file:str) -> dict:
-#     '''
-#     config_file: input config file path
-#     return: a dict of configuration
-#     '''
-#     # make filters pretty
-#     def pretty_filters(**config) -> dict:
-#         keywords = dict()
-#         EXCAPE = '\"'
-#         QUOTA = '' # NO-USE
-#         OR = ' OR ' # TODO
-#         def parse_filters(filters:list):
-#             ret = ''
-#             for idx in range(0,len(filters)):
-#                 filter = filters[idx]
-#                 if len(filter.split()) > 1:
-#                     ret += (EXCAPE + filter + EXCAPE)
-#                 else:
-#                     ret += (QUOTA + filter + QUOTA)
-#                 if idx != len(filters) - 1:
-#                     ret += OR
-#             return ret
-#         for k,v in config['keywords'].items():
-#             keywords[k] = parse_filters(v['filters'])
-#         return keywords
-#     with open(config_file,'r') as f:
-#         config = yaml.load(f,Loader=yaml.FullLoader)
-#         config['kv'] = pretty_filters(**config)
-#         logging.info(f'config = {config}')
-#     return config
+def build_query(topic_config):
+    """Build an arXiv query without mutating the loaded YAML configuration."""
+    clauses = []
+    filters = topic_config.get('filters', [])
+    if filters:
+        clauses.append(f"({quote_query_terms(filters)})")
+
+    for field, terms in topic_config.items():
+        if field in ('filters', 'invert'):
+            continue
+        clauses.append(f"({quote_query_terms(terms)})")
+
+    inverted = topic_config.get('invert', [])
+    if inverted:
+        if not clauses:
+            raise ValueError("An inverted query requires at least one positive clause")
+        return f"{AND.join(clauses)}{ANDNOT}({quote_query_terms(inverted)})"
+
+    return AND.join(clauses)
 
 
-
-def load_config(config_file:str) -> dict:
-    '''
-    config_file: input config file path
-    return: a dict of configuration
-    '''
-    # make filters pretty
-    def pretty_filters(**config) -> dict:
-        keywords = dict()
-        def parse_filters(dicts:dict):
-            ret = ''
-            if 'filters' in dicts.keys():
-                ret += LEFT + key_connecter(dicts['filters']) + RIGHT
-                dicts.pop('filters')
-            for k,v in dicts.items():
-                if k != 'invert':
-                    ret += AND if len(ret) > 0 else ''
-                    ret += LEFT + key_connecter(v) + RIGHT
-            if 'invert' in dicts.keys():
-                ret += ANDNOT + LEFT + key_connecter(dicts['invert']) + RIGHT
-            return ret
-
-        for k,v in config['keywords'].items():
-            keywords[k] = parse_filters(v)
-        return keywords
-    with open(config_file,'r') as f:
-        config = yaml.load(f,Loader=yaml.FullLoader)
-        config['kv'] = pretty_filters(**config)
-        logging.info(f'config = {config}')
+def load_config(config_file):
+    with open(config_file, 'r', encoding='utf-8') as config_handle:
+        config = yaml.safe_load(config_handle)
+    config['queries'] = {
+        topic: build_query(topic_config)
+        for topic, topic_config in config['keywords'].items()
+    }
     return config
 
-def get_authors(authors, first_author = False):
-    output = str()
-    if first_author == False:
-        output = ", ".join(str(author) for author in authors)
-    else:
-        output = authors[0]
-    return output
-def sort_papers(papers):
-    output = dict()
-    keys = list(papers.keys())
-    keys.sort(reverse=True)
-    for key in keys:
-        output[key] = papers[key]
-    return output    
-import requests
 
-def get_code_link(qword:str) -> str:
-    """
-    This short function was auto-generated by ChatGPT. 
-    I only renamed some params and added some comments.
-    @param qword: query string, eg. arxiv ids and paper titles
-    @return paper_code in github: string, if not found, return None
-    """
-    # query = f"arxiv:{arxiv_id}"
-    query = f"{qword}"
-    params = {
-        "q": query,
-        "sort": "stars",
-        "order": "desc"
-    }
-    r = requests.get(github_url, params=params)
-    results = r.json()
-    code_link = None
-    if results["total_count"] > 0:
-        code_link = results["items"][0]["html_url"]
-    return code_link
-  
-def get_daily_papers(topic,query="slam", max_results=100, max_pages=5):
-    """
-    @param topic: str
-    @param query: str
-    @param max_results: int, max results per API call
-    @param max_pages: int, max number of API calls (pagination)
-    @return paper_with_code: dict
-    """
-    # output 
-    content = dict() 
-    content_to_web = dict()
+def first_author(authors):
+    return str(authors[0]) if authors else "Unknown"
+
+
+def normalize_author(author):
+    author = str(author or "").strip()
+    author = re.sub(r"(?:\s+et\.al\.)+\s*$", "", author,
+                    flags=re.IGNORECASE)
+    return f"{author} et.al." if author else "Unknown et.al."
+
+
+def strip_outer_bold(value):
+    value = str(value or "").strip()
+    if len(value) >= 4 and value.startswith("**") and value.endswith("**"):
+        return value[2:-2]
+    return value
+
+
+def parse_paper_entry(entry):
+    """Read the compact tab-separated format consumed by papers-json.html."""
+    text = str(entry or "").rstrip("\r\n")
+    tab_parts = text.split("\t")
+    if len(tab_parts) >= 3:
+        date_value, title_value, author_value = tab_parts[:3]
+    else:
+        pipe_parts = [part.strip() for part in text.split("|")]
+        if pipe_parts and not pipe_parts[0]:
+            pipe_parts.pop(0)
+        if pipe_parts and not pipe_parts[-1]:
+            pipe_parts.pop()
+        if len(pipe_parts) < 3:
+            raise ValueError("paper entry must contain date, title, and author fields")
+        date_value, title_value, author_value = pipe_parts[:3]
+
+    date = strip_outer_bold(date_value)
+    title = strip_outer_bold(title_value)
+    author = str(author_value or "").strip()
+    if not date or not title or not author:
+        raise ValueError("paper entry contains an empty date, title, or author")
+    return date, title, author
+
+
+def format_paper_entry(date, title, author, paper_id):
+    pdf_url = f"{ARXIV_PDF_URL}{paper_id}.pdf"
+    return (f"**{date}**\t**{title}**\t{normalize_author(author)}\t"
+            f"[{paper_id}]({pdf_url})\n")
+
+
+def normalize_paper_entry(entry, paper_id):
+    """Repair legacy formatting and remove no-longer-used code-link fields."""
+    date, title, author = parse_paper_entry(entry)
+    return format_paper_entry(date, title, author, paper_id)
+
+
+def get_daily_papers(topic, query, max_results, max_pages):
+    """Fetch one topic and return the entries to merge into the web JSON."""
+    papers = {}
+    if max_results <= 0 or max_pages <= 0:
+        return {topic: papers}
 
     client = arxiv.Client()
-    
-    total_results = 0
-    for page in range(max_pages):
-        search_engine = arxiv.Search(
-            query = query,
-            max_results = max_results,
-            sort_by = arxiv.SortCriterion.SubmittedDate
-        )
-        
-        results_count = 0
-        for result in client.results(search_engine, offset=page * max_results):
-            results_count += 1
-            paper_id            = result.get_short_id()
-            paper_title         = result.title
-            paper_url           = result.entry_id
-            code_url            = base_url + paper_id
-            paper_abstract      = result.summary.replace("\n"," ")
-            paper_authors       = get_authors(result.authors)
-            paper_first_author  = get_authors(result.authors,first_author = True)
-            primary_category    = result.primary_category
-            publish_time        = result.published.date()
-            update_time         = result.updated.date()
-            comments            = result.comment
-            
-            logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
+    search = arxiv.Search(
+        query=query,
+        max_results=max_results * max_pages,
+        sort_by=arxiv.SortCriterion.SubmittedDate,
+    )
+    for result in client.results(search):
+        paper_id = result.get_short_id()
+        paper_key = re.sub(r"v\d+$", "", paper_id)
+        updated = result.updated.date()
+        title = result.title
+        author = first_author(result.authors)
+        logging.info("topic=%s updated=%s title=%s", topic, updated, title)
+        papers[paper_key] = format_paper_entry(updated, title, author, paper_key)
 
-            ver_pos = paper_id.find('v')
-            if ver_pos == -1:
-                paper_key = paper_id
-            else:
-                paper_key = paper_id[0:ver_pos]    
-            paper_url = arxiv_url + 'pdf/' + paper_key + '.pdf'
-            
+    return {topic: papers}
+
+
+def read_json(filename):
+    with open(filename, 'r', encoding='utf-8') as json_handle:
+        return json.load(json_handle)
+
+
+def write_json(filename, data):
+    """Atomically replace the web data file after a complete JSON write."""
+    target_path = os.fspath(filename)
+    target_dir = os.path.dirname(os.path.abspath(target_path))
+    prefix = f".{os.path.basename(target_path)}."
+    descriptor, temporary_path = tempfile.mkstemp(
+        prefix=prefix, suffix=".tmp", dir=target_dir, text=True)
+    try:
+        with os.fdopen(descriptor, 'w', encoding='utf-8') as json_handle:
+            json.dump(data, json_handle)
+            json_handle.flush()
+            os.fsync(json_handle.fileno())
+        os.replace(temporary_path, target_path)
+    except Exception:
+        if os.path.exists(temporary_path):
+            os.unlink(temporary_path)
+        raise
+
+
+def update_json_file(filename, topic_updates):
+    data = read_json(filename)
+    for update in topic_updates:
+        for topic, papers in update.items():
+            data.setdefault(topic, {}).update(papers)
+    write_json(filename, data)
+
+
+def repair_paper_entries(filename):
+    """Repair legacy entries without making network requests."""
+    data = read_json(filename)
+    repaired = 0
+    for papers in data.values():
+        for paper_id, entry in papers.items():
             try:
-                repo_url = None
-                # Try to get code link from paperswithcode API
-                try:
-                    code_url = base_url + paper_id
-                    r = requests.get(code_url, timeout=5)
-                    if r.status_code == 200:
-                        r_json = r.json()
-                        if "official" in r_json and r_json["official"]:
-                            repo_url = r_json["official"]["url"]
-                except Exception as e:
-                    logging.warning(f"Failed to fetch code link for {paper_id}: {e}")
-
-                if repo_url is not None:
-                    content[paper_key] = "**{}**	**{}**	{} et.al.	[{}]({})	**[link]({})**\n".format(
-                           update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
-                    content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                           update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
-                else:
-                    content[paper_key] = "**{}**	**{}**	{} et.al.	[{}]({})	null\n".format(
-                           update_time,paper_title,paper_first_author,paper_key,paper_url)
-                    content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                           update_time,paper_title,paper_first_author,paper_url,paper_url)
-
-                if comments is not None:
-                    content_to_web[paper_key] += f", {comments}\n"
-                else:
-                    content_to_web[paper_key] += f"\n"
-
-            except Exception as e:
-                logging.error(f"exception: {e} with id: {paper_key}")
-        
-        total_results += results_count
-        
-        # If we got fewer results than requested, no more pages available
-        if results_count < max_results:
-            break
-    
-    data = {topic:content}
-    data_web = {topic:content_to_web}
-    return data,data_web 
-
-def update_paper_links(filename):
-    '''
-    weekly update paper links in json file
-    '''
-    def parse_arxiv_string(s):
-        # Parse the format: **date**	**title**	author et.al.	[id](url)	code
-        parts = s.split("\t")
-        if len(parts) < 5:
-            # Fallback for old format with |
-            parts = s.split("|")
-            date = parts[1].strip() if len(parts) > 1 else ""
-            title = parts[2].strip() if len(parts) > 2 else ""
-            authors = parts[3].strip() if len(parts) > 3 else ""
-            arxiv_id = parts[4].strip() if len(parts) > 4 else ""
-            code = parts[5].strip() if len(parts) > 5 else ""
-        else:
-            # New format with tabs
-            date = parts[0].strip().replace("**", "")
-            title = parts[1].strip().replace("**", "")
-            authors = parts[2].strip()
-            # Extract arxiv_id from [id](url) format
-            arxiv_match = re.search(r'\[([^\]]+)\]', parts[3])
-            arxiv_id = arxiv_match.group(1) if arxiv_match else ""
-            code = parts[4].strip()
-        
-        arxiv_id = re.sub(r'v\d+', '', arxiv_id)
-        return date,title,authors,arxiv_id,code
-
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
-            
-        json_data = m.copy()
-
-        for keywords,v in json_data.items():
-            logging.info(f'keywords = {keywords}')
-            for paper_id,contents in v.items():
-                contents = str(contents)
-
-                update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
-
-                contents = "**{}**\t**{}**\t{} et.al.\t[{}]({})\t{}\n".format(update_time,paper_title,paper_first_author,paper_url.split('/')[-1].replace('.pdf',''),paper_url,code_url)
-                json_data[keywords][paper_id] = str(contents)
-                logging.info(f'paper_id = {paper_id}, contents = {contents}')
-                
-                valid_link = False if 'null' in contents else True
-                if valid_link:
-                    continue
-                try:
-                    code_url = base_url + paper_id #TODO
-                    r = requests.get(code_url).json()
-                    repo_url = None
-                    if "official" in r and r["official"]:
-                        repo_url = r["official"]["url"]
-                        if repo_url is not None:
-                            new_cont = contents.replace('null',f'**[link]({repo_url})**')
-                            logging.info(f'ID = {paper_id}, contents = {new_cont}')
-                            json_data[keywords][paper_id] = str(new_cont)
-
-                except Exception as e:
-                    logging.error(f"exception: {e} with id: {paper_id}")
-        # dump to json file
-        with open(filename,"w") as f:
-            json.dump(json_data,f)
-
-def update_json_file(filename,data_dict):
-    '''
-    daily update json file using data_dict
-    '''
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
-            
-    json_data = m.copy() 
-    
-    # update papers in each keywords         
-    for data in data_dict:
-        for keyword in data.keys():
-            papers = data[keyword]
-
-            if keyword in json_data.keys():
-                json_data[keyword].update(papers)
-            else:
-                json_data[keyword] = papers
-
-    with open(filename,"w") as f:
-        json.dump(json_data,f)
-    
-def json_to_md(filename,md_filename,
-               task = '',
-               to_web = False, 
-               use_title = True, 
-               use_tc = True,
-               show_badge = True,
-               use_b2t = True,
-               max_visible = 100):
-    """
-    @param filename: str
-    @param md_filename: str
-    @param max_visible: int, maximum papers to show before expand button
-    @return None
-    """
-    def pretty_math(s:str) -> str:
-        ret = ''
-        match = re.search(r"\$.*\$", s)
-        if match == None:
-            return s
-        math_start,math_end = match.span()
-        space_trail = space_leading = ''
-        if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' ' 
-        if s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' ' 
-        ret += s[:math_start] 
-        ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}' 
-        ret += s[math_end:]
-        return ret
-  
-    DateNow = datetime.date.today()
-    DateNow = str(DateNow)
-    DateNow = DateNow.replace('-','.')
-    
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            data = {}
-        else:
-            data = json.loads(content)
-
-    # clean README.md if daily already exist else create it
-    with open(md_filename,"w+", encoding='utf-8') as f:
-        pass
-
-    # write data into README.md
-    with open(md_filename,"a+", encoding='utf-8') as f:
-
-        if (use_title == True) and (to_web == True):
-            f.write("---\n" + "layout: default\n" + "---\n\n")
-        
-        if show_badge == True:
-            f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
-            f.write(f"[![Forks][forks-shield]][forks-url]\n")
-            f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
-            f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
-                
-        if use_title == True:
-            #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
-            #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
-            f.write("Updated on " + DateNow + "\n")
-            # f.write("## Updated on " + DateNow + "\n")
-        else:
-            f.write("> Updated on " + DateNow + "\n")
-
-        # TODO: add usage
-        # f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
-
-        f.write("\n")
-        f.write("This page is maintained by [Leheng Li](https://len-li.github.io/) that contains papers he interested in. Source code of this web is at [here](https://github.com/Len-Li/cv-arxiv-daily).\n\n")
-
-        if task == 'Update GitPage':
-            f.write("- [3D](#3d)\n")
-            f.write("- [Diffusion](#diffusion)\n")
-            f.write("- [Industry](#industry)\n")
-            f.write("- [Autonomous Driving](#autonomous-driving)\n")
-            f.write("- [Traffic Simulation](#traffic-simulation)\n\n")
+                normalized = normalize_paper_entry(entry, paper_id)
+            except ValueError as error:
+                raise ValueError(
+                    f"Unable to repair paper {paper_id}: {error}"
+                ) from error
+            if normalized != entry:
+                papers[paper_id] = normalized
+                repaired += 1
+    write_json(filename, data)
+    logging.info("Repaired %s entries in %s", repaired, filename)
+    return repaired
 
 
-        #Add: table of contents
-        if use_tc == True:
-            # f.write("<details>\n")
-            # f.write("  <summary>Table of Contents</summary>\n")
-            f.write("  <ol>\n")
-            for keyword in data.keys():
-                day_content = data[keyword]
-                if not day_content:
-                    continue
-                kw = keyword.replace(' ','-')      
-                f.write(f"    <li><a href=#{kw}>{keyword}</a></li>\n")
-            f.write("  </ol>\n")
-            # f.write("</details>\n\n")
-        
-        for keyword in data.keys():
-            day_content = data[keyword]
-            if not day_content:
-                continue
-            # the head of each part
-            f.write(f"## {keyword}\n\n")
+def run(config, repair_existing_data=False):
+    json_path = config['json_path']
+    if repair_existing_data:
+        repair_paper_entries(json_path)
+        return
+    updates = []
+    for topic, query in config['queries'].items():
+        updates.append(get_daily_papers(
+            topic,
+            query,
+            config['max_results'],
+            config.get('max_pages', 5),
+        ))
+    update_json_file(json_path, updates)
 
-            if use_title == True :
-                if to_web == False:
-                    f.write("Publish Date\tTitle\tAuthors\tPDF\tCode\n")
-                    f.write("---\t---\t---\t---\t---\n")
-                else:
-                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
-
-            # sort papers by date
-            day_content = sort_papers(day_content)
-            
-            papers_list = list(day_content.items())
-            visible_count = min(max_visible, len(papers_list))
-            
-            # Write visible papers
-            for idx, (paper_id, paper_content) in enumerate(papers_list[:visible_count]):
-                if paper_content is not None:
-                    f.write(pretty_math(paper_content))
-            
-            # Add expand button and hidden papers if there are more
-            if len(papers_list) > visible_count:
-                f.write(f"<details><summary>Show {len(papers_list) - visible_count} more papers...</summary>\n")
-                # Write hidden papers inside the details tag with proper table format
-                if use_title == True:
-                    if to_web == False:
-                        f.write("Publish Date\tTitle\tAuthors\tPDF\tCode\n")
-                        f.write("---\t---\t---\t---\t---\n")
-                    else:
-                        f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                        f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
-                for paper_id, paper_content in papers_list[visible_count:]:
-                    if paper_content is not None:
-                        f.write(pretty_math(paper_content))
-                f.write("</details>\n\n")
-            else:
-                f.write("\n")
-            
-            #Add: back to top
-            if use_b2t:
-                top_info = f"#Updated on {DateNow}"
-                top_info = top_info.replace(' ','-').replace('.','')
-                f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
-            
-        if show_badge == True:
-            # we don't like long string, break it!
-            f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/issues\n\n"))
-                
-    logging.info(f"{task} finished")        
-
-def demo(**config):
-    # TODO: use config
-    data_collector = []
-    data_collector_web= []
-    
-    keywords = config['kv']
-    max_results = config['max_results']
-    max_pages = config.get('max_pages', 5)
-    publish_readme = config['publish_readme']
-    publish_gitpage = config['publish_gitpage']
-    publish_wechat = config['publish_wechat']
-    show_badge = config['show_badge']
-
-    b_update = config['update_paper_links']
-    max_visible = config.get('max_visible', 100)
-    logging.info(f'Update Paper Link = {b_update}')
-    if config['update_paper_links'] == False:
-        logging.info(f"GET daily papers begin")
-        for topic, keyword in keywords.items():
-            logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results,
-                                            max_pages = max_pages)
-            data_collector.append(data)
-            data_collector_web.append(data_web)
-            print("\n")
-        logging.info(f"GET daily papers end")
-
-    # 1. update README.md file
-    if publish_readme:
-        json_file = config['json_readme_path']
-        md_file   = config['md_readme_path']
-        # update paper links
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:    
-            # update json data
-            update_json_file(json_file,data_collector)
-        # json data to markdown
-        json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge)
-
-    # 2. update docs/index.md file (to gitpage)
-    if publish_gitpage:
-        json_file = config['json_gitpage_path']
-        md_file   = config['md_gitpage_path']
-        # TODO: duplicated update paper links!!!
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:    
-            update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, task ='Update GitPage', \
-            to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False, max_visible=max_visible)
-
-    # 3. Update docs/wechat.md file
-    if publish_wechat:
-        json_file = config['json_wechat_path']
-        md_file   = config['md_wechat_path']
-        # TODO: duplicated update paper links!!!
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:    
-            update_json_file(json_file, data_collector_web)
-        json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--config_path',type=str, default='config.yaml',
-                            help='configuration file path')
-    parser.add_argument('--update_paper_links', default=False,
-                        action="store_true",help='whether to update paper links etc.')                        
+    parser.add_argument('--config_path', default='config.yaml')
+    parser.add_argument('--repair_existing_data', action='store_true')
     args = parser.parse_args()
-    config = load_config(args.config_path)
-    config = {**config, 'update_paper_links':args.update_paper_links}
-    demo(**config)
+    run(
+        load_config(args.config_path),
+        repair_existing_data=args.repair_existing_data,
+    )

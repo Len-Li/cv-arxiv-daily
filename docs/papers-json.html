@@ -5,705 +5,436 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CV Arxiv Daily - Paper List</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
-            background: #fafafa;
             min-height: 100vh;
             padding: 16px;
+            background: #fafafa;
             color: #212121;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
         }
-        
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-        
-        header {
-            text-align: center;
-            padding: 32px 16px;
-            margin-bottom: 24px;
-        }
-        
-        header h1 {
-            font-size: 2.125rem;
-            font-weight: 500;
-            margin-bottom: 8px;
-            color: #212121;
-            letter-spacing: -0.5px;
-        }
-        
-        header p {
-            font-size: 0.9375rem;
-            color: #666;
-            line-height: 1.6;
-        }
-        
-        header a {
-            color: #1976d2;
-            text-decoration: none;
-            transition: color 0.2s;
-        }
-        
-        header a:hover {
-            color: #1565c0;
-            text-decoration: underline;
-        }
-        
-        .search-box {
-            max-width: 600px;
-            margin: 0 auto 24px;
-            display: flex;
-            gap: 8px;
-        }
-        
+
+        .container { max-width: 1200px; margin: 0 auto; }
+
+        header { margin-bottom: 24px; padding: 32px 16px; text-align: center; }
+        header h1 { margin-bottom: 8px; font-size: 2.125rem; font-weight: 500; letter-spacing: 0; }
+        header p { color: #666; font-size: 0.9375rem; line-height: 1.6; }
+        header a { color: #1976d2; text-decoration: none; }
+        header a:hover { color: #1565c0; text-decoration: underline; }
+
+        .search-box { display: flex; gap: 8px; max-width: 600px; margin: 0 auto 24px; }
         .search-box input {
+            min-width: 0;
             flex: 1;
             padding: 12px 16px;
             border: 1px solid #e0e0e0;
             border-radius: 4px;
+            background: #fff;
             font-size: 0.9375rem;
-            background: white;
-            transition: border-color 0.2s, box-shadow 0.2s;
         }
-        
-        .search-box input:focus {
-            outline: none;
-            border-color: #1976d2;
-            box-shadow: 0 0 0 3px rgba(25, 118, 210, 0.1);
-        }
-        
-        .search-box button {
-            padding: 12px 24px;
-            background: #1976d2;
-            color: white;
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-            font-size: 0.9375rem;
-            font-weight: 500;
-            transition: background 0.2s, box-shadow 0.2s;
-        }
-        
-        .search-box button:hover {
-            background: #1565c0;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-        
-        .search-box button:active {
-            background: #0d47a1;
-        }
-        
-        .category-nav {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 8px;
-            margin-bottom: 24px;
-        }
-        
-        .category-nav button {
-            padding: 8px 16px;
-            background: white;
+        .search-box input:focus { outline: none; border-color: #1976d2; box-shadow: 0 0 0 3px rgba(25, 118, 210, 0.1); }
+
+        button {
             border: 1px solid #e0e0e0;
+            border-radius: 4px;
+            background: #fff;
             color: #212121;
-            border-radius: 4px;
             cursor: pointer;
-            font-size: 0.875rem;
-            font-weight: 500;
-            transition: all 0.2s;
+            font: inherit;
         }
-        
-        .category-nav button:hover {
-            background: #f5f5f5;
-            border-color: #bdbdbd;
-        }
-        
-        .category-nav button.active {
-            background: #1976d2;
-            color: white;
+        button:hover { background: #f5f5f5; border-color: #bdbdbd; }
+        .search-box button, .load-more {
             border-color: #1976d2;
+            background: #1976d2;
+            color: #fff;
+            font-weight: 500;
         }
-        
+        .search-box button { padding: 12px 24px; }
+        .search-box button:hover, .load-more:hover { background: #1565c0; border-color: #1565c0; }
+
+        .category-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 24px; }
+        .category-nav button { padding: 8px 16px; font-size: 0.875rem; font-weight: 500; }
+        .category-nav button.active { border-color: #1976d2; background: #1976d2; color: #fff; }
+
+        .stats { margin-bottom: 16px; color: #666; font-size: 0.9375rem; text-align: center; }
+        .loading, .error { margin: 16px; padding: 48px 16px; border-radius: 4px; background: #fff; text-align: center; }
+        .loading { color: #666; }
+        .error { color: #d32f2f; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); }
+
         .category-section {
-            background: white;
-            border-radius: 4px;
             margin-bottom: 16px;
             overflow: hidden;
+            border-radius: 4px;
+            background: #fff;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            transition: box-shadow 0.2s;
         }
-        
-        .category-section:hover {
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
-        }
-        
         .category-header {
-            background: #f5f5f5;
-            color: #212121;
-            padding: 16px 24px;
-            font-size: 1rem;
-            font-weight: 500;
-            border-bottom: 1px solid #e0e0e0;
             display: flex;
-            justify-content: space-between;
             align-items: center;
-            cursor: pointer;
-            user-select: none;
-        }
-        
-        .category-header:hover {
-            background: #eeeeee;
-        }
-        
-        .expand-icon {
-            display: inline-block;
-            width: 24px;
-            height: 24px;
-            text-align: center;
-            line-height: 24px;
-            transition: transform 0.3s;
-        }
-        
-        .expand-icon.collapsed {
-            transform: rotate(-90deg);
-        }
-        
-        .papers-container {
-            max-height: none;
-            overflow: visible;
-            transition: max-height 0.3s ease-out;
-        }
-        
-        .papers-container.collapsed {
-            max-height: 0;
-            overflow: hidden;
-        }
-        
-        .category-info {
-            font-size: 0.875rem;
-            color: #666;
-            margin-left: 8px;
-        }
-        
-        .papers-table {
+            justify-content: space-between;
             width: 100%;
-            border-collapse: collapse;
-        }
-        
-        .papers-table th {
-            background: #fafafa;
-            padding: 12px 16px;
-            text-align: left;
-            font-weight: 500;
-            color: #666;
+            padding: 16px 24px;
+            border: 0;
             border-bottom: 1px solid #e0e0e0;
-            font-size: 0.8125rem;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-        }
-        
-        .papers-table td {
-            padding: 12px 16px;
-            border-bottom: 1px solid #f0f0f0;
-            vertical-align: top;
+            border-radius: 0;
+            background: #f5f5f5;
             font-size: 1rem;
-        }
-        
-        .papers-table tbody tr {
-            cursor: pointer;
-            transition: background 0.2s;
-        }
-        
-        .papers-table tbody tr td {
-            position: relative;
-        }
-        
-        .papers-table tbody tr td::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            z-index: 0;
-        }
-        
-        .papers-table tbody tr td > * {
-            position: relative;
-            z-index: 1;
-        }
-        
-        .papers-table tr:hover {
-            background: #fafafa;
-        }
-        
-        
-        .papers-table .title {
             font-weight: 500;
-            color: #212121;
-            max-width: 400px;
-            line-height: 1.5;
-        }
-        
-        .papers-table .title a {
-            color: inherit;
-            text-decoration: none;
-            transition: color 0.2s, text-decoration 0.2s;
-        }
-        
-        .papers-table .title a:hover {
-            color: #1976d2;
-            text-decoration: underline;
-        }
-        
-        .papers-table .authors {
-            color: #666;
-            font-size: 0.875rem;
-            max-width: 90px;
-            line-height: 1.5;
             text-align: left;
         }
-        
-        .papers-table .links {
-            white-space: nowrap;
-            width: 100px;
+        .category-header:hover { background: #eee; }
+        .category-info { margin-left: 8px; color: #666; font-size: 0.875rem; font-weight: 400; }
+        .expand-icon { width: 24px; text-align: center; transition: transform 0.2s; }
+        .expand-icon.collapsed { transform: rotate(-90deg); }
+        .papers-container { overflow-x: auto; }
+        .papers-container.collapsed { display: none; }
+
+        .papers-table { width: 100%; border-collapse: collapse; }
+        .papers-table th {
+            padding: 12px 16px;
+            border-bottom: 1px solid #e0e0e0;
+            background: #fafafa;
+            color: #666;
+            font-size: 0.8125rem;
+            font-weight: 500;
+            letter-spacing: 0;
+            text-align: left;
+            text-transform: uppercase;
         }
-        
+        .papers-table td { padding: 12px 16px; border-bottom: 1px solid #f0f0f0; font-size: 1rem; vertical-align: top; }
+        .papers-table tbody tr[data-pdf] { cursor: pointer; }
+        .papers-table tbody tr[data-pdf]:hover { background: #fafafa; }
+        .papers-table .authors { max-width: 140px; color: #666; font-size: 0.875rem; line-height: 1.5; }
+        .papers-table .date { width: 120px; color: #999; font-size: 0.875rem; font-weight: 700; white-space: nowrap; }
+        .papers-table .title { max-width: 500px; font-weight: 500; line-height: 1.5; }
+        .papers-table .title a { color: inherit; text-decoration: none; }
+        .papers-table .title a:hover { color: #1976d2; text-decoration: underline; }
+        .papers-table .links { width: 100px; white-space: nowrap; }
         .papers-table .links a {
             display: inline-block;
             padding: 4px 8px;
-            margin-right: 4px;
+            border-radius: 4px;
             background: #1976d2;
-            color: white;
+            color: #fff;
+            font-size: 0.8125rem;
+            font-weight: 500;
             text-decoration: none;
-            border-radius: 4px;
-            font-size: 0.8125rem;
-            font-weight: 500;
-            transition: background 0.2s;
         }
-        
-        .papers-table .links a:hover {
-            background: #1565c0;
-        }
-        
-        .papers-table .links a.code {
-            background: #388e3c;
-        }
-        
-        .papers-table .links a.code:hover {
-            background: #2e7d32;
-        }
-        
-        .category-badge {
-            display: inline-block;
-            background: #e3f2fd;
-            color: #1976d2;
-            padding: 4px 8px;
-            border-radius: 4px;
-            font-size: 0.8125rem;
-            font-weight: 500;
-        }
-        
-        .stats {
-            text-align: center;
-            color: #666;
-            margin-bottom: 16px;
-            font-size: 0.9375rem;
-        }
-        
-        .loading {
-            text-align: center;
-            padding: 48px 16px;
-            color: #666;
-            font-size: 1rem;
-        }
-        
-        .error {
-            text-align: center;
-            padding: 48px 16px;
-            color: #d32f2f;
-            background: white;
-            border-radius: 4px;
-            margin: 16px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-        
+        .papers-table .links a:hover { background: #1565c0; }
+
+        .load-more-wrap { padding: 16px 24px; border-top: 1px solid #e0e0e0; background: #fafafa; text-align: center; }
+        .load-more { padding: 8px 16px; }
+
         @media (max-width: 768px) {
-            header h1 {
-                font-size: 1.5rem;
-            }
-            
-            .category-nav {
-                gap: 4px;
-            }
-            
-            .category-nav button {
-                padding: 6px 12px;
-                font-size: 0.8125rem;
-            }
-            
-            .papers-table th,
-            .papers-table td {
-                padding: 8px 12px;
-                font-size: 0.875rem;
-            }
-            
-            .papers-table .title {
-                max-width: 200px;
-            }
-            
-            .papers-table .authors {
-                max-width: 150px;
-            }
+            body { padding: 8px; }
+            header { padding: 24px 8px; }
+            header h1 { font-size: 1.5rem; }
+            .category-nav { gap: 4px; }
+            .category-nav button { padding: 6px 12px; font-size: 0.8125rem; }
+            .papers-table th, .papers-table td { padding: 8px 12px; font-size: 0.875rem; }
+            .papers-table .authors { max-width: 120px; }
+            .papers-table .title { min-width: 180px; }
         }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>📚 CV Arxiv Daily</h1>
-            <p>Latest papers in Computer Vision | Maintained by <a href="https://len-li.github.io/" target="_blank">Leheng Li</a></p>
-            <p style="font-size: 0.875rem; margin-top: 8px; color: #999;">Data Source: <a href="https://github.com/Len-Li/cv-arxiv-daily" target="_blank">GitHub</a></p>
+            <h1>CV Arxiv Daily</h1>
+            <p>Latest papers in Computer Vision | Maintained by <a href="https://len-li.github.io/" target="_blank" rel="noopener noreferrer">Leheng Li</a></p>
+            <p>Data Source: <a href="https://github.com/Len-Li/cv-arxiv-daily" target="_blank" rel="noopener noreferrer">GitHub</a></p>
         </header>
-        
+
         <div class="search-box">
-            <input type="text" id="searchInput" placeholder="Search paper titles, authors, or keywords...">
-            <button onclick="searchPapers()">🔍 Search</button>
+            <input type="search" id="searchInput" placeholder="Search paper titles, authors, or keywords..." autocomplete="off">
+            <button type="button" id="searchButton">Search</button>
         </div>
-        
+
         <div class="category-nav" id="categoryNav"></div>
-        
         <div class="stats" id="stats">Loading data...</div>
-        
-        <div id="content">
-            <div class="loading">Loading paper data...</div>
-        </div>
+        <main id="content"><div class="loading">Loading paper data...</div></main>
     </div>
 
     <script>
+        const INITIAL_VISIBLE_PAPERS = 100;
         let allPapers = [];
         let currentCategory = 'all';
-        let categoryNames = {};
 
-        // Parse paper line data
-        function parsePaperLine(line) {
-            const paper = { hasCode: false };
-            
-            // Extract date
-            const dateMatch = line.match(/\*\*(\d{4}-\d{2}-\d{2})\*\*/);
-            if (dateMatch) {
-                paper.date = dateMatch[1];
-            }
-            
-            // Extract title
-            const titleMatch = line.match(/\*\*([^*]+)\*\*/g);
-            if (titleMatch && titleMatch.length >= 2) {
-                paper.title = titleMatch[1].replace(/\*\*/g, '');
-            }
-            
-            // Extract authors - Format: |**date**|**title**|authors|[ID]...
-            const parts = line.split('|');
-            if (parts.length > 3) {
-                paper.authors = parts[3].trim();
-            }
-            
-            // Extract PDF link and ID
-            const pdfMatch = line.match(/\[([^\]]+)\]\((http:\/\/arxiv\.org\/pdf\/([^\)]+)\.pdf)\)/);
-            if (pdfMatch) {
-                paper.pdfLink = pdfMatch[2];
-                paper.pdfId = pdfMatch[3];
-            }
-            
-            // Check if code exists
-            if (line.includes('http') && !line.includes('arxiv.org/pdf') && !line.includes('null')) {
-                const codeMatch = line.match(/\[([^\]]+)\]\(([^)]+)\)/g);
-                if (codeMatch && codeMatch.length > 1) {
-                    paper.hasCode = true;
+        function createElement(tagName, options = {}) {
+            const element = document.createElement(tagName);
+            if (options.className) element.className = options.className;
+            if (options.text !== undefined) element.textContent = String(options.text);
+            if (options.attributes) {
+                for (const [name, value] of Object.entries(options.attributes)) {
+                    element.setAttribute(name, value);
                 }
             }
-            
+            return element;
+        }
+
+        function createMessage(className, text) {
+            return createElement('div', { className, text });
+        }
+
+        function getSafeArxivPdfUrl(value) {
+            try {
+                const url = new URL(value);
+                if (url.protocol !== 'https:' || url.hostname !== 'arxiv.org') return null;
+                if (!/^\/pdf\/[^/]+\.pdf$/.test(url.pathname)) return null;
+                return url.href;
+            } catch (_) {
+                return null;
+            }
+        }
+
+        function stripOuterBold(value) {
+            const text = String(value || '').trim();
+            if (text.length >= 4 && text.startsWith('**') && text.endsWith('**')) {
+                return text.slice(2, -2);
+            }
+            return text;
+        }
+
+        function parsePaperLine(line) {
+            const text = String(line || '');
+            const fields = text.replace(/\n$/, '').split('\t');
+            if (fields.length < 4) {
+                return null;
+            }
+
+            const date = stripOuterBold(fields[0]);
+            const title = stripOuterBold(fields[1]);
+            const pdfMatch = fields[3].match(
+                /\[[^\]]+\]\((https?:\/\/arxiv\.org\/pdf\/[^)]+\.pdf)\)/
+            );
+            if (!/^\d{4}-\d{2}-\d{2}$/.test(date) || !title) return null;
+
+            const paper = {
+                date,
+                title,
+                authors: fields[2].trim(),
+            };
+            if (pdfMatch) {
+                paper.pdfLink = getSafeArxivPdfUrl(pdfMatch[1]);
+                if (paper.pdfLink) paper.pdfId = paper.pdfLink.split('/').pop().replace(/\.pdf$/, '');
+            }
             return paper;
         }
 
-        // Load JSON data
+        function getSortedCategoryPapers(category) {
+            return allPapers
+                .filter(paper => paper.category === category)
+                .sort((left, right) => new Date(right.date) - new Date(left.date));
+        }
+
+        function openPdf(pdfUrl) {
+            const safePdfUrl = getSafeArxivPdfUrl(pdfUrl);
+            if (safePdfUrl) window.open(safePdfUrl, '_blank', 'noopener,noreferrer');
+        }
+
+        function createPaperRow(paper) {
+            const row = document.createElement('tr');
+            if (paper.pdfLink) {
+                row.dataset.pdf = 'true';
+                row.tabIndex = 0;
+                row.addEventListener('click', () => openPdf(paper.pdfLink));
+                row.addEventListener('keydown', event => {
+                    if (event.key === 'Enter' || event.key === ' ') {
+                        event.preventDefault();
+                        openPdf(paper.pdfLink);
+                    }
+                });
+            }
+
+            row.append(createElement('td', { className: 'authors', text: paper.authors || '' }));
+            row.append(createElement('td', { className: 'date', text: paper.date || '' }));
+
+            const titleCell = createElement('td', { className: 'title' });
+            if (paper.pdfLink) {
+                const titleLink = createElement('a', {
+                    text: paper.title || '',
+                    attributes: { href: paper.pdfLink, target: '_blank', rel: 'noopener noreferrer' },
+                });
+                titleLink.addEventListener('click', event => event.stopPropagation());
+                titleCell.append(titleLink);
+            } else {
+                titleCell.textContent = paper.title || '';
+            }
+            row.append(titleCell);
+
+            const linksCell = createElement('td', { className: 'links' });
+            if (paper.pdfLink) {
+                const pdfLink = createElement('a', {
+                    text: 'PDF',
+                    attributes: { href: paper.pdfLink, target: '_blank', rel: 'noopener noreferrer' },
+                });
+                pdfLink.addEventListener('click', event => event.stopPropagation());
+                linksCell.append(pdfLink);
+            }
+            row.append(linksCell);
+            return row;
+        }
+
+        function getNextPaperBatch(papers, currentCount) {
+            const nextCount = Math.min(
+                currentCount + INITIAL_VISIBLE_PAPERS,
+                papers.length
+            );
+            return papers.slice(currentCount, nextCount);
+        }
+
+        function appendLoadMore(container, papers, currentCount) {
+            const totalCount = papers.length;
+            const controls = createElement('div', { className: 'load-more-wrap' });
+            const button = createElement('button', {
+                className: 'load-more',
+                text: `Load More (${totalCount - currentCount} remaining)`,
+                attributes: { type: 'button' },
+            });
+            button.addEventListener('click', () => {
+                const newPapers = getNextPaperBatch(papers, currentCount);
+                const nextCount = currentCount + newPapers.length;
+                const rows = document.createDocumentFragment();
+                newPapers.forEach(paper => rows.append(createPaperRow(paper)));
+                container.querySelector('tbody').append(rows);
+                controls.remove();
+                if (nextCount < totalCount) appendLoadMore(container, papers, nextCount);
+            });
+            controls.append(button);
+            container.append(controls);
+        }
+
+        function toggleCategory(header, container) {
+            const isCollapsed = container.classList.toggle('collapsed');
+            header.querySelector('.expand-icon').classList.toggle('collapsed', isCollapsed);
+            header.setAttribute('aria-expanded', String(!isCollapsed));
+        }
+
+        function displayPapers(papers) {
+            const content = document.getElementById('content');
+            content.replaceChildren();
+            if (!papers.length) {
+                content.append(createMessage('error', 'No matching papers found'));
+                return;
+            }
+
+            const grouped = new Map();
+            papers.forEach(paper => {
+                const category = paper.category || 'Uncategorized';
+                if (!grouped.has(category)) grouped.set(category, []);
+                grouped.get(category).push(paper);
+            });
+
+            for (const [category, categoryPapers] of grouped) {
+                categoryPapers.sort((left, right) => new Date(right.date) - new Date(left.date));
+                const totalCount = categoryPapers.length;
+                const visibleCount = Math.min(INITIAL_VISIBLE_PAPERS, totalCount);
+
+                const section = createElement('section', { className: 'category-section' });
+                const header = createElement('button', {
+                    className: 'category-header',
+                    attributes: { type: 'button', 'aria-expanded': 'true' },
+                });
+                const headerText = document.createElement('span');
+                headerText.append(document.createTextNode(category));
+                headerText.append(createElement('span', { className: 'category-info', text: `(${totalCount} papers)` }));
+                header.append(headerText, createElement('span', { className: 'expand-icon', text: 'v', attributes: { 'aria-hidden': 'true' } }));
+
+                const container = createElement('div', { className: 'papers-container' });
+                header.addEventListener('click', () => toggleCategory(header, container));
+
+                const table = createElement('table', { className: 'papers-table' });
+                const headRow = document.createElement('tr');
+                ['Authors', 'Date', 'Title', 'Links'].forEach(label => headRow.append(createElement('th', { text: label })));
+                const head = document.createElement('thead');
+                head.append(headRow);
+                const body = document.createElement('tbody');
+                const rows = document.createDocumentFragment();
+                categoryPapers.slice(0, visibleCount).forEach(paper => rows.append(createPaperRow(paper)));
+                body.append(rows);
+                table.append(head, body);
+                container.append(table);
+                if (visibleCount < totalCount) appendLoadMore(container, categoryPapers, visibleCount);
+                section.append(header, container);
+                content.append(section);
+            }
+        }
+
+        function filterByCategory(category, button) {
+            currentCategory = category;
+            document.querySelectorAll('.category-nav button').forEach(item => item.classList.remove('active'));
+            if (button) button.classList.add('active');
+            displayPapers(category === 'all' ? allPapers : getSortedCategoryPapers(category));
+            const stats = document.getElementById('stats');
+            stats.textContent = category === 'all'
+                ? `${allPapers.length} papers | ${new Set(allPapers.map(paper => paper.category)).size} categories`
+                : `${category} - ${getSortedCategoryPapers(category).length} papers`;
+        }
+
+        function generateCategoryNav(categories) {
+            const nav = document.getElementById('categoryNav');
+            nav.replaceChildren();
+            const addButton = (label, category) => {
+                const button = createElement('button', { text: label, attributes: { type: 'button' } });
+                if (category === 'all') button.classList.add('active');
+                button.addEventListener('click', () => filterByCategory(category, button));
+                nav.append(button);
+            };
+            addButton('All', 'all');
+            categories.forEach(category => addButton(category, category));
+        }
+
+        function searchPapers() {
+            const query = document.getElementById('searchInput').value.toLowerCase().trim();
+            if (!query) {
+                filterByCategory(currentCategory, document.querySelector('.category-nav button.active'));
+                return;
+            }
+            const papers = allPapers.filter(paper =>
+                [paper.title, paper.authors, paper.pdfId, paper.category]
+                    .some(value => value && value.toLowerCase().includes(query)));
+            displayPapers(papers);
+            document.getElementById('stats').textContent = `Found ${papers.length} papers for "${query}"`;
+        }
+
         async function loadPapers() {
-            const contentDiv = document.getElementById('content');
-            const statsDiv = document.getElementById('stats');
-            
+            const content = document.getElementById('content');
+            const stats = document.getElementById('stats');
             try {
                 const response = await fetch('cv-arxiv-daily.json');
-                if (!response.ok) {
-                    throw new Error('Unable to load JSON data');
-                }
-                
+                if (!response.ok) throw new Error('Unable to load JSON data');
                 const data = await response.json();
-                
-                // Collect all papers
+
                 allPapers = [];
-                categoryNames = {};
-                
                 for (const [category, papers] of Object.entries(data)) {
-                    // Store category name mapping
-                    categoryNames[category.toLowerCase()] = category;
-                    
-                    for (const [paperId, line] of Object.entries(papers)) {
+                    if (!papers || typeof papers !== 'object') continue;
+                    for (const line of Object.values(papers)) {
                         const paper = parsePaperLine(line);
-                        if (paper.date && paper.title) {
+                        if (paper && paper.date && paper.title) {
                             paper.category = category;
                             allPapers.push(paper);
                         }
                     }
                 }
-                
-                // Sort by date
-                allPapers.sort((a, b) => new Date(b.date) - new Date(a.date));
-                
-                // Generate category navigation
+                allPapers.sort((left, right) => new Date(right.date) - new Date(left.date));
                 generateCategoryNav(Object.keys(data));
-                
-                // Display statistics
-                statsDiv.textContent = `${allPapers.length} papers | ${Object.keys(data).length} categories`;
-                
-                // Display all papers
+                stats.textContent = `${allPapers.length} papers | ${Object.keys(data).length} categories`;
                 displayPapers(allPapers);
-                
             } catch (error) {
                 console.error('Loading failed:', error);
-                contentDiv.innerHTML = `
-                    <div class="error">
-                        <p>⚠️ Unable to load paper data</p>
-                        <p style="font-size: 0.875rem; margin-top: 8px;">
-                            Error message: ${error.message}<br>
-                            Please ensure cv-arxiv-daily.json file exists and is accessible.
-                        </p>
-                    </div>
-                `;
+                content.replaceChildren(createMessage('error', 'Unable to load paper data. Please try again later.'));
+                stats.textContent = 'Data unavailable';
             }
         }
 
-        // Generate category navigation
-        function generateCategoryNav(categories) {
-            const nav = document.getElementById('categoryNav');
-            let html = `<button class="active" onclick="filterByCategory('all', this)">All</button>`;
-            
-            categories.forEach(cat => {
-                html += `<button onclick="filterByCategory('${cat}', this)">${cat}</button>`;
+        document.addEventListener('DOMContentLoaded', () => {
+            document.getElementById('searchButton').addEventListener('click', searchPapers);
+            document.getElementById('searchInput').addEventListener('keydown', event => {
+                if (event.key === 'Enter') searchPapers();
             });
-            
-            nav.innerHTML = html;
-        }
-
-        // Filter by category
-        function filterByCategory(category, btn) {
-            currentCategory = category;
-            
-            // Update navigation status
-            document.querySelectorAll('.category-nav button').forEach(b => {
-                b.classList.remove('active');
-            });
-            btn.classList.add('active');
-            
-            let filtered = allPapers;
-            
-            if (category !== 'all') {
-                filtered = allPapers.filter(paper => paper.category === category);
-            }
-            
-            displayPapers(filtered);
-            
-            // Update statistics
-            const statsDiv = document.getElementById('stats');
-            if (category === 'all') {
-                const categoryCount = new Set(filtered.map(p => p.category)).size;
-                statsDiv.textContent = `${filtered.length} papers | ${categoryCount} categories`;
-            } else {
-                statsDiv.textContent = `${category} - ${filtered.length} papers`;
-            }
-        }
-
-        // Search papers
-        function searchPapers() {
-            const query = document.getElementById('searchInput').value.toLowerCase().trim();
-            
-            if (!query) {
-                filterByCategory(currentCategory, document.querySelector('.category-nav button.active'));
-                return;
-            }
-            
-            const filtered = allPapers.filter(paper => {
-                return (paper.title && paper.title.toLowerCase().includes(query)) ||
-                       (paper.authors && paper.authors.toLowerCase().includes(query)) ||
-                       (paper.pdfId && paper.pdfId.toLowerCase().includes(query)) ||
-                       (paper.category && paper.category.toLowerCase().includes(query));
-            });
-            
-            displayPapers(filtered);
-            
-            // Update statistics
-            const statsDiv = document.getElementById('stats');
-            statsDiv.textContent = `Found ${filtered.length} papers for "${query}"`;
-        }
-
-        // Listen for search box Enter key
-        document.getElementById('searchInput').addEventListener('keypress', function(e) {
-            if (e.key === 'Enter') {
-                searchPapers();
-            }
+            loadPapers();
         });
-
-        // Display paper list
-        function displayPapers(papers) {
-            const contentDiv = document.getElementById('content');
-            
-            if (papers.length === 0) {
-                contentDiv.innerHTML = '<div class="error">No matching papers found</div>';
-                return;
-            }
-            
-            // Group by category
-            const groupedPapers = {};
-            papers.forEach(paper => {
-                const category = paper.category || 'Uncategorized';
-                if (!groupedPapers[category]) {
-                    groupedPapers[category] = [];
-                }
-                groupedPapers[category].push(paper);
-            });
-            
-            // Sort papers within each category by date (newest first)
-            for (const category in groupedPapers) {
-                groupedPapers[category].sort((a, b) => new Date(b.date) - new Date(a.date));
-            }
-            
-            let html = '';
-            
-            for (const [category, categoryPapers] of Object.entries(groupedPapers)) {
-                const totalCount = categoryPapers.length;
-                const displayCount = Math.min(100, totalCount);
-                const hasMore = totalCount > 100;
-                const displayPapers = categoryPapers.slice(0, displayCount);
-                const currentDisplayCount = displayCount;
-                
-                const sectionId = `category-${category.replace(/\s+/g, '-')}`;
-                const expandId = `expand-${category.replace(/\s+/g, '-')}`;
-                const dataCategory = category;
-                
-                html += `
-                    <div class="category-section">
-                        <div class="category-header" onclick="toggleCategory('${expandId}', '${sectionId}')">
-                            <div>
-                                📂 ${category}
-                                <span class="category-info">(${totalCount} papers)</span>
-                            </div>
-                            <span class="expand-icon" id="${expandId}">▼</span>
-                        </div>
-                        <div class="papers-container" id="${sectionId}">
-                            <table class="papers-table">
-                                <thead>
-                                    <tr>
-                                        <th>Authors</th>
-                                        <th>Date</th>
-                                        <th>Title</th>
-                                        <th>Links</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    ${displayPapers.map(paper => `
-                                        <tr onclick="openPdf('${paper.pdfId}')">
-                                            <td class="authors">${paper.authors || ''}</td>
-                                            <td style="white-space: nowrap; color: #999; font-size: 0.875rem; font-weight: 700; width: 120px;">${paper.date || ''}</td>
-                                            <td class="title"><a href="http://arxiv.org/pdf/${paper.pdfId}.pdf" target="_blank" onclick="event.stopPropagation()">${paper.title || ''}</a></td>
-                                            <td class="links">
-                                                <a href="http://arxiv.org/pdf/${paper.pdfId}.pdf" target="_blank" onclick="event.stopPropagation()">PDF</a>
-                                                ${paper.hasCode ? '<a href="#" class="code" target="_blank" onclick="event.stopPropagation()">Code</a>' : ''}
-                                            </td>
-                                        </tr>
-                                    `).join('')}
-                                </tbody>
-                            </table>
-                            ${hasMore ? `
-                                <div style="padding: 16px 24px; text-align: center; background: #fafafa; border-top: 1px solid #e0e0e0;">
-                                    <button onclick="expandMorePapers('${sectionId}', '${expandId}', '${dataCategory}', ${currentDisplayCount}, ${totalCount})" style="padding: 8px 16px; background: #1976d2; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: 500;">
-                                        Load More (${totalCount - currentDisplayCount} remaining)
-                                    </button>
-                                </div>
-                            ` : ''}
-                        </div>
-                    </div>
-                `;
-            }
-            
-            contentDiv.innerHTML = html;
-        }
-        
-        // Toggle category expand/collapse
-        function toggleCategory(expandId, sectionId) {
-            const expandIcon = document.getElementById(expandId);
-            const container = document.getElementById(sectionId);
-            
-            expandIcon.classList.toggle('collapsed');
-            container.classList.toggle('collapsed');
-        }
-        
-        // Open PDF
-        function openPdf(pdfId) {
-            if (pdfId) {
-                window.open(`http://arxiv.org/pdf/${pdfId}.pdf`, '_blank');
-            }
-        }
-        
-        // Expand more papers (100 at a time)
-        function expandMorePapers(sectionId, expandId, categoryName, currentCount, totalCount) {
-            const container = document.getElementById(sectionId);
-            
-            // Find all papers for this category in allPapers
-            const allCategoryPapers = allPapers.filter(p => p.category === categoryName);
-            allCategoryPapers.sort((a, b) => new Date(b.date) - new Date(a.date));
-            
-            // Calculate new display count
-            const newDisplayCount = Math.min(currentCount + 100, totalCount);
-            const newPapers = allCategoryPapers.slice(currentCount, newDisplayCount);
-            
-            // Generate HTML for new papers
-            const newRows = newPapers.map(paper => `
-                <tr onclick="openPdf('${paper.pdfId}')">
-                    <td class="authors">${paper.authors || ''}</td>
-                    <td style="white-space: nowrap; color: #999; font-size: 0.875rem; font-weight: 700; width: 120px;">${paper.date || ''}</td>
-                    <td class="title"><a href="http://arxiv.org/pdf/${paper.pdfId}.pdf" target="_blank" onclick="event.stopPropagation()">${paper.title || ''}</a></td>
-                    <td class="links">
-                        <a href="http://arxiv.org/pdf/${paper.pdfId}.pdf" target="_blank" onclick="event.stopPropagation()">PDF</a>
-                        ${paper.hasCode ? '<a href="#" class="code" target="_blank" onclick="event.stopPropagation()">Code</a>' : ''}
-                    </td>
-                </tr>
-            `).join('');
-            
-            // Add to table
-            const table = container.querySelector('.papers-table');
-            const tbody = table.querySelector('tbody');
-            tbody.insertAdjacentHTML('beforeend', newRows);
-            
-            // Update or remove expand button
-            const expandButton = container.querySelector('button');
-            if (expandButton) {
-                if (newDisplayCount >= totalCount) {
-                    // All papers displayed, remove button
-                    expandButton.parentElement.remove();
-                } else {
-                    // Update button text and parameters
-                    expandButton.textContent = `Load More (${totalCount - newDisplayCount} remaining)`;
-                    expandButton.setAttribute('onclick', `expandMorePapers('${sectionId}', '${expandId}', '${categoryName}', ${newDisplayCount}, ${totalCount})`);
-                }
-            }
-        }
-
-        // Load data when page loads
-        document.addEventListener('DOMContentLoaded', loadPapers);
     </script>
 </body>
 </html>
