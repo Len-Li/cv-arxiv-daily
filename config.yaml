@@ -20,7 +20,10 @@ keywords:
     "Industry":
         filters: ["NVIDIA", "Waymo", "DJI", "Waabi", "Raquel Urtasun", "Sanja Fidler"]
     "Autonomous Driving":
-        filters: ["Autonomous Driving", "Self-driving", "Shenlong Wang", "Marco Pavone", "Andreas Geiger", "Hongyang Li", "Yikang Li", "Wei-Chiu Ma", "Hang Zhao", "Li Auto"]
+        filters: ["Autonomous Driving", "Self-driving", "Marco Pavone", "Andreas Geiger", "Hongyang Li", "Hang Zhao", "Li Auto"]
+        categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
+    "Autonomous Driving Simulation":
+        filters: ["Autonomous Driving Simulation", "Driving Simulation", "Autonomous Vehicle Simulation", "Closed-Loop Simulation", "Closed Loop Simulation", "Closed-Loop Driving", "Long-Tail Data Generation", "Long Tail Data Generation", "Long-Tail Scenario Generation", "Corner Case Generation", "Rare Event Generation", "CARLA", "NVIDIA DRIVE Sim"]
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
     "Traffic Simulation":
         filters: ["Traffic Simulation", "Motion Prediction", "Motion Planning", "Trajectory Prediction"]
